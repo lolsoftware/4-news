@@ -1,0 +1,59 @@
+{
+  "sources": [
+    {
+      "id": "tvn24",
+      "name": "TVN24",
+      "url": "https://tvn24.pl/najnowsze.xml",
+      "enabled": true,
+      "category": "general"
+    },
+    {
+      "id": "onet",
+      "name": "Onet",
+      "url": "https://wiadomosci.onet.pl/.feed",
+      "enabled": true,
+      "category": "general"
+    },
+    {
+      "id": "wp",
+      "name": "WP",
+      "url": "https://wiadomosci.wp.pl/rss.xml",
+      "enabled": true,
+      "category": "general"
+    },
+    {
+      "id": "rmf24",
+      "name": "RMF24",
+      "url": "https://www.rmf24.pl/feed",
+      "enabled": true,
+      "category": "general"
+    },
+    {
+      "id": "polsatnews",
+      "name": "Polsat News",
+      "url": "https://www.polsatnews.pl/rss/wszystkie.xml",
+      "enabled": false,
+      "category": "general"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "enabled": false,
+      "category": "general"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "enabled": false,
+      "category": "tech"
+    }
+  ],
+  "settings": {
+    "maxArticlesPerSource": 15,
+    "maxArticleAgeDays": 7,
+    "maxTotalArticles": 100,
+    "imageMaxWidthPx": 800
+  }
+}
