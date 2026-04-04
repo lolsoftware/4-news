@@ -5,14 +5,28 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 /**
- * Load existing articles index from output directory.
+ * Load existing articles from output directory.
+ * Reads the index and enriches each article with full content from its detail file.
  */
 export function loadExistingArticles(outputDir) {
   const indexPath = join(outputDir, 'api', 'articles.json');
   if (!existsSync(indexPath)) return [];
   try {
     const data = JSON.parse(readFileSync(indexPath, 'utf-8'));
-    return data.articles || [];
+    const articles = data.articles || [];
+
+    // Enrich with full content from individual article files
+    for (const article of articles) {
+      const detailPath = join(outputDir, 'api', 'articles', `${article.id}.json`);
+      if (existsSync(detailPath)) {
+        try {
+          const detail = JSON.parse(readFileSync(detailPath, 'utf-8'));
+          article.content = detail.content;
+        } catch { /* keep article without content */ }
+      }
+    }
+
+    return articles;
   } catch {
     return [];
   }

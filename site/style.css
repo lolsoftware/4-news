@@ -220,6 +220,13 @@ body {
   font-size: 14px;
 }
 
+/* AI badge */
+.ai-badge {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.85em;
+}
+
 /* Loading & empty */
 #loading, .empty-state {
   text-align: center;

@@ -3,6 +3,7 @@ const CACHE_KEY = 'news-articles';
 
 let articlesData = null;
 let currentFilter = 'all';
+let savedScrollY = 0;
 
 // --- Routing ---
 
@@ -68,7 +69,16 @@ async function fetchArticleDetail(id) {
 
 function renderFilters(articles) {
   const filtersEl = document.getElementById('filters');
-  const categories = ['all', ...new Set(articles.map(a => a.category).filter(Boolean))];
+  const uniqueCategories = [...new Set(articles.map(a => a.category).filter(Boolean))];
+
+  // Hide filters if only one category (e.g. all "general")
+  if (uniqueCategories.length <= 1) {
+    filtersEl.innerHTML = '';
+    currentFilter = 'all';
+    return;
+  }
+
+  const categories = ['all', ...uniqueCategories];
 
   filtersEl.innerHTML = categories.map(cat =>
     `<button class="pill${cat === currentFilter ? ' active' : ''}" data-cat="${cat}">${cat === 'all' ? 'All' : cat.charAt(0).toUpperCase() + cat.slice(1)}</button>`
@@ -102,16 +112,19 @@ function renderList(data) {
     ? `<div class="updated-time">Updated ${timeAgo(data.lastUpdated)}</div>`
     : '';
 
-  content.innerHTML = updatedHtml + articles.map(a => `
+  content.innerHTML = updatedHtml + articles.map(a => {
+    const aiChanged = a.title !== a.originalTitle;
+    const titlePrefix = aiChanged ? '<span class="ai-badge">(#)</span> ' : '';
+    return `
     <a class="article-card" href="#/article/${a.id}">
       <div class="article-card-body">
         <div class="article-card-source">${escapeHtml(a.source)}</div>
-        <div class="article-card-title">${escapeHtml(a.title)}</div>
+        <div class="article-card-title">${titlePrefix}${escapeHtml(a.title)}</div>
         <div class="article-card-meta">${timeAgo(a.publishedAt)} &middot; ${a.readingTimeMin} min read</div>
       </div>
       ${a.image ? `<img class="article-card-thumb" src="${a.image}" alt="" loading="lazy">` : ''}
     </a>
-  `).join('');
+  `;}).join('');
 }
 
 async function renderArticle(id) {
@@ -119,6 +132,9 @@ async function renderArticle(id) {
   const headerTitle = document.getElementById('header-title');
   const filtersEl = document.getElementById('filters');
   filtersEl.innerHTML = '';
+
+  // Save scroll position before navigating away from list
+  savedScrollY = window.scrollY;
 
   content.innerHTML = '<div id="loading">Loading article...</div>';
 
@@ -131,15 +147,16 @@ async function renderArticle(id) {
   headerTitle.textContent = article.source || 'Article';
 
   const titleChanged = article.title !== article.originalTitle;
+  const aiPrefix = titleChanged ? '<span class="ai-badge">(#)</span> ' : '';
   const originalTitleHtml = titleChanged
-    ? `<div class="original-title">Original: ${escapeHtml(article.originalTitle)}</div>`
+    ? `<div class="original-title">Oryginalny tytu\u0142: ${escapeHtml(article.originalTitle)}</div>`
     : '';
 
   content.innerHTML = `
     <div class="article-detail">
       <a class="back-btn" href="#/">&larr; Back</a>
       ${article.image ? `<img class="article-detail-image" src="${article.image}" alt="">` : ''}
-      <h1 class="article-detail-title">${escapeHtml(article.title)}</h1>
+      <h1 class="article-detail-title">${aiPrefix}${escapeHtml(article.title)}</h1>
       ${originalTitleHtml}
       <div class="article-detail-meta">
         ${escapeHtml(article.source)} &middot; ${timeAgo(article.publishedAt)} &middot; ${article.readingTimeMin} min read
@@ -172,6 +189,8 @@ function handleRoute() {
     renderArticle(route.id);
   } else {
     renderList(articlesData || { articles: [] });
+    // Restore scroll position when returning to list
+    requestAnimationFrame(() => window.scrollTo(0, savedScrollY));
   }
 }
 
