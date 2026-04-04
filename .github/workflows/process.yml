@@ -1,8 +1,6 @@
 name: Process News
 
 on:
-  push:
-    branches: [master]
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
