@@ -32,7 +32,12 @@ async function main() {
   const existing = loadExistingArticles(outputDir);
   const existingGuids = new Set(existing.map(a => a.guid).filter(Boolean));
   const existingUrls = new Set(existing.map(a => a.url));
-  const newItems = items.filter(item => !existingGuids.has(item.guid) && !existingUrls.has(item.articleUrl));
+  const ageCutoff = Date.now() - settings.maxArticleAgeDays * 24 * 60 * 60 * 1000;
+  const newItems = items.filter(item => {
+    if (existingGuids.has(item.guid) || existingUrls.has(item.articleUrl)) return false;
+    if (new Date(item.pubDate).getTime() < ageCutoff) return false;
+    return true;
+  });
   console.log(`${newItems.length} new articles (${items.length - newItems.length} already processed)`);
   console.log(`Existing guids: ${existingGuids.size}, existing urls: ${existingUrls.size}`);
   for (const item of newItems.slice(0, 5)) {
