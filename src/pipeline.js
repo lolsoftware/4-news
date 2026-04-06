@@ -39,10 +39,6 @@ async function main() {
     return true;
   });
   console.log(`${newItems.length} new articles (${items.length - newItems.length} already processed)`);
-  console.log(`Existing guids: ${existingGuids.size}, existing urls: ${existingUrls.size}`);
-  for (const item of newItems.slice(0, 5)) {
-    console.log(`  NEW: guid="${item.guid}" url="${item.articleUrl}" title="${item.originalTitle.slice(0, 50)}"`);
-  }
 
   // Retry articles that failed AI processing
   const errorArticles = existing.filter(a => a.titleStatus === 'error');
