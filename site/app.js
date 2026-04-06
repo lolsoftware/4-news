@@ -81,7 +81,7 @@ function renderFilters(articles) {
   const categories = ['all', ...uniqueCategories];
 
   filtersEl.innerHTML = categories.map(cat =>
-    `<button class="pill${cat === currentFilter ? ' active' : ''}" data-cat="${cat}">${cat === 'all' ? 'All' : cat.charAt(0).toUpperCase() + cat.slice(1)}</button>`
+    `<button class="pill${cat === currentFilter ? ' active' : ''}" data-cat="${cat}">${cat === 'all' ? 'Wszystko' : cat}</button>`
   ).join('');
 
   filtersEl.querySelectorAll('.pill').forEach(btn => {
@@ -96,6 +96,7 @@ function renderList(data) {
   const content = document.getElementById('content');
   const headerTitle = document.getElementById('header-title');
   headerTitle.textContent = 'News';
+  document.getElementById('app').classList.remove('article-view');
 
   const articles = currentFilter === 'all'
     ? data.articles
@@ -136,6 +137,7 @@ async function renderArticle(id) {
   // Save scroll position before navigating away from list
   savedScrollY = window.scrollY;
 
+  document.getElementById('app').classList.add('article-view');
   content.innerHTML = '<div id="loading">Loading article...</div>';
 
   const article = await fetchArticleDetail(id);

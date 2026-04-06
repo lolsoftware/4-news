@@ -2,6 +2,8 @@ import Anthropic from '@anthropic-ai/sdk';
 
 const client = new Anthropic();
 
+const VALID_CATEGORIES = ['Polska', 'Świat', 'Polityka', 'Gospodarka', 'Sport', 'Tech', 'Nauka', 'Kultura', 'Zdrowie'];
+
 /**
  * Rewrite clickbait titles using Claude Haiku in a single batch call.
  * Falls back to original titles if API fails.
@@ -21,17 +23,18 @@ export async function rewriteTitles(articles) {
     `${i + 1}. Title: "${a.originalTitle}"\n   Excerpt: "${a.excerpt?.slice(0, 200) || ''}"`
   ).join('\n\n');
 
-  const prompt = `You rewrite clickbait news headlines into honest, informative summaries.
+  const prompt = `You rewrite clickbait news headlines into honest, informative summaries and assign a category to each article.
 
 Rules:
 - State what actually happened, not what might happen
 - Remove emotional manipulation ("shocking", "you won't believe", etc.)
 - Keep it under 120 characters
 - If the original title is already honest and clear, return it unchanged
-- Use the same language as the original title
+- Always write the title in Polish, regardless of the original language
 - Use sentence case
+- Assign exactly one category from: Polska, Świat, Polityka, Gospodarka, Sport, Tech, Nauka, Kultura, Zdrowie
 
-For each article below, return ONLY a valid JSON array of rewritten titles in the same order. No other text.
+For each article below, return ONLY a valid JSON array of objects with "title" and "category" fields, in the same order. No other text.
 
 Articles:
 ${articlesForPrompt}`;
@@ -48,14 +51,15 @@ ${articlesForPrompt}`;
     const jsonMatch = text.match(/\[[\s\S]*\]/);
     if (!jsonMatch) throw new Error('No JSON array in response');
 
-    const titles = JSON.parse(jsonMatch[0]);
-    if (!Array.isArray(titles) || titles.length !== articles.length) {
-      throw new Error(`Expected ${articles.length} titles, got ${titles.length}`);
+    const results = JSON.parse(jsonMatch[0]);
+    if (!Array.isArray(results) || results.length !== articles.length) {
+      throw new Error(`Expected ${articles.length} results, got ${results.length}`);
     }
 
     return articles.map((article, i) => ({
       ...article,
-      title: titles[i] || article.originalTitle,
+      title: results[i]?.title || article.originalTitle,
+      category: VALID_CATEGORIES.includes(results[i]?.category) ? results[i].category : article.category,
     }));
   } catch (err) {
     console.warn(`Title rewriting failed: ${err.message}. Using original titles.`);

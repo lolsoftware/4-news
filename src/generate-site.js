@@ -92,6 +92,7 @@ export function generateSite(articles, outputDir, settings, siteUrl) {
       title: article.title,
       originalTitle: article.originalTitle,
       source: article.source,
+      category: article.category,
       url: article.url,
       publishedAt: article.publishedAt,
       content: article.content,
