@@ -58,23 +58,16 @@ async function main() {
   articles = rewritten.slice(0, articles.length);
   const retriedArticles = rewritten.slice(articles.length);
 
-  // Update retried articles in existing list
-  if (retriedArticles.length > 0) {
-    const retriedById = new Map(retriedArticles.map(a => [a.id, a]));
-    for (let i = 0; i < existing.length; i++) {
-      if (retriedById.has(existing[i].id)) {
-        existing[i] = retriedById.get(existing[i].id);
-      }
-    }
-  }
-
   // Step 5: Process images
   console.log('\n=== Step 5: Processing images ===');
   articles = await processImages(articles, outputDir, settings.imageMaxWidthPx);
 
+  // Combine new articles with retried ones for site generation
+  const articlesToWrite = [...articles, ...retriedArticles];
+
   // Step 6: Generate static site
   console.log('\n=== Step 6: Generating site ===');
-  const allArticles = generateSite(articles, outputDir, settings, siteUrl);
+  const allArticles = generateSite(articlesToWrite, outputDir, settings, siteUrl);
 
   // Step 7: Generate RSS feed
   console.log('\n=== Step 7: Generating RSS feed ===');
