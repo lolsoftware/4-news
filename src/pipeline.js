@@ -30,8 +30,9 @@ async function main() {
   // Step 2: Filter out already-processed articles
   console.log('\n=== Step 2: Checking existing articles ===');
   const existing = loadExistingArticles(outputDir);
+  const existingGuids = new Set(existing.map(a => a.guid).filter(Boolean));
   const existingUrls = new Set(existing.map(a => a.url));
-  const newItems = items.filter(item => !existingUrls.has(item.articleUrl));
+  const newItems = items.filter(item => !existingGuids.has(item.guid) && !existingUrls.has(item.articleUrl));
   console.log(`${newItems.length} new articles (${items.length - newItems.length} already processed)`);
 
   // Retry articles that failed AI processing

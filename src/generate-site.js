@@ -75,6 +75,7 @@ export function generateSite(articles, outputDir, settings, siteUrl) {
       sourceId: a.sourceId,
       category: a.category,
       url: a.url,
+      guid: a.guid,
       publishedAt: a.publishedAt,
       excerpt: a.excerpt,
       image: a.image,

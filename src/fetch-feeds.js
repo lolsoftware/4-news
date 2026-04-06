@@ -41,7 +41,7 @@ export async function fetchFeeds() {
   const enabledSources = config.sources.filter(s => s.enabled);
 
   const allItems = [];
-  const seenUrls = new Set();
+  const seenGuids = new Set();
 
   for (const source of enabledSources) {
     console.log(`Fetching: ${source.name} (${source.url})`);
@@ -53,9 +53,11 @@ export async function fetchFeeds() {
         const rawUrl = item.link || item.guid;
         if (!rawUrl) continue;
 
+        const guid = item.guid || rawUrl;
+        if (seenGuids.has(guid)) continue;
+        seenGuids.add(guid);
+
         const resolvedUrl = await resolveUrl(rawUrl);
-        if (seenUrls.has(resolvedUrl)) continue;
-        seenUrls.add(resolvedUrl);
 
         allItems.push({
           sourceId: source.id,
@@ -64,7 +66,7 @@ export async function fetchFeeds() {
           originalTitle: item.title || 'Untitled',
           pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
           articleUrl: resolvedUrl,
-          guid: item.guid || resolvedUrl,
+          guid,
           description: item.contentSnippet || item.content || '',
         });
       }
