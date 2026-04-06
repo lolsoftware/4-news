@@ -53,7 +53,7 @@ export async function fetchFeeds() {
         const rawUrl = item.link || item.guid;
         if (!rawUrl) continue;
 
-        const guid = item.guid || rawUrl;
+        const guid = rawUrl;
         if (seenGuids.has(guid)) continue;
         seenGuids.add(guid);
 
