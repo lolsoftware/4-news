@@ -5,119 +5,119 @@
       "name": "TVN24",
       "url": "https://tvn24.pl/najnowsze.xml",
       "enabled": true,
-      "category": "general"
+      "category": "Polska"
     },
     {
       "id": "rmf24",
       "name": "RMF24",
       "url": "https://www.rmf24.pl/feed",
       "enabled": true,
-      "category": "general"
+      "category": "Polska"
     },
    {
       "id": "bbc",
       "name": "BBC",
       "url": "http://feeds.bbci.co.uk/news/rss.xml",
       "enabled": true,
-      "category": "world"
+      "category": "Świat"
     },
     {
       "id": "techcrunch",
       "name": "TechCrunch",
       "url": "https://techcrunch.com/feed/",
       "enabled": true,
-      "category": "it"
+      "category": "Tech"
     },
 {
       "id": "niebezpiecznik",
       "name": "Niebezpiecznik",
       "url": "https://niebezpiecznik.pl/feed/",
       "enabled": true,
-      "category": "it"
+      "category": "Tech"
     },
     {
       "id": "hackernews",
       "name": "Hacker News",
       "url": "https://news.ycombinator.com/rss",
       "enabled": true,
-      "category": "it"
+      "category": "Tech"
     },
     {
       "id": "arstechnica",
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "enabled": true,
-      "category": "it"
+      "category": "Tech"
     },
     {
       "id": "kopalniawiedzy",
       "name": "KopalniaWiedzy.pl",
       "url": "https://kopalniawiedzy.pl/wiadomosci.rss",
       "enabled": true,
-      "category": "science"
+      "category": "Nauka"
     },
     {
       "id": "sciencedaily",
       "name": "ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/top/science_news.xml",
       "enabled": false,
-      "category": "science"
+      "category": "Nauka"
     },
     {
       "id": "rynekzdrowia",
       "name": "Rynek Zdrowia",
       "url": "https://www.rynekzdrowia.pl/rss/wiadomosci.xml",
       "enabled": true,
-      "category": "health"
+      "category": "Zdrowie"
     },
     {
       "id": "mp_pl",
       "name": "Medycyna Praktyczna",
       "url": "https://www.mp.pl/rss/",
       "enabled": true,
-      "category": "health"
+      "category": "Zdrowie"
     },
 	{
       "id": "bankier",
       "name": "Bankier.pl",
       "url": "https://www.bankier.pl/rss/wiadomosci.xml",
       "enabled": true,
-      "category": "business"
+      "category": "Gospodarka"
     },
     {
       "id": "antyweb",
       "name": "Antyweb",
       "url": "https://antyweb.pl/feed",
       "enabled": true,
-      "category": "it"
+      "category": "Tech"
     },
     {
       "id": "zwierciadlo",
       "name": "Zwierciadło",
       "url": "https://zwierciadlo.pl/feed",
       "enabled": true,
-      "category": "lifestyle"
+      "category": "Lifestyle"
     },
 	{
       "id": "deepmind",
       "name": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
       "enabled": true,
-      "category": "it"
+      "category": "Tech"
     },
     {
       "id": "sciencedaily",
       "name": "ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/top.xml",
       "enabled": true,
-      "category": "science"
+      "category": "Nauka"
     },
     {
       "id": "nasa_breaking",
       "name": "NASA Breaking News",
       "url": "https://www.nasa.gov/rss/breaking_news.rss",
       "enabled": true,
-      "category": "science"
+      "category": "Nauka"
     }
   ],
   "settings": {

@@ -2,7 +2,7 @@ import Anthropic from '@anthropic-ai/sdk';
 
 const client = new Anthropic();
 
-const VALID_CATEGORIES = ['Polska', 'Świat', 'Polityka', 'Gospodarka', 'Sport', 'Tech', 'Nauka', 'Kultura', 'Zdrowie'];
+const VALID_CATEGORIES = ['Polska', 'Świat', 'Polityka', 'Gospodarka', 'Sport', 'Tech', 'Nauka', 'Kultura', 'Zdrowie', 'Lifestyle'];
 
 /**
  * Rewrite clickbait titles using Claude Haiku in a single batch call.
@@ -32,7 +32,7 @@ Rules:
 - If the original title is already honest and clear, return it unchanged
 - Always write the title in Polish, regardless of the original language
 - Use sentence case
-- Assign exactly one category from: Polska, Świat, Polityka, Gospodarka, Sport, Tech, Nauka, Kultura, Zdrowie
+- Assign exactly one category from: Polska, Świat, Polityka, Gospodarka, Sport, Tech, Nauka, Kultura, Zdrowie, Lifestyle
 
 For each article below, return ONLY a valid JSON array of objects with "title" and "category" fields, in the same order. No other text.
 
