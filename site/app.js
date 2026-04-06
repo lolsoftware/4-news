@@ -114,8 +114,9 @@ function renderList(data) {
     : '';
 
   content.innerHTML = updatedHtml + articles.map(a => {
-    const aiChanged = a.title !== a.originalTitle;
-    const titlePrefix = aiChanged ? '<span class="ai-badge">(#)</span> ' : '';
+    const titlePrefix = a.titleStatus === 'rewritten' ? '<span class="ai-badge">(#)</span> '
+      : a.titleStatus === 'ok' ? '<span class="ai-badge">(o)</span> '
+      : a.titleStatus === 'error' ? '<span class="ai-badge">(e)</span> ' : '';
     return `
     <a class="article-card" href="#/article/${a.id}">
       <div class="article-card-body">
@@ -148,8 +149,10 @@ async function renderArticle(id) {
 
   headerTitle.textContent = article.source || 'Article';
 
-  const titleChanged = article.title !== article.originalTitle;
-  const aiPrefix = titleChanged ? '<span class="ai-badge">(#)</span> ' : '';
+  const aiPrefix = article.titleStatus === 'rewritten' ? '<span class="ai-badge">(#)</span> '
+    : article.titleStatus === 'ok' ? '<span class="ai-badge">(o)</span> '
+    : article.titleStatus === 'error' ? '<span class="ai-badge">(e)</span> ' : '';
+  const titleChanged = article.titleStatus === 'rewritten';
   const originalTitleHtml = titleChanged
     ? `<div class="original-title">Oryginalny tytu\u0142: ${escapeHtml(article.originalTitle)}</div>`
     : '';

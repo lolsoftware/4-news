@@ -14,7 +14,7 @@ export async function rewriteTitles(articles) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) {
     console.log('No ANTHROPIC_API_KEY set, keeping original titles');
-    return articles;
+    return articles.map(article => ({ ...article, titleStatus: 'error' }));
   }
 
   console.log(`Rewriting ${articles.length} titles with Claude...`);
@@ -56,13 +56,17 @@ ${articlesForPrompt}`;
       throw new Error(`Expected ${articles.length} results, got ${results.length}`);
     }
 
-    return articles.map((article, i) => ({
-      ...article,
-      title: results[i]?.title || article.originalTitle,
-      category: VALID_CATEGORIES.includes(results[i]?.category) ? results[i].category : article.category,
-    }));
+    return articles.map((article, i) => {
+      const newTitle = results[i]?.title || article.originalTitle;
+      return {
+        ...article,
+        title: newTitle,
+        titleStatus: newTitle !== article.originalTitle ? 'rewritten' : 'ok',
+        category: VALID_CATEGORIES.includes(results[i]?.category) ? results[i].category : article.category,
+      };
+    });
   } catch (err) {
     console.warn(`Title rewriting failed: ${err.message}. Using original titles.`);
-    return articles;
+    return articles.map(article => ({ ...article, titleStatus: 'error' }));
   }
 }

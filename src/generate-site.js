@@ -79,6 +79,7 @@ export function generateSite(articles, outputDir, settings, siteUrl) {
       excerpt: a.excerpt,
       image: a.image,
       readingTimeMin: a.readingTimeMin,
+      titleStatus: a.titleStatus,
       extractionFailed: a.extractionFailed,
     })),
   };
@@ -98,6 +99,7 @@ export function generateSite(articles, outputDir, settings, siteUrl) {
       content: article.content,
       image: article.image,
       readingTimeMin: article.readingTimeMin,
+      titleStatus: article.titleStatus,
     }, null, 2));
   }
 
