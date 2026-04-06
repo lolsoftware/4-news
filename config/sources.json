@@ -66,16 +66,16 @@
     {
       "id": "rynekzdrowia",
       "name": "Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/rss/wiadomosci.xml",
+      "url": "https://www.rynekzdrowia.pl/Kanal/all.xml",
       "enabled": true,
       "category": "Zdrowie"
     },
     {
-      "id": "mp_pl",
-      "name": "Medycyna Praktyczna",
-      "url": "https://www.mp.pl/rss/",
+      "id": "dzienniknaukowy",
+      "name": "Dziennik Naukowy",
+      "url": "https://dzienniknaukowy.pl/feed",
       "enabled": true,
-      "category": "Zdrowie"
+      "category": "Nauka"
     },
 	{
       "id": "bankier",
@@ -92,11 +92,11 @@
       "category": "Tech"
     },
     {
-      "id": "zwierciadlo",
-      "name": "Zwierciadło",
-      "url": "https://zwierciadlo.pl/feed",
+      "id": "przekroj",
+      "name": "Przekrój",
+      "url": "https://przekroj.org/feed/",
       "enabled": true,
-      "category": "Lifestyle"
+      "category": "Kultura"
     },
 	{
       "id": "deepmind",
