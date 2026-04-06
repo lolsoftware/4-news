@@ -6,6 +6,18 @@ const VALID_CATEGORIES = ['Polska', 'Świat', 'Polityka', 'Gospodarka', 'Sport',
 
 const BATCH_SIZE = 30;
 
+function tryParseResults(text) {
+  try {
+    const jsonMatch = text.match(/\[[\s\S]*\]/);
+    if (!jsonMatch) return null;
+    const parsed = JSON.parse(jsonMatch[0]);
+    if (!Array.isArray(parsed)) return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
 /**
  * Rewrite a batch of articles with Claude Haiku.
  */
@@ -30,18 +42,35 @@ For each article below, return ONLY a valid JSON array of objects with "title" a
 Articles:
 ${articlesForPrompt}`;
 
+  const messages = [{ role: 'user', content: prompt }];
+
   const response = await client.messages.create({
     model: 'claude-haiku-4-5',
     max_tokens: 8192,
-    messages: [{ role: 'user', content: prompt }],
+    messages,
   });
 
-  const text = response.content[0]?.text || '';
-  const jsonMatch = text.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) throw new Error('No JSON array in response');
+  let text = response.content[0]?.text || '';
+  let results = tryParseResults(text);
 
-  const results = JSON.parse(jsonMatch[0]);
-  if (!Array.isArray(results) || results.length !== batch.length) {
+  // If JSON is invalid, ask Haiku to fix it
+  if (!results) {
+    console.log('    Invalid JSON, requesting fix...');
+    messages.push({ role: 'assistant', content: text });
+    messages.push({ role: 'user', content: 'Your response contains invalid JSON. Please return ONLY a valid JSON array of objects with "title" and "category" fields. No other text.' });
+
+    const retry = await client.messages.create({
+      model: 'claude-haiku-4-5',
+      max_tokens: 8192,
+      messages,
+    });
+
+    text = retry.content[0]?.text || '';
+    results = tryParseResults(text);
+    if (!results) throw new Error('Invalid JSON after retry');
+  }
+
+  if (results.length !== batch.length) {
     throw new Error(`Expected ${batch.length} results, got ${results.length}`);
   }
 
