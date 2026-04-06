@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npm view:*)",
+      "WebFetch(domain:news.google.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(rm -rf output)",
+      "Bash(node src/pipeline.js)",
+      "Bash(npx serve:*)",
+      "Bash(curl -s http://localhost:3000/api/articles.json)",
+      "Bash(curl -s http://localhost:3001/api/articles.json)",
+      "Bash(curl -s http://localhost:3001/api/articles/81ee0be2282f.json)",
+      "Bash(curl -s http://localhost:3001/feed.xml)",
+      "Bash(kill %1)",
+      "Bash(gh auth:*)",
+      "Bash(where gh:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh repo:*)",
+      "Bash(gh secret:*)",
+      "Bash(gh workflow:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run:*)",
+      "Bash(curl -s \"https://lolsoftware.github.io/4-news/api/articles/080dc63adef3.json\")",
+      "Bash(curl -s \"https://lolsoftware.github.io/4-news/api/articles.json\")",
+      "Bash(curl -s \"https://lolsoftware.github.io/4-news/api/articles/0d98bc5d9241.json\")",
+      "Bash(curl -sI \"https://lolsoftware.github.io/4-news/api/articles/080dc63adef3.json\")",
+      "Bash(curl -s \"https://lolsoftware.github.io/4-news/api/articles/bb6955726718.json\")",
+      "Bash(curl -sI \"https://lolsoftware.github.io/4-news/api/articles/bb6955726718.json\")",
+      "Bash(curl -sI \"https://lolsoftware.github.io/4-news/\")",
+      "Bash(git:*)"
+    ]
+  }
+}

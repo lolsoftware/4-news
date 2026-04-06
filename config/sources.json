@@ -8,52 +8,122 @@
       "category": "general"
     },
     {
-      "id": "onet",
-      "name": "Onet",
-      "url": "https://wiadomosci.onet.pl/.feed",
-      "enabled": true,
-      "category": "general"
-    },
-    {
-      "id": "wp",
-      "name": "WP",
-      "url": "https://wiadomosci.wp.pl/rss.xml",
-      "enabled": true,
-      "category": "general"
-    },
-    {
       "id": "rmf24",
       "name": "RMF24",
       "url": "https://www.rmf24.pl/feed",
       "enabled": true,
       "category": "general"
     },
-    {
-      "id": "polsatnews",
-      "name": "Polsat News",
-      "url": "https://www.polsatnews.pl/rss/wszystkie.xml",
-      "enabled": false,
-      "category": "general"
-    },
-    {
+   {
       "id": "bbc",
       "name": "BBC",
       "url": "http://feeds.bbci.co.uk/news/rss.xml",
-      "enabled": false,
-      "category": "general"
+      "enabled": true,
+      "category": "world"
     },
     {
       "id": "techcrunch",
       "name": "TechCrunch",
       "url": "https://techcrunch.com/feed/",
+      "enabled": true,
+      "category": "it"
+    },
+{
+      "id": "niebezpiecznik",
+      "name": "Niebezpiecznik",
+      "url": "https://niebezpiecznik.pl/feed/",
+      "enabled": true,
+      "category": "it"
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss",
+      "enabled": true,
+      "category": "it"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "enabled": true,
+      "category": "it"
+    },
+    {
+      "id": "kopalniawiedzy",
+      "name": "KopalniaWiedzy.pl",
+      "url": "https://kopalniawiedzy.pl/wiadomosci.rss",
+      "enabled": true,
+      "category": "science"
+    },
+    {
+      "id": "sciencedaily",
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/top/science_news.xml",
       "enabled": false,
-      "category": "tech"
+      "category": "science"
+    },
+    {
+      "id": "rynekzdrowia",
+      "name": "Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/rss/wiadomosci.xml",
+      "enabled": true,
+      "category": "health"
+    },
+    {
+      "id": "mp_pl",
+      "name": "Medycyna Praktyczna",
+      "url": "https://www.mp.pl/rss/",
+      "enabled": true,
+      "category": "health"
+    },
+	{
+      "id": "bankier",
+      "name": "Bankier.pl",
+      "url": "https://www.bankier.pl/rss/wiadomosci.xml",
+      "enabled": true,
+      "category": "business"
+    },
+    {
+      "id": "antyweb",
+      "name": "Antyweb",
+      "url": "https://antyweb.pl/feed",
+      "enabled": true,
+      "category": "it"
+    },
+    {
+      "id": "zwierciadlo",
+      "name": "Zwierciadło",
+      "url": "https://zwierciadlo.pl/feed",
+      "enabled": true,
+      "category": "lifestyle"
+    },
+	{
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "enabled": true,
+      "category": "it"
+    },
+    {
+      "id": "sciencedaily",
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/top.xml",
+      "enabled": true,
+      "category": "science"
+    },
+    {
+      "id": "nasa_breaking",
+      "name": "NASA Breaking News",
+      "url": "https://www.nasa.gov/rss/breaking_news.rss",
+      "enabled": true,
+      "category": "science"
     }
   ],
   "settings": {
     "maxArticlesPerSource": 15,
     "maxArticleAgeDays": 7,
-    "maxTotalArticles": 100,
+    "maxTotalArticles": 200,
     "imageMaxWidthPx": 800
   }
 }
