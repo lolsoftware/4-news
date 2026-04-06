@@ -34,7 +34,13 @@ async function main() {
   const newItems = items.filter(item => !existingUrls.has(item.articleUrl));
   console.log(`${newItems.length} new articles (${items.length - newItems.length} already processed)`);
 
-  if (newItems.length === 0) {
+  // Retry articles that failed AI processing
+  const errorArticles = existing.filter(a => a.titleStatus === 'error');
+  if (errorArticles.length > 0) {
+    console.log(`${errorArticles.length} articles need AI retry`);
+  }
+
+  if (newItems.length === 0 && errorArticles.length === 0) {
     console.log('No new articles. Regenerating site with existing data.');
     generateSite([], outputDir, settings, siteUrl);
     generateFeed(existing, outputDir, siteUrl);
@@ -47,7 +53,20 @@ async function main() {
 
   // Step 4: Rewrite titles with AI
   console.log('\n=== Step 4: Rewriting titles ===');
-  articles = await rewriteTitles(articles);
+  const allToRewrite = [...articles, ...errorArticles];
+  const rewritten = await rewriteTitles(allToRewrite);
+  articles = rewritten.slice(0, articles.length);
+  const retriedArticles = rewritten.slice(articles.length);
+
+  // Update retried articles in existing list
+  if (retriedArticles.length > 0) {
+    const retriedById = new Map(retriedArticles.map(a => [a.id, a]));
+    for (let i = 0; i < existing.length; i++) {
+      if (retriedById.has(existing[i].id)) {
+        existing[i] = retriedById.get(existing[i].id);
+      }
+    }
+  }
 
   // Step 5: Process images
   console.log('\n=== Step 5: Processing images ===');
