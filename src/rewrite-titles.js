@@ -33,7 +33,7 @@ Rules:
 - Remove emotional manipulation ("shocking", "you won't believe", etc.)
 - Keep it under 120 characters
 - If the original title is already honest and clear, return it unchanged
-- Always write the title in Polish, regardless of the original language
+- Write the title in the same language as the original article (detect from the title and excerpt)
 - Use sentence case
 - Assign exactly one category from: Polska, Świat, Polityka, Gospodarka, Sport, Tech, Nauka, Kultura, Zdrowie, Lifestyle
 

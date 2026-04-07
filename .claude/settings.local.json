@@ -28,7 +28,18 @@
       "Bash(curl -s \"https://lolsoftware.github.io/4-news/api/articles/bb6955726718.json\")",
       "Bash(curl -sI \"https://lolsoftware.github.io/4-news/api/articles/bb6955726718.json\")",
       "Bash(curl -sI \"https://lolsoftware.github.io/4-news/\")",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "WebFetch(domain:tvn24.pl)",
+      "WebFetch(domain:www.rynekzdrowia.pl)",
+      "WebFetch(domain:www.mp.pl)",
+      "WebFetch(domain:zwierciadlo.pl)",
+      "WebFetch(domain:vavatech.pl)",
+      "WebFetch(domain:niebezpiecznik.pl)",
+      "WebFetch(domain:przekroj.org)",
+      "WebFetch(domain:deepmind.google)",
+      "WebFetch(domain:feeds.feedburner.com)",
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); guids=[a.get\\('guid','NO_GUID'\\) for a in data['articles'] if 'niebezpiecznik' in a.get\\('guid',''\\)]; print\\('\\\\n'.join\\(guids[:5]\\)\\)\")",
+      "Bash(python3 -c ':*)"
     ]
   }
 }
