@@ -39,7 +39,12 @@
       "WebFetch(domain:deepmind.google)",
       "WebFetch(domain:feeds.feedburner.com)",
       "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); guids=[a.get\\('guid','NO_GUID'\\) for a in data['articles'] if 'niebezpiecznik' in a.get\\('guid',''\\)]; print\\('\\\\n'.join\\(guids[:5]\\)\\)\")",
-      "Bash(python3 -c ':*)"
+      "Bash(python3 -c ':*)",
+      "Bash(node -c src/pipeline.js)",
+      "Bash(node -c src/rewrite-titles.js)",
+      "Bash(node -c src/generate-site.js)",
+      "Bash(node -c src/fetch-feeds.js)",
+      "Bash(node -c src/extract-article.js)"
     ]
   }
 }

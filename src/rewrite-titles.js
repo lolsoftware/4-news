@@ -23,17 +23,18 @@ function tryParseResults(text) {
  */
 async function rewriteBatch(batch) {
   const articlesForPrompt = batch.map((a, i) =>
-    `${i + 1}. Title: "${a.originalTitle}"\n   Excerpt: "${a.excerpt?.slice(0, 200) || ''}"`
+    `${i + 1}. Title: "${a.originalTitle}"\n   Language: ${a.lang || 'auto'}\n   Excerpt: "${a.excerpt?.slice(0, 200) || ''}"`
   ).join('\n\n');
 
   const prompt = `You rewrite clickbait news headlines into honest, informative summaries and assign a category to each article.
 
 Rules:
-- State what actually happened, not what might happen
+- CRITICAL: If the original title is NOT clickbait — i.e., it is factual, clear, and not emotionally manipulative — you MUST return the EXACT original title character-for-character. Do NOT rephrase, shorten, "improve", or make minor edits to non-clickbait titles.
+- Only rewrite titles that use genuine clickbait tactics: withholding key information, emotional bait, vague teasers, "you won't believe" patterns, etc.
+- When rewriting, state what actually happened, not what might happen
 - Remove emotional manipulation ("shocking", "you won't believe", etc.)
-- Keep it under 120 characters
-- If the original title is already honest and clear, return it unchanged
-- Write the title in the same language as the original article (detect from the title and excerpt)
+- Keep rewritten titles under 120 characters
+- Write each title in the language specified for that article (pl = Polish, en = English). If language is "auto", detect from the title and excerpt.
 - Use sentence case
 - Assign exactly one category from: Polska, Świat, Polityka, Gospodarka, Sport, Tech, Nauka, Kultura, Zdrowie, Lifestyle
 
@@ -74,12 +75,17 @@ ${articlesForPrompt}`;
     throw new Error(`Expected ${batch.length} results, got ${results.length}`);
   }
 
+  const normalize = s => s.trim().replace(/\s+/g, ' ').toLowerCase();
+
   return batch.map((article, i) => {
     const newTitle = results[i]?.title || article.originalTitle;
+    // Safety net: treat minor whitespace/case-only differences as unchanged
+    const isMinorEdit = normalize(newTitle) === normalize(article.originalTitle);
+    const finalTitle = isMinorEdit ? article.originalTitle : newTitle;
     return {
       ...article,
-      title: newTitle,
-      titleStatus: newTitle !== article.originalTitle ? 'rewritten' : 'ok',
+      title: finalTitle,
+      titleStatus: finalTitle !== article.originalTitle ? 'rewritten' : 'ok',
       category: VALID_CATEGORIES.includes(results[i]?.category) ? results[i].category : article.category,
     };
   });

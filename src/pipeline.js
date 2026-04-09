@@ -32,7 +32,8 @@ async function main() {
   const existing = loadExistingArticles(outputDir);
   const existingGuids = new Set(existing.map(a => a.guid).filter(Boolean));
   const existingUrls = new Set(existing.map(a => a.url));
-  const ageCutoff = Date.now() - settings.maxArticleAgeDays * 24 * 60 * 60 * 1000;
+  const detailAgeDays = settings.maxArticleDetailAgeDays || settings.maxArticleAgeDays;
+  const ageCutoff = Date.now() - detailAgeDays * 24 * 60 * 60 * 1000;
   const newItems = items.filter(item => {
     if (existingGuids.has(item.guid) || existingUrls.has(item.articleUrl)) return false;
     if (new Date(item.pubDate).getTime() < ageCutoff) return false;
@@ -59,10 +60,14 @@ async function main() {
 
   // Step 4: Rewrite titles with AI
   console.log('\n=== Step 4: Rewriting titles ===');
-  const allToRewrite = [...articles, ...errorArticles];
+  const toRewrite = articles.filter(a => a.useAI);
+  const skipAI = articles.filter(a => !a.useAI).map(a => ({ ...a, title: a.originalTitle, titleStatus: 'skipped' }));
+  const errorToRetry = errorArticles.filter(a => a.useAI);
+  const errorSkipAI = errorArticles.filter(a => !a.useAI).map(a => ({ ...a, titleStatus: 'skipped' }));
+  const allToRewrite = [...toRewrite, ...errorToRetry];
   const rewritten = await rewriteTitles(allToRewrite);
-  articles = rewritten.slice(0, articles.length);
-  const retriedArticles = rewritten.slice(articles.length);
+  articles = [...rewritten.slice(0, toRewrite.length), ...skipAI];
+  const retriedArticles = [...rewritten.slice(toRewrite.length), ...errorSkipAI];
 
   // Step 5: Process images
   console.log('\n=== Step 5: Processing images ===');

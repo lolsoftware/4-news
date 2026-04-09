@@ -63,6 +63,8 @@ export async function fetchFeeds() {
           sourceId: source.id,
           sourceName: source.name,
           category: source.category,
+          lang: source.lang,
+          useAI: source.useAI !== false,
           originalTitle: item.title || 'Untitled',
           pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
           articleUrl: resolvedUrl,
