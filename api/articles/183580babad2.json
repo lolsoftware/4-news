@@ -1,6 +1,6 @@
 {
   "id": "183580babad2",
-  "title": "Amazon limits Kindle Store access for older Kindle devices",
+  "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
   "originalTitle": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
   "source": "Ars Technica",
   "category": "Tech",
@@ -9,5 +9,5 @@
   "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>If you own an older Kindle e-reader, including models with physical keyboards or physical page-turn buttons that you’ve been reluctant to give up, Amazon has bad news for you. The company sent a message to owners of those devices today, informing them that starting on May 20 they would no longer be able to buy or download books from the Kindle Store.</p>\n<p>The change (as reported by <a href=\"https://goodereader.com/blog/kindle/you-can-no-longer-buy-e-books-on-amazon-kindles-2012-and-earlier\">Good E-Reader</a> and elsewhere) affects all Kindles introduced and sold in 2012 or earlier, going all the way back to the original Kindle from 2007. Users will still be able to read books that have already been downloaded to those devices, but they won’t be able to download more, and if they reset those Kindles to their factory defaults, the devices won’t be able to sign back in to an Amazon account.</p>\n<p>“Affected devices include Kindle 1st and 2nd Generation, Kindle DX and DX Graphite, Kindle Keyboard, Kindle 4, Kindle Touch, Kindle 5, and Kindle Paperwhite 1st Generation,” reads the message from the Kindle team. Older 2011 and 2012-era Kindle Fire tablets will also lose access to the Kindle Store.</p>\n<p>Amazon’s Kindle generational branding is occasionally confusing—that “Kindle Paperwhite 1st Generation” is also referred to as “Kindle Paperwhite (5th Generation)” on <a href=\"https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW\">Amazon’s support pages</a>&nbsp;because it’s part of the fifth generation of Kindle releases overall. But if you check your Kindle’s software version and see anything older than 5.12.2.2, it means your Kindle is losing access to Amazon’s store and your e-book library.</p> </div></div>",
   "image": "images/ff125b7b5845.webp",
   "readingTimeMin": 1,
-  "titleStatus": "rewritten"
+  "titleStatus": "skipped"
 }

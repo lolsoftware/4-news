@@ -69,7 +69,12 @@ async function fetchArticleDetail(id) {
 
 function renderFilters(articles) {
   const filtersEl = document.getElementById('filters');
-  const uniqueCategories = [...new Set(articles.map(a => a.category).filter(Boolean))];
+  const presentCategories = new Set(articles.map(a => a.category).filter(Boolean));
+  const order = articlesData.categoryOrder || [];
+  const uniqueCategories = [
+    ...order.filter(c => presentCategories.has(c)),
+    ...[...presentCategories].filter(c => !order.includes(c))
+  ];
 
   // Hide filters if only one category (e.g. all "general")
   if (uniqueCategories.length <= 1) {

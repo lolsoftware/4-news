@@ -1,6 +1,6 @@
 {
   "id": "6d02bc291646",
-  "title": "Steam testing framerate estimator feature for games",
+  "title": "Steam client files point to \"framerate estimator\" feature in the works",
   "originalTitle": "Steam client files point to \"framerate estimator\" feature in the works",
   "source": "Ars Technica",
   "category": "Tech",
@@ -9,5 +9,5 @@
   "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Back in February, Valve gave Steam client beta users the option to <a href=\"https://store.steampowered.com/news/group/4397053?emclan=103582791433918461&amp;emgid=505101717860253962\">share anonymized framerate data and hardware information</a> with the company to “help us learn about game compatibility and improve Steam.” Now, new text buried in a recent Steam client update suggests Valve is preparing to use this data to power a “framerate estimator” tool in the future.</p>\n<p>As noted in <a href=\"https://github.com/SteamTracking/SteamTracking/commit/5633dc3b5344269340a49b4b4f1e3a7b59c08c9a\">SteamTracking’s automated Steam client change notes</a> (and picked up by some <a href=\"https://www.resetera.com/threads/apparently-soon-you-will-be-able-to-get-estimated-fps-for-games-on-steam-store-based-on-your-specs.1482319/\">forum</a> and <a href=\"https://x.com/LambdaGen/status/2040459980805914805\">social media</a> users), the April 3 Steam client update contains explicit references to a “Framerate Estimator” in a store UI JSON file. A subheader listed in that file describes the ability to “Select an App and a PC config to get a chart of estimated framerates, based on the framerates of other Steam users.”</p>\n<p>Based on the inputs referenced in the JSON data, it looks like generated framerate estimates will be based on CPU, GPU, and system RAM levels selected by the user (or saved as a hardware configuration in the Steam client) rather than any sort of automated system scanning software. Users will be able to see per-game frame rate estimates as well as the “Number of matching training… entries” those estimates are based on for that game and/or the applicable CPU/GPU.</p> </div></div>",
   "image": "images/e171ec23dbe4.webp",
   "readingTimeMin": 1,
-  "titleStatus": "rewritten"
+  "titleStatus": "skipped"
 }

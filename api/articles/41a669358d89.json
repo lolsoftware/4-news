@@ -1,6 +1,6 @@
 {
   "id": "41a669358d89",
-  "title": "Microsoft pracuje nad poprawą wydajności Windows 11",
+  "title": "Windows 11 będzie szybszy. Microsoft pracuje nad przydatną zmianą",
   "originalTitle": "Windows 11 będzie szybszy. Microsoft pracuje nad przydatną zmianą",
   "source": "Antyweb",
   "category": "Tech",
@@ -9,5 +9,5 @@
   "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Windows 11 będzie szybszy. A przynajmniej takie zapewnienia wychodzą z kwatery Microsoftu. Firma bierze się na poważnie za naprawianie systemu i już możemy zobaczyć pierwsze efekty.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Jeszcze kilka tygodni temu Microsoft zapowiedział, że zamierza nieco odpuścić narrację „AI First” i skupić się na zmianach, które użytkownicy faktycznie odczują na co dzień. I trzeba przyznać, że pierwsze efekty tej deklaracji zaczynają być widoczne. Co prawda, wiele rzeczy nadal jest do poprawy, ale ostatnie aktualizacje zaczynają przekonywać użytkowników, że firma w końcu wraca na właściwe tory.</p> <p>Jednym z najbardziej przyziemnych, ale jednocześnie irytujących problemów Windowsa 11 są dziś Szybkie Ustawienia, których, jak na ironię, prędkość działania pozostawia wiele do życzenia. Panel, który powinien pojawiać się natychmiast po kliknięciu ikon Wi-Fi, dźwięku czy baterii, często potrzebuje kilku sekund, by w ogóle się załadować. Co gorsza, nawet po jego otwarciu część elementów wczytuje się z opóźnieniem, przez co całość sprawia wrażenie ociężałej i niedopracowanej.</p> <p>Microsoft dobrze zdaje sobie z tego sprawę i testuje już poprawki, które mają sprawić, że Quick Settings będą działać natychmiastowo. Celem jest nie tylko szybsze wyświetlanie samego panelu, ale też błyskawiczne odświeżanie jego zawartości. Dziś potrafi on na przykład z opóźnieniem reagować na zmianę sieci Wi-Fi czy rozłączenie Bluetooth, co bywa zwyczajnie frustrujące.</p> <p>Przy okazji pojawią się też nowe funkcje. Użytkownicy zyskają możliwość dowolnego układania elementów metodą „przeciągnij i upuść”, a także szybki dostęp do trybu ciemnego czy ustawień oszczędzania energii bezpośrednio z poziomu panelu.</p> <p>To jednak tylko fragment większej układanki. Microsoft pracuje nad tym, by cały system działał szybciej i bardziej responsywnie. Przyspieszyć ma menu Start, pasek zadań, eksplorator plików, centrum powiadomień, a nawet menu kontekstowe.</p> <p>Grafika:<a href=\"http://depositphotos.com/\"> depositphotos.com&nbsp;</a></p></div></div>",
   "image": "images/8e8f85b69fa5.webp",
   "readingTimeMin": 1,
-  "titleStatus": "rewritten"
+  "titleStatus": "skipped"
 }
