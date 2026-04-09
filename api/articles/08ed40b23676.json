@@ -1,0 +1,13 @@
+{
+  "id": "08ed40b23676",
+  "title": "Charcuterie – Visual similarity Unicode explorer",
+  "originalTitle": "Charcuterie – Visual similarity Unicode explorer",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://charcuterie.elastiq.ch/",
+  "publishedAt": "2026-04-09T20:12:07.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <main> </main> <section> <article aria-label=\"Character Information\"> </article> <article> <p>A visual explorer for Unicode. Browse the character set, discover related glyphs, and learn more about the scripts, symbols, and shapes that make up the standard.</p> <p>To power visual similarity, rendered glyphs are embedded with  and compared in vector space.</p> <p>Charcuterie is still under active development, and feedback is always welcome. If you would like to support the project and help make more time for it, <a href=\"https://ko-fi.com/colorparrot\" target=\"_blank\" rel=\"noopener noreferrer\">consider a donation.</a></p> <p> <span>Everything runs in your browser.</span> <span>© 2026 <a href=\"https://elastiq.ch/\" target=\"_blank\" rel=\"noopener noreferrer\">David Aerne</a></span> </p> </article> </section> </div></div>",
+  "image": "images/3fbb60fbe586.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

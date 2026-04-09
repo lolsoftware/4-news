@@ -1,0 +1,13 @@
+{
+  "id": "b77e297cd484",
+  "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+  "originalTitle": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://hegel.dev/",
+  "publishedAt": "2026-04-09T18:37:45.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <div><p><img src=\"https://hegel.dev/_astro/hedgel-small.CU9UUzkn.webp\" alt=\"Hedgel mascot\"></p><h2>Hegel</h2></div>\n<p>Hegel is a universal property-based testing protocol and family of libraries, built on <a href=\"https://github.com/hypothesisworks/hypothesis\">Hypothesis</a>.</p>\n<p>First time here? We recommend starting with the <a href=\"https://hegel.dev/intro/getting-started\">Getting started</a> guide.</p>\n<div><article> <p>  <span>Introduction</span> </p> <div><ul>\n<li><a href=\"https://hegel.dev/intro/getting-started\">Getting started</a></li>\n</ul></div> </article><article> <p>  <span>How-to guides</span> </p> <p><em>coming soon!</em></p> </article><article> <p>  <span>Explanation</span> </p> <div><ul>\n<li><a href=\"https://hegel.dev/explanation/how-hegel-works\">How Hegel works</a></li>\n<li><a href=\"https://hegel.dev/explanation/why-hegel\">Why Hegel?</a></li>\n</ul></div> </article><article> <p>  <span>Reference</span> </p> <div><ul>\n<li><a href=\"https://hegel.dev/reference/installation\">Installation reference</a></li>\n<li><a href=\"https://hegel.dev/reference/protocol\">Protocol reference</a></li>\n</ul></div> </article></div> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
