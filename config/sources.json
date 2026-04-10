@@ -7,7 +7,7 @@
       "enabled": true,
       "category": "Polska",
       "lang": "pl",
-      "useAI": false
+      "useAI": true
     },
     {
       "id": "rmf24",
@@ -115,7 +115,7 @@
       "enabled": true,
       "category": "Tech",
       "lang": "pl",
-      "useAI": false
+      "useAI": true
     },
     {
       "id": "przekroj",

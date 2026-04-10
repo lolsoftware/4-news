@@ -50,3 +50,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           publish_branch: gh-pages
+
+      - name: Ensure GitHub Pages is enabled
+        run: |
+          gh api repos/${{ github.repository }}/pages 2>/dev/null || \
+          gh api repos/${{ github.repository }}/pages -X POST -f 'source[branch]=gh-pages' -f 'source[path]=/'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
