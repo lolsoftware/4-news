@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 11 Apr 2026 18:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 20:22:44 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cieśnina rozbieżności. W Islamabadzie Amerykanie rozmawiają z Irańczykami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3603f2ff0842</link>
+      <description>​Status cieśniny Ormuz jest jednym z głównych punktów obrad w Islamabadzie podczas bezpośrednich rozmów między USA i Iranem. &quot;Obie strony nie mogą dojść do zgody w kwestii kontroli nad cieśniną. Stany Zjednoczone chcą mieć w tej sprawie głos, a Iran podkreśla, że sam będzie decydować&quot; - relacjonuje Paweł Żuchowski, korespondent RMF FM w USA. Irańska agencja Tasnim poinformowała w sobotę o godz. 22 czasu polskiego, że rozpoczęła się druga runda rozmów. Według Tasnim, może to być ostatnia okazja na osiągnięcie porozumienia.</description>
+      <pubDate>Sat, 11 Apr 2026 20:12:00 GMT</pubDate>
+      <guid isPermaLink="false">3603f2ff0842</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-ciesnina-rozbieznosci-w-islamabadzie-amerykanie-rozmawiaja-z,nId,8076817">RMF24</source>
+    </item>
     <item>
       <title>ZUS wydał komunikat. Rewolucyjna zmiana w systemie emerytur u naszych sąsiadów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/283c89c56355</link>
@@ -14,6 +22,54 @@
       <pubDate>Sat, 11 Apr 2026 20:02:00 GMT</pubDate>
       <guid isPermaLink="false">283c89c56355</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-wydal-komunikat-Rewolucyjna-zmiana-w-systemie-emerytur-u-naszych-sasiadow,283009,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Wypadek kolejki w wiedeńskim Praterze. Są poszkodowani</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e667a6e04661</link>
+      <description>W sobotnie popołudnie doszło do poważnego wypadku na popularnej kolejce górskiej w wiedeńskim parku rozrywki Prater. W wyniku zdarzenia kilka osób zostało rannych. Przyczyną wypadku była błędna ocena sytuacji przez maszynistę, co doprowadziło do wykolejenia się pierwszego wagonu.</description>
+      <pubDate>Sat, 11 Apr 2026 19:48:18 GMT</pubDate>
+      <guid isPermaLink="false">e667a6e04661</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wypadek-kolejki-w-wiedenskim-praterze-sa-poszkodowani,nId,8076816">RMF24</source>
+    </item>
+    <item>
+      <title>Show HN: Editing 2000 photos made me build a macOS bulk photo editor</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6dd7c5912d67</link>
+      <description>Download RapidPhoto - Batch Crop &amp; Edit by Omprakash Sah Kanu on the App Store. See screenshots, ratings and reviews, user tips, and more apps like RapidPhoto -…</description>
+      <pubDate>Sat, 11 Apr 2026 19:41:46 GMT</pubDate>
+      <guid isPermaLink="false">6dd7c5912d67</guid>
+      <source url="https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12">Hacker News</source>
+    </item>
+    <item>
+      <title>Papież Leon XIV wzywa: dość wojny!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/321af0133b82</link>
+      <description>Dość epatowania siłą! Dość wojny! - apelował papież Leon XIV podczas sobotniego czuwania modlitewnego w intencji pokoju na świecie. W Bazylice Świętego Piotra wzywał, by połączyć siły miliardów ludzi, którzy wybierają pokój. Zwrócił się też do rządzących.</description>
+      <pubDate>Sat, 11 Apr 2026 19:31:43 GMT</pubDate>
+      <guid isPermaLink="false">321af0133b82</guid>
+      <source url="https://tvn24.pl/swiat/papiez-leon-xiv-wzywa-dosc-wojny-st8993618?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>How We Broke Top AI Agent Benchmarks: And What Comes Next</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/63f78f0106b9</link>
+      <description>Comments</description>
+      <pubDate>Sat, 11 Apr 2026 19:15:56 GMT</pubDate>
+      <guid isPermaLink="false">63f78f0106b9</guid>
+      <source url="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/">Hacker News</source>
+    </item>
+    <item>
+      <title>Księga wojny. Wielka Brytania szykuje się na najgorsze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0891bc66e2e2</link>
+      <description>Wielka Brytania pracuje nad nową wersją szeroko zakrojonego planu mobilizacyjnego, który ma przygotować całe państwo - od armii i policji po szpitale i przemysł - na przejście w tryb wojenny. Szef sił zbrojnych, marszałek lotnictwa Sir Richard Knighton ostrzega: dekady spokoju dobiegły końca, a odporność narodu musi zostać zbudowana na nowo.</description>
+      <pubDate>Sat, 11 Apr 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="false">0891bc66e2e2</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-ksiega-wojny-wielka-brytania-szykuje-sie-na-najgorsze,nId,8076814">RMF24</source>
+    </item>
+    <item>
+      <title>​Sceny grozy w metrze. Napastnik z maczetą rzucił się na pasażerów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd985d8d091a</link>
+      <description>Policjanci z Nowego Jorku zastrzelili na stacji Grand Central Terminal, gdzie zatrzymują się pociągi i metro, mężczyznę uzbrojonego w maczetę. Napastnik zaatakował troje pasażerów. Ranni zostali przewiezieni do szpitala, ich stan jest stabilny - informuje dziennik &quot;The New York Times&quot;.</description>
+      <pubDate>Sat, 11 Apr 2026 19:10:38 GMT</pubDate>
+      <guid isPermaLink="false">cd985d8d091a</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-sceny-grozy-w-metrze-napastnik-z-maczeta-rzucil-sie-na-pasaz,nId,8076815">RMF24</source>
     </item>
     <item>
       <title>Powodują gazy i wzdęcia. Uważaj: brzuch będzie wielki jak balon</title>
@@ -24,12 +80,52 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Powoduja-gazy-i-wzdecia-Uwazaj-brzuch-bedzie-wielki-jak-balon,283028,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>More than 200 arrests at Palestine Action protest</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/42c45048359d</link>
+      <description>Event organisers said it would show the &quot;resistance&quot; to the ban on the group was &quot;stronger than ever&quot;.</description>
+      <pubDate>Sat, 11 Apr 2026 19:07:56 GMT</pubDate>
+      <guid isPermaLink="false">42c45048359d</guid>
+      <source url="https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Kolejka górska w wiedeńskim parku Prater wykolejła się, kilka osób poszkodowanych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/824521365e25</link>
+      <description>W wiedeńskim parku rozrywki Prater - jednej z najbardziej znanych atrakcji stolicy Austrii - doszło do wykolejenia się kolejki górskiej. Kilka osób doznało obrażeń. To kolejny wypadek w tym miejscu w ostatnich latach.</description>
+      <pubDate>Sat, 11 Apr 2026 18:52:47 GMT</pubDate>
+      <guid isPermaLink="false">824521365e25</guid>
+      <source url="https://tvn24.pl/swiat/wypadek-w-znanym-parku-rozrywki-prater-st8993593?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Połączenie Otwock-Wawer wstrzymane na dwa tygodnie, transport zastępczy autobusami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8b3558b08a3</link>
+      <description>Od niedzieli na dwa tygodnie całkowicie wstrzymany będzie ruch pociągów między Otwockiem a Wawrem. Miasto przygotowano autobusy komunikacji zastępczej.</description>
+      <pubDate>Sat, 11 Apr 2026 18:49:04 GMT</pubDate>
+      <guid isPermaLink="false">b8b3558b08a3</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/linia-otwocka-ruch-kolejowy-otwock-wawer-wstrzymany-st8993059?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Agenty AI mają dostęp do kodu i danych, stwarzając zagrożenia bezpieczeństwa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/955f6ac6849b</link>
+      <description>Rozwiązania oparte na agentach napędzanych sztuczną inteligencją coraz częściej dostają dostęp do kodu, chmury i... nawet kasy. Wystarczy jeden uzłośliwiony &quot;router&quot; między klientem a modelem, by newralgiczne uprawnienia przejąć po cichu.</description>
+      <pubDate>Sat, 11 Apr 2026 18:30:08 GMT</pubDate>
+      <guid isPermaLink="false">955f6ac6849b</guid>
+      <source url="https://antyweb.pl/agenci-ai-routing-polecen">Antyweb</source>
+    </item>
+    <item>
       <title>Berkut w drodze do Budapesztu? Ukraiński wywiad ostrzega</title>
       <link>https://lolsoftware.github.io/4-news/#/article/12477ba5e902</link>
       <description>Byli członkowie rozwiązanej specjalnej jednostki ukraińskiej policji, Berkutu, mogli przybyć do Budapesztu, by organizować prowokacje w związku z niedzielnymi wyborami parlamentarnymi na Węgrzech - ostrzegło ukraińskie rządowe Centrum Przeciwdziałania Dezinformacji (CPD).</description>
       <pubDate>Sat, 11 Apr 2026 18:30:00 GMT</pubDate>
       <guid isPermaLink="false">12477ba5e902</guid>
       <source url="https://www.bankier.pl/wiadomosc/Berkut-w-drodze-do-Budapesztu-Ukrainski-wywiad-ostrzega-przed-prowokacjami-na-Wegrzech-9112459.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>&quot;Sucha głodówka&quot;. Protest byłego rosyjskiego urzędnika w kolonii karnej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e958ce9503a</link>
+      <description>Aleksandr Szestun, więzień polityczny, były naczelnik rejonu sierpuchowskiego, skazany na 17 lat pobytu kolonii karnej o zaostrzonym rygorze, prowadzi tzw. suchą głodówkę. Domaga się przywrócenia możliwości odwiedzin swoich dzieci oraz dostępu do opieki medycznej. Szestun jest jednym z 11 uwięzionych dysydentów, którzy w ub. r. apelowali do światowych przywódców ws. uwolnienia rosyjskich więźniów politycznych i ukraińskich cywilów przetrzymywanych przez Rosję.</description>
+      <pubDate>Sat, 11 Apr 2026 18:29:59 GMT</pubDate>
+      <guid isPermaLink="false">9e958ce9503a</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-sucha-glodowka-protest-bylego-rosyjskiego-urzednika-w-koloni,nId,8076812">RMF24</source>
     </item>
     <item>
       <title>Trzaskowski: z Dudą była przynajmniej nić porozumienia</title>
@@ -46,6 +142,14 @@
       <pubDate>Sat, 11 Apr 2026 18:10:00 GMT</pubDate>
       <guid isPermaLink="false">84736a8ce38c</guid>
       <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-bardzo-emocjonalne-wystapienie-papieza-przywolal-slowa-jana-,nId,8076811">RMF24</source>
+    </item>
+    <item>
+      <title>How to build a `Git diff` driver</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2c95a44f6846</link>
+      <description>How to write an external tool for `git diff` to delegate complex diffs to.</description>
+      <pubDate>Sat, 11 Apr 2026 18:07:49 GMT</pubDate>
+      <guid isPermaLink="false">2c95a44f6846</guid>
+      <source url="https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/">Hacker News</source>
     </item>
     <item>
       <title>Marzec 2026 drugim najcieplejszym marcem w historii</title>
@@ -70,6 +174,14 @@
       <pubDate>Sat, 11 Apr 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="false">1d829ec628d2</guid>
       <source url="https://www.bankier.pl/wiadomosc/Rynek-amerykanski-jest-obiecujacy-Minister-Domanski-zapowiada-ofensywe-polskich-firm-w-USA-9112411.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>The APL programming language source code (2012)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/54a61a2ae00b</link>
+      <description>Thousands of programming languages were invented in the first 50 years of the age of computing. Many of them were similar, and many followed a traditional, evolutionary path from their predecessors. What eventually became APL was first a mathematical notation, not as a computer programming language.</description>
+      <pubDate>Sat, 11 Apr 2026 17:34:10 GMT</pubDate>
+      <guid isPermaLink="false">54a61a2ae00b</guid>
+      <source url="https://computerhistory.org/blog/the-apl-programming-language-source-code/">Hacker News</source>
     </item>
     <item>
       <title>Druk 3D koron z cyrkonu przyspieszył produkcję implantów</title>
@@ -304,118 +416,6 @@ really boring.</description>
       <pubDate>Sat, 11 Apr 2026 15:00:00 GMT</pubDate>
       <guid isPermaLink="false">a55eee815fde</guid>
       <source url="https://www.bankier.pl/wiadomosc/Bez-exit-poll-i-ciszy-wyborczej-Tak-wygladaja-wybory-na-Wegrzech-9111336.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>USA rozpoczęły operację w cieśninie Ormuz, media donoszą o sprzecznych informacjach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da495fd25a6e</link>
-      <description>Donald Trump ogłosił, że Stany Zjednoczone rozpoczęły proces &quot;oczyszczania&quot; cieśniny Ormuz. W tym samym czasie w mediach pojawiły się doniesienia o przekroczeniu cieśniny przez okręt USA. Irańskie władze zaprzeczyły tym informacjom. Sprzeczne relacje dotyczą też ostrzeżenia, które mieli otrzymać Amerykanie.</description>
-      <pubDate>Sat, 11 Apr 2026 14:59:04 GMT</pubDate>
-      <guid isPermaLink="false">da495fd25a6e</guid>
-      <source url="https://tvn24.pl/swiat/zamieszanie-wokol-ciesniny-ormuz-oczyszczanie-i-sprzeczne-doniesienia-st8993470?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>USA rozpoczęły operację czyszczenia cieśniny Ormuz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1b0861defef7</link>
-      <description>Donald Trump ogłosił, że Stany Zjednoczone rozpoczęły proces &quot;oczyszczania&quot; cieśniny Ormuz. W tym samym czasie w mediach pojawiły się doniesienia o przekroczeniu cieśniny przez okręty USA. Irańskie władze zaprzeczyły tym informacjom, zaś Centralne Dowództwo Sił Zbrojnych USA potwierdziło je. Jak podali amerykańscy wojskowi, chodzi o unieszkodliwienie min morskich.</description>
-      <pubDate>Sat, 11 Apr 2026 14:59:04 GMT</pubDate>
-      <guid isPermaLink="false">1b0861defef7</guid>
-      <source url="https://tvn24.pl/swiat/co-sie-dzieje-w-ciesninie-ormuz-usa-zaczelismy-oczyszczanie-st8993470?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39a6f1c5b538</link>
-      <description>Los primeros astronautas en viajar a la Luna en más de medio siglo han regresado a la Tierra tras una misión que ha establecido nuevos récords a bordo del</description>
-      <pubDate>Sat, 11 Apr 2026 14:54:04 GMT</pubDate>
-      <guid isPermaLink="false">39a6f1c5b538</guid>
-      <source url="https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Standard organizacyjny w opiece długoterminowej. Zakłady mają czas do 31 sierpnia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8abb88987bf7</link>
-      <description>Już jest rozporządzenie Ministerstwa Zdrowia dotyczące standardu organizacyjnego w ramach opieki długoterminowej. Zgodnie z przepisami zakłady m.in. opiekuńczo-lecznicze czy zakłady pielęgnacyjno-opiekuńcze mają dostosować się do wymagań nie później niż do dnia 31 sierpnia 2026 roku.</description>
-      <pubDate>Sat, 11 Apr 2026 14:54:00 GMT</pubDate>
-      <guid isPermaLink="false">8abb88987bf7</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Standard-organizacyjny-w-opiece-dlugoterminowej-Zaklady-maja-czas-do-31-sierpnia,283139,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Trump stwierdził, że Iran &quot;nie ma kart&quot;. Rzeczywistość pokazuje coś innego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a328a2f68da7</link>
-      <description>​W Pakistanie rozpoczęły się rozmowy pokojowe. Mija właśnie sześć tygodni od momentu, gdy Izrael i Stany Zjednoczone rozpoczęły operację militarną przeciwko Iranowi.</description>
-      <pubDate>Sat, 11 Apr 2026 14:45:54 GMT</pubDate>
-      <guid isPermaLink="false">a328a2f68da7</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-trump-stwierdzil-ze-iran-nie-ma-kart-rzeczywistosc-pokazuje-,nId,8076804">RMF24</source>
-    </item>
-    <item>
-      <title>Pogoda. Idzie ocieplenie. Jak długo potrwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cf50651bdce0</link>
-      <description>Pogoda. Nadchodzące dni przyniosą większe ocieplenie, miejscami będzie prawie 20 stopni. Wyższa temperatura nie zostanie jednak z nami na długo. Pojawią się za to potrzebne opady deszczu.</description>
-      <pubDate>Sat, 11 Apr 2026 14:33:43 GMT</pubDate>
-      <guid isPermaLink="false">cf50651bdce0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-niz-tamina-idzie-ocieplenie-jak-dlugo-potrwa-bedzie-blisko-20-stopni-st8993488?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>The Future of Everything Is Lies, I Guess: Annoyances</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9c97241177f2</link>
-      <description>This is a long article, so I&apos;m breaking it up into a series of posts which will be released over the next few days. You can also read the full work as a PDF or EPUB; these files will be updated as each section is released.</description>
-      <pubDate>Sat, 11 Apr 2026 14:32:39 GMT</pubDate>
-      <guid isPermaLink="false">9c97241177f2</guid>
-      <source url="https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances">Hacker News</source>
-    </item>
-    <item>
-      <title>Polskie tenisistki rozbite przez Ukrainki. Nie ma awansu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc6d219b29c8</link>
-      <description>Maja Chwalińska i Martyna Kubka przegrały w Gliwicach z parą Ljudmiła Kiczenok, Nadija Kiczenok 5:7, 7:6 (7-4), 3:6 w trzecim meczu o udział w turnieju finałowym Billie Jean King Cup. Ukraińskie tenisistki objęły prowadzenie 3:0 i zapewniły sobie awans. Mecz trwał 3 godziny i 12 minut.</description>
-      <pubDate>Sat, 11 Apr 2026 14:24:20 GMT</pubDate>
-      <guid isPermaLink="false">fc6d219b29c8</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-polskie-tenisistki-rozbite-przez-ukrainki-nie-ma-awansu,nId,8076802">RMF24</source>
-    </item>
-    <item>
-      <title>​Orban w więzieniu? Jasna odpowiedź lidera opozycji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/952b4df1aa5d</link>
-      <description>Peter Magyar, lider opozycyjnej Tiszy w wywiadzie opublikowanym w sobotę w dzienniku &quot;Nepszava&quot; zapewnił, że pod jego rządami to niezależne sądy będą wydawać wyroki. Zapytany o oczekiwania znacznej części jego wyborców dotyczące skazania Viktora Orbana, odpowiedział, że pociągnięcie go do odpowiedzialności nie będzie rolą premiera nowego rządu.</description>
-      <pubDate>Sat, 11 Apr 2026 14:10:29 GMT</pubDate>
-      <guid isPermaLink="false">952b4df1aa5d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-orban-w-wiezieniu-jasna-odpowiedz-lidera-opozycji,nId,8076801">RMF24</source>
-    </item>
-    <item>
-      <title>Czołowe zderzenie w Klusach. Ranna kobieta w ciąży</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7e81602e3aba</link>
-      <description>W Klusach (woj. warmińsko-mazurskie) doszło do wypadku drogowego, w którym trzy osoby zostały ranne, w tym kobieta w ciąży - poinformowały straż pożarna i policja.</description>
-      <pubDate>Sat, 11 Apr 2026 14:04:43 GMT</pubDate>
-      <guid isPermaLink="false">7e81602e3aba</guid>
-      <source url="https://www.rmf24.pl/regiony/olsztyn/news-czolowe-zderzenie-w-klusach-ranna-kobieta-w-ciazy,nId,8076800">RMF24</source>
-    </item>
-    <item>
-      <title>The Problem That Built an Industry</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77c338b96127</link>
-      <description>How a conversation on a plane in 1953 became the software that processes 10,000 flight bookings per second — and why it still does.</description>
-      <pubDate>Sat, 11 Apr 2026 14:03:03 GMT</pubDate>
-      <guid isPermaLink="false">77c338b96127</guid>
-      <source url="https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/">Hacker News</source>
-    </item>
-    <item>
-      <title>Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/97fc489ec552</link>
-      <description>The deal is interesting for a number of reasons, including that SiFive&apos;s chip designs are based on RISC-V, not x86 or ARM.</description>
-      <pubDate>Sat, 11 Apr 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="false">97fc489ec552</guid>
-      <source url="https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Magyar pytany o więzienie dla Orbana. Nie pozostawił wątpliwości</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9436e67a2294</link>
-      <description>Ostatnie dni kampanii wyborczej na Węgrzech. Relacja Macieja Warsińskiego z Budapesztu</description>
-      <pubDate>Sat, 11 Apr 2026 14:01:03 GMT</pubDate>
-      <guid isPermaLink="false">9436e67a2294</guid>
-      <source url="https://tvn24.pl/swiat/wybory-na-wegrzech-peter-magyar-o-odpowiedzialnosci-viktora-orbana-to-sady-decyduja-kto-popelnil-przestepstwo-st8993413?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Potężny wystrzał ofert pracy o 72 proc. Jest jednak jeden istotny haczyk</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fedfe076c9b4</link>
-      <description>W serwisie rocketjobs.pl, w I kwartale 2026 r. liczba ofert pracy wzrosła o 72 proc. rdr - wynika z raportu kwartalnego portalu.</description>
-      <pubDate>Sat, 11 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">fedfe076c9b4</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Potezny-wystrzal-ofert-pracy-o-72-proc-Jest-jednak-jeden-istotny-haczyk-9111914.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
