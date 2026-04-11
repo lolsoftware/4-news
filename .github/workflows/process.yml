@@ -2,7 +2,7 @@ name: Process News
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 4,6,8,10,12,14,16,18,20 * * *'
   workflow_dispatch:
 
 permissions:
