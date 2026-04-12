@@ -1,0 +1,13 @@
+{
+  "id": "1a4a1719a7f5",
+  "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+  "originalTitle": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+  "publishedAt": "2026-04-12T13:06:44.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-pjax=\"true\" data-test-selector=\"body-content\" data-view-component=\"true\"><p>The inner and outer core of the Oberon system (Kernel, Reals, File System) along with supporting platform-specific drivers (Display, USB, Math) have been fully ported to 32-bit ARM. The full system now boots and runs on QEMU 10.2 emulating the Raspberry Pi 2B (raspi2b machine).</p>\n<p>Just like the i386 version, building the entire ARM system from scratch remains very fast. Compiling the modules, statically linking the core, generating the AosFs drive, and populating it with all runtime files takes under a minute using the custom C99 toolchain on a decently modern machine (my T480).</p>\n<p>A precompiled version of the QEMU image and the toolchain with which it was built are attached.</p>\n<p>The immediate next step is to debug the system over JTAG on real hardware, specifically targeting the Raspberry Pi Model 2B, 3B, and Zero 2. When the system works on bare metal, I consider to migrate the network driver (at least Ethernet, the Wlan might be too much work).</p></div></div>",
+  "image": "images/169eacdab6d3.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
