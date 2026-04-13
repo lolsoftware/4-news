@@ -1,0 +1,13 @@
+{
+  "id": "1aa1967e8682",
+  "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+  "originalTitle": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2604.07902",
+  "publishedAt": "2026-04-12T09:14:30.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2604.07902\">View PDF</a> <a href=\"https://arxiv.org/html/2604.07902v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>Granlund and Montgomery proposed an optimization method for unsigned integer division by constants [3]. Their method (called the GM method in this paper) was further improved in part by works such as [1] and [7], and is now adopted by major compilers including GCC, Clang, Microsoft Compiler, and Apple Clang. However, for example, for x/7, the generated code is designed for 32-bit CPUs and therefore does not fully exploit 64-bit capabilities. This paper proposes an optimization method for 32-bit unsigned division by constants targeting 64-bit CPUs. We implemented patches for LLVM/GCC and achieved speedups of 1.67x on Intel Xeon w9-3495X (Sapphire Rapids) and 1.98x on Apple M4 (Apple M-series SoC) in the microbenchmark described later. The LLVM patch has already been merged into llvm:main [6], demonstrating the practical applicability of the proposed method. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Takashi Hoshino [<a href=\"https://arxiv.org/show-email/18b91a18/2604.07902\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Thu, 9 Apr 2026 07:18:31 UTC (9 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
