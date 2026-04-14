@@ -1,0 +1,13 @@
+{
+  "id": "8f9ef03fac95",
+  "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
+  "originalTitle": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
+  "publishedAt": "2026-04-14T17:00:37.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google says it has been working with early testers to see how people use Gemini when they can save and recall prompts instantly. Some examples include calculating protein macros for a recipe, generating side-by-side comparison tables from multiple tabs, and creating summaries of long documents or websites.</p> <p>Maybe you don’t use Gemini in Chrome much, but Google also sees Skills as a way it might be able to change that. When Skills support hits Chrome, it will also include a Skills Library, featuring pre-built Gemini prompts that you can add to your collection and edit to suit your needs. Google says it designed a variety of Skills for the library, some of which sound more theoretically useful than others. A bot that lists ingredients in a skincare product? Maybe useful. A bot that creates a movie trailer-style dramatization of webpage content? Less so.</p> <p>There’s nothing new about the way Gemini handles these tasks—it’s just faster to start them. You can still choose the model that best suits the job, with the Pro variant taking longer to run but offering better overall results. The Fast models are, well, faster but more prone to making mistakes. So keep that in mind before you start firing off Chrome skills.</p>\n<p>Skills in Chrome are starting to roll out today. You don’t need a paid AI plan to get access—it’s available by default for all Chrome installs with the language set to US English. Since this feature is bundled up inside Gemini for Chrome, you can also safely ignore it by not opening the Gemini sidebar.</p> </div></div>",
+  "image": "images/84b611732a0a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
