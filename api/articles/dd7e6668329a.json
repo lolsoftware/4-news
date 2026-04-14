@@ -1,0 +1,13 @@
+{
+  "id": "dd7e6668329a",
+  "title": "Google will begin punishing sites for back button hijacking in June",
+  "originalTitle": "Google will begin punishing sites for back button hijacking in June",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+  "publishedAt": "2026-04-14T15:48:41.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google says the back button should always do what you expect it to do—go back. Anything else amounts to a deceptive user experience that can discourage users from visiting unfamiliar pages in the future. The company isn’t inventing a new rule to address this behavior, which is apparently on the rise. Google will simply be more broadly enforcing the <a href=\"https://developers.google.com/search/docs/essentials/spam-policies#malicious-practices\">malicious practices policy</a>, which says in part:</p>\n<blockquote><p>Malicious practices create a mismatch between user expectations and the actual outcome, leading to a negative and deceptive user experience, or compromised user security or privacy.</p></blockquote>\n<p>Sites that have been using back button hijacking are now under the gun to end the practice. Starting on June 15, 2026, sites using back button hijacking could be hit with either automated or manual anti-spam actions. That can result in a much lower page rank in search, which is a problem for sites that have traditionally relied on search traffic to stay afloat.</p>\n<p>Google says that any site that uses back button hijacking should spend the next two months eliminating the practice. The early warning ensures they’ll have a chance to get it done. While some websites have designed their own systems to do this, others have back button hijacking as a consequence of a third-party library or advertising stack. Whatever the origin of the hijack, sites will want to get it sorted out before the deadline to avoid a spam designation.</p> </div></div>",
+  "image": "images/0d362229bdd3.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 14 Apr 2026 15:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:57:15 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rzecznik Praw Pacjenta uruchomił Helpline. Wsparcie w chorobie Alzheimera w całej Polsce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/04d947325796</link>
+      <description>Późna diagnoza i brak informacji to jedne z największych wyzwań w chorobie Alzheimera. Bezpłatna infolinia Helpline (800 201 801) uruchomiona przez Rzecznika Praw Pacjenta w partnerstwie z Alzheimer Polska zapewnia wsparcie osobom z zaburzeniami otępiennymi oraz ich rodzinom i opiekunom w całej Polsce.</description>
+      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
+      <guid isPermaLink="false">04d947325796</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Rzecznik-Praw-Pacjenta-uruchomil-Helpline-Wsparcie-w-chorobie-Alzheimera-w-calej-Polsce,283227,14.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>NFZ tnie pieniądze na badania, a kolejki pacjentów rosną. Są nowe dane</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d3d030cd69c6</link>
@@ -14,6 +22,22 @@
       <pubDate>Tue, 14 Apr 2026 17:03:00 GMT</pubDate>
       <guid isPermaLink="false">d3d030cd69c6</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/NFZ-tnie-pieniadze-na-badania-a-kolejki-pacjentow-rosna-Sa-nowe-dane,283213,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>How the rewards app Freecash scammed its way to the top of the app stores</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a1a5657a4b7a</link>
+      <description>Freecash was removed from Apple&apos;s App Store after TechCrunch reached out for comment.</description>
+      <pubDate>Tue, 14 Apr 2026 16:43:09 GMT</pubDate>
+      <guid isPermaLink="false">a1a5657a4b7a</guid>
+      <source url="https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Chatboty AI mogą zmieniać nasz wewnętrzny głos</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2d08dcc1d2e8</link>
+      <description>Rozmawialiście kiedyś naprawdę długo z chatbotem? Te dopasowują się do nas, mówią w atrakcyjny dla nas sposób, nierzadko nam przytakują. Trafiłem na ciekawy esej, który mówi wprost: AI może zmieniać nasz &quot;wewnętrzny głos&quot;. Wielu z nas takowy posiada.</description>
+      <pubDate>Tue, 14 Apr 2026 16:30:28 GMT</pubDate>
+      <guid isPermaLink="false">2d08dcc1d2e8</guid>
+      <source url="https://antyweb.pl/wewnetrzny-glos-kolonizowany-przez-ai">Antyweb</source>
     </item>
     <item>
       <title>SOR-y dostaną więcej czasu na lądowiska? Ministerstwo proponuje zmianę przepisów</title>
@@ -24,6 +48,112 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/SOR-y-dostana-wiecej-czasu-na-ladowiska-Ministerstwo-proponuje-zmiane-przepisow,283220,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>WIG20 w drodze na historyczny szczyt. Czy zdąży na jubileusz 35-lecia GPW? </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/592fca1b4d14</link>
+      <description>WIG20 znalazły się we wtorek na poziomach nieoglądanych od 18 lat i pewnym krokiem zmierza w stronę historycznego szczytu z 2007 r. Trudno jednak oczekiwać, że dystans ten indeks polskich blue chipów pokona w ciągu najbliższych dni, kiedy to GPW świętować będzie jubileusz 35-lecia pierwszych notowań. Rekordy bije już za to WIG, od którego wszystko się zaczęło. Dobre nastroje na polskiej giełdzie wpisują się w sentyment na rynkach zachodnich, które pozytywnie odbierają sygnały o odprężeniu na linii USA-Iran.</description>
+      <pubDate>Tue, 14 Apr 2026 16:26:00 GMT</pubDate>
+      <guid isPermaLink="false">592fca1b4d14</guid>
+      <source url="https://www.bankier.pl/wiadomosc/WIG20-w-drodze-na-historyczny-szczyt-Czy-zdazy-na-jubileusz-35-lecia-GPW-9113837.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>5NF and Database Design</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aaa7eff2daf0</link>
+      <description>Author: Alexey Makhotkin squadette@gmail.com, (~3900 words)
+One of the goals of this publication is to deconstruct the traditional ways of teaching basic topics in relational databases. Previously we discussed the fourth normal form (4NF): “Historically, 4NF explanations are needlessly confusing”.
+Let’s discuss the ultimate beast: fifth normal form (5NF). Often it’s presented even more confusingly than 4NF is, and we can show that this presentation is unnecessary, and the confusion is completely artificial.</description>
+      <pubDate>Tue, 14 Apr 2026 16:22:49 GMT</pubDate>
+      <guid isPermaLink="false">aaa7eff2daf0</guid>
+      <source url="https://kb.databasedesignbook.com/posts/5nf/">Hacker News</source>
+    </item>
+    <item>
+      <title>Niezdecydowany Trump. Wystarczyło 30 minut, by zmienił zdanie ws. Iranu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e59f974da46</link>
+      <description>W ciągu najbliższych dwóch dni może dojść do wznowienia rozmów pokojowych z Iranem w Pakistanie - ujawnił Donald Trump w rozmowie z dziennikarką &quot;New York Post&quot;. Sytuacja jest dynamiczna, bowiem jeszcze pół godziny wcześniej amerykański prezydent mówił tej samej dziennikarce, że... wyklucza negocjacje w Pakistanie.</description>
+      <pubDate>Tue, 14 Apr 2026 16:22:08 GMT</pubDate>
+      <guid isPermaLink="false">9e59f974da46</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-niezdecydowany-trump-wystarczylo-30-minut-by-zmienil-zdanie-,nId,8077236">RMF24</source>
+    </item>
+    <item>
+      <title>Kto zostanie prezesem IPN? Jest nowa rekomendacja</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3bba195aff26</link>
+      <description>Dr Mateusz Szpytma, zastępca prezesa Instytutu Pamięci Narodowej, został we wtorek rekomendowany przez Kolegium IPN na prezesa tej instytucji. To drugie podejście do wybrania nowego prezesa IPN, następcy Karola Nawrockiego, po tym, jak w ubiegłym roku poprzedni kandydat nie uzyskał wymaganego poparcia w Sejmie. Ostateczną decyzję ponownie podejmie parlament.</description>
+      <pubDate>Tue, 14 Apr 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="false">3bba195aff26</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-kto-zostanie-prezesem-ipn-jest-nowa-rekomendacja,nId,8077235">RMF24</source>
+    </item>
+    <item>
+      <title>Świat muzyki w żałobie. Nie żyje wokalistka zespołu Clannad</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ca6108e4651</link>
+      <description>Zmarła Moya Brennan, wokalistka kultowego irlandzkiego zespołu Clannad. O odejściu 73-letniej artystki poinformowała w mediach społecznościowych jej siostra. Brennan pożegnał premier Irlandii Michael Martin. Muzyka zespołu Clannad do serialu &quot;Robin z Sherwood&quot; z lat 80. to ikoniczna ścieżka dźwiękowa wydana na albumie &quot;Legend&quot;.</description>
+      <pubDate>Tue, 14 Apr 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">6ca6108e4651</guid>
+      <source url="https://www.rmf24.pl/kultura/news-swiat-muzyki-w-zalobie-nie-zyje-moya-brennan-wokalistka-zesp,nId,8077234">RMF24</source>
+    </item>
+    <item>
+      <title>Starlinkowi rośnie konkurencja. Amazon wchodzi do gry z przytupem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/114a022486e8</link>
+      <description>Amazon wytacza ciężkie działa przeciwko Starlinkowi i przejmuje Globalstar. Firma dostarcza łączność satelitarną do iPhone’ów.</description>
+      <pubDate>Tue, 14 Apr 2026 16:15:36 GMT</pubDate>
+      <guid isPermaLink="false">114a022486e8</guid>
+      <source url="https://antyweb.pl/starlinkowi-rosnie-konkurencja-amazon-wchodzi-do-gry-z-przytupem">Antyweb</source>
+    </item>
+    <item>
+      <title>&apos;Welcome home&apos;: Watch joyful reunion as Orion capsule opened after splashdown</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5bab20c71cc5</link>
+      <description>Newly released video shows the moment the hatch of Artemis II&apos;s Orion capsule is unlocked to a joyful reunion with the four astronauts.</description>
+      <pubDate>Tue, 14 Apr 2026 16:12:27 GMT</pubDate>
+      <guid isPermaLink="false">5bab20c71cc5</guid>
+      <source url="https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Rockets and spaceships are cool, but the humanity of Artemis II resonated most</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0f2fb56c1643</link>
+      <description>It’s a special thing to be human, and it’s a special thing to be on planet Earth.&quot;</description>
+      <pubDate>Tue, 14 Apr 2026 16:10:17 GMT</pubDate>
+      <guid isPermaLink="false">0f2fb56c1643</guid>
+      <source url="https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Financial risk management platform Pillar raises $20M seed in round led by a16z</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c3289ef593c</link>
+      <description>Pillar&apos;s investors include a16z, Uber CEO Dara Khosrowshahi, Crucible Capital and Gallery Ventures.</description>
+      <pubDate>Tue, 14 Apr 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">7c3289ef593c</guid>
+      <source url="https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Napięcie na linii Waszyngton-Rzym. Trump uderza w Meloni: Myślałem, że ma odwagę. Myliłem się</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f80d8e801a43</link>
+      <description>Prezydent USA Donald Trump powiedział we wtorek włoskiemu dziennikowi „Corriere della Sera”, że premier Włoch Giorgia Meloni nie chce pomagać Stanom Zjednoczonym w wojnie z Iranem. Podkreślił, że jest tym „zszokowany”.</description>
+      <pubDate>Tue, 14 Apr 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="false">f80d8e801a43</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Napiecie-na-linii-Waszyngton-Rzym-Trump-uderza-w-Meloni-Myslalem-ze-ma-odwage-Mylilem-sie-9113822.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>&quot;Naganne&quot;. Minister zdrowia o sprawie zabiegów poza kolejką dla bliskich polityków</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f62319628a28</link>
+      <description>&quot;Stawiam jasno diagnozę: mimo że w tym roku mamy rekordowy budżet na ochronę zdrowia, to do budżetu NFZ-u będzie nam brakowało 18 miliardów złotych. Nie będziemy szukać oszczędności kosztem pacjentów&quot; - powiedziała w Popołudniowej rozmowie w RMF FM minister zdrowia Jolanta Sobierańska-Grenda. W ten sposób odniosła się do aktualnej sytuacji w resorcie. Pytana o kwestię przeprowadzania zabiegów członków rodziny polityków koalicji rządzącej poza kolejnością stwierdziła, że &quot;takie praktyki są naganne&quot;.</description>
+      <pubDate>Tue, 14 Apr 2026 16:02:08 GMT</pubDate>
+      <guid isPermaLink="false">f62319628a28</guid>
+      <source url="https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-naganne-minister-zdrowia-o-sprawie-zabiegow-poza-kolejka-dla,nId,8077194">RMF24</source>
+    </item>
+    <item>
+      <title>Nowe prawo zablokuje Tatry? &quot;Za 10 lat trzeba będzie zamknąć kolejkę na Kasprowy&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd22afe4d90f</link>
+      <description>Włodarze gmin tatrzańskich sprzeciwiają się zmianom przepisów ustawy dotyczących inwestycji na terenach chronionych, w tym w parkach narodowych. Uważają, że mogą one zablokować rozwój turystyki i sportu oraz uderzyć w lokalną gospodarkę, w tym w modernizację schronisk czy kolejki na Kasprowy Wierch.</description>
+      <pubDate>Tue, 14 Apr 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="false">cd22afe4d90f</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nowe-prawo-zablokuje-Tatry-Za-10-lat-trzeba-bedzie-zamknac-kolejke-na-Kasprowy-9113819.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Nowy menedżer haseł HIPPO wylicza hasła zamiast je przechowywać</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/85f1df5eaffe</link>
+      <description>Projekt badaczy z Arabii Saudyjskiej i USA może być przełomem w menedżerach haseł. Zamiast przechowywać je w &quot;zaszyfrowanym sejfie&quot;, HIPPO wylicza je na bieżąco i, według wstępnych testów użytkowników, robi to wygodniej i bezpieczniej.</description>
+      <pubDate>Tue, 14 Apr 2026 16:00:11 GMT</pubDate>
+      <guid isPermaLink="false">85f1df5eaffe</guid>
+      <source url="https://antyweb.pl/hippo-menedzer-hasel">Antyweb</source>
+    </item>
+    <item>
       <title>Otyłość kosztuje nas 10 mld zł rocznie i będzie kosztowała więcej. Czy nowe terapie ograniczą ten trend?</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8754c026ba3c</link>
       <description>Polska potrzebuje krajowej strategii redukcji otyłości, która obejmie szerokie działania edukacyjne i promocję zdrowego stylu życia. Celem strategii powinno być również zapewnienie  wczesnej diagnostyki i efektywnego leczenia, z uwzględnieniem dostępu do zarejestrowanych opcji terapeutycznych - mówi Iwona Tarnowska, dyrektor Działu Medycznego Novo Nordisk Polska.</description>
@@ -32,12 +162,164 @@
       <source url="https://www.rynekzdrowia.pl/Farmacja/Otylosc-kosztuje-nas-10-mld-zl-rocznie-i-bedzie-kosztowala-wiecej-Czy-nowe-terapie-ogranicza-ten-trend,283166,6.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>A Hug for Home Away from Home</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9f07db0ae36b</link>
+      <description>NASA astronaut Christina Koch, Artemis II mission specialist, hugs the Orion spacecraft in the well deck of USS John P. Murtha, Saturday, April 11, 2026. NASA</description>
+      <pubDate>Tue, 14 Apr 2026 15:49:24 GMT</pubDate>
+      <guid isPermaLink="false">9f07db0ae36b</guid>
+      <source url="https://www.nasa.gov/image-article/a-hug-for-home-away-from-home/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Google will begin punishing sites for back button hijacking in June</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dd7e6668329a</link>
+      <description>Google says it could penalize back button hijacking by demoting websites in search ranking.</description>
+      <pubDate>Tue, 14 Apr 2026 15:48:41 GMT</pubDate>
+      <guid isPermaLink="false">dd7e6668329a</guid>
+      <source url="https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/">Ars Technica</source>
+    </item>
+    <item>
       <title>Wojskowa Akademia Medyczna wraca do Łodzi. &quot;Musimy znacząco zainwestować w rozwój wojskowej służby zdrowia&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/99117600c5c0</link>
       <description>Odtworzenie Wojskowej Akademii Medycznej w Łodzi staje się faktem. Rada Ministrów przyjęła projekt w tej sprawie – poinformował wicepremier Władysław Kosiniak-Kamysz, szef MON. Jak dodał, na wniosek MSWiA zakres działalności WAM ma być rozszerzony o służby podległe ministrowi spraw wewnętrznych.</description>
       <pubDate>Tue, 14 Apr 2026 15:48:00 GMT</pubDate>
       <guid isPermaLink="false">99117600c5c0</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Wojskowa-Akademia-Medyczna-wraca-do-Lodzi-Musimy-znaczaco-zainwestowac-w-rozwoj-wojskowej-sluzby-zdrowia,283223,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>&quot;Jest inna niż myślałem&quot;. Trump wyraźnie rozczarowany Meloni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b27f72e738f3</link>
+      <description>Donald Trump w rozmowie z włoskim dziennikiem &quot;Corriere della Sera&quot; nie krył rozczarowania postawą włoskiej premier Giorgi Meloni, która nie chce pomagać Stanom Zjednoczonym w wojnie z Iranem. Podkreślił, że jest tym &quot;zszokowany&quot;.</description>
+      <pubDate>Tue, 14 Apr 2026 15:44:00 GMT</pubDate>
+      <guid isPermaLink="false">b27f72e738f3</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-jest-inna-niz-myslalem-trump-wyraznie-rozczarowany-meloni,nId,8077233">RMF24</source>
+    </item>
+    <item>
+      <title>The Fediverse deserves a dumb graphical client</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/943357b5b4c1</link>
+      <description>Posts about SmolWeb, Gemini protocol and LowTech</description>
+      <pubDate>Tue, 14 Apr 2026 15:42:48 GMT</pubDate>
+      <guid isPermaLink="false">943357b5b4c1</guid>
+      <source url="https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md">Hacker News</source>
+    </item>
+    <item>
+      <title>Urzędnicy przegrywają z inwestorem ze Stobnicy. Zamek w Puszczy Noteckiej legalny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a50eda98bc5e</link>
+      <description>Naczelny Sąd Administracyjny odrzucił we wtorek skargę kasacyjną Generalnego Dyrektora Ochrony Środowiska dotyczącą tzw. zamku w Stobnicy (pow. obornicki, woj. wielkopolskie). Zgodnie z orzeczeniem zgoda na budowę obiektu jest legalna. To ostatni wyrok administracyjny ws. tej inwestycji.</description>
+      <pubDate>Tue, 14 Apr 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="false">a50eda98bc5e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Urzednicy-przegrywaja-z-inwestorem-ze-Stobnicy-Zamek-w-Puszczy-Noteckiej-legalny-9113805.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>IONNA Rechargeries are coming to more than 350 Circle K stations</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/52954489ef30</link>
+      <description>The OEM-backed charging network offers 400 kW NACS and CCS DC fast chargers.</description>
+      <pubDate>Tue, 14 Apr 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="false">52954489ef30</guid>
+      <source url="https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Teleskop Webba pomaga odróżnić planetę od gwiazdy. Nie, to nie jest oczywiste</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6597c8321aaa</link>
+      <description>Najnowsze badania przeprowadzone przy użyciu Kosmicznego Teleskopu Jamesa Webba rzucają nowe światło na odwieczne pytanie astronomów: gdzie przebiega granica między największymi planetami a najmniejszymi gwiazdami? Odpowiedź na to pytanie okazuje się bardziej złożona, niż wcześniej sądzono. Zależy nie tylko od masy obiektu, ale przede wszystkim od mechanizmu jego powstania. Pisze o tym w najnowszym numerze czasopismo &quot;Astrophysical Journal Letters&quot;.</description>
+      <pubDate>Tue, 14 Apr 2026 15:35:50 GMT</pubDate>
+      <guid isPermaLink="false">6597c8321aaa</guid>
+      <source url="https://www.rmf24.pl/nauka/news-teleskop-webba-pomaga-odroznic-planete-od-gwiazdy-nie-to-nie,nId,8077229">RMF24</source>
+    </item>
+    <item>
+      <title>In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/41d71baaa145</link>
+      <description>StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.</description>
+      <pubDate>Tue, 14 Apr 2026 15:30:49 GMT</pubDate>
+      <guid isPermaLink="false">41d71baaa145</guid>
+      <source url="https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Japoński zakład osiągnął 90 proc. odzysku litu ze zużytych baterii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5e84cfaa8851</link>
+      <description>Japoński zakład w Tsurudze miał podnieść odzysk litu ze zużytych baterii litowo-jonowych do około 90 proc., co w tej branży jest wynikiem wręcz doskonałym. Tu już nie chodzi nawet o zmniejszenie ilości odpadów, lecz o kontrolę nad surowcem: a to już kwestia z coraz mocniejszym zabarwieniem politycznym.</description>
+      <pubDate>Tue, 14 Apr 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="false">5e84cfaa8851</guid>
+      <source url="https://antyweb.pl/odzysk-litu-tsuruga">Antyweb</source>
+    </item>
+    <item>
+      <title>&quot;Spożył około litra wódki&quot;. Nowe informacje ws. sprawcy wypadku w Łomiankach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/28abef4e22e3</link>
+      <description>Policja szuka świadków tragicznego wypadku na drodze krajowej nr 7 w podwarszawskich Łomiankach, w którym zginęły dwie osoby, a kolejna jest w bardzo ciężkim stanie. Śledczy ujawnili, że sprawca wypadku, który uciekł z miejsca zdarzenia i nie udzielił pomocy poszkodowanym, był pod wpływem alkoholu.</description>
+      <pubDate>Tue, 14 Apr 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="false">28abef4e22e3</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-spozyl-okolo-litra-wodki-nowe-informacje-ws-sprawcy-wypadku-,nId,8077230">RMF24</source>
+    </item>
+    <item>
+      <title>April 2026 Satellite Puzzler</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ec4728f24584</link>
+      <description>Your challenge is to tell us the location of the satellite image and why it is interesting.</description>
+      <pubDate>Tue, 14 Apr 2026 15:23:31 GMT</pubDate>
+      <guid isPermaLink="false">ec4728f24584</guid>
+      <source url="https://science.nasa.gov/earth/earth-observatory/april-2026-satellite-puzzler/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Popyt na ropę ostro w dół. Tak źle nie było od pandemii COVID-19</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/83f1ff596954</link>
+      <description>Międzynarodowa Agencja Energetyczna (MAE) podała we wtorek, że przewiduje w drugim kwartale br. największy spadek popytu na ropę od pandemii Covid-19. Powodem jest brak pewności, czy konflikt na Bliskim Wschodzie zostanie uregulowany na drodze negocjacji.</description>
+      <pubDate>Tue, 14 Apr 2026 15:16:00 GMT</pubDate>
+      <guid isPermaLink="false">83f1ff596954</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Popyt-na-rope-ostro-w-dol-Tak-zle-nie-bylo-od-pandemii-COVID-19-9113783.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Zagłosuj na jeden z zestawów LEGO Ideas. Trafić może do produkcji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d9f75f3e591d</link>
+      <description>Choć zazwyczaj przy LEGO Ideas to ostatecznie LEGO decyduje, które zestawy stworzone przez fanów trafią do sprzedaży, przy tej okazji głos oddano społeczności. I w sumie dobrze, bo o anime Yu-Gi-Oh! najwięcej wiedzą jego fani.</description>
+      <pubDate>Tue, 14 Apr 2026 15:15:39 GMT</pubDate>
+      <guid isPermaLink="false">d9f75f3e591d</guid>
+      <source url="https://antyweb.pl/zaglosuj-na-jeden-z-zestawow-lego-ideas-trafic-moze-do-produkcji">Antyweb</source>
+    </item>
+    <item>
+      <title>Marszałek Sejmu chce ukarania Berkowicza. Poseł pokazał flagę Izraela ze swastyką</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c45422587573</link>
+      <description>Marszałek Sejmu Włodzimierz Czarzasty potępił zachowanie Konrada Berkowicza (Konfederacja), który na mównicy sejmowej pokazał wydruk przerobionej flagi Izraela ze swastyką. Marszałek zwróci się do Prezydium Sejmu o ukaranie posła, a służby prawne analizują możliwość dalszych kroków prawnych.</description>
+      <pubDate>Tue, 14 Apr 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="false">c45422587573</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Marszalek-Sejmu-chce-ukarania-Berkowicza-Posel-pokazal-flage-Izraela-ze-swastyka-9113780.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Napaść na tle rasowym na stadionie. Sąd zdecydował ws. 20-latka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bb4eff8028e3</link>
+      <description>​Karę roku więzienia w zawieszeniu na trzy lata wymierzył opolski sąd Fabianowi O., który na meczu piłkarskim zaatakował trzy osoby na tle rasistowskim. 20-latek otrzymał także trzyletni zakaz wstępu na imprezy masowe. Wyrok nie jest prawomocny.</description>
+      <pubDate>Tue, 14 Apr 2026 15:11:16 GMT</pubDate>
+      <guid isPermaLink="false">bb4eff8028e3</guid>
+      <source url="https://www.rmf24.pl/regiony/news-napasc-na-tle-rasowym-na-stadionie-jest-wyrok-sadu,nId,8077228">RMF24</source>
+    </item>
+    <item>
+      <title>Deficyt budżetowy państwa. Resort finansów przekazał nowe dane</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ff3139c1461</link>
+      <description>​Przedstawiciele resortu finansów przekazali w Sejmie, że dochody państwa po marcu sięgnęły 125,3 miliardów złotych, zaś wydatki prawie 194,5 mld. Oznacza to, że deficyt budżetu państwa wyniósł blisko 69,4 mld złotych.</description>
+      <pubDate>Tue, 14 Apr 2026 15:08:36 GMT</pubDate>
+      <guid isPermaLink="false">6ff3139c1461</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-deficyt-budzetowy-panstwa-resort-finansow-przekazal-nowe-dan,nId,8077227">RMF24</source>
+    </item>
+    <item>
+      <title>Ceny paliw w Niemczech lekko w dół. Rząd szykuje obniżkę podatków i 1000 euro premii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/844818785cb3</link>
+      <description>Ceny paliw w Niemczech we wtorek lekko spadły po poniedziałkowych podwyżkach. Według dziennika „Bild” po godz. 12 cena litra oleju napędowego była o 2 eurocenty niższa niż dzień wcześniej o tej samej porze i wynosiła 2,36 euro, natomiast litr benzyny E10 potaniał o jeden eurocent, do 2,17 euro.</description>
+      <pubDate>Tue, 14 Apr 2026 15:06:00 GMT</pubDate>
+      <guid isPermaLink="false">844818785cb3</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ceny-paliw-w-Niemczech-lekko-w-dol-Rzad-szykuje-obnizke-podatkow-i-1000-euro-premii-9113775.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>JD Vance defends backing &apos;great guy&apos; Orbán&apos;s campaign after landslide defeat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/89fbc7a487de</link>
+      <description>Hungary&apos;s leader was a &quot;great guy&quot; who did a &quot;very good job&quot;, the US vice-president said, but he was sure he could work with Péter Magyar.</description>
+      <pubDate>Tue, 14 Apr 2026 15:04:09 GMT</pubDate>
+      <guid isPermaLink="false">89fbc7a487de</guid>
+      <source url="https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>The future of everything is lies, I guess: Work</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7660cf7a33cd</link>
+      <description>This is a long article, so I&apos;m breaking it up into a series of posts which will be released over the next few days. You can also read the full work as a PDF or EPUB; these files will be updated as each section is released.</description>
+      <pubDate>Tue, 14 Apr 2026 15:00:45 GMT</pubDate>
+      <guid isPermaLink="false">7660cf7a33cd</guid>
+      <source url="https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work">Hacker News</source>
     </item>
     <item>
       <title>Apple usunął stare programy iWork. Nie trzeba płacić za zamienniki</title>
@@ -56,12 +338,36 @@
       <source url="https://www.rmf24.pl/regiony/szczecin/news-zaszczepila-dzieci-nieustalona-substancja-jest-wyrok-sadu-ws,nId,8077226">RMF24</source>
     </item>
     <item>
+      <title>Single-sex space guidance for organisations to be published after May elections</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/16e66e7404ea</link>
+      <description>Equalities minister Bridget Phillipson says election rules mean a new draft cannot be published until next month.</description>
+      <pubDate>Tue, 14 Apr 2026 14:54:17 GMT</pubDate>
+      <guid isPermaLink="false">16e66e7404ea</guid>
+      <source url="https://www.bbc.com/news/articles/cn08849wz07o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Enter Air wypłaci pasażerom rekompensaty</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d25ec2e78b1f</link>
       <description>Linie Enter Air będą musiały wypłacić rekompensaty w łącznej wysokości ponad 8,2 mln zł - zdecydował Urząd Ochrony Konkurencji i Konsumenta (UOKiK). O pieniądze mogą ubiegać się  podróżni, którym w trakcie lotu uszkodzono lub zgubiono bagaż, jak i ci, którzy mieli problem z opóźnionym lotem lub reklamacją.</description>
       <pubDate>Tue, 14 Apr 2026 14:53:28 GMT</pubDate>
       <guid isPermaLink="false">d25ec2e78b1f</guid>
       <source url="https://tvn24.pl/biznes/turystyka/decyzja-uokik-ws-enter-air-polska-linia-lotnicza-zaplaci-pasazerom-miliony-st8997898?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Widmo zwolnień w radomskim &quot;Łuczniku&quot;. MON wskazuje na Nawrockiego i jego weto</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/136e76ae1475</link>
+      <description>Pewność zamówień w radomskiej Fabryce Broni „Łucznik” byłaby większa, gdyby nie tylko wojsko, ale i służby miały do dyspozycji środki z unijnego mechanizmu dozbrajania SAFE – tak szef MON Władysław Kosiniak-Kamysz odniósł się do sygnałów ws. braku nowych zamówień MON u radomskiego producenta.</description>
+      <pubDate>Tue, 14 Apr 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="false">136e76ae1475</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Widmo-zwolnien-w-radomskim-Luczniku-MON-wskazuje-na-Nawrockiego-i-jego-weto-9113751.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Show HN: LangAlpha – what if Claude Code was built for Wall Street?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1d41ccb28f1e</link>
+      <description>Claude Code for Finance. Contribute to ginlix-ai/LangAlpha development by creating an account on GitHub.</description>
+      <pubDate>Tue, 14 Apr 2026 14:48:46 GMT</pubDate>
+      <guid isPermaLink="false">1d41ccb28f1e</guid>
+      <source url="https://github.com/ginlix-ai/langalpha">Hacker News</source>
     </item>
     <item>
       <title>Google brings its Gemini Personal Intelligence feature to India</title>
@@ -102,310 +408,6 @@
       <pubDate>Tue, 14 Apr 2026 14:36:14 GMT</pubDate>
       <guid isPermaLink="false">f7cd7fd1274f</guid>
       <source url="https://tvn24.pl/kultura-i-styl/ruby-rose-oskarzyla-katy-perry-o-napasc-seksualna-w-klubie-nocnym-st8997885?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Adobe fixes PDF zero-day security bug that hackers have exploited for months</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/63cceb541575</link>
-      <description>It&apos;s not clear how many people were compromised by this hacking campaign, but a security researcher said the hackers were targeting victims since at least November 2025.</description>
-      <pubDate>Tue, 14 Apr 2026 14:35:16 GMT</pubDate>
-      <guid isPermaLink="false">63cceb541575</guid>
-      <source url="https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Tesla adds ‘streaks,’ other stats to track how often drivers use Full Self-Driving software</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8cd3e949f1a</link>
-      <description>Tesla has also made it easy to subscribe to the advanced driver assistance system.</description>
-      <pubDate>Tue, 14 Apr 2026 14:33:50 GMT</pubDate>
-      <guid isPermaLink="false">f8cd3e949f1a</guid>
-      <source url="https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Rząd przyjął ustawę o e-zdrowiu. W grze nadal ponad 3 mld zł z KPO</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/10309999993a</link>
-      <description>Rada Ministrów przyjęła projekt ustawy o e-zdrowiu. Dzięki temu resort zdrowia wciąż ma szansę zdążyć z wdrożeniem nowych przepisów do 30 czerwca tego roku. Od dalszych losów ustawy zależy, czy Polska otrzyma 3,1 mld zł na cyfryzację ochrony zdrowia z Krajowego Planu Odbudowy.</description>
-      <pubDate>Tue, 14 Apr 2026 14:33:00 GMT</pubDate>
-      <guid isPermaLink="false">10309999993a</guid>
-      <source url="https://www.rynekzdrowia.pl/E-zdrowie/Rzad-przyjal-ustawe-o-e-zdrowiu-W-grze-nadal-ponad-3-mld-zl-z-KPO,283204,7.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Schools Never Taught Critical Thinking: AI Exposed the Lie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/627928a55678</link>
-      <description>Nearly seven in ten middle and high school students now say they believe artificial intelligence is eroding their critical thinking ski...</description>
-      <pubDate>Tue, 14 Apr 2026 14:29:55 GMT</pubDate>
-      <guid isPermaLink="false">627928a55678</guid>
-      <source url="https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking">Hacker News</source>
-    </item>
-    <item>
-      <title>Pasażer Peugeota zatrzymany z narkotykami</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e1f43063332c</link>
-      <description>Po kontroli drogowej pasażerowi Peugeota grozi nawet do 10 lat. Policjanci znaleźli przy nim narkotyki, a w domu miał ich jeszcze więcej - w sumie blisko trzy kilogramy.</description>
-      <pubDate>Tue, 14 Apr 2026 14:29:23 GMT</pubDate>
-      <guid isPermaLink="false">e1f43063332c</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/makow-mazowiecki-policjanci-zatrzymali-mezczyzne-z-narkotykami-uslyszal-zarzuty-st8998039?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Instacart acquires Instaleap to expand its enterprise platform internationally</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/20312d1c6107</link>
-      <description>The acquisition will allow the company to expand its business into international markets without needing to launch a delivery network in those regions.</description>
-      <pubDate>Tue, 14 Apr 2026 14:29:23 GMT</pubDate>
-      <guid isPermaLink="false">20312d1c6107</guid>
-      <source url="https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Poseł Łukasz Mejza jechał 150 km/h. Mandat i punkty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4b54a889a110</link>
-      <description>Poseł Prawa i Sprawiedliwości Łukasz Mejza jechał w niedzielę drogą ekspresową pod Zieloną Górą z prędkością ponad 150 km/h. Zatrzymała go do kontroli policja i został ukarany mandatem oraz punktami karnymi. To kolejny przypadek łamania przepisów ruchu drogowego przez tego polityka.</description>
-      <pubDate>Tue, 14 Apr 2026 14:23:23 GMT</pubDate>
-      <guid isPermaLink="false">4b54a889a110</guid>
-      <source url="https://tvn24.pl/lubuskie/zielona-gora-kolejny-rajd-posla-lukasza-mejzy-na-liczniku-mial-150-km-h-st8998087?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>How vibe coding app Anything is rebuilding after getting booted from the App Store twice</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b0a087e6a68f</link>
-      <description>Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.</description>
-      <pubDate>Tue, 14 Apr 2026 14:22:44 GMT</pubDate>
-      <guid isPermaLink="false">b0a087e6a68f</guid>
-      <source url="https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5a1f3b00addd</link>
-      <description>In the aftermath of Earth’s most catastrophic extinction event, one unlikely survivor rose to dominate a shattered world: Lystrosaurus. Now, a stunning fossil discovery—an ancient egg containing a curled-up embryo—has finally answered a decades-old mystery about whether mammal ancestors laid eggs. Using advanced imaging technology, scientists confirmed that these resilient creatures did reproduce this way, likely producing large, soft-shelled eggs packed with nutrients.</description>
-      <pubDate>Tue, 14 Apr 2026 14:20:28 GMT</pubDate>
-      <guid isPermaLink="false">5a1f3b00addd</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/04/260414075642.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Teheran ustępuje przed USA? Zaskakujący ruch w cieśninie Ormuz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b89d36ccf91b</link>
-      <description>Iran rozważa krótkotrwałe wstrzymanie ruchu swoich statków przez cieśninę Ormuz, by nie udaremnić nowej rundy rozmów pokojowych z USA i uniknąć testowania amerykańskiej blokady - przekazała we wtorek agencja Bloomberg, powołując się na wysoko postawionego irańskiego urzędnika.</description>
-      <pubDate>Tue, 14 Apr 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="false">b89d36ccf91b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Teheran-ustepuje-przed-USA-Zaskakujacy-ruch-w-ciesninie-Ormuz-9113710.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>UK faces biggest hit to growth from Iran war of major economies, IMF says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/375c9fed6198</link>
-      <description>The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy &quot;off course&quot;.</description>
-      <pubDate>Tue, 14 Apr 2026 14:14:53 GMT</pubDate>
-      <guid isPermaLink="false">375c9fed6198</guid>
-      <source url="https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Szef MON ogłasza sukces. &quot;Uszczelniliśmy granicę państwową&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/75b83a045882</link>
-      <description>Polska granica z Białorusią jest w pełni szczelna - zapewnił minister obrony narodowej Władysław Kosiniak-Kamysz po wtorkowym posiedzeniu rządu. Jak poinformował, skuteczność zatrzymań i uniemożliwienia nielegalnego przekroczenia tej granicy sięgnęła 100 procent.</description>
-      <pubDate>Tue, 14 Apr 2026 14:14:32 GMT</pubDate>
-      <guid isPermaLink="false">75b83a045882</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-szef-mon-oglasza-sukces-uszczelnilismy-granice-panstwowa,nId,8077221">RMF24</source>
-    </item>
-    <item>
-      <title>Ukraina i Niemcy zawarły pakiet obronny o wartości 4 miliardów euro</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a4c91591eea</link>
-      <description>Ukraina i Niemcy uzgodniły pakiet porozumień w dziedzinie obronności o wartości 4 miliardów euro - przekazał minister obrony Ukrainy Mychajło Fedorow. Jest to efekt ukraińsko-niemieckich międzyrządowych konsultacji w Berlinie. &quot;Niemcy są numerem jeden w Europie we wspieraniu naszej obrony. Dziękuję&quot;- napisał Zełenski na X.</description>
-      <pubDate>Tue, 14 Apr 2026 14:13:55 GMT</pubDate>
-      <guid isPermaLink="false">2a4c91591eea</guid>
-      <source url="https://tvn24.pl/swiat/nowe-porozumienie-ukrainy-i-niemiec-podnosimy-nasze-relacje-na-nowy-poziom-st8997997?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Magyar chce wprowadzić Węgry do strefy euro. KE oceni szanse</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/47ff4313d51d</link>
-      <description>​Komisja Europejska przedstawi latem ocenę postępów państw UE spoza strefy euro na drodze do przyjęcia wspólnej waluty - przekazał we wtorek rzecznik KE Balazs Ujvari. Wśród tych krajów są Węgry, gdzie Peter Magyar - lider partii, która w niedzielę wygrała tamtejsze wybory parlamentarne - chce przyjęcia euro.</description>
-      <pubDate>Tue, 14 Apr 2026 14:10:31 GMT</pubDate>
-      <guid isPermaLink="false">47ff4313d51d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-magyar-chce-wprowadzic-wegry-do-strefy-euro-ke-oceni-szanse,nId,8077220">RMF24</source>
-    </item>
-    <item>
-      <title>Scientists just recreated a rare cosmic reaction never seen before</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c534057d31e</link>
-      <description>A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form in supernova explosions, cutting uncertainty in half. But the findings also reveal gaps in current theories, hinting that the story isn’t complete yet.</description>
-      <pubDate>Tue, 14 Apr 2026 14:06:43 GMT</pubDate>
-      <guid isPermaLink="false">8c534057d31e</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/04/260414075652.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Fuel prices stop rising after 43 days of increases, RAC says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1bf88b0b6b64</link>
-      <description>The motoring group says prices could start to come down over the next couple of weeks.</description>
-      <pubDate>Tue, 14 Apr 2026 14:06:32 GMT</pubDate>
-      <guid isPermaLink="false">1bf88b0b6b64</guid>
-      <source url="https://www.bbc.com/news/articles/c98kk1lrkzno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>40 zł za sztukę. Rząd nakłada nową akcyzę na kolejną generację e-papierosów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6725c0cadf69</link>
-      <description>Rząd przyjął projekt zmian w podatku akcyzowym, który uszczelni opodatkowanie e-papierosów - poinformował po posiedzeniu rządu wicepremier, szef MON Władysław Kosiniak-Kamysz. Projekt wprowadza zmiany w systemie opodatkowania papierosów elektronicznych działających na zasadzie indukcji elektromagnetycznej.</description>
-      <pubDate>Tue, 14 Apr 2026 14:06:00 GMT</pubDate>
-      <guid isPermaLink="false">6725c0cadf69</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Koniec-luki-podatkowej-Rzad-przyjal-projekt-zmian-w-akcyzie-na-e-papierosy-9113696.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>UE podnosi cła na stal spoza Unii. Stawki wzrosną dwukrotnie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0f334a2850fe</link>
-      <description>Unia Europejska planuje zaostrzenie przepisów dotyczących importu stali spoza Wspólnoty. Zgodnie z porozumieniem osiągniętym między Parlamentem Europejskim a państwami członkowskimi, przewiduje się między innymi podwojenie ceł oraz zmniejszenie, niemal o połowę, bezcłowych kontyngentów na import tego metalu.</description>
-      <pubDate>Tue, 14 Apr 2026 14:05:07 GMT</pubDate>
-      <guid isPermaLink="false">0f334a2850fe</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/ue-planuje-podwyzke-cel-na-import-stali-stawki-wzrosna-dwukrotnie-st8997958?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dzień uwagi – cytat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5787cca0c435</link>
-      <description>Na naszych łamach często piszemy o pożytkach płynących z praktykowania uważności. No dobrze, ale jak konkretnie się do tego zabrać? Przedstawiamy rozważania mistrza zen Thicha Nhata Hanha.</description>
-      <pubDate>Tue, 14 Apr 2026 14:04:16 GMT</pubDate>
-      <guid isPermaLink="false">5787cca0c435</guid>
-      <source url="https://przekroj.org/duch-cialo/dzien-uwagi/">Przekrój</source>
-    </item>
-    <item>
-      <title>Najnowsze prognozy MFW dla Polski: Gospodarka na ścieżce stabilnego wzrostu, ale bez fajerwerków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dc399f1f32b9</link>
-      <description>Międzynarodowy Fundusz Walutowy prognozuje, że PKB Polski w latach 2026-2027 urośnie o odpowiednio 3,3 proc. i 2,4 proc. - wynika z najnowszej wersji cyklicznego raportu MFW World Economic Outlook.</description>
-      <pubDate>Tue, 14 Apr 2026 14:02:00 GMT</pubDate>
-      <guid isPermaLink="false">dc399f1f32b9</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Najnowsze-prognozy-MFW-dla-Polski-Gospodarka-na-sciezce-stabilnego-wzrostu-ale-bez-fajerwerkow-9113693.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Artemis czy Apollo. Która misja kosmiczna zrobiła lepsze zdjęcia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fd27d4b5fe61</link>
-      <description>Za nami jedna z najbardziej medialnych misji kosmicznych ostatnich dekad, która ponownie rozpaliła zainteresowanie Księżycem i podróży na niego. Czy jest w stanie ona dorównać legendzie pierwszych wypraw?</description>
-      <pubDate>Tue, 14 Apr 2026 14:00:52 GMT</pubDate>
-      <guid isPermaLink="false">fd27d4b5fe61</guid>
-      <source url="https://antyweb.pl/legendarna-misja-apollo-czy-artemis-ktora-zrobila-lepsze-zdjecia-w-kosmosie">Antyweb</source>
-    </item>
-    <item>
-      <title>Rząd zatwierdził rozszerzenie usług e-zdrowia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/586f98d6393e</link>
-      <description>Zielone światło dla e-zdrowia. Projekt nowelizacji ustaw związanych z rozwojem usług w tej dziedzinie przyjął we wtorek rząd. Regulacja przewiduje m.in. rozbudowanie obecnego systemu o e-Konsylium i System Domowej Opieki Medycznej, a także umożliwienie wykorzystania sztucznej inteligencji w leczeniu i diagnostyce.</description>
-      <pubDate>Tue, 14 Apr 2026 13:59:20 GMT</pubDate>
-      <guid isPermaLink="false">586f98d6393e</guid>
-      <source url="https://tvn24.pl/zdrowie/wiecej-uslug-w-e-zdrowiu-to-przelomowe-zmiany-ocenia-wicepremier-wladyslaw-kosiniak-kamysz-st8997951?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Tysiące osób z całego świata przechodzi w Marszu Żywych [ZDJĘCIA]</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c8613be82ee</link>
-      <description>Kilka tysięcy osób z całego świata przechodzi ulicami Oświęcimia, biorąc udział w Marszu Żywych i upamiętniając w ten sposób ofiary Zagłady. Kilka dni temu swój udział odwołały delegacje z Izraela. Marsz prowadzi pięćdziesięciu ocalałych z Holokaustu. Mają od 80 do 98 lat.</description>
-      <pubDate>Tue, 14 Apr 2026 13:56:00 GMT</pubDate>
-      <guid isPermaLink="false">3c8613be82ee</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-tysiace-osob-z-calego-swiata-przechodzi-w-marszu-zywych-zdje,nId,8077218">RMF24</source>
-    </item>
-    <item>
-      <title>16-latek miał ponad 1,6 promila alkoholu mimo zaprzeczeń</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/36b2890ac7f9</link>
-      <description>16-latek wyzywał funkcjonariuszy i własną matkę, uszkodził też radiowóz. Twierdził, że jest sportowcem i nie pije. Badanie alkomatem wykazało jednak, że w wydychanym powietrzu miał ponad 1,6 promila.</description>
-      <pubDate>Tue, 14 Apr 2026 13:55:48 GMT</pubDate>
-      <guid isPermaLink="false">36b2890ac7f9</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-uszkodzil-radiowoz-wyzywal-policjantow-i-matke-st8997948?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e5b8cba7735f</link>
-      <description>Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple&apos;s &quot;Emergency SOS&quot; feature, for $11.57 billion in cash.</description>
-      <pubDate>Tue, 14 Apr 2026 13:55:42 GMT</pubDate>
-      <guid isPermaLink="false">e5b8cba7735f</guid>
-      <source url="https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Ponad 1 mln zł za jedno podanie CAR-T. &quot;Przepisy dotyczące produkcji akademickiej muszą być bardziej elastyczne&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/be82070f38e3</link>
-      <description>Do tej pory Polska wydała ok. 0,5 mld zł na terapię CAR-T dla ponad 400 pacjentów, co oznacza, że jedno podanie kosztuje ponad 1 mln zł. Wniosek jest jeden: czas uelastycznić przepisy dotyczące produkcji CAR-T w ośrodkach akademickich - mówił podczas XI Kongresu Wyzwań Zdrowotnych Mateusz Oczkowski z MZ.</description>
-      <pubDate>Tue, 14 Apr 2026 13:55:00 GMT</pubDate>
-      <guid isPermaLink="false">be82070f38e3</guid>
-      <source url="https://www.rynekzdrowia.pl/serwis-hematoonkologia/Ponad-1-mln-zl-za-jedno-podanie-CAR-T-Przepisy-dotyczace-produkcji-akademickiej-musza-byc-bardziej-elastyczne,283029,1023.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Przyjęcia bez zgody do szpitali psychiatrycznych. MZ: zarzut niezrozumiały</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4b46b331dc8b</link>
-      <description>Czy zawiadomienie sądu o przyjęciu pacjenta do szpitala psychiatrycznego bez jego zgody powinno następować szybciej? Taki postulat pojawił się w petycji skierowanej do Senatu RP. Ministerstwo Zdrowia odpowiada, że obowiązujące przepisy jasno określają terminy i nie wymagają zmian.</description>
-      <pubDate>Tue, 14 Apr 2026 13:55:00 GMT</pubDate>
-      <guid isPermaLink="false">4b46b331dc8b</guid>
-      <source url="https://www.rynekzdrowia.pl/Psychiatria/Przyjecia-bez-zgody-do-szpitali-psychiatrycznych-MZ-zarzut-niezrozumialy,283215,16.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Optymiści żyją dlużej – cytat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e74f14468449</link>
-      <description>Była końcówka lat 60. XX w., kiedy amerykański psycholog Martin Seligman rozpoczął badania, które wkrótce miały przynieść mu sławę w środowisku naukowym.</description>
-      <pubDate>Tue, 14 Apr 2026 13:49:42 GMT</pubDate>
-      <guid isPermaLink="false">e74f14468449</guid>
-      <source url="https://przekroj.org/duch-cialo/zaprogramuj-sobie-szczescie/">Przekrój</source>
-    </item>
-    <item>
-      <title>Zerowe zagrożenie? Radioaktywny przysmak pod lupą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3086ad72fa8c</link>
-      <description>&quot;Radioaktywne jedzenie&quot; brzmi jak zagrożenie, ale prawda może zaskoczyć. Banany, mleko czy orzechy brazylijskie faktycznie zawierają śladowe ilości promieniowania – i regularnie trafiają na nasze talerze. Eksperci uspokajają: to naturalne zjawisko, z którym organizm radzi sobie bez problemu. Sprawdź, które produkty są „najbardziej radioaktywne” i czy naprawdę jest się czego bać.</description>
-      <pubDate>Tue, 14 Apr 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="false">3086ad72fa8c</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zerowe-zagrozenie-Radioaktywny-przysmak-pod-lupa,283040,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Będzie kara finansowa dla Berkowicza? Ostre stanowisko marszałka Sejmu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76e4af6f5349</link>
-      <description>Konrad Berkowicz z Konfederacji może zostać finansowo ukarany za naruszenie powagi Sejmu w czasie dzisiejszych obrad. Wniosek w tej sprawie zapowiedział marszałek Sejmu Włodzimierz Czarzasty. Chodzi o porównanie Izraela do III Rzeszy i umieszczenie swastyki na jego fladze.</description>
-      <pubDate>Tue, 14 Apr 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="false">76e4af6f5349</guid>
-      <source url="https://www.rmf24.pl/polityka/news-bedzie-kara-finansowa-dla-berkowicza-ostre-stanowisko-marsza,nId,8077216">RMF24</source>
-    </item>
-    <item>
-      <title>Wells Fargo zarabia więcej, ale wyniki rozczarowały analityków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cbd2f801ccf3</link>
-      <description>Spadek przychodów odsetkowych i wynik poniżej oczekiwań analityków uderzyły w notowania Wells Fargo. Akcje banku traciły w handlu przedsesyjnym, mimo że sam zysk netto okazał się wyższy niż rok wcześniej.</description>
-      <pubDate>Tue, 14 Apr 2026 13:44:05 GMT</pubDate>
-      <guid isPermaLink="false">cbd2f801ccf3</guid>
-      <source url="https://tvn24.pl/biznes/rynki/obnizki-stop-uderzaja-w-wells-fargo-przychody-odsetkowe-banku-ponizej-oczekiwan-st8997910?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Marszałek Sejmu złoży wniosek o ukaranie posła Konfederacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/070a9008ef38</link>
-      <description>Marszałek Sejmu Włodzimierz Czarzasty podjął decyzję o przygotowaniu wniosku do Prezydium Sejmu o ukaranie Konrada Berkowicza - poinformowała Kancelaria Sejmu. Ruch ten ma związek z wtorkowym zachowaniem posła Konfederacji na sali sejmowej.</description>
-      <pubDate>Tue, 14 Apr 2026 13:43:04 GMT</pubDate>
-      <guid isPermaLink="false">070a9008ef38</guid>
-      <source url="https://tvn24.pl/polska/sejm-konrad-berkowicz-pokazal-przerobiona-flage-ze-swastyka-jest-decyzja-marszalka-sejmu-wlodzimierza-czarzastego-st8998001?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dyrektor szkoły zawieszony. Prokuratura oskarża go o posiadanie narkotyków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/474d7626775c</link>
-      <description>Prokuratura oskarżyła dyrektora szkoły w Turku (Wielkopolska) o posiadanie substancji psychotropowych. W związku z tym 49-latek został zawieszony w obowiązkach do czasu wyjaśnienia sprawy.</description>
-      <pubDate>Tue, 14 Apr 2026 13:41:54 GMT</pubDate>
-      <guid isPermaLink="false">474d7626775c</guid>
-      <source url="https://tvn24.pl/poznan/dyrektor-zespolu-placowek-edukacyjno-wychowawczych-w-turku-zawieszony-w-tle-narkotyki-st8997946?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Śledztwo w sprawie szpiegostwa na rzecz Białorusi zawieszone</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f5455c44fe03</link>
-      <description>Śledztwo dotyczące podejrzenia szpiegostwa, którym był objęty Aleksander Zingman, biznesmen bliski Alaksandra Łukaszenki, zostało zawieszone przez brak możliwości jego przesłuchania - dowiedzieli się reporterzy TVN24. - Prokurator powinien wiedzieć, że na przesłuchanie Zingmana nie ma szans - mówi nam były oficer kontrwywiadu.</description>
-      <pubDate>Tue, 14 Apr 2026 13:37:47 GMT</pubDate>
-      <guid isPermaLink="false">f5455c44fe03</guid>
-      <source url="https://tvn24.pl/polska/witold-k-i-decyzja-prokuratury-w-sprawie-sledztwa-szpiegowskiego-st8997889?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Bank Światowy obniża, a co na to MFW? Najnowsze prognozy dla polskiego PKB</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8a3e169cd1c5</link>
-      <description>Międzynarodowy Fundusz Walutowy przewiduje, że polska gospodarka w latach 2026-2027 będzie rozwijać się w stabilnym, choć umiarkowanym tempie. Najnowszy raport World Economic Outlook wskazuje na wzrost PKB odpowiednio o 3,3 proc. w 2026 roku oraz 2,4 proc. w 2027 roku.</description>
-      <pubDate>Tue, 14 Apr 2026 13:35:00 GMT</pubDate>
-      <guid isPermaLink="false">8a3e169cd1c5</guid>
-      <source url="https://www.rmf24.pl/ekonomia/news-bank-swiatowy-obniza-a-co-na-to-mfw-najnowsze-prognozy-dla-p,nId,8077215">RMF24</source>
-    </item>
-    <item>
-      <title>Scientists just debunked a 50-year myth about Hawaii’s birds</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d23fdf27c0a</link>
-      <description>A new study from the University of Hawaiʻi at Mānoa is overturning a decades-old belief that Indigenous Hawaiians hunted native waterbirds to extinction. Instead, researchers found no scientific evidence supporting this claim and propose a more complex explanation involving climate change, invasive species, and shifts in land use—many occurring before Polynesian arrival or after traditional stewardship systems were disrupted.</description>
-      <pubDate>Tue, 14 Apr 2026 13:31:42 GMT</pubDate>
-      <guid isPermaLink="false">8d23fdf27c0a</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/04/260414075644.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Stalowa blokada UE. Cła rosną do 50 proc., kontyngenty o połowę w dół</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3313670a7ac4</link>
-      <description>Unia Europejska zamierza zaostrzyć ograniczenia dotyczące importu stali spoza Unii, w tym podwoić cła i zmniejszyć o prawie połowę bezcłowe kontyngenty importowanej stali – wynika z zawartego w nocy z poniedziałku na wtorek porozumienia między Parlamentem Europejskim a państwami członkowskimi.</description>
-      <pubDate>Tue, 14 Apr 2026 13:31:00 GMT</pubDate>
-      <guid isPermaLink="false">3313670a7ac4</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Stalowa-blokada-UE-Cla-rosna-do-50-proc-kontyngenty-o-polowe-w-dol-9113662.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Berkowicz porównał Izrael do III Rzeszy. Jest reakcja ambasadora USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4e2de96851ed</link>
-      <description>&quot;WSTYDŹ, WSTYDŹ, WSTYDŹ SIĘ (...)&quot; - napisał ambasador USA w Polsce Thomas Rose, komentując to, co zrobił dziś w Sejmie poseł Konfederacji Konrad Berkowicz oraz to, co napisał jeden z liderów tego ugrupowania, Sławomir Mentzen. Berkowicz na sali plenarnej pojawił się z flagą Izraela, na której - zamiast gwiazdy Dawida - widniała swastyka.</description>
-      <pubDate>Tue, 14 Apr 2026 13:28:00 GMT</pubDate>
-      <guid isPermaLink="false">4e2de96851ed</guid>
-      <source url="https://www.rmf24.pl/polityka/news-berkowicz-porownal-izrael-do-iii-rzeszy-jest-reakcja-ambasad,nId,8077210">RMF24</source>
     </item>
   </channel>
 </rss>
