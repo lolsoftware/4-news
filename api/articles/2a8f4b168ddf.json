@@ -1,0 +1,13 @@
+{
+  "id": "2a8f4b168ddf",
+  "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
+  "originalTitle": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+  "publishedAt": "2026-04-14T19:11:25.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Here, Mythos outshone all previous models, becoming “the first model to solve TLO from start to finish,” AISI said. While Anthropic’s new model only succeeded in 3 out of 10 attempts, even the average Mythos Preview run completed 22 of the 32 required infiltration steps, significantly higher than the 16-step average achieved by Claude 4.6.</p>\n<p>Mythos Preview still has its limitations, though. AISI points out that the model still struggles with “Cooling Tower,” an even more difficult seven-step test designed to simulate an attempted disruption of the control software for a power plant. But AISI also writes that it expects “our evaluations would continue to improve with more inference compute” past the 100 million token budget imposed for its tests.</p>\n<h2>Small, weakly defended systems beware</h2>\n<p>Overall, Mythos’ performance on TLO suggests that the model “is at least capable of autonomously attacking small, weakly defended and vulnerable enterprise systems where access to a network has been gained,” AISI writes. That said, the group cautions that its simulated cyber ranges lack the kind of active defenders and defensive tooling often present in critical real-world systems. AISI’s TLO test is also designed to have specific vulnerabilities that might not exist in real-world systems and doesn’t penalize models for the kind of detection that might cause a real-world infiltration attempt to fail.</p>\n<p>For those reasons, AISI says it can’t be sure whether “well-defended systems” would fall to an automated attack from Mythos Preview. But as future models match or outperform Mythos’ capabilities, AISI warns that those designing system protections <a href=\"https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai\">should similarly utilize AI models</a> to help harden their defenses.</p> </div></div>",
+  "image": "images/59c6175fa8d6.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
