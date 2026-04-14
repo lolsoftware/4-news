@@ -23,18 +23,18 @@ function tryParseResults(text) {
  */
 async function rewriteBatch(batch) {
   const articlesForPrompt = batch.map((a, i) =>
-    `${i + 1}. Title: "${a.originalTitle}"\n   Language: ${a.lang || 'auto'}\n   Excerpt: "${a.excerpt?.slice(0, 200) || ''}"`
+    `${i + 1}. Title: "${a.originalTitle}"\n   Language: ${a.lang || 'pl'}\n   Excerpt: "${a.excerpt?.slice(0, 200) || ''}"`
   ).join('\n\n');
 
   const prompt = `You rewrite clickbait news headlines into honest, informative summaries and assign a category to each article.
 
 Rules:
+- LANGUAGE IS MANDATORY: Write titles in the SAME language as the original. Polish articles (pl) → Polish titles. English articles (en) → English titles. NEVER translate between languages.
 - CRITICAL: If the original title is NOT clickbait — i.e., it is factual, clear, and not emotionally manipulative — you MUST return the EXACT original title character-for-character. Do NOT rephrase, shorten, "improve", or make minor edits to non-clickbait titles.
 - Only rewrite titles that use genuine clickbait tactics: withholding key information, emotional bait, vague teasers, "you won't believe" patterns, etc.
 - When rewriting, state what actually happened, not what might happen
 - Remove emotional manipulation ("shocking", "you won't believe", etc.)
 - Keep rewritten titles under 120 characters
-- Write each title in the language specified for that article (pl = Polish, en = English). If language is "auto", detect from the title and excerpt.
 - Use sentence case
 - Assign exactly one category from: Polska, Świat, Polityka, Gospodarka, Sport, Tech, Nauka, Kultura, Zdrowie, Lifestyle
 
@@ -48,6 +48,7 @@ ${articlesForPrompt}`;
   const response = await client.messages.create({
     model: 'claude-haiku-4-5',
     max_tokens: 8192,
+    system: 'You are a Polish news editor. You rewrite clickbait headlines and assign categories. CRITICAL: Polish articles (lang=pl) MUST have Polish titles. Never translate Polish titles to English.',
     messages,
   });
 
