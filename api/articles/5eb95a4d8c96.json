@@ -1,0 +1,13 @@
+{
+  "id": "5eb95a4d8c96",
+  "title": "Google releases new apps for Windows and MacOS",
+  "originalTitle": "Google releases new apps for Windows and MacOS",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+  "publishedAt": "2026-04-15T19:46:43.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2>The first Gemini desktop app, now on Mac</h2>\n<p>There’s currently no Google search app for macOS, but Google has the AI side covered with the new Gemini app. This is the company’s first standalone desktop app for accessing Gemini. Google’s Josh Woodward <a href=\"https://x.com/joshwoodward/status/2044452201947627709\">says</a> Google has been getting requests for a native Mac app, so the company put together a small team to build one. It didn’t even take very long, with less than 100 days to deliver a supposed 100-plus features on Mac. CEO Sundar Pichai says it was built entirely using <a href=\"https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/\">Google Antigravity</a>.</p>\n<p>Opening the app is similar to how you access the Windows search app—hit Option + Space at any time to pull up a Gemini prompt bar. You can ask general questions like you would the web version of Gemini, but it can also access your windows for additional context. Again, that’s similar to the Windows app, with a greater focus on AI.</p> <p>The Mac Gemini app, which is coded entirely in Swift, includes a full spate of Gemini features and model types. You can upload files, create notebooks, and access tools like Deep Research and Canvas right on your desktop. It also has access to image-, video-, and music-generation models. More features are apparently on the way, too.</p>\n<p>Even if you like generative AI, Google’s method of distribution may be a dealbreaker. As of now, the company has opted not to list the app in the App Store for Mac. Instead, you have to download and install a DMG file from <a href=\"https://gemini.google/mac/\">Google’s website</a>. This one is available in all regions and languages with Gemini support.</p> </div></div>",
+  "image": "images/4856df838969.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}

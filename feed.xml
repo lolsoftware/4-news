@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 15 Apr 2026 19:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 20:40:01 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Od małej apteki do globalnych terapii. 125 lat rozwoju, innowacji i budowania zasięgu</title>
@@ -16,12 +16,36 @@
       <source url="https://www.rynekzdrowia.pl/Farmacja/Od-malej-apteki-do-globalnych-terapii-125-lat-rozwoju-innowacji-i-budowania-zasiegu,283263,6.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>&quot;TotalRecall Reloaded&quot; tool finds a side entrance to Windows 11&apos;s Recall database</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1a4a2e5bc071</link>
+      <description>The vault is solid. The delivery truck is not.&quot;</description>
+      <pubDate>Wed, 15 Apr 2026 20:36:28 GMT</pubDate>
+      <guid isPermaLink="false">1a4a2e5bc071</guid>
+      <source url="https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/">Ars Technica</source>
+    </item>
+    <item>
       <title>Udrażnia tętnice, obniża kortyzol. &quot;Złoto&quot; na stany zapalne</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b41ff45fa065</link>
       <description>Ekspert ds. zdrowia wskazuje jeden składnik diety, który jego zdaniem może wspierać drożność tętnic i zmniejszać ryzyko poważnych chorób serca. W sieci zawrzało, bo porównuje jego działanie do... aspiryny.</description>
       <pubDate>Wed, 15 Apr 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">b41ff45fa065</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Udraznia-tetnice-obniza-kortyzol-Zloto-na-stany-zapalne,283221,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>NASA Launches Six CubeSats to International Space Station</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9c1b0073711b</link>
+      <description>Experiments and supplies bound for the International Space Station launched on April 11 as part of the agency&apos;s Northrop Grumman Commercial Resupply Services</description>
+      <pubDate>Wed, 15 Apr 2026 20:27:22 GMT</pubDate>
+      <guid isPermaLink="false">9c1b0073711b</guid>
+      <source url="https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Udany debiut trenera Igi Świątek. Pewne zwycięstwo Polki w Stuttgarcie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d7bd1a30e719</link>
+      <description>Udany debiut pod wodzą nowego trenera Hiszpana Francisco Roiga zaliczyła na kortach ziemnych w Stuttgarcie Iga Świątek. Polka pokonała Niemkę Laurę Siegemund 6:2, 6:3 w 2. rundzie turnieju WTA 500.</description>
+      <pubDate>Wed, 15 Apr 2026 20:26:15 GMT</pubDate>
+      <guid isPermaLink="false">d7bd1a30e719</guid>
+      <source url="https://www.rmf24.pl/sport/tenis/news-udany-debiut-trenera-igi-swiatek-pewne-zwyciestwo-polki-w-st,nId,8077416">RMF24</source>
     </item>
     <item>
       <title>Jemy bez opamiętania. Lekarze: to napędza epidemię utraty zębów i chorób serca</title>
@@ -40,12 +64,100 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zakazany-napoj-Nie-tylko-cukrzycy-powinni-sie-trzymac-z-daleka,283086,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Darmowe wakacje na greckiej wyspie. Szukają wolontariuszy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fb909d55000c</link>
+      <description>Brzmi niewiarygodnie, choć dla miłośników kotów to wizja wręcz idealna, ale wygląda na to, że na tej wyspie rzeczywiście można spędzić wakacje niemal za darmo. Zamiast czynszu i innych opłat trzeba jedynie zaopiekować się mieszkającymi na wyspie Syros, położonej na greckich Cykladach... kotami. Właśnie na takich warunkach bezpłatne zakwaterowanie oferuje tam grupa wolontariuszy zajmująca się dobrostanem zwierząt.</description>
+      <pubDate>Wed, 15 Apr 2026 19:59:17 GMT</pubDate>
+      <guid isPermaLink="false">fb909d55000c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-darmowe-wakacje-na-greckiej-wyspie-szukaja-wolontariuszy,nId,8077413">RMF24</source>
+    </item>
+    <item>
+      <title>Google releases new apps for Windows and MacOS</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5eb95a4d8c96</link>
+      <description>Google mostly creates products for the web, but it has some new desktop apps today.</description>
+      <pubDate>Wed, 15 Apr 2026 19:46:43 GMT</pubDate>
+      <guid isPermaLink="false">5eb95a4d8c96</guid>
+      <source url="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/">Ars Technica</source>
+    </item>
+    <item>
+      <title>PiCore - Raspberry Pi Port of Tiny Core Linux</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4b239a74c522</link>
+      <description>Comments</description>
+      <pubDate>Wed, 15 Apr 2026 19:45:47 GMT</pubDate>
+      <guid isPermaLink="false">4b239a74c522</guid>
+      <source url="http://tinycorelinux.net/5.x/armv6/releases/README">Hacker News</source>
+    </item>
+    <item>
+      <title>​Morawiecki powołał stowarzyszenie. Jak zareaguje PiS?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a780dc579062</link>
+      <description>Mateusz Morawiecki powołał wraz ze swoimi współpracownikami Stowarzyszenie Rozwój Plus - podała Wirtualna Polska. &quot;Większość władz partii wyraziła zaniepokojenie inicjatywą stowarzyszenia Mateusza Morawieckiego&quot; - przekazał rzecznik PiS Rafał Bochenek. Według TVN24 Jarosław Kaczyński miał zapowiedzieć podczas wtorkowego prezydium Komitetu Politycznego PiS, że &quot;politycy zapisani do stowarzyszenia byłego premiera nie trafią na listy wyborcze&quot;.</description>
+      <pubDate>Wed, 15 Apr 2026 19:44:24 GMT</pubDate>
+      <guid isPermaLink="false">a780dc579062</guid>
+      <source url="https://www.rmf24.pl/polityka/news-morawiecki-powolal-stowarzyszenie-jak-zareaguje-pis,nId,8077414">RMF24</source>
+    </item>
+    <item>
+      <title>Boston Dynamics’ robot dog now reads gauges and thermometers with Google&apos;s AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/17b7b154f2cd</link>
+      <description>Google&apos;s AI enables robots to read gauges while inspecting industrial facilities.</description>
+      <pubDate>Wed, 15 Apr 2026 19:34:33 GMT</pubDate>
+      <guid isPermaLink="false">17b7b154f2cd</guid>
+      <source url="https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Flock employees caught watching kids gymnastic class and pools</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ee2f5b791a45</link>
+      <description>Comments</description>
+      <pubDate>Wed, 15 Apr 2026 19:30:52 GMT</pubDate>
+      <guid isPermaLink="false">ee2f5b791a45</guid>
+      <source url="https://substack.com/home/post/p-193593234">Hacker News</source>
+    </item>
+    <item>
       <title>168 chemikaliów toksycznych dla jelit. Naukowcy alarmują: mutacje w genach</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e217b8375291</link>
       <description>168 spośród 1076 powszechnie stosowanych substancji – od pestycydów po dodatki przemysłowe – może zaburzać równowagę bakterii jelitowych. Wyniki badania naukowców z University of Cambridge, opublikowane w prestiżowym czasopiśmie &lt;em&gt;Nature Microbiology&lt;/em&gt;, pokazują, że wpływ chemikaliów na zdrowie może być znacznie szerszy, niż dotąd sądzono.</description>
       <pubDate>Wed, 15 Apr 2026 19:30:00 GMT</pubDate>
       <guid isPermaLink="false">e217b8375291</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/168-chemikaliow-toksycznych-dla-jelit-Naukowcy-alarmuja-mutacje-w-genach,283241,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>OpenAI updates its Agents SDK to help enterprises build safer, more capable agents</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8fe3d07bb04d</link>
+      <description>OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.</description>
+      <pubDate>Wed, 15 Apr 2026 19:28:36 GMT</pubDate>
+      <guid isPermaLink="false">8fe3d07bb04d</guid>
+      <source url="https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Wojna domowa w PiS. Morawiecki buduje własną armię, Kaczyński grozi wyrzuceniem z list</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/570697377246</link>
+      <description>Przebieg spotkania prezydium Komitetu Politycznego PiS wykazał, że większość władz partii wyraziła zaniepokojenie inicjatywą stowarzyszenia b. premiera Mateusza Morawieckiego - przekazał PAP rzecznik PiS Rafał Bochenek. Według informacji PAP stowarzyszenie ma być zarejestrowane do końca kwietnia.</description>
+      <pubDate>Wed, 15 Apr 2026 19:21:00 GMT</pubDate>
+      <guid isPermaLink="false">570697377246</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wojna-domowa-w-PiS-Morawiecki-buduje-wlasna-armie-Kaczynski-grozi-wyrzuceniem-z-list-9114650.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Prime Video shows “technical difficulties” sign instead of NBA game in overtime</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d6e5710bf2e0</link>
+      <description>Am I trippin??&quot; asks LeBron James.</description>
+      <pubDate>Wed, 15 Apr 2026 19:16:43 GMT</pubDate>
+      <guid isPermaLink="false">d6e5710bf2e0</guid>
+      <source url="https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/">Ars Technica</source>
+    </item>
+    <item>
+      <title>&quot;Kuba będzie następna&quot;. Pentagon szykuje inwazję na zlecenie Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e674e8ef5d29</link>
+      <description>Po cichu przyspieszają prace nad planami militarnymi, dotyczącymi potencjalnej operacji Pentagonu na Kubie, na wypadek gdyby prezydent USA Donald Trump wydał rozkaz interwencji w tym kraju - podał w środę dziennik „USA Today”, powołując się na dwa źródła.</description>
+      <pubDate>Wed, 15 Apr 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="false">e674e8ef5d29</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Pentagon-przyspiesza-prace-nad-planami-dotyczacymi-operacji-militarnej-na-Kubie-9114642.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Live Nation Illegally Monopolized Ticketing Market, Jury Finds</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d9e0e61e0665</link>
+      <description>Comments</description>
+      <pubDate>Wed, 15 Apr 2026 19:06:39 GMT</pubDate>
+      <guid isPermaLink="false">d9e0e61e0665</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds">Hacker News</source>
     </item>
     <item>
       <title>Atakuje układ nerwowy. Toksyczna, a wciąż trafia na nasze talerze</title>
@@ -88,12 +200,28 @@
       <source url="https://tvn24.pl/tvnmeteo/swiat/usa-wisconsin-wichura-zwiala-dach-kosciola-tak-wielkich-zniszczen-jeszcze-nie-widzialem-st8999883?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Zakończono obserwację podejrzanego o zabicie 16-letniej Mai z Mławy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6cdc562421c9</link>
+      <description>Zakończyła się obserwacja psychiatryczna 18-letniego Bartosza G., podejrzanego o zabójstwo ze szczególnym okrucieństwem 16-letniej Mai K. z Mławy, w kwietniu 2025 roku - poinformowała Prokuratura Okręgowa w Płocku. Do zabójstwa doszło w Mławie w województwie mazowieckim. Opinii biegłych z obserwacji można spodziewać się za kilka tygodni.</description>
+      <pubDate>Wed, 15 Apr 2026 18:56:18 GMT</pubDate>
+      <guid isPermaLink="false">6cdc562421c9</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-ta-zbrodnia-wstrzasnela-polska-zakonczono-obserwacje-podejrz,nId,8077412">RMF24</source>
+    </item>
+    <item>
       <title>Hightouch reaches $100M ARR fueled by marketing tools powered by AI</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1a763eae9c71</link>
       <description>The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.</description>
       <pubDate>Wed, 15 Apr 2026 18:55:12 GMT</pubDate>
       <guid isPermaLink="false">1a763eae9c71</guid>
       <source url="https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Frank Gardner: What is China&apos;s role in the Iran war?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffc7c9d06dc0</link>
+      <description>BBC Security Correspondent Frank Gardner explains how the world&apos;s second-largest economy fits into the Gulf conflict.</description>
+      <pubDate>Wed, 15 Apr 2026 18:54:06 GMT</pubDate>
+      <guid isPermaLink="false">ffc7c9d06dc0</guid>
+      <source url="https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>LinkedIn data shows AI isn’t to blame for hiring decline… yet</title>
@@ -120,12 +248,28 @@
       <source url="https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/">TechCrunch</source>
     </item>
     <item>
+      <title>New teaser gives us first look at Godzilla Minus Zero</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c0fac47bff89</link>
+      <description>Director Takashi Yamazaki told Cinemacon attendees that sequel is first Japanese film shot for IMAX.</description>
+      <pubDate>Wed, 15 Apr 2026 18:50:41 GMT</pubDate>
+      <guid isPermaLink="false">c0fac47bff89</guid>
+      <source url="https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/">Ars Technica</source>
+    </item>
+    <item>
       <title>Three paramedics killed in successive Israeli strikes in Lebanon, officials say</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a7b7005157b1</link>
       <description>Lebanon&apos;s governments condemns as a &quot;flagrant crime&quot; the killing of the paramedics, one of whom featured in a BBC report.</description>
       <pubDate>Wed, 15 Apr 2026 18:48:34 GMT</pubDate>
       <guid isPermaLink="false">a7b7005157b1</guid>
       <source url="https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Całe południe Libanu stanie się &quot;strefą śmierci dla terrorystów z Hezbollahu&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7b52380f51e3</link>
+      <description>Szef Sztabu Generalnego izraelskiej armii gen. Ejal Zamir ogłosił w środę, że całe południe Libanu stanie się „strefą śmierci dla terrorystów z Hezbollahu”. Dodał, że zatwierdził nowe plany walk z tą grupą. Poinformował również, że podczas trwającej od półtora miesiąca kampanii zabito ponad 1700 członków Hezbollahu.</description>
+      <pubDate>Wed, 15 Apr 2026 18:42:00 GMT</pubDate>
+      <guid isPermaLink="false">7b52380f51e3</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Cale-poludnie-Libanu-stanie-sie-strefa-smierci-dla-terrorystow-z-Hezbollahu-9114632.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>AI learning app Gizmo levels up with 13M users and a $22M investment</title>
@@ -142,6 +286,14 @@
       <pubDate>Wed, 15 Apr 2026 18:34:00 GMT</pubDate>
       <guid isPermaLink="false">511fd86b7c77</guid>
       <source url="https://www.bankier.pl/wiadomosc/Goraca-noc-nad-Polska-Mysliwce-i-AWACS-w-powietrzu-przez-rosyjskie-rakiety-9114629.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Bogucki o wecie ustawy o kryptoaktywach: Nie ma żadnych szans na jego odrzucenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5f839c71083f</link>
+      <description>Nie ma żadnych szans na odrzucenie weta do ustawy o kryptoaktywach; marnujemy czas - powiedział w środę szef kancelarii prezydenta Zbigniew Bogucki podczas sejmowej komisji rozpatrujacej prezydenckie weto w tej sprawie. Zapewnił, że prezydent popiera regulacje ws. ochrony konsumentów na rynku krypto.</description>
+      <pubDate>Wed, 15 Apr 2026 18:34:00 GMT</pubDate>
+      <guid isPermaLink="false">5f839c71083f</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Bogucki-o-wecie-ustawy-o-kryptoaktywach-Nie-ma-zadnych-szans-na-jego-odrzucenie-9114630.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>Space Force looks at moving &quot;significant number&quot; of launches from ULA to SpaceX</title>
@@ -254,175 +406,6 @@
       <pubDate>Wed, 15 Apr 2026 17:44:26 GMT</pubDate>
       <guid isPermaLink="false">eba351918e7d</guid>
       <source url="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Hacker News</source>
-    </item>
-    <item>
-      <title>Accel raises $5B to back late-stage bets</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3660b35fc67f</link>
-      <description>Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI.</description>
-      <pubDate>Wed, 15 Apr 2026 17:37:56 GMT</pubDate>
-      <guid isPermaLink="false">3660b35fc67f</guid>
-      <source url="https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Pogoda na jutro - czwartek, 16.04. Noc przyniesie zamglenia i mgły</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3064072d4061</link>
-      <description>Pogoda na jutro, czyli na czwartek, 16.04. Najbliższa noc zapowiada się mgliście - w niektórych miejscach widzialność może spaść do zaledwie 100 metrów. W części kraju niewykluczony jest deszcz. Mgły i opady spodziewane są także w dzień.</description>
-      <pubDate>Wed, 15 Apr 2026 17:35:11 GMT</pubDate>
-      <guid isPermaLink="false">3064072d4061</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-16-04-noc-przyniesie-zamglenia-i-mgly-st8999950?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Kierowca uciekł po wypadku, wpadł podczas sprawdzenia trzeźwości</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4ae65fc771f0</link>
-      <description>Przyszedł na komendę w Grodzisku Mazowieckim sprawdzić stan trzeźwości i miał 0,7 promila alkoholu w organizmie. Okazało się, że chwilę wcześniej jego auto dachowało, a on uciekł z miejsca. Kierowca został zatrzymany.</description>
-      <pubDate>Wed, 15 Apr 2026 17:26:20 GMT</pubDate>
-      <guid isPermaLink="false">4ae65fc771f0</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-wpadl-bo-przyszedl-na-komisariat-sprawdzic-czy-jest-trzezwy-st9000056?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Raport: naprawy infrastruktury energetycznej kosztować będą 58 mld dolarów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ab63c9a6e6af</link>
-      <description>Koszt naprawy zniszczonej infrastruktury energetycznej na Bliskim Wschodzie może wynieść nawet 58 miliardów dolarów - informuje w środę Reuters i zaznacza, że lwią część tej kwoty pochłoną obiekty naftowe i gazowe.</description>
-      <pubDate>Wed, 15 Apr 2026 17:25:19 GMT</pubDate>
-      <guid isPermaLink="false">ab63c9a6e6af</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/bliski-wschod-rachunek-za-naprawe-infrastruktury-energetycznej-wyniesie-58-miliardow-dolarow-st8999991?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/165342337ce0</link>
-      <description>Emergent&apos;s Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.</description>
-      <pubDate>Wed, 15 Apr 2026 17:24:18 GMT</pubDate>
-      <guid isPermaLink="false">165342337ce0</guid>
-      <source url="https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Chiński tankowiec z metanolem próbował przełamać blokadę cieśniny Ormuz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc30fc7238ef</link>
-      <description>Pierwsza poważna próba sforsowania amerykańskiej blokady morskiej zakończyła się fiaskiem. Chiński tankowiec „Rich Starry”, który jako pierwszy zdołał wypłynąć z cieśniny Ormuz, został zmuszony do odwrotu po napotkaniu potężnej flotylli wojennej Stanów Zjednoczonych. Jednostka obecnie znajduje się na kotwicowisku u wybrzeży Iranu.</description>
-      <pubDate>Wed, 15 Apr 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="false">bc30fc7238ef</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-chinski-tankowiec-z-metanolem-probowal-przelamac-blokade-cie,nId,8077405">RMF24</source>
-    </item>
-    <item>
-      <title>Polska poderwała myśliwce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ddb718d73ea</link>
-      <description>W związku z atakiem Rosji na Ukrainę poderwane zostały polskie myśliwce - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. &quot;Działania te mają charakter prewencyjny&quot; - napisano w komunikacie. Dwa lotniska wstrzymały loty. Sprawę komentował w TVN24 wiceszef MON Cezary Tomczyk.</description>
-      <pubDate>Wed, 15 Apr 2026 17:22:30 GMT</pubDate>
-      <guid isPermaLink="false">7ddb718d73ea</guid>
-      <source url="https://tvn24.pl/polska/polska-poderwala-mysliwce-w-zwiazku-z-atakiem-rosji-na-ukraine-st9000089?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Niemcy budują &quot;żelazną kopułę&quot; nad Ukrainą. Setki rakiet Patriot w drodze na front</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/95133291234f</link>
-      <description>Kilkaset pocisków do systemów obrony przeciwlotniczej Patriot finansowanych przez Niemcy zostanie dostarczanych Ukrainie w ciągu najbliższych czterech lat - oświadczył w środę niemiecki minister obrony Boris Pistorius.</description>
-      <pubDate>Wed, 15 Apr 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="false">95133291234f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Niemcy-buduja-zelazna-kopule-nad-Ukraina-Setki-rakiet-Patriot-w-drodze-na-front-9114586.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Is the US blockade of Iran working?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fb450c419bd0</link>
-      <description>BBC Verify has been looking into whether the US blockade of Iran near the Strait of Hormuz is working.</description>
-      <pubDate>Wed, 15 Apr 2026 17:17:38 GMT</pubDate>
-      <guid isPermaLink="false">fb450c419bd0</guid>
-      <source url="https://www.bbc.com/news/videos/cx2449xklnko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>CPUs Aren&apos;t Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5a58bbc37903</link>
-      <description>Gemma 2B scored ~8.0 on MT-Bench. GPT-3.5 Turbo scored 7.94. An 87-times-smaller model on a laptop CPU, no GPU anywhere in the stack. We published the full tape — every question, every turn, every score — so anyone can verify it. We found seven failure classes. Not hallucinations. Specific patterns: arithmetic where it computed correctly but committed the wrong number first, logic puzzles where it proved the right answer then shipped the wrong one, constraints it drifted on, personas it broke, qualifiers it ignored. Six surgical fixes, about 60 lines of Python each. One known limitation documented. Score climbed to ~8.2. The hardware was enough all along. What the field has been calling a compute problem is a software engineering problem — and any motivated developer can close that gap in a weekend. The tape, the code, and the fixes are all open. A bot running the raw model — no fixes applied, warts and all — is live on Telegram right now. Talk to it. Push it. Break it. Then read about what you just experienced.</description>
-      <pubDate>Wed, 15 Apr 2026 17:07:36 GMT</pubDate>
-      <guid isPermaLink="false">5a58bbc37903</guid>
-      <source url="https://seqpu.com/CPUsArentDead/">Hacker News</source>
-    </item>
-    <item>
-      <title>Biometric checks to be rolled out in prisons after mistaken releases</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6732424dfa28</link>
-      <description>New data shows 179 prisoners were set free in error from prisons in the year to March.</description>
-      <pubDate>Wed, 15 Apr 2026 17:04:44 GMT</pubDate>
-      <guid isPermaLink="false">6732424dfa28</guid>
-      <source url="https://www.bbc.com/news/articles/cx2eevd992po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Władze zatwierdziły nowy plan ratunkowy dla humbaka Timmy&apos;ego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8e04ef876501</link>
-      <description>Władze postanowiły dać jeszcze jedną szansę na uratowanie humbaka Timmy&apos;ego. Lokalny minister środowiska zaakceptował plan przedstawiony przez podmioty prywatne, który ma pozwolić na przetransportowanie zwierzęcia na głębsze wody.</description>
-      <pubDate>Wed, 15 Apr 2026 17:04:41 GMT</pubDate>
-      <guid isPermaLink="false">8e04ef876501</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/niemcy-humbak-timmy-jest-nadzieja-dla-zwierzecia-wladze-zatwierdzily-nowy-plan-ratunkowy-st8999984?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Adaptional (YC S25) Is Hiring Founding AI Engineers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/78a117484087</link>
-      <description>Adaptional is building AI for insurance. Insurance is one of the largest industries globally, and still manages huge amounts of work with manual data entry, outsourced teams, human error-checking, and 20-year-old software. We are building a platform that delivers the claude-code experience for insurance teams.
-Adaptional’s founders previously built and exited a VC-backed insurance startup and raised a $10m seed round, one of the largest insurtech seeds to date. We are working with top-10 insurance companies and are building a multi-product roadmap rapidly.
-As a founding engineer you will build the company at the earliest stage, both technically and culturally. The role of an engineer is evolving from writing code to being full-stack problem solvers (and using lots of AI agents to do it), and we are looking for AI-pilled engineers with strong technical foundations who are excited by this. You’ll build the core product, work directly with our customers, and do whatever it takes to make our customers successful.
-We work together in-person at an office in the Presidio, San Francisco.
-What you’ll do:
-Build new AI agents and features from scratch
-Obsess over evals and correctness in highly specialized domains
-Iterate on design and human-agent interaction patterns
-Embed regulatory and legal compliance into AI tasks
-Build backends that can support fast-scaling agentic workloads
-Secure systems for a highly discerning and regulated customer base
-Qualifications:
-Experienced full-stack software engineer — we care more about what you have done than years of experience
-You leverage agentic engineering heavily, but still care about your code and its quality
-Succeeded at something difficult and can share what you learned (ex. D1/national athletics, academic competitions, started or early at a startup, launched a new product, open source with real users, learned 3 languages for fun, etc.)
-Want to work directly with customers, go deep on insurance topics, and creatively solve their problems
-Compensation:
-Highly competitive cash &amp; equity, based on experience and skill level</description>
-      <pubDate>Wed, 15 Apr 2026 17:00:56 GMT</pubDate>
-      <guid isPermaLink="false">78a117484087</guid>
-      <source url="https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer">Hacker News</source>
-    </item>
-    <item>
-      <title>Tego nie ma na Netflix, Disney+ i innych. Dlatego uwielbiam DVD</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cf777a935c85</link>
-      <description>Szybki i wygodny dostęp do filmów online to super sprawa, ale porzucając płyty DVD zostawiliśmy za sobą wiele świetnych rzeczy.</description>
-      <pubDate>Wed, 15 Apr 2026 17:00:06 GMT</pubDate>
-      <guid isPermaLink="false">cf777a935c85</guid>
-      <source url="https://antyweb.pl/tego-nie-ma-na-netflix-disney-i-innych-dlatego-uwielbiam-dvd">Antyweb</source>
-    </item>
-    <item>
-      <title>Zatrzymali ojca z dwoma synami. Wszyscy byli poszukiwani</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/26b183c35386</link>
-      <description>Policjanci zatrzymali 40-letniego mężczyznę i jego dwóch synów: 16-latka i 15-latka. Ojciec był poszukiwany listem gończym i miał przy sobie narkotyki. Jego synowie, decyzją sądu, mieli być z kolei doprowadzeni do ośrodka wychowawczego.</description>
-      <pubDate>Wed, 15 Apr 2026 16:58:15 GMT</pubDate>
-      <guid isPermaLink="false">26b183c35386</guid>
-      <source url="https://tvn24.pl/trojmiasto/pruszcz-gdansk-zatrzymali-ojca-z-dwoma-synami-wszyscy-byli-poszukiwani-st9000057?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Protest przed warszawskim ratuszem przeciwko odstrzałowi dzików</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/edf6d2ecca70</link>
-      <description>W środę przed warszawskim ratuszem odbył się protest przeciwko odstrzałowi dzików w stolicy. To pokłosie ostatnich wydarzeń, podczas których mieszkańcy byli świadkami uśmiercania dzikich zwierząt w mieście. Protestujący domagali się powołania grupy ekspertów i alternatywnych metod redukcji dzików.</description>
-      <pubDate>Wed, 15 Apr 2026 16:54:57 GMT</pubDate>
-      <guid isPermaLink="false">edf6d2ecca70</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-protest-obroncow-dzikow-przed-ratuszem-st9000015?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Adobe takes Creative Cloud into Claude Code-esque territory</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b1d687e20f7c</link>
-      <description>This is a big step in a new strategic direction for Adobe.</description>
-      <pubDate>Wed, 15 Apr 2026 16:54:33 GMT</pubDate>
-      <guid isPermaLink="false">b1d687e20f7c</guid>
-      <source url="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/">Ars Technica</source>
-    </item>
-    <item>
-      <title>96-latek ożeniony podstępem. Ministerstwo: problem „nie ma takich rozmiarów&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3901cfdb2f15</link>
-      <description>Resort sprawiedliwości uznał, że problem oszustw matrymonialnych wobec seniorów „nie ma takich rozmiarów, jak by się mogło wydawać”, powołując się m.in. na brak skazań za przymusowe małżeństwa. To stanowisko przyjęła sejmowa Komisja ds. Petycji – mimo opisanego przypadku 96-letniego mężczyzny z demencją, który został potajemnie ożeniony i mógł paść ofiarą nadużycia.</description>
-      <pubDate>Wed, 15 Apr 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="false">3901cfdb2f15</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/96-latek-ozeniony-podstepem-Ministerstwo-problem-nie-ma-takich-rozmiarow,283255,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Berlin wprowadza program nagród za proekologiczne zachowanie turystów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8f29708dd281</link>
-      <description>Już od nadchodzącego lata turyści odwiedzający Berlin będą mogli otrzymywać drobne nagrody za proekologiczne zachowania takie jak zbieranie śmieci czy wybieranie przyjaznych środowisku form transportu - podała agencja Visit Berlin, zajmująca się promocją turystyki w niemieckiej stolicy.</description>
-      <pubDate>Wed, 15 Apr 2026 16:32:12 GMT</pubDate>
-      <guid isPermaLink="false">8f29708dd281</guid>
-      <source url="https://tvn24.pl/biznes/turystyka/niemcy-wladze-beda-nagradzac-turystow-st8999818?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
