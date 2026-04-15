@@ -1,0 +1,13 @@
+{
+  "id": "b1d687e20f7c",
+  "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
+  "originalTitle": "Adobe takes Creative Cloud into Claude Code-esque territory",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+  "publishedAt": "2026-04-15T16:54:33.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Adobe also says it can learn from users over time about their favorite tools or even stylistic preferences. That could be useful, but as with the memory features for LLMs, it could become frustrating if it pigeonholes a user. Here’s hoping you can customize that or disable that feature as needed.</p>\n<p>In addition, there will be “skills,” which work pretty much like the skills you may have seen in similar tools for other disciplines, like OpenAI’s Codex or Anthropic’s Claude Code. Skills are essentially prepackaged integrations and workflows tailored to specific tasks. Users can tap a library of these, or they can build or configure their own.</p>\n<p>Firefly AI Assistant was actually first previewed last October, when it had the moniker “Project Moonlight”—this is just the actual public release of that concept.</p>\n<p>This development marks a notable shift in Adobe’s AI strategy. Think of it like this: Adobe’s approach up to this point has been somewhat similar to Apple’s, with an emphasis on leveraging models for very specific features and capabilities built into existing apps and workflows.</p>\n<p>By contrast, this is an entirely different paradigm, where users may work significantly less within specialized applications, and the technology is used to facilitate a new approach to working rather than just giving new functionality to people who already know how to use the apps.</p>\n<p>Adobe says Firefly AI Assistant will enter a public beta within a few weeks, but it hasn’t yet offered specifics about pricing, limits, or which users or plans it will be available to.</p> </div></div>",
+  "image": "images/52a83455e908.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
