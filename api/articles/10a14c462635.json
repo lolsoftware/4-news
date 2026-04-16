@@ -1,0 +1,13 @@
+{
+  "id": "10a14c462635",
+  "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+  "originalTitle": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.zatanna.ai/kampala",
+  "publishedAt": "2026-04-16T15:19:54.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><div><div><p>Kampala by Zatanna</p><h2>See every request. Automate any workflow.</h2><p>Kampala lets you reverse engineer anything including websites, mobile apps, and desktop apps instantly.</p></div><div><p><img src=\"https://www.zatanna.ai/illustrations/kampala-screenshot.png\" alt=\"Kampala proxy intercepting live HTTP traffic\"></p></div></div><div><div><p><span>Features</span></p><h2>Everything you need to reverse engineer any web flow.</h2></div><div><div><h3>Full traffic interception</h3><p>See every HTTP/S request from any app or browser in real time.</p></div><div><h3>Auth chain tracing</h3><p>Map tokens, cookies, sessions, and multi-step sequences automatically.</p></div><div><h3>Flow replay &amp; export</h3><p>Capture sequences and replay them as stable automations.</p></div><div><h3>Fingerprint preservation</h3><p>Maintains your HTTP/TLS fingerprint so intercepted traffic behaves identically to the original.</p></div></div></div><div id=\"download\"><div><h2>Kampala for Mac</h2><p>Download and run on macOS today.</p></div><div><h2>Kampala for Windows</h2><p>Windows support is on the way. Join the waitlist and we’ll let you know when it’s ready.</p></div></div></div></div>",
+  "image": "images/54097d6465ec.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
