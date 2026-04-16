@@ -1,0 +1,13 @@
+{
+  "id": "fa463786c03e",
+  "title": "The Accursèd Alphabetical Clock",
+  "originalTitle": "The Accursèd Alphabetical Clock",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://boat.horse/clock/index.html",
+  "publishedAt": "2026-04-15T02:39:05.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>This clock displays the current time alphabetically. It is inspired by <a href=\"https://infosec.exchange/@catsalad/116268399785747534\">this post on Mastodon.</a></p><p>In <strong>Three-Hand</strong> mode, the hours, minutes, and seconds are each independently sorted by their English spelling, with a hand for each.<br>In <strong>Combined</strong> mode, every possible time (43,200 of them) is spelled out, sorted alphabetically, and a single needle points to the current one.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
