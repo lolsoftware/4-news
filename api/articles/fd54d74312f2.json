@@ -1,0 +1,13 @@
+{
+  "id": "fd54d74312f2",
+  "title": "IPv6 traffic crosses the 50% mark",
+  "originalTitle": "IPv6 traffic crosses the 50% mark",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+  "publishedAt": "2026-04-15T11:59:49.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"ipv6-adoption\"> <h4> IPv6 Adoption </h4> <p> We are continuously measuring the availability of IPv6 connectivity among Google users. The graph shows the percentage of users that access Google over IPv6. </p> </div><div id=\"per-country-ipv6-adoption\"> <h4> Per-Country IPv6 adoption </h4> <p> The chart above shows the availability of IPv6 connectivity around the world. </p> <div> <ul> <li> <p> Regions where IPv6 is more widely deployed (the darker the green, the greater the deployment) and users experience infrequent issues connecting to IPv6-enabled websites. </p> </li> <li> <p> Regions where IPv6 is more widely deployed but users still experience significant reliability or latency issues connecting to IPv6-enabled websites. </p> </li> <li> <p> Regions where IPv6 is not widely deployed and users experience significant reliability or latency issues connecting to IPv6-enabled websites. </p> </li> </ul> </div> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
