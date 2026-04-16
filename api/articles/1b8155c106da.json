@@ -1,0 +1,13 @@
+{
+  "id": "1b8155c106da",
+  "title": "New Codex features include the ability to use your computer in the background",
+  "originalTitle": "New Codex features include the ability to use your computer in the background",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
+  "publishedAt": "2026-04-16T18:30:44.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>A new version of OpenAI’s Codex desktop app reaches users today. It brings a smorgasbord of new features and changes, ranging from new developer capabilities to expansion into non-developer knowledge work to laying the groundwork for the company’s “super app.”</p>\n<p>The most interesting for the moment is the ability to perform tasks on your PC in the background; OpenAI claims it can do this without interfering with what you are doing on your desktop.</p>\n<p>OpenAI explained the update in a <a href=\"https://openai.com/index/codex-for-almost-everything/\">blog post</a>:</p>\n<blockquote><p>With background computer use, Codex can now use all of the apps on your computer by seeing, clicking, and typing with its own cursor. Multiple agents can work on your Mac in parallel, without interfering with your own work in other apps. For developers, this is helpful for iterating on frontend changes, testing apps, or working in apps that don’t expose an API.</p></blockquote>\n<p>Additionally, Codex can now schedule work that it plans to do at a later time hours, days, or even weeks in advance, and wake itself up to perform those tasks at the proper time.</p>\n<p>It also now has an in-app web browser. This allows you to assess the work Codex is doing with web experiences, and you can leave comments on specific parts of the page with instructions, similar to popular tools that organizations already use to give feedback to web designers and developers. There’s a newly added ability to leverage gpt-image-1.5 to generate images, which can be included in mockups and the like.</p> </div></div>",
+  "image": "images/0e19611cf525.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
