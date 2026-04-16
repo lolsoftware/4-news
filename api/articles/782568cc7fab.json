@@ -1,0 +1,13 @@
+{
+  "id": "782568cc7fab",
+  "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+  "originalTitle": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/Nightmare-Eclipse/RedSun",
+  "publishedAt": "2026-04-16T03:54:21.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-hpc=\"true\"><article itemprop=\"text\">\n<p dir=\"auto\">The Red Sun vulnerability repository</p>\n<p dir=\"auto\">Now, normally I would just drop the PoC code and let people figure it out. But I can't for this one, it's way too funny.\nWhen Windows Defender realizes that a malicious file has a cloud tag, for whatever stupid and hilarious reason, the antivirus that's supposed to protect decides that it is a good idea to just rewrite the file it found again to it's original location. The PoC abuses this behaviour to overwrite system files and gain administrative privileges.</p>\n<p dir=\"auto\">I think antimalware products are supposed to remove malicious files not be sure they are there but that's just me.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/Nightmare-Eclipse/RedSun/blob/main/redsun.jpg\"><img src=\"https://github.com/Nightmare-Eclipse/RedSun/raw/main/redsun.jpg\" alt=\"BottomText\"></a></p>\n</article></div></div>",
+  "image": "images/fcac902ca479.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
