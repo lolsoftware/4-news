@@ -1,0 +1,13 @@
+{
+  "id": "490b215a61f8",
+  "title": "CadQuery is an open-source Python library for building 3D CAD models",
+  "originalTitle": "CadQuery is an open-source Python library for building 3D CAD models",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://cadquery.github.io/",
+  "publishedAt": "2026-04-14T23:20:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <header> <img src=\"https://cadquery.github.io/assets/images/cadquery_logo_dark.svg\" alt=\"Logo\"> <p>Create parametric CAD models with Python</p> <p><a href=\"https://github.com/cadquery/cadquery\">View the Project on GitHub <small>CadQuery/cadquery</small></a></p> </header> <section> <p>CadQuery is an open-source Python library for building 3D CAD models. It lets you describe parts as code, making models easy to version, share, and parameterize - no GUI required.</p>\n\n<div> <p><a href=\"https://cadquery.readthedocs.io/\">Documentation</a> <a href=\"https://cadquery.github.io/downloads\">Downloads</a>\n</p></div> </section> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

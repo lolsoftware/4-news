@@ -1,0 +1,13 @@
+{
+  "id": "ccf180c7ac51",
+  "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+  "originalTitle": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+  "publishedAt": "2026-04-16T20:43:46.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Mozilla says the Thunderbolt client supports many of the now-familiar AI interfaces and use cases, including “chat, search, research, automation, and cross-device workflows.” Native apps for Windows, Mac, Linux, iOS, Android, and the web are available for direct download or can be <a href=\"https://github.com/thunderbird/thunderbolt\">built from React source code via a GitHub repository</a>.</p>\n<p>Mozilla is already encouraging potential enterprise clients to reach out to coordinate paid licensing and on-site deployments, even as the GitHub page warns that Thunderbolt is “under active development, currently undergoing a security audit, and preparing for enterprise production readiness.”</p>\n<p>Thunderbolt is funded by a grant from Mozilla and is operated by the MZLA Technologies subsidiary that was <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">formed in 2020</a> to manage the Thunderbird email client. It builds on Mozilla’s existing efforts in the AI space through the Mozilla Foundation’s <a href=\"http://mozilla.ai/\">Mozilla.ai</a>, which backs open source tooling for external AI models and agents.</p>\n<p>In late 2025, Mozilla <a href=\"https://blog.mozilla.org/en/mozilla/rewiring-mozilla-ai-and-web/\">announced its aim</a> to “do for AI what we did for the web” by offering AI services with more agency, diversity, and choice through a “decentralized open source AI ecosystem that matches the capabilities of Big AI.”</p> </div></div>",
+  "image": "images/d3bb74d34015.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
