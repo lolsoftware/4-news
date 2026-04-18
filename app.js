@@ -99,6 +99,12 @@ function renderFilters(articles) {
       renderList(articlesData);
     };
   });
+
+  const activePill = filtersEl.querySelector('.pill.active');
+  if (activePill) {
+    const target = activePill.offsetLeft - (filtersEl.clientWidth - activePill.offsetWidth) / 2;
+    filtersEl.scrollTo({ left: Math.max(0, target), behavior: 'smooth' });
+  }
 }
 
 function renderList(data) {

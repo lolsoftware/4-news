@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:06:20 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>SOR-y będą pękać w szwach. Dyrektorzy szpitali o skutkach cięć w diagnostyce</title>
@@ -48,6 +48,14 @@
       <source url="https://www.bankier.pl/wiadomosc/Nawrocki-o-sedziowskim-cyrku-w-Sejmie-Gwarantowalem-dzialanie-TK-oni-nie-mogli-poczekac-9116014.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>MacBooki z procesorami Intela tracą wartość rynkową wobec modeli z Apple Silicon</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c946c4a04a89</link>
+      <description>MacBook z procesorem Intela może kusić niższą ceną, ale w praktyce coraz częściej oznacza zakup sprzętu z ograniczoną przyszłością. Dlaczego komputery, które potrafiły kosztować grubą kasę przegrywają dziś z układami Apple Silicon pod niemal każdym kątem? Sprawdźmy.</description>
+      <pubDate>Sat, 18 Apr 2026 08:00:48 GMT</pubDate>
+      <guid isPermaLink="false">c946c4a04a89</guid>
+      <source url="https://antyweb.pl/macbook-na-intelu-w-2026-roku-dlaczego-nie-warto-go-kupowac">Antyweb</source>
+    </item>
+    <item>
       <title>Nawrocki chwali PiS. &quot;Nie postawiłbym pieniędzy na rozpad partii&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1efb212b03fa</link>
       <description>Prezydent Karol Nawrocki nie postawiłby środków finansowych na to, że PiS się rozpadnie. Ocenił, że b. premier Mateusz Morawiecki i współpracujący z nim politycy, to bardzo zdolne osoby. Tak samo określił posła PiS Przemysława Czarnka i stwierdził, że nie będzie miał problemu, jeśli zostanie on premierem.</description>
@@ -64,6 +72,14 @@
       <source url="https://www.bankier.pl/wiadomosc/Nawrocki-Spotkanie-z-Orbanem-to-nie-blad-to-dyplomatyczna-elegancja-9116000.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>&quot;Spartaczyli sprawę. Ręce opadają&quot;. Były premier ostro o KSeF</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/626b18a319ca</link>
+      <description>&quot;Należy dokonać głębokiej rewizji KSeF-u&quot; - sugerował w RMF FM były premier Mateusz Morawiecki. Jednocześnie nazwał obecnie rządzących &quot;gospodarczymi fajtłapami&quot; i oskarżył ich o zepsucie dobrego projektu.</description>
+      <pubDate>Sat, 18 Apr 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="false">626b18a319ca</guid>
+      <source url="https://www.rmf24.pl/ekonomia/news-spartaczyli-sprawe-rece-opadaja-byly-premier-ostro-o-ksef,nId,8077980">RMF24</source>
+    </item>
+    <item>
       <title>Martyna wspięła się na słup energetyczny i zginęła</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8f1301f18f53</link>
       <description>23-letnia kobieta zginęła porażona prądem po tym, jak podczas spotkania towarzyskiego w Grzegorzówce pod Rzeszowem wspięła się na słup energetyczny. Okoliczności tragedii wyjaśnia prokuratura.</description>
@@ -78,6 +94,14 @@
       <pubDate>Sat, 18 Apr 2026 07:49:00 GMT</pubDate>
       <guid isPermaLink="false">ff410ee27e31</guid>
       <source url="https://www.bankier.pl/wiadomosc/Co-dalej-z-ministra-klimatu-Pelczynska-Nalecz-mowi-o-przemocy-Tusk-o-tescie-lojalnosci-9115980.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Niespodziewana decyzja Iranu. Po raz pierwszy od początku wojny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/122486fafeb0</link>
+      <description>W sobotę o godz. 7 rano czasu lokalnego (o godz. 5:30 czasu polskiego) władze Iranu otworzyły przestrzeń powietrzną we wschodniej części kraju. Przywróciły też funkcjonowanie kilku lotnisk. Taką informację podał niezależny portal Iran International, powołując się na irański urząd lotnictwa cywilnego.</description>
+      <pubDate>Sat, 18 Apr 2026 07:48:58 GMT</pubDate>
+      <guid isPermaLink="false">122486fafeb0</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-niespodziewana-decyzja-iranu-po-raz-pierwszy-od-poczatku-woj,nId,8077981">RMF24</source>
     </item>
     <item>
       <title>Kruchy pokój w cieniu min. Iran grozi ponownym zamknięciem cieśniny Ormuz</title>
@@ -382,30 +406,6 @@
       <pubDate>Sat, 18 Apr 2026 05:00:15 GMT</pubDate>
       <guid isPermaLink="false">138f27e21886</guid>
       <source url="https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Dzień zjednoczenia narodowego. 16 lat temu cały świat patrzył na Kraków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f9f8cca7ca21</link>
-      <description>Dziś mija 16 lat od pogrzebu Lecha i Marii Kaczyńskich, którzy zginęli w katastrofie smoleńskiej. Uroczystości pogrzebowe na Wawelu zgromadziły polityków z Polski i świata, a decyzja o pochówku pary prezydenckiej na Wawelu wywołała szeroką debatę społeczną. Przypominamy przebieg tamtych wydarzeń i ich znaczenie dla współczesnej historii Polski.</description>
-      <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f9f8cca7ca21</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-dzien-zjednoczenia-narodowego-16-lat-temu-caly-swiat-patrzyl,nId,8077364">RMF24</source>
-    </item>
-    <item>
-      <title>Kupowanie podczas wojny się opłaciło. Czy czas postawić wszystko na akcje?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef402d73e038</link>
-      <description>W tym tygodniu rynki akcji odrobiły straty wywołane wojną w Iranie i powróciły do bicia rekordów, mimo że USA i Iran nie zawarły jeszcze porozumienia pokojowego i nie odblokowały Cieśniny Ormuz. Uwaga Wall Street przenosi się z wojny na rozpoczęty sezon wyników finansowych spółek oraz kondycję gospodarki.</description>
-      <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ef402d73e038</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kupowanie-podczas-wojny-sie-oplacilo-Czy-czas-postawic-wszystko-na-akcje-9115732.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ropa w dół, 10 proc. inflacji w kraju UE, a KGHM wypadł z elitarnego grona</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/51e10437464f</link>
-      <description>Kapitalizacja światowych kopalń bije rekordy, ale na tej liście zabrakło KGHM. Analizujemy najnowsze dane o inflacji bazowej, zaglądamy w statystyki Eurostatu dotyczące cen mieszkań, zerkamy na cenę ropy. Oto wykresy, które zmieniły układ sił w tym tygodniu.</description>
-      <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">51e10437464f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ropa-w-dol-10-proc-inflacji-w-kraju-UE-a-KGHM-wypadl-z-elitarnego-grona-9115793.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
