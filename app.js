@@ -67,14 +67,18 @@ async function fetchArticleDetail(id) {
 
 // --- Rendering ---
 
+function getOrderedCategories(articles) {
+  const present = new Set(articles.map(a => a.category).filter(Boolean));
+  const order = (articlesData && articlesData.categoryOrder) || [];
+  return [
+    ...order.filter(c => present.has(c)),
+    ...[...present].filter(c => !order.includes(c))
+  ];
+}
+
 function renderFilters(articles) {
   const filtersEl = document.getElementById('filters');
-  const presentCategories = new Set(articles.map(a => a.category).filter(Boolean));
-  const order = articlesData.categoryOrder || [];
-  const uniqueCategories = [
-    ...order.filter(c => presentCategories.has(c)),
-    ...[...presentCategories].filter(c => !order.includes(c))
-  ];
+  const uniqueCategories = getOrderedCategories(articles);
 
   // Hide filters if only one category (e.g. all "general")
   if (uniqueCategories.length <= 1) {
@@ -100,7 +104,8 @@ function renderFilters(articles) {
 function renderList(data) {
   const content = document.getElementById('content');
   const headerTitle = document.getElementById('header-title');
-  headerTitle.textContent = 'News';
+  const catLabel = currentFilter === 'all' ? 'Wszystko' : currentFilter;
+  headerTitle.textContent = `News \u00b7 ${catLabel}`;
   document.getElementById('app').classList.remove('article-view');
 
   const articles = currentFilter === 'all'
@@ -205,6 +210,41 @@ function handleRoute() {
 }
 
 window.addEventListener('hashchange', handleRoute);
+
+// --- Swipe to change category ---
+
+let touchStart = null;
+document.addEventListener('touchstart', e => {
+  if (e.touches.length !== 1) { touchStart = null; return; }
+  if (e.target.closest && e.target.closest('#filters')) { touchStart = null; return; }
+  const t = e.touches[0];
+  touchStart = { x: t.clientX, y: t.clientY, time: Date.now() };
+}, { passive: true });
+
+document.addEventListener('touchend', e => {
+  if (!touchStart) return;
+  const start = touchStart;
+  touchStart = null;
+  if (getRoute().view !== 'list') return;
+  if (!articlesData) return;
+  const t = e.changedTouches[0];
+  const dx = t.clientX - start.x;
+  const dy = t.clientY - start.y;
+  const dt = Date.now() - start.time;
+  if (dt > 500) return;
+  if (Math.abs(dx) < 50) return;
+  if (Math.abs(dx) < Math.abs(dy) * 1.5) return;
+  const cats = ['all', ...getOrderedCategories(articlesData.articles)];
+  if (cats.length <= 1) return;
+  const idx = cats.indexOf(currentFilter);
+  const safeIdx = idx === -1 ? 0 : idx;
+  const next = dx < 0
+    ? cats[(safeIdx + 1) % cats.length]
+    : cats[(safeIdx - 1 + cats.length) % cats.length];
+  currentFilter = next;
+  renderList(articlesData);
+  window.scrollTo(0, 0);
+}, { passive: true });
 
 document.getElementById('refresh-btn').onclick = async () => {
   await fetchArticles(true);
