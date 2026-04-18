@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 18 Apr 2026 08:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:12:57 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>SOR-y będą pękać w szwach. Dyrektorzy szpitali o skutkach cięć w diagnostyce</title>
@@ -46,6 +46,14 @@
       <pubDate>Sat, 18 Apr 2026 08:05:00 GMT</pubDate>
       <guid isPermaLink="false">49e8f2a95fe4</guid>
       <source url="https://www.bankier.pl/wiadomosc/Nawrocki-o-sedziowskim-cyrku-w-Sejmie-Gwarantowalem-dzialanie-TK-oni-nie-mogli-poczekac-9116014.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Pożar w kotłowni. Dym przedostał się aż na poddasze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4ec33013a5b9</link>
+      <description>W Wawrze, w jednym z domów jednorodzinnych, wybuchł pożar. Objął kotłownię. Dym wydostawał się przez okna. Na miejscu działają strażacy.</description>
+      <pubDate>Sat, 18 Apr 2026 08:03:33 GMT</pubDate>
+      <guid isPermaLink="false">4ec33013a5b9</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/wawer/warszawa-pozar-domu-jednorodzinnego-w-wawrze-st9004329?source=rss">TVN24</source>
     </item>
     <item>
       <title>MacBooki z procesorami Intela tracą wartość rynkową wobec modeli z Apple Silicon</title>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 18 Apr 2026 05:00:24 GMT</pubDate>
       <guid isPermaLink="false">bab150192472</guid>
       <source url="https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>What people in power think the impact of the Iran war will be</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/138f27e21886</link>
-      <description>I have been chatting with some of the world&apos;s most powerful people about the conflict and the economy. Here&apos;s what they said.</description>
-      <pubDate>Sat, 18 Apr 2026 05:00:15 GMT</pubDate>
-      <guid isPermaLink="false">138f27e21886</guid>
-      <source url="https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T08:06:19.604Z",
+  "lastUpdated": "2026-04-18T08:12:56.636Z",
   "categoryOrder": [
     "Polska",
     "Świat",
@@ -91,6 +91,22 @@
       "image": "images/ae0337524000.webp",
       "readingTimeMin": 4,
       "titleStatus": "skipped",
+      "extractionFailed": false
+    },
+    {
+      "id": "4ec33013a5b9",
+      "title": "Pożar w kotłowni. Dym przedostał się aż na poddasze",
+      "originalTitle": "Pożar w kotłowni. Dym przedostał się aż na poddasze",
+      "source": "TVN24",
+      "sourceId": "tvn24",
+      "category": "Polska",
+      "url": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-pozar-domu-jednorodzinnego-w-wawrze-st9004329?source=rss",
+      "guid": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-pozar-domu-jednorodzinnego-w-wawrze-st9004329?source=rss",
+      "publishedAt": "2026-04-18T08:03:33.000Z",
+      "excerpt": "W Wawrze, w jednym z domów jednorodzinnych, wybuchł pożar. Objął kotłownię. Dym wydostawał się przez okna. Na miejscu działają strażacy.",
+      "image": "images/6d629aff9f3c.webp",
+      "readingTimeMin": 1,
+      "titleStatus": "ok",
       "extractionFailed": false
     },
     {
@@ -3194,22 +3210,6 @@
       "excerpt": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.",
       "image": "images/6e0d0f688b6e.webp",
       "readingTimeMin": 2,
-      "titleStatus": "skipped",
-      "extractionFailed": false
-    },
-    {
-      "id": "0dba0c3d7be3",
-      "title": "Claude Design",
-      "originalTitle": "Claude Design",
-      "source": "Hacker News",
-      "sourceId": "hackernews",
-      "category": "Tech",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "guid": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "publishedAt": "2026-04-17T15:04:09.000Z",
-      "excerpt": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
-      "image": "images/d02c1c07c6c9.webp",
-      "readingTimeMin": 4,
       "titleStatus": "skipped",
       "extractionFailed": false
     }
