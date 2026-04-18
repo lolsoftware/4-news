@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 18 Apr 2026 08:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:38:08 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nowy pomysł MZ budzi wątpliwości. „Jestem pewien, że dojdzie do wycieku danych”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1834bd0d3e5b</link>
+      <description>Ponad 60 proc. kosztów świadczeń finansowanych przez NFZ to wynagrodzenia. Ministerstwo Zdrowia chce umożliwić zbieranie powiązanych z PESEL-em danych o płacach medyków. Eksperci przestrzegają przed ryzykiem wycieku danych osobowych.</description>
+      <pubDate>Sat, 18 Apr 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="false">1834bd0d3e5b</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nowy-pomysl-MZ-budzi-watpliwosci-Jestem-pewien-ze-dojdzie-do-wycieku-danych,283352,1.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>SOR-y będą pękać w szwach. Dyrektorzy szpitali o skutkach cięć w diagnostyce</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c17e07eab716</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 18 Apr 2026 05:05:45 GMT</pubDate>
       <guid isPermaLink="false">8e0bc8414138</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-to-nastepny-cel-donalda-trumpa-zalezy-od-definicji-dzialan-z,nId,8077971">RMF24</source>
-    </item>
-    <item>
-      <title>Swinney predicts SNP majority at Holyrood election</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bab150192472</link>
-      <description>The first minister has told BBC News that his party will return at least 65 seats at next month&apos;s vote.</description>
-      <pubDate>Sat, 18 Apr 2026 05:00:24 GMT</pubDate>
-      <guid isPermaLink="false">bab150192472</guid>
-      <source url="https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T08:12:56.636Z",
+  "lastUpdated": "2026-04-18T08:38:08.519Z",
   "categoryOrder": [
     "Polska",
     "Świat",
@@ -13,6 +13,22 @@
     "Lifestyle"
   ],
   "articles": [
+    {
+      "id": "1834bd0d3e5b",
+      "title": "Nowy pomysł MZ budzi wątpliwości. „Jestem pewien, że dojdzie do wycieku danych”",
+      "originalTitle": "Nowy pomysł MZ budzi wątpliwości. „Jestem pewien, że dojdzie do wycieku danych”",
+      "source": "Rynek Zdrowia",
+      "sourceId": "rynekzdrowia",
+      "category": "Zdrowie",
+      "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nowy-pomysl-MZ-budzi-watpliwosci-Jestem-pewien-ze-dojdzie-do-wycieku-danych,283352,1.html",
+      "guid": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nowy-pomysl-MZ-budzi-watpliwosci-Jestem-pewien-ze-dojdzie-do-wycieku-danych,283352,1.html",
+      "publishedAt": "2026-04-18T10:25:00.000Z",
+      "excerpt": "Ponad 60 proc. kosztów świadczeń finansowanych przez NFZ to wynagrodzenia. Ministerstwo Zdrowia chce umożliwić zbieranie powiązanych z PESEL-em danych o płacach medyków. Eksperci przestrzegają przed ryzykiem wycieku danych osobowych.",
+      "image": "images/7c2911a8f8ab.webp",
+      "readingTimeMin": 4,
+      "titleStatus": "skipped",
+      "extractionFailed": false
+    },
     {
       "id": "c17e07eab716",
       "title": "SOR-y będą pękać w szwach. Dyrektorzy szpitali o skutkach cięć w diagnostyce",
@@ -3194,22 +3210,6 @@
       "excerpt": "The report adds to the growing documentation on commercial data's contributions to Earth science research and applications.",
       "image": "images/433f0c7f54c5.webp",
       "readingTimeMin": 3,
-      "titleStatus": "skipped",
-      "extractionFailed": false
-    },
-    {
-      "id": "ad24b3c72b9b",
-      "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
-      "originalTitle": "Volunteers Discover Rare Space Weather Events Using Their Ears",
-      "source": "NASA Breaking News",
-      "sourceId": "nasa_breaking",
-      "category": "Nauka",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
-      "guid": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
-      "publishedAt": "2026-04-17T15:04:32.000Z",
-      "excerpt": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.",
-      "image": "images/6e0d0f688b6e.webp",
-      "readingTimeMin": 2,
       "titleStatus": "skipped",
       "extractionFailed": false
     }
