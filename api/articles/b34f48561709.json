@@ -1,0 +1,13 @@
+{
+  "id": "b34f48561709",
+  "title": "Show HN: Remoroo. trying to fix memory in long-running coding agents",
+  "originalTitle": "Show HN: Remoroo. trying to fix memory in long-running coding agents",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.remoroo.com/",
+  "publishedAt": "2026-04-14T13:51:31.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><section><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--><div><h2><span>Autonomous engineering</span><span>for deep tech teams</span></h2><p>Remoroo runs autonomous research on your code locally, overnight. It edits, tests, evaluates, keeps or reverts. You wake up to better results.</p></div></section><section><h2>The reality of manual ML research</h2></section><div><h2>How it works</h2><p>Write a spec (e.g. program.md). Point Remoroo at it, and it runs experiments overnight.</p></div><section><h2>Verified results</h2><div><div><p>LR SCHEDULE SEARCH</p><p>VERIFIED</p></div><div><p>ARCHITECTURE SEARCH</p><div><p>val_bpb</p><p>banded attn (SSSL)</p></div><p>VERIFIED</p></div><div><p>MULTI-OBJECTIVE</p><div><p>val_bpb + memory</p><div><p>3 constraints</p><!-- --><p> → </p><!-- --><p>all passed</p></div><p>all passed</p></div><p>VERIFIED</p></div></div></section><section><p><h2>Not a coding agent.</h2><h2>An autonomous research engine.</h2></p></section><div><h2>It didn't guess. It proved.</h2><div><p>Install in 30 seconds.</p><p>Free tier includes monthly run credits — see<!-- --> <a href=\"https://www.remoroo.com/pricing\">Pricing</a>.</p></div></div></div></div>",
+  "image": "images/d2bec6162c0a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
