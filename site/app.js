@@ -1,5 +1,6 @@
 const API_BASE = 'api';
 const CACHE_KEY = 'news-articles';
+const APP_VERSION = 'v5';
 
 let articlesData = null;
 let currentFilter = 'all';
@@ -125,9 +126,8 @@ function renderList(data) {
     return;
   }
 
-  const updatedHtml = data.lastUpdated
-    ? `<div class="updated-time">Updated ${timeAgo(data.lastUpdated)}</div>`
-    : '';
+  const updatedLabel = data.lastUpdated ? `Updated ${timeAgo(data.lastUpdated)} \u00b7 ${APP_VERSION}` : APP_VERSION;
+  const updatedHtml = `<div class="updated-time">${updatedLabel}</div>`;
 
   content.innerHTML = updatedHtml + articles.map(a => {
     const titlePrefix = a.titleStatus === 'rewritten' ? '<span class="ai-badge">(#)</span> '
