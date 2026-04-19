@@ -1,0 +1,13 @@
+{
+  "id": "08dd9a428265",
+  "title": "Nanopass Framework: Clean Compiler Creation Language",
+  "originalTitle": "Nanopass Framework: Clean Compiler Creation Language",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://nanopass.org/",
+  "publishedAt": "2026-04-15T11:38:22.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><center><img src=\"https://nanopass.org/big-banner.png\" alt=\"Nanopass logo\" height=\"130\" width=\"600\"></center>\n<h2>Clean Compiler Creation Language</h2>\n<p><b>The Nanopass Framework</b> is an embedded domain-specific\nlanguage for creating compilers that focuses on creating small\npasses and many intermediate representations.\nNanopass reduces the boilerplate required to create\ncompilers making them easier to understand and maintain.</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

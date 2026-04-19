@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:37:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 14:35:59 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Popularne słodycze wycofane. Duża sieć apeluje: prosimy o pilny zwrot</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aca4b55d2b08</link>
+      <description>Można zwrócić nawet bez paragonu. Cztery partie ciastek pilnie wycofano ze sprzedaży. Sieć ALDI wydała komunikat w tej sprawie.</description>
+      <pubDate>Sun, 19 Apr 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="false">aca4b55d2b08</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Popularne-slodycze-wycofane-Duza-siec-apeluje-prosimy-o-pilny-zwrot,283312,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Prof. Buszman o przyszłości kardiologii: możemy skrócić diagnostykę nawet o 1,5 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d0672bd907e8</link>
+      <description>Tańsze technologie, szybsza diagnostyka i coraz większa rola AI. Kardiologia przyspiesza, a polskie projekty mogą odegrać w tym procesie istotną rolę - przekonywał w trakcie Kongresu Wyzwań Zdrowotnych prof. Paweł Buszman, kierownik Katedry Chorób Układu Krążenia Collegium Medicum im. dr. W. Biegańskiego w Częstochowie.</description>
+      <pubDate>Sun, 19 Apr 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="false">d0672bd907e8</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Kardiologia/Prof-Buszman-o-przyszlosci-kardiologii-mozemy-skrocic-diagnostyke-nawet-o-1-5-roku,283102,1014.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>12 proc. wykonało mammografię, cytologię - jeszcze mniej. Niepokojące dane NFZ</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6f5ff4e0855b</link>
+      <description>Setki tysięcy kobiet może skorzystać z badań profilaktycznych, ale robi to tylko niewielki odsetek. W woj. opolskim bezpłatną mammografię wykonało 12 proc. uprawnionych, a cytologię zaledwie kilka procent, mimo że badania te mogą uratować życie - podaje opolski oddział NFZ.</description>
+      <pubDate>Sun, 19 Apr 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="false">6f5ff4e0855b</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/12-proc-wykonalo-mammografie-cytologie-jeszcze-mniej-Niepokojace-dane-NFZ,283376,1013.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Chińscy astronauci z misji Shenzhou XXI zakończyli trzeci spacer kosmiczny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a6ccb1edc4d9</link>
+      <description>Chiny zakończyły trzeci spacer kosmiczny misji Shenzhou XXI. Tiangong dostał nowe osłony, a załoga zostaje na orbicie dłużej niż planowano.</description>
+      <pubDate>Sun, 19 Apr 2026 14:30:48 GMT</pubDate>
+      <guid isPermaLink="false">a6ccb1edc4d9</guid>
+      <source url="https://antyweb.pl/chiny-tiangong-spacer-kosmiczny-numer-trzy">Antyweb</source>
+    </item>
+    <item>
+      <title>Kontrowersyjny youtuber opuści Radę Nowych Mediów? &quot;Sprawa jest analizowana&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bcd9c3b1b476</link>
+      <description>Paweł Swinarski, kontrowersyjny youtuber, posądzany o szerzenie rosyjskiej dezinformacji, może opuścić Radę Nowych Mediów - dowiaduje się dziennikarz RMF FM Michał Radkowski. Radę powołał w środę prezydent Karol Nawrocki.</description>
+      <pubDate>Sun, 19 Apr 2026 14:27:00 GMT</pubDate>
+      <guid isPermaLink="false">bcd9c3b1b476</guid>
+      <source url="https://www.rmf24.pl/polityka/news-kontrowersyjny-youtuber-opusci-rade-nowych-mediow-sprawa-jes,nId,8078069">RMF24</source>
+    </item>
+    <item>
+      <title>Archeolodzy odnaleźli tabliczkę nagrobną Aliny Sztarkman z 1943 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cde0ba753586</link>
+      <description>Miała 27 lat i zmarła 19 kwietnia 1943 roku, czyli w dniu wybuchu powstania w getcie warszawskim. Archeolodzy znaleźli tabliczkę nagrobną Aliny Sztarkman. Na razie wiadomo o niej niewiele.</description>
+      <pubDate>Sun, 19 Apr 2026 14:18:38 GMT</pubDate>
+      <guid isPermaLink="false">cde0ba753586</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/wola/zginela-podczas-powstania-w-getcie-warszawskim-zostala-po-niej-tylko-tabliczka-st9006091?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Vercel April 2026 security incident</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/23e89bdaabd6</link>
+      <description>We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems.</description>
+      <pubDate>Sun, 19 Apr 2026 14:14:38 GMT</pubDate>
+      <guid isPermaLink="false">23e89bdaabd6</guid>
+      <source url="https://vercel.com/kb/bulletin/vercel-april-2026-security-incident">Hacker News</source>
+    </item>
     <item>
       <title>Nie ma bezpiecznej ilości. Niemcy policzyli: 47 tysięcy zgonów rocznie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d13b895a1f82</link>
@@ -16,12 +72,220 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Nie-ma-bezpiecznej-ilosci-Niemcy-policzyli-47-tysiecy-zgonow-rocznie,283351,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Nagranie rozpowszechniane w sieci jako dowód praktyki porzucania pacjentów w USA okazuje się nieweryfikowalne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0bf56466f3e2</link>
+      <description>Rozpowszechniane w sieci nagranie porusza internatów: widzimy na nim leżącą na chodniku osobę, której nikt nie pomaga. Film rozchodzi się z informacją, że obecnie szpitale w USA tak właśnie porzucają na ulicy pacjentów, których nie stać na leczenie. Wyjaśniamy kontekst pokazanej sytuacji.</description>
+      <pubDate>Sun, 19 Apr 2026 14:04:24 GMT</pubDate>
+      <guid isPermaLink="false">0bf56466f3e2</guid>
+      <source url="https://konkret24.tvn24.pl/swiat/praktyka-porzucania-pacjentow-w-usa-co-to-za-film-st9003840?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Delegacja KE odwiedziła Budapeszt. Stawką 17 miliardów euro</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1016fb73560</link>
+      <description>Delegacja Komisji Europejskiej z najwyższego szczebla odwiedziła Budapeszt, by rozmawiać z przedstawicielami przyszłego rządu Petera Magyara. Stawką są gigantyczne unijne środki – 17 miliardów euro, które od miesięcy pozostają zamrożone. Dostęp do funduszu zależy od spełnienia 27 tzw. super kamieni milowych, zapisanych w węgierskim Krajowym Planie Odbudowy (KPO).</description>
+      <pubDate>Sun, 19 Apr 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="false">b1016fb73560</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-delegacja-ke-odwiedzila-budapeszt-stawka-17-miliardow-euro,nId,8078067">RMF24</source>
+    </item>
+    <item>
+      <title>Strajk w największych sieciach hoteli. Zamknięte są restauracje, wstrzymane sprzątanie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/da94b9632e1f</link>
+      <description>Od niedzieli w Norwegii trwa strajk pracowników największych sieci hotelowych. Protest rozpoczął się po nieudanych negocjacjach płacowych i już teraz powoduje poważne utrudnienia dla gości hoteli w całym kraju. Związkowcy zapowiadają rozszerzenie akcji protestacyjnej.</description>
+      <pubDate>Sun, 19 Apr 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="false">da94b9632e1f</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-strajk-w-najwiekszych-sieciach-hoteli-zamkniete-sa-restaurac,nId,8078066">RMF24</source>
+    </item>
+    <item>
+      <title>Rosyjskie służby graniczne otrzymały uprawnienia do kontroli elektronicznych urządzeń podróżnych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6971eb7965d</link>
+      <description>Służby graniczne w Rosji zyskały nowe uprawnienia - mogą skontrolować telefony, tablety i laptopy podróżnych - przekazał niezależny rosyjski portal Nastojaszczeje Wriemia. Za odmowę udostępnienia urządzenia można zostać ukaranym grzywną lub aresztem.</description>
+      <pubDate>Sun, 19 Apr 2026 13:46:34 GMT</pubDate>
+      <guid isPermaLink="false">c6971eb7965d</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/rosjanie-zaostrzaja-kontrole-na-granicach-st9006103?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Trwa kolejna próba uwolnienia humbaka Timmy&apos;ego z Morza Bałtyckiego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1a4de327c948</link>
+      <description>Humbak Timmy pozostaje uwięziony na Morzu Bałtyckim. W niedzielę rozpoczęła się kolejna próba uwolnienia morskiego ssaka. Zwierzę jest jednak mocno osłabione, a jak podają lokalne media, słonawe wody Bałtyku poważnie uszkodziły jego skórę.</description>
+      <pubDate>Sun, 19 Apr 2026 13:46:18 GMT</pubDate>
+      <guid isPermaLink="false">1a4de327c948</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/niemcy-chca-pomoc-timmy-emu-szanse-sa-nikle-st9005623?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Prezydent Nawrocki wyszedł do uczestników Narodowego Marszu Życia w Warszawie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/882b3e7a2199</link>
+      <description>Ulicami Warszawy przeszedł Narodowy Marsz Życia. Maszerowano pod hasłem &quot;Wiara i Wierność 966 - 2026&quot;. Kiedy uczestnicy byli przy Pałacu Prezydenckim wyszedł do nich prezydent RP Karol Nawrocki, który podkreślił, że wspiera marsz, bo ta &quot;służy Polsce i jest odpowiedzią na głęboki niż demograficzny&quot;.</description>
+      <pubDate>Sun, 19 Apr 2026 13:44:30 GMT</pubDate>
+      <guid isPermaLink="false">882b3e7a2199</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/przeszedl-narodowy-marsz-zycia-do-uczestnikow-wyszedl-prezydent-nawrocki-st9006092?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Testy grawitacyjne potwierdzają model standardowy i wykluczają alternatywy wobec ciemnej materii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1b01f126a237</link>
+      <description>Testy na grawitacji na skalach setek milionów lat świetlnych wzmacniają model standardowy i wyklucza alternatywy wobec ciemnej materii.</description>
+      <pubDate>Sun, 19 Apr 2026 13:30:05 GMT</pubDate>
+      <guid isPermaLink="false">1b01f126a237</guid>
+      <source url="https://antyweb.pl/grawitacja-testy-ciemna-materia">Antyweb</source>
+    </item>
+    <item>
       <title>Więcej pielęgniarek stwierdzi zgon. Sprawdź, w jakich sytuacjach</title>
       <link>https://lolsoftware.github.io/4-news/#/article/eda1dae42197</link>
       <description>Planowana nowelizacja ustawy o zawodach pielęgniarki i położnej rozszerzy katalog świadczeń udzielanych przez pielęgniarki m.in. o stwierdzanie zgonu w opiece paliatywnej i długoterminowej.</description>
       <pubDate>Sun, 19 Apr 2026 13:30:00 GMT</pubDate>
       <guid isPermaLink="false">eda1dae42197</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Wiecej-pielegniarek-stwierdzi-zgon-Sprawdz-w-jakich-sytuacjach,283174,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Seria ataków na żydowskie obiekty w Londynie. Chcieli podpalić synagogę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4f9aa769dfd2</link>
+      <description>W północno-zachodnim Londynie doszło do kolejnej próby podpalenia synagogi. To już trzeci atak na żydowskie obiekty w stolicy Wielkiej Brytanii w ciągu ostatnich dni. &quot;To jest odrażające i nie będzie tolerowane. Ataki na naszą społeczność żydowską to ataki na Wielką Brytanię&quot; – podkreślił we wpisie na platformie X premier kraju Keir Starmer.</description>
+      <pubDate>Sun, 19 Apr 2026 13:25:00 GMT</pubDate>
+      <guid isPermaLink="false">4f9aa769dfd2</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-seria-atakow-na-zydowskie-obiekty-w-londynie-chcieli-podpali,nId,8078063">RMF24</source>
+    </item>
+    <item>
+      <title>Tragedia w Krynkach. Nie żyje 20-letni motocyklista</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/be65f1331131</link>
+      <description>Na drodze krajowej nr 42 w miejscowości Krynki (Świętokrzyskie) doszło do śmiertelnego wypadku. Po zderzeniu z samochodem osobowym zginął 20-letni motocyklista.</description>
+      <pubDate>Sun, 19 Apr 2026 13:22:00 GMT</pubDate>
+      <guid isPermaLink="false">be65f1331131</guid>
+      <source url="https://www.rmf24.pl/regiony/kielce/news-tragedia-w-krynkach-nie-zyje-20-letni-motocyklista,nId,8078064">RMF24</source>
+    </item>
+    <item>
+      <title>A new force of nature is reshaping the planet, study finds</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/127d66cf84d6</link>
+      <description>Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.</description>
+      <pubDate>Sun, 19 Apr 2026 13:18:25 GMT</pubDate>
+      <guid isPermaLink="false">127d66cf84d6</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/04/260419054825.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Blue Origin po raz trzeci pomyślnie odzyskała pierwszy człon rakiety New Glenn</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4b77c51fc0ff</link>
+      <description>Blue Origin udowodniło, że poprzednia misja New Glenna, nie była dziełem przypadku. W trzecim starcie ponownie udało się odzyskać pierwszy człon.</description>
+      <pubDate>Sun, 19 Apr 2026 13:15:46 GMT</pubDate>
+      <guid isPermaLink="false">4b77c51fc0ff</guid>
+      <source url="https://antyweb.pl/blue-origin-pisze-historie-new-glenn-jak-falcon-9">Antyweb</source>
+    </item>
+    <item>
+      <title>Airline worker arrested after sharing photos of bomb damage in WhatsApp group</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6cfd87faa510</link>
+      <description>Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues</description>
+      <pubDate>Sun, 19 Apr 2026 13:13:09 GMT</pubDate>
+      <guid isPermaLink="false">6cfd87faa510</guid>
+      <source url="https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/">Hacker News</source>
+    </item>
+    <item>
+      <title>Why are gray whales dying in San Francisco&apos;s waters? US scientists search for clues</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c4c53c17f0fe</link>
+      <description>Climate change and shifting migration patterns are bringing rare research opportunities and new mysteries.</description>
+      <pubDate>Sun, 19 Apr 2026 13:08:05 GMT</pubDate>
+      <guid isPermaLink="false">c4c53c17f0fe</guid>
+      <source url="https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Trump znów grozi Iranowi. Wszystko ma zależeć od rozmów w Islamabadzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/45aa93cc241b</link>
+      <description>W poniedziałek wieczorek przedstawiciele Stanów Zjednoczonych pojawią się w Islamabadzie, gdzie odbędą się negocjacje z Iranem - wynika ze wpisu prezydenta USA na platformie Truth Social. Donald Trump zagroził, że w razie fiaska rozmów &quot;Stany Zjednoczone zniszczą każdą elektrownię i każdy most w Iranie&quot;.</description>
+      <pubDate>Sun, 19 Apr 2026 13:06:00 GMT</pubDate>
+      <guid isPermaLink="false">45aa93cc241b</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-trump-znow-grozi-iranowi-wszystko-ma-zalezec-od-rozmow-w-isl,nId,8078062">RMF24</source>
+    </item>
+    <item>
+      <title>Austriacka policja ostrzega przed trutką na szczury w produktach HiPP dla niemowląt</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/60324ffad642</link>
+      <description>Austriacka policja ostrzegła, że produkty żywieniowe dla niemowląt marki HiPP mogą być szkodliwe. Próbka puree tej marki dała wynik pozytywny na obecność trutki na szczury - poinformował portal stacji BBC.</description>
+      <pubDate>Sun, 19 Apr 2026 13:05:39 GMT</pubDate>
+      <guid isPermaLink="false">60324ffad642</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/austria-policja-trutka-na-szczury-w-jedzeniu-dla-dzieci-marki-hipp-st9006056?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Badania: oliwa z oliwek może wspierać pracę mózgu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/efadc6d103e9</link>
+      <description>Czy zwykła oliwa z oliwek może wspierać pracę mózgu? Najnowsze badania sugerują, że tak, pod warunkiem że sięgamy po jej odpowiednią wersję.</description>
+      <pubDate>Sun, 19 Apr 2026 13:00:02 GMT</pubDate>
+      <guid isPermaLink="false">efadc6d103e9</guid>
+      <source url="https://antyweb.pl/na-czym-smazyc-w-kuchni-naukowcy-oglosili-swojego-faworyta">Antyweb</source>
+    </item>
+    <item>
+      <title>Z Wisły wyłowiono ciało mężczyzny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/73579bf1940c</link>
+      <description>Przed południem służby interweniowały w okolicach Bulwarów Wiślanych. W rzece zauważono ciało mężczyzny. Jego tożsamość nie jest jeszcze znana.</description>
+      <pubDate>Sun, 19 Apr 2026 12:59:39 GMT</pubDate>
+      <guid isPermaLink="false">73579bf1940c</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-z-wisly-wylowiono-cialo-mezczyzny-st9006078?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Twenty goals and a burning yellow card - the best bits from Sidemen charity match</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5eef1d82907</link>
+      <description>A sold-out Wembley Stadium watched the Sidemen FC charity match, which raised £6.2 million.</description>
+      <pubDate>Sun, 19 Apr 2026 12:57:56 GMT</pubDate>
+      <guid isPermaLink="false">d5eef1d82907</guid>
+      <source url="https://www.bbc.com/news/articles/ckgedvmzv2mo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Scientists develop dirt-powered fuel cell that could replace batteries</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0573435d7f6e</link>
+      <description>Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.</description>
+      <pubDate>Sun, 19 Apr 2026 12:57:46 GMT</pubDate>
+      <guid isPermaLink="false">0573435d7f6e</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/04/260419054821.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Piesi potrąceni na przejściu, policja szuka motocyklisty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3138eb68e8c7</link>
+      <description>Łódzka policja szuka motocyklisty, który potrącił dwie osoby. Do wypadku doszło na przejściu dla pieszych.</description>
+      <pubDate>Sun, 19 Apr 2026 12:51:17 GMT</pubDate>
+      <guid isPermaLink="false">3138eb68e8c7</guid>
+      <source url="https://tvn24.pl/lodz/lodz-piesi-potraceni-na-przejsciu-policja-szuka-motocyklisty-st9006037?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Cracks are starting to form on fusion energy’s funding boom</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7297a9be0597</link>
+      <description>Fusion startups and investors risk deepening fissures if some key disagreements aren&apos;t settled amicably.</description>
+      <pubDate>Sun, 19 Apr 2026 12:51:10 GMT</pubDate>
+      <guid isPermaLink="false">7297a9be0597</guid>
+      <source url="https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Rowerzysta potrącony na prostym odcinku drogi. Nie przeżył</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad04dcc3e75d</link>
+      <description>W miejscowości Mizerka niedaleko Sochaczewa (Mazowieckie) doszło w sobotę do poważnego wypadku. Zginął rowerzysta potrącony przez samochód osobowy. Na miejscu lądował śmigłowiec Lotniczego Pogotowia Ratunkowego.</description>
+      <pubDate>Sun, 19 Apr 2026 12:48:56 GMT</pubDate>
+      <guid isPermaLink="false">ad04dcc3e75d</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/mizerka-dw-705-smiertelne-potracenie-rowerzysty-st9006036?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Trump zapowiada negocjacje z Iranem za pośrednictwem swoich przedstawicieli</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/725f186ec502</link>
+      <description>Moi przedstawiciele udają się do Islamabadu w Pakistanie, aby w poniedziałek wieczorem wziąć udział w negocjacjach z Iranem - poinformował prezydent USA Donald Trump. Zagroził, że jeśli strona irańska nie przyjmie &quot;uczciwej i rozsądnej&quot; umowy, to USA zniszczą irańską infrastrukturę.</description>
+      <pubDate>Sun, 19 Apr 2026 12:45:53 GMT</pubDate>
+      <guid isPermaLink="false">725f186ec502</guid>
+      <source url="https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-donald-trump-zapowiada-negocjacje-z-iranem-jesli-tego-nie-zrobia-st9006040?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Attempted murder arrest after car hits pedestrians in central London</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c04602a9612</link>
+      <description>The incident took place in central London in the early hours, leaving a woman in a critical condition.</description>
+      <pubDate>Sun, 19 Apr 2026 12:36:30 GMT</pubDate>
+      <guid isPermaLink="false">1c04602a9612</guid>
+      <source url="https://www.bbc.com/news/articles/cm2kgvlrmdeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>W kamperze wybuchła instalacja. Ranną zabrał śmigłowiec LPR</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5aa17ab2dd1</link>
+      <description>W Łebie (woj. pomorskie) w samochodzie przerobionym na kamper doszło do wybuchu instalacji ogrzewania. Pojazd był zaparkowany. W wyniki eksplozji ranne zostały dwie osoby.</description>
+      <pubDate>Sun, 19 Apr 2026 12:34:05 GMT</pubDate>
+      <guid isPermaLink="false">d5aa17ab2dd1</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-w-kamperze-wybuchla-instalacja-ranna-zabral-smiglowiec-lpr,nId,8078061">RMF24</source>
+    </item>
+    <item>
+      <title>Scientists just found a way to control electrons without magnets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e91e27fda8d8</link>
+      <description>A surprising breakthrough in physics could reshape the future of computing by tapping into a strange, previously untapped property of matter. Scientists have shown that tiny atomic vibrations—called chiral phonons—can directly transfer motion to electrons, allowing them to carry information without magnets, batteries, or even electricity. This opens the door to a new field known as orbitronics, where data is processed using the orbital motion of electrons instead of traditional charge or spin.</description>
+      <pubDate>Sun, 19 Apr 2026 12:31:29 GMT</pubDate>
+      <guid isPermaLink="false">e91e27fda8d8</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/04/260417224509.htm">ScienceDaily</source>
     </item>
     <item>
       <title>Tym pacjentom popularne leki na otyłość nie pomogą. Naukowcy wiedzą już dlaczego</title>
@@ -142,270 +406,6 @@
       <pubDate>Sun, 19 Apr 2026 11:36:08 GMT</pubDate>
       <guid isPermaLink="false">a9fa2a1dd4bc</guid>
       <source url="https://tvn24.pl/trojmiasto/leba-wybuch-gazu-w-kamperze-ladowal-smiglowiec-lpr-st9005838?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Kolejny pomnik poświęcony Polakom zdemontowany w Rosji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c8f20b2bec6d</link>
-      <description>Władze Tomska, miasta w azjatyckiej części Rosji, zdemontowały pomnik ofiar represji politycznych, poświęcony Polakom, Litwinom, Łotyszom, Estończykom i Kałmukom. Taką informację przekazał niezależny rosyjski portal Nowaja Gazieta Jewropa.</description>
-      <pubDate>Sun, 19 Apr 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="false">c8f20b2bec6d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-kolejny-pomnik-poswiecony-polakom-zdemontowany-w-rosji,nId,8078058">RMF24</source>
-    </item>
-    <item>
-      <title>Rat poison found in HiPP baby food jar in Austria, police say</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2b9d7780ceaa</link>
-      <description>The band warned on Saturday that consuming the purées many be potentially &quot;life-threatening&quot;.</description>
-      <pubDate>Sun, 19 Apr 2026 11:20:21 GMT</pubDate>
-      <guid isPermaLink="false">2b9d7780ceaa</guid>
-      <source url="https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d15e47c1e55e</link>
-      <description>The laser was used to study the physics of stellar interiors and fusion energy, among other things.</description>
-      <pubDate>Sun, 19 Apr 2026 11:17:28 GMT</pubDate>
-      <guid isPermaLink="false">d15e47c1e55e</guid>
-      <source url="https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/">Ars Technica</source>
-    </item>
-    <item>
-      <title>30-latek wpadł do Odry we Wrocławiu, sam dopłynął do brzegu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4aebf51f2caa</link>
-      <description>30-letni mężczyzna wpadł w centrum Wrocławia do Odry. Gdy przyjechali ratownicy wodni, był już na wyspie Tamka. Udało mu się o własnych siłach dopłynąć do brzeg i – z pomocą świadka – wydostać na ląd. Z mężczyzną był utrudniony kontakt. Był pijany.</description>
-      <pubDate>Sun, 19 Apr 2026 11:16:05 GMT</pubDate>
-      <guid isPermaLink="false">4aebf51f2caa</guid>
-      <source url="https://tvn24.pl/wroclaw/wroclaw-pijany-wpadl-do-wody-doplynal-o-wlasnych-silach-na-brzeg-st9005811?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Awaryjne lądowanie awionetki pod Poznaniem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/abc36014e297</link>
-      <description>Na trawiastym lotnisku pod Poznaniem awaryjnie lądowała awionetka. Dwie lecące nią osoby same opuściły maszynę.</description>
-      <pubDate>Sun, 19 Apr 2026 11:11:50 GMT</pubDate>
-      <guid isPermaLink="false">abc36014e297</guid>
-      <source url="https://tvn24.pl/poznan/poznan-awaryjne-ladowanie-awionetki-st9005812?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Linie lotnicze w USA walczą z rosnącymi kosztami paliwa i wynagrodzeń</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ceb80d013af</link>
-      <description>Linie lotnicze w USA zmagają się z rosnącymi kosztami, które napędzają drożejące paliwo i wynagrodzenia pracowników. Skutkiem są wyższe ceny biletów oraz przyspieszone zmiany w branży lotniczej, w tym możliwe przejęcia i fuzje - wynika z analiz przywoływanych przez Axios.</description>
-      <pubDate>Sun, 19 Apr 2026 11:10:48 GMT</pubDate>
-      <guid isPermaLink="false">7ceb80d013af</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/drozsze-paliwo-ryzyko-dla-branzy-linie-lotnicze-przed-wyzwaniem-st9005619?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Rowerzysta na autostradzie. 63-latek wpadł podczas kontroli</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d5ef6944c0c</link>
-      <description>Nietrzeźwy 63-latek wyjechał rowerem na autostradę. Został zatrzymany przez policję i ukarany wysokim mandatem.</description>
-      <pubDate>Sun, 19 Apr 2026 11:06:22 GMT</pubDate>
-      <guid isPermaLink="false">3d5ef6944c0c</guid>
-      <source url="https://tvn24.pl/lodz/rowerzysta-na-autostradzie-nie-byl-w-stanie-podac-swoich-danych-st9005789?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Sprzyjają napadom migreny. Naukowcy opublikowali wyniki 10 lat obserwacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0d74787f34ab</link>
-      <description>Naukowcy z Izraela w badaniu z udziałem ponad 7 tys. osób udowodnili, że wzrost zanieczyszczenia powietrza oraz długotrwała ekspozycja zwiększają ryzyko napadów migreny. Znaczenie miała także pogoda.</description>
-      <pubDate>Sun, 19 Apr 2026 11:03:06 GMT</pubDate>
-      <guid isPermaLink="false">0d74787f34ab</guid>
-      <source url="https://www.rynekzdrowia.pl/Neurologia/Sprzyjaja-napadom-migreny-Naukowcy-opublikowali-wyniki-10-lat-obserwacji,283370,208.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Chcieli awaryjnie wylądować. Wypadek małego samolotu pod Poznaniem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dd5490d73133</link>
-      <description>Państwowa Komisja Badania Wypadków Lotniczych wyjaśnia okoliczności awaryjnego lądowania samolotu w Zborowie pod Poznaniem. W środku były dwie osoby.</description>
-      <pubDate>Sun, 19 Apr 2026 10:59:00 GMT</pubDate>
-      <guid isPermaLink="false">dd5490d73133</guid>
-      <source url="https://www.rmf24.pl/regiony/poznan/news-chcieli-awaryjnie-wyladowac-wypadek-malego-samolotu-pod-pozn,nId,8078056">RMF24</source>
-    </item>
-    <item>
-      <title>Why Zip drives dominated the 90s, then vanished almost overnight</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bd94b9666d30</link>
-      <description>Zip drives were a revolution in the mid-90s, but despite their promising capabilities, they quickly fizzled out. And that&apos;s unforutnate.</description>
-      <pubDate>Sun, 19 Apr 2026 10:55:38 GMT</pubDate>
-      <guid isPermaLink="false">bd94b9666d30</guid>
-      <source url="https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/">Hacker News</source>
-    </item>
-    <item>
-      <title>&quot;Halo, tu GUS&quot;. Urząd zwraca się z apelem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73ca394a227d</link>
-      <description>Od poniedziałku 20 kwietnia w Polsce rozpocznie się Europejskie Badanie Warunków Życia Ludności (EU-SILC). Przeprowadzi je GUS. Ankieterzy będą kontaktować się z wylosowanymi wcześniej gospodarstwami domowymi i pytać m.in. o jakość życia, warunki mieszkaniowe, pracę czy stan zdrowia. GUS apeluje o przychylne potraktowanie ankieterów.</description>
-      <pubDate>Sun, 19 Apr 2026 10:53:17 GMT</pubDate>
-      <guid isPermaLink="false">73ca394a227d</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-halo-tu-gus-urzad-zwraca-sie-z-apelem,nId,8078055">RMF24</source>
-    </item>
-    <item>
-      <title>Alert RCB dla trzech województw. Nie zbliżaj się do wezbranych rzek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4ed6f9fbcbb0</link>
-      <description>Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało w niedzielę alert. Służby ostrzegają przed intensywnymi opadami deszczu w trzech województwach. Eksperci apelują o ostrożność i słuchanie poleceń służb.</description>
-      <pubDate>Sun, 19 Apr 2026 10:42:31 GMT</pubDate>
-      <guid isPermaLink="false">4ed6f9fbcbb0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/alert-rcb-niedziela-19-04-pogoda-ulewy-w-polsce-silny-deszcz-tu-nalezy-uwazac-st9005626?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Przygotowanie na podtopienia&quot;. Ważny komunikat po naradzie w RCB</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/feab19dd14d2</link>
-      <description>Zachodnia część Polski szykuje się na intensywne opady deszczu. Jak informuje resort spraw wewnętrznych, ryzyko gwałtownego wzrostu poziomu wody w rzekach dotyczy aż 9 województw. W Rządowym Centrum Bezpieczeństwa odbyła się dziś specjalna odprawa poświęcona sytuacji pogodowej. RCB rozesłało też alert do mieszkańców trzech województw.</description>
-      <pubDate>Sun, 19 Apr 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="false">feab19dd14d2</guid>
-      <source url="https://www.rmf24.pl/pogoda/news-przygotowanie-na-podtopienia-wazny-komunikat-po-naradzie-w-r,nId,8078052">RMF24</source>
-    </item>
-    <item>
-      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/af313d625d47</link>
-      <description>Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 …</description>
-      <pubDate>Sun, 19 Apr 2026 10:36:29 GMT</pubDate>
-      <guid isPermaLink="false">af313d625d47</guid>
-      <source url="https://simonwillison.net/2026/Apr/18/opus-system-prompt/">Hacker News</source>
-    </item>
-    <item>
-      <title>Prezydent Nawrocki utworzył więcej rad niż jego poprzednik w całej kadencji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f1a4ce49578</link>
-      <description>W niespełna rok przy prezydencie Karolu Nawrockim powstało więcej rad niż za całej kadencji poprzednika. On sam mówi o nich &quot;strefa odsłuchu&quot;. To by potwierdzały składy osobowe owych gremiów – nie zawsze o fachowość tych doradców chodzi.</description>
-      <pubDate>Sun, 19 Apr 2026 10:31:09 GMT</pubDate>
-      <guid isPermaLink="false">9f1a4ce49578</guid>
-      <source url="https://konkret24.tvn24.pl/polityka/wszystkie-rady-prezydenta-pol-tysiaca-osob-do-odsluchu-st9005616?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Bułgarzy decydują. Wybiorą &quot;drugiego Orbana&quot;?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/959ce74b5ce8</link>
-      <description>Bułgarzy wybierają dziś parlament. To ósme takie wybory w ciągu zaledwie pięciu lat. Przedwyborcze sondaże przewidywały zwycięstwo koalicji Postępowa Bułgaria pod przewodnictwem Rumena Radewa, dając mu od 32 do 34 proc. poparcia. Radew bywa nazywany bułgarskim Viktorem Orbanem - ze względu na swój eurosceptycyzm.</description>
-      <pubDate>Sun, 19 Apr 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="false">959ce74b5ce8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-bulgarzy-decyduja-wybiora-drugiego-orbana,nId,8078051">RMF24</source>
-    </item>
-    <item>
-      <title>Chief Rabbi says attacks &apos;gathering momentum&apos; after new synagogue arson attempt</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a057f80af538</link>
-      <description>The warning comes after a synagogue was hit by an arson attack overnight, a Jewish community body said.</description>
-      <pubDate>Sun, 19 Apr 2026 10:13:24 GMT</pubDate>
-      <guid isPermaLink="false">a057f80af538</guid>
-      <source url="https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Policja zatrzymała traktorzystę z blisko trzema promilami alkoholu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e81eee18d714</link>
-      <description>To miała być rutynowa kontrola. Policja zatrzymała w gminie Grabowo (Podlaskie) 43-letniego traktorzystę, który miał w organizmie blisko trzy promile alkoholu. Wyszło też na jaw, że – zgodnie z decyzją sądu - nie mógł do końca życia wsiadać za kierownicę.</description>
-      <pubDate>Sun, 19 Apr 2026 10:11:03 GMT</pubDate>
-      <guid isPermaLink="false">e81eee18d714</guid>
-      <source url="https://tvn24.pl/bialystok/gmina-grabowo-traktorzysta-na-podwojnym-gazie-mial-blisko-trzy-promile-alkoholu-w-organizmie-st9005589?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Brazylia, Hiszpania i Meksyk wzywają do poszanowania suwerenności Kuby</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d0da85d1fc73</link>
-      <description>Brazylia, Hiszpania i Meksyk - władze tych trzech państw podpisały wspólną deklarację, w której wzywają społeczność międzynarodową do poszanowania suwerenności Kuby. To reakcja na sugestię Donalda Trumpa, że USA mogą podjąć działania zbrojne na wyspie.</description>
-      <pubDate>Sun, 19 Apr 2026 10:10:50 GMT</pubDate>
-      <guid isPermaLink="false">d0da85d1fc73</guid>
-      <source url="https://tvn24.pl/swiat/kuba-trzy-panstwa-wzywaja-do-poszanowania-jej-suwerennosci-po-slowach-donalda-trumpa-st9005371?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Jedyny budynek na całej wyspie. To najbardziej samotny dom świata</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/08ab07b1dede</link>
-      <description>Z dala od cywilizacji, pośród surowych klifów i wzburzonych fal Atlantyku, stoi samotny biały domek - uznawany za najbardziej odosobniony dom na świecie. Jego historia, położenie i aura tajemniczości od lat fascynują podróżników, miłośników przyrody i łowców niezwykłych miejsc. Czy odważyłbyś się tam zamieszkać?</description>
-      <pubDate>Sun, 19 Apr 2026 10:00:54 GMT</pubDate>
-      <guid isPermaLink="false">08ab07b1dede</guid>
-      <source url="https://www.rmf24.pl/ciekawostki/news-jedyny-budynek-na-calej-wyspie-to-najbardziej-samotny-dom-sw,nId,8077204">RMF24</source>
-    </item>
-    <item>
-      <title>Uber wprowadza usługę zwrotu zakupów. Kiedy w Polsce?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d70445701537</link>
-      <description>Uber wprowadza ciekawą opcję, dzięki której nie będziemy musieli martwić się organizowaniem zwrotów zakupów. Firma zrobi to za nas</description>
-      <pubDate>Sun, 19 Apr 2026 10:00:38 GMT</pubDate>
-      <guid isPermaLink="false">d70445701537</guid>
-      <source url="https://antyweb.pl/uber-wprowadza-rewolucyjna-usluge-czas-na-nia-w-polsce">Antyweb</source>
-    </item>
-    <item>
-      <title>Nadal bagatelizujemy te objawy. Nawet 75 proc. chorych pozostaje niezdiagnozowanych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/771789677444</link>
-      <description>Ból brzucha, naprzemienne biegunki i zaparcia – zespół jelita nadwrażliwego (IBS) to choroba, która istotnie utrudnia codzienne życie milionów osób. W Światowy Dzień IBS eksperci przypominają: jelita i mózg są ze sobą ściśle powiązane, a zrozumienie tej relacji zmienia podejście do leczenia.</description>
-      <pubDate>Sun, 19 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">771789677444</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Nadal-bagatelizujemy-te-objawy-Nawet-75-proc-chorych-pozostaje-niezdiagnozowanych,283367,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Zelensky condemns US extension of Russian sanctions waiver</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b86be7e402df</link>
-      <description>The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.</description>
-      <pubDate>Sun, 19 Apr 2026 09:55:22 GMT</pubDate>
-      <guid isPermaLink="false">b86be7e402df</guid>
-      <source url="https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Jesy Nelson&apos;s car &apos;stolen&apos; with medical kit inside</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cbc120410578</link>
-      <description>Jesy Nelson offers a £10,000 reward for the recovery of her car, which had medical equipment inside.</description>
-      <pubDate>Sun, 19 Apr 2026 09:51:47 GMT</pubDate>
-      <guid isPermaLink="false">cbc120410578</guid>
-      <source url="https://www.bbc.com/news/articles/cg40dqe4265o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>&quot;Chcą zrobić to samo, co chciał Hitler&quot;. Abp Jędraszewski szokuje na Jasnej Górze</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a658657749fd</link>
-      <description>Arcybiskup Marek Jędraszewski, były metropolita krakowski, w Auli Papieskiej na Jasnej Górze ostro skrytykował współczesną szkołę i poziom wychowania patriotycznego. Stwierdził, że rządzący mają taki sam plan jak przywódca Trzeciej Rzeszy Adolf Hitler i chcą stworzyć z młodych Polaków &quot;bezwolną masę do pracy&quot;.</description>
-      <pubDate>Sun, 19 Apr 2026 09:18:00 GMT</pubDate>
-      <guid isPermaLink="false">a658657749fd</guid>
-      <source url="https://www.rmf24.pl/regiony/slaskie/news-chca-zrobic-to-samo-co-chcial-hitler-abp-jedraszewski-szokuj,nId,8078049">RMF24</source>
-    </item>
-    <item>
-      <title>Ask HN: How did you land your first projects as a solo engineer/consultant?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4e85b948088a</link>
-      <description>I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy.</description>
-      <pubDate>Sun, 19 Apr 2026 09:17:12 GMT</pubDate>
-      <guid isPermaLink="false">4e85b948088a</guid>
-      <source url="https://news.ycombinator.com/item?id=47822940">Hacker News</source>
-    </item>
-    <item>
-      <title>Spring flowers bloom early due to warmer weather and a wet winter</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/614968e0a4be</link>
-      <description>Warmth after a wet winter has led to brilliant, early displays of UK spring flowers, as Sarah Keith-Lucas explains.</description>
-      <pubDate>Sun, 19 Apr 2026 09:14:11 GMT</pubDate>
-      <guid isPermaLink="false">614968e0a4be</guid>
-      <source url="https://www.bbc.com/weather/articles/cvg33dep3emo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Prezydent Iranu o Trumpie: Kim on jest?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0f5934a8b547</link>
-      <description>Ostre słowa prezydenta Iranu Masuda Pezeszkiana o prezydencie USA Donaldzie Trumpie. Pezeszkian oświadczył, że Stany Zjednoczone nie mają podstaw do tego, by pozbawiać Teheranu prawa do rozwijania technologii nuklearnych.</description>
-      <pubDate>Sun, 19 Apr 2026 09:07:52 GMT</pubDate>
-      <guid isPermaLink="false">0f5934a8b547</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-prezydent-iranu-o-trumpie-kim-on-jest,nId,8078050">RMF24</source>
-    </item>
-    <item>
-      <title>7 618 zł na rękę i 900 zł mieszkaniówki co miesiąc. Więzienia i areszty szukają pracowników</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2029fcebc7eb</link>
-      <description>Służba Więzienna szuka pracowników medycznych do zakładów karnych i aresztów śledczych w całej Polsce. Potrzebni są m.in. lekarze specjaliści, pielęgniarki i psychologowie. W zależności od stanowiska i formy zatrudnienia można liczyć nie tylko na przyzwoite zarobki, ale też dodatkowe benefity.</description>
-      <pubDate>Sun, 19 Apr 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="false">2029fcebc7eb</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/7-618-zl-na-reke-i-900-zl-mieszkaniowki-co-miesiac-Wiezienia-i-areszty-szukaja-pracownikow,283361,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Oceny punktowe w recenzjach gier wideo nie oddają ich rzeczywistej wartości</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1802829cbe16</link>
-      <description>Recenzje gier wideo zamykają produkcje w twardych ramach 1-5, 1-10, czy nawet 1-100. Nadal jest to klatka, która może wyrządzić wiele szkód, nie mając jednocześnie zbyt wiele wspólnego z rzeczywistością.</description>
-      <pubDate>Sun, 19 Apr 2026 09:00:50 GMT</pubDate>
-      <guid isPermaLink="false">1802829cbe16</guid>
-      <source url="https://antyweb.pl/oceny-punktowe-to-rak-branzy-nie-oddaja-prawdziwej-wartosci-gier">Antyweb</source>
-    </item>
-    <item>
-      <title>Watch: Runners v robots at China half marathon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5b1cfc6d99d8</link>
-      <description>Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.</description>
-      <pubDate>Sun, 19 Apr 2026 08:46:34 GMT</pubDate>
-      <guid isPermaLink="false">5b1cfc6d99d8</guid>
-      <source url="https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d0e6fb6ed646</link>
-      <description>Comments</description>
-      <pubDate>Sun, 19 Apr 2026 08:45:48 GMT</pubDate>
-      <guid isPermaLink="false">d0e6fb6ed646</guid>
-      <source url="https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf">Hacker News</source>
-    </item>
-    <item>
-      <title>Politycy PiS wymieniają ciosy. &quot;Różnie mamy naostrzone kredki&quot;, &quot;Udajesz, że nic się nie stało?&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/37d41e7f1afd</link>
-      <description>Choć w wywiadzie dla RMF FM Mateusz Morawiecki zapewniał, że nie zamierza opuszczać Prawa i Sprawiedliwości, jego działalność i powołanie stowarzyszenia Rozwój Plus budzi coraz większe emocje w partii Jarosława Kaczyńskiego. Wymiana ciosów prowadzona jest publicznie - m.in. w mediach społecznościowych.</description>
-      <pubDate>Sun, 19 Apr 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="false">37d41e7f1afd</guid>
-      <source url="https://www.rmf24.pl/polityka/news-politycy-pis-wymieniaja-ciosy-roznie-mamy-naostrzone-kredki-,nId,8078045">RMF24</source>
     </item>
   </channel>
 </rss>
