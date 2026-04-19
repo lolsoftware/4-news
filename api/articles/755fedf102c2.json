@@ -1,0 +1,13 @@
+{
+  "id": "755fedf102c2",
+  "title": "Vercel Says Internal Systems Hit in Breach",
+  "originalTitle": "Vercel Says Internal Systems Hit in Breach",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+  "publishedAt": "2026-04-19T15:23:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- wp:paragraph -->\n<p>Vercel, a widely used cloud platform for developing and deploying apps, has disclosed a breach of its internal systems, and says a “limited subset of customers” is affected.&nbsp;</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The incident came to light on Sunday and the company says it has brought in an incident response provider to investigate the intrusion.&nbsp;Details of the intrusion are scant at this point.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>“We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems. We are actively investigating, and we have engaged incident response experts to help investigate and remediate. We have notified law enforcement and will update this page as the investigation progresses,” the company said in a <a href=\"https://vercel.com/kb/bulletin/vercel-april-2026-security-incident\">statement</a>.&nbsp;</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>“At this time, we have identified a limited subset of customers that were impacted and are engaging with them directly.”</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Vercel provides a wide range of services for developers and enterprises, and has a number of offerings that are focused on agentic AI workloads.&nbsp;</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://x.com/DiffeKey/status/2045813085408051670\">Posts</a> online have connected the Vercel intrusion to the <a href=\"https://decipher.sc/2026/02/02/google-mandiant-shinyhunters-attacks-target-saas-platforms-via-sso-mfa-abuse/\">ShinyHunters</a> threat group, which has targeted a wide range of organizations, often through a combination of social engineering tactics and vulnerability exploitation. The group often makes financial demands of compromised companies and sells access to the data it steals and systems it has compromised through online forums.&nbsp;</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Vercel did not specify which of its systems were compromised or how many of its customers are affected.&nbsp;</p>\n<!-- /wp:paragraph --> </div></div>",
+  "image": "images/f26f71e2ed14.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
