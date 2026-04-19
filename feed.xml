@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 19 Apr 2026 08:44:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:32:26 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sprzyjają napadom migreny. Naukowcy opublikowali wyniki 10 lat obserwacji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0d74787f34ab</link>
+      <description>Naukowcy z Izraela w badaniu z udziałem ponad 7 tys. osób udowodnili, że wzrost zanieczyszczenia powietrza oraz długotrwała ekspozycja zwiększają ryzyko napadów migreny. Znaczenie miała także pogoda.</description>
+      <pubDate>Sun, 19 Apr 2026 11:03:06 GMT</pubDate>
+      <guid isPermaLink="false">0d74787f34ab</guid>
+      <source url="https://www.rynekzdrowia.pl/Neurologia/Sprzyjaja-napadom-migreny-Naukowcy-opublikowali-wyniki-10-lat-obserwacji,283370,208.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Chief Rabbi says attacks &apos;gathering momentum&apos; after new synagogue arson attempt</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a057f80af538</link>
+      <description>The warning comes after a synagogue was hit by an arson attack overnight, a Jewish community body said.</description>
+      <pubDate>Sun, 19 Apr 2026 10:13:24 GMT</pubDate>
+      <guid isPermaLink="false">a057f80af538</guid>
+      <source url="https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Jedyny budynek na całej wyspie. To najbardziej samotny dom świata</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08ab07b1dede</link>
+      <description>Z dala od cywilizacji, pośród surowych klifów i wzburzonych fal Atlantyku, stoi samotny biały domek - uznawany za najbardziej odosobniony dom na świecie. Jego historia, położenie i aura tajemniczości od lat fascynują podróżników, miłośników przyrody i łowców niezwykłych miejsc. Czy odważyłbyś się tam zamieszkać?</description>
+      <pubDate>Sun, 19 Apr 2026 10:00:54 GMT</pubDate>
+      <guid isPermaLink="false">08ab07b1dede</guid>
+      <source url="https://www.rmf24.pl/ciekawostki/news-jedyny-budynek-na-calej-wyspie-to-najbardziej-samotny-dom-sw,nId,8077204">RMF24</source>
+    </item>
+    <item>
+      <title>Uber wprowadza usługę zwrotu zakupów. Kiedy w Polsce?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d70445701537</link>
+      <description>Uber wprowadza ciekawą opcję, dzięki której nie będziemy musieli martwić się organizowaniem zwrotów zakupów. Firma zrobi to za nas</description>
+      <pubDate>Sun, 19 Apr 2026 10:00:38 GMT</pubDate>
+      <guid isPermaLink="false">d70445701537</guid>
+      <source url="https://antyweb.pl/uber-wprowadza-rewolucyjna-usluge-czas-na-nia-w-polsce">Antyweb</source>
+    </item>
     <item>
       <title>Nadal bagatelizujemy te objawy. Nawet 75 proc. chorych pozostaje niezdiagnozowanych</title>
       <link>https://lolsoftware.github.io/4-news/#/article/771789677444</link>
@@ -16,12 +48,84 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Nadal-bagatelizujemy-te-objawy-Nawet-75-proc-chorych-pozostaje-niezdiagnozowanych,283367,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Zelensky condemns US extension of Russian sanctions waiver</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b86be7e402df</link>
+      <description>The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.</description>
+      <pubDate>Sun, 19 Apr 2026 09:55:22 GMT</pubDate>
+      <guid isPermaLink="false">b86be7e402df</guid>
+      <source url="https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Jesy Nelson&apos;s car &apos;stolen&apos; with medical kit inside</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cbc120410578</link>
+      <description>Jesy Nelson offers a £10,000 reward for the recovery of her car, which had medical equipment inside.</description>
+      <pubDate>Sun, 19 Apr 2026 09:51:47 GMT</pubDate>
+      <guid isPermaLink="false">cbc120410578</guid>
+      <source url="https://www.bbc.com/news/articles/cg40dqe4265o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>&quot;Chcą zrobić to samo, co chciał Hitler&quot;. Abp Jędraszewski szokuje na Jasnej Górze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a658657749fd</link>
+      <description>Arcybiskup Marek Jędraszewski, były metropolita krakowski, w Auli Papieskiej na Jasnej Górze ostro skrytykował współczesną szkołę i poziom wychowania patriotycznego. Stwierdził, że rządzący mają taki sam plan jak przywódca Trzeciej Rzeszy Adolf Hitler i chcą stworzyć z młodych Polaków &quot;bezwolną masę do pracy&quot;.</description>
+      <pubDate>Sun, 19 Apr 2026 09:18:00 GMT</pubDate>
+      <guid isPermaLink="false">a658657749fd</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-chca-zrobic-to-samo-co-chcial-hitler-abp-jedraszewski-szokuj,nId,8078049">RMF24</source>
+    </item>
+    <item>
+      <title>Spring flowers bloom early due to warmer weather and a wet winter</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/614968e0a4be</link>
+      <description>Warmth after a wet winter has led to brilliant, early displays of UK spring flowers, as Sarah Keith-Lucas explains.</description>
+      <pubDate>Sun, 19 Apr 2026 09:14:11 GMT</pubDate>
+      <guid isPermaLink="false">614968e0a4be</guid>
+      <source url="https://www.bbc.com/weather/articles/cvg33dep3emo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Prezydent Iranu o Trumpie: Kim on jest?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0f5934a8b547</link>
+      <description>Ostre słowa prezydenta Iranu Masuda Pezeszkiana o prezydencie USA Donaldzie Trumpie. Pezeszkian oświadczył, że Stany Zjednoczone nie mają podstaw do tego, by pozbawiać Teheranu prawa do rozwijania technologii nuklearnych.</description>
+      <pubDate>Sun, 19 Apr 2026 09:07:52 GMT</pubDate>
+      <guid isPermaLink="false">0f5934a8b547</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-prezydent-iranu-o-trumpie-kim-on-jest,nId,8078050">RMF24</source>
+    </item>
+    <item>
       <title>7 618 zł na rękę i 900 zł mieszkaniówki co miesiąc. Więzienia i areszty szukają pracowników</title>
       <link>https://lolsoftware.github.io/4-news/#/article/2029fcebc7eb</link>
       <description>Służba Więzienna szuka pracowników medycznych do zakładów karnych i aresztów śledczych w całej Polsce. Potrzebni są m.in. lekarze specjaliści, pielęgniarki i psychologowie. W zależności od stanowiska i formy zatrudnienia można liczyć nie tylko na przyzwoite zarobki, ale też dodatkowe benefity.</description>
       <pubDate>Sun, 19 Apr 2026 09:01:00 GMT</pubDate>
       <guid isPermaLink="false">2029fcebc7eb</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/7-618-zl-na-reke-i-900-zl-mieszkaniowki-co-miesiac-Wiezienia-i-areszty-szukaja-pracownikow,283361,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Oceny punktowe w recenzjach gier wideo nie oddają ich rzeczywistej wartości</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1802829cbe16</link>
+      <description>Recenzje gier wideo zamykają produkcje w twardych ramach 1-5, 1-10, czy nawet 1-100. Nadal jest to klatka, która może wyrządzić wiele szkód, nie mając jednocześnie zbyt wiele wspólnego z rzeczywistością.</description>
+      <pubDate>Sun, 19 Apr 2026 09:00:50 GMT</pubDate>
+      <guid isPermaLink="false">1802829cbe16</guid>
+      <source url="https://antyweb.pl/oceny-punktowe-to-rak-branzy-nie-oddaja-prawdziwej-wartosci-gier">Antyweb</source>
+    </item>
+    <item>
+      <title>Watch: Runners v robots at China half marathon</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5b1cfc6d99d8</link>
+      <description>Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.</description>
+      <pubDate>Sun, 19 Apr 2026 08:46:34 GMT</pubDate>
+      <guid isPermaLink="false">5b1cfc6d99d8</guid>
+      <source url="https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d0e6fb6ed646</link>
+      <description>Comments</description>
+      <pubDate>Sun, 19 Apr 2026 08:45:48 GMT</pubDate>
+      <guid isPermaLink="false">d0e6fb6ed646</guid>
+      <source url="https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf">Hacker News</source>
+    </item>
+    <item>
+      <title>Politycy PiS wymieniają ciosy. &quot;Różnie mamy naostrzone kredki&quot;, &quot;Udajesz, że nic się nie stało?&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/37d41e7f1afd</link>
+      <description>Choć w wywiadzie dla RMF FM Mateusz Morawiecki zapewniał, że nie zamierza opuszczać Prawa i Sprawiedliwości, jego działalność i powołanie stowarzyszenia Rozwój Plus budzi coraz większe emocje w partii Jarosława Kaczyńskiego. Wymiana ciosów prowadzona jest publicznie - m.in. w mediach społecznościowych.</description>
+      <pubDate>Sun, 19 Apr 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="false">37d41e7f1afd</guid>
+      <source url="https://www.rmf24.pl/polityka/news-politycy-pis-wymieniaja-ciosy-roznie-mamy-naostrzone-kredki-,nId,8078045">RMF24</source>
     </item>
     <item>
       <title>Zawroty głowy, kołatanie serca i przewlekłe zmęczenie. Trzy choroby mogą mieć wspólne podłoże</title>
@@ -62,6 +166,14 @@
       <pubDate>Sun, 19 Apr 2026 08:00:34 GMT</pubDate>
       <guid isPermaLink="false">127ee062229b</guid>
       <source url="https://www.rmf24.pl/pogoda/news-sadzic-kwiatki-na-balkonie-juz-teraz-czy-poczekac-wtedy-jest,nId,8077486">RMF24</source>
+    </item>
+    <item>
+      <title>Samsung Galaxy S26 Ultra vs S25 Ultra vs S24 Ultra: porównanie zmian</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/467b20750d29</link>
+      <description>Premiera Samsunga Galaxy S26 Ultra za nami. Sprawdzamy, co naprawdę zmieniło się od wersji S24 Ultra i S25 Ultra i czy po raz kolejny mamy do czynienia bardziej z ewolucją, niż rewolucją.</description>
+      <pubDate>Sun, 19 Apr 2026 08:00:24 GMT</pubDate>
+      <guid isPermaLink="false">467b20750d29</guid>
+      <source url="https://antyweb.pl/samsung-galaxy-s26-ultra-vs-s25-ultra-vs-s24-ultra-co-sie-zmienilo-i-czy-warto-doplacac">Antyweb</source>
     </item>
     <item>
       <title>Watykański klincz w cieniu wojny z Iranem. Vance do papieża: Będziemy się modlić, ale politykę zostaw nam</title>
@@ -134,6 +246,14 @@
       <pubDate>Sun, 19 Apr 2026 07:33:03 GMT</pubDate>
       <guid isPermaLink="false">d134bd62bc93</guid>
       <source url="https://tvn24.pl/biznes/rynki/norwegia-gielda-w-oslo-wszyscy-traca-oni-bija-rekordy-swiatowy-fenomen-st9005438?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&apos;It terrified me&apos;: Richard Gadd on his follow-up to Baby Reindeer</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/429fad3266f7</link>
+      <description>Gadd&apos;s new six-part drama explores the breakdown of the &quot;unshakable&quot; bond between two young Glaswegian men.</description>
+      <pubDate>Sun, 19 Apr 2026 07:31:07 GMT</pubDate>
+      <guid isPermaLink="false">429fad3266f7</guid>
+      <source url="https://www.bbc.com/news/articles/clyepglyk52o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title> Iran ogłasza, że każdy statek przybliżający się do Ormuz będzie celem </title>
@@ -286,126 +406,6 @@
       <pubDate>Sun, 19 Apr 2026 06:06:51 GMT</pubDate>
       <guid isPermaLink="false">1b646fca63f8</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-pochowany-razem-z-luksusowym-mercedesem-wladze-interweniuja,nId,8078039">RMF24</source>
-    </item>
-    <item>
-      <title>Radar opadów. Deszcz przewędruje nad Polską. Jest ryzyko burz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/af42f59d224e</link>
-      <description>Pogoda w Polsce. W niedzielę nad nasz kraj nadciągnie strefa opadów deszczu, miejscami intensywnych. Lokalnie ulewom mogą towarzyszyć burze. Sprawdź, gdzie deszczu może być najwięcej.</description>
-      <pubDate>Sun, 19 Apr 2026 05:53:15 GMT</pubDate>
-      <guid isPermaLink="false">af42f59d224e</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/ulewy-w-polsce-tu-spadnie-najwiecej-deszczu-mapa-i-radar-opadow-st9005389?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Jedno z najbardziej znanych letnisk nad Bałtykiem. Idealne na majówkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6a2a9ee3e1d</link>
-      <description>Na Półwyspie Helskim trwają intensywne przygotowania do nadchodzącej majówki i sezonu wakacyjnego. Jastarnia - jedno z najpopularniejszych letnisk północnej Polski - już teraz czeka na turystów, oferując nie tylko szerokie plaże i wodne atrakcje, ale także unikalną atmosferę rybackiej miejscowości.</description>
-      <pubDate>Sun, 19 Apr 2026 05:45:54 GMT</pubDate>
-      <guid isPermaLink="false">d6a2a9ee3e1d</guid>
-      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-jedno-z-najbardziej-znanych-letnisk-nad-baltykiem-idealne-na,nId,8077542">RMF24</source>
-    </item>
-    <item>
-      <title>Zawaliła się część muru twierdzy w Chocimiu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c4162aca32a</link>
-      <description>Częściowo zawaliły się mury wzniesionej nad Dniestrem twierdzy w Chocimiu. &quot;Niestety, to nie sztuczna inteligencja&quot; - napisał w sobotę burmistrz miasta Andrij Dranczuk, informując o zdarzeniu. Nikt nie ucierpiał, ale uszkodzenia są poważne. Ograniczono dostęp turystów do częściowo zawalonej ściany.</description>
-      <pubDate>Sun, 19 Apr 2026 05:44:43 GMT</pubDate>
-      <guid isPermaLink="false">8c4162aca32a</guid>
-      <source url="https://tvn24.pl/swiat/zawalila-sie-czesc-muru-twierdzy-w-chocimiu-st9005362?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zawaliła się część muru twierdzy w Chocimiu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/faf4567e9d0b</link>
-      <description>Byli sportowcami, tylko i aż. Przed wybuchem wojny pływali, boksowali i grali w piłkę. W getcie stanęli do walki, wiedząc, że zwycięstwa nie będzie - żydowscy sportowcy stołecznych klubów, w tym tego największego i najbardziej znanego, Makabi Warszawa, z kilkunastoma sekcjami i dwoma chórami.</description>
-      <pubDate>Sun, 19 Apr 2026 05:32:54 GMT</pubDate>
-      <guid isPermaLink="false">faf4567e9d0b</guid>
-      <source url="https://tvn24.pl/polska/pilkarz-hokeista-plywak-walczyli-i-zgineli-w-getcie-st9003016?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Politycy PiS skonfrontowali się publicznie na portalu X</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/41106c532740</link>
-      <description>W sobotę wieczorem na portalu X starli się Marcin Horała z Tobiaszem Bocheńskim. Polityków PiS reprezentujących dwa różne obozy wewnątrz partii poróżniły refleksje po wypowiedziach Mateusza Morawieckiego i Patryka Jakiego.</description>
-      <pubDate>Sun, 19 Apr 2026 05:31:46 GMT</pubDate>
-      <guid isPermaLink="false">41106c532740</guid>
-      <source url="https://tvn24.pl/polska/tarcia-w-pis-i-wieczorna-seria-wpisow-ty-mowisz-o-jednosci-st9005369?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Chiny wchodzą do gry? Propozycja przejęcia wzbogaconego uranu od Iranu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/19d0947813eb</link>
-      <description>Chiny wstępnie zaoferowały możliwość przyjęcia od Iranu wysoko wzbogaconego uranu - informuje agencja Associated Press, powołując si na źródła dyplomatyczne. Miałoby się tak stać w przypadku zawarcia porozumienia przez Teheran i Waszyngton.</description>
-      <pubDate>Sun, 19 Apr 2026 05:22:46 GMT</pubDate>
-      <guid isPermaLink="false">19d0947813eb</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-chiny-wchodza-do-gry-propozycja-przejecia-wzbogaconego-uranu,nId,8078035">RMF24</source>
-    </item>
-    <item>
-      <title>Australia&apos;s most-decorated soldier vows to &apos;fight&apos; war crime charges</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/31abd2cda0fd</link>
-      <description>Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.</description>
-      <pubDate>Sun, 19 Apr 2026 05:12:40 GMT</pubDate>
-      <guid isPermaLink="false">31abd2cda0fd</guid>
-      <source url="https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Darowizny od rodziny nie zawsze są zwolnione z podatku. Jeden błąd i zapłacisz </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/903dae8d0a13</link>
-      <description>Przelew od rodziny lub znajomego może przyciągnąć uwagę urzędu skarbowego. Sprawdzamy, kiedy trzeba zgłosić darowiznę lub pożyczkę i jakie błędy mogą kosztować najwięcej.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">903dae8d0a13</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rodzinny-przelew-pod-lupa-fiskusa-Jeden-blad-i-trzeba-bedzie-zaplacic-podatek-9114781.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Polskie nieruchomości nie dla Rosjan. Najwięcej kupili Ukraińcy i Białorusini</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6893bf06ee5</link>
-      <description>Obywatele Rosji nie dostali w 2025 r. ani jednej zgody ministra spraw wewnętrznych i administracji na zakup nieruchomości w Polsce. Podobnie jak w poprzednich latach najwięcej kupili Ukraińcy i Białorusini. Portal GetHome.pl zwraca uwagę na rosnącą aktywność obywateli Indii.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b6893bf06ee5</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polskie-nieruchomosci-nie-dla-Rosjan-Najwiecej-kupili-Ukraincy-i-Bialorusini-9115049.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Nowy rekord sprzedaży obligacji w 2026 r.? PKO BP prognozuje ogromny wzrost zainteresowania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5724bc68eecf</link>
-      <description>Sprzedaż detalicznych obligacji skarbowych w 2026 r. powinna wzrosnąć do 91 mld zł i tym samym ustanowić nowy rekord - prognozuje PKO Bank Polski.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5724bc68eecf</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nowy-rekord-sprzedazy-obligacji-w-2026-r-PKO-BP-prognozuje-ogromny-wzrost-zainteresowania-9115780.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Polski eksporter nie boi się wojny? Zaskakujące dane o pewności naszych firm</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3647345ba61f</link>
-      <description>Dalszego wzrostu eksportu, mimo konfliktu na Bliskim Wschodzie, spodziewa się 75 proc. eksporterów - wynika z badania przeprowadzonego przez Allianz Trade. Eksperci Allianz Trade uważają jednak, że w obliczu przedłużającego się konfliktu, optymizm przedsiębiorców może zniknąć.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">3647345ba61f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polski-eksporter-nie-boi-sie-wojny-Zaskakujace-dane-o-pewnosci-naszych-firm-9114443.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Balczun: Inwestycja KGHM w chilijską kopalnię zaczyna się spłacać</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/255e2a7033bd</link>
-      <description>Inwestycja w odkrywkową kopalnię miedzi i molibdenu Sierra Gorda w Chile zaczyna się spłacać - poinformował w sobotę minister aktywów państwowych Wojciech Balczun po wizycie w zakładzie. Należąca w 55 proc. do KGHM kopalnia od 2021 r. generuje zysk i zwróciła polskiej spółce blisko 1 mld dolarów.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">255e2a7033bd</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Balczun-Inwestycja-KGHM-w-chilijska-kopalnie-zaczyna-sie-splacac-9116154.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Rośnie pozytywne nastawienie do pracujących Ukraińców i Białorusinów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8fd2e6a70689</link>
-      <description>Rośnie pozytywne nastawienie Polaków do pracujących Ukraińców i Białorusinów – wskazał ekspert ds. rynku pracy Krzysztof Inglot. Dodał, że to, czym często straszono, nie sprawdziło się, bo większość Polaków nie obawia się wyparcia z rynku pracy przez pracowników z zagranicy.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">8fd2e6a70689</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rosnie-pozytywne-nastawienie-do-pracujacych-Ukraincow-i-Bialorusinow-9116059.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Zieloni chcą ograniczyć prędkość na autostradach, by zmniejszyć zużycie paliwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/00e2e57bc8fe</link>
-      <description>W celu zmniejszenia zużycia paliwa w czasie wojny na Bliskim Wschodzie Zieloni zaproponowali ogólne ograniczenie do 130 km/godz. maksymalnej prędkości na autostradach w Niemczech. W czwartek zamierzają wnieść projekt ustawy w tej sprawie - podała „Sueddeutsche Zeitung”.</description>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">00e2e57bc8fe</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zieloni-chca-ograniczyc-predkosc-na-autostradach-by-zmniejszyc-zuzycie-paliwa-9114890.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Foreign secretary concerned ministers not told of Mandelson vetting fears sooner</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ff31d6900802</link>
-      <description>Prime Minister Sir Keir Starmer is facing calls to resign over the scandal and will address MPs on Monday.</description>
-      <pubDate>Sun, 19 Apr 2026 04:58:38 GMT</pubDate>
-      <guid isPermaLink="false">ff31d6900802</guid>
-      <source url="https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
