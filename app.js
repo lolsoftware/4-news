@@ -1,9 +1,8 @@
 const API_BASE = 'api';
 const CACHE_KEY = 'news-articles';
-const APP_VERSION = 'v5';
+const APP_VERSION = 'v6';
 
 let articlesData = null;
-let currentFilter = 'all';
 let savedScrollY = 0;
 
 // --- Routing ---
@@ -13,7 +12,14 @@ function getRoute() {
   if (hash.startsWith('#/article/')) {
     return { view: 'article', id: hash.slice(10) };
   }
-  return { view: 'list' };
+  if (hash.startsWith('#/cat/')) {
+    return { view: 'list', category: decodeURIComponent(hash.slice(6)) };
+  }
+  return { view: 'list', category: 'all' };
+}
+
+function categoryHash(cat) {
+  return cat === 'all' ? '#/' : `#/cat/${encodeURIComponent(cat)}`;
 }
 
 function navigate(hash) {
@@ -77,28 +83,24 @@ function getOrderedCategories(articles) {
   ];
 }
 
-function renderFilters(articles) {
+function renderFilters(articles, activeCategory) {
   const filtersEl = document.getElementById('filters');
   const uniqueCategories = getOrderedCategories(articles);
 
   // Hide filters if only one category (e.g. all "general")
   if (uniqueCategories.length <= 1) {
     filtersEl.innerHTML = '';
-    currentFilter = 'all';
     return;
   }
 
   const categories = ['all', ...uniqueCategories];
 
   filtersEl.innerHTML = categories.map(cat =>
-    `<button class="pill${cat === currentFilter ? ' active' : ''}" data-cat="${cat}">${cat === 'all' ? 'Wszystko' : cat}</button>`
+    `<button class="pill${cat === activeCategory ? ' active' : ''}" data-cat="${cat}">${cat === 'all' ? 'Wszystko' : cat}</button>`
   ).join('');
 
   filtersEl.querySelectorAll('.pill').forEach(btn => {
-    btn.onclick = () => {
-      currentFilter = btn.dataset.cat;
-      renderList(articlesData);
-    };
+    btn.onclick = () => navigate(categoryHash(btn.dataset.cat));
   });
 
   const activePill = filtersEl.querySelector('.pill.active');
@@ -108,18 +110,18 @@ function renderFilters(articles) {
   }
 }
 
-function renderList(data) {
+function renderList(data, category) {
   const content = document.getElementById('content');
   const headerTitle = document.getElementById('header-title');
-  const catLabel = currentFilter === 'all' ? 'Wszystko' : currentFilter;
+  const catLabel = category === 'all' ? 'Wszystko' : category;
   headerTitle.textContent = `News \u00b7 ${catLabel}`;
   document.getElementById('app').classList.remove('article-view');
 
-  const articles = currentFilter === 'all'
+  const articles = category === 'all'
     ? data.articles
-    : data.articles.filter(a => a.category === currentFilter);
+    : data.articles.filter(a => a.category === category);
 
-  renderFilters(data.articles);
+  renderFilters(data.articles, category);
 
   if (articles.length === 0) {
     content.innerHTML = '<div class="empty-state">No articles yet</div>';
@@ -209,7 +211,7 @@ function handleRoute() {
   if (route.view === 'article') {
     renderArticle(route.id);
   } else {
-    renderList(articlesData || { articles: [] });
+    renderList(articlesData || { articles: [] }, route.category);
     // Restore scroll position when returning to list
     requestAnimationFrame(() => window.scrollTo(0, savedScrollY));
   }
@@ -231,7 +233,8 @@ document.addEventListener('touchend', e => {
   if (!touchStart) return;
   const start = touchStart;
   touchStart = null;
-  if (getRoute().view !== 'list') return;
+  const route = getRoute();
+  if (route.view !== 'list') return;
   if (!articlesData) return;
   const t = e.changedTouches[0];
   const dx = t.clientX - start.x;
@@ -242,14 +245,13 @@ document.addEventListener('touchend', e => {
   if (Math.abs(dx) < Math.abs(dy) * 1.5) return;
   const cats = ['all', ...getOrderedCategories(articlesData.articles)];
   if (cats.length <= 1) return;
-  const idx = cats.indexOf(currentFilter);
+  const idx = cats.indexOf(route.category);
   const safeIdx = idx === -1 ? 0 : idx;
   const next = dx < 0
     ? cats[(safeIdx + 1) % cats.length]
     : cats[(safeIdx - 1 + cats.length) % cats.length];
-  currentFilter = next;
-  renderList(articlesData);
   window.scrollTo(0, 0);
+  navigate(categoryHash(next));
 }, { passive: true });
 
 document.getElementById('refresh-btn').onclick = async () => {
