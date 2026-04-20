@@ -1,0 +1,13 @@
+{
+  "id": "2f6644cd8b41",
+  "title": "2,100 Swiss municipalities showing which provider handles their official email",
+  "originalTitle": "2,100 Swiss municipalities showing which provider handles their official email",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://mxmap.ch/",
+  "publishedAt": "2026-04-19T22:55:47.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"info-bar\" aria-label=\"About this project\"> <div> <h3>What is this?</h3> <p>A map of all ~2,100 Swiss municipalities showing which provider handles their official email — grouped by jurisdiction — based on public DNS records and other public network signals.</p> </div> <div> <h3>Context</h3> <p>Digital sovereignty: US-based providers are subject to the US CLOUD Act, which allows US authorities to request stored data, regardless of where it is physically hosted. This map makes the current provider landscape visible.</p> </div> <div> <h3>How does it work?</h3> <p>Each municipality's official domain is checked via 11 signals from DNS records, SMTP banners, ASN lookups, and a public Microsoft API endpoint, then classified by provider type with confidence scoring.</p> <p>Disclaimer: DNS records indicate mail routing and authorized senders, not necessarily where data is stored.</p> </div> <div> <h3>Open source &amp; open data</h3> <p>The code and data are on <a href=\"https://github.com/davidhuser/mxmap\" target=\"_blank\">GitHub</a>.<br> If you have noticed an error, please <a href=\"https://github.com/davidhuser/mxmap/issues\" target=\"_blank\">submit an issue</a>.</p> </div> </div></div>",
+  "image": "images/4ffdf33cd704.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
