@@ -1,0 +1,13 @@
+{
+  "id": "8297f3c55476",
+  "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+  "originalTitle": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+  "publishedAt": "2026-04-20T17:15:51.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Still, listeners shouldn’t encounter AI music organically on Deezer because the site won’t include AI-flagged tracks in suggestions or editorial playlists. As a result, AI music streams account for a small share of Deezer usage, hovering around 1–3 percent. The company says the primary purpose of uploading all this AI music is fraudulent. Deezer only pays for streams when a person listens to them, so it’s demonetizing about 85 percent of AI music streams.</p>\n<p>“Thanks to our technology and the proactive measures we put in place more than a year ago, we have shown that it’s possible to reduce AI-related fraud and payment dilution in streaming to a minimum,” said Deezer CEO Alexis Lanternier.</p>\n<h2>The AI goes to 11</h2>\n<p>The growth of AI music is likely to continue accelerating with the rest of the AI industry. Models like <a href=\"https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/\">Google’s Lyria 3</a> have become cheaper and more widely available. Google actually lets Gemini users generate full-length songs now, up from 30-second snippet tracks just a few months ago. Suno and Udio also promote their ability to create broadcast-ready tracks in seconds. However, these mainstream options embed watermarks, like Google’s SynthID, to flag the songs as AI.</p>\n<p>The problem is how easy it is becoming to strip those watermarks out of the audio and generate music using custom models that don’t have them in the first place. As AI inference becomes cheaper, so, too, does the creation of musical AI slop.</p> </div></div>",
+  "image": "images/05cf11e27a0f.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
