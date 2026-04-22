@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:21:20 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toksyczna mieszanka w suplementach. Ostra niewydolność wątroby i zgony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a71c0024c8fe</link>
+      <description>91 osób zaufało „naturalnym” preparatom. 20 z nich zmarło. Nowe badanie pokazuje szokującą prawdę: problemem nie były same zioła, lecz niebezpieczne składniki ukryte w suplementach.</description>
+      <pubDate>Wed, 22 Apr 2026 08:55:00 GMT</pubDate>
+      <guid isPermaLink="false">a71c0024c8fe</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Toksyczna-mieszanka-w-suplementach-Ostra-niewydolnosc-watroby-i-zgony,283506,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Trzy miesiące wolnego co 7 lat pracy? Związkowcy chcą zmian </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b6e8340c9319</link>
+      <description>Trzy miesiące w pełni płatnego urlopu regeneracyjnego po siedmiu latach pracy – to jedna z propozycji Związkowej Alternatywy dla pracowników pomocy społecznej. Związek domaga się też szerszych zmian dotyczących płac i zasad awansu.</description>
+      <pubDate>Wed, 22 Apr 2026 07:45:00 GMT</pubDate>
+      <guid isPermaLink="false">b6e8340c9319</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Trzy-miesiace-wolnego-co-7-lat-pracy-Zwiazkowcy-chca-zmian-9120793.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
     <item>
       <title>Od 26 kwietnia zmiany w receptach. Rewolucja, na którą wielu czekało od lat</title>
       <link>https://lolsoftware.github.io/4-news/#/article/813b4045d77d</link>
@@ -14,6 +30,134 @@
       <pubDate>Wed, 22 Apr 2026 07:29:00 GMT</pubDate>
       <guid isPermaLink="false">813b4045d77d</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Od-26-kwietnia-zmiany-w-receptach-Rewolucja-na-ktora-wielu-czekalo-od-lat,283499,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Największy skok na krypto w tym roku. Hakerzy z Korei Północnej włamali się do KelpDAO</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/86e15247ee5e</link>
+      <description>Północnokoreańska grupa hakerów Lazarus jest podejrzana o kradzież kryptowalut o wartości 290 mln dolarów – podała w środę AFP. Atak na platformę finansów zdecentralizowanych KelpDAO, do którego doszło w ostatni weekend, to największa tego typu kradzież w bieżącym roku.</description>
+      <pubDate>Wed, 22 Apr 2026 07:16:00 GMT</pubDate>
+      <guid isPermaLink="false">86e15247ee5e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Najwiekszy-skok-na-krypto-w-tym-roku-Hakerzy-z-Korei-Polnocnej-wlamali-sie-do-KelpDAO-9120801.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Modżtaba Chamenei uciekł z Iranu? &quot;Nie jest w stanie podejmować decyzji&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/34b3f4921183</link>
+      <description>Modżtaba Chamenei ponad sześć tygodni temu został ogłoszony nowym przywódcą Iranu, a mimo to Irańczycy nie widzieli go na żywo ani razu. Jego nieobecność - w czasie jednego z najpoważniejszych kryzysów w historii kraju - rodzi coraz więcej pytań o to, kto faktycznie sprawuje władzę w Iranie. Ali Vaez, ekspert ds. Iranu i dyrektor projektu Iran Project w International Crisis Group, mówi w rozmowie z CNN, że &quot;Modżtaba nie jest w stanie podejmować kluczowych decyzji ani prowadzić rozmów&quot;.</description>
+      <pubDate>Wed, 22 Apr 2026 07:08:14 GMT</pubDate>
+      <guid isPermaLink="false">34b3f4921183</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-modztaba-chamenei-uciekl-z-iranu-nie-jest-w-stanie-podejmowa,nId,8078454">RMF24</source>
+    </item>
+    <item>
+      <title>Hakerzy zaatakowali Uniwersytet Warszawski. Skopiowane dane trafiły do darknetu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cf01e6943c5c</link>
+      <description>Na Uniwersytecie Warszawskim doszło do potężnego wycieku danych. W nocy z 15 na 16 kwietnia trafiło do darknetu około 200 tysięcy plików, a wśród nich wrażliwe dane pracowników, studentów, a także kandydatów na studia.</description>
+      <pubDate>Wed, 22 Apr 2026 07:04:54 GMT</pubDate>
+      <guid isPermaLink="false">cf01e6943c5c</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/hakerzy-zaatakowali-uniwersytet-warszawski-skopiowane-dane-trafily-do-darknetu-st9010410?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Koniec tanich surowców z Chin? USA chcą ustalić ceny minimalne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/12c2f3d8c061</link>
+      <description>Przedstawiciel USA ds. handlu Jamieson Greer powiedział sojusznikom Stanów Zjednoczonych, że muszą więcej płacić za krytyczne minerały pochodzące spoza Chin – poinformował w środę brytyjski dziennik „Financial Times”.</description>
+      <pubDate>Wed, 22 Apr 2026 07:04:00 GMT</pubDate>
+      <guid isPermaLink="false">12c2f3d8c061</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Koniec-tanich-surowcow-z-Chin-USA-chca-ustalic-ceny-minimalne-9120798.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Sytuacja na rynku pracy. &quot;Perspektywy są niepewne&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0e3e7d976ec2</link>
+      <description>Pracodawcy rzadziej rekrutują, więc osobom szukającym pracy będzie trudniej. Konkurencja o etaty rośnie, a poszukiwanie zatrudnienia może się wydłużyć - wskazują ekonomiści PZU.</description>
+      <pubDate>Wed, 22 Apr 2026 07:01:58 GMT</pubDate>
+      <guid isPermaLink="false">0e3e7d976ec2</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/praca-w-polsce-coraz-mniej-ofert-i-rosnaca-konkurencja-perspektywy-sa-niepewne-st9010425?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Nieoficjalnie: Karol Nawrocki na wspólnym szkoleniu z rządem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2adb17f9f460</link>
+      <description>Prezydent Karol Nawrocki wziął udział wspólnie z członkami rządu w specjalnym, wojskowym szkoleniu - dowiedział się nieoficjalnie dziennikarz RMF FM Kacper Wróblewski. O udziale w ćwiczeniach mówił w Porannej rozmowie w RMF FM minister sportu Jakub Rutnicki.</description>
+      <pubDate>Wed, 22 Apr 2026 07:01:16 GMT</pubDate>
+      <guid isPermaLink="false">2adb17f9f460</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-nieoficjalnie-karol-nawrocki-na-wspolnym-szkoleniu-z-rzadem,nId,8078470">RMF24</source>
+    </item>
+    <item>
+      <title>PKP InterCity uruchomił program lojalnościowy MojeIC</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2e4435ed3b3e</link>
+      <description>Jednak najbardziej wyczekiwaną nowością był program lojalnościowy - MojeIC od PKP InterCity, który to właśnie wystartował.</description>
+      <pubDate>Wed, 22 Apr 2026 07:00:49 GMT</pubDate>
+      <guid isPermaLink="false">2e4435ed3b3e</guid>
+      <source url="https://antyweb.pl/mojeic-pkp-intercity">Antyweb</source>
+    </item>
+    <item>
+      <title>Tysiące razy dzwonił na numer 112. Nie mogli go namierzyć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a779b2056e22</link>
+      <description>Przed sądem stanie 61-letni mężczyzna, który tysiące razy bezpodstawnie wykonywał krótkie połączenia na numer alarmowy 112. Policjanci z Olesna w Opolskiem w końcu namierzyli sprawcę, choć nie było to łatwe.</description>
+      <pubDate>Wed, 22 Apr 2026 06:59:23 GMT</pubDate>
+      <guid isPermaLink="false">a779b2056e22</guid>
+      <source url="https://www.rmf24.pl/regiony/news-tysiace-razy-dzwonil-na-numer-112-nie-mogli-go-namierzyc,nId,8078464">RMF24</source>
+    </item>
+    <item>
+      <title>Pożar tartaku w Śląskiem. Strażacy walczyli z ogniem kilka godzin</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/79307f0c664f</link>
+      <description>Wczesnym rankiem w Lublińcu w województwie śląskim doszło do pożaru w jednym z tartaków. Na miejsce natychmiast skierowano 12 wozów strażackich. Zgłoszenie o pojawieniu się ognia wpłynęło do służb tuż przed godziną trzecią.</description>
+      <pubDate>Wed, 22 Apr 2026 06:54:02 GMT</pubDate>
+      <guid isPermaLink="false">79307f0c664f</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-pozar-tartaku-w-slaskiem-strazacy-walczyli-z-ogniem-kilka-go,nId,8078463">RMF24</source>
+    </item>
+    <item>
+      <title>Pięciu mężczyzn oskarżonych o uwięzienie i pobicie dwóch mężczyzn</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/63453da3800d</link>
+      <description>Prokuratura oskarżyła pięciu mężczyzn o uwięzienie i pobicie 63-latka oraz 44-latka. W sumie usłyszeli 21 zarzutów. Jeden z mężczyzn przyznał się do wszystkich zarzucanych mu czynów.</description>
+      <pubDate>Wed, 22 Apr 2026 06:51:58 GMT</pubDate>
+      <guid isPermaLink="false">63453da3800d</guid>
+      <source url="https://tvn24.pl/krakow/nowy-sacz-akt-oskarzenia-przeciwko-pieciu-osobom-chodzi-o-porwanie-i-pobicie-st9010432?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Nowa technologia ładowania aut elektrycznych: 80 procent w 4 minuty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8583c610bbcf</link>
+      <description>Wygląda na to, że czas ładowania samochodów elektrycznych ma wreszcie szansę zrównać się z długością tankowania.</description>
+      <pubDate>Wed, 22 Apr 2026 06:45:55 GMT</pubDate>
+      <guid isPermaLink="false">8583c610bbcf</guid>
+      <source url="https://antyweb.pl/ladowanie-tak-szybkie-jak-tankowanie-do-80-w-4-minuty">Antyweb</source>
+    </item>
+    <item>
+      <title>Tucker Carlson przeprosił za popieranie Donalda Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8c3e642a8908</link>
+      <description>Tucker Carlson, skrajnie prawicowy publicysta i niegdysiejszy zagorzały zwolennik Donalda Trumpa, przeprosił za &quot;wprowadzanie ludzi w błąd&quot; swoim poparciem dla prezydenta USA. Już wcześniej krytykował Trumpa za wojnę z Iranem. Biały Dom, poproszony o komentarz, wskazał na wpis Trumpa w mediach społecznościowych, w którym nazywa krytyków &quot;głupimi ludźmi&quot;.</description>
+      <pubDate>Wed, 22 Apr 2026 06:42:31 GMT</pubDate>
+      <guid isPermaLink="false">8c3e642a8908</guid>
+      <source url="https://tvn24.pl/swiat/usa-tucker-carlson-przeprosil-za-wspieranie-donalda-trumpa-st9010392?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&quot;Nie będę marionetką Trumpa&quot;. Czy rzeczywiście?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1a792f99a4d</link>
+      <description>Kevin Warsh - nominowany przez Donalda Trumpa na nowego szefa Rezerwy Federalnej - zapewniał podczas wysłuchania w Senacie, że nie będzie &quot;martionetką&quot; prezydenta. Padły też słowa o strzeżeniu niezależności banku centralnego.</description>
+      <pubDate>Wed, 22 Apr 2026 06:40:50 GMT</pubDate>
+      <guid isPermaLink="false">b1a792f99a4d</guid>
+      <source url="https://www.rmf24.pl/ekonomia/news-nie-bede-marionetka-trumpa-czy-rzeczywiscie,nId,8078459">RMF24</source>
+    </item>
+    <item>
+      <title>Ośmiolatek podpalił plac zabaw w Toruniu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bb51b9df2c7f</link>
+      <description>Według ustaleń policji, to ośmiolatek podpalił plac zabaw w Toruniu. Straty oszacowano na kilkadziesiąt tysięcy złotych.</description>
+      <pubDate>Wed, 22 Apr 2026 06:34:19 GMT</pubDate>
+      <guid isPermaLink="false">bb51b9df2c7f</guid>
+      <source url="https://tvn24.pl/kujawsko-pomorskie/torun-plac-zabaw-podpalil-osmioletni-chlopiec-st9010369?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Dramat amerykańskiego koszykarza w Indonezji. Prosi o pomoc z więzienia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/35bdc174d269</link>
+      <description>Jarred Shaw, amerykański koszykarz z bogatą, międzynarodową karierą, odsiaduje wyrok w indonezyjskim więzieniu za posiadanie żelków z konopiami. Zmagając się z poważną chorobą, apeluje o pomoc i międzynarodową interwencję, podkreślając, że pobyt za kratami zagraża jego zdrowiu i życiu.</description>
+      <pubDate>Wed, 22 Apr 2026 06:32:00 GMT</pubDate>
+      <guid isPermaLink="false">35bdc174d269</guid>
+      <source url="https://www.rmf24.pl/sport/news-dramat-amerykanskiego-koszykarza-w-indonezji-prosi-o-pomoc-z,nId,8078461">RMF24</source>
+    </item>
+    <item>
+      <title>YouTube wprowadza narzędzie do usuwania deepfake&apos;ów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7b841ad8f441</link>
+      <description>YouTube właśnie ogłosił, że pora ukrócić działania użytkowników publikujących nagrania z nieautoryzowanymi treściami. Chodzi o deepfake&apos;i, które zalewają każdą platformę wideo.</description>
+      <pubDate>Wed, 22 Apr 2026 06:30:02 GMT</pubDate>
+      <guid isPermaLink="false">7b841ad8f441</guid>
+      <source url="https://antyweb.pl/youtube-mowi-dosc-i-bedzie-usuwac-wideo-ma-do-tego-specjalne-narzedzie">Antyweb</source>
     </item>
     <item>
       <title>Czy szpital może zbankrutować? Batalia o nowe prawo w cieniu wielkiego protestu</title>
@@ -24,12 +168,68 @@
       <source url="https://www.bankier.pl/wiadomosc/Czy-szpital-moze-zbankrutowac-Batalia-o-nowe-prawo-w-cieniu-wielkiego-protestu-9120659.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Państwa Arabskie żądają od Iranu odszkodowania za wojnę. Gra o setki milionów dolarów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/840c1c726f99</link>
+      <description>Liga Państw Arabskich wytacza najcięższe działa finansowe przeciwko Iranowi, domagając się astronomicznych odszkodowań za paraliż światowego handlu ropą i ataki na infrastrukturę podczas operacji „Epicka Furia”. Szacuje się, że rachunek za blokadę Cieśniny Ormuz i zniszczenia w krajach arabskich może sięgnąć setek miliardów dolarów. Na Bliskim Wschodzie trwa jednak dyplomatyczny ping-pong – zaledwie kilka tygodni wcześniej to Teheran zażądał finansowej rekompensaty od swoich sąsiadów.</description>
+      <pubDate>Wed, 22 Apr 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="false">840c1c726f99</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Panstwa-Arabskie-zadaja-od-Iranu-odszkodowania-za-wojne-Gra-o-setki-milionow-dolarow-9120778.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Czy NATO się rozpadnie? Debata w Radiu RMF24 i Faktach RMF FM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0f55cc6235e7</link>
+      <description>W ostatnich wypowiedziach Donald Trump podważa sens amerykańskiego członkostwa w największym sojuszu obronnym świata. Prezydent USA wyrażał niezadowolenie z powodu niewystarczającego wsparcia ze strony Europejczyków podczas wojny z Iranem. Czy Amerykanie opuszczą NATO, a Europejczycy będą musieli sami bronić się przed ewentualnym atakiem ze strony Rosji? Na te i inne pytania odpowiedzą nasi goście podczas Debaty w Radiu RMF24 i Faktach RMF FM w środę o godz. 9:00.</description>
+      <pubDate>Wed, 22 Apr 2026 06:25:00 GMT</pubDate>
+      <guid isPermaLink="false">0f55cc6235e7</guid>
+      <source url="https://www.rmf24.pl/tylko-w-rmf24/rozmowy/news-czy-nato-sie-rozpadnie-debata-w-radiu-rmf24-i-faktach-rmf-fm,nId,8078361">RMF24</source>
+    </item>
+    <item>
       <title>Trzy czwarte firm używa AI, ale tylko 12 proc. jej ufa. Co poszło nie tak?</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d77689b641ed</link>
       <description>Aż 74 proc. firm w Polsce wykorzystuje AI do zadań kreatywnych i generowania pomysłów, jednak tylko 12 proc. pracodawców uważa, że sztuczna inteligencja spełnia ich oczekiwania w rekrutacji i rozwoju talentów. Kompetencje miękkie i dopasowanie kulturowe wciąż pozostają domeną ludzi – wynika z opublikowanego dziś raportu Experis.</description>
       <pubDate>Wed, 22 Apr 2026 06:20:00 GMT</pubDate>
       <guid isPermaLink="false">d77689b641ed</guid>
       <source url="https://www.bankier.pl/wiadomosc/AI-wspiera-74-proc-firm-w-Polsce-ale-w-tych-obszarach-zawodzi-9120703.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Deportowani z Polski. Samolot wystartował z Łodzi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/96cc6ad5b213</link>
+      <description>10 obywateli Gruzji, którzy złamali prawo w Polsce, zostało deportowanych - poinformowała Komenda Główna Straży Granicznej. Samolot z Gruzinami wystartował z Łodzi.</description>
+      <pubDate>Wed, 22 Apr 2026 06:10:45 GMT</pubDate>
+      <guid isPermaLink="false">96cc6ad5b213</guid>
+      <source url="https://www.rmf24.pl/regiony/lodz/news-deportowani-z-polski-samolot-wystartowal-z-lodzi,nId,8078455">RMF24</source>
+    </item>
+    <item>
+      <title>Mueller o podziałach w PiS: liczę na to, że to się wreszcie uspokoi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d106bea9b290</link>
+      <description>Czasami jest okres przesilenia. Dobrze, że w połowie kadencji, a nie tuż przed wyborami - powiedział w &quot;Rozmowie Piaseckiego&quot; w TVN24 europoseł PiS Piotr Mueller. Komentował ostatnie spory wewnątrz Prawa i Sprawiedliwości. - Liczę na to, że to się wreszcie uspokoi - mówił. Wspomniał też o deklaracjach prezesa partii w sprawie przyszłych list wyborczych.</description>
+      <pubDate>Wed, 22 Apr 2026 06:07:20 GMT</pubDate>
+      <guid isPermaLink="false">d106bea9b290</guid>
+      <source url="https://tvn24.pl/polska/piotr-mueller-o-podzialach-w-pis-mam-nadzieje-ze-sie-wreszcie-uspokoi-st9010357?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Trzej obywatele Afganistanu zatrzymani bez dokumentów przy granicy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cb7c74c838aa</link>
+      <description>Trzej obywatele Afganistanu bez wymaganych dokumentów zostali zatrzymani przez Straż Graniczną w pobliżu granicy z Niemcami.</description>
+      <pubDate>Wed, 22 Apr 2026 06:03:13 GMT</pubDate>
+      <guid isPermaLink="false">cb7c74c838aa</guid>
+      <source url="https://tvn24.pl/szczecin/szczecin-bez-dokumentow-jechali-w-strone-granicy-z-niemcami-trzech-afganczykow-zatrzymanych-st9010391?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>OpenAI zaprezentowało ChatGPT Images 2.0 z poprawioną jakością</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d745e94550f6</link>
+      <description>OpenAI oficjalnie zaprezentowało ChatGPT Images 2.0 podczas transmisji na żywo. To nie tylko kolejna poprawa jakości obrazów, ale próba zrobienia z generatora narzędzia do realnej pracy projektowej, makiet, magazynów i grafik z poprawnym tekstem.</description>
+      <pubDate>Wed, 22 Apr 2026 06:00:32 GMT</pubDate>
+      <guid isPermaLink="false">d745e94550f6</guid>
+      <source url="https://antyweb.pl/chatgpt-odpala-petarde-nowa-funkcja-zachwyca-od-wejscia">Antyweb</source>
+    </item>
+    <item>
+      <title>Iran wciąż czeka na wydanie stanowiska ws. decyzji Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/211a9333f045</link>
+      <description>Iran wciąż nie wydał oficjalnego stanowiska w sprawie decyzji prezydenta USA Donalda Trumpa o przedłużeniu zawieszenia broni - poinformował w środę nad ranem Reuters. Agencja zwróciła uwagę, że na opublikowany we wtorek wieczorem wpis Trumpa odpowiedzieli jedynie nieliczni irańscy urzędnicy niższego szczebla.</description>
+      <pubDate>Wed, 22 Apr 2026 06:00:24 GMT</pubDate>
+      <guid isPermaLink="false">211a9333f045</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/bliski-wschod-iran-milczy-po-decyzji-trumpa-o-przedluzeniu-zawieszenia-broni-st9010360?source=rss">TVN24</source>
     </item>
     <item>
       <title>EEC 2026 w Katowicach. Dziś debaty o przyszłości ochrony zdrowia</title>
@@ -40,6 +240,14 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/EEC-2026-w-Katowicach-Dzis-debaty-o-przyszlosci-ochrony-zdrowia,283495,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Armia USA zużyła połowę zapasów rakiet w siedem tygodni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5b9a5d535bdb</link>
+      <description>Armia USA zużyła w ciągu siedmiu tygodni wojny z Iranem niemal połowę rakiet do systemów Patriot i podobną porcję pocisków do systemów obrony przeciwrakietowej THAAD - podała stacja CNN, powołując się na raport think tanku CSIS. Według ekspertów odbudowa arsenału może zająć lata. Wicepremier i szef MON Władysław Kosiniak-Kamysz przekazał, że w związku z sytuacją na Bliskim Wschodzie możliwe są opóźnienia w dostawie pocisków z USA.</description>
+      <pubDate>Wed, 22 Apr 2026 05:58:25 GMT</pubDate>
+      <guid isPermaLink="false">5b9a5d535bdb</guid>
+      <source url="https://tvn24.pl/swiat/usa-zuzyly-w-wojnie-z-iranem-niemal-polowe-rakiet-do-systemu-patriot-odbudowa-arsenalu-moze-zajac-lata-st9010356?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Od gospodarki po zdrowie. W Katowicach startuje 18. Europejski Kongres Gospodarczy EEC 2026</title>
       <link>https://lolsoftware.github.io/4-news/#/article/83041e02f76e</link>
       <description>Katowice na trzy dni zamienią się w europejską stolicę debaty o gospodarce, innowacjach i konkurencyjności UE w świecie. Dziś (22 kwietnia) w Międzynarodowym Centrum Kongresowym oraz w hali „Spodka” rozpocznie się 18. Europejski Kongres Gospodarczy. Wśród wielu pytań, jakie padną, nie zabraknie tych o przyszłość obecnego modelu ochrony zdrowia i konieczne reformy.</description>
@@ -48,12 +256,36 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Od-gospodarki-po-zdrowie-W-Katowicach-startuje-18-Europejski-Kongres-Gospodarczy-EEC-2026,283494,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Mają dość Iranu. Liga Państw Arabskich żąda odszkodowań</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2f509b437419</link>
+      <description>Szefowie MSZ Ligi Państw Arabskich zażądali od władz Iranu wypłaty odszkodowań. Chodzi o szkody spowodowane przez irańskie ataki na kraje arabskie oraz zamknięcie cieśniny Ormuz.</description>
+      <pubDate>Wed, 22 Apr 2026 05:53:09 GMT</pubDate>
+      <guid isPermaLink="false">2f509b437419</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-maja-dosc-iranu-liga-panstw-arabskich-zada-odszkodowan,nId,8078452">RMF24</source>
+    </item>
+    <item>
+      <title>Znaleźli pierwszy rękopis nut &quot;Mazurka Dąbrowskiego&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b05876a9ca4f</link>
+      <description>W zbiorach w Bibliotece Raczyńskich znajduje się prawdopodobnie pierwszy zachowany w całości rękopis nut &quot;Mazurka Dąbrowskiego&quot;. Zapis pochodzi z 1821 roku i znajdował się w partyturze sztuki &quot;Kościuszko nad Sekwaną&quot;. Został odnaleziony przez przypadek, jest pomysł jak go zaprezentować.</description>
+      <pubDate>Wed, 22 Apr 2026 05:52:06 GMT</pubDate>
+      <guid isPermaLink="false">b05876a9ca4f</guid>
+      <source url="https://tvn24.pl/poznan/znalezli-pierwszy-rekopis-nut-mazurka-dabrowskiego-st9008313?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Prezes PKOl powinien podać się do dymisji? Pytamy ministra sportu Jakuba Rutnickiego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1bd2dcb80f93</link>
       <description>Czy w związku z aferą Zondacrypto prezes PKOl Radosław Piesiewicz powinien podać się do dymisji? Czy polscy olimpijczycy otrzymają pieniądze za osiągnięcia na igrzyskach olimpijskich? Jak rozwiązać sprawę Toru Poznań? Między innymi o to Tomasz Terlikowski zapyta w Porannej rozmowie w RMF FM Jakuba Rutnickiego, ministra sportu i turystyki, posła Koalicji Obywatelskiej. Zapraszamy!</description>
       <pubDate>Wed, 22 Apr 2026 05:50:00 GMT</pubDate>
       <guid isPermaLink="false">1bd2dcb80f93</guid>
       <source url="https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-prezes-pkol-powinien-podac-sie-do-dymisji-pytamy-ministra-sp,nId,8078360">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Cały rząd na ćwiczeniach&quot;. Rutnicki o tym, dlaczego nie odbyła się Rada Ministrów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/47b1123f6f50</link>
+      <description>&quot;Za dużo nie mogę o tym mówić. Miały miejsce bardzo ważne ćwiczenia. Dlatego posiedzenie rządu nie mogło się odbyć. Cały rząd uczestniczył w tych ćwiczeniach. Trwały one od rana do późnych godzin popołudniowych. Zawsze polski rząd musi być przygotowany. To są ćwiczenia, które są realizowane od czasu od czasu. Nie możemy o tych ćwiczeniach mówić&quot; - powiedział w Porannej rozmowie w RMF FM Jakub Rutnicki, minister sportu i turystyki, poseł Koalicji Obywatelskiej. Polityk stwierdził również, że powinna powstać komisja śledcza ds. Zondacrypto, a prezes PKOl Radosław Piesiewicz powinien przed nią stanąć. Rutnicki zaapelował również do prezesa Piesiewicza oraz do posła PiS Jacka Sasina.</description>
+      <pubDate>Wed, 22 Apr 2026 05:50:00 GMT</pubDate>
+      <guid isPermaLink="false">47b1123f6f50</guid>
+      <source url="https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-caly-rzad-uczestniczyl-w-cwiczeniach-rutnicki-o-tym-dlaczego,nId,8078360">RMF24</source>
     </item>
     <item>
       <title>Gotówki już nie przyjmują, zabierają 3 proc. &quot;Trzeba było dać ludziom czas&quot;</title>
@@ -88,6 +320,14 @@
       <source url="https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>61-latek blokował numer 112 tysięcami połączeń przez rok</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e34626c085f6</link>
+      <description>Wykonywał tysiące bardzo krótkich połączeń, blokując w ten sposób numer alarmowy 112 i linię dla osób potrzebujących pilnej pomocy. Dzwonił z telefonów bez karty sim. Działał tak przez ponad rok. 61-latek nie potrafił wytłumaczyć, dlaczego.</description>
+      <pubDate>Wed, 22 Apr 2026 05:18:18 GMT</pubDate>
+      <guid isPermaLink="false">e34626c085f6</guid>
+      <source url="https://tvn24.pl/opole/olesno-25-tysiecy-krotkich-polaczen-miesiecznie-tak-blokowal-numer-112-st9010353?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Tourist finds rare chunk of oldest sea crocodile</title>
       <link>https://lolsoftware.github.io/4-news/#/article/01213c1b92c3</link>
       <description>The Thalattosuchian&apos;s jawbone was a chance find on a guided fossil walk run by a museum.</description>
@@ -104,12 +344,28 @@
       <source url="https://www.rmf24.pl/regiony/warszawa/news-szokujaca-sytuacja-na-drodze-prowadzila-auto-majac-3-promile,nId,8078448">RMF24</source>
     </item>
     <item>
+      <title>USA nakłada kolejne sankcje na podmioty pomagające Iranowi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d70931375539</link>
+      <description>Amerykańskie ministerstwo finansów ogłosiło we wtorek sankcje wobec czternastu podmiotów pomagających Iranowi w zdobywaniu uzbrojenia, rozszerzając tym samym operację &quot;Gospodarcza Furia&quot; wymierzoną w Teheran.</description>
+      <pubDate>Wed, 22 Apr 2026 05:13:42 GMT</pubDate>
+      <guid isPermaLink="false">d70931375539</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/konflikt-na-bliskim-wschodzie-usa-nakladaja-sankcje-za-pomoc-iranowi-w-kupnie-uzbrojenia-st9010346?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Siedem tysięcy euro wylądowało w śmieciarce. Nietypowe poszukiwania</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e6a3b85039cc</link>
       <description>Chwila roztargnienia mogła sporo kosztować mieszkańca Triestu na północy Włoch. Mężczyzna przez pomyłkę wrzucił do kosza na śmieci 7 tys. euro w gotówce. Gdy się zorientował, śmietnik był już wybrany. W poszukiwania śmieciarki zaangażowani zostali karabinierzy. Poszukiwania trwały dwa dni.</description>
       <pubDate>Wed, 22 Apr 2026 05:10:20 GMT</pubDate>
       <guid isPermaLink="false">e6a3b85039cc</guid>
       <source url="https://www.rmf24.pl/ciekawostki/news-siedem-tysiecy-euro-wyladowalo-w-smieciarce-nietypowe-poszuk,nId,8078450">RMF24</source>
+    </item>
+    <item>
+      <title>39-latka prowadziła auto pod wpływem alkoholu na drodze dla rowerów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5a2cc45f8774</link>
+      <description>Straciła prawo jazdy i usłyszała dwa zarzuty. 39-latka miała blisko trzy promile alkoholu i wiozła samochodem pijaną koleżankę.</description>
+      <pubDate>Wed, 22 Apr 2026 05:07:34 GMT</pubDate>
+      <guid isPermaLink="false">5a2cc45f8774</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/piaseczno-kierowala-autem-pijana-miala-blisko-trzy-promile-alkoholu-st9009559?source=rss">TVN24</source>
     </item>
     <item>
       <title>Graduate &apos;ghosted&apos; by employers has applied for 400 jobs and had only three interviews</title>
@@ -150,262 +406,6 @@
       <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
       <guid isPermaLink="false">9de3da9ab685</guid>
       <source url="https://www.bankier.pl/wiadomosc/Zloto-w-portfelu-inwestora-Co-stoi-za-jego-dlugoterminowa-odpornoscia-na-rynkowe-kryzysy-9120552.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ostre cięcie zdolności w hipotekach. Nawet 60 tys. zł mniej kredytu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9ceaee8d7d67</link>
-      <description>To się musiało tak skończyć. Zdecydowane podwyżki oprocentowania kredytów hipotecznych przełożyły się na równie mocne obniżenie dostępnego finansowania. W porównaniu z początkiem marca rodzina zarabiająca 15 tys. zł może liczyć na nawet ponad 60 tys. zł mniej kredytu.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">9ceaee8d7d67</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-kwiecien-2026-9120296.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Smartfon może obniżyć podatek. Fiskus wskazał, kto skorzysta z ulgi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/28bb2e1130c9</link>
-      <description>Zakup smartfona może zostać odliczony w ramach ulgi rehabilitacyjnej. Dyrektor Krajowej Informacji Skarbowej potwierdził w interpretacji indywidualnej, że jeśli telefon nie pełni wyłącznie funkcji komunikacyjnej, lecz jest niezbędnym narzędziem do monitorowania stanu zdrowia, podatnik ma prawo uwzględnić taki wydatek w rozliczeniu PIT.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">28bb2e1130c9</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Smartfon-moze-obnizyc-podatek-Fiskus-wskazal-kto-skorzysta-z-ulgi-9120193.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Wielka wojna robotaksówek. Uber rzuca wyzwanie Tesli, Amazonowi i Google</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/09ceede46563</link>
-      <description>W 2026 roku robotaksówki Uber będą przewozić turystów w co najmniej 15 miastach w 2026 roku - informuje Financial Times. Łącznie koncern przeznaczy 10 mld dolarów na zakup tysięcy autonomicznych pojazdów oraz akcji w firmach zajmujących się ich rozwoje.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">09ceede46563</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Wielka-wojna-robotaksowek-Uber-rzuca-wyzwanie-Tesli-Amazonowi-i-Google-9116835.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Do 3% na lokacie walutowej w Unicredit. Dostępne lokaty i konto oszczędnościowe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eaf98b8a58cf</link>
-      <description>Wśród banków, które mają w ofercie produkty oszczędnościowe w innej niż rodzima walucie, jest Unicredit. Zainteresowani ofertą w euro mogą skorzystać zarówno z lokaty terminowej, jak i konta oszczędnościowego. Paleta depozytów obejmuje również wariant w dolarze amerykańskim.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">eaf98b8a58cf</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Do-3-na-lokacie-walutowej-w-Unicredit-Dostepne-lokaty-i-konto-oszczednosciowe-9120343.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Alarm w handlu. Prawie 90 proc. sklepów z naruszeniami, pracownicy szykują strajki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5ef15df6f2d0</link>
-      <description>Przeciążeni pracą, słabo wynagradzani i nieuczciwie traktowani przy ustalaniu grafików oraz udzielaniu urlopów – pracownicy sieci handlowych mają wiele do zarzucenia swoim pracodawcom. W największych sieciach narastają spory zbiorowe. Sprawdziliśmy, gdzie robi się naprawdę gorąco i czy już wkrótce może się to odbić na kupujących.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5ef15df6f2d0</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Pracownicy-sieci-handlowych-coraz-bardziej-zirytowani-Szykuja-strajki-9120491.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Koniec z anonimowością psów i kotów. KROPiK uchwalony, ale budzi kontrowersje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7e0b22fb8357</link>
-      <description>Sejm uchwalił ustawę o Krajowym Rejestrze Oznakowanych Psów i Kotów (KROPiK), która nakłada na właścicieli czworonogów obowiązek elektronicznej identyfikacji. Nowe przepisy mają na celu skuteczną walkę z bezdomnością zwierząt oraz uporządkowanie rynku, na którym do tej pory panowało duże rozproszenie. Choć projekt zyskał poparcie większości posłów, przedstawiciele prywatnych rejestrów oraz eksperci prawni wskazują na ryzyko powstania państwowego monopolu i pominięcie dorobku sektora prywatnego.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7e0b22fb8357</guid>
-      <source url="https://www.bankier.pl/wiadomosc/KROPiK-uchwalony-przez-Sejm-ale-budzi-kontrowersje-Koniec-z-anonimowoscia-psow-i-kotow-9120429.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Zbliża się termin rozliczenia PIT. Zostało kilka dni. Z jakich ulg możesz skorzystać?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/98e97c45f89b</link>
-      <description>Nieubłaganie zbliża się 30 kwietnia – ostatni dzień na złożenie rocznego rozliczenia podatku dochodowego. Zostało kilka dni, aby zmniejszyć daninę, korzystając z ulg podatkowych. Sprawdź, jakie odliczenie ci się należy.</description>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">98e97c45f89b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zbliza-sie-termin-rozliczenia-PIT-To-ostatni-dzwonek-Z-jakich-ulg-mozesz-skorzystac-9120462.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Mourinho chce Polaka. 19-latek na celowniku słynnego klubu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/696ced25d4c3</link>
-      <description>Marcel Reguła może zasilić Benficę Lizbona. Władze portugalskiego klubu potwierdziły zainteresowanie 19-letnim piłkarzem Zagłębia Lubin.</description>
-      <pubDate>Wed, 22 Apr 2026 04:58:04 GMT</pubDate>
-      <guid isPermaLink="false">696ced25d4c3</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-mourinho-chce-polaka-19-latek-na-celowniku-slynnego-klubu,nId,8078445">RMF24</source>
-    </item>
-    <item>
-      <title>Pracę tam ma stracić pół tysiąca osób. W tle powiązania z Epsteinem?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ada497b706e9</link>
-      <description>Redukcję zatrudnienia o blisko 20 proc., czyli zwolnienie ok. 500 osób, planuje do 2030 roku Fundacja Billa Gatesa. Poinformował o tym we wtorek &quot;Wall Street Journal&quot;. Kierownictwo fundacji ma też ponownie przeanalizować związki instytucji z przestępcą seksualnym Jeffreyem Epsteinem.</description>
-      <pubDate>Wed, 22 Apr 2026 04:40:53 GMT</pubDate>
-      <guid isPermaLink="false">ada497b706e9</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-prace-tam-ma-stracic-pol-tysiaca-osob-w-tle-powiazania-z-eps,nId,8078444">RMF24</source>
-    </item>
-    <item>
-      <title>Kluczowa decyzja w przedwyborczej &quot;wojnie&quot; demokratów z republikanami</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f86cd5d4eb6f</link>
-      <description>Wyborcy w Wirginii poparli we wtorek zmianę konstytucji, która otwiera drogę do przeprojektowania okręgów wyborczych do Izby Reprezentantów na korzyść demokratów. To kolejny etap ogólnokrajowej rywalizacji między demokratami a republikanami o kształt map wyborczych przed zaplanowanymi na listopad wyborami.</description>
-      <pubDate>Wed, 22 Apr 2026 04:34:32 GMT</pubDate>
-      <guid isPermaLink="false">f86cd5d4eb6f</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-kluczowa-decyzja-w-przedwyborczej-wojnie-demokratow-z-republ,nId,8078443">RMF24</source>
-    </item>
-    <item>
-      <title>Nowy sondaż. Ponad połowa Polaków zgodna ws. TK</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8206552fe5f</link>
-      <description>​55,7 proc. ankietowanych zdecydowanie lub raczej nie ufa Trybunałowi Konstytucyjnemu (TK) - wynika z sondażu CBOS, którego wyniki publikuje w środę &quot;Dziennik Gazeta Prawna&quot;.</description>
-      <pubDate>Wed, 22 Apr 2026 04:25:15 GMT</pubDate>
-      <guid isPermaLink="false">b8206552fe5f</guid>
-      <source url="https://www.rmf24.pl/polityka/news-nowy-sondaz-ponad-polowa-polakow-zgodna-ws-tk,nId,8078442">RMF24</source>
-    </item>
-    <item>
-      <title>Belts of Green in the Washington Suburbs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4228a404a7ea</link>
-      <description>Along the northeast side of the Capital Beltway in Maryland, green spaces weave through the developed landscape.</description>
-      <pubDate>Wed, 22 Apr 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="false">4228a404a7ea</guid>
-      <source url="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Tragedia w Meksyku. &quot;Fascynował się Hitlerem&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6f3e0114e901</link>
-      <description>27-letni Julio Ramirez, który w poniedziałek ze szczytu piramidy Teotihuacan w środkowym Meksyku zastrzelił jedną osobę, a 13 innych ranił, był sympatykiem Adolfa Hitlera - mają na to wskazywać ustalenia meksykańskich śledczych. Strzelanina zbiegła się z rocznicą urodzin przywódcy III Rzeszy, masakry w szkole w Columbine w 1999 roku, a także z rocznicą powstania nazistowskiej swastyki.</description>
-      <pubDate>Wed, 22 Apr 2026 03:49:55 GMT</pubDate>
-      <guid isPermaLink="false">6f3e0114e901</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-tragedia-w-meksyku-fascynowal-sie-hitlerem,nId,8078441">RMF24</source>
-    </item>
-    <item>
-      <title>Tim Cook udziela rad swojemu następcy na stanowisku CEO</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2e1d195d6c57</link>
-      <description>Tim Cook jeszcze nie odszedł ze stanowiska CEO Apple, ale już zdradził, jaką radę dał swojemu następcy.</description>
-      <pubDate>Wed, 22 Apr 2026 03:45:16 GMT</pubDate>
-      <guid isPermaLink="false">2e1d195d6c57</guid>
-      <source url="https://antyweb.pl/jeszcze-nie-opuscil-tronu-krolestwa-apple-a-juz-daje-rady-nastepcy">Antyweb</source>
-    </item>
-    <item>
-      <title>World&apos;s biggest maker of condoms set to raise prices due to Iran war</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a27b2c3406f0</link>
-      <description>Malaysia-based Karex produces more than five billion condoms a year and supplies global brands like Durex and Trojan.</description>
-      <pubDate>Wed, 22 Apr 2026 03:28:52 GMT</pubDate>
-      <guid isPermaLink="false">a27b2c3406f0</guid>
-      <source url="https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Dopiero wtedy Iran podpisze porozumienie z USA. &quot;Wysadzimy w powietrze połowę kraju&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a54ab01a8ba3</link>
-      <description>Iran oficjalnie nie odpowiedział jeszcze na decyzję Donalda Trumpa o przedłużeniu zawieszenia broni. Jak podaje agencja Reutera, niżsi rangą irańscy urzędnicy odebrali ten ruch jako próbę zyskania czasu przez Waszyngton. Tymczasem prezydent USA na platformie Truth Social napisał, że nastąpi porozumienie, jeśli &quot;wysadzi połowę kraju&quot;.</description>
-      <pubDate>Wed, 22 Apr 2026 03:28:34 GMT</pubDate>
-      <guid isPermaLink="false">a54ab01a8ba3</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-dopiero-wtedy-iran-podpisze-porozumienie-z-usa-wysadzimy-w-p,nId,8078440">RMF24</source>
-    </item>
-    <item>
-      <title>WhatsApp testuje AI do podsumowań wiadomości</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ed0b8189308</link>
-      <description>WhatsApp testuje nową funkcję wspieraną przez zaawansowane algorytmy sztucznej inteligencji. Ma ona serwować podsumowania nieprzeczytanych wiadomości ...</description>
-      <pubDate>Wed, 22 Apr 2026 03:14:49 GMT</pubDate>
-      <guid isPermaLink="false">1ed0b8189308</guid>
-      <source url="https://antyweb.pl/whatsapp-robi-to-dobrze-takich-funkcji-w-komunikatorach-potrzebujemy">Antyweb</source>
-    </item>
-    <item>
-      <title>Artemis II Mission Milestones: An Image and Video Recap</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fa5bdc2daee5</link>
-      <description>On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion</description>
-      <pubDate>Wed, 22 Apr 2026 01:55:09 GMT</pubDate>
-      <guid isPermaLink="false">fa5bdc2daee5</guid>
-      <source url="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>The Papers: &apos;Starmer on the ropes&apos; and &apos;Sobbin&apos; Robbins spills the beans&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8029a0f1d533</link>
-      <description>The papers are dominated by the fallout for the prime minister from the failed vetting of Lord Mandelson for his role as British ambassador to the US.</description>
-      <pubDate>Wed, 22 Apr 2026 01:07:20 GMT</pubDate>
-      <guid isPermaLink="false">8029a0f1d533</guid>
-      <source url="https://www.bbc.com/news/articles/cn8de1j4z4do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Redwood Materials lays off 10% in restructuring to chase energy storage business</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15ed93802971</link>
-      <description>The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.</description>
-      <pubDate>Wed, 22 Apr 2026 00:37:33 GMT</pubDate>
-      <guid isPermaLink="false">15ed93802971</guid>
-      <source url="https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Curiosity Blog, Sols 4867-4872: Sand Fill In Antofagasta Crater and Finding Our Next Drill Target</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6a0ddcf063c9</link>
-      <description>Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center</description>
-      <pubDate>Wed, 22 Apr 2026 00:33:49 GMT</pubDate>
-      <guid isPermaLink="false">6a0ddcf063c9</guid>
-      <source url="https://science.nasa.gov/blog/curiosity-blog-sols-4867-4872-sand-fill-in-antofagasta-crater-and-finding-our-next-drill-target/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Trump buys time for Iran deal after frantic day of diplomacy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/763b1747382d</link>
-      <description>The US president&apos;s decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time</description>
-      <pubDate>Wed, 22 Apr 2026 00:32:10 GMT</pubDate>
-      <guid isPermaLink="false">763b1747382d</guid>
-      <source url="https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Drunk post: Things I&apos;ve learned as a senior engineer (2021)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b0e66a5d4747</link>
-      <description>Comments</description>
-      <pubDate>Tue, 21 Apr 2026 23:53:45 GMT</pubDate>
-      <guid isPermaLink="false">b0e66a5d4747</guid>
-      <source url="https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as">Hacker News</source>
-    </item>
-    <item>
-      <title>Foo Fighters interview: &apos;We&apos;re a different band without Taylor Hawkins&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/afd9236afc1c</link>
-      <description>The band talk about life without their drummer, their &quot;angry&quot; new album, and their backstage Lego habit.</description>
-      <pubDate>Tue, 21 Apr 2026 23:52:36 GMT</pubDate>
-      <guid isPermaLink="false">afd9236afc1c</guid>
-      <source url="https://www.bbc.com/news/articles/c0krl571l67o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Meta will record employees’ keystrokes and use it to train its AI models</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/329fbd156d8c</link>
-      <description>Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.</description>
-      <pubDate>Tue, 21 Apr 2026 23:45:21 GMT</pubDate>
-      <guid isPermaLink="false">329fbd156d8c</guid>
-      <source url="https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/">TechCrunch</source>
-    </item>
-    <item>
-      <title>I was left with an £8,000 vet bill when my insurer cancelled my pet policy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d9c2aa9123c7</link>
-      <description>Thousands of people have got in touch with BBC Your Voice over concerns about rising pet insurance costs and poor cover.</description>
-      <pubDate>Tue, 21 Apr 2026 23:38:38 GMT</pubDate>
-      <guid isPermaLink="false">d9c2aa9123c7</guid>
-      <source url="https://www.bbc.com/news/articles/cn4vkw1lrz0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b9fd3007412f</link>
-      <description>Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.</description>
-      <pubDate>Tue, 21 Apr 2026 23:26:45 GMT</pubDate>
-      <guid isPermaLink="false">b9fd3007412f</guid>
-      <source url="https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Ideal conditions to see peak of Lyrid meteor shower in UK</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7730ad786ad9</link>
-      <description>The Lyrid meteor shower is the oldest recorded and Wednesday brings near perfect weather conditions to see them as they peak. Simon King explains.</description>
-      <pubDate>Tue, 21 Apr 2026 23:04:07 GMT</pubDate>
-      <guid isPermaLink="false">7730ad786ad9</guid>
-      <source url="https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>UK gaming icon Peter Molyneux on AI, his final creation and a changing industry</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef9c790d2fa2</link>
-      <description>The creator of iconic series such as Fable says Masters of Albion will be the last game he makes.</description>
-      <pubDate>Tue, 21 Apr 2026 23:00:24 GMT</pubDate>
-      <guid isPermaLink="false">ef9c790d2fa2</guid>
-      <source url="https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Bird flu vaccine trial against potential pandemic strain begins</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d4443381ee09</link>
-      <description>The jab targets the H5N1 flu strain which has caused devastating infections in bird populations worldwide, but has yet to spread between humans.</description>
-      <pubDate>Tue, 21 Apr 2026 23:00:08 GMT</pubDate>
-      <guid isPermaLink="false">d4443381ee09</guid>
-      <source url="https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>SpaceX is working with Cursor and has an option to buy the startup for $60B</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6a8a9a70779d</link>
-      <description>The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.</description>
-      <pubDate>Tue, 21 Apr 2026 22:58:22 GMT</pubDate>
-      <guid isPermaLink="false">6a8a9a70779d</guid>
-      <source url="https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Meta to track workers&apos; clicks and keystrokes to train AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2e6852df1661</link>
-      <description>The firm will take data from the way employees work for its artificial intelligence models.</description>
-      <pubDate>Tue, 21 Apr 2026 22:47:56 GMT</pubDate>
-      <guid isPermaLink="false">2e6852df1661</guid>
-      <source url="https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
