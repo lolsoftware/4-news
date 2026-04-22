@@ -1,0 +1,13 @@
+{
+  "id": "ee7668742e71",
+  "title": "France confirms data breach at government agency that manages citizens’ IDs",
+  "originalTitle": "France confirms data breach at government agency that manages citizens’ IDs",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+  "publishedAt": "2026-04-22T19:34:41.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-04-22T12:34:41-07:00\">12:34 PM PDT · April 22, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">The French government agency that handles the issuing and management of citizens’ identity documents, including national IDs, passports, and immigration documents, confirmed Wednesday that it experienced a data breach.</p>\n\n<p>In an <a href=\"https://ants.gouv.fr/toute-l-actualite/incident-de-securite-relatif-au-portail-antsgouvfr\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">announcement</a>, the Agence Nationale des Titres Sécurisés (ANTS) said the data stolen in the breach could include full names, dates and places of birth, mailing and email addresses, and phone numbers on an undisclosed number of citizens. ANTS said the investigation to determine how the breach happened and its impact is ongoing, and people whose data was affected are being notified.&nbsp;</p> <p>ANTS, which said it detected the attack on April 15, did not specify how many people were affected by the breach. But some reporting suggests millions may have had some of their personal information stolen.&nbsp;</p>\n\n<p><a href=\"https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">According to Bleeping Computer</a>, a hacker has advertised the stolen data on a hacking forum, claiming to have a database with 19 million records. The hacker’s forum post referenced the same kind of stolen information as mentioned in ANTS’ announcement and was published before ANTS publicly disclosed the breach on April 20.</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Security</h2>\n</p> </div></div>",
+  "image": "images/fdfb07f946ad.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

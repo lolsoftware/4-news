@@ -1,0 +1,13 @@
+{
+  "id": "f3d7ee459a14",
+  "title": "Anthropic tested removing Claude Code from the Pro plan",
+  "originalTitle": "Anthropic tested removing Claude Code from the Pro plan",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+  "publishedAt": "2026-04-22T18:34:16.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Anthropic caused a stir among developers with what appeared to be a surprise change to its pricing plan: The company signaled that Claude Code, the popular agentic development tool, would no longer be available to subscribers on the $20-per-month Pro plan.</p>\n<p>Users took to <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1srzhd7/psa_claude_pro_no_longer_lists_claude_code_as_an/\">Reddit</a> and <a href=\"https://x.com/TheGeorgePu/status/2046705634331025855\">X</a> to point out that Anthropic’s pricing page for Claude explicitly showed Claude Code as not supported in the Pro plan. (It remained in the $100/month+ Max plan.) New users signing up for Pro subscriptions were unable to access Claude Code. Meanwhile, existing subscribers saw no interruption.</p>\n<p>After speculation and frustration spread, Anthropic’s head of growth, Amol Avasare, <a href=\"https://x.com/TheAmolAvasare/status/2046724659039932830\">took to social media to clarify</a> that this was a “small test on ~2% of new prosumer signups.” As for the reasoning, he explained:</p>\n<blockquote><p>When we launched Max a year ago, it didn’t include Claude Code, Cowork didn’t exist, and agents that run for hours weren’t a thing. Max was designed for heavy chat usage, that’s it. Since then, we bundled Claude Code into Max and it took off after Opus 4. Cowork landed. Long-running async agents are now everyday workflows. The way people actually use a Claude subscription has changed fundamentally. Engagement per subscriber is way up.</p>\n<p>We’ve made small adjustments along the way (weekly caps, tighter limits at peak), but usage has changed a lot and our current plans weren’t built for this. So we’re looking at different options to keep delivering a great experience for users.</p></blockquote>\n<p>Some users remained upset, noting that it was strange and confusing that Anthropic ran a trial on just 2 percent of new sign-ups yet updated its public-facing documentation to reflect that the change was universal. Before long, the pricing page was updated to again show that Claude Code is offered as part of the Pro plan.</p> </div></div>",
+  "image": "images/3c3290fa4216.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
