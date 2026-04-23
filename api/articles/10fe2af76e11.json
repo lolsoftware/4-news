@@ -1,0 +1,13 @@
+{
+  "id": "10fe2af76e11",
+  "title": "Bluesky now supports better-quality photos",
+  "originalTitle": "Bluesky now supports better-quality photos",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
+  "publishedAt": "2026-04-23T16:41:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-04-23T09:41:14-07:00\">9:41 AM PDT · April 23, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Bluesky is beefing up its social network as a better place to post photos. Late Wednesday, the company <a href=\"https://bsky.app/profile/bsky.app/post/3mk4lzkrnk22d\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">announced</a> a new version of its app (version 1.121), which boosts the quality of images in posts both in terms of upload size and resolution.</p>\n\n<p>Before, Bluesky only supported photo uploads of 1MB or less. Now, that limit has doubled to 2MB. In addition, photos will render at up to 4000px, instead of 2000x, as before.</p> <p>In addition, the company replaced its old image grid with a swipeable carousel that can handle mixed aspect ratios without cropping. (Although early feedback from some Bluesky users indicates that they would prefer the choice between posting as a grid or carousel.)</p>\n\n<p>The changes could make Bluesky’s app more competitive with other social networks, like X or Meta’s Threads. </p>\n\n<p>The latter became well known after its launch as a showcase for photos, thanks to its support for a variety of aspect ratios and its carousel, which offered clever ways to split up larger photos for viewing in this way. In fact, it even inspired a <a href=\"https://techcrunch.com/2023/08/16/photo-layout-app-series-makes-it-easier-to-post-your-panos-to-threads/\">developer to create a standalone app</a> to help users post their panoramic photos to Threads. (Threads still <a href=\"https://www.outfy.com/blog/threads-image-and-video-size-guide\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">supports</a> a larger maximum image size, though it isn’t published in Threads’ documentation.)</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Social</h2>\n</p> </div></div>",
+  "image": "images/b2841805fa5f.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
