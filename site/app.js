@@ -1,6 +1,6 @@
 const API_BASE = 'api';
 const CACHE_KEY = 'news-articles';
-const APP_VERSION = 'v6';
+const APP_VERSION = 'v7';
 
 let articlesData = null;
 let savedScrollY = 0;
@@ -186,11 +186,45 @@ async function renderArticle(id) {
       </div>
       <div class="article-detail-content">${article.content}</div>
       <a class="article-source-link" href="${article.url}" target="_blank" rel="noopener">Read original &rarr;</a>
+      <button class="article-share-btn" type="button">Udostępnij</button>
     </div>
   `;
 
+  content.querySelector('.article-share-btn').onclick = () => shareArticle(article);
+
   // Scroll to top
   window.scrollTo(0, 0);
+}
+
+function pwaArticleUrl(id) {
+  return `${location.origin}${location.pathname}#/article/${id}`;
+}
+
+async function shareArticle(article) {
+  const url = pwaArticleUrl(article.id);
+  const shareData = {
+    title: article.title,
+    text: article.title,
+    url,
+  };
+  if (navigator.share) {
+    try { await navigator.share(shareData); } catch { /* user cancelled */ }
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    showToast('Skopiowano link');
+  } catch {
+    showToast('Nie udało się skopiować');
+  }
+}
+
+function showToast(msg) {
+  const el = document.createElement('div');
+  el.className = 'toast';
+  el.textContent = msg;
+  document.body.appendChild(el);
+  setTimeout(() => el.remove(), 1800);
 }
 
 function escapeHtml(str) {
