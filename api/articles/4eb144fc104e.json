@@ -1,0 +1,13 @@
+{
+  "id": "4eb144fc104e",
+  "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
+  "originalTitle": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2604.18799",
+  "publishedAt": "2026-04-24T14:01:43.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2604.18799\">View PDF</a></p><blockquote> <span>Abstract:</span>Transient, star-like point sources that appear and vanish over short timescales are described in astronomical images prior to launch of Sputnik. We have reported that transient numbers diminish significantly in Earth's shadow (shadow deficit) and are more likely within (plus/minus) one day of nuclear testing (nuclear window). These findings remain debated with some arguing that transients identified via existing automated pipelines are simply plate defects. Therefore, we use machine learning (ML) to enhance transient identification accuracy and validate the phenomenon. The model was trained against 250 transient image pairs taken 30 minutes apart that were classified as real versus plate defect by expert visual review; the model demonstrated good discrimination (out-of-fold AUC$=$0.81; sensitivity$=$0.71, specificity$=$0.71). After deployment in a dataset of 107,875 previously-identified transients, the model assigned each a probability of being real. After controlling for ML-identified artifacts, transient counts were significantly elevated for dates within a nuclear window (p$=$.024); transients with the highest probability of being real were more likely to occur within a nuclear window (p$&lt;$.0001). The shadow deficit was significant (p$&lt;$.0001) and largest in the highest probability transients relative to lower probability transients (p$=$.003). Results strongly support existence of an unrecognized population of transient objects in historical astronomical plates warranting further study. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Alina Streblyanska [<a href=\"https://arxiv.org/show-email/8f90ed5e/2604.18799\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/2604.18799v1\" rel=\"nofollow\">[v1]</a></strong> Mon, 20 Apr 2026 20:06:47 UTC (600 KB)<br> <strong>[v2]</strong> Wed, 22 Apr 2026 15:59:06 UTC (682 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
