@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:05:01 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Koktajl pestycydów i metali ciężkich. Polacy wciąż się zajadają</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ff4d07e2b80a</link>
+      <description>Ryby uchodzą za jeden z najzdrowszych elementów diety, ale nie każdy gatunek będzie miał korzystny wpływ na organizm. Okazuje się, że niektóre ryby są szczególnie narażone na zanieczyszczenie niebezpiecznymi toksynami.</description>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ff4d07e2b80a</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Koktajl-pestycydow-i-metali-ciezkich-Polacy-wciaz-sie-zajadaja,283207,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Wilno mówi „nie” skrajnej prawicy. Mer blokuje wizytę Grzegorza Brauna</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/05bff2f6190f</link>
+      <description>Burmistrz Wilna Valdas Benkunskas oświadczył w piątek, że stolica Litwy sprzeciwia się planowanej wizycie Grzegorza Brauna i innych członków skrajnie prawicowej partii Konfederacja Korony Polskiej.</description>
+      <pubDate>Fri, 24 Apr 2026 11:21:00 GMT</pubDate>
+      <guid isPermaLink="false">05bff2f6190f</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wilno-mowi-nie-skrajnej-prawicy-Mer-blokuje-wizyte-Grzegorza-Brauna-9122392.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
     <item>
       <title>Pili 350 ml przez tydzień. Cukier spadł, spalanie tłuszczu przyspieszyło</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6a91215b280f</link>
@@ -24,12 +40,52 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/4-lata-intensywnych-badan-potwierdza-juz-20-g-dziennie-stluszcza-watrobe,283560,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Developer stworzył darmową aplikację BunnyBaby do usypiania dzieci bez reklam</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ceac4388f25d</link>
+      <description>BunnyBaby - aplikacja z bajkami do snu, , z zestawem funkcji wspierających usypianie dzieci, a przy tym jest darmowa i pozbawiona reklam.</description>
+      <pubDate>Fri, 24 Apr 2026 11:00:04 GMT</pubDate>
+      <guid isPermaLink="false">ceac4388f25d</guid>
+      <source url="https://antyweb.pl/bunnybaby-aplikacja-z-bajkami-do-snu">Antyweb</source>
+    </item>
+    <item>
+      <title>Polska zbrojeniowym liderem. Eurostat potwierdza rekordowe wydatki </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/149ea01c9b07</link>
+      <description>Polska przeznaczyła w 2025 r. 1,6 proc. PKB na wydatki obronne - podał Eurostat, szacując dane wg. metodologii COFOG.</description>
+      <pubDate>Fri, 24 Apr 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="false">149ea01c9b07</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Polska-zbrojeniowym-liderem-Eurostat-potwierdza-rekordowe-wydatki-9122376.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Francja i Niemcy nie rezygnują z FCAS. To będzie coś więcej niż myśliwiec</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba6a4ba134ee</link>
+      <description>Czy Europa jest gotowa na rewolucję w powietrzu? Program FCAS, czyli Future Combat Air System, od miesięcy wzbudza emocje i pytania o przyszłość europejskiego lotnictwa wojskowego. Prezydent Francji Emmanuel Macron stanowczo zaprzecza pogłoskom o upadku projektu. Co tak naprawdę dzieje się za kulisami najambitniejszego programu zbrojeniowego Starego Kontynentu? FCAS może zmienić nie tylko myślenie o myśliwcach, ale i o całej wojnie w powietrzu.</description>
+      <pubDate>Fri, 24 Apr 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="false">ba6a4ba134ee</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-francja-i-niemcy-nie-rezygnuja-z-fcas-to-bedzie-cos-wiecej-n,nId,8078888">RMF24</source>
+    </item>
+    <item>
       <title>Popularny ser może wywołać sepsę. Nie jedz pod żadnym pozorem</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ce716114b78a</link>
       <description>Alarm dla konsumentów – skażenie groźną bakterią obejmuje już wszystkie partie popularnego sera. Główny Inspektorat Sanitarny rozszerza ostrzeżenie i apeluje o pilne sprawdzenie produktów w lodówkach. W grę wchodzi Listeria monocytogenes, która może być szczególnie niebezpieczna dla zdrowia.</description>
       <pubDate>Fri, 24 Apr 2026 10:49:00 GMT</pubDate>
       <guid isPermaLink="false">ce716114b78a</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Popularny-ser-moze-wywolac-sepse-Nie-jedz-pod-zadnym-pozorem,283594,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Polscy badacze nie dotarli do bazy Hornsund na Spitsbergenie po raz pierwszy od dekady</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/adf5098dcac9</link>
+      <description>Badacze z Instytutu Geofizyki PAN i Uniwersytetu Śląskiego mieli dotrzeć do polskiej bazy Hornsund na Spitsbergenie. Jednak pierwszy raz od dekad im się to nie udało, a w powód aż trudno uwierzyć.</description>
+      <pubDate>Fri, 24 Apr 2026 10:45:20 GMT</pubDate>
+      <guid isPermaLink="false">adf5098dcac9</guid>
+      <source url="https://antyweb.pl/polscy-badacze-nie-dotarli-do-stacji-czegos-takiego-jeszcze-nie-bylo">Antyweb</source>
+    </item>
+    <item>
+      <title>Afera Zondacrypto na szczytach władzy. Żurek: Prezydent wiedział o rosyjskim śladzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/035fea2e60ea</link>
+      <description>Prezydent Karol Nawrocki ma pełna wiedzę o sprawie Zondacrypto i pełen wgląd w dokumenty służb; dlatego dziwne, że po raz kolejny zawetował ustawę o rynku kryptoaktywów - powiedział w piątek szef MS, prokurator generalny Waldemar Żurek. Minister potwierdził, że ws. Zondacrypto „jest rosyjski ślad”.</description>
+      <pubDate>Fri, 24 Apr 2026 10:44:00 GMT</pubDate>
+      <guid isPermaLink="false">035fea2e60ea</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Afera-Zondacrypto-na-szczytach-wladzy-Zurek-Prezydent-wiedzial-o-rosyjskim-sladzie-9122370.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>Obowiązkowe badania psychiatryczne dla rządzących. Propozycja zmian powróciła</title>
@@ -40,12 +96,172 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Obowiazkowe-badania-psychiatryczne-dla-rzadzacych-Propozycja-zmian-powrocila,283610,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Czekali na ten moment ponad ćwierć wieku. Niesamowity powrót Intela na szczyt</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/525a72a34328</link>
+      <description>Piątkowa sesja na Wall Street może przynieść historyczne rozstrzygnięcie dla akcjonariuszy spółki Intel. Po publikacji raportu za pierwszy kwartał 2026 roku, notowania giganta z Santa Clara w handlu pozasesyjnym rosły o blisko 25 procent do ponad 80 dolarów za akcję. Jeśli wzrosty utrzymają się na piątkowej sesji, pobity zostanie rekordu wszech czasów Intela z czasu bańki dotcomów. Po jej pęknięciu na rynku jest jeszcze wiele znanych firm, których kursy nie pobiły dawnych rekordów.</description>
+      <pubDate>Fri, 24 Apr 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="false">525a72a34328</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Intel-wraca-na-szczyt-z-banki-dotcom-Kto-jeszcze-czeka-tak-dlugo-na-odrobienie-strat-9122359.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Polska gospodarzem wielkiej sportowej imprezy. &quot;Historyczna decyzja&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/58a962804a9b</link>
+      <description>Stadion Śląski w Chorzowie będzie gospodarzem mistrzostw Europy w lekkoatletyce. Impreza odbędzie się w czerwcu 2028 roku. Po raz pierwszy Polska będzie gościła imprezę tej rangi.</description>
+      <pubDate>Fri, 24 Apr 2026 10:34:36 GMT</pubDate>
+      <guid isPermaLink="false">58a962804a9b</guid>
+      <source url="https://www.rmf24.pl/sport/lekkoatletyka/news-polska-gospodarzem-wielkiej-sportowej-imprezy-historyczna-de,nId,8078885">RMF24</source>
+    </item>
+    <item>
+      <title>Co zamiast cieśniny Ormuz? Gorączkowo szukają alternatywnych tras</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ea7bcbff226a</link>
+      <description>Cieśnina Ormuz od lat uznawana jest za najważniejszy punkt tranzytowy ropy i gazu na świecie. Ostatnie wydarzenia związane z konfliktem amerykańsko-irańskim spowodowały jednak poważne zakłócenia w żegludze przez ten strategiczny szlak. W obliczu największego od dekad kryzysu energetycznego, państwa Bliskiego Wschodu oraz światowe rynki energii coraz uważniej przyglądają się alternatywnym trasom eksportu surowców, które pozwoliłyby ominąć cieśninę Ormuz. Jakie są możliwości i ograniczenia tych rozwiązań?</description>
+      <pubDate>Fri, 24 Apr 2026 10:34:04 GMT</pubDate>
+      <guid isPermaLink="false">ea7bcbff226a</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-co-zamiast-ciesniny-ormuz-goraczkowo-szukaja-alternatywnych-,nId,8078884">RMF24</source>
+    </item>
+    <item>
+      <title>Xbox przywrócił stare logo, reagując na rozczarowanie fanów marką</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a64d61847e04</link>
+      <description>Mała zmiana, wielkie konsekwencje – Xbox zmienił logo, przywracając wiarę w markę, która jeszcze do niedawna szorowała po dnie.</description>
+      <pubDate>Fri, 24 Apr 2026 10:30:04 GMT</pubDate>
+      <guid isPermaLink="false">a64d61847e04</guid>
+      <source url="https://antyweb.pl/jeden-szczegol-i-gracze-powariowali-sila-nostalgii-jest-niesamowita">Antyweb</source>
+    </item>
+    <item>
+      <title>Co Tusk uzgodnił z szefową KE ws. SAFE? Ustalenia RMF FM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c2144a202777</link>
+      <description>Wiemy, co ustalono podczas rozmowy premiera Donalda Tuska z szefową Komisji Europejskiej w sprawie SAFE. Wyjaśniono wątpliwości KE co do roli BGK, natomiast nie ma zgody Brukseli na przedłużenie terminu na kontrakty indywidualne. Nie ma jeszcze oficjalnej daty podpisania umowy pożyczkowej SAFE otwierającej linię kredytową na 43,7 mld euro na dozbrojenie. Tusk zapewnił, że nastąpi to &quot;niebawem&quot;.</description>
+      <pubDate>Fri, 24 Apr 2026 10:25:21 GMT</pubDate>
+      <guid isPermaLink="false">c2144a202777</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-co-tusk-uzgodnil-z-szefowa-ke-ws-safe-ustalenia-rmf-fm,nId,8078879">RMF24</source>
+    </item>
+    <item>
+      <title>Benzyna poniżej 6 zł/, a ON w „szatańskiej” cenie. Oto średnie ceny paliw z tego tygodnia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/814a8a457b3e</link>
+      <description>Benzyna Pb95 w skali kraju kosztuje już wyraźnie mniej niż 6 zł/l. Bardzo mocno spadły ceny oleju napędowego, dzięki czemu ze stacyjnych pylonów zniknęły liczby z siódemką z przodu.</description>
+      <pubDate>Fri, 24 Apr 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="false">814a8a457b3e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ceny-paliw-24-kwietnia-Benzyna-ponizej-6-zl-a-ON-w-szatanskiej-cenie-9122351.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Trump nie wytrzymał. Złośliwie skomentował słowa księcia Harry’ego o Ukrainie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e75a9ff9fd8</link>
+      <description>Donald Trump ostro zareagował na słowa księcia Harry’ego, który podczas wizyty w Kijowie zaapelował do Stanów Zjednoczonych o większe zaangażowanie w konflikt w Ukrainie. Były prezydent USA podkreślił, że książę nie reprezentuje stanowiska Wielkiej Brytanii, a sam czuje się bardziej uprawniony do wypowiadania się w jej imieniu. Wymiana zdań ma miejsce na kilka dni przed oficjalną wizytą króla Karola III w USA. Tę wymianę zdań relacjonują amerykańskie media.</description>
+      <pubDate>Fri, 24 Apr 2026 10:17:21 GMT</pubDate>
+      <guid isPermaLink="false">6e75a9ff9fd8</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-trump-nie-wytrzymal-zlosliwie-skomentowal-slowa-ksiecia-harr,nId,8078881">RMF24</source>
+    </item>
+    <item>
+      <title>Nato says &apos;no provision&apos; to expel members after report US could seek to suspend Spain</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd784a9dcf9b</link>
+      <description>An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.</description>
+      <pubDate>Fri, 24 Apr 2026 10:14:37 GMT</pubDate>
+      <guid isPermaLink="false">bd784a9dcf9b</guid>
+      <source url="https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Nowe ceny paliw na weekend. Złe wieści dla kierowców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aca02a6cbe13</link>
+      <description>Ile zapłacimy za paliwo w weekend? Minister energii ogłosił nowe maksymalne stawki na stacjach benzynowych obowiązujące od soboty do poniedziałku. Niestety wieści nie są optymistyczne.</description>
+      <pubDate>Fri, 24 Apr 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="false">aca02a6cbe13</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-nowe-ceny-paliw-na-weekend-zle-wiesci-dla-kierowcow,nId,8078874">RMF24</source>
+    </item>
+    <item>
+      <title>Biobank data incident caused by &apos;a few bad apples&apos;, boss says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55336c602fc6</link>
+      <description>Professor Sir Rory Collins said he was &quot;angry&quot; and &quot;upset&quot; about the incident, as both the bank&apos;s boss and a participant.</description>
+      <pubDate>Fri, 24 Apr 2026 10:00:42 GMT</pubDate>
+      <guid isPermaLink="false">55336c602fc6</guid>
+      <source url="https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>2-latka uciekła z imprezy alkoholowej do sąsiadów. Matka miała prawie 2 promile</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ce31b920f3e1</link>
+      <description>2-letnia  dziewczynka z Łomży (woj. podlaskie) uciekła z mieszkania, w którym trwała libacja alkoholowa. Przerażone dziecko zapukało do drzwi sąsiadów, szukając schronienia. Jak się okazało, matka dziewczynki miała blisko 2 promile alkoholu w organizmie. Sprawą zajęła się policja, a dziecko trafiło do szpitala.</description>
+      <pubDate>Fri, 24 Apr 2026 09:57:26 GMT</pubDate>
+      <guid isPermaLink="false">ce31b920f3e1</guid>
+      <source url="https://www.rmf24.pl/regiony/bialystok/news-2-latka-uciekla-z-imprezy-alkoholowej-do-sasiadow-matka-mial,nId,8078872">RMF24</source>
+    </item>
+    <item>
+      <title>Prezydent nie dotrzymał terminu. Ciąg dalszy sporu o sędziów TK</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dafaca42e936</link>
+      <description>Prezydent Nawrocki nie dotrzymał terminu wyznaczonego na przedstawienie Trybunałowi Konstytucyjnemu stanowiska w sprawie przepisów o wyborze jego sędziów. Co więcej, w zasadzie odmówił udziału w postępowaniu, w którym Trybunał wyznaczył już termin kolejnej rozprawy – informuje dziennikarz RMF FM Tomasz Skory.</description>
+      <pubDate>Fri, 24 Apr 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="false">dafaca42e936</guid>
+      <source url="https://www.rmf24.pl/polityka/news-prezydent-nie-dotrzymal-terminu-ciag-dalszy-sporu-o-sedziow-,nId,8078869">RMF24</source>
+    </item>
+    <item>
+      <title>Watch: Powerful tornadoes barrel through northern Oklahoma</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/10f418f2f8da</link>
+      <description>There was significant damage in Enid, a city of about 50,000 people, according to local reports.</description>
+      <pubDate>Fri, 24 Apr 2026 09:49:40 GMT</pubDate>
+      <guid isPermaLink="false">10f418f2f8da</guid>
+      <source url="https://www.bbc.com/news/videos/c30re0j9q7jo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Halo powróci jako tradycyjna strzelanka, rezygnując z formatu battle royale</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/99bc10970351</link>
+      <description>Halo, legenda strzelanek powróci po latach nieobecności na rynku. Najpierw twórcy robili podchody pod battle royale, ale ostatecznie projekt został porzucony. Teraz jednak pojawiają się plotki o nowym trybie.</description>
+      <pubDate>Fri, 24 Apr 2026 09:45:38 GMT</pubDate>
+      <guid isPermaLink="false">99bc10970351</guid>
+      <source url="https://antyweb.pl/halo-powraca-ale-juz-nie-jako-battle-royale">Antyweb</source>
+    </item>
+    <item>
+      <title>Następca Łukasza Litewki. To on ma największe szanse na mandat po zmarłym pośle</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dbca7bb5da87</link>
+      <description>Tragiczna śmierć Łukasza Litewki oznacza wygaśnięcie jego mandatu poselskiego. Zgodnie z obowiązującym Kodeksem wyborczym w takiej sytuacji nie przeprowadza się wyborów uzupełniających - mandat obejmuje kolejna osoba z tej samej listy wyborczej, która uzyskała najwyższy wynik spośród kandydatów nieposiadających mandatu.</description>
+      <pubDate>Fri, 24 Apr 2026 09:39:40 GMT</pubDate>
+      <guid isPermaLink="false">dbca7bb5da87</guid>
+      <source url="https://www.rmf24.pl/polityka/news-nastepca-lukasza-litewki-to-on-ma-najwieksze-szanse-na-manda,nId,8078857">RMF24</source>
+    </item>
+    <item>
+      <title>&apos;A dangerous standoff&apos; as Strait of Hormuz blockade continues</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6f697458c7b6</link>
+      <description>The US and Iran&apos;s rival blockades of the Strait of Hormuz have become a &quot;test of wills&quot;, says Lyse Doucet.</description>
+      <pubDate>Fri, 24 Apr 2026 09:26:14 GMT</pubDate>
+      <guid isPermaLink="false">6f697458c7b6</guid>
+      <source url="https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Stanowcza reakcja prokuratury w sprawie byłego senatora PiS</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ed19f101ea5a</link>
+      <description>Prokuratura złożyła zażalenie na decyzję Sądu Rejonowego w Kościerzynie, który ze względu na stan zdrowia umorzył postępowanie wykonawcze wobec byłego senatora PiS Waldemara Bonkowskiego. Polityk, skazany prawomocnie za znęcanie się nad psem, miał po wyjściu z więzienia wykonywać prace społeczne.</description>
+      <pubDate>Fri, 24 Apr 2026 09:24:27 GMT</pubDate>
+      <guid isPermaLink="false">ed19f101ea5a</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-stanowcza-reakcja-prokuratury-w-sprawie-bylego-senatora-pis,nId,8078858">RMF24</source>
+    </item>
+    <item>
+      <title>Tajny mail Pentagonu. Będą kary dla krajów, które nie wsparły USA w wojnie z Iranem?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f9ce2cfcf53c</link>
+      <description>W wewnętrznym mailu Pentagonu przedstawiono opcje &quot;ukarania&quot; sojuszników z NATO, którzy - jego zdaniem - nie wsparli działań USA w wojnie z Iranem - poinformował Reuters. Owe opcje mają obejmować na przykład zawieszenie członkostwa Hiszpanii w Sojuszu, rozpatrzenie stanowiska USA w sprawie roszczeń Wielkiej Brytanii do Falklandów czy blokowanie wysokich stanowisk w NATO dla przedstawicieli tych krajów.</description>
+      <pubDate>Fri, 24 Apr 2026 09:24:02 GMT</pubDate>
+      <guid isPermaLink="false">f9ce2cfcf53c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-tajny-mail-pentagonu-beda-kary-dla-krajow-ktore-nie-wsparly-,nId,8078851">RMF24</source>
+    </item>
+    <item>
+      <title>How Lineker and Neville became rival media moguls</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/43e13a7a2e8e</link>
+      <description>BBC sports editor Dan Roan examines how Gary Lineker and Gary Neville became two of the biggest players in a rapidly changing media industry.</description>
+      <pubDate>Fri, 24 Apr 2026 09:21:26 GMT</pubDate>
+      <guid isPermaLink="false">43e13a7a2e8e</guid>
+      <source url="https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Amerykanie zapłacą fortunę za tę informację</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e28dabd609e6</link>
       <description>Departament Stanu USA wyznaczył nagrodę w wysokości 10 milionów dolarów za informacje prowadzące do ujęcia Abu Ala al-Walai, przywódcy irackiej, proirańskiej grupy Kataib Said al-Szuhada. Zdaniem Amerykanów to jeden z najbardziej poszukiwanych terrorystów na Bliskim Wschodzie, a jego działalność od lat destabilizuje region.</description>
       <pubDate>Fri, 24 Apr 2026 09:20:03 GMT</pubDate>
       <guid isPermaLink="false">e28dabd609e6</guid>
       <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-amerykanie-zaplaca-fortune-za-te-informacje,nId,8078860">RMF24</source>
+    </item>
+    <item>
+      <title>S. Korea police arrest man over AI image of runaway wolf that misled authorities</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b6955fce0788</link>
+      <description>The widely circulated image had prompted authorities to move their search operation.</description>
+      <pubDate>Fri, 24 Apr 2026 09:17:57 GMT</pubDate>
+      <guid isPermaLink="false">b6955fce0788</guid>
+      <source url="https://www.bbc.com/news/articles/c4gx1n0dl9no">Hacker News</source>
     </item>
     <item>
       <title>Żałoba w Sosnowcu. Opuszczono flagi. Można się wpisać w specjalnej księdze</title>
@@ -190,222 +406,6 @@
       <pubDate>Fri, 24 Apr 2026 08:28:47 GMT</pubDate>
       <guid isPermaLink="false">3a02aa49d282</guid>
       <source url="https://github.com/matz/spinel">Hacker News</source>
-    </item>
-    <item>
-      <title>Dane medyczne 500 tys. Brytyjczyków wystawiono na sprzedaż</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/94d78b66c821</link>
-      <description>Dane medyczne około 500 tysięcy mieszkańców Wielkiej Brytanii, którzy dobrowolnie wzięli udział w szeroko zakrojonych badaniach zdrowotnych, były wystawione na sprzedaż na chińskiej platformie e-commerce Alibaba - przekazał w czwartek brytyjski rząd.</description>
-      <pubDate>Fri, 24 Apr 2026 08:28:18 GMT</pubDate>
-      <guid isPermaLink="false">94d78b66c821</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/poufne-dane-zdrowotne-500-tysiecy-brytyjczykow-wystawione-na-chinskiej-platformie-alibaba-st9014487?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dar Młodzieży idzie na emeryturę. Polska zbuduje nowy superżaglowiec za miliony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/287f7aaccec3</link>
-      <description>Uniwersytet Morski w Gdyni ogłosił przetarg na budowę nowego statku szkolnego – trzymasztowego żaglowca, następcy „Daru Młodzieży”. Na pokładzie statku znajdzie się miejsce dla 169 osób, w tym 33 członków załogi oraz kadetów – podała uczelnia. Koszt budowy nowego statku to 350 mln zł.</description>
-      <pubDate>Fri, 24 Apr 2026 08:28:00 GMT</pubDate>
-      <guid isPermaLink="false">287f7aaccec3</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Dar-Mlodziezy-idzie-na-emeryture-Polska-zbuduje-nowy-superzaglowiec-za-miliony-9122274.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Przydacz rekomenduje uhonorowanie posła Litewki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e70f49280ddb</link>
-      <description>Z całym przekonaniem i otwartym sercem rekomendowałbym prezydentowi uhonorowanie zmarłego tragicznie posła Łukasza Litewki - oświadczył szef Biura Polityki Międzynarodowej Marcin Przydacz. Wspomniał działalność polityka Lewicy i dobro, które &quot;zostanie na długo z nami&quot;.</description>
-      <pubDate>Fri, 24 Apr 2026 08:24:56 GMT</pubDate>
-      <guid isPermaLink="false">e70f49280ddb</guid>
-      <source url="https://tvn24.pl/polska/lukasz-litewka-nie-zyje-marcin-przydacz-o-posmiertnym-uhonorowaniu-posla-st9014500?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Kaczyński wezwany do prokuratury. Ma zeznawać w sprawie dwóch wież</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/054b6aba876f</link>
-      <description>Jarosław Kaczyński został wezwany do prokuratury w charakterze świadka - przekazał tvn24.pl rzecznik Prokuratury Okręgowej w Warszawie Piotr Antoni Skiba. Ma zeznawać w sprawie &quot;dwóch wież&quot;. Informację jako pierwsze podało Radio ZET.</description>
-      <pubDate>Fri, 24 Apr 2026 08:20:39 GMT</pubDate>
-      <guid isPermaLink="false">054b6aba876f</guid>
-      <source url="https://tvn24.pl/polska/jaroslaw-kaczynski-wezwany-do-prokuratury-w-sprawie-dwoch-wiez-st9014498?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nowoczesna diagnostyka obrazowa w Narodowym Instytucie Onkologii w Krakowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/50cf34836e5c</link>
-      <description>Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – PIB, Oddział w Krakowie realizuje szeroki projekt modernizacji i doposażenia placówki w ramach Krajowego Planu Odbudowy i Zwiększania Odporności. Jego celem jest poprawa jakości, kompleksowości i efektywności świadczeń diagnostycznych i leczniczych w onkologii. Projekt obejmuje modernizację wybranych przestrzeni szpitalnych, rozwój zaplecza technicznego oraz zakup nowoczesnej aparatury medycznej, która realnie wzmacnia możliwości diagnostyczne i terapeutyczne Instytutu.</description>
-      <pubDate>Fri, 24 Apr 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="false">50cf34836e5c</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Nowoczesna-diagnostyka-obrazowa-w-Narodowym-Instytucie-Onkologii-w-Krakowie,283392,1013.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>ZUS: Pieniądze leżą i czekają. Miliony złotych, o których Polacy nie mają pojęcia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b0e4599d8e88</link>
-      <description>Setki milionów złotych czekają na wypłatę, ale niewielu uprawnionych po nie sięga. Jak informuje &quot;Dziennik Gazeta Prawna&quot;, aż 660 mln zł zgromadzonych na subkontach w Zakładzie Ubezpieczeń Społecznych pozostaje niewypłaconych po śmierci ubezpieczonych. Problemem nie jest brak prawa do pieniędzy, lecz brak wiedzy – tylko co piąta osoba uprawniona składa wniosek o ich wypłatę.</description>
-      <pubDate>Fri, 24 Apr 2026 08:15:00 GMT</pubDate>
-      <guid isPermaLink="false">b0e4599d8e88</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-Pieniadze-leza-i-czekaja-Miliony-zlotych-o-ktorych-Polacy-nie-maja-pojecia,283602,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Stunning 132 million-year-old dinosaur tracks are rewriting history</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5cd83fbb6b73</link>
-      <description>A long-standing mystery in southern Africa’s fossil record is beginning to unravel. After massive lava flows 182 million years ago seemed to erase evidence of dinosaurs in the region, scientists have now uncovered surprising new clues along the Western Cape coast. Dozens of dinosaur tracks, about 132 million years old, have been discovered in a tiny stretch of rock near Knysna—making them the youngest ever found in southern Africa.</description>
-      <pubDate>Fri, 24 Apr 2026 08:14:27 GMT</pubDate>
-      <guid isPermaLink="false">5cd83fbb6b73</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/04/260423031547.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Papież: błogosławienie par jednopłciowych może wywołać więcej rozłamu niż jedności</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c8408c25fe36</link>
-      <description>Papież Leon XIV zasygnalizował, że nie zamierza wykraczać poza starania swojego poprzednika Franciszka, aby udzielać błogosławieństwa parom jednopłciowym, twierdząc, że podjęcie nowych kroków może spowodować rozłam w katolicyzmie.</description>
-      <pubDate>Fri, 24 Apr 2026 08:12:51 GMT</pubDate>
-      <guid isPermaLink="false">c8408c25fe36</guid>
-      <source url="https://tvn24.pl/swiat/papiez-leon-xiv-blogoslawienie-par-jednoplciowych-moze-wywolac-wiecej-rozlamu-niz-jednosci-st9014311?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>DeepSeek pokazał nowy model. Chiński sektor chipowy mocno w górę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b827efc0ec80</link>
-      <description>W świecie sztucznej inteligencji, gdzie dotychczas karty rozdawali amerykańscy giganci z miliardowymi budżetami, doszło do kolejnego tąpnięcia. Chiński start-up DeepSeek zaprezentował swój najnowszy flagowy model – DeepSeek-v4. To wydarzenie to nie tylko kolejny krok w rozwoju technologii, ale przede wszystkim potężny sygnał dla rynków finansowych: era monopolu OpenAI i Google może dobiegać końca, a model biznesowy oparty na gigantycznych kosztach trenowania AI właśnie stanął pod znakiem zapytania.</description>
-      <pubDate>Fri, 24 Apr 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="false">b827efc0ec80</guid>
-      <source url="https://www.bankier.pl/wiadomosc/DeepSeek-pokazal-nowy-model-Chinski-sektor-chipowy-mocno-w-gore-9122248.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ile wynosi liczba ludności Polski? GUS podał najnowsze dane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/de10c8993f49</link>
-      <description>Główny Urząd Statystyczny podał najnowsze dane o ludności Polski. Na koniec I kwartału 2026 roku liczba ta spadła o 155 tys. rok do roku i wynosi 37,281 mln.</description>
-      <pubDate>Fri, 24 Apr 2026 08:05:44 GMT</pubDate>
-      <guid isPermaLink="false">de10c8993f49</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-ile-wynosi-liczba-ludnosci-polski-gus-podal-najnowsze-dane,nId,8078845">RMF24</source>
-    </item>
-    <item>
-      <title>AI zabiera pracę w Meta. Zuckerberg zwalnia tysiące, by dogonić Google</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1786cb067b96</link>
-      <description>Meta planuje w maju zrealizować następną falę masowych zwolnień. Zgodnie z treścią wewnętrznego dokumentu, do którego dotarł Bloomberg i co zostało oficjalnie przyznane przez rzecznika firmy w wywiadzie z NPR, spółka zredukuje personel o 10 proc., co przełoży się na odejście blisko 8 tys. pracowników. Równocześnie wycofa się z obsadzania 6 tys. wolnych stanowisk.</description>
-      <pubDate>Fri, 24 Apr 2026 08:05:00 GMT</pubDate>
-      <guid isPermaLink="false">1786cb067b96</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Miliardy-na-AI-ciecia-w-kadrach-Meta-zwolni-co-dziesiatego-pracownika-9122230.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Tusk rozmawiał z von der Leyen. Oto czego chce od Polski Komisja Europejska</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b63c5fde26ac</link>
-      <description>&quot;Komisja Europejska chce, aby Polska wydała maksimum pieniędzy z pożyczki w ramach programu SAFE. Polska jest traktowana jako absolutnie najważniejszy element tego mechanizmu&quot; - powiedział dzisiaj premier Donald Tusk podczas spotkania z dziennikarzami na szczycie UE na Cyprze. &quot;Chcę obudzić tych, którzy żyją w złudzeniach. Rosja szykuje się do kolejnych aktów agresji&quot; - dodał.</description>
-      <pubDate>Fri, 24 Apr 2026 08:04:38 GMT</pubDate>
-      <guid isPermaLink="false">b63c5fde26ac</guid>
-      <source url="https://www.rmf24.pl/polityka/news-tusk-rozmawial-z-von-der-leyen-oto-czego-chce-od-polski-komi,nId,8078838">RMF24</source>
-    </item>
-    <item>
-      <title>Opowieści z 85 - nowy serial w świecie Stranger Things</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7fe17e5ebe82</link>
-      <description>To pierwszy serial w świecie Stranger Things po wielkim finale głównej serii. Jak wypadają &quot;Opowieści z &apos;85&quot;?</description>
-      <pubDate>Fri, 24 Apr 2026 08:00:21 GMT</pubDate>
-      <guid isPermaLink="false">7fe17e5ebe82</guid>
-      <source url="https://antyweb.pl/tego-nie-bylo-w-stranger-things-nowy-serial-mocno-namieszal">Antyweb</source>
-    </item>
-    <item>
-      <title>L&apos;Oréal liczy gigantyczne zyski. Europa pudruje nosek w cieniu kryzysów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/28d70b7b1e57</link>
-      <description>Zmęczona kryzysami i nieprzewidywalnym charakterem Trumpa Europa postanowiła przypudrować sobie nosek - branża kosmetyczna notuje rekordową sprzedaż. Jest to efekt szminki, kiedy to w niepewnym świecie konsumenci sięgają po drobne przyjemności, które mają poprawić im nastrój.</description>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">28d70b7b1e57</guid>
-      <source url="https://www.bankier.pl/wiadomosc/L-Oreal-liczy-gigantyczne-zyski-Europa-pudruje-nosek-w-cieniu-kryzysow-9121654.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Sąd umorzył karę byłemu senatorowi PiS. Prokuratura rozważa odwołanie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/865e900a6352</link>
-      <description>Sąd zdecydował, że były senator Waldemar Bonkowski, ze względu na stan zdrowia, nie będzie wykonywał prac społecznych. Dwa lata temu były polityk Prawa i Sprawiedliwości został skazany za znęcanie się nad psem ze szczególnym okrucieństwem - przywiązał zwierzę do haka holowniczego samochodu i ruszył, ciągnąc je po drodze. Całe zajście zostało nagrane przez innego kierowcę. Pies nie przeżył.</description>
-      <pubDate>Fri, 24 Apr 2026 07:59:44 GMT</pubDate>
-      <guid isPermaLink="false">865e900a6352</guid>
-      <source url="https://tvn24.pl/polska/sad-umorzyl-waldemarowi-bonkowskiemu-kare-byly-senator-pis-mial-pracowac-spolecznie-st9014300?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Apel policji w sprawie wypadku posła Litewki. Pierwsze informacje o ustaleniach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c640351deebc</link>
-      <description>Śląska Policja studzi nastroje w sprawie wypadku, w którym zginął poseł Litewka. Ostrzega przed dezinformacją i przekazuje pierwsze informacje związane z ustaleniami. Ma też ważną prośbę o pomoc.</description>
-      <pubDate>Fri, 24 Apr 2026 07:58:32 GMT</pubDate>
-      <guid isPermaLink="false">c640351deebc</guid>
-      <source url="https://tvn24.pl/katowice/apel-slaskiej-policji-w-sprawie-wypadku-posla-litewki-st9014497?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Burza wokół marszu dla Łukasza Litewki. &quot;Nie ma zgody&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4856cd1ba1f7</link>
-      <description>W najbliższą niedzielę w Warszawie ma się odbyć marsz poświęcony tragicznie zmarłemu posłowi Nowej Lewicy Łukaszowi Litewce. Organizuje go pozarządowy Dolnośląski Inspektorat Ochrony Zwierząt, którego działalność budzi kontrowersje. Posłowie Lewicy zapowiedzieli już, że nie wezmą udziału w marszu. &quot;Traktujemy to jako wykorzystywanie tragicznej śmierci naszego kolegi do promowania siebie. Nie ma zgody&quot; - napisała posłanka Anna Maria Żukowska na portalu X.</description>
-      <pubDate>Fri, 24 Apr 2026 07:54:19 GMT</pubDate>
-      <guid isPermaLink="false">4856cd1ba1f7</guid>
-      <source url="https://www.rmf24.pl/polityka/news-burza-wokol-marszu-dla-lukasza-litewki-nie-ma-zgody,nId,8078836">RMF24</source>
-    </item>
-    <item>
-      <title>We paid our builder £44k - then he had us arrested</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/25e678df1ad9</link>
-      <description>Victims tell how Steve Figg left their homes – and relationships – on the verge of collapse.</description>
-      <pubDate>Fri, 24 Apr 2026 07:53:22 GMT</pubDate>
-      <guid isPermaLink="false">25e678df1ad9</guid>
-      <source url="https://www.bbc.com/news/articles/cvg09n7gj3lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Kraj UE może uruchomić artykuł 42.7. Co to oznacza dla Polski?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/321c75b607b6</link>
-      <description>Państwa Unii Europejskiej szykują się na wypadek uruchomienia przez jeden z krajów członkowskich artykułu 42.7. &quot;UE nie może poprzestać wyłącznie na deklaracjach&quot; - powiedział podczas szczytu na Cyprze Donald Tusk. Czym jest artykuł 42.7 UE i do czego zobowiązuje?</description>
-      <pubDate>Fri, 24 Apr 2026 07:48:09 GMT</pubDate>
-      <guid isPermaLink="false">321c75b607b6</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-kraj-ue-moze-uruchomic-artykul-42-7-co-to-oznacza-dla-polski,nId,8078842">RMF24</source>
-    </item>
-    <item>
-      <title>Jakie jest bezrobocie w Polsce? GUS podał dane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/12b893520e34</link>
-      <description>Główny Urząd Statystyczny poinformował, że stopa bezrobocia w marcu wyniosła 6,1 proc. wobec 6,1 proc. miesiąc wcześniej.</description>
-      <pubDate>Fri, 24 Apr 2026 07:46:00 GMT</pubDate>
-      <guid isPermaLink="false">12b893520e34</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-jakie-jest-bezrobocie-w-polsce-gus-podal-dane,nId,8078844">RMF24</source>
-    </item>
-    <item>
-      <title>Android 17 przyniesie nowe możliwości dla smartfonów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66b7e172e9c4</link>
-      <description>Android 17 zbliża się wielkimi krokami, a wraz z aktualizacją może przyjść wsparcie dla narzędzi, których nie łączymy myślami z telefonami.</description>
-      <pubDate>Fri, 24 Apr 2026 07:45:17 GMT</pubDate>
-      <guid isPermaLink="false">66b7e172e9c4</guid>
-      <source url="https://antyweb.pl/nowa-wersja-androida-szykuje-duza-niespodzianke-te-nowosci-intryguja">Antyweb</source>
-    </item>
-    <item>
-      <title>Dobrowolne ubezpieczenie dla Ukraińców: NFZ żąda 17-18 tys. zł. Interweniuje RPO</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1a537c35c514</link>
-      <description>Rzecznik Praw Obywatelskich wystąpił do prezesa NFZ w sprawie ponoszenia tzw. opłaty dodatkowej przez obywateli Ukrainy, którzy chcą dobrowolnie ubezpieczyć się zdrowotnie. - Ma to być uzasadniane tym, że dana osoba nie była objęta ubezpieczeniem zdrowotnym w Polsce lub nie opłacała składek w ostatnich kilku latach – wyjaśnia RPO.</description>
-      <pubDate>Fri, 24 Apr 2026 07:40:00 GMT</pubDate>
-      <guid isPermaLink="false">1a537c35c514</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Dobrowolne-ubezpieczenie-dla-Ukraincow-NFZ-zada-17-18-tys-zl-Interweniuje-RPO,283598,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>NFZ żąda 17-18 tys. zł od Ukraińców. Interweniuje RPO</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e1e94d6e0d38</link>
-      <description>Rzecznik Praw Obywatelskich wystąpił do prezesa NFZ w sprawie ponoszenia tzw. opłaty dodatkowej przez obywateli Ukrainy, którzy chcą dobrowolnie ubezpieczyć się zdrowotnie. - Ma to być uzasadniane tym, że dana osoba nie była objęta ubezpieczeniem zdrowotnym w Polsce lub nie opłacała składek w ostatnich kilku latach – wyjaśnia RPO.</description>
-      <pubDate>Fri, 24 Apr 2026 07:40:00 GMT</pubDate>
-      <guid isPermaLink="false">e1e94d6e0d38</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/NFZ-zada-17-18-tys-zl-od-Ukraincow-Interweniuje-RPO,283598,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Huawei rozszerza system dla samochodów autonomicznych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d065185cb3cc</link>
-      <description>Huawei buduje imperium, które będzie mogło rzucić wyzwanie nawet największym graczom na rynku samochodów autonomicznych. Zamierzają w najbliższym czasie wydać nawet 45 miliardow złotych na rozwój systemów.</description>
-      <pubDate>Fri, 24 Apr 2026 07:30:59 GMT</pubDate>
-      <guid isPermaLink="false">d065185cb3cc</guid>
-      <source url="https://antyweb.pl/huawei-nauczy-samochody-jezdzic-juz-50-modeli-korzysta-z-ich-systemu">Antyweb</source>
-    </item>
-    <item>
-      <title>Composition Shouldn&apos;t be this Hard</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fa27f17e13eb</link>
-      <description>Fragmented systems are brittle. Coherent systems are special-purpose. We need a new, general-purpose model so we can build coherent, multi-domain applications.</description>
-      <pubDate>Fri, 24 Apr 2026 07:22:31 GMT</pubDate>
-      <guid isPermaLink="false">fa27f17e13eb</guid>
-      <source url="https://www.cambra.dev/blog/announcement/">Hacker News</source>
-    </item>
-    <item>
-      <title>Kosmiczny ewenement. Misja nowego teleskopu kosmicznego zacznie się przed czasem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4414378405e6</link>
-      <description>Duże misje kosmiczne zwykle mają opóźnienie. Problem ten szczególnie dotyka teleskopów kosmicznych. Teleskop Webba trafił w przestrzeń kosmiczną aż... 14 lat po zakładanym terminie. Hubble miał 5-letnie opóźnienie. Ukończenie prac przed terminem to ewenement. A z takim właśnie ewenementem będziemy mieli najprawdopodobniej w bieżącym roku. I to w przypadku bardzo ważnego urządzenia. Teleskop Kosmiczny Nancy Grace Roman miał trafić w przestrzeń kosmiczną do maja przyszłego roku. Jednak wszystko wskazuje na to, że można będzie go wystrzelić już za nieco ponad 4 miesiące, na początku września.</description>
-      <pubDate>Fri, 24 Apr 2026 07:12:53 GMT</pubDate>
-      <guid isPermaLink="false">4414378405e6</guid>
-      <source url="https://kopalniawiedzy.pl/Teleskop-Kosmiczny-Nancy-Grace-Roman,38593">KopalniaWiedzy.pl</source>
-    </item>
-    <item>
-      <title>PiS rusza w pogoń za KO? Jest najnowszy sondaż poparcia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac7c1fde99e4</link>
-      <description>Koalicjanci poza Sejmem, PiS nieco bliżej KO - tak wynika z najnowszego sondażu Instytutu Badań Pollster wykonanego dla &quot;Super Expressu&quot;.</description>
-      <pubDate>Fri, 24 Apr 2026 07:01:14 GMT</pubDate>
-      <guid isPermaLink="false">ac7c1fde99e4</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-pis-rusza-w-pogon-za-ko-jest-najnowszy-sondaz-poparcia,nId,8078834">RMF24</source>
     </item>
   </channel>
 </rss>
