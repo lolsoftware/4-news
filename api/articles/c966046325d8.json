@@ -1,0 +1,13 @@
+{
+  "id": "c966046325d8",
+  "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+  "originalTitle": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://getkloak.io/",
+  "publishedAt": "2026-04-25T19:03:01.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <div> <h3>Secure by Design</h3> <p> Secrets are replaced at the network edge. Your application code never sees real credentials, eliminating accidental exposure. </p> </div> <div> <h3>Zero Latency Impact</h3> <p> eBPF-powered traffic redirection happens in kernel space, adding negligible overhead to your requests. </p> </div> <div> <h3>Kubernetes Native</h3> <p> Works with standard Kubernetes Secrets. Add a label and Kloak handles the rest automatically. </p> </div> <div> <h3>Host Restrictions</h3> <p> Control which secrets can be used with which hosts. Prevent credential misuse with fine-grained access control. </p> </div> <div> <h3>Zero Code Changes</h3> <p> No SDK required. Works with any language or framework. Use the hash placeholder in your config. </p> </div> <div> <h3>Pure eBPF Integration</h3> <p> No bulky sidecars or complex CNI plugins. Kloak operates purely at the kernel level for maximum efficiency. </p> </div> <div> <h3>Open Source</h3> <p> Fully open source under the AGPL-3.0 License. Inspect the code, contribute, and build with confidence. </p> </div> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
