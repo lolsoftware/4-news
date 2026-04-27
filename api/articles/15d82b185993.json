@@ -1,0 +1,13 @@
+{
+  "id": "15d82b185993",
+  "title": "OpenAI ends its exclusive partnership with Microsoft",
+  "originalTitle": "OpenAI ends its exclusive partnership with Microsoft",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+  "publishedAt": "2026-04-27T20:10:11.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Since Microsoft <a href=\"https://www.hpcwire.com/2019/07/22/microsoft-investing-1b-in-openai-artificial-general-intelligence-rd/\">invested $1 billion in OpenAI back in 2019</a>, the exclusive partnership between the two firms has been one of the strongest and most consequential in the AI industry. Today, though, OpenAI and Microsoft <a href=\"https://openai.com/index/next-phase-of-microsoft-partnership/\">jointly</a> <a href=\"https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/\">announced</a> an amended agreement that will allow the company to go beyond Microsoft’s Azure and “serve all its products to customers across any cloud provider.”</p>\n<p>The announcement clarifies that Microsoft will continue to have a license for OpenAI’s IP and models through 2032 and that Azure will remain the “primary cloud partner” for OpenAI during that time (should Microsoft continue to be able to honor that). But Microsoft’s license “will now be non-exclusive,” the announcement reads, letting OpenAI make its models available through other major cloud providers going forward.</p>\n<p>While OpenAI will continue to make the same 20 percent revenue share payments to Microsoft under the amended deal, that total payment will now be limited to an unspecified cap and is only guaranteed to run through 2030. Importantly, that revenue share is now “independent of OpenAI’s technology progress,” an apparent reference to the infamous “AGI clause” in the original partnership that would have scrapped the exclusivity deal if and when OpenAI <a href=\"https://arstechnica.com/information-technology/2025/10/expert-panel-will-determine-agi-arrival-in-new-microsoft-openai-agreement/\">achieved the hard-to-gauge benchmark of artificial general intelligence.</a></p> </div></div>",
+  "image": "images/a4d91a7c8c4f.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
