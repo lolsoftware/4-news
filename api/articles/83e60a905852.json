@@ -1,0 +1,13 @@
+{
+  "id": "83e60a905852",
+  "title": "Apple pozwala na tańsze roczne subskrypcje w App Store",
+  "originalTitle": "Subskrypcje w App Store będą tańsze. Jest jeden haczyk",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/subskrypcje-w-app-store-beda-tansze-jest-jeden-haczyk",
+  "publishedAt": "2026-04-28T11:45:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Apple zmienia zasady dotyczące subskrypcji w App Store, dając deweloperom nowy sposób sprzedawania rocznych abonamentów. Użytkownicy zapłacą mniej, ale jest haczyk.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Apple wprowadza nowy wariant płatności za subskrypcje w App Store: <strong>roczny abonament rozliczany co miesiąc</strong>. To rozwiązanie ma pozwolić deweloperom oferować użytkownikom ceny zbliżone do tych znanych z planów rocznych, ale bez konieczności opłacania całej kwoty z góry. W praktyce oznacza to, że aplikacje będą mogły kusić niższą miesięczną stawką, zachowując jednocześnie 12-miesięczne zobowiązanie po stronie klienta.</p>  <h2>Niższa subskrypcja, dłuższe zobowiązanie. Kto skorzysta?</h2>  <p>Taka opcja wydaje się interesująca dla tych, którzy nie chcą wydawać sporych pieniędzy z góry, ale trzeba się mieć na baczności i wiedzieć o najważniejszym ograniczeniu dotyczącym rezygnacji. Użytkownik będzie mógł anulować subskrypcję w dowolnym momencie, ale anulowanie nie oznacza jednak końca planu i wyłączenia pozostałych płatności. <strong>Zatrzyma ono jedynie automatyczne odnowienie po zakończeniu rocznego cyklu, czyli po opłaceniu wszystkich miesięcznych rat wynikających z rocznego zobowiązania</strong>. To model znany z wielu usług: płacimy co miesiąc, ale faktycznie podpisujemy się pod umową ma rok.</p>  <p>Apple zapowiada, że system ma być przejrzysty. Użytkownicy zobaczą ma swoim koncie Apple w sekcji poświęconej subskrypcjom liczbę już opłaconych oraz pozostałych płatności, a przed odnowieniem otrzymają przypomnienia e-mail i, jeśli wyrazili na to zgodę, powiadomienia push tak, by nie przegapili oni okna na ewentualne modyfikacje planów, w tym zrezygnowanie z kolejnego cyklu rozliczeniowego. Deweloperzy już teraz mogą konfigurować nowe subskrypcje w App Store Connect i testować je w Xcode. Funkcja ma trafić do użytkowników wraz z majowymi aktualizacjami systemów Apple, m.in. iOS 26.5 i iPadOS 26.5, przy czym będzie dostępna na urządzeniach z wersjami 26.4 lub nowszymi. Na razie wyłączone z wdrożenia pozostają Stany Zjednoczone i Singapur.</p> </div></div>",
+  "image": "images/ffa9742abc45.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "rewritten"
+}
