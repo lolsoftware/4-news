@@ -1,0 +1,13 @@
+{
+  "id": "2976f1eaf6a6",
+  "title": "C, Just In Time!",
+  "originalTitle": "C, Just In Time!",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://dyne.org/cjit/",
+  "publishedAt": "2026-04-28T19:10:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-529a4999=\"\" data-v-3f294140=\"\" id=\"VPContent\" data-v-c109192d=\"\"><!--[--><!--]--><div data-v-dba860da=\"\" data-v-3f294140=\"\"><!--[--><!--]--><!--[--><h2 data-v-dba860da=\"\"><span data-v-dba860da=\"\">CJIT</span><span data-v-dba860da=\"\">C, Just in Time!</span></h2><p data-v-dba860da=\"\">A tiny, portable C compiler and interpreter inspired by HolyC by Terry Davis, based on TinyCC by Fabrice Bellard, and crafted by Jaromil &amp; the Dyne.org crew</p><!--]--><!--[--><!--]--><!--[--><!--]--></div><!--[--><!--]--><!--[--><!--]--><div data-v-b1eea84a=\"\" data-v-3f294140=\"\"><!--[--><div data-v-b1eea84a=\"\" data-v-83e454c5=\"\"><!--[--><article data-v-83e454c5=\"\"><!----><h2 data-v-83e454c5=\"\">🚀 Works everywhere</h2><p data-v-83e454c5=\"\">🪟 MS/Windows 🍎 Apple/OSX 🐧 GNU/Linux</p><!----></article><!--]--></div><div data-v-b1eea84a=\"\" data-v-83e454c5=\"\"><!--[--><article data-v-83e454c5=\"\"><!----><h2 data-v-83e454c5=\"\">⏱️ Instant Deployment</h2><p data-v-83e454c5=\"\">🤏🏼One file &lt;2MB big, no EULA to sign, no IDE to install</p><!----></article><!--]--></div><div data-v-b1eea84a=\"\" data-v-83e454c5=\"\"><!--[--><article data-v-83e454c5=\"\"><!----><h2 data-v-83e454c5=\"\">🧩 Call dynamic libs</h2><p data-v-83e454c5=\"\">🪝 Use any shared function found in any dynamic library</p><!----></article><!--]--></div><div data-v-b1eea84a=\"\" data-v-83e454c5=\"\"><!--[--><article data-v-83e454c5=\"\"><!----><h2 data-v-83e454c5=\"\">👟 Rapid Prototyping</h2><p data-v-83e454c5=\"\">🦈 Write and execute C applications rapidly</p><!----></article><!--]--></div><!--]--></div><!--[--><!--]--></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

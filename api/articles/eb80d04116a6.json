@@ -1,0 +1,13 @@
+{
+  "id": "eb80d04116a6",
+  "title": "Claude.ai unavailable and elevated errors on the API",
+  "originalTitle": "Claude.ai unavailable and elevated errors on the API",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+  "publishedAt": "2026-04-28T18:01:21.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- postmortem if it's published --> <!-- incident updates in reverse order --> <div> <h2> Resolved </h2> <div> <p><span>This incident has been resolved.</span> </p> <p> Posted <span data-datetime-unix=\"1777403752000\"></span>Apr <var data-var=\"date\">28</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">19:15</var> UTC </p> </div> </div> <div> <h2> Monitoring </h2> <div> <p><span>We are seeing success rates across all services return to normal, and are monitoring closely to prevent any further issues. Impact occurred from 17:34–18:52 UTC.</span> </p> <p> Posted <span data-datetime-unix=\"1777402787000\"></span>Apr <var data-var=\"date\">28</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">18:59</var> UTC </p> </div> </div> <div> <h2> Update </h2> <div> <p><span>We are continuing to work to resolve the issues preventing users from accessing Claude.ai, and causing elevated authentication errors for requests to the API and Claude Code.</span> </p> <p> Posted <span data-datetime-unix=\"1777401235000\"></span>Apr <var data-var=\"date\">28</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">18:33</var> UTC </p> </div> </div> <div> <h2> Identified </h2> <div> <p><span>We have identified an issue resulting in elevated errors on the Anthropic API, as well as issues accessing Claude.ai, including log-in paths for Claude Code. We are working to resolve these issues, and will provide an update as soon as possible.</span> </p> <p> Posted <span data-datetime-unix=\"1777398696000\"></span>Apr <var data-var=\"date\">28</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">17:51</var> UTC </p> </div> </div> <div> <h2> Investigating </h2> <div> <p><span>We are investigating an issue preventing users from reaching Claude.ai, and will provide an update as soon as possible.</span> </p> <p> Posted <span data-datetime-unix=\"1777398115000\"></span>Apr <var data-var=\"date\">28</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">17:41</var> UTC </p> </div> </div> <!-- affected components --> <p> This incident affected: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork, and Claude for Government. </p> </div></div>",
+  "image": "images/1cae4aeecaa9.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
