@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 30 Apr 2026 19:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 21:17:57 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>&apos;I held down Golders Green suspect&apos; says volunteer who grabbed ankle</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f602c294bd9</link>
+      <description>&quot;If eyes could kill, I&apos;d be dead,&quot; he tells the BBC when recounting the moment he saw the suspect.</description>
+      <pubDate>Thu, 30 Apr 2026 20:54:50 GMT</pubDate>
+      <guid isPermaLink="false">3f602c294bd9</guid>
+      <source url="https://www.bbc.com/news/articles/cn7pyp13y8no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/75356607d8d6</link>
+      <description>Exploit POC for CVE_2026_31431. Contribute to rootsecdev/cve_2026_31431 development by creating an account on GitHub.</description>
+      <pubDate>Thu, 30 Apr 2026 20:48:48 GMT</pubDate>
+      <guid isPermaLink="false">75356607d8d6</guid>
+      <source url="https://github.com/rootsecdev/cve_2026_31431">Hacker News</source>
+    </item>
+    <item>
+      <title>NASA Invites Media to Ireland Artemis Accords Signing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c21848d9c142</link>
+      <description>Ireland will sign the Artemis Accords during a ceremony at 3 p.m. EDT Monday, May 4, at NASA Headquarters in Washington.</description>
+      <pubDate>Thu, 30 Apr 2026 20:45:59 GMT</pubDate>
+      <guid isPermaLink="false">c21848d9c142</guid>
+      <source url="https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Американский дипломат о роли давления в освобождении Почобута</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/79402cbdddc8</link>
+      <description>Mówiłem: panowie, to dla nas bardzo, bardzo ważne, dla Polaków jest to ważne, żeby on wyszedł - wspominał w rozmowie z Marcinem Wroną specjalny wysłannik prezydenta Donalda Trumpa John Coale. Także jego starania doprowadziły do uwolnienia Andrzeja Poczobuta z białoruskiego więzienia.</description>
+      <pubDate>Thu, 30 Apr 2026 20:33:38 GMT</pubDate>
+      <guid isPermaLink="false">79402cbdddc8</guid>
+      <source url="https://tvn24.pl/polska/uwolnienie-andrzeja-poczobuta-john-coale-cisnelismy-cisnelismy-no-i-w-koncu-alaksandr-lukaszenka-sie-zgodzil-st9026033?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Rivian allows you to disable all internet connectivity</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/24884f7ad468</link>
+      <description>Comments</description>
+      <pubDate>Thu, 30 Apr 2026 20:27:22 GMT</pubDate>
+      <guid isPermaLink="false">24884f7ad468</guid>
+      <source url="https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle">Hacker News</source>
+    </item>
     <item>
       <title>255 euro miesięcznie. Tyle Polacy biorą od Niemców</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e1abcef87359</link>
@@ -16,12 +56,52 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/255-euro-miesiecznie-Tyle-Polacy-biora-od-Niemcow,280643,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/89b86c5d3ed1</link>
+      <description>The two wildly fast-growing rivals have raised massive sums, pushed into each other&apos;s home turf and now have dueling ad campaigns.</description>
+      <pubDate>Thu, 30 Apr 2026 20:14:47 GMT</pubDate>
+      <guid isPermaLink="false">89b86c5d3ed1</guid>
+      <source url="https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/">TechCrunch</source>
+    </item>
+    <item>
+      <title>King and Queen end US state visit with trip to small-town America</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1487413ad7e1</link>
+      <description>On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.</description>
+      <pubDate>Thu, 30 Apr 2026 20:04:41 GMT</pubDate>
+      <guid isPermaLink="false">1487413ad7e1</guid>
+      <source url="https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3261db1f6c57</link>
+      <description>Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.</description>
+      <pubDate>Thu, 30 Apr 2026 20:02:02 GMT</pubDate>
+      <guid isPermaLink="false">3261db1f6c57</guid>
+      <source url="https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/">TechCrunch</source>
+    </item>
+    <item>
       <title>Nie śródziemnomorska. To jest najlepsza dieta na nadciśnienie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/365fc153aeaa</link>
       <description>W kontroli nadciśnienia tętniczego pomaga dieta DASH. Jest oparta na warzywach, owocach i pełnych ziarnach oraz ograniczeniu soli i tłuszczów nasyconych.</description>
       <pubDate>Thu, 30 Apr 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">365fc153aeaa</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Nie-srodziemnomorska-To-jest-najlepsza-dieta-na-nadcisnienie,283459,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Jury Biennale Sztuki w Wenecji podało się do dymisji, inauguracja odwołana</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6f4c4d887541</link>
+      <description>Całe międzynarodowe jury 61. Biennale Sztuki w Wenecji podało się do dymisji. Co więcej, biuro prasowe wystawy ogołosiło, że 9 maja, w dniu inauguracji Biennale, nie odbędzie się żadna oficjalna ceremonia. To pokłosie trwającej od początku marca polemiki o udziale Rosji w tegorocznym Biennale, a także kwestii Izraela.</description>
+      <pubDate>Thu, 30 Apr 2026 19:55:23 GMT</pubDate>
+      <guid isPermaLink="false">6f4c4d887541</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-jury-biennale-sztuki-w-wenecji-podalo-sie-do-dymisji-inaugur,nId,8080009">RMF24</source>
+    </item>
+    <item>
+      <title>Iran nie zagra na mundialu? Gianni Infantino ogłasza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/928965214117</link>
+      <description>​Prezydent Międzynarodowej Federacji Piłki Nożnej (FIFA) Gianni Infantino potwierdził w czwartek, że Iran weźmie udział w tegorocznych mistrzostwach świata i rozegra zgodnie z planem trzy mecze grupowe w Stanach Zjednoczonych. Wraz z USA turniej zorganizują Meksyk i Kanada.</description>
+      <pubDate>Thu, 30 Apr 2026 19:51:14 GMT</pubDate>
+      <guid isPermaLink="false">928965214117</guid>
+      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-iran-nie-zagra-na-mundialu-gianni-infantino-oglasza,nId,8080008">RMF24</source>
     </item>
     <item>
       <title>Prezydent ostro o działaniach prokuratury. &quot;Musi pan minister to wiedzieć&quot;</title>
@@ -48,6 +128,14 @@
       <source url="https://tvn24.pl/polska/wotum-nieufnosci-paulina-hennig-kloska-posel-polski-2050-nie-wyobrazam-sobie-glosowania-przeciwko-ministrowi-rzadu-st9025923?source=rss">TVN24</source>
     </item>
     <item>
+      <title>U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c44d9b62a1ab</link>
+      <description>Comments</description>
+      <pubDate>Thu, 30 Apr 2026 19:42:33 GMT</pubDate>
+      <guid isPermaLink="false">c44d9b62a1ab</guid>
+      <source url="https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd">Hacker News</source>
+    </item>
+    <item>
       <title>1 łyżeczka przed posiłkiem. Skuteczny i prosty sposób na wzdęcia</title>
       <link>https://lolsoftware.github.io/4-news/#/article/50741d08ec3e</link>
       <description>Kmin rzymski to przyprawa znana w południowo-zachodniej Azji. Ceniona nie tylko za smak, ale też szczególne właściwości. Może wspierać trawienie i łagodzić uczucie ciężkości po jedzeniu.</description>
@@ -70,6 +158,18 @@
       <pubDate>Thu, 30 Apr 2026 19:40:28 GMT</pubDate>
       <guid isPermaLink="false">4df69a7a9b44</guid>
       <source url="https://tvn24.pl/tvnmeteo/polska/diabelek-pylowy-wirujacy-slup-pylu-i-piachu-nagranie-st9026032?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>LinkedIn scans for 6,278 extensions and encrypts the results into every request</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8dbc8eebcdfd</link>
+      <description>When companies get caught doing this sort of thing, the response is almost always the same: &quot;we&apos;re using this technology to combat fraud,&quot; or &quot;ensure positive user experience,&quot; or &quot;save computing resources,&quot; or some other hog wash.
+
+The simple truth, there&apos;s no reason to be collecting data that can be used to identify a user across the web if they&apos;re not signed in to your service.
+
+The harm of companies like Experian or LinkedIn being able to correlate all of your web traffic back to you is not</description>
+      <pubDate>Thu, 30 Apr 2026 19:40:20 GMT</pubDate>
+      <guid isPermaLink="false">8dbc8eebcdfd</guid>
+      <source url="https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/">Hacker News</source>
     </item>
     <item>
       <title>Politycy komentują weto prezydenta dla ustawy ułatwiającej rozwody</title>
@@ -310,102 +410,6 @@
       <pubDate>Thu, 30 Apr 2026 18:00:06 GMT</pubDate>
       <guid isPermaLink="false">7d2830d2727f</guid>
       <source url="https://tvn24.pl/tvnwarszawa/okolice/z-zebami-na-policjantow-st9025897?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ile naprawdę dostaliśmy z Unii? Resort funduszy ujawnia rachunki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/92c2e44afcdf</link>
-      <description>Od wejścia do Unii Europejskiej Polska otrzymała ponad 273 mld euro, a po uwzględnieniu wpłat do budżetu UE, do końca lutego tego roku Polska zyskała ponad 171 mld euro - podał resort funduszy i polityki regionalnej w związku z 22. rocznicą wejścia Polski do UE w piątek.</description>
-      <pubDate>Thu, 30 Apr 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">92c2e44afcdf</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ile-naprawde-dostalismy-z-Unii-Resort-funduszy-ujawnia-rachunki-9126141.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Porodówki na zakręcie. Co dalej z opieką nad rodzącymi?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bfe6efad9efa</link>
-      <description>Spadająca liczba urodzeń i brak spójnej polityki zdrowotnej stawiają polskie porodówki w punkcie zwrotnym. Podczas debaty w trakcie Kongresu Wyzwań Zdrowotnych ekspertki były zgodne: zmiany są nieuniknione, ale sposób ich wprowadzania budzi poważne obawy o bezpieczeństwo i standard opieki nad kobietami.</description>
-      <pubDate>Thu, 30 Apr 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="false">bfe6efad9efa</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Ginekologia-i-poloznictwo/Porodowki-na-zakrecie-Co-dalej-z-opieka-nad-rodzacymi,283398,209.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5c150a63d9d8</link>
-      <description>BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.</description>
-      <pubDate>Thu, 30 Apr 2026 17:53:53 GMT</pubDate>
-      <guid isPermaLink="false">5c150a63d9d8</guid>
-      <source url="https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Upadek paralotniarza na przydomowy ogród. Mężczyzna trafił do szpitala</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bfd3680b400f</link>
-      <description>Paralotniarz spadł na przydomowy ogród w Inowrocławiu w Kujawsko-Pomorskiem. Upadek 52-latka zamortyzowały tuje. Strażacy uwolnili mężczyznę z konstrukcji maszyny i udzielili mu pierwszej pomocy. Informację otrzymaliśmy na Gorącą Linię RMF FM.</description>
-      <pubDate>Thu, 30 Apr 2026 17:49:43 GMT</pubDate>
-      <guid isPermaLink="false">bfd3680b400f</guid>
-      <source url="https://www.rmf24.pl/regiony/news-upadek-paralotniarza-na-przydomowy-ogrod-mezczyzna-trafil-do,nId,8080001">RMF24</source>
-    </item>
-    <item>
-      <title>Drzwi tramwaju przycięły czterolatka, chłopiec zmarł. Prokuratura zaskarżyła wyrok</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b9cf0152af76</link>
-      <description>Prokuratura zaskarżyła wyrok 1,5 roku więzienia dla Roberta S., motorniczego tramwaju, który w sierpniu 2022 roku doprowadził do wypadku. Zginął czteroletni chłopiec przytrzaśnięty drzwiami pojazdu.</description>
-      <pubDate>Thu, 30 Apr 2026 17:49:39 GMT</pubDate>
-      <guid isPermaLink="false">b9cf0152af76</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-drzwi-tramwaju-przyciely-czterolatka-chlopiec-zmarl-wyrok-dla-motorniczego-zaskarzony-st9025883?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Beijing bans drone sales even as rest of world buys Chinese drones</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cb7de6f56f3b</link>
-      <description>Beijing&apos;s citywide ban restricts the sale, transport, and storage of drones.</description>
-      <pubDate>Thu, 30 Apr 2026 17:47:17 GMT</pubDate>
-      <guid isPermaLink="false">cb7de6f56f3b</guid>
-      <source url="https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Google’s Gemini AI assistant is hitting the road in millions of vehicles</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f2384ff754e</link>
-      <description>The move signals Google’s push to bring more advanced, conversational AI into the driving experience.</description>
-      <pubDate>Thu, 30 Apr 2026 17:46:54 GMT</pubDate>
-      <guid isPermaLink="false">5f2384ff754e</guid>
-      <source url="https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Izba Reprezentantów uchwaliła ustawę o finansowaniu bezpieczeństwa krajowego USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/214bf715731d</link>
-      <description>Izba Reprezentantów Stanów Zjednoczonych uchwaliła w czwartek ustawę o finansowaniu ministerstwa bezpieczeństwa krajowego. Tym samym zakończony zostanie rekordowo długi shutdown w USA.</description>
-      <pubDate>Thu, 30 Apr 2026 17:46:35 GMT</pubDate>
-      <guid isPermaLink="false">214bf715731d</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/kongres-usa-sie-porozumial-to-oznacza-koniec-shutdownu-st9025900?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Chiny przekazały USA, aby dokonały &quot;właściwego wyboru&quot; w kwestii Tajwanu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2979bc90e127</link>
-      <description>Chiński minister spraw zagranicznych Wang Yi podczas rozmowy z amerykańskim sekretarzem stanu Markiem Rubio nie pozostawił złudzeń - kwestia Tajwanu to &quot;największy czynnik ryzyka&quot; w stosunkach obu mocarstw. Tuż przed historyczną wizytą Donalda Trumpa w Chinach, Pekin wyraźnie sygnalizuje, że oczekuje od USA &quot;właściwego wyboru&quot;.</description>
-      <pubDate>Thu, 30 Apr 2026 17:42:12 GMT</pubDate>
-      <guid isPermaLink="false">2979bc90e127</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-chiny-przekazaly-usa-aby-dokonaly-wlasciwego-wyboru-w-kwesti,nId,8079998">RMF24</source>
-    </item>
-    <item>
-      <title>Nawrocki zatwierdził mianowanie 12 generałów i admirała</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/153e5c9029a0</link>
-      <description>Karol Nawrocki przychylił się do wniosku ministra obrony o mianowanie 12 oficerów Wojska Polskiego na stopnie generalskie oraz admiralski. Uroczystość wręczenia im aktów mianowania odbędzie się 2 maja. Dwa dni później nominacje generalskie otrzyma dwóch oficerów Państwowej Straży Pożarnej.</description>
-      <pubDate>Thu, 30 Apr 2026 17:40:12 GMT</pubDate>
-      <guid isPermaLink="false">153e5c9029a0</guid>
-      <source url="https://tvn24.pl/polska/karol-nawrocki-zdecydowal-o-nominacjach-generalskich-w-wojsku-polskim-i-panstwowej-strazy-pozarnej-st9025870?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Artemis III Moon Rocket Core Stage on the Move</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/042dc3891eca</link>
-      <description>Teams move the core stage, or largest section, of the SLS (Space Launch System) rocket for NASA’s Artemis III mission into the Vehicle Assembly Building</description>
-      <pubDate>Thu, 30 Apr 2026 17:39:07 GMT</pubDate>
-      <guid isPermaLink="false">042dc3891eca</guid>
-      <source url="https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Są zarzuty dla nożownika ze Starej Kornicy na Mazowszu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5bb6158b9037</link>
-      <description>Zarzut usiłowania zabójstwa usłyszał mężczyzna, który wczoraj w urzędzie zaatakował i zranił nożem wójt gminy Stara Kornica na Mazowszu - to ustalenia reporterki RMF FM. Mężczyzna usłyszał też dodatkowy zarzut: napaści na funkcjonariusza publicznego, bo taką fukcję pełni pani wójt.</description>
-      <pubDate>Thu, 30 Apr 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="false">5bb6158b9037</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-sa-zarzuty-dla-nozownika-ze-starej-kornicy-na-mazowszu,nId,8079999">RMF24</source>
     </item>
   </channel>
 </rss>
