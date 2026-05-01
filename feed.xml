@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 01 May 2026 13:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 15:19:15 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nowe regulacje UE dla biotechnologii. Ekspert przestrzega: potrzebna równowaga</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/77ba6c08308c</link>
+      <description>Tworząc Biotech Act czy Akt o Lekach Krytycznych na poziomie UE, musimy uwzględniać perspektywy ekonomiczną i zdrowotną (...) Zapis o rozszerzaniu dodatkowego świadectwa ochronnego (SPC) nie będzie napędzał rozwoju biotechnologii w Europie, tylko hamował go - przestrzega Krzysztof Kopeć, prezes PZPPF - Krajowi Producenci Leków.</description>
+      <pubDate>Fri, 01 May 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="false">77ba6c08308c</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/Nowe-regulacje-UE-dla-biotechnologii-Ekspert-przestrzega-potrzebna-rownowaga,283787,6.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Miliony na karbowanie chipsów i nowy zapach soli do akwarium. Co z polską nauką jest nie tak?</title>
       <link>https://lolsoftware.github.io/4-news/#/article/28d8e4bb8a0e</link>
@@ -14,6 +22,182 @@
       <pubDate>Fri, 01 May 2026 15:36:00 GMT</pubDate>
       <guid isPermaLink="false">28d8e4bb8a0e</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Miliony-na-karbowanie-chipsow-i-nowy-zapach-soli-do-akwarium-Co-z-polska-nauka-jest-nie-tak,283696,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Oscar Pawła Talankina zaginął jako bagaż w transporcie lotniczym</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c2795cef98a8</link>
+      <description>Zdobywca Oscara Paweł Talankin nadał swoją statuetkę jako bagaż rejestrowany, kiedy leciał z USA do Niemiec. Tak polecili mu pracownicy lotniska, bo Oscar &quot;może być użyty jako broń&quot;. Bagaż zaginął, przewoźnik błyskawicznie zareagował.</description>
+      <pubDate>Fri, 01 May 2026 15:04:56 GMT</pubDate>
+      <guid isPermaLink="false">c2795cef98a8</guid>
+      <source url="https://tvn24.pl/swiat/nadal-oscara-jako-bagaz-statuetka-zaginela-szybka-reakcja-przewoznika-st9026680?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Polanski apologises for sharing post criticising officers who arrested Golders Green suspect</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/73ff0380d9d4</link>
+      <description>Green Party leader sorry for sharing post condemning actions of police officers who arrested suspect in Golders Green attack.</description>
+      <pubDate>Fri, 01 May 2026 15:03:48 GMT</pubDate>
+      <guid isPermaLink="false">73ff0380d9d4</guid>
+      <source url="https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>whohas – Command-line utility for cross-distro, cross-repository package search</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1e2a497abdf</link>
+      <description>Cross-platform software search. Contribute to whohas/whohas development by creating an account on GitHub.</description>
+      <pubDate>Fri, 01 May 2026 15:01:08 GMT</pubDate>
+      <guid isPermaLink="false">b1e2a497abdf</guid>
+      <source url="https://github.com/whohas/whohas">Hacker News</source>
+    </item>
+    <item>
+      <title>Ubuntu services hit by outages after DDoS attack</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a810abe728fb</link>
+      <description>A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.</description>
+      <pubDate>Fri, 01 May 2026 15:00:14 GMT</pubDate>
+      <guid isPermaLink="false">a810abe728fb</guid>
+      <source url="https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Crayola toys recalled over possible asbestos contamination</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/32843c756a74</link>
+      <description>People should stop using the products immediately and keep out of the reach of children, the government says.</description>
+      <pubDate>Fri, 01 May 2026 14:58:38 GMT</pubDate>
+      <guid isPermaLink="false">32843c756a74</guid>
+      <source url="https://www.bbc.com/news/articles/cdjp3dlkzwwo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>GhostBox – disposable little machines from the Global Free Tier.</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f03ae4a58bbc</link>
+      <description>Siphon a temporary machine from GitHub Actions. SSH in, run the thing, give an agent a shell, and let it disappear.</description>
+      <pubDate>Fri, 01 May 2026 14:52:07 GMT</pubDate>
+      <guid isPermaLink="false">f03ae4a58bbc</guid>
+      <source url="https://www.ghost.charity/">Hacker News</source>
+    </item>
+    <item>
+      <title>88-letni rowerzysta zginął na drodze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7f3dbdcd0b45</link>
+      <description>88-letni rowerzysta nie przeżył potrącenia w Starym Mieście (woj. wielkopolskie). Policja wyjaśnia okoliczności tragedii.</description>
+      <pubDate>Fri, 01 May 2026 14:51:32 GMT</pubDate>
+      <guid isPermaLink="false">7f3dbdcd0b45</guid>
+      <source url="https://tvn24.pl/poznan/stare-miasto-smiertelne-potracenie-rowerzysty-w-starym-miescie-st9026823?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>​Jest nowa propozycja Iranu. Od razu wpłynęła na ceny ropy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ad34ec74d3e</link>
+      <description>Rząd Iranu przesłał pakistańskim mediatorom najnowszą propozycję negocjacyjną w rozmowach z władzami USA. Taką informację przekazała w piątek irańska państwowa agencja IRNA. Na razie nie są znane szczegóły oferty. Sama jednak informacja o niej sprawiła, że na rynkach odnotowano spadek cen ropy - zauważa agencja Reutera.</description>
+      <pubDate>Fri, 01 May 2026 14:47:00 GMT</pubDate>
+      <guid isPermaLink="false">6ad34ec74d3e</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-jest-nowa-propozycja-iranu-od-razu-wplynela-na-ceny-ropy,nId,8080082">RMF24</source>
+    </item>
+    <item>
+      <title>Sally McKee, who coined the term &quot;the Memory Wall&quot;, has died</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad8bd791e8bd</link>
+      <description>Sally A. McKee, 61, a renowned computer science professor and beloved friend, passed away Feb. 12 in Greenville, S.C., after a short illness. She received her bachelor’s degree from Yale University,…</description>
+      <pubDate>Fri, 01 May 2026 14:45:47 GMT</pubDate>
+      <guid isPermaLink="false">ad8bd791e8bd</guid>
+      <source url="https://www.online-tribute.com/SallyMcKee">Hacker News</source>
+    </item>
+    <item>
+      <title>Virgin Galactic reveals new ship, but it&apos;s running out of time and cash</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e5f7e2868e03</link>
+      <description>It&apos;s not clear whether Virgin Galactic has the cash reserves to fund a prolonged test phase.</description>
+      <pubDate>Fri, 01 May 2026 14:42:45 GMT</pubDate>
+      <guid isPermaLink="false">e5f7e2868e03</guid>
+      <source url="https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Netflix podnosi ceny abonamentów w Polsce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/61edecb54726</link>
+      <description>Netflix, niekwestionowany lider branży VOD, zdecydował się na wprowadzenie nowego cennika w Polsce. Ceny rosną wyraźnie.</description>
+      <pubDate>Fri, 01 May 2026 14:39:07 GMT</pubDate>
+      <guid isPermaLink="false">61edecb54726</guid>
+      <source url="https://antyweb.pl/netflix-drastycznie-podnosi-ceny-w-polsce-gdzie-jest-granica">Antyweb</source>
+    </item>
+    <item>
+      <title>Dramatyczna walka z ogniem we Włoszech. 3500 osób ewakuowanych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/07c21030194e</link>
+      <description>Około 3,5 tys. osób ewakuowano w Toskanii od czwartku z powodu poważnego pożaru lasów na pograniczu prowincji Lukka i Piza w Toskanii. Sytuacja wciąż jest niebezpieczna. Pożar, który wybuchł trzy dni temu na górze Faeta, wciąż nie został opanowany, a zmieniający się wiatr utrudnia działania ratownicze.</description>
+      <pubDate>Fri, 01 May 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="false">07c21030194e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-dramatyczna-walka-z-ogniem-we-wloszech-3500-osob-ewakuowanyc,nId,8080080">RMF24</source>
+    </item>
+    <item>
+      <title>Badanie: kawa wpływa na stres komórkowy i starzenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8e6639732b8</link>
+      <description>Kawa może działać przez receptor NR4A1 związany ze stresem komórkowym i starzeniem. Nowe badanie tłumaczy, czemu nie chodzi tylko o kofeinę.</description>
+      <pubDate>Fri, 01 May 2026 14:30:25 GMT</pubDate>
+      <guid isPermaLink="false">b8e6639732b8</guid>
+      <source url="https://antyweb.pl/kawa-zdrowie-badanie">Antyweb</source>
+    </item>
+    <item>
+      <title>&quot;Pożar był związany z pobytem ludzi&quot;. Dyrekcja parku składa zawiadomienie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08bfc6d3e0cb</link>
+      <description>Około hektara 154-letniego lasu spłonęło w wyniku pożaru, który wybuchł 17 kwietnia w Parku Narodowym &quot;Bory Tucholskie&quot;. Policja w Chojnicach prowadzi postępowanie w tej sprawie. Zdarzenie miało miejsce w obszarze ochrony zwierząt, zamkniętym dla turystów i oddalonym od szlaków, dróg oraz linii energetycznych. &quot;Złożyliśmy zawiadomienie. Według naszych ustaleń pożar był związany z pobytem ludzi w tym miejscu. Ktoś tam nocował i rozpalił ognisko&quot; – mówi RMF FM Janusz Kochanowski, dyrektor Parku.</description>
+      <pubDate>Fri, 01 May 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="false">08bfc6d3e0cb</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-pozar-byl-zwiazany-z-pobytem-ludzi-dyrekcja-parku-sklada-zaw,nId,8080078">RMF24</source>
+    </item>
+    <item>
+      <title>Pożary w Toskanii. Ewakuowano kilka tysięcy osób</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f49461608616</link>
+      <description>Od kilku dni zbocza góry Faeta w Toskanii trawią pożary. Żywioł zagraża mieszkańcom, ewakuowano już kilka tysięcy osób. Na miejscu trwa trudna akcja gaśnicza, a ogień podsyca silny wiatr.</description>
+      <pubDate>Fri, 01 May 2026 14:23:44 GMT</pubDate>
+      <guid isPermaLink="false">f49461608616</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/wlochy-toskania-tysiace-ewakuowanych-ogien-zbliza-sie-do-domow-sytuacja-pogarsza-sie-z-godziny-na-godzine-st9026767?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Pociąg PKP Intercity Silesia utknął w rejonie Opoczna</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b64eeba674c9</link>
+      <description>Pasażerowie pociągu PKP Intercity Silesia utknęli w drodze z Warszawy do stolicy Czech. W rejonie Opoczna doszło do awarii.</description>
+      <pubDate>Fri, 01 May 2026 14:13:19 GMT</pubDate>
+      <guid isPermaLink="false">b64eeba674c9</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/warszawa-awaria-pociagu-do-pragi-pasazerowie-utkneli-w-polu-st9026790?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Strzelanina podczas gali w Waszyngtonie. Prokuratura opublikowała nagranie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e257d9714e9a</link>
+      <description>Jest nowe nagranie ze sprawcą strzelaniny, do której doszło podczas gali dziennikarzy z udziałem prezydenta Donalda Trumpa w Waszyngtonie. Prokuratura opublikowała zapis z kamer monitoringu. Widać, jak napastnik z długą bronią przebiega obok policjantów, zaraz później padają strzały.</description>
+      <pubDate>Fri, 01 May 2026 14:12:34 GMT</pubDate>
+      <guid isPermaLink="false">e257d9714e9a</guid>
+      <source url="https://tvn24.pl/swiat/usa-strzaly-na-balu-dziennikarzy-z-udzialem-donalda-trumpa-nowe-nagranie-st9026772?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Apple may take &quot;several months&quot; to catch up to Mac mini and Studio demand</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d9e638472e4c</link>
+      <description>Chip shortages and demand from AI enthusiasts are both playing a part.</description>
+      <pubDate>Fri, 01 May 2026 14:10:48 GMT</pubDate>
+      <guid isPermaLink="false">d9e638472e4c</guid>
+      <source url="https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/">Ars Technica</source>
+    </item>
+    <item>
+      <title>&quot;Już nie muszą sprzedawać łodzi&quot;. Ratownicy z Mazur dostaną dodatkowe pieniądze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/854250ee15c0</link>
+      <description>500 tys. zł dodatkowego wsparcia otrzymają ratownicy wodni strzegący bezpieczeństwa na mazurskich jeziorach. O konkursie dotacyjnym na zapewnienie bezpieczeństwa na wodzie poinformowali w piątek wojewoda warmińsko-mazurski Radosław Król i wiceminister kultury Maciej Wróbel.</description>
+      <pubDate>Fri, 01 May 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="false">854250ee15c0</guid>
+      <source url="https://www.rmf24.pl/regiony/olsztyn/news-juz-nie-musza-sprzedawac-lodzi-ratownicy-z-mazur-dostana-dod,nId,8080081">RMF24</source>
+    </item>
+    <item>
+      <title>You don’t need intense workouts to build muscle, new study reveals</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fb25d68389c5</link>
+      <description>Building muscle doesn’t have to mean exhausting workouts or soreness. Researchers found that slow, controlled “lowering” movements can boost strength more efficiently while requiring less effort. Even five minutes a day of simple exercises like chair squats or wall push-ups can make a real difference. It’s a smarter, easier way to get stronger—no gym required.</description>
+      <pubDate>Fri, 01 May 2026 14:07:35 GMT</pubDate>
+      <guid isPermaLink="false">fb25d68389c5</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260501052830.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Space Out This Summer with Variety of NASA STEM Activities</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1344d000e56</link>
+      <description>Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your</description>
+      <pubDate>Fri, 01 May 2026 14:03:30 GMT</pubDate>
+      <guid isPermaLink="false">f1344d000e56</guid>
+      <source url="https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Wypadek na S1 w Dąbrowie Górniczej. Dwie osoby ranne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25ee64673857</link>
+      <description>Dwa samochody osobowe i auto dostawcze zderzyły się na drodze ekspresowej S1 w Dąbrowie Górniczej (woj. śląskie). Droga w kierunku Łodzi była całkowicie zablokowana. Dwie osoby zostały poszkodowane i trafiły do szpitali.</description>
+      <pubDate>Fri, 01 May 2026 13:53:55 GMT</pubDate>
+      <guid isPermaLink="false">25ee64673857</guid>
+      <source url="https://tvn24.pl/katowice/dabrowa-gornicza-zderzenie-trzech-pojazdow-na-s1-st9026773?source=rss">TVN24</source>
     </item>
     <item>
       <title>Minister rolnictwa: stuprocentowe straty. Przymrozki dotknęły sadowników</title>
@@ -88,6 +272,14 @@
       <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-majowke-prognoza-na-dlugi-weekend-majowy-bedzie-blisko-upalu-powrot-burz-i-deszczu-st9026699?source=rss">TVN24</source>
     </item>
     <item>
+      <title>This 275-million-year-old animal had a twisted jaw like nothing alive today</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/234117e87ebf</link>
+      <description>Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded away, making it a kind of “living fossil” of its time.</description>
+      <pubDate>Fri, 01 May 2026 13:07:15 GMT</pubDate>
+      <guid isPermaLink="false">234117e87ebf</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260501052858.htm">ScienceDaily</source>
+    </item>
+    <item>
       <title>22 lata w UE: Tusk chwali decyzję, Sasin mówi o IV Rzeszy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8feff9f164bd</link>
       <description>&quot;1 maja 2004 r. Polska wstąpiła do Unii Europejskiej. Już wtedy wiedzieliśmy, że to dobra decyzja&quot; - napisał z okazji 22. rocznicy tego wydarzenia premier Donald Tusk w serwisie X. W jego ślady poszli inni parlamentarzyści. Przedstawiciele koalicji rządzącej wyliczają sukcesy członkostwa we Wspólnocie, a inni wskazują na wyzwania jakie ma przed sobą UE.</description>
@@ -144,12 +336,28 @@
       <source url="https://tvn24.pl/lublin/lublin-ponad-140-tysiecy-zlotych-dla-kaucji-falszywy-policjant-oszukal-malzenstwo-seniorow-st9026481?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Zamrożone sady w Polsce. &quot;Straty z powodu przymrozków sięgają 100 procent&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/402791865be8</link>
+      <description>Minister rolnictwa Stefan Krajewski, który w piątek wizytował dotknięty przymrozkami sad w miejscowości Zakrzów (Lubelskie) powiedział, że w niektórych gospodarstwach możemy mówić o stratach stuprocentowych. Zapowiedział wsparcie dla rolników.</description>
+      <pubDate>Fri, 01 May 2026 12:52:00 GMT</pubDate>
+      <guid isPermaLink="false">402791865be8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zamrozone-sady-w-Polsce-Straty-z-powodu-przymrozkow-siegaja-100-procent-9126592.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
       <title>Kto rządzi Iranem? Konflikt wśród przywódców narasta</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0fdc729cc836</link>
       <description>Prezydent Iranu Masud Pezeszkian oraz przewodniczący parlamentu Mohammad Bagher Ghalibaf chcą odwołać szefa irańskiej dyplomacji Abbasa Aragcziego - informuje portal Iran International. Według polityków Aragczi miał realizować wytyczne Korpusu Strażników Rewolucji Islamskiej (IRGC) podczas negocjacji nuklearnych z USA.</description>
       <pubDate>Fri, 01 May 2026 12:47:37 GMT</pubDate>
       <guid isPermaLink="false">0fdc729cc836</guid>
       <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-kto-rzadzi-iranem-konflikt-wsrod-przywodcow-narasta,nId,8080072">RMF24</source>
+    </item>
+    <item>
+      <title>Od 50 proc. średniej unijnej do G20. Gospodarczy bilans Polski w UE</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ef54dfc1d888</link>
+      <description>1 maja 2004 r. Polska wstąpiła do Unii Europejskiej. Już wtedy wiedzieliśmy, że to dobra decyzja – napisał z okazji 22. rocznicy tego wydarzenia premier Donald Tusk w serwisie X. Swoje wpisy zamieścili też inni politycy.</description>
+      <pubDate>Fri, 01 May 2026 12:40:00 GMT</pubDate>
+      <guid isPermaLink="false">ef54dfc1d888</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Od-50-proc-sredniej-unijnej-do-G20-Gospodarczy-bilans-Polski-w-UE-9126590.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>Rocket Report: Falcon Heavy is back; Russia&apos;s Soyuz-5 finally debuts</title>
@@ -176,6 +384,14 @@
       <source url="https://antyweb.pl/android-auto-szykuje-petarde-kierowcy-beda-zachwyceni">Antyweb</source>
     </item>
     <item>
+      <title>This “Pink Floyd” spider hunts prey 6x its size and lives in walls</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/429cf7f8a92b</link>
+      <description>Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.</description>
+      <pubDate>Fri, 01 May 2026 12:27:27 GMT</pubDate>
+      <guid isPermaLink="false">429cf7f8a92b</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260501052851.htm">ScienceDaily</source>
+    </item>
+    <item>
       <title>Koparka utknęła w mule Wisły. Trwają prace wyciągające maszynę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d13362b73ab1</link>
       <description>W Wiśle utknęła koparka pracująca w pobliżu popularnej przeprawy promowej w Gassach. Trwają prace przy wyciąganiu maszyny z mułu i wody. Do akcji włączyli się strażacy z lokalnej OSP.</description>
@@ -190,222 +406,6 @@
       <pubDate>Fri, 01 May 2026 12:21:30 GMT</pubDate>
       <guid isPermaLink="false">8db2d0fd9d0a</guid>
       <source url="https://tvn24.pl/lublin/chelm-znalezli-czaszki-xiii-wiecznych-mieszkancow-zrekonstruowali-ich-twarze-st9026457?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Badania wskazały: to najgorszy rodzaj grilla. Truje, zanim zdążysz położyć jedzenie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e34bde47d1f7</link>
-      <description>Eksperci z Politechniki Warszawskiej przetestowali trzy najczęściej dostępne na rynku grille. Na każdym położyli identyczny zestaw potraw.</description>
-      <pubDate>Fri, 01 May 2026 12:21:00 GMT</pubDate>
-      <guid isPermaLink="false">e34bde47d1f7</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Badania-wskazaly-to-najgorszy-rodzaj-grilla-Truje-zanim-zdazysz-polozyc-jedzenie,283908,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>​Specjalny program w radiu RMF24 z Akademii Policji w Szczytnie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/74a09a3e9c91</link>
-      <description>Nasi dziennikarze Piotr Salak i Piotr Bułakowski odwiedzili dzisiaj Akademię Policji w Szczytnie. W specjalnym programie na antenie radia RMF24 sprawdzają z bliska jak wygląda szkolenie na funkcjonariusza policji. Nie zabraknie zajęć z obezwładniania, czy pierwszej pomocy. Pokażemy też pracę policyjnych techników oraz zajęcia na strzelnicy.</description>
-      <pubDate>Fri, 01 May 2026 12:16:00 GMT</pubDate>
-      <guid isPermaLink="false">74a09a3e9c91</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-specjalny-program-w-radiu-rmf24-z-akademii-policji-w-szczytn,nId,8079992">RMF24</source>
-    </item>
-    <item>
-      <title>Pożar wysypiska śmieci w Nowym Modlinie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a1dec4b68ac0</link>
-      <description>Pożar na wysypisku śmieci w Nowym Modlinie (Mazowieckie). W akcji udział bierze kilkanaście zastępów strażaków.</description>
-      <pubDate>Fri, 01 May 2026 12:11:07 GMT</pubDate>
-      <guid isPermaLink="false">a1dec4b68ac0</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-pozar-wysypiska-smieci-w-nowym-modlinie,nId,8080069">RMF24</source>
-    </item>
-    <item>
-      <title>Atak na wójt Starej Kornicy. Decyzja w sprawie aresztu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2bf6a05f1bf2</link>
-      <description>Trzymiesięczny areszt dla mężczyzny podejrzanego o zaatakowanie nożem wójt gminy Stara Kornica na Mazowszu. Do ataku doszło w środę po południu.</description>
-      <pubDate>Fri, 01 May 2026 12:10:00 GMT</pubDate>
-      <guid isPermaLink="false">2bf6a05f1bf2</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-atak-na-wojt-starej-kornicy-decyzja-w-sprawie-aresztu,nId,8080068">RMF24</source>
-    </item>
-    <item>
-      <title>Smartfony, tablety i komputery objęte opłatą reprograficzną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c6cb7be633c</link>
-      <description>Ministra kultury Marta Cienkowska zaktualizowała katalog tak zwanych czystych nośników, objętych opłatą reprograficzną. Kluczowe nowe pozycje w tabeli to telefony komórkowe, tablety i komputery. &quot;Wprowadziliśmy prawo na miarę XXI wieku, w którym giganci sprzętowi dzielą się swoimi zyskami z polskimi twórcami&quot; - napisała szefowa resortu kultury w serwisie X.</description>
-      <pubDate>Fri, 01 May 2026 12:01:07 GMT</pubDate>
-      <guid isPermaLink="false">3c6cb7be633c</guid>
-      <source url="https://tvn24.pl/biznes/tech/nowa-oplata-od-smartfonow-tabletow-i-komputerow-nowelizacja-oplaty-reprograficznej-st9026438?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>People are finally using Reddit’s search</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3ee421c00f0e</link>
-      <description>The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.</description>
-      <pubDate>Fri, 01 May 2026 12:00:11 GMT</pubDate>
-      <guid isPermaLink="false">3ee421c00f0e</guid>
-      <source url="https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Śmierć po ataku niedźwiedzia. Samorządowcy domagają się zmian</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e724dd4c5e52</link>
-      <description>Tragiczna śmierć 58-letniej kobiety po ataku niedźwiedzia w Płonnej na nowo wywołała dyskusję o bezpieczeństwie w Bieszczadach i Beskidach. Samorządowcy domagają się zmian w przepisach, Generalna Dyrekcja Ochrony Środowiska zapowiada uruchomienie &quot;niedźwiedziego projektu&quot;, a przyrodnicy przypominają, że podobny program od 15 lat czeka na realizację.</description>
-      <pubDate>Fri, 01 May 2026 11:59:59 GMT</pubDate>
-      <guid isPermaLink="false">e724dd4c5e52</guid>
-      <source url="https://tvn24.pl/rzeszow/bukowsko-plonna-kobieta-zabita-przez-niedzwiedzia-jak-reagowac-samorzadowcy-chca-zmian-st9025701?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Running Adobe&apos;s 1991 PostScript Interpreter in the Browser</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7cac16352ce9</link>
-      <description>The HP C2089A “PostScript Cartridge Plus”, a 1991 add-on for the LaserJet II/III, adds PostScript Level 2 support through Adobe’s own reference interpreter (version 2010.118) on a 2 MB ROM.</description>
-      <pubDate>Fri, 01 May 2026 11:58:11 GMT</pubDate>
-      <guid isPermaLink="false">7cac16352ce9</guid>
-      <source url="https://www.pagetable.com/?p=1854">Hacker News</source>
-    </item>
-    <item>
-      <title>Tragedia podczas skoków spadochronowych. Nie żyje 39-latek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d5941b68e61c</link>
-      <description>Wypadek podczas komercyjnych skoków spadochronowych w Lesznie w Wielkopolsce. Podczas lądowania 39-letni skoczek uderzył w ziemię i zmarł - dowiedział się reporter RMF FM Krzysztof Zasada.</description>
-      <pubDate>Fri, 01 May 2026 11:50:00 GMT</pubDate>
-      <guid isPermaLink="false">d5941b68e61c</guid>
-      <source url="https://www.rmf24.pl/regiony/poznan/news-tragedia-podczas-skokow-spadochronowych-nie-zyje-39-latek,nId,8080066">RMF24</source>
-    </item>
-    <item>
-      <title>Hubble Spots a Starry Spiral</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d07008651b4</link>
-      <description>In this new picture from NASA&apos;s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53</description>
-      <pubDate>Fri, 01 May 2026 11:48:55 GMT</pubDate>
-      <guid isPermaLink="false">8d07008651b4</guid>
-      <source url="https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Spadochroniarz zginął podczas skoku na lotnisku w Lesznie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/077c81868166</link>
-      <description>Podczas skoku z wysokości czterech tysięcy metrów 39-letni spadochroniarz uderzył w ziemię. Mimo przeprowadzonej reanimacji, jego życia nie udało się uratować.</description>
-      <pubDate>Fri, 01 May 2026 11:47:40 GMT</pubDate>
-      <guid isPermaLink="false">077c81868166</guid>
-      <source url="https://tvn24.pl/poznan/leszno-tragiczny-wypadek-na-lotnisku-nie-zyje-spadochroniarz-st9026509?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Prace IPN na Wołyniu. Badacze znaleźli nowe mogiły</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/659a9dfc18d8</link>
-      <description>Dwie zbiorowe mogiły polskich ofiar ukraińskich nacjonalistów z 1943 roku i jeden pojedynczy grób znaleźli badacze Instytutu Pamięci Narodowej na Wołyniu. Ekipy zakończyły właśnie prace poszukiwawcze w dawnej miejscowości Ostrówki i Wola Ostrowiecka.</description>
-      <pubDate>Fri, 01 May 2026 11:43:11 GMT</pubDate>
-      <guid isPermaLink="false">659a9dfc18d8</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-prace-ipn-na-wolyniu-badacze-znalezli-nowe-mogily,nId,8080064">RMF24</source>
-    </item>
-    <item>
-      <title>Rekin utknął na włoskim wybrzeżu. Straż przybrzeżna ruszyła na pomoc</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2556fa9a36de</link>
-      <description>Rekin nie mógł się samodzielne wydostać z włoskiego wybrzeża. Na ratunek zwierzęciu ruszyła straż przybrzeżna. Służby podały najbardziej prawdopodobną przyczynę utknięcia rekina.</description>
-      <pubDate>Fri, 01 May 2026 11:40:29 GMT</pubDate>
-      <guid isPermaLink="false">2556fa9a36de</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/wlochy-rekin-utknal-na-wybrzezu-straz-przybrzezna-ruszyla-na-pomoc-st9026446?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&apos;Dreams come true&apos; for singer joining Lady Gaga on Devil Wears Prada soundtrack</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cfe13aa89eef</link>
-      <description>American singer Izzy Escobar features on the album alongside the likes of Dua Lipa and Olivia Dean.</description>
-      <pubDate>Fri, 01 May 2026 11:37:42 GMT</pubDate>
-      <guid isPermaLink="false">cfe13aa89eef</guid>
-      <source url="https://www.bbc.com/news/articles/c4g0vv9klepo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Czarzasty o Zondacrypto: tą sprawą powinna zająć się sejmowa komisja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/58f38e24d919</link>
-      <description>To jest temat, który jest wymarzoną sprawą dla komisji sejmowej, żeby to wyjaśnić - tak o aferze Zondacrypto mówi marszałek Sejmu Włodzimierz Czarzasty. Dodał, że na pytania w tej sprawie &quot;będzie musiał odpowiedzieć Karol Nawrocki&quot;, a także politycy PiS i Konfederacji.</description>
-      <pubDate>Fri, 01 May 2026 11:34:57 GMT</pubDate>
-      <guid isPermaLink="false">58f38e24d919</guid>
-      <source url="https://tvn24.pl/polska/wlodzimierz-czarzasty-o-zondacrypto-zwrocil-sie-do-karola-nawrockiego-pis-i-konfederacji-st9026369?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Show HN: Site Mogging</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e07dc332bd26</link>
-      <description>Two websites enter. One gets mogged. An AI judge with the eye of an Awwwards critic decides which one looks prettier.</description>
-      <pubDate>Fri, 01 May 2026 11:32:48 GMT</pubDate>
-      <guid isPermaLink="false">e07dc332bd26</guid>
-      <source url="https://sitemogging.com/">Hacker News</source>
-    </item>
-    <item>
-      <title>Tani czytnik e-booków Xteink X4 wyprzedza Kindle&apos;a w sprzedaży</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c0ff52fefa0</link>
-      <description>Malutki Xteink X4 zaczął wyprzedzać w rankingach sprzedaży takie urządzenia jak Kindle Colorsoft i Kindle Scribe, ale nie dlatego, że jest lepszy technologicznie. Wręcz przeciwnie. To czytnik, który wygrywa głównie ceną, rozmiarem i urokiem gadżetu. To bardziej współtowarzysz Kindle i spółki, niż ich bezpośredni pogromca: skrajnie prosty, kieszonkowy i... zaskakująco tani!</description>
-      <pubDate>Fri, 01 May 2026 11:30:39 GMT</pubDate>
-      <guid isPermaLink="false">3c0ff52fefa0</guid>
-      <source url="https://antyweb.pl/czytnik-e-bookow-ktory-pokochal-swiat-tani-maly-i-lekki">Antyweb</source>
-    </item>
-    <item>
-      <title>Woman charged over fatal Wimbledon school crash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c930b588ffcc</link>
-      <description>Nuria Sajjad and Selena Lau died after a car crashed into the Study Preparatory School in July 2023.</description>
-      <pubDate>Fri, 01 May 2026 11:29:54 GMT</pubDate>
-      <guid isPermaLink="false">c930b588ffcc</guid>
-      <source url="https://www.bbc.com/news/articles/c2026d7586zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Small boat migrant guilty of attempting knife attack on Israeli embassy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e2e9966df7c</link>
-      <description>Abdullah Albadri was arrested in April last year as he tried to climb over the railings of the embassy in London.</description>
-      <pubDate>Fri, 01 May 2026 11:29:04 GMT</pubDate>
-      <guid isPermaLink="false">9e2e9966df7c</guid>
-      <source url="https://www.bbc.com/news/articles/cze25yz8dnxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Pijana 25-latka zatrzymana za grożenie nastolatkom nożem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a8e38e4cc8e</link>
-      <description>25-letnia mieszkanka Poznania została zatrzymana po tym, jak w czwartkowy wieczór groziła grupie młodzieży z nożem w ręku.</description>
-      <pubDate>Fri, 01 May 2026 11:26:05 GMT</pubDate>
-      <guid isPermaLink="false">7a8e38e4cc8e</guid>
-      <source url="https://tvn24.pl/poznan/poznan-gonila-nastolatkow-z-nozem-st9026445?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Superdry co-founder found guilty of rape</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/217490a2ef69</link>
-      <description>James Holder, 54, attacked the woman after on a night out in Cheltenham in May 2022.</description>
-      <pubDate>Fri, 01 May 2026 11:25:51 GMT</pubDate>
-      <guid isPermaLink="false">217490a2ef69</guid>
-      <source url="https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Nagranie Meloni i Netanjahu okazało się manipulacją</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/caccaed41a0d</link>
-      <description>Setki tysięcy wyświetleń generuje w mediach społecznościowych nagranie mające pokazywać sytuację, gdy Giorgia Meloni odmawia podania ręki Benjaminowi Netanjahu. Miało się to wydarzyć w siedzibie ONZ. Czy rzeczywiście tak było?</description>
-      <pubDate>Fri, 01 May 2026 11:20:45 GMT</pubDate>
-      <guid isPermaLink="false">caccaed41a0d</guid>
-      <source url="https://konkret24.tvn24.pl/swiat/meloni-ignoruje-netanjahu-tak-to-nie-st9023631?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Balon z kontrabandą wylądował na osiedlu pod Lublinem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8fe5c2b66ac7</link>
-      <description>Mieszkańcy jednego z osiedli w podlubelskiej Turce zauważyli, że na parkingu wśród bloków wylądował w nocy wielki balon. Podczepione były do niego paczki z kontrabandą. Balon najprawdopodobniej przyleciał z Białorusi. Musiał pokonać co najmniej 80 kilometrów w linii prostej.</description>
-      <pubDate>Fri, 01 May 2026 11:12:27 GMT</pubDate>
-      <guid isPermaLink="false">8fe5c2b66ac7</guid>
-      <source url="https://tvn24.pl/lublin/turka-balon-na-osiedlu-pod-lublinem-musial-pokonac-co-najmniej-80-kilometrow-st9026410?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Man appears in court charged with attempted murder of two Jewish men </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4f081ec25832</link>
-      <description>Essa Suleiman, 45, is also accused of attempting to murder a third man on the same day.</description>
-      <pubDate>Fri, 01 May 2026 11:10:51 GMT</pubDate>
-      <guid isPermaLink="false">4f081ec25832</guid>
-      <source url="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>No evidence of widespread fuel price-gouging, watchdog says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/85b9c36edb14</link>
-      <description>Profit margins were &quot;broadly unchanged&quot; between February and March, the UK&apos;s competition watchdog says.</description>
-      <pubDate>Fri, 01 May 2026 11:10:23 GMT</pubDate>
-      <guid isPermaLink="false">85b9c36edb14</guid>
-      <source url="https://www.bbc.com/news/articles/c62djjj0z09o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Apple accidentally left Claude.md files Apple Support app</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c7ac58d57230</link>
-      <description>Apple accidentally left Claude.md files in today&apos;s Apple Support app update (v5.13)</description>
-      <pubDate>Fri, 01 May 2026 11:08:32 GMT</pubDate>
-      <guid isPermaLink="false">c7ac58d57230</guid>
-      <source url="https://xcancel.com/aaronp613/status/2049986504617820551">Hacker News</source>
-    </item>
-    <item>
-      <title>Your Website Is Not for You</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f676bb553bb7</link>
-      <description>Comments</description>
-      <pubDate>Fri, 01 May 2026 11:08:20 GMT</pubDate>
-      <guid isPermaLink="false">f676bb553bb7</guid>
-      <source url="https://websmith.studio/blog/your-website-is-not-for-you/">Hacker News</source>
     </item>
   </channel>
 </rss>
