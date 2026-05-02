@@ -1,0 +1,13 @@
+{
+  "id": "ae8dff9d2971",
+  "title": "The USB Situation",
+  "originalTitle": "The USB Situation",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://randsinrepose.com/archives/the-usb-situation/",
+  "publishedAt": "2026-04-29T16:49:13.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"main-content\"> <main role=\"main\"> <article>  <div> <p>I write this from the latest MacBook Pro. I’ve been running this as my primary machine for almost a month. When I’m not grinding out <a href=\"https://amzn.to/4twZhI8\">the latest soon-to-be-released I-swear-I-am-on-schedule book</a> in a coffee shop, I sit at my desk and plug the MacBook into a Studio Display. This braided black cable does it all: video, power, and everything else plugged into the Display.</p> <p>One cable. A Thunderbolt cable.</p> <p>The stakes are lower in <a href=\"https://randsinrepose.com/guides/usb/usb-guide.html\">cable selection</a> than in <a href=\"https://randsinrepose.com/guides/apple-charging-guide.html\">charger selection</a>, but the cables really aren’t the situation. It’s the <a href=\"https://randsinrepose.com/guides/usb/usb-guide.html\">ports</a>.</p> <div> <p><span>THE LIE</span><span>Same USB-C connector. Seven protocols. 250× speed spread.</span></p> <p><span>THE AGE</span><span>USB 2 has been 480 Mb/s since 2000. The cable Apple ships still runs at original-iPod speed.</span></p> <p><span>THE GAP</span><span>iPad Pro’s box cable is 83× slower than the port it plugs into.</span></p> <p><span>THE TRAP</span><span>MacBook Neo’s two USB-C ports look identical. One is 20× faster.</span></p> <p><span>THE NAMES</span><span>USB-IF has renamed 5 Gb/s four times since 2008.</span></p> <p><span>THE BUY</span><span>Apple Thunderbolt 5 if you have Thunderbolt. Cable Matters 10 Gbps if you don’t.</span></p> </div> </div> </article>  <span>  <span> April 29, 2026 </span> </span> </main>  </div></div>",
+  "image": "images/4b002f4f0b60.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
