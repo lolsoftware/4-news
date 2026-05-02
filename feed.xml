@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 02 May 2026 19:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:03:00 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Polskie wojsko poszerza kosmiczne możliwości. Wysyłamy kolejnego satelitę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5b5a294b756c</link>
+      <description>W niedzielę, o godzinie 8:59 czasu polskiego, z bazy w Kalifornii ma wystartować rakieta nośna z czwartym satelitą radarowym dla Wojska Polskiego – poinformował w sobotę wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz. Satelita EYCORE-1, wyposażony w nowoczesny radar z syntetyczną aperturą (SAR), zostanie umieszczony na orbicie w ramach programu MikroSAR.</description>
+      <pubDate>Sat, 02 May 2026 20:52:00 GMT</pubDate>
+      <guid isPermaLink="false">5b5a294b756c</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-polskie-wojsko-poszerza-kosmiczne-mozliwosci-wysylamy-kolejn,nId,8080273">RMF24</source>
+    </item>
+    <item>
+      <title>Awaria pod Poznaniem. Paraliż na trasie kolejowej do Berlina</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5cd8817d4725</link>
+      <description>Na trasie kolejowej Poznań - Berlin doszło do awarii. Ruch pociągów jest wstrzymany. Jak informuje PKP, usuwanie usterki może potrwać do niedzielnego poranka, a jej przyczyny nie są jeszcze znane.</description>
+      <pubDate>Sat, 02 May 2026 20:45:48 GMT</pubDate>
+      <guid isPermaLink="false">5cd8817d4725</guid>
+      <source url="https://tvn24.pl/polska/awaria-pod-poznaniem-paraliz-na-trasie-kolejowej-do-berlina-st9028092?source=rss">TVN24</source>
+    </item>
     <item>
       <title>31 maja: ostateczny termin na wymianę. Te banknoty straciły ważność</title>
       <link>https://lolsoftware.github.io/4-news/#/article/33da053af62d</link>
@@ -16,12 +32,44 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/31-maja-ostateczny-termin-na-wymiane-Te-banknoty-stracily-waznosc,283927,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Pesymistyczna prognoza. Irański urzędnik o konflikcie z USA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2d1fc6a346e</link>
+      <description>​Wznowienie wojny ze Stanami Zjednoczonymi jest prawdopodobne - oświadczył w sobotę zastępca szefa sztabu irańskich sił zbrojnych, generał Mohammad Dżafar Asadi. Jego słowa cytuje agencja Fars, a wypowiedź padła po odrzuceniu przez prezydenta USA Donalda Trumpa najnowszej propozycji pokojowej Teheranu.</description>
+      <pubDate>Sat, 02 May 2026 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">f2d1fc6a346e</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-pesymistyczna-prognoza-iranski-urzednik-o-konflikcie-z-usa,nId,8080272">RMF24</source>
+    </item>
+    <item>
       <title>Promocja zdrowia ponad profilaktyką. &quot;Wychodzimy poza kontekst choroby&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/392584b3beda</link>
       <description>Promocja zdrowia musi wyjść poza myślenie o chorobie i profilaktyce - podkreślała prof. Magdalena Wrzesińska z Uniwersytetu Medycznego w Łodzi podczas Kongresu Wyzwań Zdrowotnych. Jak zaznaczyła, kluczowe jest podejście holistyczne oraz realne włączanie pacjenta i społeczności w tworzenie rozwiązań zdrowotnych.</description>
       <pubDate>Sat, 02 May 2026 19:58:00 GMT</pubDate>
       <guid isPermaLink="false">392584b3beda</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Promocja-zdrowia-ponad-profilaktyka-Wychodzimy-poza-kontekst-choroby,283423,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>VS Code inserting &apos;Co-Authored-by Copilot&apos; into commits regardless of usage</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/791c30e7db98</link>
+      <description>Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.</description>
+      <pubDate>Sat, 02 May 2026 19:57:26 GMT</pubDate>
+      <guid isPermaLink="false">791c30e7db98</guid>
+      <source url="https://github.com/microsoft/vscode/pull/310226">Hacker News</source>
+    </item>
+    <item>
+      <title>Man arrested in Austria after rat poison found in baby food jars</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cb415fb73d5f</link>
+      <description>A jar of HiPP purée containing the poison was found in Austria, prompting a recall by the manufacturer.</description>
+      <pubDate>Sat, 02 May 2026 19:44:17 GMT</pubDate>
+      <guid isPermaLink="false">cb415fb73d5f</guid>
+      <source url="https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Za nami gorąca sobota. Gdzie było najcieplej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/44ef90addf7a</link>
+      <description>Pogoda w Polsce. Do naszego kraju napłynęło ciepłe powietrze pochodzenia zwrotnikowego. Za jego sprawą termometry pokazały w sobotę ponad 26 stopni Celsjusza.</description>
+      <pubDate>Sat, 02 May 2026 19:36:16 GMT</pubDate>
+      <guid isPermaLink="false">44ef90addf7a</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/za-nami-goraca-sobota-gdzie-bylo-najcieplej-st9028055?source=rss">TVN24</source>
     </item>
     <item>
       <title>Wątrobowa tarcza z łąki. Każdy myśli, że to zwykły chwast</title>
@@ -48,6 +96,14 @@
       <source url="https://www.rmf24.pl/regiony/krakow/news-satanistyczne-napisy-na-polskim-sanktuarium-powiadomiono-pol,nId,8080271">RMF24</source>
     </item>
     <item>
+      <title>Pożar w czeskim parku narodowym. Wprowadzono stan nadzwyczajny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6f5c64ebaef</link>
+      <description>W Parku Narodowym &quot;Czeska Szwajcaria&quot;, na zachodzie Czech, wybuchł pożar. Ogień objął kilkaset hektarów lasów. Do walki z żywiołem wykorzystywane są trzy śmigłowce gaśnicze. Władze regionu ogłosiły stan nadzwyczajny.</description>
+      <pubDate>Sat, 02 May 2026 18:44:31 GMT</pubDate>
+      <guid isPermaLink="false">c6f5c64ebaef</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/czechy-pozar-w-parku-narodowym-pozar-w-parku-narodowym-czeska-szwajcaria-wprowadzono-stan-nadzwyczajny-st9028028?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Unsigned Sizes: A Five Year Mistake</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ac6c7feeb70d</link>
       <description>C3 is a programming language that builds on C&apos;s syntax and semantics, evolving it with modern features while retaining familiarity for C programmers.</description>
@@ -64,6 +120,14 @@
       <source url="https://www.rmf24.pl/fakty/polska/news-wazny-moment-juz-w-niedziele-na-zamku-krolewskim-bohaterem-a,nId,8080268">RMF24</source>
     </item>
     <item>
+      <title>Andrzej Poczobut odbierze z rąk prezydenta Order Orła Białego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3aa826673b08</link>
+      <description>Podczas obchodów Święta Narodowego Trzeciego Maja na Zamku Królewskim Andrzej Poczobut odbierze z rąk prezydenta Karola Nawrockiego Order Orła Białego - poinformował na X Paweł Szefernaker, szef gabinetu prezydenta.</description>
+      <pubDate>Sat, 02 May 2026 18:25:13 GMT</pubDate>
+      <guid isPermaLink="false">3aa826673b08</guid>
+      <source url="https://tvn24.pl/polska/andrzej-poczobut-odbierze-z-rak-prezydenta-order-orla-bialego-st9028032?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Ogromne opóźnienia na kolei. Awaria i wstrzymany ruch na trasie z Poznania</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ff6e36105357</link>
       <description>Zerwanie sieci trakcyjnej jest przyczyną ogromnych utrudnień kolejowych na trasie z Poznania do Niemiec. Ponad 200 minut opóźnień mają pociągi z Berlina do Gdynii i z Zielonej Góry do Lublina.</description>
@@ -72,12 +136,28 @@
       <source url="https://www.rmf24.pl/regiony/poznan/news-ogromne-opoznienia-na-kolei-awaria-i-wstrzymany-ruch-na-tras,nId,8080267">RMF24</source>
     </item>
     <item>
+      <title>Pogoda na niedzielę, 3.05: do 30 stopni, słonecznie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/52aa522d1409</link>
+      <description>Pogoda na jutro, czyli na niedzielę, 3.05. Ostatni dzień majówki przyniesie pogodną i słoneczna aurę. Temperatura zbliży się miejscami do 30 stopni. Sprawdź, gdzie będzie najcieplej.</description>
+      <pubDate>Sat, 02 May 2026 18:17:52 GMT</pubDate>
+      <guid isPermaLink="false">52aa522d1409</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-3-05-w-czesci-kraju-zrobi-sie-goraco-st9028003?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>King launches Space Agency project on final day in Bermuda</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9f678ccca14f</link>
       <description>The King concludes his visit to the British overseas territory after landing from the US on Thursday.</description>
       <pubDate>Sat, 02 May 2026 18:08:38 GMT</pubDate>
       <guid isPermaLink="false">9f678ccca14f</guid>
       <source url="https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Rząd sfinalizuje umowę SAFE w ciągu kilkudziesięciu godzin</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/677573a7adee</link>
+      <description>W ciągu kilkudziesięciu godzin podpiszemy umowę SAFE - poinformowała w &quot;Faktach po Faktach&quot; w TVN24 pełnomocniczka rządu do spraw tego programu, Magdalena Sobkowiak-Czarnecka. Jak podkreśliła, &quot;pieniądze już czekają&quot;.</description>
+      <pubDate>Sat, 02 May 2026 18:05:09 GMT</pubDate>
+      <guid isPermaLink="false">677573a7adee</guid>
+      <source url="https://tvn24.pl/polska/program-safe-magdalena-sobkowiak-czarnecka-w-ciagu-kilkudziesieciu-godzin-podpiszemy-umowe-st9028007?source=rss">TVN24</source>
     </item>
     <item>
       <title>NetHack 5.0.0</title>
@@ -152,6 +232,22 @@ of NetHack 3.6.</description>
       <pubDate>Sat, 02 May 2026 17:27:00 GMT</pubDate>
       <guid isPermaLink="false">a4a6aa1d29b2</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Satysfakcja-pacjenta-ma-swoje-zrodla-Kluczowe-sa-odpowiedzialnosc-zaufanie-i-zaangazowanie,283634,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Welcome to Hell Developer</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ae7eb82dcbd</link>
+      <description>Reverse engineering the Wahoo ELEMNT Bolt v3 BLE protocol to unlock a hidden developer debug mode</description>
+      <pubDate>Sat, 02 May 2026 17:25:54 GMT</pubDate>
+      <guid isPermaLink="false">8ae7eb82dcbd</guid>
+      <source url="https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/">Hacker News</source>
+    </item>
+    <item>
+      <title>Deorbitacja rakiety Falcon 9 widoczna w Polsce i Belgii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1b35024465e</link>
+      <description>Tajemniczy, świetlisty wir pojawił się na belgijskim niebie. Była to deorbitacja rakiety Falcon 9. Zjawisko widoczne było też w Polsce.</description>
+      <pubDate>Sat, 02 May 2026 17:23:21 GMT</pubDate>
+      <guid isPermaLink="false">f1b35024465e</guid>
+      <source url="https://tvn24.pl/tvnmeteo/ciekawostki/swietlisty-wir-pojawil-sie-na-niebie-deorbitacja-rakiety-falcon-9-st9027940?source=rss">TVN24</source>
     </item>
     <item>
       <title>Roblox shares plummet 18% as child safety measures weigh on bookings</title>
@@ -312,102 +408,6 @@ of NetHack 3.6.</description>
       <pubDate>Sat, 02 May 2026 15:04:00 GMT</pubDate>
       <guid isPermaLink="false">2ba530099520</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Tego-nie-slyszysz-ale-organizm-reaguje-Badanie-potwierdza-mozna-uwierzyc-w-duchy,283926,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>22-latek zginął w czołowym zderzeniu z wozem strażackim na Pomorzu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c30126231b2</link>
-      <description>22-letni kierowca samochodu osobowego zginął po czołowym zderzeniu z wozem strażackim. Do wypadku doszło w powiecie kościerskim na Pomorzu. Pasażer w ciężkim stanie trafił śmigłowcem LPR do szpitala.</description>
-      <pubDate>Sat, 02 May 2026 15:02:25 GMT</pubDate>
-      <guid isPermaLink="false">8c30126231b2</guid>
-      <source url="https://tvn24.pl/trojmiasto/koscierzyny-czolowe-zderzenie-z-wozem-strazackim-nie-zyje-22-latek-st9027913?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>America&apos;s Expanding Domestic Surveillance</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/398528804581</link>
-      <description>Comments</description>
-      <pubDate>Sat, 02 May 2026 15:02:13 GMT</pubDate>
-      <guid isPermaLink="false">398528804581</guid>
-      <source url="https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187">Hacker News</source>
-    </item>
-    <item>
-      <title>Jakie są zalety aparatu fotograficznego w stosunku do smartfona</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/01451fcadaae</link>
-      <description>Aparat nie jest już słowem, który kojarzy się wyłącznie z przedmiotem dedykowanym do tego zadania, a to oznacza, że pewne elementy można postrzegać nawet jako przestarzałe, a nawet niepotrzebne.</description>
-      <pubDate>Sat, 02 May 2026 15:00:06 GMT</pubDate>
-      <guid isPermaLink="false">01451fcadaae</guid>
-      <source url="https://antyweb.pl/to-dzieki-temu-aparat-jest-lepszy-od-smartfona-nie-chce-tego-stracic">Antyweb</source>
-    </item>
-    <item>
-      <title>Polacy przestali bać się biedy? Rekordowo dobrze oceniamy swoją sytuację materialną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c25f0b9eaa69</link>
-      <description>Odsetek respondentów deklarujących swobodę finansową, którym starcza na wiele bez specjalnego oszczędzenia lub też mogą sobie pozwolić na pewien luksus wynosi 39 proc. i jest najwyższy w historii badań CBOS - wynika z opublikowanych w poniedziałek wyników.</description>
-      <pubDate>Sat, 02 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">c25f0b9eaa69</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polacy-przestali-bac-sie-biedy-Rekordowo-dobrze-oceniamy-swoja-sytuacje-materialna-9123466.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Koniec absurdalnych limitów? Rząd luzuje zasady przewozu ubrań i butów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ed998e04e9ef</link>
-      <description>Proponujemy złagodzenie zasad stosowania systemu SENT dla transportu odzieży i obuwia – powiedział w środę w Sejmie wiceminister finansów Zbigniew Stawicki. Dodał, że nowe regulacje powinny wejść w życie w ciągu tygodnia–dwóch.</description>
-      <pubDate>Sat, 02 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ed998e04e9ef</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Koniec-absurdalnych-limitow-Rzad-luzuje-zasady-przewozu-ubran-i-butow-9124945.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Rząd zaostrza kurs wobec patostreamerów. Posłowie zapowiadają rozszerzenie katalogu kar</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0400a0ef2879</link>
-      <description>Wsłuchując się w głosy ekspertów, zaplanowaliśmy poprawki do projektu ustawy kryminalizującej patostreaming - powiedział w Studiu PAP poseł Koalicji Obywatelskiej Paweł Bliźniuk. Dodał, że planowane zmiany będą dotyczyły m.in. rozszerzenia katalogu czynów, których streamowanie będzie zabronione.</description>
-      <pubDate>Sat, 02 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0400a0ef2879</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rzad-zaostrza-kurs-wobec-patostreamerow-Poslowie-zapowiadaja-rozszerzenie-katalogu-kar-9124100.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Szansa na pokój przepadła. Trump odrzuca otwarcie Cieśniny Ormuz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/63ebceb92629</link>
-      <description>Odrzucona przez prezydenta USA Donalda Trumpa propozycja Iranu przewidywała otwarcie cieśniny Ormuz, pozostawiając rozmowy o irańskim programie jądrowym na później – poinformowała w sobotę agencja Reutera, powołując się na wysokiego rangą irańskiego urzędnika.</description>
-      <pubDate>Sat, 02 May 2026 14:54:00 GMT</pubDate>
-      <guid isPermaLink="false">63ebceb92629</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Szansa-na-pokoj-przepadla-Trump-odrzuca-otwarcie-Ciesniny-Ormuz-9126813.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Najbardziej stroma polska droga jest w Małopolsce. To prawdziwa &quot;rzeźnia&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3b4a9c443666</link>
-      <description>W Małopolsce, wśród malowniczych krajobrazów Beskidu Wyspowego, znajduje się miejsce, które budzi respekt zarówno wśród kierowców, jak i rowerzystów. To właśnie w Laskowej leży najbardziej stroma droga w Polsce, nazywana przez wielu &quot;rzeźnią&quot;. Jej nachylenie sięga bowiem miejscami aż 26 procent, co czyni ją prawdziwym wyzwaniem nawet dla doświadczonych miłośników motoryzacji i sportów rowerowych.</description>
-      <pubDate>Sat, 02 May 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="false">3b4a9c443666</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-najbardziej-stroma-polska-droga-jest-w-malopolsce-to-prawdzi,nId,8079944">RMF24</source>
-    </item>
-    <item>
-      <title>Filipiński wulkan Mayon wyrzucił dym, władze wydały ostrzeżenie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/14541151cbd0</link>
-      <description>Filipiński wulkan Mayon dał o sobie znać w sobotę. Z krateru wydobyły się ogromne ilości kłębiącego się dymu. Władze wydały ostrzeżenie i zaapelowały do mieszkańców wyspy Luzon, aby nie zbliżali się do wulkanu.</description>
-      <pubDate>Sat, 02 May 2026 14:45:33 GMT</pubDate>
-      <guid isPermaLink="false">14541151cbd0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/filipiny-luzon-wulkan-mayon-sie-uaktywnil-st9027831?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Policjant na motocyklu wpadł na kobietę podczas pościgu na Podkarpaciu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/afb8312aae7e</link>
-      <description>Policyjny pościg zakończył się wypadkiem. W Jabłonicy na Podkarpaciu funkcjonariusz na motocyklu stracił panowanie nad pojazdem i wpadł na stojącą na łące kobietę. Poszkodowana trafiła do szpitala, a policja wyjaśnia okoliczności zdarzenia.</description>
-      <pubDate>Sat, 02 May 2026 14:44:43 GMT</pubDate>
-      <guid isPermaLink="false">afb8312aae7e</guid>
-      <source url="https://tvn24.pl/rzeszow/jablonica-policjant-na-motocyklu-wjechal-w-kobiete-st9027864?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Reporter TVN24 obserwował Bielsko-Białą szybowcem z okazji 25-lecia stacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a2239d1102b4</link>
-      <description>25. urodziny TVN24 świętowaliśmy dziś w Bielsku-Białej. To jeden z najważniejszych ośrodków szybowcowych w Polsce. Miasto z góry obserwował reporter TVN24 Artur Molęda.</description>
-      <pubDate>Sat, 02 May 2026 14:43:23 GMT</pubDate>
-      <guid isPermaLink="false">a2239d1102b4</guid>
-      <source url="https://tvn24.pl/25-lat-TVN24/urodzinowa-trasa-tvn24-reporter-tvn24-lecial-szybowcem-nad-bielskiem-biala-st9027863?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>30 tysięcy osób na nielegalnym rave we Francji, na terenie byłego poligonu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b12e268787dc</link>
-      <description>Nawet 30 tysięcy osób może przyjechać na nielegalny rave w centralnej Francji, niedaleko Bourges. Odbywa się on na terenie, który wojsko przez 150 lat wykorzystywało jako poligon. Wciąż odnajdywane są tam niewybuchy.</description>
-      <pubDate>Sat, 02 May 2026 14:41:25 GMT</pubDate>
-      <guid isPermaLink="false">b12e268787dc</guid>
-      <source url="https://tvn24.pl/swiat/francja-tysiace-osob-przyjechalo-na-rave-kolo-bourges-pomimo-ostrzezen-przed-niewybuchami-st9027828?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
