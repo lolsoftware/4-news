@@ -5,8 +5,80 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 03 May 2026 15:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:10:47 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ptasia mięta rośnie pod nogami. Większość depcze, a to naturalna multiwitamina</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6bd17a6c1ad3</link>
+      <description>Potocznie mówi się o niej ptasia mięta, choć ze smakiem mięty nie ma nic wspólnego. Mowa o gwiazdnicy pospolitej: wszechobecnym w Polsce chwaście. Mało osób wie, że ta niepozorna roślina jest nie tylko jadalna, ale i bardzo zdrowa.</description>
+      <pubDate>Sun, 03 May 2026 18:48:00 GMT</pubDate>
+      <guid isPermaLink="false">6bd17a6c1ad3</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Ptasia-mieta-rosnie-pod-nogami-Wiekszosc-depcze-a-to-naturalna-multiwitamina,283934,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>What Chromium versions are major browsers are on?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5048b227c921</link>
+      <description>When a browser ships an older Chromium version, its users are exposed to known, already-patched security vulnerabilities. Attackers actively exploit these flaws, since the fixes are public in Chromium&apos;s source but not yet shipped to users of the lagging browser.</description>
+      <pubDate>Sun, 03 May 2026 17:05:58 GMT</pubDate>
+      <guid isPermaLink="false">5048b227c921</guid>
+      <source url="https://chromium-drift.pages.dev/">Hacker News</source>
+    </item>
+    <item>
+      <title>Tytuł przeszedł obok nosa. Porażka Hurkacza w finale</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/32ed1bea86a0</link>
+      <description>Hubert Hurkacz nie zdołał sięgnąć po tytuł w turnieju ATP Challenger 175 w Cagliari. Polski tenisista uległ Włochowi Matteo Arnaldimu 4:6, 4:6 w finale rozgrywanym na kortach ziemnych.</description>
+      <pubDate>Sun, 03 May 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="false">32ed1bea86a0</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-tytul-przeszedl-obok-nosa-porazka-hurkacza-w-finale,nId,8080314">RMF24</source>
+    </item>
+    <item>
+      <title>Gry wideo mogą pozytywnie wpływać na mózg przy odpowiednim podejściu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b15f0f9bf76e</link>
+      <description>Granie może pozytywnie wpływać na mózg, pod warunkiem że potrafisz robić to z głową.</description>
+      <pubDate>Sun, 03 May 2026 17:00:36 GMT</pubDate>
+      <guid isPermaLink="false">b15f0f9bf76e</guid>
+      <source url="https://antyweb.pl/granie-w-gry-naprawde-wplywa-na-mozg-ale-nie-tak-jak-mowila-ci-mama">Antyweb</source>
+    </item>
+    <item>
+      <title>Uncle Bob: It&apos;s Over</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1bc2dbce5cdb</link>
+      <description>Comments</description>
+      <pubDate>Sun, 03 May 2026 16:29:07 GMT</pubDate>
+      <guid isPermaLink="false">1bc2dbce5cdb</guid>
+      <source url="https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/">Hacker News</source>
+    </item>
+    <item>
+      <title>Zamkną pas na zakopiance. Utrudnienia już od jutra</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e1c49494297</link>
+      <description>Drogowcy informują o konieczności zamknięcia jednego pasa ruchu na popularnej zakopiance. Utrudnienia zaczną się w poniedziałek, a powodowane są m.in. koniecznością uzupełnienia barier energochłonnych.</description>
+      <pubDate>Sun, 03 May 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">6e1c49494297</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-zamkna-pas-na-zakopiance-utrudnienia-juz-od-jutra,nId,8080311">RMF24</source>
+    </item>
+    <item>
+      <title>Scientists just discovered what coffee is really doing to your gut and brain</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2b55e3ff7b41</link>
+      <description>Coffee doesn’t just energize—it actively reshapes the gut and mind. Researchers found that both caffeinated and decaf coffee altered gut bacteria in ways linked to better mood and lower stress. Decaf even improved learning and memory, while caffeine boosted focus and reduced anxiety. Together, they show coffee works through multiple pathways beyond just caffeine.</description>
+      <pubDate>Sun, 03 May 2026 16:18:40 GMT</pubDate>
+      <guid isPermaLink="false">2b55e3ff7b41</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260502233911.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: How do you issue a ticket to a robotaxi?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6493eb6de827</link>
+      <description>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.</description>
+      <pubDate>Sun, 03 May 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">6493eb6de827</guid>
+      <source url="https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Malaria didn’t just kill early humans, it shaped who we became</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/80bca770cf27</link>
+      <description>Long before humans spread across the globe, a deadly disease may have quietly shaped where our ancestors lived—and even how we evolved. New research reveals that malaria didn’t just threaten early human survival; it actively pushed populations away from high-risk regions across Africa, fragmenting groups over tens of thousands of years. This separation influenced how different populations met, mixed, and exchanged genes, helping shape the genetic diversity we see today.</description>
+      <pubDate>Sun, 03 May 2026 16:04:21 GMT</pubDate>
+      <guid isPermaLink="false">80bca770cf27</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260502233859.htm">ScienceDaily</source>
+    </item>
     <item>
       <title>Czy szpital to przedsiębiorca? Znamy wytyczne Ministerstwa Zdrowia</title>
       <link>https://lolsoftware.github.io/4-news/#/article/699c5add7773</link>
@@ -14,6 +86,38 @@
       <pubDate>Sun, 03 May 2026 16:01:00 GMT</pubDate>
       <guid isPermaLink="false">699c5add7773</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Czy-szpital-to-przedsiebiorca-Znamy-wytyczne-Ministerstwa-Zdrowia,283774,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>For thirty years I programmed with Phish on, every day</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/04ad3d671cd0</link>
+      <description>For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work.</description>
+      <pubDate>Sun, 03 May 2026 15:55:59 GMT</pubDate>
+      <guid isPermaLink="false">04ad3d671cd0</guid>
+      <source url="https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Niemal 29 stopni. Po gorącej majówce czeka nas pogodowa huśtawka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b0e4ef61cc7e</link>
+      <description>Majówka przyniosła pogodę idealną do wypoczynku, ale już w najbliższych dniach czeka nas zmiana aury. Synoptycy ostrzegają przed burzami, opadami deszczu i spadkiem temperatury.</description>
+      <pubDate>Sun, 03 May 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="false">b0e4ef61cc7e</guid>
+      <source url="https://www.rmf24.pl/pogoda/news-niemal-29-stopni-po-goracej-majowce-czeka-nas-pogodowa-husta,nId,8080310">RMF24</source>
+    </item>
+    <item>
+      <title>Police officer lowered into crocodile-infested river to recover human remains</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e614dd954ea4</link>
+      <description>Police suspect the human remains belong to a businessman swept away by floodwater last week.</description>
+      <pubDate>Sun, 03 May 2026 15:47:59 GMT</pubDate>
+      <guid isPermaLink="false">e614dd954ea4</guid>
+      <source url="https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Mild and mostly dry bank holiday but heavy showers possible for some</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/be84e9af0443</link>
+      <description>Temperatures across the UK are expected to take a dip, with the potential for some heavy showers and thunder in some areas.</description>
+      <pubDate>Sun, 03 May 2026 15:41:18 GMT</pubDate>
+      <guid isPermaLink="false">be84e9af0443</guid>
+      <source url="https://www.bbc.com/news/articles/cj4p92049nlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Alarm po kontroli kiełbas. Inspekcja ujawnia, co naprawdę trafia do sklepów</title>
@@ -24,12 +128,52 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Alarm-po-kontroli-kielbas-Inspekcja-ujawnia-co-naprawde-trafia-do-sklepow,283932,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Samoloty i śmigłowce w akcji gaszenia pożaru niedaleko Częstochowy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/16adfd69b330</link>
+      <description>Poważny pożar lasu wybuchł w niedzielę w Hutkach, niedaleko Częstochowy (woj. śląskie). Żywioł szybko się rozprzestrzenił, a służby walcząc z nim, użyły aż dwóch samolotów i helikopterów gaśniczych.</description>
+      <pubDate>Sun, 03 May 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="false">16adfd69b330</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-samoloty-i-smiglowce-w-akcji-gaszenia-pozaru-niedaleko-czest,nId,8080309">RMF24</source>
+    </item>
+    <item>
+      <title>The creepy feeling in old buildings might have a surprising cause</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a03afea669bc</link>
+      <description>A hidden force may be quietly shaping how you feel—and you’d never even know it. Infrasound, an ultra-low-frequency vibration below the range of human hearing, is everywhere from traffic to old buildings. In a small experiment, people exposed to it became more irritable, less engaged, and even showed higher levels of the stress hormone cortisol—despite having no idea it was present. The findings suggest our bodies can “sense” these vibrations without conscious awareness, potentially explaining eerie sensations in places like basements or supposedly haunted buildings.</description>
+      <pubDate>Sun, 03 May 2026 15:27:24 GMT</pubDate>
+      <guid isPermaLink="false">a03afea669bc</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260502233901.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Kierowca był pijany, miał zakaz. W wypadku zginął jego 16-letni pasażer</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b6758f861746</link>
+      <description>Tragiczny wypadek w gminie Węgorzewo w województwie warmińsko-mazurskim. Pijany kierowca z zakazem prowadzenia pojazdów uderzył w drzewo. Jego 16-letni pasażer zginął, a 39-letnia pasażerka została ranna. 45-latkowi, który był za kierownicą, nie stało się nic poważnego. &quot;Tej tragedii można było uniknąć&quot; - piszą wprost policjanci z Komendy Wojewódzkiej Policji w Olsztynie.</description>
+      <pubDate>Sun, 03 May 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="false">b6758f861746</guid>
+      <source url="https://www.rmf24.pl/regiony/olsztyn/news-kierowca-byl-pijany-mial-zakaz-w-wypadku-zginal-jego-16-letn,nId,8080308">RMF24</source>
+    </item>
+    <item>
+      <title>USA nakładają sankcje, Chiny zakazują ich uznawania. Handel ropą w kropce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a335185eb1d9</link>
+      <description>Chińskie ministerstwo handlu zakazało uznawania i wdrażania amerykańskich sankcji nałożonych na pięć chińskich rafinerii za handel ropą z Iranem - poinformował rządowy dziennik &quot;Renmin Ribao&quot;. Resort podkreślił, że restrykcje Waszyngtonu są nieuzasadnione, naruszają prawo międzynarodowe i ograniczają legalną działalność gospodarczą chińskich firm z krajami trzecimi.</description>
+      <pubDate>Sun, 03 May 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="false">a335185eb1d9</guid>
+      <source url="https://www.rmf24.pl/ekonomia/news-usa-nakladaja-sankcje-chiny-zakazuja-ich-uznawania-handel-ro,nId,8080307">RMF24</source>
+    </item>
+    <item>
       <title>Najtańsze i najdroższe lokale kupowane są najczęściej za gotówkę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cc9deca11d6e</link>
       <description>Najtańsze i najdroższe lokale kupowane są najczęściej za gotówkę, ale między tymi dwoma biegunami dominują klienci finansujący zakup przede wszystkim kredytem hipotecznym - i to właśnie oni stanowią statystycznie najliczniejszą grupę - podał Otodom w komunikacie prasowym. W I kw. 2026 r. liczba udzielonych kredytów wyniesie ok. 70 tys., a ich wartość ok. 31 mld zł - przewiduje Otodom.</description>
       <pubDate>Sun, 03 May 2026 15:00:00 GMT</pubDate>
       <guid isPermaLink="false">cc9deca11d6e</guid>
       <source url="https://www.bankier.pl/wiadomosc/Najtansze-i-najdrozsze-lokale-kupowane-sa-najczesciej-za-gotowke-9123490.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e280bc29f76</link>
+      <description>Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United&apos;s Premier League match with Liverpool on Sunday.</description>
+      <pubDate>Sun, 03 May 2026 14:56:40 GMT</pubDate>
+      <guid isPermaLink="false">6e280bc29f76</guid>
+      <source url="https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>1 lipca: ważna zmiana dla pacjentów. Koniec fikcyjnych kolejek, NFZ zmienia zasady</title>
@@ -46,6 +190,14 @@
       <pubDate>Sun, 03 May 2026 14:45:00 GMT</pubDate>
       <guid isPermaLink="false">bd1dca5514e3</guid>
       <source url="https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Mercedes-Benz commits to bringing back physical buttons</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bf480dff47ee</link>
+      <description>Another brand backflips and admits that touch-sensitive buttons for frequently used controls were a mistake.</description>
+      <pubDate>Sun, 03 May 2026 14:43:27 GMT</pubDate>
+      <guid isPermaLink="false">bf480dff47ee</guid>
+      <source url="https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/">Hacker News</source>
     </item>
     <item>
       <title>Utah to hold websites liable for users who mask their location with VPNs</title>
@@ -78,6 +230,14 @@
       <pubDate>Sun, 03 May 2026 14:16:00 GMT</pubDate>
       <guid isPermaLink="false">66a5bf28ffaf</guid>
       <source url="https://www.rmf24.pl/polityka/news-zmiana-konstytucji-szef-mon-to-nie-przepisy-sa-do-wymiany-to,nId,8080303">RMF24</source>
+    </item>
+    <item>
+      <title>Porsche will contest Laguna Seca in historic colors of the Apple Computer livery</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e58281e0cdb7</link>
+      <description>Preview, IMSA WeatherTech SportsCar Championship, Round 4, Laguna Seca</description>
+      <pubDate>Sun, 03 May 2026 14:13:23 GMT</pubDate>
+      <guid isPermaLink="false">e58281e0cdb7</guid>
+      <source url="https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html">Hacker News</source>
     </item>
     <item>
       <title>Karty pamięci do aparatu: dlaczego warto inwestować w jakość</title>
@@ -246,166 +406,6 @@
       <pubDate>Sun, 03 May 2026 12:50:47 GMT</pubDate>
       <guid isPermaLink="false">df556a9f89e3</guid>
       <source url="https://www.sciencedaily.com/releases/2026/05/260501052842.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Czekolada może być &quot;eliksirem młodości&quot;. Decydujący jest jeden składnik</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d52b6f7abfe0</link>
-      <description>Najnowsze badania naukowców z King’s College London sugerują, że spożywanie gorzkiej czekolady może pomagać spowalniać procesy starzenia. Kluczowe znaczenie ma teobromina - naturalny składnik obecny w ziarnach kakaowca, który odpowiada za potencjalne korzyści zdrowotne.</description>
-      <pubDate>Sun, 03 May 2026 12:44:00 GMT</pubDate>
-      <guid isPermaLink="false">d52b6f7abfe0</guid>
-      <source url="https://www.rmf24.pl/ciekawostki/news-czekolada-moze-byc-eliksirem-mlodosci-decydujacy-jest-jeden-,nId,8079951">RMF24</source>
-    </item>
-    <item>
-      <title>Tragiczny wypadek na jeziorze. Sternik usłyszał zarzut</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6fdaa717ebc</link>
-      <description>33-letni mężczyzna usłyszał zarzuty w związku z tragedią na jeziorze Salińskim na Pomorzu. Po pijanemu kierował łodzią, która się przewróciła. Zginęły dwie osoby - kobieta i mężczyzna w wieku 28 lat.</description>
-      <pubDate>Sun, 03 May 2026 12:31:00 GMT</pubDate>
-      <guid isPermaLink="false">b6fdaa717ebc</guid>
-      <source url="https://www.rmf24.pl/regiony/olsztyn/news-tragiczny-wypadek-na-jeziorze-sternik-uslyszal-zarzut,nId,8080284">RMF24</source>
-    </item>
-    <item>
-      <title>Japonia uruchamia organizację SETI i planuje obserwacje sygnału Wow!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6adb74c4743</link>
-      <description>Japonia uruchamia własną organizację SETI i planuje obserwacje sygnału Wow! w 2027 roku. To powrót do jednej z największych zagadek kosmosu.</description>
-      <pubDate>Sun, 03 May 2026 12:30:53 GMT</pubDate>
-      <guid isPermaLink="false">b6adb74c4743</guid>
-      <source url="https://antyweb.pl/japonia-obcy-sygnal-wow">Antyweb</source>
-    </item>
-    <item>
-      <title>Pożar na terenie parafii. Zapaliły się tuje przy pomniku Jana Pawła II</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aef06692e6e0</link>
-      <description>Na terenie jednej z parafii w warszawskiej Wesołej zapaliły się tuje rosnące przy pomniku Jana Pawła II. Jak informuje straż pożarna, nie ma osób poszkodowanych.</description>
-      <pubDate>Sun, 03 May 2026 12:28:56 GMT</pubDate>
-      <guid isPermaLink="false">aef06692e6e0</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wesola/warszawa-pozar-na-terenie-parafii-najswietszego-serca-pana-jezusa-w-wesolej-zapalily-sie-tuje-przy-pomniku-jana-pawla-ii-st9028538?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Two women die trying to cross Channel in small boat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7161a9d3605d</link>
-      <description>The boat, carrying 82 people, ran aground on a beach in northern France, says local official.</description>
-      <pubDate>Sun, 03 May 2026 12:26:49 GMT</pubDate>
-      <guid isPermaLink="false">7161a9d3605d</guid>
-      <source url="https://www.bbc.com/news/articles/cvgz6q7p7n7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Wyciekł kod źródłowy Metal Gear Solid 2</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e91930cf2e75</link>
-      <description>Nikt się nie spodziewał że w 2026 roku będzie tak głośno na temat remake&apos;u Metal Gear Solid 2. A wszystko to za sprawą wycieku kodu źródłowego gry.</description>
-      <pubDate>Sun, 03 May 2026 12:22:25 GMT</pubDate>
-      <guid isPermaLink="false">e91930cf2e75</guid>
-      <source url="https://antyweb.pl/do-sieci-wyciekl-kod-zrodlowy-metal-gear-solid-2-modderzy-juz-zacieraja-rece">Antyweb</source>
-    </item>
-    <item>
-      <title>&quot;Spory są im bardzo na rękę&quot;. Abp Galbas ostrzega</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb2f38a9f6c2</link>
-      <description>W czasie mszy św. za ojczyznę w archikatedrze warszawskiej arcybiskup Adrian Galbas mówił że &quot;nawet najlepsza konstytucja nie zagwarantuje dobrego funkcjonowania państwa, jeśli nie będzie w nim wystarczającej reprezentacji cnotliwych obywateli&quot;. Metropolita warszawski ostrzegał także przed &quot;zewnętrznymi graczami&quot;, którym są na rękę polskie spory.</description>
-      <pubDate>Sun, 03 May 2026 12:20:00 GMT</pubDate>
-      <guid isPermaLink="false">bb2f38a9f6c2</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-spory-sa-im-bardzo-na-reke-abp-galbas-ostrzega,nId,8080300">RMF24</source>
-    </item>
-    <item>
-      <title>GKS dobił gości. Mamy pierwszego spadkowicza z PKO BP Ekstraklasy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/700e4b893dcb</link>
-      <description>Bruk-Bet Termalica Nieciecza przegrała na wyjeździe z GKS-em Katowice 1:5 w meczu 31. kolejki PKO BP Ekstraklasy. Tak dotkliwa porażka oznacza, że zespół z Małopolski opuszcza najwyższą klasę rozgrywkową i w przyszłym sezonie zagra w 1. lidze.</description>
-      <pubDate>Sun, 03 May 2026 12:18:00 GMT</pubDate>
-      <guid isPermaLink="false">700e4b893dcb</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-gks-dobil-gosci-mamy-pierwszego-spadkowicza-z-pko-bp-ekstrak,nId,8080301">RMF24</source>
-    </item>
-    <item>
-      <title>Wpisy o podniesionej takcie w polskich kościołach nie mają potwierdzenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/53bd426d34ef</link>
-      <description>Czy polscy księża byli niezadowoleni z wysokości datków na tacę? Tak sugeruje rozpowszechniany w sieci przekaz - jednak nie zgadza się ani kraj, ani problem zgłaszany przez duchownych. Wyjaśniamy.</description>
-      <pubDate>Sun, 03 May 2026 12:17:31 GMT</pubDate>
-      <guid isPermaLink="false">53bd426d34ef</guid>
-      <source url="https://konkret24.tvn24.pl/swiat/na-tace-od-50-zl-w-gore-gdzie-ksieza-prosza-wiernych-st9025588?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Samochód zapalił się na DW125 w okolicy Cedyni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/82dd8157b416</link>
-      <description>Pożar auta na DW125 w okolicy Cedyni. Kierowca wyszedł o własnych siłach.</description>
-      <pubDate>Sun, 03 May 2026 11:59:23 GMT</pubDate>
-      <guid isPermaLink="false">82dd8157b416</guid>
-      <source url="https://tvn24.pl/szczecin/cedynia-pozar-samochodu-chwile-grozy-na-drodze-wojewodzkiej-st9028529?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Oto kto obudził się w Tatrach. TPN apeluje: Patrzcie pod nogi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/21a0c2ab74e9</link>
-      <description>&quot;Uwaga na żmije. Na niżej położonych terenach w ciepłe i słoneczne dni, można już trafić na węże wygrzewające się w promieniach słońca. Żmija zygzakowata to jedyny jadowity wąż w Polsce. Jej jad może być niebezpieczny, ale tragiczne wypadki zdarzają się bardzo rzadko&quot; - przestrzega Tatrzański Park Narodowy.</description>
-      <pubDate>Sun, 03 May 2026 11:50:55 GMT</pubDate>
-      <guid isPermaLink="false">21a0c2ab74e9</guid>
-      <source url="https://www.rmf24.pl/regiony/zakopane/news-oto-kto-obudzil-sie-w-tatrach-tpn-apeluje-patrzcie-pod-nogi,nId,8080298">RMF24</source>
-    </item>
-    <item>
-      <title>Pijany kierowca potrącił dziecko na przejściu dla pieszych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/616eac4f9526</link>
-      <description>Policjanci z Krasnegostawu zatrzymali 44-latka, który na przejściu dla pieszych potrącił 10-latka. Mężczyzna uciekł z miejsca zdarzenia. Kierował autem będąc w stanie po użyciu alkoholu.</description>
-      <pubDate>Sun, 03 May 2026 11:50:45 GMT</pubDate>
-      <guid isPermaLink="false">616eac4f9526</guid>
-      <source url="https://tvn24.pl/lublin/krasnystaw-kierowca-potracil-dziecko-i-uciekl-nagranie-st9028423?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Are your memories real? Physicists revisit the Boltzmann brain paradox</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cb593a8827a5</link>
-      <description>A new analysis of the “Boltzmann brain” paradox suggests our memories and sense of reality could, in theory, be random illusions born from cosmic chaos. By uncovering circular reasoning in how physicists think about time and entropy, the study raises fresh doubts about what we can truly know about the past.</description>
-      <pubDate>Sun, 03 May 2026 11:47:08 GMT</pubDate>
-      <guid isPermaLink="false">cb593a8827a5</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/05/260502233922.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>&quot;Konflikt poszedł za daleko&quot;. Nawrocki na obchodach Święta Narodowego Trzeciego Maja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f1b1a4ab0504</link>
-      <description>Podczas dzisiejszych uroczystości w dniu święta Konstytucji 3 Maja prezydent Karol Nawrocki powiedział, że konflikt polityczny w Polsce poszedł za daleko, niszczy ustrój i fundamenty państwa. Dodał, że jego zdaniem instytucje państwowe zaangażowane są do walki politycznej i partyjnej, a system praworządności produkuje chaos. Mówił także, że &quot;trzeba zmodernizować konstytucję z 1997 roku albo ją zmienić&quot;.</description>
-      <pubDate>Sun, 03 May 2026 11:30:32 GMT</pubDate>
-      <guid isPermaLink="false">f1b1a4ab0504</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-konflikt-poszedl-za-daleko-nawrocki-na-obchodach-swieta-naro,nId,8080297">RMF24</source>
-    </item>
-    <item>
-      <title>Robot Unitree G1 nauczył się poruszać na łyżwach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15f6d91d70f0</link>
-      <description>Unitree pokazało swojego robota G1 zasuwającego na kołach, rolkach i... łyżwach. Maszyna utrzymuje równowagę w trudnym typie ruchu, a to od zawsze było postrzegane jako ich granica. Trudno oprzeć się wrażeniu, że postęp tu wydarza się wręcz z tygodnia na tydzień...</description>
-      <pubDate>Sun, 03 May 2026 11:30:02 GMT</pubDate>
-      <guid isPermaLink="false">15f6d91d70f0</guid>
-      <source url="https://antyweb.pl/unitree-g1-kola-mozliwosci">Antyweb</source>
-    </item>
-    <item>
-      <title>All Four Sentinel-1 Satellites Are Now Live</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a88fa336a478</link>
-      <description>Comments</description>
-      <pubDate>Sun, 03 May 2026 11:19:53 GMT</pubDate>
-      <guid isPermaLink="false">a88fa336a478</guid>
-      <source url="https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/">Hacker News</source>
-    </item>
-    <item>
-      <title>Czy dorosłe przyjaźnie mogą wyglądać jak w serialu &quot;Przyjaciele&quot;?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d825adbc86bf</link>
-      <description>Czy prawdziwe przyjaźnie dorosłych mogą wyglądać jak w kultowym serialu &quot;Przyjaciele&quot; - wspólne mieszkanie, codzienne spotkania i życie splecione na co dzień? - Tak intensywne relacje są możliwe, ale tylko w pewnych momentach życia. Z wiekiem zmienia się sposób budowania więzi i priorytety - podkreśla w rozmowie z tvn24.pl Katarzyna Kucewicz, psycholożka.</description>
-      <pubDate>Sun, 03 May 2026 11:13:16 GMT</pubDate>
-      <guid isPermaLink="false">d825adbc86bf</guid>
-      <source url="https://tvn24.pl/zdrowie/przyjaciele-w-prawdziwym-zyciu-czy-bliskie-relacje-w-doroslosci-to-mit-st9025637?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Polityk krytykuje prezydenta za blokowanie zmian konstytucji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6a8196e10a7</link>
-      <description>Prezydent blokuje, wetuje, zaostrza spór polityczny, a jak już go zaostrzył, to mówi, że &quot;system nie działa&quot; - powiedział Krzysztof Hetman z PSL, komentując powołanie przez prezydenta Nawrockiego Rady Nowej Konstytucji. - Konstytucję już mamy od 29 lat, więc czas najwyższy poważnie porozmawiać - ocenił z kolei Jarosław Sellin z PiS. Jednak według Katarzyny Lubnauer z KO, Polacy &quot;na pewno by nie chcieli poszerzać uprawnień prezydenta&quot;.</description>
-      <pubDate>Sun, 03 May 2026 11:12:48 GMT</pubDate>
-      <guid isPermaLink="false">a6a8196e10a7</guid>
-      <source url="https://tvn24.pl/polska/prezydent-chce-zmiany-powolal-rade-nowej-konstytucji-politycy-komentuja-st9028330?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>39 dni urlopu i 10 860 zł miesięcznie. Służba Więzienna ma pracę dla cywilów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66ae2c07654c</link>
-      <description>Jest praca dla cywilów: Służba Więzienna prowadzi nabór do zakładów karnych  aresztów w całej Polsce. Poszukiwani są m.in. pielęgniarki i ratownicy medyczni.</description>
-      <pubDate>Sun, 03 May 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="false">66ae2c07654c</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/39-dni-urlopu-i-10-860-zl-miesiecznie-Sluzba-Wiezienna-ma-prace-dla-cywilow,283839,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Uroczystości rocznicowe na Placu Zamkowym. Nawrocki mówi o nowej konstytucji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1c25d912e234</link>
-      <description>Podczas uroczystych obchodów 235. rocznicy uchwalenia Konstytucji 3 Maja na Placu Zamkowym w Warszawie przemawiał prezydent RP Karol Nawrocki. Mówił, że Polska potrzebuje dziś konstytucji nowej generacji roku 2030.</description>
-      <pubDate>Sun, 03 May 2026 11:06:58 GMT</pubDate>
-      <guid isPermaLink="false">1c25d912e234</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/uroczystosci-rocznicowe-na-placu-zamkowym-nawrocki-mowi-o-nowej-konstytucji-st9028486?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
