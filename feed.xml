@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 03 May 2026 19:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 21:05:47 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>&apos;I was trying to save a life,&apos; says man who intervened in Golders Green attack</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3496031a9e99</link>
+      <description>Ashkan Asadian said he acted on the spur of the moment without thinking about the danger of the situation.</description>
+      <pubDate>Sun, 03 May 2026 21:00:11 GMT</pubDate>
+      <guid isPermaLink="false">3496031a9e99</guid>
+      <source url="https://www.bbc.com/news/articles/c1529vgdvlgo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Dobre wieści z BBN-u. Na ten dokument czekamy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/28558e05d3ea</link>
+      <description>​Biuro Bezpieczeństwa Narodowego zakończyło prace nad nową Strategią Bezpieczeństwa Narodowego - poinformował w niedzielę gen. Andrzej Kowalski, pełniący obowiązki szefa BBN. Dokument został przekazany do rządu i po podpisaniu przez premiera ma trafić do prezydenta.</description>
+      <pubDate>Sun, 03 May 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">28558e05d3ea</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-dobre-wiesci-z-bbn-u-na-ten-dokument-czekamy,nId,8080322">RMF24</source>
+    </item>
+    <item>
+      <title>‘This is fine’ creator says AI startup stole his art</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/792b98e230bb</link>
+      <description>The ad comes from Artisan, the AI startup behind billboards urging businesses to &quot;stop hiring humans.&quot;</description>
+      <pubDate>Sun, 03 May 2026 20:16:51 GMT</pubDate>
+      <guid isPermaLink="false">792b98e230bb</guid>
+      <source url="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/">TechCrunch</source>
+    </item>
+    <item>
+      <title>​Dramatyczna akcja w RPA. Policjant opuszczony do rzeki pełnej krokodyli</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1b3ae9855d87</link>
+      <description>W Republice Południowej Afryki przeprowadzono niezwykle niebezpieczną operację odzyskania ludzkich szczątków z rzeki opanowanej przez krokodyle. Funkcjonariusz został opuszczony na linie ze śmigłowca do rzeki Komati w północno-wschodniej części kraju. Wcześniej zauważono tam gada podejrzewanego o zaatakowanie zaginionego biznesmena.</description>
+      <pubDate>Sun, 03 May 2026 20:06:00 GMT</pubDate>
+      <guid isPermaLink="false">1b3ae9855d87</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-dramatyczna-akcja-w-rpa-policjant-opuszczony-do-rzeki-pelnej,nId,8080321">RMF24</source>
+    </item>
     <item>
       <title>Szpitale szukają innowacji. &quot;Brakuje czasu i dedykowanych jednostek do analizy rozwiązań&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a41cea4b327c</link>
@@ -14,6 +46,22 @@
       <pubDate>Sun, 03 May 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">a41cea4b327c</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Szpitale-szukaja-innowacji-Brakuje-czasu-i-dedykowanych-jednostek-do-analizy-rozwiazan,283407,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Serious injuries as man falls &apos;number of floors&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4df10759b889</link>
+      <description>Police seal off a bar in Colmore Row as the venue closes and apologises to customers.</description>
+      <pubDate>Sun, 03 May 2026 20:00:40 GMT</pubDate>
+      <guid isPermaLink="false">4df10759b889</guid>
+      <source url="https://www.bbc.com/news/articles/cn0p89zgeyno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Make Your Own Microforest</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0b62e2da54cf</link>
+      <description>The Miyawaki method of reforestation inserts small, densely packed wild acreage into urban environs. It’s proving wildly successful.</description>
+      <pubDate>Sun, 03 May 2026 19:31:35 GMT</pubDate>
+      <guid isPermaLink="false">0b62e2da54cf</guid>
+      <source url="https://ambrook.com/offrange/environment/a-forest-in-your-pocket">Hacker News</source>
     </item>
     <item>
       <title>Szwajcaria zakazała, Polacy sadzą na potęgę. Ten hit ogrodów ma ciemną stronę</title>
@@ -56,6 +104,14 @@
       <source url="https://www.rmf24.pl/regiony/slaskie/news-pozar-w-gliwicach-slupy-dymu-widoczne-z-daleka,nId,8080320">RMF24</source>
     </item>
     <item>
+      <title>Statue of a man blinded by a flag put up by Banksy in central London</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffd23e919e1c</link>
+      <description>The artwork was installed under the cloak of night this week, less than two months after a journalism investigation into Banksy’s true identity was published</description>
+      <pubDate>Sun, 03 May 2026 18:54:28 GMT</pubDate>
+      <guid isPermaLink="false">ffd23e919e1c</guid>
+      <source url="https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/">Hacker News</source>
+    </item>
+    <item>
       <title>Ptasia mięta rośnie pod nogami. Większość depcze, a to naturalna multiwitamina</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6bd17a6c1ad3</link>
       <description>Potocznie mówi się o niej ptasia mięta, choć ze smakiem mięty nie ma nic wspólnego. Mowa o gwiazdnicy pospolitej: wszechobecnym w Polsce chwaście. Mało osób wie, że ta niepozorna roślina jest nie tylko jadalna, ale i bardzo zdrowa.</description>
@@ -94,6 +150,14 @@
       <pubDate>Sun, 03 May 2026 18:28:06 GMT</pubDate>
       <guid isPermaLink="false">43cce062c288</guid>
       <source url="https://death-of-scrum.net/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Ableton Live MCP</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0a2389a7127a</link>
+      <description>General-purpose MCP bridge for Ableton Live. Contribute to bschoepke/ableton-live-mcp development by creating an account on GitHub.</description>
+      <pubDate>Sun, 03 May 2026 18:05:28 GMT</pubDate>
+      <guid isPermaLink="false">0a2389a7127a</guid>
+      <source url="https://github.com/bschoepke/ableton-live-mcp">Hacker News</source>
     </item>
     <item>
       <title>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</title>
@@ -232,6 +296,14 @@
       <source url="https://www.rmf24.pl/regiony/krakow/news-zamkna-pas-na-zakopiance-utrudnienia-juz-od-jutra,nId,8080311">RMF24</source>
     </item>
     <item>
+      <title>Zamkną pas na zakopiance. Będą utrudnienia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d29bbd595bba</link>
+      <description>Drogowcy informują o konieczności zamknięcia jednego pasa ruchu na popularnej zakopiance. Utrudnienia zaczną się w poniedziałek, a powodowane są m.in. koniecznością uzupełnienia barier energochłonnych.</description>
+      <pubDate>Sun, 03 May 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">d29bbd595bba</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-zamkna-pas-na-zakopiance-beda-utrudnienia,nId,8080311">RMF24</source>
+    </item>
+    <item>
       <title>Scientists just discovered what coffee is really doing to your gut and brain</title>
       <link>https://lolsoftware.github.io/4-news/#/article/2b55e3ff7b41</link>
       <description>Coffee doesn’t just energize—it actively reshapes the gut and mind. Researchers found that both caffeinated and decaf coffee altered gut bacteria in ways linked to better mood and lower stress. Decaf even improved learning and memory, while caffeine boosted focus and reduced anxiety. Together, they show coffee works through multiple pathways beyond just caffeine.</description>
@@ -334,78 +406,6 @@
       <pubDate>Sun, 03 May 2026 15:36:00 GMT</pubDate>
       <guid isPermaLink="false">16adfd69b330</guid>
       <source url="https://www.rmf24.pl/regiony/slaskie/news-samoloty-i-smiglowce-w-akcji-gaszenia-pozaru-niedaleko-czest,nId,8080309">RMF24</source>
-    </item>
-    <item>
-      <title>A desktop made for one</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d04980d1dabc</link>
-      <description>Philosophy - Sciences - Geekery - Art - Life - Coaching - Fun &lt; Simplify Everything</description>
-      <pubDate>Sun, 03 May 2026 15:32:05 GMT</pubDate>
-      <guid isPermaLink="false">d04980d1dabc</guid>
-      <source url="https://isene.org/2026/05/Audience-of-One.html">Hacker News</source>
-    </item>
-    <item>
-      <title>The creepy feeling in old buildings might have a surprising cause</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a03afea669bc</link>
-      <description>A hidden force may be quietly shaping how you feel—and you’d never even know it. Infrasound, an ultra-low-frequency vibration below the range of human hearing, is everywhere from traffic to old buildings. In a small experiment, people exposed to it became more irritable, less engaged, and even showed higher levels of the stress hormone cortisol—despite having no idea it was present. The findings suggest our bodies can “sense” these vibrations without conscious awareness, potentially explaining eerie sensations in places like basements or supposedly haunted buildings.</description>
-      <pubDate>Sun, 03 May 2026 15:27:24 GMT</pubDate>
-      <guid isPermaLink="false">a03afea669bc</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/05/260502233901.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Nadciągają opady i burze. Tu spadnie najwięcej deszczu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d1f091408473</link>
-      <description>Pogoda w Polsce. Po ciepłej i suchej majówce czeka nas spora zmiana pogody. Powietrze zwrotnikowe zostanie wypchnięte znad naszego kraju przez chłodniejsze masy polarne. Przyniosą one jednak bardzo potrzebny deszcz.</description>
-      <pubDate>Sun, 03 May 2026 15:27:22 GMT</pubDate>
-      <guid isPermaLink="false">d1f091408473</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-opady-i-burze-tu-spadnie-najwiecej-deszczu-st9028876?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Kierowca był pijany, miał zakaz. W wypadku zginął jego 16-letni pasażer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6758f861746</link>
-      <description>Tragiczny wypadek w gminie Węgorzewo w województwie warmińsko-mazurskim. Pijany kierowca z zakazem prowadzenia pojazdów uderzył w drzewo. Jego 16-letni pasażer zginął, a 39-letnia pasażerka została ranna. 45-latkowi, który był za kierownicą, nie stało się nic poważnego. &quot;Tej tragedii można było uniknąć&quot; - piszą wprost policjanci z Komendy Wojewódzkiej Policji w Olsztynie.</description>
-      <pubDate>Sun, 03 May 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="false">b6758f861746</guid>
-      <source url="https://www.rmf24.pl/regiony/olsztyn/news-kierowca-byl-pijany-mial-zakaz-w-wypadku-zginal-jego-16-letn,nId,8080308">RMF24</source>
-    </item>
-    <item>
-      <title>USA nakładają sankcje, Chiny zakazują ich uznawania. Handel ropą w kropce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a335185eb1d9</link>
-      <description>Chińskie ministerstwo handlu zakazało uznawania i wdrażania amerykańskich sankcji nałożonych na pięć chińskich rafinerii za handel ropą z Iranem - poinformował rządowy dziennik &quot;Renmin Ribao&quot;. Resort podkreślił, że restrykcje Waszyngtonu są nieuzasadnione, naruszają prawo międzynarodowe i ograniczają legalną działalność gospodarczą chińskich firm z krajami trzecimi.</description>
-      <pubDate>Sun, 03 May 2026 15:07:00 GMT</pubDate>
-      <guid isPermaLink="false">a335185eb1d9</guid>
-      <source url="https://www.rmf24.pl/ekonomia/news-usa-nakladaja-sankcje-chiny-zakazuja-ich-uznawania-handel-ro,nId,8080307">RMF24</source>
-    </item>
-    <item>
-      <title>Najtańsze i najdroższe lokale kupowane są najczęściej za gotówkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cc9deca11d6e</link>
-      <description>Najtańsze i najdroższe lokale kupowane są najczęściej za gotówkę, ale między tymi dwoma biegunami dominują klienci finansujący zakup przede wszystkim kredytem hipotecznym - i to właśnie oni stanowią statystycznie najliczniejszą grupę - podał Otodom w komunikacie prasowym. W I kw. 2026 r. liczba udzielonych kredytów wyniesie ok. 70 tys., a ich wartość ok. 31 mld zł - przewiduje Otodom.</description>
-      <pubDate>Sun, 03 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">cc9deca11d6e</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Najtansze-i-najdrozsze-lokale-kupowane-sa-najczesciej-za-gotowke-9123490.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6e280bc29f76</link>
-      <description>Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United&apos;s Premier League match with Liverpool on Sunday.</description>
-      <pubDate>Sun, 03 May 2026 14:56:40 GMT</pubDate>
-      <guid isPermaLink="false">6e280bc29f76</guid>
-      <source url="https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Zderzenie dwóch aut i motocykla. A2 zablokowana w kierunku Warszawy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b0fe52796073</link>
-      <description>Nawet kilka godzin mogą potrwać utrudnienia na trasie A2 w kierunku Warszawy. Między węzłami Wartkowice i Emilia (Łódzkie) doszło do zderzenia dwóch samochodów osobowych i motocykla. Są ranni.</description>
-      <pubDate>Sun, 03 May 2026 14:55:00 GMT</pubDate>
-      <guid isPermaLink="false">b0fe52796073</guid>
-      <source url="https://tvn24.pl/lodz/lodzkie-utrudnienia-na-a2-miedzy-wezlami-wartkowice-i-emilia-zablokowana-trasa-na-warszawe-st9028851?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Prokuratura wznowi wnioski o uchylenie immunitetów Hołowni i Koboski</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ff6cb7a5fed8</link>
-      <description>Przesądzone jest, że prokuratorzy badający aferę Collegium Humanum zwrócą się o uchylenie immunitetów posła Szymona Hołowni i europosła Michała Koboski. Od lutego trwają prace nad szczegółami uzasadnienia wniosków, które następnie trafią pod obrady Sejmu i Parlamentu Europejskiego - wynika z informacji dziennikarzy &quot;Superwizjera&quot; i tvn24.pl.</description>
-      <pubDate>Sun, 03 May 2026 14:50:27 GMT</pubDate>
-      <guid isPermaLink="false">ff6cb7a5fed8</guid>
-      <source url="https://tvn24.pl/polska/immunitety-szymona-holowni-i-michala-koboski-nieoficjalnie-wkrotce-wnioski-o-uchylenie-st9028820?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
