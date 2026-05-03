@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 03 May 2026 13:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 15:08:52 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Czy szpital to przedsiębiorca? Znamy wytyczne Ministerstwa Zdrowia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/699c5add7773</link>
+      <description>Trudności finansowe szpitali powodują, że zadłużone placówki prowadzone w formie SPZOZ próbują realizować plany naprawcze w oparciu o ustawę Prawo restrukturyzacyjne. Czy to legalne? Dotarliśmy do stanowiska Ministerstwa Zdrowia w tej sprawie.</description>
+      <pubDate>Sun, 03 May 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="false">699c5add7773</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Czy-szpital-to-przedsiebiorca-Znamy-wytyczne-Ministerstwa-Zdrowia,283774,1.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Alarm po kontroli kiełbas. Inspekcja ujawnia, co naprawdę trafia do sklepów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7df27747a5d7</link>
@@ -16,12 +24,100 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Alarm-po-kontroli-kielbas-Inspekcja-ujawnia-co-naprawde-trafia-do-sklepow,283932,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Najtańsze i najdroższe lokale kupowane są najczęściej za gotówkę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc9deca11d6e</link>
+      <description>Najtańsze i najdroższe lokale kupowane są najczęściej za gotówkę, ale między tymi dwoma biegunami dominują klienci finansujący zakup przede wszystkim kredytem hipotecznym - i to właśnie oni stanowią statystycznie najliczniejszą grupę - podał Otodom w komunikacie prasowym. W I kw. 2026 r. liczba udzielonych kredytów wyniesie ok. 70 tys., a ich wartość ok. 31 mld zł - przewiduje Otodom.</description>
+      <pubDate>Sun, 03 May 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cc9deca11d6e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Najtansze-i-najdrozsze-lokale-kupowane-sa-najczesciej-za-gotowke-9123490.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
       <title>1 lipca: ważna zmiana dla pacjentów. Koniec fikcyjnych kolejek, NFZ zmienia zasady</title>
       <link>https://lolsoftware.github.io/4-news/#/article/642861352162</link>
       <description>Nowe zasady mają sprawić, że prognozowany czas oczekiwania będzie bardziej aktualny i bliższy rzeczywistości. Do publikacji trafiły dwa rozporządzenia Ministerstwa Zdrowia, które zmieniają sposób mierzenia kolejek przez NFZ. Wejdą w życie już 1 lipca 2026 r., a pierwsze dane według nowych reguł pacjenci zobaczą w sierpniu.</description>
       <pubDate>Sun, 03 May 2026 14:46:00 GMT</pubDate>
       <guid isPermaLink="false">642861352162</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/1-lipca-wazna-zmiana-dla-pacjentow-Koniec-fikcyjnych-kolejek-NFZ-zmienia-zasady,283738,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Police probe link between drive-by shooting and stabbing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd1dca5514e3</link>
+      <description>The possibility a drive-by shooting and a stabbing in Brixton are linked is being examined by police.</description>
+      <pubDate>Sun, 03 May 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="false">bd1dca5514e3</guid>
+      <source url="https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Utah to hold websites liable for users who mask their location with VPNs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/93d84bc8bcec</link>
+      <description>Senate Bill 73 holds websites liable for users who mask their location.</description>
+      <pubDate>Sun, 03 May 2026 14:36:14 GMT</pubDate>
+      <guid isPermaLink="false">93d84bc8bcec</guid>
+      <source url="https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law">Hacker News</source>
+    </item>
+    <item>
+      <title>Breaking Up with WordPress After Two Decades</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/adb361e04878</link>
+      <description>Why I moved from WordPress to a static, markdown-first blog, trading platform convenience for ownership, searchability, and archive control</description>
+      <pubDate>Sun, 03 May 2026 14:34:01 GMT</pubDate>
+      <guid isPermaLink="false">adb361e04878</guid>
+      <source url="https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades">Hacker News</source>
+    </item>
+    <item>
+      <title>Polska nie otrzyma Patriotów w terminie? Kosiniak-Kamysz uspokaja</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c323ea5516b1</link>
+      <description>&quot;Jeśli chodzi o baterie Patriot, nie mamy sygnału, żeby były opóźnienia&quot;- powiedział w niedzielę szef MON Władysław Kosiniak-Kamysz pytany przez dziennikarzy o dostawy do Polski. Zaznaczył jednak, że wojna na Bliskim Wschodzie opóźni dostawy innego amerykańskiego sprzętu do naszego kraju i podkreślił, że Warszawa rozmawia z Waszyngtonem o utrzymaniu kontyngentu w Polsce.</description>
+      <pubDate>Sun, 03 May 2026 14:24:00 GMT</pubDate>
+      <guid isPermaLink="false">c323ea5516b1</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-polska-nie-otrzyma-patriotow-w-terminie-kosiniak-kamysz-uspo,nId,8080306">RMF24</source>
+    </item>
+    <item>
+      <title>Zmiana konstytucji. Szef MON: To nie przepisy są do wymiany, to my możemy się poprawić</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/66a5bf28ffaf</link>
+      <description>Wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz podczas obchodów Święta Narodowego Trzeciego Maja w Krakowie odniósł się do prezydenckiej propozycji zmian w konstytucji. Podkreślił, że kluczowe jest nie tyle modyfikowanie przepisów, co odpowiedzialność i dojrzałość osób zobowiązanych do ich przestrzegania. Do pomysłu prezydenta odnieśli się także premier Donald Tusk i wicepremier Krzysztof Gawkowski.</description>
+      <pubDate>Sun, 03 May 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="false">66a5bf28ffaf</guid>
+      <source url="https://www.rmf24.pl/polityka/news-zmiana-konstytucji-szef-mon-to-nie-przepisy-sa-do-wymiany-to,nId,8080303">RMF24</source>
+    </item>
+    <item>
+      <title>Karty pamięci do aparatu: dlaczego warto inwestować w jakość</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e3345074e8cf</link>
+      <description>Karty pamięci do aparatu często traktowane są po macoszemu. Problemy zaczynają się dopiero w momencie, kiedy coś pójdzie nie tak - wtedy jednak często jest już za późno, by cokolwiek z tym zrobić.</description>
+      <pubDate>Sun, 03 May 2026 14:06:07 GMT</pubDate>
+      <guid isPermaLink="false">e3345074e8cf</guid>
+      <source url="https://antyweb.pl/bez-nich-bylibysmy-zgubieni-nie-warto-na-nich-oszczedzac">Antyweb</source>
+    </item>
+    <item>
+      <title>Alert-Driven Monitoring</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a74b10188c5</link>
+      <description>Why we believe alerts, not dashboards, are the real core of infrastructure monitoring and how to build a system you actually trust.</description>
+      <pubDate>Sun, 03 May 2026 14:02:23 GMT</pubDate>
+      <guid isPermaLink="false">2a74b10188c5</guid>
+      <source url="https://simpleobservability.com/docs/alert-driven-monitoring">Hacker News</source>
+    </item>
+    <item>
+      <title>Luka w cPanelu wykorzystywana przez ransomware Sorry</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9dc495f03c9c</link>
+      <description>Krytyczna luka CVE-2026-41940 w cPanelu i WHM jest wykorzystywana w atakach ransomware „Sorry”. Administratorzy muszą działać natychmiast.</description>
+      <pubDate>Sun, 03 May 2026 14:00:24 GMT</pubDate>
+      <guid isPermaLink="false">9dc495f03c9c</guid>
+      <source url="https://antyweb.pl/ransomware-sorry-cpanel">Antyweb</source>
+    </item>
+    <item>
+      <title>Historia utraty kontroli na polskim złotem i wielkiej ewakuacji rezerw. Proces w Nowym Jorku, termity i rumuńskie zaskórniaki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/10362aabd577</link>
+      <description>Dzisiejsze rezerwy złota Narodowego Banku Polskiego, przekraczające 580 ton, budzą zasłużony podziw i wzbudzają poczucie stabilności finansowej państwa. Jednak w burzliwej historii Polski istniał moment, gdy cały „skarb narodowy” ważył zaledwie 79,5 tony. Ta relatywnie niewielka ilość kruszcu, zgromadzona dzięki reformom Władysława Grabskiego w ramach powołanego w 1924 roku Banku Polskiego SA, stała się bohaterem jednej z najbardziej brawurowych operacji logistycznych II wojny światowej.</description>
+      <pubDate>Sun, 03 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">10362aabd577</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Odyseja-polskiego-zlota-Jak-narodowy-skarb-przetrwal-wojne-dzieki-tajnej-ewakuacji-9124377.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>The Petroleum System Is Entering Its Volatile Decline Phase</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fe47ffa30dcf</link>
+      <description>Cheaper barrels do not guarantee stability. In a declining oil market, fiscal stress and fragile producer states will mean much more volatile oil prices.</description>
+      <pubDate>Sun, 03 May 2026 13:50:41 GMT</pubDate>
+      <guid isPermaLink="false">fe47ffa30dcf</guid>
+      <source url="https://cleantechnica.com/2026/04/29/the-petroleum-system-is-entering-its-volatile-decline-phase/">Hacker News</source>
     </item>
     <item>
       <title>Rząd i MON podpisywały umowę SAFE pomimo weta prezydenta</title>
@@ -310,102 +406,6 @@
       <pubDate>Sun, 03 May 2026 11:06:58 GMT</pubDate>
       <guid isPermaLink="false">1c25d912e234</guid>
       <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/uroczystosci-rocznicowe-na-placu-zamkowym-nawrocki-mowi-o-nowej-konstytucji-st9028486?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Koniec z fikcją rekrutacji na państwowe stołki? „Nie trzeba mieć wujka ministra”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/345288a6177d</link>
-      <description>Różne rzeczy lepiej lub gorzej w służbie cywilnej funkcjonują, ale nabór jest wystandaryzowany - wskazała w wywiadzie dla „Dziennika Gazety Prawnej szefowa służby cywilnej Anita Noskowska-Piątkowska.</description>
-      <pubDate>Sun, 03 May 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">345288a6177d</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Koniec-z-fikcja-rekrutacji-na-panstwowe-stolki-Nie-trzeba-miec-wujka-ministra-9124767.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Two killed and major incident declared after explosion</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc09a38ce523</link>
-      <description>Avon and Somerset Police said the incident was not believed to be terrorism related.</description>
-      <pubDate>Sun, 03 May 2026 10:57:42 GMT</pubDate>
-      <guid isPermaLink="false">fc09a38ce523</guid>
-      <source url="https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Obraźliwe napisy na kapliczkach. Policja szuka sprawcy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4ef7660de01b</link>
-      <description>Dewastacja w jednym z najważniejszych sanktuariów w Polsce. Wandal zniszczył kaplice w Kalwarii Zebrzydowskiej. Na obiektach wpisanych na Listę Światowego Dziedzictwa UNESCO odkryto obraźliwe napisy. Sprawca jest poszukiwany.</description>
-      <pubDate>Sun, 03 May 2026 10:46:28 GMT</pubDate>
-      <guid isPermaLink="false">4ef7660de01b</guid>
-      <source url="https://tvn24.pl/krakow/kalwaria-zebrzydowska-obrazliwe-napisy-na-kaplicach-policja-szuka-sprawcy-st9028394?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Nie czuję się bohaterem&quot;. Słowa Poczobuta po pięciu latach izolacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa4da0ab2141</link>
-      <description>&quot;Czuję się onieśmielony. Nie czuję się bohaterem&quot; - powiedział Andrzej Poczobut, po odebraniu od prezydenta Orderu Orła Białego. Potem, w krótkiej wypowiedzi dla mediów, równie skromnie i pokornie wyznał: &quot;Nie czułem się osamotniony. Wiedziałem, że tam - w Polsce, w świecie, na Białorusi - są ludzie, są Polacy, którzy są razem ze mną. Myślałem o tym, że żołnierze Armii Krajowej (...) przechodzili rzeczy znacznie gorsze&quot;. Dziennikarz przez pięć lat był więziony w jednej z najcięższych kolonii karnych na Białorusi.</description>
-      <pubDate>Sun, 03 May 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="false">aa4da0ab2141</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-nie-czuje-sie-bohaterem-slowa-poczobuta-po-pieciu-latach-izo,nId,8080295">RMF24</source>
-    </item>
-    <item>
-      <title>Spłonęła hala produkcyjna. Całonocna akcja strażaków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1a42e98394ea</link>
-      <description>Ponad 60 strażaków przez całą noc gasiło pożar hali w Rybnie w woj. warmińsko-mazurskim. Straty oszacowano na 7 milionów złotych. Przyczyny pożaru będzie ustalać policja.</description>
-      <pubDate>Sun, 03 May 2026 10:36:15 GMT</pubDate>
-      <guid isPermaLink="false">1a42e98394ea</guid>
-      <source url="https://tvn24.pl/olsztyn/rybno-pozar-hali-produkcyjnej-milionowe-straty-st9028244?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Codzienny nawyk rujnuje zdrowie. Nawet 5 mln zgonów w rok</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8013e6f29b8f</link>
-      <description>Przez lata jednym z najmocniejszych komunikatów zdrowia publicznego było ostrzeżenie przed paleniem. Dziś naukowcy coraz częściej zwracają uwagę na inny, znacznie bardziej powszechny nawyk: wielogodzinne siedzenie.</description>
-      <pubDate>Sun, 03 May 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="false">8013e6f29b8f</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Codzienny-nawyk-rujnuje-zdrowie-Nawet-5-mln-zgonow-w-rok,283930,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Naukowcy zmierzyli tzw. czas ujemny w atomach rubidu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4e97a24b08de</link>
-      <description>Fotony przechodzące przez chmurę atomów rubidu zachowały się tak, jakby spędziły w niej mniej niż zero jakiejkolwiek jednostki czasu. Eksperyment wcale nie łamie jednak praw fizycznych: jest jednak demonstracją pomiaru pewnego specyficznego, kwantowego paradoksu.</description>
-      <pubDate>Sun, 03 May 2026 10:35:55 GMT</pubDate>
-      <guid isPermaLink="false">4e97a24b08de</guid>
-      <source url="https://antyweb.pl/czas-ujemny-fotony">Antyweb</source>
-    </item>
-    <item>
-      <title>Prognoza pogody na 16 dni: chłodniej niż w majówkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ed2997a9c1c5</link>
-      <description>Po gorącej majówce przyjdzie zmiana pogody. Co przyniesie w pogodzie pierwsza połowa maja i jaka temperatura czeka nas w kolejnych dniach? Sprawdź najnowszą, 16-dniową długoterminową prognozę przygotowaną przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego.</description>
-      <pubDate>Sun, 03 May 2026 10:24:48 GMT</pubDate>
-      <guid isPermaLink="false">ed2997a9c1c5</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-prognoza-dlugoterminowa-na-maj-2026-goraca-predko-nie-zobaczymy-tomasz-wasilewski-prognozuje-st9028345?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Polanski stands by concerns over police response to Golders Green attack</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/26ef7b5b4612</link>
-      <description>The Green Party leader previously apologised for &quot;sharing a tweet in haste&quot; about the knife attack on Wednesday.</description>
-      <pubDate>Sun, 03 May 2026 10:22:41 GMT</pubDate>
-      <guid isPermaLink="false">26ef7b5b4612</guid>
-      <source url="https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Ostre starcie w Święto 3 Maja. Nawrocki szykuje nową konstytucję na 2030 r. Tusk: Niech najpierw nauczą się przestrzegać tej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d60a5c578e2c</link>
-      <description>Otwarte starcie o fundamenty polskiego państwa w rocznicę uchwalenia historycznej Konstytucji 3 Maja. Podczas gdy prezydent Karol Nawrocki nawołuje do zakończenia paraliżującej państwo „dwuwładzy” i powołuje zespół do napisania nowej ustawy zasadniczej, premier Donald Tusk odpowiada zdecydowanym kontratakiem. Szef rządu zrównuje argumenty prawicy z hasłami konfederacji targowickiej i wprost apeluje do głowy państwa: najpierw nauczcie się przestrzegać obecnej konstytucji, zanim zaczniecie pisać nową.</description>
-      <pubDate>Sun, 03 May 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="false">d60a5c578e2c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nawrocki-szykuje-nowa-konstytucje-na-2030-r-Tusk-Niech-najpierw-naucza-sie-przestrzegac-tej-9126924.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>LEGO zaprezentowało zestaw inspirowany konsolą SEGA Mega Drive</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8499a5eb6f8d</link>
-      <description>LEGO zaprezentowało swój najnowszy zestaw inspirowany klasycznymi konsolami. Po Nintendo przyszła pora na firmę SEGA i ich kultowego Mega Drive’a. Fani mają powody do radości.</description>
-      <pubDate>Sun, 03 May 2026 10:00:57 GMT</pubDate>
-      <guid isPermaLink="false">8499a5eb6f8d</guid>
-      <source url="https://antyweb.pl/klasyk-od-sega-w-wersji-lego-fani-szykujcie-pieniadze">Antyweb</source>
-    </item>
-    <item>
-      <title>Strzały w Teksasie. Nie żyją nastolatkowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5b5b3ad48ff2</link>
-      <description>Dwaj nastolatkowie zginęli w Teksasie po tym, gdy nieznani sprawcy otworzyli ogień w trakcie imprezy. Policja podejrzewa, że do tragedii doszło na podłożu osobistym.</description>
-      <pubDate>Sun, 03 May 2026 09:58:08 GMT</pubDate>
-      <guid isPermaLink="false">5b5b3ad48ff2</guid>
-      <source url="https://tvn24.pl/swiat/usa-strzaly-w-teksasie-nie-zyja-nastolatkowie-st9028176?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
