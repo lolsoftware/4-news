@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 04 May 2026 19:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 21:22:51 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aacb5cb42492</link>
+      <description>The settlement comes just ahead of a trial slated to begin in May, where both stars were expected to testify.</description>
+      <pubDate>Mon, 04 May 2026 21:12:49 GMT</pubDate>
+      <guid isPermaLink="false">aacb5cb42492</guid>
+      <source url="https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>USA zatopił irańskie łodzie w cieśninie Ormuz</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/65d6e15688a7</link>
+      <description>Korpus Strażników Rewolucji Islamskiej zaatakował amerykańskie okręty. W odpowiedzi sześć ich łodzi szturmowych zostało zatopionych. Siły USA przygotowały w cieśnienie Ormuz szlak, który ma być wolny od min.</description>
+      <pubDate>Mon, 04 May 2026 20:52:45 GMT</pubDate>
+      <guid isPermaLink="false">65d6e15688a7</guid>
+      <source url="https://tvn24.pl/swiat/ciesnina-ormuz-sily-usa-przygotowaly-szlak-dla-statkow-handlowych-i-zatopily-szesc-iranskich-lodzi-st9030966?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>NASA Fosters Development of Lunar Resource-Seeking Technologies</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6fd02b1eb972</link>
+      <description>To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3</description>
+      <pubDate>Mon, 04 May 2026 20:32:47 GMT</pubDate>
+      <guid isPermaLink="false">6fd02b1eb972</guid>
+      <source url="https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Niezidentyfikowane balony w Małopolsce. Nowe informacje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/98b5278d45e6</link>
+      <description>Funkcjonariusze Małopolskiego Urzędu Celno-Skarbowego w Krakowie w paczkach dołączonych do balonów przemytniczych, które znaleziono w Iwkowej w Małopolsce, odkryli 180 tysięcy sztuk papierosów z białoruską akcyzą i nadajniki GPS.</description>
+      <pubDate>Mon, 04 May 2026 20:17:58 GMT</pubDate>
+      <guid isPermaLink="false">98b5278d45e6</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-niezidentyfikowane-balony-w-malopolsce-nowe-informacje,nId,8080457">RMF24</source>
+    </item>
+    <item>
+      <title>Formatting a 25M-line codebase overnight</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c456d30a8ead</link>
+      <description>This is the story of how our Developer Productivity team extended and rolled out rubyfmt, our Rust-based zero-config, ultra-fast autoformatter across the world&apos;s largest Ruby codebase.</description>
+      <pubDate>Mon, 04 May 2026 20:11:53 GMT</pubDate>
+      <guid isPermaLink="false">c456d30a8ead</guid>
+      <source url="https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story">Hacker News</source>
+    </item>
+    <item>
+      <title>Samolot uderzył w budynek mieszkalny. Nagranie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1e2bf546959b</link>
+      <description>Mały samolot rozbił się w mieście Belo Horizonte w Brazylii. Katastrofa została zarejestrowana na nagraniu. Na pokładzie maszyny znajdowało się pięć osób. Dwie z nich zginęły.</description>
+      <pubDate>Mon, 04 May 2026 20:10:25 GMT</pubDate>
+      <guid isPermaLink="false">1e2bf546959b</guid>
+      <source url="https://tvn24.pl/swiat/brazylia-maly-samolot-uderzyl-w-budynek-mieszkalny-w-miescie-belo-horizonte-nagranie-st9030807?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Próbował uciec przed policją, spadł z trzeciego piętra, zginął</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c86b72030362</link>
+      <description>Na warszawskim Żoliborzu strażacy pomagali policjantom przy siłowym wejściu do mieszkania. Podczas interwencji mężczyzna próbował uciec przez okno po linie i spadł z trzeciego piętra. Na miejscu pracuje policja.</description>
+      <pubDate>Mon, 04 May 2026 20:09:59 GMT</pubDate>
+      <guid isPermaLink="false">c86b72030362</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-probowal-uciec-przed-policja-po-linie-spadl-z-trzeciego-pietra-nie-przezyl-st9030951?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Pij zamiast porannej kawy. Oczyści jelita, pomoże obniżyć cukier</title>
       <link>https://lolsoftware.github.io/4-news/#/article/69d0949d0bce</link>
@@ -14,6 +70,22 @@
       <pubDate>Mon, 04 May 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">69d0949d0bce</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Pij-zamiast-porannej-kawy-Oczysci-jelita-pomoze-obnizyc-cukier,283961,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Afera z bitcoinami i pieniędzmi z UE. Czeskie elity pod lupą wymiaru sprawiedliwości</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aa11665fc3f2</link>
+      <description>Były minister sprawiedliwości Czech Pavel Blażek miał usłyszeć zarzuty w związku z aferą dotyczącą przyjęcia przez państwo darowizny w bitcoinach, które - według śledczych - mogły pochodzić z działalności przestępczej. Policja postawiła zarzuty łącznie trzem osobom. To niejedyna głośna sprawa u naszego sąsiada. Za oszustwo związane z dotacjami Unii Europejskiej na trzy lata więzienia została skazana była współpracowniczka premiera Babisza, europosłanka Jana Nagyova.</description>
+      <pubDate>Mon, 04 May 2026 19:56:00 GMT</pubDate>
+      <guid isPermaLink="false">aa11665fc3f2</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-afera-z-bitcoinami-i-pieniedzmi-z-ue-czeskie-elity-pod-lupa-,nId,8080453">RMF24</source>
+    </item>
+    <item>
+      <title>Canadian election databases use &quot;canary traps&quot;—and they work</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4e4fc6e02371</link>
+      <description>Intentional errors can be useful.</description>
+      <pubDate>Mon, 04 May 2026 19:45:57 GMT</pubDate>
+      <guid isPermaLink="false">4e4fc6e02371</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/">Ars Technica</source>
     </item>
     <item>
       <title>Medycyna kosmiczna w Gdańsku: GUMed i WIML ruszają ze wspólnymi projektami</title>
@@ -32,12 +104,28 @@
       <source url="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/">Hacker News</source>
     </item>
     <item>
+      <title>KNF złożyła zawiadomienie ws. BitBay w 2018 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5a21e804c5bb</link>
+      <description>Komisja Nadzoru Finansowego już w 2018 roku złożyła zawiadomienie w sprawie spółki BitBay, znanej obecnie jako Zondacrypto - wynika z ustaleń OKO.press. Śledztwo miało być przez lata wstrzymywane przez bliskich współpracowników ówczesnego ministra sprawiedliwości Zbigniewa Ziobry.</description>
+      <pubDate>Mon, 04 May 2026 19:38:59 GMT</pubDate>
+      <guid isPermaLink="false">5a21e804c5bb</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/zondacrypto-media-prokuratorzy-zbigniewa-ziobry-przez-cztery-lata-blokowali-sledztwo-st9030857?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Zełenski wskazuje na północ. Zawieszenie broni wbrew słowom Putina</title>
       <link>https://lolsoftware.github.io/4-news/#/article/95306ac0d21a</link>
       <description>Władimir Putin ogłosił dwudniowe zawieszenie broni z okazji Dnia Zwycięstwa. Moskwa wyraziła nadzieję, że strona ukraińska &quot;pójdzie za przykładem&quot; Rosji i będzie respektować decyzję o przerwaniu ognia na linii frontu. Tymczasem prezydent Wołodymyr Zełenski przekazał, że Kijów nie otrzymał żadnej oficjalnej oferty rozejmu. W odpowiedzi ogłosił on, że Ukraina wstrzyma ogień zaczynając o północy z wtorku na środę. Nie podał jednak żadnych ram czasowych.</description>
       <pubDate>Mon, 04 May 2026 19:33:00 GMT</pubDate>
       <guid isPermaLink="false">95306ac0d21a</guid>
       <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-wskazuje-na-polnoc-zawieszenie-broni-wbrew-slowom-p,nId,8080454">RMF24</source>
+    </item>
+    <item>
+      <title>Zepsuty tramwaj zablokował torowisko</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f02198893cc5</link>
+      <description>W pobliżu skrzyżowania Okopowej z aleją &quot;Solidarności&quot; zepsuł się tramwaj starszego typu. Skład zablokował torowisko. Sześć linii skierowano na objazdy.</description>
+      <pubDate>Mon, 04 May 2026 19:31:33 GMT</pubDate>
+      <guid isPermaLink="false">f02198893cc5</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/wola/warszawa-awaria-tramwaju-na-okopowej-utrudnienia-st9030883?source=rss">TVN24</source>
     </item>
     <item>
       <title>ZUS przeliczy emeryturę na nowo. Trzeba złożyć wniosek</title>
@@ -56,12 +144,36 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Domowe-zywienie-dojelitowe-bez-limitow-Musimy-miec-pewnosc-ze-jakosc-jest-pod-kontrola,283945,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Gawkowski: ufam słowom Hołowni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08d8b972d223</link>
+      <description>Szymon Hołownia przedstawił cały element swojego zaangażowania w uczelnię Collegium Humanum. Wydaje się to wszystko być bardzo przejrzyste - powiedział w &quot;Faktach po Faktach&quot; wicepremier Krzysztof Gawkowski. Jego zdaniem &quot;jeżeli ktoś jest w tej sprawie pokrzywdzony, to jest to Hołownia&quot;.</description>
+      <pubDate>Mon, 04 May 2026 19:26:38 GMT</pubDate>
+      <guid isPermaLink="false">08d8b972d223</guid>
+      <source url="https://tvn24.pl/polska/immunitety-michala-koboski-i-szymona-holowni-krzysztof-gawkowski-komentuje-doniesienia-st9030823?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Zakażenie groźnym wirusem na wycieczkowcu na Atlantyku. MSZ: Polacy czują się dobrze</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9fc95b51026c</link>
       <description>Na wycieczkowcu płynącym przez Atlantyk potwierdzono przypadek zakażenia hantawirusem. Rzecznik MSZ Maciej Wewiór zapewnia, że wszyscy Polacy na pokładzie czują się dobrze i nie prosili o pomoc.</description>
       <pubDate>Mon, 04 May 2026 19:15:00 GMT</pubDate>
       <guid isPermaLink="false">9fc95b51026c</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Zakazenie-groznym-wirusem-na-wycieczkowcu-na-Atlantyku-MSZ-Polacy-czuja-sie-dobrze,283978,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Rozbudują jedną z głównych ulic w Wesołej. Tunel już jest</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/85cb6bd37446</link>
+      <description>Trwają przygotowania do rozbudowy Alei Piłsudskiego w Wesołej. Drogowcy ogłosili przetarg na opracowanie projektu. Inwestycja obejmie odcinek od skrzyżowania z ulicą Trakt Brzeski do granicy miasta.</description>
+      <pubDate>Mon, 04 May 2026 19:14:47 GMT</pubDate>
+      <guid isPermaLink="false">85cb6bd37446</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/wesola/warszawa-rozbuduja-aleje-pilsudskiego-w-wesolej-st9030706?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Zełenski ogłosił wstrzymanie ognia z Rosją</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/766f984542b9</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski ogłosił wstrzymanie ognia w wojnie z Rosją, poczynając od północy z wtorku na środę. To wcześniejszy termin niż ten podany przez Kreml, który zapowiedział zawieszenie broni na 8 i 9 maja.</description>
+      <pubDate>Mon, 04 May 2026 19:14:29 GMT</pubDate>
+      <guid isPermaLink="false">766f984542b9</guid>
+      <source url="https://tvn24.pl/swiat/wojna-ukrainy-z-rosja-wolodymyr-zelenski-oglosil-wstrzymanie-ognia-st9030884?source=rss">TVN24</source>
     </item>
     <item>
       <title>Image AI models now drive app growth, beating chatbot upgrades</title>
@@ -80,6 +192,14 @@
       <source url="https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/">TechCrunch</source>
     </item>
     <item>
+      <title>Pogoda na jutro - wtorek, 5.05. Nocą lokalnie może się błyskać</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c41bb4564dc</link>
+      <description>Pogoda na jutro, czyli na wtorek, 5.05. W nocy w niektórych regionach kraju mogą się pojawić burze. Dzień przyniesie opady, będzie też grzmieć. Aura niekorzystnie wpłynie na nasze samopoczucie.</description>
+      <pubDate>Mon, 04 May 2026 19:07:54 GMT</pubDate>
+      <guid isPermaLink="false">1c41bb4564dc</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-5-05-noca-lokalnie-moze-sie-blyskac-st9030839?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Influential study touting ChatGPT in education retracted over red flags</title>
       <link>https://lolsoftware.github.io/4-news/#/article/269439d8ccdb</link>
       <description>The retracted study on ChatGPT in education was already cited hundreds of times.</description>
@@ -94,6 +214,22 @@
       <pubDate>Mon, 04 May 2026 19:03:00 GMT</pubDate>
       <guid isPermaLink="false">05a22c01bd9e</guid>
       <source url="https://www.rmf24.pl/regiony/warszawa/news-smierc-podczas-interwencji-policji-na-zoliborzu-mezczyzna-sp,nId,8080456">RMF24</source>
+    </item>
+    <item>
+      <title>Zgorzelski: To naród zdecydował. Pan prezydent raczy zapominać</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/db8227206610</link>
+      <description>To naród wybrał obecną konstytucję w referendum w 1997 roku - przypominał w &quot;Kropce nad i&quot; w TVN24 Piotr Zgorzelski, wicemarszałek Sejmu z PSL. Komentował plany Karola Nawrockiego, który chce stworzenia nowej konstytucji. Ocenił, że twórcy obecnej ustawy zasadniczej &quot;zatrzymali się jakby w pół drogi&quot;, jeśli chodzi o uprawnienia głowy państwa.</description>
+      <pubDate>Mon, 04 May 2026 19:02:38 GMT</pubDate>
+      <guid isPermaLink="false">db8227206610</guid>
+      <source url="https://tvn24.pl/polska/piotr-zgorzelski-o-prezydencie-karolu-nawrockim-i-planach-nowej-konstytucji-st9030850?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Spadkobiercy Samsunga zapłacili największy podatek w historii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d4e87017b789</link>
+      <description>Rodzina zmarłego prezesa Samsunga Li Kun Hi zapłaciła 12 bilionów wonów, czyli około ośmiu miliardów dolarów, podatku od spadku - przekazało BBC. To największy tego typu podatek w historii Korei Południowej, stanowiący około 150 procent wpływów kraju z podatku spadkowego za 2024 rok.</description>
+      <pubDate>Mon, 04 May 2026 19:01:46 GMT</pubDate>
+      <guid isPermaLink="false">d4e87017b789</guid>
+      <source url="https://tvn24.pl/biznes/tech/korea-poludniowa-spadkobiercy-firmy-samsung-zaplacili-fiskusowi-osiem-miliardow-dolarow-st9030838?source=rss">TVN24</source>
     </item>
     <item>
       <title>Putin ogłasza rozejm na 8 i 9 maja. Pułapka czy gest pod presją Trumpa?</title>
@@ -118,6 +254,14 @@
       <pubDate>Mon, 04 May 2026 18:37:00 GMT</pubDate>
       <guid isPermaLink="false">8530d76590a5</guid>
       <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-iran-zostanie-zmieciony-z-powierzchni-ziemi-trump-grozi-i-wz,nId,8080451">RMF24</source>
+    </item>
+    <item>
+      <title>Mastalerek: Kaczyński robi wszystko, żeby nie dowiózł PiS do wyborów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1cc866638ee3</link>
+      <description>To zależy tylko od prezesa Jarosława Kaczyńskiego - tak Marcin Mastalerek, były szef gabinetu prezydenta Andrzeja Dudy, odpowiedział w &quot;Faktach po Faktach&quot; w TVN24 na pytanie, czy do 2027 roku PiS się rozpadnie. - Jeśli prezes dalej będzie sprzyjał tym, którzy wypychają Mateusza Morawieckiego z PiS-u, to się rozpadnie - ocenił.</description>
+      <pubDate>Mon, 04 May 2026 18:36:22 GMT</pubDate>
+      <guid isPermaLink="false">1cc866638ee3</guid>
+      <source url="https://tvn24.pl/polska/jaroslaw-kaczynski-dowiezie-partie-w-calosci-do-wyborow-marcin-mastalerek-komentuje-konflikty-w-pis-st9030845?source=rss">TVN24</source>
     </item>
     <item>
       <title>Ponad 40 tys. zachorowań i 50 potwierdzonych zgonów. Pakistan mierzy się z epidemią tej groźnej choroby</title>
@@ -262,150 +406,6 @@
       <pubDate>Mon, 04 May 2026 17:30:34 GMT</pubDate>
       <guid isPermaLink="false">e2b1e28f8408</guid>
       <source url="https://antyweb.pl/z-windows-11-na-macos">Antyweb</source>
-    </item>
-    <item>
-      <title>Let&apos;s Talk about LLMs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ea36a06355c2</link>
-      <description>Everybody seems to agree we’re in the middle of _something_, though what, exactly, seems to be up for debate. It …</description>
-      <pubDate>Mon, 04 May 2026 17:29:39 GMT</pubDate>
-      <guid isPermaLink="false">ea36a06355c2</guid>
-      <source url="https://www.b-list.org/weblog/2026/apr/09/llms/">Hacker News</source>
-    </item>
-    <item>
-      <title>Atak drona na Kernel w Czarnomorsku. Wyciekły tony oleju, infrastruktura zniszczona</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/548563079ae7</link>
-      <description>Aktywa ukraińskiego Kernel Holding w Czarnomorsku zostały uszkodzone w wyniku ataku rosyjskiego drona - poinformowała notowana na warszawskiej giełdzie spółka. Kernel prowadzi obecnie działania naprawcze, ocenia skalę szkód i strat.</description>
-      <pubDate>Mon, 04 May 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="false">548563079ae7</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Aktywa-Kernela-w-Czarnomorsku-uszkodzone-w-wyniku-ataku-drona-9127533.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Britney Spears poszła na ugodę. Chodzi o jazdę pod wpływem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a70919ba3143</link>
-      <description>Britney Spears ponownie znalazła się w centrum medialnej burzy. Tym razem powodem jest głośna sprawa z marca tego roku, kiedy to 44-letnia gwiazda została zatrzymana przez kalifornijską policję za prowadzenie samochodu pod wpływem alkoholu i narkotyków. W poniedziałek jej prawnicy ogłosili przed sądem w Ventura County, że Spears przyznaje się do winy... ale w znacznie łagodniejszej wersji zarzutów.</description>
-      <pubDate>Mon, 04 May 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="false">a70919ba3143</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-britney-spears-poszla-na-ugode-chodzi-o-jazde-pod-wplywem,nId,8080447">RMF24</source>
-    </item>
-    <item>
-      <title>Two arrested over arson attack at Golders Green memorial</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/59e4f8d8de92</link>
-      <description>A memorial wall was damaged by fire on 27 April in north London, with counter-terror police involved in the investigation.</description>
-      <pubDate>Mon, 04 May 2026 17:21:47 GMT</pubDate>
-      <guid isPermaLink="false">59e4f8d8de92</guid>
-      <source url="https://www.bbc.com/news/articles/c9v3kvjxr4mo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Były minister zdrowia z ważnym stanowiskiem. Karol Nawrocki powołał go na szefa nowej rady</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3963d3c0a530</link>
-      <description>Były minister zdrowia pokieruje radą, którą właśnie powołał prezydent RP Karol Nawrocki. Konstanty Radziwiłł został przewodniczącym nowego gremium doradczego - Rady ds. Polonii i Polaków za Granicą.</description>
-      <pubDate>Mon, 04 May 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">3963d3c0a530</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Byly-minister-zdrowia-z-waznym-stanowiskiem-Karol-Nawrocki-powolal-go-na-szefa-nowej-rady,283974,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Pierwsza akcja od rozejmu. ZEA przechwyciły rakiety z Iranu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3115564f4419</link>
-      <description>Zjednoczone Emiraty Arabskie przechwyciły trzy rakiety wystrzelone z Iranu. Czwarta spadła do morza - przekazało tamtejsze ministerstwo obrony. W ZEA ogłoszono alarm przeciwlotniczy, pierwszy od czasu wejścia w życie rozejmu między USA a Iranem na początku kwietnia.</description>
-      <pubDate>Mon, 04 May 2026 17:19:36 GMT</pubDate>
-      <guid isPermaLink="false">3115564f4419</guid>
-      <source url="https://tvn24.pl/swiat/zjednoczone-emiraty-arabskie-wladze-przechwycilismy-trzy-rakiety-lecace-z-iranu-st9030740?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Britney Spears pleads guilty to reckless driving after arrest</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/774a64a05d40</link>
-      <description>The 44-year-old will avoid jail time after her arrest in California earlier this year.</description>
-      <pubDate>Mon, 04 May 2026 17:11:56 GMT</pubDate>
-      <guid isPermaLink="false">774a64a05d40</guid>
-      <source url="https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Stop big tech from making users behave in ways they don&apos;t want to</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/32e546d91d87</link>
-      <description>Comments</description>
-      <pubDate>Mon, 04 May 2026 17:10:57 GMT</pubDate>
-      <guid isPermaLink="false">32e546d91d87</guid>
-      <source url="https://www.economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to">Hacker News</source>
-    </item>
-    <item>
-      <title>Łoś spacerował po warszawskiej Woli. Pierwsza taka obserwacja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/56481c4e4756</link>
-      <description>Łosia, który pojawił się na jednej z ulic warszawskiej Woli, uchwyciła na nagraniu pani Beata. Reporterka24 przekazała, że pierwszy raz zobaczyła ten gatunek w swojej okolicy.</description>
-      <pubDate>Mon, 04 May 2026 17:10:38 GMT</pubDate>
-      <guid isPermaLink="false">56481c4e4756</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/los-spacerowal-po-warszawskiej-woli-bylam-zszokowana-st9030717?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Egzamin ósmoklasisty 2026. Ważny komunikat CKE</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/667e79eb1046</link>
-      <description>Ponad 390 tys. uczniów w całej Polsce podejdzie w maju do egzaminu ósmoklasisty. Centralna Komisja Egzaminacyjna opublikowała już najważniejsze informacje – znamy dokładne terminy, czas trwania testów i datę ogłoszenia wyników.</description>
-      <pubDate>Mon, 04 May 2026 17:03:00 GMT</pubDate>
-      <guid isPermaLink="false">667e79eb1046</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Egzamin-osmoklasisty-2026-Wazny-komunikat-CKE,283963,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>IKEA wprowadza nową wersję popularnego gadżetu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d806d1b8487</link>
-      <description>Nadchodzi zmiana, z której wiele osób będzie bardzo zadowolonych. Do popularnego gadżetu wkracza wyczekiwana nowość.</description>
-      <pubDate>Mon, 04 May 2026 17:00:03 GMT</pubDate>
-      <guid isPermaLink="false">1d806d1b8487</guid>
-      <source url="https://antyweb.pl/ikea-odswiezy-ulubiony-gadzet-do-kazdego-domu">Antyweb</source>
-    </item>
-    <item>
-      <title>Breaking Barriers at 3rd Annual Findings from the Field Symposium</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/becdd3844589</link>
-      <description>This year&apos;s Findings from the Field Student Research Symposium welcomed 106 students, grades four through eight, 29 educators, and 15 Subject Matter Experts, and it featured 68 research posters, 14 lightning talks, and 5 discussion sessions.</description>
-      <pubDate>Mon, 04 May 2026 16:58:41 GMT</pubDate>
-      <guid isPermaLink="false">becdd3844589</guid>
-      <source url="https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/33624f2dc5a0</link>
-      <description>Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.</description>
-      <pubDate>Mon, 04 May 2026 16:57:47 GMT</pubDate>
-      <guid isPermaLink="false">33624f2dc5a0</guid>
-      <source url="https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Podatek od nadzwyczajnych zysków? Europa patrzy na ręce producentom ropy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/160e95c937b1</link>
-      <description>Prezydent Francji Emmanuel Macron powiedział w poniedziałek w Armenii, że kraje europejskie będą musiały zareagować w przypadku „nadmiernych” zysków z ropy naftowej lub zachowań, które określił jako „nieco drapieżne”. Ocenił jednak, że na razie producenci nie podnoszą cen w sposób celowy.</description>
-      <pubDate>Mon, 04 May 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="false">160e95c937b1</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Podatek-od-nadzwyczajnych-zyskow-Europa-patrzy-na-rece-producentom-ropy-9127504.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Fico jedzie do Putina. Wizyta bez parady w Moskwie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eb29955fa4b8</link>
-      <description>Premier Słowacji Robert Fico ma spotkać się 9 maja z przywódcą Rosji Władimirem Putinem, ale nie będzie oglądał parady wojskowej w Moskwie. Szczegóły swojej wizyty przekazał w rozmowie z dziennikarzami.</description>
-      <pubDate>Mon, 04 May 2026 16:47:33 GMT</pubDate>
-      <guid isPermaLink="false">eb29955fa4b8</guid>
-      <source url="https://tvn24.pl/swiat/premier-slowacji-robert-fico-jedzie-do-moskwy-spotka-sie-z-wladimirem-putinem-zdradzil-szczegoly-wizyty-st9030710?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Sierra raises $950M as the race to own enterprise AI gets serious</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aabee4c70a5c</link>
-      <description>The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the &quot;global standard&quot; for AI-powered customer experiences.</description>
-      <pubDate>Mon, 04 May 2026 16:45:55 GMT</pubDate>
-      <guid isPermaLink="false">aabee4c70a5c</guid>
-      <source url="https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/">TechCrunch</source>
-    </item>
-    <item>
-      <title>I am worried about Bun</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3463fd062619</link>
-      <description>Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path.</description>
-      <pubDate>Mon, 04 May 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="false">3463fd062619</guid>
-      <source url="https://wwj.dev/posts/i-am-worried-about-bun/">Hacker News</source>
-    </item>
-    <item>
-      <title>Zmiany w kolejkach od 1 lipca. &quot;Mamy 600 tys. odzyskanych wizyt&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ce253ea2c3b</link>
-      <description>Dwa rozporządzenia Ministerstwa Zdrowia zmieniają sposób mierzenia kolejek przez NFZ wejdą w życie już 1 lipca 2026 roku, co wiele zmieni dla pacjentów. Także od tego dnia zaczną obowiązywać ważne zmiany w zakresie centralnej e-rejestracji.</description>
-      <pubDate>Mon, 04 May 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="false">1ce253ea2c3b</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zmiany-w-kolejkach-od-1-lipca-Mamy-600-tys-odzyskanych-wizyt,283949,1.html">Rynek Zdrowia</source>
     </item>
   </channel>
 </rss>
