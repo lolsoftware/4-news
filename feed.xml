@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 04 May 2026 17:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:58:30 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pij zamiast porannej kawy. Oczyści jelita, pomoże obniżyć cukier</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/69d0949d0bce</link>
+      <description>O poranku najczęściej sięgamy po kawę albo herbatę, ale nie dla wszystkich to dobre rozwiązanie. Jeśli chcemy wspomóc jelita i przy okazji je oczyścić, najlepiej skorzystać ze sprawdzonych ziół, które są źródłem cennego błonnika.</description>
+      <pubDate>Mon, 04 May 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="false">69d0949d0bce</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Pij-zamiast-porannej-kawy-Oczysci-jelita-pomoze-obnizyc-cukier,283961,9.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Medycyna kosmiczna w Gdańsku: GUMed i WIML ruszają ze wspólnymi projektami</title>
       <link>https://lolsoftware.github.io/4-news/#/article/581efcfb5412</link>
@@ -14,6 +22,22 @@
       <pubDate>Mon, 04 May 2026 19:45:00 GMT</pubDate>
       <guid isPermaLink="false">581efcfb5412</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Medycyna-kosmiczna-w-Gdansku-GUMed-i-WIML-ruszaja-ze-wspolnymi-projektami,283979,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>How OpenAI delivers low-latency voice AI at scale</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/acafb39974ab</link>
+      <description>How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.</description>
+      <pubDate>Mon, 04 May 2026 19:42:47 GMT</pubDate>
+      <guid isPermaLink="false">acafb39974ab</guid>
+      <source url="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/">Hacker News</source>
+    </item>
+    <item>
+      <title>Zełenski wskazuje na północ. Zawieszenie broni wbrew słowom Putina</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/95306ac0d21a</link>
+      <description>Władimir Putin ogłosił dwudniowe zawieszenie broni z okazji Dnia Zwycięstwa. Moskwa wyraziła nadzieję, że strona ukraińska &quot;pójdzie za przykładem&quot; Rosji i będzie respektować decyzję o przerwaniu ognia na linii frontu. Tymczasem prezydent Wołodymyr Zełenski przekazał, że Kijów nie otrzymał żadnej oficjalnej oferty rozejmu. W odpowiedzi ogłosił on, że Ukraina wstrzyma ogień zaczynając o północy z wtorku na środę. Nie podał jednak żadnych ram czasowych.</description>
+      <pubDate>Mon, 04 May 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="false">95306ac0d21a</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-wskazuje-na-polnoc-zawieszenie-broni-wbrew-slowom-p,nId,8080454">RMF24</source>
     </item>
     <item>
       <title>ZUS przeliczy emeryturę na nowo. Trzeba złożyć wniosek</title>
@@ -40,6 +64,62 @@
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Zakazenie-groznym-wirusem-na-wycieczkowcu-na-Atlantyku-MSZ-Polacy-czuja-sie-dobrze,283978,15.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Image AI models now drive app growth, beating chatbot upgrades</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d27a1d538a5a</link>
+      <description>Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.</description>
+      <pubDate>Mon, 04 May 2026 19:12:49 GMT</pubDate>
+      <guid isPermaLink="false">d27a1d538a5a</guid>
+      <source url="https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Katie Haun raises $1B for new venture funds</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f035d0c1b76</link>
+      <description>Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.</description>
+      <pubDate>Mon, 04 May 2026 19:12:15 GMT</pubDate>
+      <guid isPermaLink="false">3f035d0c1b76</guid>
+      <source url="https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Influential study touting ChatGPT in education retracted over red flags</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/269439d8ccdb</link>
+      <description>The retracted study on ChatGPT in education was already cited hundreds of times.</description>
+      <pubDate>Mon, 04 May 2026 19:03:39 GMT</pubDate>
+      <guid isPermaLink="false">269439d8ccdb</guid>
+      <source url="https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Śmierć podczas interwencji policji na Żoliborzu. Mężczyzna spadł z trzeciego piętra</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/05a22c01bd9e</link>
+      <description>Stołeczni policjanci wyjaśniają okoliczności śmierci mężczyzny, który podczas interwencji funkcjonariuszy na Żoliborzu próbował wyjść przez okno i spadł z trzeciego piętra - ustalił reporter RMF FM Krzysztof Zasada. Podjęta reanimacja zakończyła się niepowodzeniem.</description>
+      <pubDate>Mon, 04 May 2026 19:03:00 GMT</pubDate>
+      <guid isPermaLink="false">05a22c01bd9e</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-smierc-podczas-interwencji-policji-na-zoliborzu-mezczyzna-sp,nId,8080456">RMF24</source>
+    </item>
+    <item>
+      <title>Putin ogłasza rozejm na 8 i 9 maja. Pułapka czy gest pod presją Trumpa?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/03f0809fb8e4</link>
+      <description>Rosyjski przywódca Władimir Putin zdecydował o wprowadzeniu dwudniowego zawieszenia broni w wojnie z Ukrainą, obowiązującego 8 i 9 maja – poinformowała w poniedziałek agencja Reutera, powołując się na rosyjską państwową agencję RIA Nowosti.</description>
+      <pubDate>Mon, 04 May 2026 18:57:00 GMT</pubDate>
+      <guid isPermaLink="false">03f0809fb8e4</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Putin-oglasza-rozejm-na-8-i-9-maja-Pulapka-czy-gest-pod-presja-Trumpa-9127560.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>UAE accuses Iran of renewed drone and missile attacks</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/78712dc18c07</link>
+      <description>A large fire has broken out at the key Emirati oil port of Fujairah, which lies beyond the largely-blocked Strait of Hormuz.</description>
+      <pubDate>Mon, 04 May 2026 18:50:40 GMT</pubDate>
+      <guid isPermaLink="false">78712dc18c07</guid>
+      <source url="https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Iran &quot;zostanie zmieciony z powierzchni Ziemi&quot;. Trump grozi i wzywa Koreańczyków</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8530d76590a5</link>
+      <description>Prezydent Stanów Zjednoczonych Donald Trump ostrzegł w rozmowie z amerykańskimi mediami, że Iran może zostać &quot;zmieciony z powierzchni Ziemi&quot;, jeśli zaatakuje amerykańskie okręty w rejonie cieśniny Ormuz. Jednocześnie podkreślił, że Teheran wykazuje większą elastyczność w negocjacjach. Zachęcił też Koreę Południową do &quot;dołaczenia do misji&quot; na Bliskim Wschodzie.</description>
+      <pubDate>Mon, 04 May 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="false">8530d76590a5</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-iran-zostanie-zmieciony-z-powierzchni-ziemi-trump-grozi-i-wz,nId,8080451">RMF24</source>
+    </item>
+    <item>
       <title>Ponad 40 tys. zachorowań i 50 potwierdzonych zgonów. Pakistan mierzy się z epidemią tej groźnej choroby</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b37c627af4bc</link>
       <description>W Pakistanie liczba potwierdzonych laboratoryjnie zgonów z powodu odry wzrosła do 50 – podał portal „Dawn”, powołując się na dane Dyrekcji Generalnej Służby Zdrowia (DGHS). Od początku roku odnotowano też 244 zgony przypisywane odrze, bez potwierdzenia w badaniach.</description>
@@ -56,12 +136,28 @@
       <source url="https://www.bankier.pl/wiadomosc/Trump-Iran-zostanie-zmieciony-z-powierzchni-Ziemi-jesli-zaatakuje-USA-9127554.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Microsoft Edge stores all passwords in memory in clear text, even when unused</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7f33dba14406</link>
+      <description>Something went wrong, but don’t fret — let’s give it another shot.</description>
+      <pubDate>Mon, 04 May 2026 18:22:42 GMT</pubDate>
+      <guid isPermaLink="false">7f33dba14406</guid>
+      <source url="https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730">Hacker News</source>
+    </item>
+    <item>
       <title>Chaos w Cieśninie Ormuz. Amerykanie zatopili sześć irańskich jednostek</title>
       <link>https://lolsoftware.github.io/4-news/#/article/720eec94b997</link>
       <description>Szef Dowództwa Centralnego USA (CENTCOM) adm. Brad Cooper powiedział w poniedziałek, że Iran zaatakował amerykańskie okręty oraz statki handlowe, a w odpowiedzi siły USA zatopiły sześć łodzi szturmowych należących do Korpusu Strażników Rewolucji Islamskiej.</description>
       <pubDate>Mon, 04 May 2026 18:09:00 GMT</pubDate>
       <guid isPermaLink="false">720eec94b997</guid>
       <source url="https://www.bankier.pl/wiadomosc/Chaos-w-Ciesninie-Ormuz-Amerykanie-zatopili-szesc-iranskich-jednostek-9127551.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Hackers are still exploiting the cPanel bug to gain control of thousands of websites</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d6677107ff7a</link>
+      <description>Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers keep targeting and hacking websites.</description>
+      <pubDate>Mon, 04 May 2026 18:02:18 GMT</pubDate>
+      <guid isPermaLink="false">d6677107ff7a</guid>
+      <source url="https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/">TechCrunch</source>
     </item>
     <item>
       <title>To badanie można robić bez ograniczeń. Zleca lekarz rodzinny</title>
@@ -72,12 +168,68 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/To-badanie-mozna-robic-bez-ograniczen-Zleca-lekarz-rodzinny,283966,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Odkrycie na terenie rosyjskiej ambasady. Trzech dyplomatów wydalonych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/448da0f020f3</link>
+      <description>Austria wydala trzech rosyjskich dyplomatów podejrzanych o działalność szpiegowską. Powodem decyzji było odkrycie tzw. &quot;lasu anten&quot; na terenie ambasady Rosji w Wiedniu, który – według władz – służył do nielegalnego pozyskiwania danych.</description>
+      <pubDate>Mon, 04 May 2026 18:01:42 GMT</pubDate>
+      <guid isPermaLink="false">448da0f020f3</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-odkrycie-na-terenie-rosyjskiej-ambasady-trzech-dyplomatow-wy,nId,8080449">RMF24</source>
+    </item>
+    <item>
+      <title>VETO mobile wprowadza plan bez limitu za niską cenę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/40861917a80e</link>
+      <description>W minioną majówkę start swoich usług komórkowych zapowiedział firma PL48, w ramach oferty nowego opeartora - VETO mobile.</description>
+      <pubDate>Mon, 04 May 2026 18:00:22 GMT</pubDate>
+      <guid isPermaLink="false">40861917a80e</guid>
+      <source url="https://antyweb.pl/veto-mobile-nowy-operator">Antyweb</source>
+    </item>
+    <item>
+      <title>GameStop offers $56 billion for eBay, struggles to explain how it&apos;ll pay for it</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/380d0f290bc6</link>
+      <description>Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.</description>
+      <pubDate>Mon, 04 May 2026 17:57:46 GMT</pubDate>
+      <guid isPermaLink="false">380d0f290bc6</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/">Ars Technica</source>
+    </item>
+    <item>
+      <title>F1 in Miami: That&apos;s what it looks like when an upgrade works</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6a9158b5989f</link>
+      <description>2026&apos;s Formula 1 championship now looks far from a foregone thing.</description>
+      <pubDate>Mon, 04 May 2026 17:47:05 GMT</pubDate>
+      <guid isPermaLink="false">6a9158b5989f</guid>
+      <source url="https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9a6a089fe93d</link>
+      <description>Comments</description>
+      <pubDate>Mon, 04 May 2026 17:46:32 GMT</pubDate>
+      <guid isPermaLink="false">9a6a089fe93d</guid>
+      <source url="https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup">Hacker News</source>
+    </item>
+    <item>
+      <title>NASA Welcomes Malta as Newest Artemis Accords Signatory</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cebf2c2ae4d9</link>
+      <description>The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. Department of</description>
+      <pubDate>Mon, 04 May 2026 17:46:22 GMT</pubDate>
+      <guid isPermaLink="false">cebf2c2ae4d9</guid>
+      <source url="https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Days Without GitHub Incidents</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3228f7a1c808</link>
       <description>...</description>
       <pubDate>Mon, 04 May 2026 17:36:32 GMT</pubDate>
       <guid isPermaLink="false">3228f7a1c808</guid>
       <source url="https://www.dayswithoutgithubincident.com/">Hacker News</source>
+    </item>
+    <item>
+      <title>Heat pump sales rise across Europe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b4a103d19b80</link>
+      <description>Residential heat pump sales increased 17% across 11 European countries in the first quarter of 2026, following a sharp rise in gas and oil prices after Iran closed the Strait of Hormuz in March, says the European Heat Pump Association (EHPA).</description>
+      <pubDate>Mon, 04 May 2026 17:35:15 GMT</pubDate>
+      <guid isPermaLink="false">b4a103d19b80</guid>
+      <source url="https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/">Hacker News</source>
     </item>
     <item>
       <title>Alarm w ZEA. Przechwycono irańskie rakiety, pożar po uderzeniu drona</title>
@@ -110,6 +262,14 @@
       <pubDate>Mon, 04 May 2026 17:30:34 GMT</pubDate>
       <guid isPermaLink="false">e2b1e28f8408</guid>
       <source url="https://antyweb.pl/z-windows-11-na-macos">Antyweb</source>
+    </item>
+    <item>
+      <title>Let&apos;s Talk about LLMs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ea36a06355c2</link>
+      <description>Everybody seems to agree we’re in the middle of _something_, though what, exactly, seems to be up for debate. It …</description>
+      <pubDate>Mon, 04 May 2026 17:29:39 GMT</pubDate>
+      <guid isPermaLink="false">ea36a06355c2</guid>
+      <source url="https://www.b-list.org/weblog/2026/apr/09/llms/">Hacker News</source>
     </item>
     <item>
       <title>Atak drona na Kernel w Czarnomorsku. Wyciekły tony oleju, infrastruktura zniszczona</title>
@@ -192,6 +352,14 @@
       <source url="https://antyweb.pl/ikea-odswiezy-ulubiony-gadzet-do-kazdego-domu">Antyweb</source>
     </item>
     <item>
+      <title>Breaking Barriers at 3rd Annual Findings from the Field Symposium</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/becdd3844589</link>
+      <description>This year&apos;s Findings from the Field Student Research Symposium welcomed 106 students, grades four through eight, 29 educators, and 15 Subject Matter Experts, and it featured 68 research posters, 14 lightning talks, and 5 discussion sessions.</description>
+      <pubDate>Mon, 04 May 2026 16:58:41 GMT</pubDate>
+      <guid isPermaLink="false">becdd3844589</guid>
+      <source url="https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race</title>
       <link>https://lolsoftware.github.io/4-news/#/article/33624f2dc5a0</link>
       <description>Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.</description>
@@ -238,174 +406,6 @@
       <pubDate>Mon, 04 May 2026 16:45:00 GMT</pubDate>
       <guid isPermaLink="false">1ce253ea2c3b</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zmiany-w-kolejkach-od-1-lipca-Mamy-600-tys-odzyskanych-wizyt,283949,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Pierwsza taka matura. 17-latka przystąpiła do egzaminu w szpitalu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8711607d2b05</link>
-      <description>4 maja rozpoczęły się egzaminy maturalne. Zuzanna, pacjentka Kliniki Pediatrii, Onkologii i Immunologii Dziecięcej Uniwersyteckiego Szpitala Klinicznego nr 1 PUM, podeszła do matury z polskiego w warunkach szpitalnych.</description>
-      <pubDate>Mon, 04 May 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="false">8711607d2b05</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Pierwsza-taka-matura-17-latka-przystapila-do-egzaminu-w-szpitalu,283973,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Chilijskie wysypisko źródłem ogromnych emisji metanu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7cbf533805a0</link>
-      <description>Największym na świecie źródłem emisji metanu, gazu znacznie przyczyniającego się do ocieplenia klimatycznego, jest składowisko odpadów na wzgórzach na obrzeżach stolicy Chile, Santiago - wynika z najnowszego badania Programu Narodów Zjednoczonych ds. Ochrony Środowiska (UNEP).</description>
-      <pubDate>Mon, 04 May 2026 16:42:04 GMT</pubDate>
-      <guid isPermaLink="false">7cbf533805a0</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/raport-onz-najwieksze-emisje-metanu-pochodza-z-wysypiska-smieci-w-chile-st9030552?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Teleskop Webba po raz pierwszy zbadał skład powierzchni skalistej egzoplanety</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/008f5f66cf48</link>
-      <description>Sebastian Zieba z Center for Astrophysics Harvard &amp; Smithsonian oraz Laura Kreidberg, dyrektor Instytutu Astronomii im. Maxa Plancka (MPIA)  oraz ich zespół z USA, Chin i Niemiec, przeprowadzili badania powierzchni LHS 3844 b. Wykorzystali w tym celu instrument MIRI (Mid-Infrared Instrument) znajdujący się na pokładzie Teleskopu Jamesa Webba (JWST), obserwując w paśmie w zakresie 5–12 mikrometrów trzy zaćmienia planety przez gwiazdę.</description>
-      <pubDate>Mon, 04 May 2026 16:41:53 GMT</pubDate>
-      <guid isPermaLink="false">008f5f66cf48</guid>
-      <source url="https://kopalniawiedzy.pl/Teleskop-Webba-powierzchnia-egzoplaneta-sklad,38616">KopalniaWiedzy.pl</source>
-    </item>
-    <item>
-      <title>Samolot uderzył w budynek. Dwie osoby nie żyją</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/23fadf1a14bd</link>
-      <description>Mały samolot rozbił się, uderzając w ścianę budynku w brazylijskim mieście Belo Horizonte - przekazała lokalna straż pożarna. Na pokładzie były cztery osoby. Brazylijskie media opublikowały nagrania z miejsca wypadku.</description>
-      <pubDate>Mon, 04 May 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="false">23fadf1a14bd</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-samolot-uderzyl-w-budynek-dwie-osoby-nie-zyja,nId,8080446">RMF24</source>
-    </item>
-    <item>
-      <title>Alarm przeciwlotniczy nad Dubajem i Abu Zabi. Pierwszy taki atak od 8 kwietnia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/85994539a748</link>
-      <description>Ministerstwo obrony Zjednoczonych Emiratów Arabskich poinformowało o przechwyceniu w poniedziałek trzech rakiet wystrzelonych z Iranu. Czwarta spadła do morza. W ZEA ogłoszono alarm przeciwlotniczy, pierwszy od czasu wejścia w życie 8 kwietnia rozejmu między USA a Iranem.</description>
-      <pubDate>Mon, 04 May 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="false">85994539a748</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Alarm-przeciwlotniczy-nad-Dubajem-i-Abu-Zabi-Pierwszy-taki-atak-od-8-kwietnia-9127494.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Spirit Airlines składa wniosek o upadłość</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1caef592c027</link>
-      <description>Linie Spirit Airlines definitywnie kończą operacje i składają wniosek o upadłość. Po fiasku rozmów o rządowym planie ratunkowym przewoźnik skupia się na wygaszeniu działalności, ubiegając się o ponad 10 milionów dolarów na premie lojalnościowe dla pracowników i kadry zarządzającej - przekazał Reuters. Akcje Frontier Airlines oraz JetBlue Airways zdrożały w reakcji na informację o ostatecznym upadku ich konkurenta.</description>
-      <pubDate>Mon, 04 May 2026 16:40:53 GMT</pubDate>
-      <guid isPermaLink="false">1caef592c027</guid>
-      <source url="https://tvn24.pl/biznes/turystyka/linie-lotnicze-upadek-giganta-tanich-lotow-turbulencje-na-ostatniej-prostej-spirit-airlines-st9030625?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e0bc8581536b</link>
-      <description>Musk texted OpenAI&apos;s president and co-founder saying that he and CEO Sam Altman &quot;will be the most hated men in America.&quot;</description>
-      <pubDate>Mon, 04 May 2026 16:36:03 GMT</pubDate>
-      <guid isPermaLink="false">e0bc8581536b</guid>
-      <source url="https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Nowe filmy i seriale na HBO Max w maju</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9660178a24ba</link>
-      <description>Oto wiele konkretnych, mocnych propozycji do obejrzenia - jakie filmy i seriale pojawią się na HBO Max w maju?</description>
-      <pubDate>Mon, 04 May 2026 16:30:24 GMT</pubDate>
-      <guid isPermaLink="false">9660178a24ba</guid>
-      <source url="https://antyweb.pl/glosne-kinowe-hity-juz-online-cala-seria-mocnych-premier">Antyweb</source>
-    </item>
-    <item>
-      <title>AMD is adding HDMI 2.1 support for Linux. That&apos;s good news for the Steam Machine.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9c3c8f3aec47</link>
-      <description>Fixed Rate Link being added now; Display Stream Compression coming soon.</description>
-      <pubDate>Mon, 04 May 2026 16:26:49 GMT</pubDate>
-      <guid isPermaLink="false">9c3c8f3aec47</guid>
-      <source url="https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Two killed and many injured after car driven into crowd in German city of Leipzig</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f52789465ea</link>
-      <description>Mayor Burkhard Jung said a suspect was detained and the motive was unclear.</description>
-      <pubDate>Mon, 04 May 2026 16:24:50 GMT</pubDate>
-      <guid isPermaLink="false">3f52789465ea</guid>
-      <source url="https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>OpenAI, Google, and Microsoft Back Bill to Fund &apos;AI Literacy&apos; in Schools</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6632aedd873b</link>
-      <description>A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.</description>
-      <pubDate>Mon, 04 May 2026 16:21:38 GMT</pubDate>
-      <guid isPermaLink="false">6632aedd873b</guid>
-      <source url="https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/">Hacker News</source>
-    </item>
-    <item>
-      <title>Statek naszych sąsiadów płynie na południe. Możliwa misja w cieśninie Ormuz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3241014d0a72</link>
-      <description>Niemiecki trałowiec Fulda opuścił w poniedziałek port w Kilonii i skierował się na Morze Śródziemne. Jednostka może zostać wykorzystana do zabezpieczenia cieśniny Ormuz, jeśli niemiecki rząd zdecyduje się na udział w międzynarodowej misji w tym regionie. Ostateczna decyzja w tej sprawie należy do Bundestagu.</description>
-      <pubDate>Mon, 04 May 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="false">3241014d0a72</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-statek-naszych-sasiadow-plynie-na-poludnie-mozliwa-misja-w-c,nId,8080444">RMF24</source>
-    </item>
-    <item>
-      <title>TVN24 liderem oglądalności telewizji informacyjnych w Polsce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ae15ff0d5339</link>
-      <description>TVN24 była w kwietniu najchętniej wybieraną stacją informacyjną w Polsce z wynikiem 5,58 procent udziału w widowni. Stacja wyprzedza Telewizję Republika oraz TVP Info, utrzymując pozycję lidera również w kluczowej kategorii wiekowej 20-54 lata. Serwis tvn24.pl zajął czwarte miejsce pod względem liczby użytkowników, wyprzedzając wyborcza.pl.</description>
-      <pubDate>Mon, 04 May 2026 16:19:55 GMT</pubDate>
-      <guid isPermaLink="false">ae15ff0d5339</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/wyniki-ogladalnosci-tvn24-liderem-stacji-informacyjnych-w-polsce-st9030589?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Orlen wyceniony na rekordowe 160 mld zł. WIG20 walczy z przeznaczeniem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f504c164d35b</link>
-      <description>Poniedziałkowa sesja na warszawskim parkiecie dostarczyła inwestorom pełen wachlarz emocji – od mocnego otwarcia, przez gwałtowne tąpnięcie wywołane fałszywymi jak się okazało doniesieniami z Bliskiego Wschodu, aż po nerwową końcówkę handlu. Choć poranek zapowiadał zerwanie z nieciekawą analogią z 2022 roku, to finał sesji pokazuje coraz większe wątpliwości co do kontynuacji hossy bez oglądania się za siebie. Czy giełdowe przysłowie „sprzedaj w maju i odejdź” właśnie zaczyna się materializować na oczach graczy z GPW? Póki co wynik ciągnie Orlen, który pobił rekord kapitalizacji.</description>
-      <pubDate>Mon, 04 May 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="false">f504c164d35b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Orlen-wyceniony-na-rekordowe-160-mld-zl-WIG20-walczy-z-przeznaczeniem-9127479.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Matura na oddziale onkologii. Pierwsza w historii szkoły</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c7dc185d02e7</link>
-      <description>17-letnia Zuzanna z Polkowic zdawała maturę w poniedziałek w szpitalu. Uczennica jest pacjentką Kliniki Pediatrii, Onkologii i Immunologii Dziecięcej Uniwersyteckiego Szpitala Klinicznego nr 1 PUM w Szczecinie. Jak powiedziała mama maturzystki, decyzja o odbyciu egzaminu w tym miejscu była oznaką ogromnej odpowiedzialności i dojrzałości.</description>
-      <pubDate>Mon, 04 May 2026 16:12:39 GMT</pubDate>
-      <guid isPermaLink="false">c7dc185d02e7</guid>
-      <source url="https://tvn24.pl/szczecin/szczecin-egzamin-maturalny-na-oddziale-onkologii-st9030640?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Urodziny TVN24 w Bielsku-Białej. Dziennikarze z anteny w mieście</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fa9abda0be98</link>
-      <description>Bielsko-Biała to trzeci przystanek na urodzinowej trasie TVN24. Znani z anteny dziennikarze przyjechali do centrum miasta Fiatem 126p. Co się potem działo w tym pięknym mieście? Kto świętował razem z nami? Oto nasza relacja.</description>
-      <pubDate>Mon, 04 May 2026 16:04:36 GMT</pubDate>
-      <guid isPermaLink="false">fa9abda0be98</guid>
-      <source url="https://tvn24.pl/25-lat-TVN24/tvn24-swietowalo-25-lecie-w-bielsku-bialej-gandalf-muzyka-i-szachy-st9030485?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Nie idę na żadną paradę wojskową&quot;. Fico o spotkaniu z Putinem w Moskwie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a87580df8f90</link>
-      <description>​Premier Słowacji Robert Fico ma spotkać się w sobotę w Moskwie z przywódcą Rosji Władimirem Putinem, o czym poinformował podczas szczytu Europejskiej Wspólnoty Politycznej, odbywającego się w stolicy Armenii - Erywaniu. Słowacji polityk podkreślił jednocześnie, że nie weźmie udziału w paradzie wojskowej, która tego dnia powinna się odbyć z okazji obchodów tzw. Dnia Zwycięstwa.</description>
-      <pubDate>Mon, 04 May 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="false">a87580df8f90</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-nie-ide-na-zadna-parade-wojskowa-fico-o-spotkaniu-z-putinem-,nId,8080441">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Nie bardzo się tym przejmuje&quot;. Poseł Szczucki o zawieszeniu w PiS</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f61cf6187129</link>
-      <description>&quot;Smuci mnie postawa polskiej klasy politycznej w sprawie wezwania prezydenta Karola Nawrockiego dotyczącego zmiany konstytucji. Ewentualna nowa ustawa zasadnicza powinna obowiązywać po zakończeniu kadencji prezydenta, ale jestem gotów wspierać go w debacie wokół zmian&quot; - powiedział w Popołudniowej rozmowie w RMF FM Krzysztof Szczucki z Prawa i Sprawiedliwości. W ten sposób odniósł się do decyzji Karola Nawrockiego o powołaniu Rady Nowej Konstytucji, która - według prezydenta - ma wypracować nowy projekt ustawy zasadniczej. Polityk PiS podkreślił także, że &quot;nie bardzo się przejmuje&quot; zawieszeniem w prawach członka partii&quot;.</description>
-      <pubDate>Mon, 04 May 2026 16:02:13 GMT</pubDate>
-      <guid isPermaLink="false">f61cf6187129</guid>
-      <source url="https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-nie-bardzo-sie-tym-przejmuje-posel-szczucki-o-zawieszeniu-w-,nId,8080397">RMF24</source>
-    </item>
-    <item>
-      <title>Bioinżynieryjna guma zmniejsza poziom HPV w jamie ustnej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/50b05c532b21</link>
-      <description>Bioinżynieryjna guma obniżyła poziom HPV i bakterii związanych z rakiem jamy ustnej. Wyniki są mocne, ale wymagają badań klinicznych.</description>
-      <pubDate>Mon, 04 May 2026 16:00:02 GMT</pubDate>
-      <guid isPermaLink="false">50b05c532b21</guid>
-      <source url="https://antyweb.pl/bioinzynieria-guma-hpv">Antyweb</source>
-    </item>
-    <item>
-      <title>Kadrowy problem w krwiodawstwie. Ministerstwo Zdrowia szykuje zmiany, ruszyły konsultacje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f14de245ff2d</link>
-      <description>Więcej osób będą mogło ubiegać się o zatrudnienie w centrach krwiodawstwa. Resort zdrowia proponuje zmiany w zasadach zatrudniania w publicznej służbie krwi, m.in. uelastycznienie wymagań, co do wykształcenia. 4 maja 2026 r. do konsultacji trafił nowy projekt rozporządzenia w tej sprawie. Proponowane zmiany dotyczą też postulatów pielęgniarek, które &quot;skarżyły się&quot;, że z magistrem trafiają na stanowiska dla osób z wykształceniem średnim.</description>
-      <pubDate>Mon, 04 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f14de245ff2d</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Kadrowy-problem-w-krwiodawstwie-Ministerstwo-Zdrowia-szykuje-zmiany-ruszyly-konsultacje,283969,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Samochód wjechał w grupę ludzi. Nie żyją dwie osoby</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0fc97b68a008</link>
-      <description>Dramatyczne wydarzenia rozegrały się w poniedziałkowe popołudnie w centrum Lipska. Samochód osobowy wjechał w tłum przechodniów, powodując śmierć dwóch osób. Ponad 20 osób zostało rannych.</description>
-      <pubDate>Mon, 04 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0fc97b68a008</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-samochod-wjechal-w-grupe-ludzi-nie-zyja-dwie-osoby,nId,8080442">RMF24</source>
     </item>
   </channel>
 </rss>
