@@ -155,6 +155,7 @@
     }
   ],
   "settings": {
+    "useAI": false,
     "maxArticlesPerSource": 15,
     "maxArticleAgeDays": 7,
     "maxArticleDetailAgeDays": 14,

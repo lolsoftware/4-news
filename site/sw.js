@@ -1,4 +1,4 @@
-const CACHE_NAME = 'news-v7';
+const CACHE_NAME = 'news-v8';
 const STATIC_ASSETS = ['/', '/index.html', '/style.css', '/app.js', '/manifest.json', '/icon-192.png', '/icon-512.png'];
 
 self.addEventListener('install', event => {

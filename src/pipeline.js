@@ -32,14 +32,20 @@ async function main() {
   const existing = loadExistingArticles(outputDir);
   const existingGuids = new Set(existing.map(a => a.guid).filter(Boolean));
   const existingUrls = new Set(existing.map(a => a.url));
+  const failedExtractionGuids = new Set(existing.filter(a => a.extractionFailed).map(a => a.guid).filter(Boolean));
+  const failedExtractionUrls = new Set(existing.filter(a => a.extractionFailed).map(a => a.url));
   const detailAgeDays = settings.maxArticleDetailAgeDays || settings.maxArticleAgeDays;
   const ageCutoff = Date.now() - detailAgeDays * 24 * 60 * 60 * 1000;
   const newItems = items.filter(item => {
-    if (existingGuids.has(item.guid) || existingUrls.has(item.articleUrl)) return false;
+    const isFailedRetry = failedExtractionGuids.has(item.guid) || failedExtractionUrls.has(item.articleUrl);
+    if (!isFailedRetry && (existingGuids.has(item.guid) || existingUrls.has(item.articleUrl))) return false;
     if (new Date(item.pubDate).getTime() < ageCutoff) return false;
     return true;
   });
-  console.log(`${newItems.length} new articles (${items.length - newItems.length} already processed)`);
+  const retryCount = newItems.filter(item =>
+    failedExtractionGuids.has(item.guid) || failedExtractionUrls.has(item.articleUrl)
+  ).length;
+  console.log(`${newItems.length} new articles (${items.length - newItems.length} already processed, ${retryCount} retrying failed extraction)`);
 
   // Retry articles that failed AI processing
   const errorArticles = existing.filter(a => a.titleStatus === 'error');
