@@ -1,9 +1,10 @@
 const API_BASE = 'api';
 const CACHE_KEY = 'news-articles';
-const APP_VERSION = 'v7';
+const APP_VERSION = 'v8';
 
 let articlesData = null;
 let savedScrollY = 0;
+let savedScrollCategory = null;
 
 // --- Routing ---
 
@@ -191,6 +192,14 @@ async function renderArticle(id) {
   `;
 
   content.querySelector('.article-share-btn').onclick = () => shareArticle(article);
+  content.querySelector('.back-btn').onclick = (e) => {
+    e.preventDefault();
+    if (history.length > 1) {
+      history.back();
+    } else {
+      navigate('#/');
+    }
+  };
 
   // Scroll to top
   window.scrollTo(0, 0);
@@ -245,9 +254,15 @@ function handleRoute() {
   if (route.view === 'article') {
     renderArticle(route.id);
   } else {
+    const restoreScroll = route.category === savedScrollCategory;
     renderList(articlesData || { articles: [] }, route.category);
-    // Restore scroll position when returning to list
-    requestAnimationFrame(() => window.scrollTo(0, savedScrollY));
+    if (restoreScroll) {
+      requestAnimationFrame(() => window.scrollTo(0, savedScrollY));
+    } else {
+      window.scrollTo(0, 0);
+      savedScrollY = 0;
+    }
+    savedScrollCategory = route.category;
   }
 }
 
