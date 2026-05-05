@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 05 May 2026 19:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:18:09 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>As crypto cools, a16zcrypto raises a $2.2B fund</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f414b9ec58d2</link>
+      <description>As some of the biggest VCs in crypto start to consider funding AI startups, a16zcrypto&apos;s new fund will stay the course.</description>
+      <pubDate>Tue, 05 May 2026 21:15:56 GMT</pubDate>
+      <guid isPermaLink="false">f414b9ec58d2</guid>
+      <source url="https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Iran uderzył na ZEA? Teheran zaprzecza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a1a4f3fdc153</link>
+      <description>​Emirackie ministerstwo obrony poinformowało we wtorek o kolejnych atakach rakietowych i dronowych Iranu. W poniedziałek Zjednoczone Emiraty Arabskie zostały zaatakowane po raz pierwszy od blisko miesiąca. Wojsko Iranu zaprzeczyło, by atakowało ZEA i zagroziło reakcją na ewentualny odwet tego państwa.</description>
+      <pubDate>Tue, 05 May 2026 21:12:08 GMT</pubDate>
+      <guid isPermaLink="false">a1a4f3fdc153</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-iran-uderzyl-na-zea-teheran-zaprzecza,nId,8080600">RMF24</source>
+    </item>
     <item>
       <title>Rząd przyjął bon senioralny. Są tylko dwa kryteria</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c20a0574cc4b</link>
@@ -14,6 +30,38 @@
       <pubDate>Tue, 05 May 2026 21:01:00 GMT</pubDate>
       <guid isPermaLink="false">c20a0574cc4b</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Rzad-przyjal-bon-senioralny-Sa-tylko-dwa-kryteria,284029,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Apple plans to make iOS 27 a Choose Your Own Adventure of AI models</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7287a41d76bc</link>
+      <description>With Apple&apos;s latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.</description>
+      <pubDate>Tue, 05 May 2026 20:56:41 GMT</pubDate>
+      <guid isPermaLink="false">7287a41d76bc</guid>
+      <source url="https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Scientists connect “time crystal” to real device in quantum breakthrough</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d2f7f4c4d4bd</link>
+      <description>A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientists have now managed to connect it to an external device for the first time. By linking the time crystal to a tiny mechanical oscillator, researchers showed they can actually control its behavior, opening the door to powerful new technologies.</description>
+      <pubDate>Tue, 05 May 2026 20:53:45 GMT</pubDate>
+      <guid isPermaLink="false">d2f7f4c4d4bd</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260504154024.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Krwawy atak Rosji na Ukrainę, wiele ofiar i rannych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9fb7ecd14613</link>
+      <description>W wyniku rosyjskiego ataku na Zaporoże na południowym wschodzie Ukrainy zginęło co najmniej 12 osób - poinformowały miejscowe władze. Rosja przeprowadziła również ataki na Kramatorsk i Dniepr, gdzie również zginęli cywile.</description>
+      <pubDate>Tue, 05 May 2026 20:31:12 GMT</pubDate>
+      <guid isPermaLink="false">9fb7ecd14613</guid>
+      <source url="https://tvn24.pl/swiat/krwawy-atak-rosji-na-ukraine-wiele-ofiar-i-rannych-st9032945?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Stanford’s new chip boosts light 100x with surprisingly low energy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2c07c3c87f78</link>
+      <description>Researchers at Stanford have developed a compact optical amplifier that dramatically boosts light signals using very little power. By recycling energy inside a looping resonator, the device achieves strong amplification with minimal noise and wide bandwidth. Its efficiency and small size mean it could run on batteries and be integrated into consumer electronics. This breakthrough could enable faster communications and more powerful optical technologies.</description>
+      <pubDate>Tue, 05 May 2026 20:21:16 GMT</pubDate>
+      <guid isPermaLink="false">2c07c3c87f78</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260504154021.htm">ScienceDaily</source>
     </item>
     <item>
       <title>Chrupiący przysmak z drzewa. Polacy tylko patrzą, bo nie wiedzą, co omijają</title>
@@ -24,12 +72,52 @@
       <source url="https://www.rynekzdrowia.pl/Choroby-zakazne/Chrupiacy-przysmak-z-drzewa-Polacy-tylko-patrza-bo-nie-wiedza-co-omijaja,283956,22.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>.de TLD offline due to DNSSEC?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/453946e40478</link>
+      <description>The DNSSEC Debugger from VeriSign Labs is an on-line tool to assist with diagnosing problems with DNSSEC-signed names and zones.</description>
+      <pubDate>Tue, 05 May 2026 20:16:35 GMT</pubDate>
+      <guid isPermaLink="false">453946e40478</guid>
+      <source url="https://dnssec-analyzer.verisignlabs.com/nic.de">Hacker News</source>
+    </item>
+    <item>
+      <title>ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0044cad7f537</link>
+      <description>Christophe Fouquet, who became ASML&apos;s CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.</description>
+      <pubDate>Tue, 05 May 2026 20:06:40 GMT</pubDate>
+      <guid isPermaLink="false">0044cad7f537</guid>
+      <source url="https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/">TechCrunch</source>
+    </item>
+    <item>
       <title>3 szklanki dziennie. Obowiązkowe szczególnie dla seniorów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/da4756a70345</link>
       <description>Osoby starsze powinny spożywać co najmniej do trzech dużych szklanek mleka. Dobrym rozwiązaniem może być także wybór fermentowanych produktów mlecznych. Dlaczego? Mleko dostarcza bowiem organizmowi białko, wapń, magnez, potas, witaminy z grupy B oraz witaminę D.</description>
       <pubDate>Tue, 05 May 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">da4756a70345</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/3-szklanki-dziennie-Obowiazkowe-szczegolnie-dla-seniorow,283995,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Curiosity Blog, Sols 4879-4885: Struggle at Atacama</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eae6d1c8d008</link>
+      <description>Written by William Farrand, Senior Research Scientist, Space Science Institute</description>
+      <pubDate>Tue, 05 May 2026 20:00:45 GMT</pubDate>
+      <guid isPermaLink="false">eae6d1c8d008</guid>
+      <source url="https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Volkswagen becomes Rivian’s top shareholder, displacing Amazon</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d3d019514d2b</link>
+      <description>VW Group&apos;s stake will continue to grow under the $5.8 billion joint venture with Rivian.</description>
+      <pubDate>Tue, 05 May 2026 19:58:57 GMT</pubDate>
+      <guid isPermaLink="false">d3d019514d2b</guid>
+      <source url="https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/">TechCrunch</source>
+    </item>
+    <item>
+      <title>&quot;Nie jest nam potrzebna żadna nowa konstytucja&quot;. Tak twierdzi członek rady prezydenta</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/42185422f479</link>
+      <description>Czy Polska potrzebuje nowej konstytucji? Wbrew oczekiwaniom wielu polityków i komentatorów, konstytucjonalista prof. Ryszard Piotrowski w rozmowie z &quot;Gościem Niedzielnym&quot; stanowczo odrzuca pomysł pisania ustawy zasadniczej od nowa. &quot;Nie jest nam potrzebny żaden reset, nie jest nam potrzebna żadna nowa konstytucja&quot; – podkreśla ekspert, który właśnie został powołany przez prezydenta Karola Nawrockiego do Rady Nowej Konstytucji.</description>
+      <pubDate>Tue, 05 May 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="false">42185422f479</guid>
+      <source url="https://www.rmf24.pl/polityka/news-nie-jest-nam-potrzebna-zadna-nowa-konstytucja-tak-twierdzi-c,nId,8080597">RMF24</source>
     </item>
     <item>
       <title>Rozbił się samolot biorący udział w akcji gaśniczej. Zginęła jedna osoba</title>
@@ -40,12 +128,28 @@
       <source url="https://tvn24.pl/polska/rozbil-sie-samolot-bioracy-udzial-w-akcji-gasniczej-na-lubelszczyznie-zginela-jedna-osoba-st9033004?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c78552db9ba</link>
+      <description>Daemon Tools users: It&apos;s time to check your machines for stealthy infections, stat.</description>
+      <pubDate>Tue, 05 May 2026 19:46:15 GMT</pubDate>
+      <guid isPermaLink="false">1c78552db9ba</guid>
+      <source url="https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/">Ars Technica</source>
+    </item>
+    <item>
       <title>Hołownia reaguje na doniesienia o możliwej utracie immunitetu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cdb46cd5923d</link>
       <description>&quot;Jeśli wpłynie taki wniosek do Sejmu, to wówczas podejmę decyzję, jakie podjąć dalsze kroki&quot; - mówi Szymon Hołownia o doniesieniach dotyczących wniosku o uchylenie mu immunitetu. Sprawa ma dotyczyć afery Collegium Humanum i dyplomu, który polityk miał otrzymać bez udziału w zajęciach.</description>
       <pubDate>Tue, 05 May 2026 19:39:00 GMT</pubDate>
       <guid isPermaLink="false">cdb46cd5923d</guid>
       <source url="https://www.rmf24.pl/fakty/polska/news-holownia-reaguje-na-doniesienia-o-mozliwej-utracie-immunitet,nId,8080596">RMF24</source>
+    </item>
+    <item>
+      <title>RFK Jr. plans to curb antidepressants, which he falsely compares to heroin</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/71c6052c1930</link>
+      <description>Kennedy has made—and continues to make—many false claims about SSRIs.</description>
+      <pubDate>Tue, 05 May 2026 19:32:38 GMT</pubDate>
+      <guid isPermaLink="false">71c6052c1930</guid>
+      <source url="https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/">Ars Technica</source>
     </item>
     <item>
       <title>​Katastrofa samolotu gaśniczego na Lubelszczyźnie. Nie żyje pilot</title>
@@ -80,6 +184,14 @@
       <source url="https://www.rmf24.pl/fakty/polska/news-szef-mon-nasza-umowa-pozyczkowa-safe-zaakceptowana-przez-ke-,nId,8080598">RMF24</source>
     </item>
     <item>
+      <title>Kosiniak-Kamysz: Komisja Europejska zaakceptowała umowę pożyczkową SAFE</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4309442925ca</link>
+      <description>Komisja Europejska zaakceptowała naszą umowę pożyczkową SAFE. To blisko 190 miliardów złotych dla armii - poinformował minister obrony narodowej Władysław Kosiniak-Kamysz.</description>
+      <pubDate>Tue, 05 May 2026 19:22:55 GMT</pubDate>
+      <guid isPermaLink="false">4309442925ca</guid>
+      <source url="https://tvn24.pl/polska/umowa-w-sprawie-safe-zaakceptowana-przez-komisje-europejska-st9032992?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>&quot;Krótkoterminowy środek&quot;. Demokraci apelują do Trumpa ws. sankcji na Rosję</title>
       <link>https://lolsoftware.github.io/4-news/#/article/956baa6b6f16</link>
       <description>​Demokraci w Senacie Stanów Zjednoczonych zaapelowali do administracji prezydenta USA Donalda Trumpa o przywrócenie sankcji na rosyjską ropę, zniesionych z uwagi na wzrost cen wywołany wojną z Iranem - informuje portal The Hill. Swój apel argumentują zwiększonymi dochodami z eksportu surowca finansują wojnę z Ukrainą.</description>
@@ -102,6 +214,14 @@
       <pubDate>Tue, 05 May 2026 19:15:20 GMT</pubDate>
       <guid isPermaLink="false">5470916772d7</guid>
       <source url="https://tvn24.pl/tvnwarszawa/okolice/rybitwy-pijany-kierowca-uderzyl-w-ogrodzenie-zatrzymal-go-wlasciciel-posesji-st9032946?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Israeli court extends detention of two Gaza flotilla activists</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9f10ceb18bb8</link>
+      <description>Thiago Ávila and Saif Abu Keshek were detained by Israeli forces who intercepted the flotilla&apos;s boats near Greece last week.</description>
+      <pubDate>Tue, 05 May 2026 19:10:30 GMT</pubDate>
+      <guid isPermaLink="false">9f10ceb18bb8</guid>
+      <source url="https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Przełom dla chorych na cukrzycę po 26. roku życia. &quot;Czekamy na podpis ministry zdrowia&quot;</title>
@@ -288,126 +408,6 @@
       <pubDate>Tue, 05 May 2026 17:55:32 GMT</pubDate>
       <guid isPermaLink="false">d879a8abe231</guid>
       <source url="https://tvn24.pl/swiat/general-mieczyslaw-bieniek-pogloski-o-smierci-nato-sa-przesadzone-st9032787?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/31d1fa1a3d40</link>
-      <description>We present GLM-5V-Turbo, a step toward native foundation models for multimodal agents. As foundation models are increasingly deployed in real environments, agentic capability depends not only on language reasoning, but also on the ability to perceive, interpret, and act over heterogeneous contexts such as images, videos, webpages, documents, GUIs. GLM-5V-Turbo is built around this objective: multimodal perception is integrated as a core component of reasoning, planning, tool use, and execution, rather than as an auxiliary interface to a language model. This report summarizes the main improvements behind GLM-5V-Turbo across model design, multimodal training, reinforcement learning, toolchain expansion, and integration with agent frameworks. These developments lead to strong performance in multimodal coding, visual tool use, and framework-based agentic tasks, while preserving competitive text-only coding capability. More importantly, our development process offers practical insights for building multimodal agents, highlighting the central role of multimodal perception, hierarchical optimization, and reliable end-to-end verification.</description>
-      <pubDate>Tue, 05 May 2026 17:52:31 GMT</pubDate>
-      <guid isPermaLink="false">31d1fa1a3d40</guid>
-      <source url="https://arxiv.org/abs/2604.26752">Hacker News</source>
-    </item>
-    <item>
-      <title>Tyle matur z matematyki dziś unieważniono. Dyrektor CKE ujawnił dane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e9f6ec1c19bb</link>
-      <description>Kilkanaście egzaminów maturalnych z matematyki zostało dziś unieważnionych. Dane te otrzymał reporter RMF FM Michał Radkowski od dyrektora Centralnej Komisji Egzaminacyjnej, dr. hab. Roberta Zakrzewskiego.</description>
-      <pubDate>Tue, 05 May 2026 17:52:29 GMT</pubDate>
-      <guid isPermaLink="false">e9f6ec1c19bb</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-tyle-matur-z-matematyki-dzis-uniewazniono-dyrektor-cke-ujawn,nId,8080591">RMF24</source>
-    </item>
-    <item>
-      <title>Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6cf81f91cdf3</link>
-      <description>According to Pennsylvania&apos;s filing, a Character AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.</description>
-      <pubDate>Tue, 05 May 2026 17:46:10 GMT</pubDate>
-      <guid isPermaLink="false">6cf81f91cdf3</guid>
-      <source url="https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/">TechCrunch</source>
-    </item>
-    <item>
-      <title>„Sprawimy, że upadnie. Dlaczego? Bo chcę wygrać”. Trump otwarcie o planie na Iran</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76cbde34677a</link>
-      <description>Prezydent USA Donald Trump powiedział we wtorek, że liczy na zapaść irańskiej gospodarki, bo w ten sposób wygra wojnę z Iranem. Trump przekonywał, że Iran już nie jest w stanie płacić swoim żołnierzom i wyraził zdziwienie niskim kosztem ekonomicznym wojny.</description>
-      <pubDate>Tue, 05 May 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="false">76cbde34677a</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Sprawimy-ze-upadnie-Dlaczego-Bo-chce-wygrac-Trump-otwarcie-o-planie-na-Iran-9128089.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Brazylia gra nie fair? Polscy producenci: Absurdalne żądania blokują rynkek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/06bd5a1d48f4</link>
-      <description>Brazylia nie uznaje ustalonych z Polską świadectw weterynaryjnych, żąda badań, których w Polsce nie wykonuje się - poinformowała we wtorek prezes Polskiej Izby Mleka Agnieszka Maliszewska. Zdaniem wiceminister rolnictwa Małgorzaty Gromadzkiej sprawę trzeba wyjaśnić na szczeblu międzyrządowym.</description>
-      <pubDate>Tue, 05 May 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="false">06bd5a1d48f4</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Brazylia-gra-nie-fair-Polscy-producenci-Absurdalne-zadania-blokuja-rynkek-9128090.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Dziecko w płonącym domu. Urlopowicz rzucił się na ratunek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1f1f719e8ab0</link>
-      <description>Pożar domu w miejscowości Sucha Rzeczka (woj. podlaskie). Z pomocą jako pierwszy ruszył funkcjonariusz straży granicznej przebywający na urlopie, ewakuując z płonącego budynku 10-letniego chłopca.</description>
-      <pubDate>Tue, 05 May 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">1f1f719e8ab0</guid>
-      <source url="https://www.rmf24.pl/regiony/bialystok/news-dziecko-w-plonacym-domu-urlopowicz-rzucil-sie-na-ratunek,nId,8080592">RMF24</source>
-    </item>
-    <item>
-      <title>Quantum Key Distribution (QKD) and Quantum Cryptography (QC)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/24bc8eef27d0</link>
-      <description>Comments</description>
-      <pubDate>Tue, 05 May 2026 17:38:17 GMT</pubDate>
-      <guid isPermaLink="false">24bc8eef27d0</guid>
-      <source url="https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/">Hacker News</source>
-    </item>
-    <item>
-      <title>IBM didn&apos;t want Microsoft to use the Tab key to move between dialog fields</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3548843fda67</link>
-      <description>I want to speak to your manager.</description>
-      <pubDate>Tue, 05 May 2026 17:28:18 GMT</pubDate>
-      <guid isPermaLink="false">3548843fda67</guid>
-      <source url="https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298">Hacker News</source>
-    </item>
-    <item>
-      <title>Woman, 35, died in explosion after ex-partner &apos;forced entry&apos; into her home</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c5a8abe9498</link>
-      <description>Police officers are treating the death of Jo Shaw as a homicide.</description>
-      <pubDate>Tue, 05 May 2026 17:25:19 GMT</pubDate>
-      <guid isPermaLink="false">6c5a8abe9498</guid>
-      <source url="https://www.bbc.com/news/articles/cx21q55gz12o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Google Home gets upgraded Gemini voice assistant and new camera controls</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f48c5b6e3a5e</link>
-      <description>Google&apos;s smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.</description>
-      <pubDate>Tue, 05 May 2026 17:17:25 GMT</pubDate>
-      <guid isPermaLink="false">f48c5b6e3a5e</guid>
-      <source url="https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/">Ars Technica</source>
-    </item>
-    <item>
-      <title>A 75-million-year-old fossil reveals a shocking tyrannosaur secret</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0aec28f5b2c3</link>
-      <description>Tyrannosaurs may be famous as fearsome apex predators, but new research reveals a more opportunistic—and slightly grim—side to their behavior. Using high-resolution 3D scans, a researcher identified precise bite marks on a massive tyrannosaur foot bone, showing that a smaller tyrannosaur had fed on the remains of a much larger relative over 75 million years ago.</description>
-      <pubDate>Tue, 05 May 2026 17:14:44 GMT</pubDate>
-      <guid isPermaLink="false">0aec28f5b2c3</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/05/260504154023.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c7656516c1c8</link>
-      <description>SEC alleged Musk&apos;s late disclosure cheated Twitter investors out of $150 million.</description>
-      <pubDate>Tue, 05 May 2026 17:07:32 GMT</pubDate>
-      <guid isPermaLink="false">c7656516c1c8</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Potężny pożar na Lubelszczyźnie. Około 300 strażaków walczy z ogniem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0da688065939</link>
-      <description>Około 300 strażaków walczy z pożarem lasu na południu Lubelszczyzny, na styku trzech powiatów: biłgorajskiego, zamojskiego i tomaszowskiego. W akcji gaśniczej uczestniczą m.in. cysterny z wodą i śmigłowce. Policja kieruje ruch objazdami. Akcja może trwać jeszcze wiele godzin. Działania służb utrudnia wiatr. Zdjęcia kłębów dymu dostaliśmy od naszej Słuchaczki na Gorącą Linię RMF FM.</description>
-      <pubDate>Tue, 05 May 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="false">0da688065939</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-potezny-pozar-na-lubelszczyznie-okolo-300-strazakow-walczy-z,nId,8080589">RMF24</source>
-    </item>
-    <item>
-      <title>Potężny pożar na Lubelszczyźnie. Kilkuset strażaków walczy z ogniem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/af58bc1f5a94</link>
-      <description>Już ponad 300 strażaków walczy z pożarem lasu na południu Lubelszczyzny, na styku trzech powiatów: biłgorajskiego, zamojskiego i tomaszowskiego. W akcji gaśniczej uczestniczą m.in. cysterny z wodą i śmigłowce, a straż pożarna ściąga kolejne posiłki. Policja kieruje ruch objazdami. Akcja może trwać jeszcze kilkadziesiąt godzin. Działania służb utrudnia wiatr. Pożar objął już 150 hektarów. Na razie nie ma informacji, aby ktoś był poszkodowany. &quot;Do zabudowań jest daleko&quot; - zapewnia wojewoda lubelski Krzysztof Komorowski.</description>
-      <pubDate>Tue, 05 May 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="false">af58bc1f5a94</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-potezny-pozar-na-lubelszczyznie-kilkuset-strazakow-walczy-z-,nId,8080589">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Akcję ratunkową należy uznać za nieudaną&quot;. Humbak Timmy prawdopodobnie utonął</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/879572fda036</link>
-      <description>Przez tygodnie losy ważącego 12 ton humbaka Timmy’ego śledziła cała Europa. Niestety, według najnowszych doniesień zwierzę najprawdopodobniej utonęło. &quot;Można z dużym prawdopodobieństwem założyć, że nie miał wystarczającej siły, by dłużej pływać w głębokiej wodzie, i że już nie żyje&quot; – przekazało Niemieckie Muzeum Morskie w Stralsundzie.</description>
-      <pubDate>Tue, 05 May 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="false">879572fda036</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-akcje-ratunkowa-nalezy-uznac-za-nieudana-humbak-timmy-prawdo,nId,8080588">RMF24</source>
     </item>
   </channel>
 </rss>
