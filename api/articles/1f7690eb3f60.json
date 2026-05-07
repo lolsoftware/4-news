@@ -1,0 +1,13 @@
+{
+  "id": "1f7690eb3f60",
+  "title": "Anthropic zwiększa limity. Claude napisze ci dwukrotnie więcej kodu",
+  "originalTitle": "Anthropic zwiększa limity. Claude napisze ci dwukrotnie więcej kodu",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/anthropic-zwieksza-limity-claude-napisze-ci-dwukrotnie-wiecej-kodu",
+  "publishedAt": "2026-05-07T13:00:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Anthropic miał zaostrzać limity, a zamiast tego je luzuje. Jest to możliwe dzięki dość nieoczekiwanemu partnerstwu ze SpaceX.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Jeszcze tydzień temu szykowaliśmy się na najgorszy scenariusz. Anthropic, zmęczony tym, że użytkownicy najtańszego płatnego planu wykorzystują Claude Code do granic możliwości, poważnie rozważał odebranie im dostępu do tej funkcji. Anthropic otwarcie przyznawał, że jego infrastruktura zaczyna pękać w szwach, a „agentowe” funkcje pokroju Claude Code zużywają absurdalne ilości mocy obliczeniowej. Jednak zamiast ciąć limity, firma zrobiła coś zupełnie odwrotnego. Mianowicie postanowiła je podwoić, a to wszystko dzięki... Elonowi Muskowi.</p>  <h2>Claude będzie kodował więcej, za te same pieniądze</h2> <p>Anthropic ogłosił podczas konferencji Code with Claude w San Francisco, że podwaja limity korzystania z Claude Code dla użytkowników planów Pro, Max, Team oraz Enterprise. Zwiększone mają zostać również limity API dla najmocniejszych modeli Opus, a dodatkowo firma znosi część ograniczeń obowiązujących w godzinach szczytu wprowadzonych niedawno dla użytkowników planu Pro i Max. Powód jest dość nietypowy i jest nim sojusz ze SpaceX.</p> <p>Na konferencji „Code with Claude” w San Francisco ogłoszono pakt z SpaceX. Tak, tym SpaceX, którego największy udziałowiec nazywał wcześniej Anthropic \"mizantropijnym i złym\". Cóż, interesy to nie związek małżeński i liczy się w nich twarda gotówka. Dzięki umowie Anthropic wskakuje do centrum danych Colossus 1 w Memphis i dostaje klucze do 220 tysięcy procesorów graficznych Nvidii. W efekcie, zamiast ciąć dostęp do Claude Code, firma nagle podwaja limity użytkowania.</p> <p>Cała sytuacja pokazuje, jak kosztowna staje się współczesna wojna AI. Dziś nie wystarczy już mieć dobry model językowy. Trzeba jeszcze posiadać niewyobrażalne ilości energii, serwerów i chipów. Nawet takie firmy jak Anthropic, wspierane wcześniej przez Amazona, Google’a czy Microsoft, zaczynają desperacko szukać kolejnych źródeł mocy obliczeniowej.</p></div></div>",
+  "image": "images/17dd682af8a5.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
