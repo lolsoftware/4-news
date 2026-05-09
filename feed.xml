@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 09 May 2026 19:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:06:07 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>11 mln już zachorowało. Polacy w szponach podstępnej choroby</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33ffd0e5197e</link>
+      <description>Nadciśnienie dotyczy już milionów Polaków i pozostaje jedną z głównych przyczyn zawałów oraz udarów. Eksperci alarmują, że Polska znajduje się w europejskiej czołówce pod względem liczby chorych. Lekarze ruszają teraz z programem „Misja 50/30”, który ma poprawić skuteczność leczenia i zwiększyć świadomość pacjentów.</description>
+      <pubDate>Sat, 09 May 2026 22:32:00 GMT</pubDate>
+      <guid isPermaLink="false">33ffd0e5197e</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/11-mln-juz-zachorowalo-Polacy-w-szponach-podstepnej-choroby,284072,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>22 tys. zł na semestr. Ministerstwo Zdrowia umorzy kredyt na studia medyczne w 100 proc.</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/794fcba9f3c9</link>
+      <description>Nawet 22 tys. zł na semestr mogą dostać studenci płatnej medycyny w ramach specjalnego kredytu. Co ważne, państwo może umorzyć nawet 100 proc. zobowiązania, ale trzeba spełnić konkretne warunki. Z programu skorzystały już tysiące przyszłych lekarzy.</description>
+      <pubDate>Sat, 09 May 2026 21:40:00 GMT</pubDate>
+      <guid isPermaLink="false">794fcba9f3c9</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/22-tys-zl-na-semestr-Ministerstwo-Zdrowia-umorzy-kredyt-na-studia-medyczne-w-100-proc,284023,1.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>W USA kulinarny rarytas, w Polsce chwast. Na obrzęki i lepsze trawienie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/54bf43d5bb7c</link>
@@ -24,6 +40,30 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Kolejne-badania-potwierdzily-11-mln-Polakow-powinno-jesc-codziennie,284090,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Defilada bez sprzętu, siedem minut wystąpienia. Tak wyglądały obchody Dnia Zwycięstwa w Rosji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0821060f7f84</link>
+      <description>Władimir Putin mówi Rosjanom, że są narodem zwycięzców, który rzekomo zawsze zwyciężał i będzie zwyciężać, ale on sam na Placu Czerwonym na zwycięzcę nie wyglądał. Defilada w 81. rocznicę zakończenia II wojny światowej była bez ciężkiego sprzętu, prawie bez gości. Putin mówił krótko i bezbarwnie.</description>
+      <pubDate>Sat, 09 May 2026 20:55:29 GMT</pubDate>
+      <guid isPermaLink="false">0821060f7f84</guid>
+      <source url="https://tvn24.pl/fakty-artykuly/tak-wygladaly-obchody-dnia-zwyciestwa-w-rosji-zelenski-pokazal-kto-kontroluje-sytuacje-st9039961?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>MV Hondius zbliża się do portu. Co dalej z pasażerami i statkiem?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b789f9749695</link>
+      <description>Płynący z Argentyny wycieczkowiec MV Hondius ma dotrzeć do Teneryfy w archipelagu Wysp Kanaryjskich w niedzielny poranek. Hiszpańskie władze poinformowały, że po ewakuacji pasażerów część załogi pozostanie na pokładzie i uda się statkiem do Holandii, gdzie jednostka zostanie zdezynfekowana. Kapitanem wycieczkowca jest Polak Jan Dobrogowski.</description>
+      <pubDate>Sat, 09 May 2026 20:50:00 GMT</pubDate>
+      <guid isPermaLink="false">b789f9749695</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-mv-hondius-zbliza-sie-do-portu-co-dalej-z-pasazerami-i-statk,nId,8081327">RMF24</source>
+    </item>
+    <item>
+      <title>Green gains see Labour lose control of Lewisham and Lambeth</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad462c488574</link>
+      <description>The Greens become the largest party in two former Labour strongholds in south London.</description>
+      <pubDate>Sat, 09 May 2026 20:35:19 GMT</pubDate>
+      <guid isPermaLink="false">ad462c488574</guid>
+      <source url="https://www.bbc.com/news/articles/cj9pe9dmm3xo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Polacy alarmują o prawdziwej pladze mrówek. Profesor ostrzega</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3881dde846d5</link>
       <description>Polacy alarmują o prawdziwej pladze mrówek w domach i ogrodach. Ekspert wyjaśnia, skąd nagły wysyp owadów i ostrzega, że największym problemem mogą być nie same mrówki, ale groźne bakterie, które przenoszą.</description>
@@ -32,12 +72,76 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Polacy-alarmuja-o-prawdziwej-pladze-mrowek-Profesor-ostrzega,284094,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Fintech startup Parker files for bankruptcy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/edece7689aff</link>
+      <description>Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.</description>
+      <pubDate>Sat, 09 May 2026 20:32:17 GMT</pubDate>
+      <guid isPermaLink="false">edece7689aff</guid>
+      <source url="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/">TechCrunch</source>
+    </item>
+    <item>
+      <title>FreeBSD: Local Privilege Escalation via Execve()</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8fe30e4b9d2c</link>
+      <description>Comments</description>
+      <pubDate>Sat, 09 May 2026 20:31:21 GMT</pubDate>
+      <guid isPermaLink="false">8fe30e4b9d2c</guid>
+      <source url="https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc">Hacker News</source>
+    </item>
+    <item>
+      <title>I Caught the Car</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/628c666cb426</link>
+      <description>Holden Nelson&apos;s various writings</description>
+      <pubDate>Sat, 09 May 2026 20:31:07 GMT</pubDate>
+      <guid isPermaLink="false">628c666cb426</guid>
+      <source url="https://undecidability.net/senior/">Hacker News</source>
+    </item>
+    <item>
       <title>115 osób zarażonych. Wymioty i biegunka - wirus na kolejnym wycieczkowcu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/dbdcaffe9c8d</link>
       <description>Ponad 100 osób zachorowało na luksusowym wycieczkowcu Caribbean Princess. Pasażerowie skarżą się na wymioty i biegunkę, a CDC potwierdziło ognisko bardzo zakaźnego norowirusa.</description>
       <pubDate>Sat, 09 May 2026 20:26:00 GMT</pubDate>
       <guid isPermaLink="false">dbdcaffe9c8d</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/115-osob-zarazonych-Wymioty-i-biegunka-wirus-na-kolejnym-wycieczkowcu,284178,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Challenge Starmer by Monday or I will, Labour MP tells cabinet</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/60462e490348</link>
+      <description>Catherine West tells the BBC if a leadership hopeful does not put themselves forward she will try to trigger a contest.</description>
+      <pubDate>Sat, 09 May 2026 20:25:38 GMT</pubDate>
+      <guid isPermaLink="false">60462e490348</guid>
+      <source url="https://www.bbc.com/news/articles/cx210w87l4do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Napad na dom polskiego piłkarza. Nowe fakty ws. sprawców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5dc4a6474ecf</link>
+      <description>Policja zidentyfikowała osoby podejrzane o piątkowe wtargnięcie do domu polskiego obrońcy Jana Bednarka w Porto. Z informacji policji wynika, że było to pięć osób – czterech mężczyzn i jedna kobieta, którzy mieli mówić po hiszpańsku. W dalszym ciągu nie zostali oni jednak zatrzymani.</description>
+      <pubDate>Sat, 09 May 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">5dc4a6474ecf</guid>
+      <source url="https://www.rmf24.pl/sport/news-napad-na-dom-polskiego-pilkarza-nowe-fakty-ws-sprawcow,nId,8081326">RMF24</source>
+    </item>
+    <item>
+      <title>Teneryfa gotowa na przyjęcie statku, na którym doszło do zakażenia hantawirusem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51fbaa31fb52</link>
+      <description>Hiszpańska wyspa Teneryfa jest już gotowa na przyjęcie w niedzielę statku wycieczkowego, na którego pokładzie wykryto zakażenia hantawirusem. Pasażerowie zostaną zbadani i - jeśli będą zdrowi - odesłani specjalnymi lotami do swoich krajów. Statek z załogą ma wrócić do Holandii.</description>
+      <pubDate>Sat, 09 May 2026 20:13:28 GMT</pubDate>
+      <guid isPermaLink="false">51fbaa31fb52</guid>
+      <source url="https://tvn24.pl/swiat/teneryfa-gotowa-na-przyjecie-wycieczkowca-na-ktorym-doszlo-do-zakazenia-hantawirusem-st9040003?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Kalisz o TK: natychmiast wezwałbym policję i poprosił o zatrzymanie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f687817544e4</link>
+      <description>To zabezpieczenie jest skierowane do władz wykonawczych państwa. A kim jest [Bogdan] Święczkowski? Władzą sądowniczą - stwierdził Ryszard Kalisz w &quot;Faktach po Faktach&quot;. Ocenił, że decyzja ETPC &quot;mówi do rządu polskiego: róbcie, co do was należy&quot;. Kalisz mówił też, co zrobiłby na miejscu niedopuszczonych do pracy sędziów Trybunału Konstytucyjnego.</description>
+      <pubDate>Sat, 09 May 2026 19:50:32 GMT</pubDate>
+      <guid isPermaLink="false">f687817544e4</guid>
+      <source url="https://tvn24.pl/polska/ryszard-kalisz-o-sytuacji-w-tk-wezwalbym-policje-st9039898?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Jako jedyny pojechał na uroczystości do Rosji. Mówi, co powinien zrobić Zełenski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e20bd235d6f</link>
+      <description>Premier Słowacji Robert Fico rozmawiał w Moskwie z prezydentem Rosji Władimirem Putinem. Poinformował, że przekazał mu wiadomość od prezydenta Ukrainy Wołodymyra Zełenskiego o gotowości do spotkania. Fico powiedział, że Putin oczekuje w tej sprawie telefonu od Zełenskiego.</description>
+      <pubDate>Sat, 09 May 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="false">6e20bd235d6f</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-jako-jedyny-pojechal-na-uroczystosci-do-putina-mowi-co-powin,nId,8081325">RMF24</source>
     </item>
     <item>
       <title>Szokujący raport USA o Europie. &quot;Słabe granice i obce kultury gwarantują terroryzm&quot;</title>
@@ -96,12 +200,36 @@
       <source url="https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/">TechCrunch</source>
     </item>
     <item>
+      <title>&quot;Dirty Frag&quot; (CVE-2026-43284): The Second Linux Root Exploit in Eight Days</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e128e376117c</link>
+      <description>Eight days after Copy Fail shook the Linux server world, another critical vulnerability has arrived — and this one also hands root access to anyone who can run code on your server. It is called “Dirty Frag”. It was publicly disclosed on May 7, 2026. A working exploit already exists. And if your server has […]</description>
+      <pubDate>Sat, 09 May 2026 18:59:49 GMT</pubDate>
+      <guid isPermaLink="false">e128e376117c</guid>
+      <source url="https://www.copahost.com/blog/dirty-frag-cve-2026-43284/">Hacker News</source>
+    </item>
+    <item>
       <title>Bun ported to Rust in 6 days</title>
       <link>https://lolsoftware.github.io/4-news/#/article/857e44e34227</link>
       <description>99.8% of bun’s pre-existing test suite passes on Linux x64 glibc in the rust rewrite</description>
       <pubDate>Sat, 09 May 2026 18:47:58 GMT</pubDate>
       <guid isPermaLink="false">857e44e34227</guid>
       <source url="https://xunroll.com/thread/2053047748191232310">Hacker News</source>
+    </item>
+    <item>
+      <title>&quot;Nie da się być troszeczkę w koalicji&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/242cfb31f35f</link>
+      <description>Posłanka Centrum Aleksandra Leo przekazała, że jej ugrupowanie miało pomysł podwyższenia drugiego progu podatkowego, ale po rozmowie z ministrem finansów wycofali się z niego. W &quot;Faktach po Faktach&quot; TVN24 skrytykowała postępowanie Polski 2050. - To zakrawa tak naprawdę o populizm - oceniła.</description>
+      <pubDate>Sat, 09 May 2026 18:39:46 GMT</pubDate>
+      <guid isPermaLink="false">242cfb31f35f</guid>
+      <source url="https://tvn24.pl/polska/miedzy-centrum-a-polska-2050-nadal-iskrzy-aleksandra-leo-i-kamila-gasiuk-pihowicz-w-faktach-po-faktach-st9039894?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Meta&apos;s Embrace of A.I. Is Making Its Employees Miserable</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/458cf02000d8</link>
+      <description>Comments</description>
+      <pubDate>Sat, 09 May 2026 18:33:36 GMT</pubDate>
+      <guid isPermaLink="false">458cf02000d8</guid>
+      <source url="https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html">Hacker News</source>
     </item>
     <item>
       <title>Potężna tarcza ochronna dla jelit. Naukowcy wskazali jedną witaminę</title>
@@ -278,134 +406,6 @@
       <pubDate>Sat, 09 May 2026 16:43:27 GMT</pubDate>
       <guid isPermaLink="false">43bd1659a572</guid>
       <source url="https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Ustawka przed meczem Jagiellonii z Pogonią. Pseudokibice szykowali się do ataku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3319a32e03cd</link>
-      <description>Na drodze ekspresowej S8 na Podlasiu zamaskowana grupa kilkudziesięciu pseudokibiców próbowała doprowadzić do siłowej konfrontacji z jadącymi na mecz do Białegostoku kibicami ze Szczecina. Napastnicy chcieli sforsować siatkę odgradzającą drogę i przedostać się w pobliże autobusu, który zatrzymał się na jezdni. Służby nie dopuściły do starcia.</description>
-      <pubDate>Sat, 09 May 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="false">3319a32e03cd</guid>
-      <source url="https://www.rmf24.pl/regiony/bialystok/news-ustawka-przed-meczem-jagiellonii-z-pogonia-pseudokibice-szyk,nId,8081102">RMF24</source>
-    </item>
-    <item>
-      <title>Czy da się żyć bez kolorów? Da się to sprawdzić na własnej skórze</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4c7d286509a7</link>
-      <description>Nic chyba tak wyraźnie nie mówi, że fotografia ma się dobrze, jak coraz szersza gama aparatów oferujących wyłącznie jeden rodzaj zdjęć. Kolejna znana marka dołącza do zabawy.</description>
-      <pubDate>Sat, 09 May 2026 16:30:56 GMT</pubDate>
-      <guid isPermaLink="false">4c7d286509a7</guid>
-      <source url="https://antyweb.pl/czy-da-sie-zyc-bez-kolorow-da-sie-to-sprawdzic-na-wlasnej-skorze">Antyweb</source>
-    </item>
-    <item>
-      <title>SNP leader John Swinney rules out Holyrood talks with Reform UK</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/937bbafd100a</link>
-      <description>The nationalists secured 58 seats in their fifth consecutive election win, but that is short of an overall majority.</description>
-      <pubDate>Sat, 09 May 2026 16:30:54 GMT</pubDate>
-      <guid isPermaLink="false">937bbafd100a</guid>
-      <source url="https://www.bbc.com/news/articles/cddpevvv97jo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>I Will Not Add Query Strings to Your URLs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/016ff330286e</link>
-      <description>By Susam Pal on 09 May 2026</description>
-      <pubDate>Sat, 09 May 2026 16:28:36 GMT</pubDate>
-      <guid isPermaLink="false">016ff330286e</guid>
-      <source url="https://susam.net/no-query-strings.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Kaczyński w Chełmie: Samorządowiec musi być panem. Dostanie więcej z podatku CIT?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d87f27afdf21</link>
-      <description>Samorządy zwłaszcza małych miejscowości potrzebują wsparcia finansowego – mówił w sobotę w Chełmie prezes PiS Jarosław Kaczyński. Wiceprezes PiS Przemysław Czarnek ocenił, że samorządowcy poszukując pieniędzy, ulegają presji np. „lobbystów wiatrakowych”.</description>
-      <pubDate>Sat, 09 May 2026 16:24:00 GMT</pubDate>
-      <guid isPermaLink="false">d87f27afdf21</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kaczynski-w-Chelmie-Samorzadowiec-musi-byc-panem-Dostanie-wiecej-z-podatku-CIT-9130492.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Frontier Airlines plane hits and kills runway trespasser at Denver airport</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c536b58543ce</link>
-      <description>The unidentified individual had jumped a perimeter fence two minutes before being struck by the airliner.</description>
-      <pubDate>Sat, 09 May 2026 16:21:48 GMT</pubDate>
-      <guid isPermaLink="false">c536b58543ce</guid>
-      <source url="https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Introduction to Beaver Triples</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d3295d7e1cb</link>
-      <description>Ship features that can&apos;t leak user data—even in a breach. Stoffel&apos;s secure multiparty computation (MPC) platform lets you compute on encrypted inputs. Math-backed privacy, not promises.</description>
-      <pubDate>Sat, 09 May 2026 16:02:38 GMT</pubDate>
-      <guid isPermaLink="false">1d3295d7e1cb</guid>
-      <source url="https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples">Hacker News</source>
-    </item>
-    <item>
-      <title>Alarmy lotnicze i artefakty wojny. Wstrząsające sceny na Biennale</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6835b32c7e5</link>
-      <description>Biennale Sztuki w Wenecji, jedno z najważniejszych wydarzeń artystycznych świata, w tym roku stało się areną nie tylko dla sztuki, ale i dla politycznego protestu. W sobotę, podczas otwarcia wystawy dla publiczności, Wenecja rozbrzmiała dźwiękami alarmów lotniczych, a na ulicach pojawiły się przedmioty ocalałe z ukraińskich ruin. Manifestacje przeciwko obecności Rosji na Biennale przyciągnęły uwagę nie tylko zwiedzających, ale i całej Europy.</description>
-      <pubDate>Sat, 09 May 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="false">a6835b32c7e5</guid>
-      <source url="https://www.rmf24.pl/kultura/news-alarmy-lotnicze-i-artefakty-wojny-wstrzasajace-sceny-na-bien,nId,8081101">RMF24</source>
-    </item>
-    <item>
-      <title>Takiego komputera kwantowego nie ma nikt. Niesamowity triumf Chin</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f1c52b72887</link>
-      <description>Chiny pokazały Hanyuan-2, 200-kubitowy komputer kwantowy na atomach neutralnych. Brakuje jednak testów, które potwierdziłyby skalę sukcesu.</description>
-      <pubDate>Sat, 09 May 2026 16:00:56 GMT</pubDate>
-      <guid isPermaLink="false">5f1c52b72887</guid>
-      <source url="https://antyweb.pl/hanyuan-2-chiny-komputer-kwantowy">Antyweb</source>
-    </item>
-    <item>
-      <title>The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2f5d3c0ebdd2</link>
-      <description>In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.</description>
-      <pubDate>Sat, 09 May 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="false">2f5d3c0ebdd2</guid>
-      <source url="https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Szukali go od poniedziałku, w końcu znaleźli ciało</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c2ec521ebad1</link>
-      <description>Turysta, który zaginął kilka dni temu w parku narodowym w amerykańskim stanie Montana, został znaleziony martwy. Straż leśna podejrzewa atak niedźwiedzia i prowadzi śledztwo.</description>
-      <pubDate>Sat, 09 May 2026 15:39:51 GMT</pubDate>
-      <guid isPermaLink="false">c2ec521ebad1</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-montana-szukali-go-od-poniedzialku-w-koncu-znalezli-cialo-st9039726?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Lex Szarlatan coraz bliżej. Jest zgoda na nowe etaty, koszty zrównoważą wpływy z kar</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4e902c035e5f</link>
-      <description>Lex Szarlatan, projekt ustawy, która ma dać Rzecznikowi Praw Pacjenta narzędzia do walki z pseudomedycyną i dezinformacją medyczną, został skierowany na Radę Ministrów. Pracom towarzyszył spór pomiędzy resortami zdrowia i finansów - ten ostatni nie zgadzał się na 6 nowych etatów w biurze rzecznika. MZ przekonywało, że nowe rozwiązania mogą przynieść ok. 2 mln zł rocznie z nakładanych kar.</description>
-      <pubDate>Sat, 09 May 2026 15:31:00 GMT</pubDate>
-      <guid isPermaLink="false">4e902c035e5f</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Lex-Szarlatan-coraz-blizej-Jest-zgoda-na-nowe-etaty-koszty-zrownowaza-wplywy-z-kar,284165,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Serwis Trumpa ma poważne problemy. Spora strata Truth Social</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5dace945d145</link>
-      <description>Truth Social ma niewielkie przychody, a TMTG pokazała 405,9 mln dol. straty. Najmocniej uderzyły aktywa cyfrowe.</description>
-      <pubDate>Sat, 09 May 2026 15:30:28 GMT</pubDate>
-      <guid isPermaLink="false">5dace945d145</guid>
-      <source url="https://antyweb.pl/truth-social-wyniki-1q-2026">Antyweb</source>
-    </item>
-    <item>
-      <title>Piękne widoki, ciepły Adriatyk i gulasz z dorsza. Z Polski można dojechać tam pociągiem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e4d3581afc5a</link>
-      <description>Miłośnicy kolejowych podróży na południe Europy mają powody do radości. W piątek 26 czerwca popularny pociąg do Chorwacji wyruszy w pierwszy kurs. Adriatic Express w sezonie wakacyjnym będzie kursował z większą częstotliwością, bo aż 6 razy w tygodniu. Nowością będzie możliwość bezpośredniego dojazdu także na słoweńskie wybrzeże Adriatyku. Bilety na pociąg do Rijeki i Kopru są już w sprzedaży.</description>
-      <pubDate>Sat, 09 May 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="false">e4d3581afc5a</guid>
-      <source url="https://www.rmf24.pl/ciekawostki/news-piekne-widoki-cieply-adriatyk-i-gulasz-z-dorsza-z-polski-moz,nId,8080682">RMF24</source>
-    </item>
-    <item>
-      <title>Złoty posąg Trumpa odsłonięty. &quot;To nie jest bałwochwalstwo&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a1d4db849525</link>
-      <description>Odsłonięto rzeźbę przedstawiającą Donalda Trumpa. Pokryty złotem pomnik stanął w klubie golfowym należącym do amerykańskiego prezydenta. Obecny na uroczystości pastor bronił pomysłu złotej rzeźby, zaprzeczając porównaniom do biblijnego złotego cielca.</description>
-      <pubDate>Sat, 09 May 2026 15:18:39 GMT</pubDate>
-      <guid isPermaLink="false">a1d4db849525</guid>
-      <source url="https://tvn24.pl/swiat/usa-floryda-zloty-posag-donalda-trumpa-odsloniety-to-nie-jest-balwochwalstwo-st9039772?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Britons on virus-hit cruise ship to isolate at hospital after being flown to UK</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef31bb3a3c2e</link>
-      <description>The MV Hondius is expected to dock in the Canary Islands this weekend.</description>
-      <pubDate>Sat, 09 May 2026 15:05:06 GMT</pubDate>
-      <guid isPermaLink="false">ef31bb3a3c2e</guid>
-      <source url="https://www.bbc.com/news/articles/c2029r42w8wo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>

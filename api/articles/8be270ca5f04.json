@@ -1,0 +1,13 @@
+{
+  "id": "8be270ca5f04",
+  "title": "I’ve banned query strings",
+  "originalTitle": "I’ve banned query strings",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://chrismorgan.info/no-query-strings",
+  "publishedAt": "2026-05-09T16:28:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <hgroup>  <p><span> 🗓️&nbsp;<time>2026-05-08</time></span><span> • </span><span><span>Tagged</span> <a href=\"https://chrismorgan.info/web\" title=\"Web\">/web</a>, <a href=\"https://chrismorgan.info/opinions\" title=\"Opinions (that I hold)\">/opinions</a>, <a href=\"https://chrismorgan.info/meta%3Donly\" title=\"Meta only (things about this site that are unlikely to be generally applicable)\">/meta=only</a> </span> </p> </hgroup> <p>I don’t like people adding tracking stuff to URLs. <br>Still less do I like people adding tracking stuff to <em>my</em> URLs. </p><p><span>https://chrismorgan.info<wbr>/no-query-strings<wbr><mark>?ref=example.com</mark></span>? Did I ask? <br>If I wanted to know I’d look at the <code>Referer</code> header; and if it isn’t there, it’s probably for a good reason. <br>You abuse your users by adding that to the link. </p><p><span>https://chrismorgan.info<wbr>/no-query-strings<wbr><mark>?utm_source=example&amp;utm_<i>&amp;c.</i></mark></span>? <br>Hey! That one’s even worse, <a href=\"https://en.wikipedia.org/wiki/UTM_parameters\">UTM parameters</a> are for <em>me</em> to use, not <em>you</em>. <br>Leave my URLs alone. </p><p>So I’ve decided to try a blanket ban for this site: <strong>no unauthorised query strings</strong>. </p><p>At present I don’t use any query strings. <br>If I ever start using any query strings, I’ll allow only known parameters. <br>(In past times I used <span>?t=…</span> and <span>?h=…</span> cache-busting URLs for stylesheet URLs; <br>and I decided I’m okay breaking such requests; there shouldn’t be any legitimate ones.) </p><p>Want to see what happens if you add a query string<a href=\"https://chrismorgan.info/no-query-strings?\">?</a> Go ahead, try it. </p><p>It’s my website: I can do what I want with it. </p><p>And you can do what you want with yours! </p><p><em>This is currently implemented <a href=\"https://chrismorgan.info/Caddyfile#?\">in my Caddyfile</a>.</em> </p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
