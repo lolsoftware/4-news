@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 10 May 2026 19:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:09:27 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Obsiadają całe ciało, atakują bez przerwy. Lekarze alarmują</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d28c2bde9265</link>
+      <description>Wraz z nadejściem cieplejszych dni do Polski wrócił dobrze znany problem meszek. Owady pojawiają się masowo w parkach, przy zbiornikach wodnych i na terenach rekreacyjnych. Ich ukąszenia mogą w niektórych przypadkach prowadzić do groźnych reakcji organizmu.</description>
+      <pubDate>Sun, 10 May 2026 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">d28c2bde9265</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Obsiadaja-cale-cialo-atakuja-bez-przerwy-Lekarze-alarmuja,284103,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Lekarze wskazali najlepsze produkty dla jelit. Jeden masz już w lodówce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/52efc9c43786</link>
+      <description>Eksperci wskazali popularne produkty, które mogą wzmacniać jelita, poprawiać nastrój i wspierać mikrobiotę lepiej, niż wiele modnych fit produktów. Jeden z nich większość Polaków ma w lodówce każdego dnia.</description>
+      <pubDate>Sun, 10 May 2026 21:58:00 GMT</pubDate>
+      <guid isPermaLink="false">52efc9c43786</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Lekarze-wskazali-najlepsze-produkty-dla-jelit-Jeden-masz-juz-w-lodowce,284191,11.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Pielęgniarki i położne jak lekarze. Rząd szykuje poważne zmiany</title>
       <link>https://lolsoftware.github.io/4-news/#/article/325f210b37e0</link>
@@ -24,12 +40,28 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Rzad-zmienia-zasady-pomocy-spolecznej-Nowe-obowiazki-i-kontrole,284097,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Plane carrying passengers from cruise ship hit by virus lands in UK</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7eb2b8262c3f</link>
+      <description>British nationals who were aboard the HV Hondius will now be sent to a Merseyside hospital to quarantine for 72 hours.</description>
+      <pubDate>Sun, 10 May 2026 21:05:29 GMT</pubDate>
+      <guid isPermaLink="false">7eb2b8262c3f</guid>
+      <source url="https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Przełom dla kierowców. Od 3 czerwca brak słuchu nie będzie już przeszkodą</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8656184ed1ce</link>
       <description>3 czerwca zaczną obowiązywać nowe przepisy dotyczące badań lekarskich dla kierowców. Wprawdzają możliwość uzyskania prawa jazdy kategorii D1 lub D w przypadku całkowitego lub częściowego ubytku słuchu. Przypomnijmy, że negatywnie o zmianach wypowiadała się już na etapie konsultacji Naczelna Rada Lekarska.</description>
       <pubDate>Sun, 10 May 2026 21:05:00 GMT</pubDate>
       <guid isPermaLink="false">8656184ed1ce</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Przelom-dla-kierowcow-Od-3-czerwca-brak-sluchu-nie-bedzie-juz-przeszkoda,284081,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Barcelona z pewnym zwycięstwem w El Clasico. Tytuł mistrza obroniony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d88c8f042e6d</link>
+      <description>Na Camp Nou padł ostatni gwizdek. Wynikiem 2:0 Barcelona wygrała z Realem Madryt. Tym samym na trzy kolejki przed końcem sezonu Duma Katalonii może być już pewna tytułu mistrza Hiszpanii.</description>
+      <pubDate>Sun, 10 May 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d88c8f042e6d</guid>
+      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-barcelona-z-pewnym-zwyciestwem-w-el-clasico-tytul-mistrza-ob,nId,8081383">RMF24</source>
     </item>
     <item>
       <title>Koniec rejestracji jaką znaliśmy do tej pory. Ostatni moment dla placówek</title>
@@ -40,12 +72,36 @@
       <source url="https://www.rynekzdrowia.pl/E-zdrowie/Koniec-rejestracji-jaka-znalismy-do-tej-pory-Ostatni-moment-dla-placowek,284137,7.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3d2b2c788665</link>
+      <description>Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.</description>
+      <pubDate>Sun, 10 May 2026 20:40:41 GMT</pubDate>
+      <guid isPermaLink="false">3d2b2c788665</guid>
+      <source url="https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/">TechCrunch</source>
+    </item>
+    <item>
       <title>Kawa zmienia jelita i wpływa na mózg. Naukowcy byli zaskoczeni</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1c48513d75a0</link>
       <description>Kawa może robić z organizmem coś więcej niż tylko pobudzać. Naukowcy odkryli, że wpływa na jelita i mózg, a to może poprawiać nastrój oraz zmniejszać stres. Co ciekawe, podobny efekt zauważono także po kawie bez kofeiny. Wyniki badań opublikowano w prestiżowym czasopiśmie „Nature Communications”.</description>
       <pubDate>Sun, 10 May 2026 20:25:00 GMT</pubDate>
       <guid isPermaLink="false">1c48513d75a0</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Kawa-zmienia-jelita-i-wplywa-na-mozg-Naukowcy-byli-zaskoczeni,284185,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Adolescence makes history at Bafta TV Awards</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/113d08eaa011</link>
+      <description>The best shows and stars of the past 12 months are honoured at the Bafta TV Awards ceremony in London.</description>
+      <pubDate>Sun, 10 May 2026 20:20:49 GMT</pubDate>
+      <guid isPermaLink="false">113d08eaa011</guid>
+      <source url="https://www.bbc.com/news/articles/c5y76dll19po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Biggest VAR call ever? Four chaotic minutes that may define the season</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/981aba2feed4</link>
+      <description>The most consequential decision in the history of VAR in the Premier League is played out over four minutes 11 seconds of drama at London Stadium.</description>
+      <pubDate>Sun, 10 May 2026 20:08:27 GMT</pubDate>
+      <guid isPermaLink="false">981aba2feed4</guid>
+      <source url="https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Premier Francji: jeden z Francuzów ewakuowanych z MV Hondius ma objawy hantawirusa</title>
@@ -56,6 +112,30 @@
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Premier-Francji-jeden-z-Francuzow-ewakuowanych-z-MV-Hondius-ma-objawy-hantawirusa,284189,15.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>His father had just been buried. Then West Bank settlers forced him to dig up the body</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4d70d36038ea</link>
+      <description>The UN human rights office condemns incident as &quot;&apos;appalling and emblematic of the dehumanisation of Palestinians&quot; in the West Bank.</description>
+      <pubDate>Sun, 10 May 2026 19:56:45 GMT</pubDate>
+      <guid isPermaLink="false">4d70d36038ea</guid>
+      <source url="https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Makabryczny wypadek w Gnieźnie. 19-letni żużlowiec walczy o życie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3fe30ced0a14</link>
+      <description>Podczas meczu Krajowej Ligi Żużlowej w Gnieźnie w Wielkopolsce - między Ultrapur Omegą i Śląskiem Świętochłowice - doszło dzisiaj do makabrycznego wypadku. Leon Szlegiel sczepił się motocyklem z maszyną Patryka Budniaka. Niespełna 19-letni Budniak dosłownie wyleciał w powietrze, uderzył z impetem w bandę, przez którą po sekundzie przeleciał, odbił się od trybun i spadł na dach busa, który stał za ogrodzeniem. Został przetransportowany helikopterem do szpitala.</description>
+      <pubDate>Sun, 10 May 2026 19:55:30 GMT</pubDate>
+      <guid isPermaLink="false">3fe30ced0a14</guid>
+      <source url="https://www.rmf24.pl/regiony/poznan/news-makabryczny-wypadek-w-gnieznie-19-letni-zuzlowiec-walczy-o-z,nId,8081382">RMF24</source>
+    </item>
+    <item>
+      <title>30 dni na pokój czy nową eskalację? Kulisy negocjacji Iranu i USA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/82a4c8f37add</link>
+      <description>Według doniesień &quot;New York Times&quot;, powołującego się na irańskie źródła, Stany Zjednoczone i Iran prowadzą intensywne rozmowy nad 30-dniowym rozejmem, który może otworzyć drzwi do szerszego porozumienia i odblokowania kluczowej dla światowego handlu cieśniny Ormuz. Jednak napięcie nie znika, a groźby i żądania padają z obu stron.</description>
+      <pubDate>Sun, 10 May 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="false">82a4c8f37add</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-30-dni-na-pokoj-czy-nowa-eskalacje-kulisy-negocjacji-iranu-i,nId,8081381">RMF24</source>
+    </item>
+    <item>
       <title>Patrzymy w gwiazdy i... wszyscy ulegamy złudzeniu. Czego fizyka nam nie mówi?</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c09492bffa7d</link>
       <description>Wszyscy sądzimy, że Wszechświat rozszerza się począwszy od Wielkiego Wybuchu z &quot;jednego punktu&quot;. Jednocześnie rośnie nam przestrzeń między galaktykami i analogia pompowanego balonu nie zawsze idealnie oddaje to, co naprawdę dzieje się w kosmosie.</description>
@@ -64,12 +144,28 @@
       <source url="https://antyweb.pl/centrum-wszechswiata-czasoprzestrzen">Antyweb</source>
     </item>
     <item>
+      <title>&apos;True gent&apos;, 91, killed in garage bungalow explosion</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8e45da95e17b</link>
+      <description>The family of Derek Poole say he loved cars and used to be a autograss racer. An investigation is under way.</description>
+      <pubDate>Sun, 10 May 2026 19:16:48 GMT</pubDate>
+      <guid isPermaLink="false">8e45da95e17b</guid>
+      <source url="https://www.bbc.com/news/articles/cn0pggrnky5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Cichy kryzys wśród milionów pacjentów. Naukowcy alarmują po dużym badaniu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5fb9f8d3c40b</link>
       <description>Gorszy stan zdrowia psychicznego wiąże się z gorzej zaspokojonymi potrzebami w zakresie ochrony zdrowia, słabszą oceną otrzymywanej opieki i mniejszym zaufaniem do systemu opieki zdrowotnej. To wynik badania przeprowadzonego w różnych krajach.</description>
       <pubDate>Sun, 10 May 2026 19:12:00 GMT</pubDate>
       <guid isPermaLink="false">5fb9f8d3c40b</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Cichy-kryzys-wsrod-milionow-pacjentow-Naukowcy-alarmuja-po-duzym-badaniu,284186,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>How hotels are stopping the &apos;dawn dash&apos; for sunbeds after man wins payout</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/613711241c5f</link>
+      <description>Some resorts enforce allocation rules from check-in to prevent people reserving loungers with towels in the &quot;sunbed wars&quot;.</description>
+      <pubDate>Sun, 10 May 2026 19:04:13 GMT</pubDate>
+      <guid isPermaLink="false">613711241c5f</guid>
+      <source url="https://www.bbc.com/news/articles/c99l17m2ep9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Wystarczy spojrzenie w oczy, by sprawdzić swoje zdrowie. Naukowcy zaskakują</title>
@@ -102,6 +198,14 @@
       <pubDate>Sun, 10 May 2026 18:42:45 GMT</pubDate>
       <guid isPermaLink="false">f36e33b6c79f</guid>
       <source url="https://tvn24.pl/tvnmeteo/swiat/alaska-nie-zobacza-zachodu-slonca-przez-prawie-trzy-miesiace-st9040951?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Żurek dla TVN24: mieliśmy informacje, które nas uspokajały</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8cc950cdc9d4</link>
+      <description>Najpierw chcę mieć pewność, że Zbigniew Ziobro zagościł na stałe w Stanach Zjednoczonych - powiedział minister sprawiedliwości Waldemar Żurek. Tak przekazał w rozmowie z Radomirem Witem, która została wyemitowana w programie &quot;W kuluarach&quot; TVN24. Żurek mówił też, że resort otrzymywał &quot;uspokajające&quot; informacje z USA, że &quot;nie chcą pomagać Ziobrze&quot;.</description>
+      <pubDate>Sun, 10 May 2026 18:33:55 GMT</pubDate>
+      <guid isPermaLink="false">8cc950cdc9d4</guid>
+      <source url="https://tvn24.pl/polska/waldemar-zurek-ktos-w-usa-ziobrze-pomogl-st9040960?source=rss">TVN24</source>
     </item>
     <item>
       <title>Krzesło pod premierem płonie. Starmer walczy, a następcy już czekają</title>
@@ -184,12 +288,28 @@
       <source url="https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html">Hacker News</source>
     </item>
     <item>
+      <title>Ask HN: What are you working on? (May 2026)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e64be3e3229f</link>
+      <description>I&apos;m working on an Arabic-language Electronic Health Records system (moving to Syria in about 2 months and planning to market to clinics there). No current plans to release as Free/Open-Source, but the stack is Elixir/Ash/Phoenix/LiveView/Bootstrap.</description>
+      <pubDate>Sun, 10 May 2026 17:34:41 GMT</pubDate>
+      <guid isPermaLink="false">e64be3e3229f</guid>
+      <source url="https://news.ycombinator.com/item?id=48085993">Hacker News</source>
+    </item>
+    <item>
       <title>Pogoda na jutro - poniedziałek, 11.05. Jednym noc da lekki mróz, innym prawie 10 stopni</title>
       <link>https://lolsoftware.github.io/4-news/#/article/938aacb8d64c</link>
       <description>Pogoda na jutro, czyli na poniedziałek, 11.05. Nocą przyniesie różną temperaturę w poszczególnych częściach kraju. Miejscami złapie lekki mróz, ale będą też rejony, gdzie termometry pokażą prawie 10 stopni. W poniedziałek przez kraj przetoczy się strefa opadów.</description>
       <pubDate>Sun, 10 May 2026 17:30:05 GMT</pubDate>
       <guid isPermaLink="false">938aacb8d64c</guid>
       <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-11-05-jednym-noc-da-lekki-mroz-innym-prawie-10-stopni-st9040893?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Local AI needs to be the norm</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b18d930fb246</link>
+      <description>Local AI models should be the default.</description>
+      <pubDate>Sun, 10 May 2026 17:19:28 GMT</pubDate>
+      <guid isPermaLink="false">b18d930fb246</guid>
+      <source url="https://unix.foo/posts/local-ai-needs-to-be-norm/">Hacker News</source>
     </item>
     <item>
       <title>Artyści bojkotują Biennale. Wycofują się z konkursu, nagród nie chcą</title>
@@ -266,6 +386,14 @@ Some of you might remember my previous work on Qubes OS1, a paranoid-security OS
       <source url="https://janrosenow.substack.com/p/spain-just-became-one-of-europes">Hacker News</source>
     </item>
     <item>
+      <title>YC&apos;s Biggest Scandals</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b292376bd6ed</link>
+      <description>What Y Combinator doesn&apos;t put on Demo Day slides. Fraud, copycats, grifts, and failures.</description>
+      <pubDate>Sun, 10 May 2026 16:30:34 GMT</pubDate>
+      <guid isPermaLink="false">b292376bd6ed</guid>
+      <source url="https://ycombinator.fyi/">Hacker News</source>
+    </item>
+    <item>
       <title>Kto przepłynie, a kto oberwie? Iran dzieli statki w Zatoce Perskiej</title>
       <link>https://lolsoftware.github.io/4-news/#/article/936951368bad</link>
       <description>Płynący pod flagą Panamy masowiec zmierzający do Brazylii przepłynął w niedzielę cieśninę Ormuz trasą, którą wskazały mu irańskie siły zbrojne - podała półoficjalna agencja Tasnim. Również katarski gazowiec płynący do Pakistanu został przepuszczony przez cieśninę - przekazał Reuters.</description>
@@ -280,134 +408,6 @@ Some of you might remember my previous work on Qubes OS1, a paranoid-security OS
       <pubDate>Sun, 10 May 2026 16:15:09 GMT</pubDate>
       <guid isPermaLink="false">035cad5fcfdf</guid>
       <source url="https://tvn24.pl/tvnmeteo/swiat/usa-teksas-piorun-trafil-nastolatka-lowiacego-ryby-st9040861?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Czego naprawdę szukają podróżni? Nowe trendy w turystyce zaskakują</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3273461be5c8</link>
-      <description>Kąpiel w lesie o północy, wydobywanie agatów w kamieniołomie, a może samotna noc w domku bez sąsiadów? Turyści coraz częściej wybierają podróże, które pozwalają nie tylko zobaczyć nowe miejsca, ale przede wszystkim – przeżyć coś wyjątkowego. Najnowsze raporty pokazują, że w 2026 roku turystyka oparta na doświadczeniach wypiera tradycyjne formy wypoczynku.</description>
-      <pubDate>Sun, 10 May 2026 16:12:00 GMT</pubDate>
-      <guid isPermaLink="false">3273461be5c8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-czego-naprawde-szukaja-podrozni-nowe-trendy-w-turystyce-zask,nId,8081372">RMF24</source>
-    </item>
-    <item>
-      <title>GitHub Is Sinking</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/633071f706f7</link>
-      <description>The one where I suggest finding the nearest lifeboat</description>
-      <pubDate>Sun, 10 May 2026 16:07:26 GMT</pubDate>
-      <guid isPermaLink="false">633071f706f7</guid>
-      <source url="https://dbushell.com/2026/04/29/github-is-sinking/">Hacker News</source>
-    </item>
-    <item>
-      <title>Rzadkie zjawisko na niebie. Niebieski Księżyc rozświetli tę jedną majową noc</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fa532a92f594</link>
-      <description>Tegoroczny maj przynosi dwie pełnie Księżyca. Pierwszą - tzw. kwiatową pełnię - można było obserwować 1 maja. Ta, która przed nami, to tzw. pełnia Niebieskiego Księżyca lub Błękitnego Księżyca, która pojawi się na niebie 31 maja. Skąd ta nazwa?</description>
-      <pubDate>Sun, 10 May 2026 16:07:09 GMT</pubDate>
-      <guid isPermaLink="false">fa532a92f594</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-rzadkie-zjawisko-na-niebie-niebieski-ksiezyc-rozswietli-te-j,nId,8081371">RMF24</source>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: Lime’s IPO gamble</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/64459c7c2221</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.</description>
-      <pubDate>Sun, 10 May 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="false">64459c7c2221</guid>
-      <source url="https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/">TechCrunch</source>
-    </item>
-    <item>
-      <title>The Locals Don&apos;t Know</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/57c5f8eb500e</link>
-      <description>My best piece of travel advice: don&apos;t do what the locals do.</description>
-      <pubDate>Sun, 10 May 2026 16:03:37 GMT</pubDate>
-      <guid isPermaLink="false">57c5f8eb500e</guid>
-      <source url="https://www.quarter--mile.com/The-Locals-Dont-Know">Hacker News</source>
-    </item>
-    <item>
-      <title>E-zdrowie, szkolenie medyków, nowa akademia medyczna. 12-15 maja posiedzenie Sejmu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/823461dfea64</link>
-      <description>Pierwsze czytanie projektu ustawy dotyczącej nowych usług e-zdrowia, kształcenie personelu medycznego, powołanie Wojskowej Akademii Medycznej w Łodzi - tym zajmą się w tym tygodniu posłowie. 12-15 maja kolejne posiedzenie Sejmu.</description>
-      <pubDate>Sun, 10 May 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="false">823461dfea64</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/E-zdrowie-szkolenie-medykow-nowa-akademia-medyczna-12-15-maja-posiedzenie-Sejmu,284164,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Stars on red carpet at Bafta TV Awards - in pictures</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cacfe4898c43</link>
-      <description>The biggest names in British TV walk the red carpet as they arrive for the prestigious Bafta Television Awards ceremony in London.</description>
-      <pubDate>Sun, 10 May 2026 15:56:02 GMT</pubDate>
-      <guid isPermaLink="false">cacfe4898c43</guid>
-      <source url="https://www.bbc.com/news/articles/c1d2exkg7z5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Nastolatek z Holandii znaleziony pod Białymstokiem znów uciekł</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7349c213eaf0</link>
-      <description>W sobotę policja poinformowała, że 15-latek z Holandii - poszukiwany w swoim kraju jako osoba zaginiona - odnalazł się pod Białymstokiem. W niedzielę uciekł, ale już wrócił. Funkcjonariusze nie informują, czemu doszło do ucieczki.</description>
-      <pubDate>Sun, 10 May 2026 15:55:30 GMT</pubDate>
-      <guid isPermaLink="false">7349c213eaf0</guid>
-      <source url="https://tvn24.pl/polska/nastolatek-z-holandii-znaleziony-pod-bialymstokiem-znow-uciekl-st9040853?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>We’re feeling cynical about xAI’s big deal with Anthropic</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e7f8b2994fe8</link>
-      <description>On the latest episode of the Equity podcast, we discussed what xAI&apos;s deal with Anthropic might mean for parent company SpaceX.</description>
-      <pubDate>Sun, 10 May 2026 15:34:25 GMT</pubDate>
-      <guid isPermaLink="false">e7f8b2994fe8</guid>
-      <source url="https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Nadchodzi deszczowy tydzień. Kiedy i gdzie popada najmocniej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/28de43620170</link>
-      <description>Pogoda. Kolejny tydzień, za sprawą niżu, przyniesie opady. W wielu rejonach Polski nie obejdzie się bez burz, podczas których popada mocniej. Sprawdź, gdzie spodziewać się deszczu w nadchodzących dniach.</description>
-      <pubDate>Sun, 10 May 2026 15:24:32 GMT</pubDate>
-      <guid isPermaLink="false">28de43620170</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-deszcz-opady-burze-nadchodzi-deszczowy-tydzien-kiedy-i-gdzie-popada-najmocniej-st9040830?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>The hottest place for startups to strike a deal? The F1 paddock</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c3f082feb75b</link>
-      <description>F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.</description>
-      <pubDate>Sun, 10 May 2026 15:13:07 GMT</pubDate>
-      <guid isPermaLink="false">c3f082feb75b</guid>
-      <source url="https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Znamy mistrza Polski w siatkówce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/293b8d7de9a7</link>
-      <description>Siatkarze Aluronu CMC Warty Zawiercie po raz pierwszy w historii zostali mistrzami Polski. W piątym meczu o złoty medal pokonali u siebie broniącą tytułu ekipę Bogdanka LUK Lublin 3:1 (15:25, 25:21, 25:14, 25:21). Brąz zdobyła drużyna Projektu Warszawa, która okazała się lepsza od Asseco Resovii Rzeszów.</description>
-      <pubDate>Sun, 10 May 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="false">293b8d7de9a7</guid>
-      <source url="https://www.rmf24.pl/sport/siatkowka/news-znamy-mistrza-polski-w-siatkowce,nId,8081369">RMF24</source>
-    </item>
-    <item>
-      <title>Wyrwała pieniądze z rąk oszusta i wypchnęła go z domu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/33e3e5c0c858</link>
-      <description>Gdańscy seniorzy przekazywali oszczędności fałszywym policjantom, przekonani, że chronią swoje pieniądze przed przestępcami. W sprawie zatrzymano trzy osoby, które decyzją sądu trafiły do aresztu.</description>
-      <pubDate>Sun, 10 May 2026 15:01:24 GMT</pubDate>
-      <guid isPermaLink="false">33e3e5c0c858</guid>
-      <source url="https://tvn24.pl/trojmiasto/gdansk-oszukiwali-seniorow-metoda-na-policjanta-trzy-osoby-zatrzymane-st9040223?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Shunting-Yard Animation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c2afb534678</link>
-      <description>This is an app which will either load succesfully, and you&apos;ll wonder whether you saw this text at all, or fail ignominiously, showing you only this text.</description>
-      <pubDate>Sun, 10 May 2026 15:00:40 GMT</pubDate>
-      <guid isPermaLink="false">6c2afb534678</guid>
-      <source url="https://somethingorotherwhatever.com/shunting-yard-animation/">Hacker News</source>
-    </item>
-    <item>
-      <title>Louis Rossmann tells 3D printer maker Bambu Lab to &apos;Go (Bleep) yourself&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a5805d7e7e57</link>
-      <description>Bambu Labs controversy heats up.</description>
-      <pubDate>Sun, 10 May 2026 14:47:05 GMT</pubDate>
-      <guid isPermaLink="false">a5805d7e7e57</guid>
-      <source url="https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer">Hacker News</source>
-    </item>
-    <item>
-      <title>Labour MP challenges ministers to move against Starmer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e28709808c44</link>
-      <description>Catherine West threatens to challenge Keir Starmer herself, as minister Bridget Phillipson backs the embattled PM.</description>
-      <pubDate>Sun, 10 May 2026 14:37:43 GMT</pubDate>
-      <guid isPermaLink="false">e28709808c44</guid>
-      <source url="https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
