@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 11 May 2026 20:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 21:44:03 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I let AI build a tool to help me figure out what was waking me up at night</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/270dc556549a</link>
+      <description>You wake up at 3am with no idea what woke you. By the time your brain catches up, the noise is gone. So I let AI help me build a tool to finally answer that question, and to act on the answer.</description>
+      <pubDate>Mon, 11 May 2026 21:04:10 GMT</pubDate>
+      <guid isPermaLink="false">270dc556549a</guid>
+      <source url="https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/">Hacker News</source>
+    </item>
+    <item>
+      <title>GitLab Announces Workforce Reduction and End of Their CREDIT Values</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/64ae35e88aae</link>
+      <description>A letter to our customers and our investors.</description>
+      <pubDate>Mon, 11 May 2026 20:51:57 GMT</pubDate>
+      <guid isPermaLink="false">64ae35e88aae</guid>
+      <source url="https://about.gitlab.com/blog/gitlab-act-2/">Hacker News</source>
+    </item>
+    <item>
+      <title>Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/218fab6a830d</link>
+      <description>Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions</description>
+      <pubDate>Mon, 11 May 2026 20:51:53 GMT</pubDate>
+      <guid isPermaLink="false">218fab6a830d</guid>
+      <source url="https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>After banning foreign routers, FCC says existing ones can get updates until 2029</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/78062f75758b</link>
+      <description>FCC extends waiver allowing routers and drones to get patches for two more years.</description>
+      <pubDate>Mon, 11 May 2026 20:48:33 GMT</pubDate>
+      <guid isPermaLink="false">78062f75758b</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Iran rozmieszcza specjalne okręty Ghadir w cieśninie Ormuz</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d13e0bbd6e64</link>
+      <description>Teheran oficjalnie potwierdził rozmieszczenie floty niewielkich okrętów podwodnych typu Ghadir w strategicznej cieśninie Ormuz. Ruch ten jest bezpośrednią odpowiedzią na rosnącą obecność sił USA w regionie i ma stanowić asymetryczną odpowiedź na potęgę amerykańskich grup lotniskowcowych. Irańskie okręty Ghadir uchodzą za wyjątkowo przydatne w płytkich wodach Zatoki Perskiej.</description>
+      <pubDate>Mon, 11 May 2026 20:43:26 GMT</pubDate>
+      <guid isPermaLink="false">d13e0bbd6e64</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-iran-rozmieszcza-specjalne-okrety-ghadir-w-ciesninie-ormuz,nId,8081522">RMF24</source>
+    </item>
+    <item>
+      <title>Data center guzzled 30 million gallons of water and nobody noticed for months</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d219d53708bc</link>
+      <description>Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.</description>
+      <pubDate>Mon, 11 May 2026 20:37:00 GMT</pubDate>
+      <guid isPermaLink="false">d219d53708bc</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Welfare bill will not be included in government&apos;s King&apos;s Speech</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7acb58d75705</link>
+      <description>It is understood that the government is not yet ready to propose a new parliamentary bill on welfare.</description>
+      <pubDate>Mon, 11 May 2026 20:25:25 GMT</pubDate>
+      <guid isPermaLink="false">7acb58d75705</guid>
+      <source url="https://www.bbc.com/news/articles/ckgplx9vzq2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
     <item>
       <title>Nowa kategoria recept – duża zmiana dla pacjentów. Rp PL tylko dla wybranych</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ceb7e168dc18</link>
@@ -14,6 +70,14 @@
       <pubDate>Mon, 11 May 2026 20:21:00 GMT</pubDate>
       <guid isPermaLink="false">ceb7e168dc18</guid>
       <source url="https://www.rynekzdrowia.pl/Farmacja/Nowa-kategoria-recept-duza-zmiana-dla-pacjentow-Rp-PL-tylko-dla-wybranych,284105,6.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>​ChatGPT pomógł sprawcy strzelaniny? Rodzina ofiary oskarża Open AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/61238e76e777</link>
+      <description>Rodzina mężczyzny, który zginął w strzelaninie na kampusie Uniwersytetu Stanowego Florydy w 2025 roku, wniosła pozew przeciwko firmie OpenAI do sądu w USA, twierdząc, że strzelec korzystał z pomocy ChatGPT w planowaniu ataku.</description>
+      <pubDate>Mon, 11 May 2026 20:03:37 GMT</pubDate>
+      <guid isPermaLink="false">61238e76e777</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-chatgpt-pomogl-sprawcy-strzelaniny-rodzina-ofiary-oskarza-op,nId,8081521">RMF24</source>
     </item>
     <item>
       <title>Trump reaguje na drogie paliwo. Proponuje zawieszenie podatku</title>
@@ -30,6 +94,14 @@
       <pubDate>Mon, 11 May 2026 19:37:44 GMT</pubDate>
       <guid isPermaLink="false">515d613ea48a</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/niemcy-ceny-paliw-olej-napedowy-najtaniej-od-dwoch-miesiecy-st9042871?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>EU agrees sanctions on Israeli settlers over West Bank violence</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b74b43ffe839</link>
+      <description>The EU&apos;s foreign policy chief said &quot;extremism and violence carry consequences&quot;, while Israel branded the move &quot;arbitrary&quot;.</description>
+      <pubDate>Mon, 11 May 2026 19:37:17 GMT</pubDate>
+      <guid isPermaLink="false">b74b43ffe839</guid>
+      <source url="https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>​Iga Świątek nie do zatrzymania. Polka straciła zaledwie trzy gemy</title>
@@ -200,6 +272,14 @@
       <source url="https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/">Ars Technica</source>
     </item>
     <item>
+      <title>Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2ebbcae0510a</link>
+      <description>30 April 2026, 16:33:37 UTC. Canonical’s incident monitoring system marks blog.ubuntu.com as Service Down.</description>
+      <pubDate>Mon, 11 May 2026 18:12:38 GMT</pubDate>
+      <guid isPermaLink="false">2ebbcae0510a</guid>
+      <source url="https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/">Hacker News</source>
+    </item>
+    <item>
       <title>BNP Paribas rozdaje setki złotych. Sprawdzamy, jak zgarnąć dodatkową kasę na wakacje</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f05f6b70989c</link>
       <description>Otrzymujesz regularne wpływy na konto, płacisz kilka razy w miesiącu kartą? Jeśli spełniasz te proste warunki i założysz konto w BNP Paribas, będziesz mógł zgarnąć łącznie 550 zł premii. Pierwsza „stówka” wpadnie już za samo założenie konta. Sprawdzamy, co dokładnie i kiedy trzeba zrobić, by cieszyć się dodatkowymi pieniędzmi na wakacje w ramach akcji „Letni szał”.</description>
@@ -272,6 +352,14 @@
       <source url="https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/">Ars Technica</source>
     </item>
     <item>
+      <title>UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2034d65d5dad</link>
+      <description>A new study by UCLA Health has discovered what researchers say is the first drug to fully reproduce the effects of physical stroke rehabilitation in model mice.</description>
+      <pubDate>Mon, 11 May 2026 17:53:08 GMT</pubDate>
+      <guid isPermaLink="false">2034d65d5dad</guid>
+      <source url="https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage">Hacker News</source>
+    </item>
+    <item>
       <title>Tomasz Lenz usunięty z KO po aferze z zabiegiem syna</title>
       <link>https://lolsoftware.github.io/4-news/#/article/77ecfda913c3</link>
       <description>Senator Tomasz Lenz został na wniosek premiera Donalda Tuska usunięty z Koalicji Obywatelskiej - przekazał w Polsat News Zbigniew Konwiński, przewodniczący klubu parlamentarnego Koalicji Obywatelskiej. To pokłosie kontrowersji wokół zabiegu dla syna polityka.</description>
@@ -318,94 +406,6 @@
       <pubDate>Mon, 11 May 2026 17:38:32 GMT</pubDate>
       <guid isPermaLink="false">1e9188f516a8</guid>
       <source url="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Pożar w Domu Pomocy Społecznej. Ewakuowali podopiecznych </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4bd2f3d0fe68</link>
-      <description>W Domu Pomocy Społecznej w Szarocinie (Dolnośląskie) wybuchł pożar. Ogień pojawił się na pierwszym piętrze budynku. Ratownicy i personel ewakuowali kilkadziesiąt osób. Jedna z objawami zatrucia trafiła do szpitala.</description>
-      <pubDate>Mon, 11 May 2026 17:35:02 GMT</pubDate>
-      <guid isPermaLink="false">4bd2f3d0fe68</guid>
-      <source url="https://tvn24.pl/wroclaw/kamienna-gora-pozar-w-domu-pomocy-spolecznej-ewakuacja-podopiecznych-st9042727?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Sezon grypowy 2026/2027. Nowe wytyczne dotyczące szczepionek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ca8b837cc735</link>
-      <description>Europejska Agencja Leków (European Medicines Agency) zaktualizowała rekomendacje dotyczące składu szczepionek przeciw grypie na sezon 2026/2027. Opublikowane 7 maja zmiany uzupełniają marcowe wytyczne EMA i obejmują dodatkowe zalecenia dla szczepionek produkowanych z wykorzystaniem jaj kurzych oraz żywych szczepionek atenuowanych.</description>
-      <pubDate>Mon, 11 May 2026 17:32:00 GMT</pubDate>
-      <guid isPermaLink="false">ca8b837cc735</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Sezon-grypowy-2026-2027-Nowe-wytyczne-dotyczace-szczepionek,284214,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Zawsze chciałeś zapytać o coś astronautę? Tę stronę musisz znać</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e339dad4a9b6</link>
-      <description>Ask an Astronaut wyszukuje prawdziwe odpowiedzi astronautów ISS w archiwach NASA. Wdrożono AI, która porządkuje wiedzę, zamiast ją zmyślać.</description>
-      <pubDate>Mon, 11 May 2026 17:30:36 GMT</pubDate>
-      <guid isPermaLink="false">e339dad4a9b6</guid>
-      <source url="https://antyweb.pl/iss-pytania-odpowiedzi-ask-an-astronaut">Antyweb</source>
-    </item>
-    <item>
-      <title>Spektakularny nowy zestaw LEGO. Największy w 2026 roku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/701237729d1e</link>
-      <description>Fani LEGO i Władcy Pierścieni mają powody do radości.</description>
-      <pubDate>Mon, 11 May 2026 17:30:30 GMT</pubDate>
-      <guid isPermaLink="false">701237729d1e</guid>
-      <source url="https://antyweb.pl/spektakularny-nowy-zestaw-lego-najwiekszy-w-2026-roku">Antyweb</source>
-    </item>
-    <item>
-      <title>Unia nakłada nowe sankcje. &quot;Ekstremizm i przemoc niosą konsekwencje&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/daec38919ba9</link>
-      <description>Państwa członkowskie wyraziły jednomyślą zgodę na nałożenie sankcji na żydowskich osadników oraz członków palestyńskiego Hamasu - przekazała szefowa unijnej dyplomacji Kaja Kallas. Jej zdaniem Wspólnota wyszła w ten sposób z politycznego impasu związanego z działaniami wobec Izraela.</description>
-      <pubDate>Mon, 11 May 2026 17:22:02 GMT</pubDate>
-      <guid isPermaLink="false">daec38919ba9</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/palestyna-izrael-unia-naklada-nowe-sankcje-ekstremizm-i-przemoc-niosa-konsekwencje-st9042658?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e12f8b5d20e</link>
-      <description>Probably the last big updates we&apos;ll see before the next versions appear at WWDC.</description>
-      <pubDate>Mon, 11 May 2026 17:20:39 GMT</pubDate>
-      <guid isPermaLink="false">9e12f8b5d20e</guid>
-      <source url="https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Liderzy amerykańskiego biznesu pojadą z Trumpem do Chin</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9702cd24c778</link>
-      <description>Szef Tesli i SpaceX Elon Musk, były CEO Apple Tim Cook czy CEO General Electric Larry Culp - to tylko kilka nazwisk z długiej listy liderów biznesu, którzy dołączą do prezydenta USA Donalda Trumpa podczas jego podróży do Chin - przekazał Reutersowi urzędnik Białego Domu. Wizyta rozpocznie się w środę 13 maja.</description>
-      <pubDate>Mon, 11 May 2026 17:18:58 GMT</pubDate>
-      <guid isPermaLink="false">9702cd24c778</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/usa-elon-musk-tim-cook-i-inni-liderzy-amerykanskiego-biznesu-pojada-z-trumpem-do-chin-st9042710?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>US passengers from ship quarantined as officials say public risk &apos;very low&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e754a4b573b3</link>
-      <description>One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.</description>
-      <pubDate>Mon, 11 May 2026 17:17:25 GMT</pubDate>
-      <guid isPermaLink="false">e754a4b573b3</guid>
-      <source url="https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e252e6b39c0e</link>
-      <description>Lipa says her picture contributed to Samsung&apos;s &quot;enormous revenue.&quot;</description>
-      <pubDate>Mon, 11 May 2026 17:15:16 GMT</pubDate>
-      <guid isPermaLink="false">e252e6b39c0e</guid>
-      <source url="https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Światowe premiery z wielkim remontem za ścianą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e686e486f51c</link>
-      <description>11 premier przygotował na sezon 2026/27 Teatr Wielki - Opera Narodowa. Jednocześnie w historycznym gmachu przy Placu Teatralnym rozpocznie się ogromny remont, który potrwa trzy lata. Ale instytucja ma działać nieprzerwanie.</description>
-      <pubDate>Mon, 11 May 2026 17:14:35 GMT</pubDate>
-      <guid isPermaLink="false">e686e486f51c</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/kultura/warszawa-teatr-wielki-opera-narodowa-program-na-sezon-2026-27-st9042660?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Bravo is creating unscripted microdramas for the Peacock app</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a2015e03d841</link>
-      <description>As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that is launching two unscripted Bravo microdramas, which will stream in the Peacock app.</description>
-      <pubDate>Mon, 11 May 2026 17:14:01 GMT</pubDate>
-      <guid isPermaLink="false">a2015e03d841</guid>
-      <source url="https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/">TechCrunch</source>
     </item>
   </channel>
 </rss>
