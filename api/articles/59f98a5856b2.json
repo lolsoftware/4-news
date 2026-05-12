@@ -1,0 +1,13 @@
+{
+  "id": "59f98a5856b2",
+  "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+  "originalTitle": "Twin brothers wipe 96 gov't databases minutes after being fired",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+  "publishedAt": "2026-05-12T19:12:07.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>“Yeah, they could,” Sohaib agreed.</p>\n<p>Muneeb noted that an employee they knew would “have some work to do” when the destruction was revealed.</p>\n<p>Sohaib fed Muneeb more suggestions.</p>\n<p>“Delete their filesystem as well?” he said.</p>\n<p>“Smart idea,” said Muneeb.</p>\n<p>Sohaib then wondered if they had been too hasty. Perhaps, he said, “You shoulda had a kill script. Like, blackmailing them for some money would have been—”</p>\n<p>“No, you do not do that, that’s proof of guilt, man,” Muneeb said.</p>\n<p>“No, but the thing was, you always have your opinion,” Sohaib complained, and the two then bickered about whether they might try to blackmail their company’s customers instead.</p>\n<p>As the data destruction went on, Sohaib said, “They’re gonna probably raid this place.”</p>\n<p>“I’ll clean this shit up,” Muneeb said.</p>\n<p>After wiping out the databases and event logs, the brothers reinstalled the operating systems on their corporate laptops with the help of an unnamed co-conspirator.</p>\n\n<h2>God guide my words</h2>\n<p>Sohaib was right; the feds did raid them. It just took three weeks.</p>\n<p>On March 12, 2025, a search warrant was executed at Sohaib’s home in Alexandria. Agents grabbed plenty of tech gear but also turned up seven firearms and 370 rounds of .30 caliber ammunition. Given his former crimes, Sohaib should have had none of this.</p>\n<p>The brothers remained free for another nine months as the investigation proceeded, but both were eventually arrested on December 3 and indicted for a host of crimes (<a href=\"https://storage.courtlistener.com/recap/gov.uscourts.vaed.585302/gov.uscourts.vaed.585302.41.0.pdf\">you can read the indictment here</a>).</p>\n<p>Muneeb <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.vaed.585303/gov.uscourts.vaed.585303.74.0.pdf\">signed a plea deal</a> on April 15, 2026, admitting to the major allegations in the indictment.</p>\n<p>Sohaib took his case to trial. He lost. On May 7, 2026, a jury found him guilty of conspiracy to commit computer fraud, password trafficking, and possession of a firearm by a prohibited person. He will be sentenced in September.</p> </div></div>",
+  "image": "images/2e6c3e4495a7.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
