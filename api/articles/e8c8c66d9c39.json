@@ -1,0 +1,13 @@
+{
+  "id": "e8c8c66d9c39",
+  "title": "U.S. bank disclose security lapse after sharing customer data with AI app",
+  "originalTitle": "U.S. bank disclose security lapse after sharing customer data with AI app",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
+  "publishedAt": "2026-05-12T16:36:44.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-05-12T09:36:44-07:00\">9:36 AM PDT · May 12, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Community Bank, which operates in Pennsylvania, Ohio, and West Virginia, disclosed a cybersecurity incident that exposed customers’ names, dates of birth, and Social Security numbers.</p>\n\n<p>In <a rel=\"nofollow\" href=\"https://www.sec.gov/ix?doc=/Archives/edgar/data/1605301/000160530126000021/cbfv-20260507.htm\">an 8-K filing</a> dated May 7 with the U.S. Securities and Exchange Commission, the bank said it detected an exposure of customers’ personal data due to the use of “an unauthorized artificial intelligence-based software application.”</p> <p>The bank said it disclosed the incident “due to the volume and sensitive nature of the non-public information at issue.”</p>\n\n<p>It’s unclear exactly what happened, but based on the language in the filing, it appears someone working for Community Bank may have uploaded customer data to an online AI chatbot, potentially exposing that information to the chatbot maker.&nbsp;</p>\n\n<p>While Community Bank did not disclose how many customers were affected by the incident, nor what AI application was involved, the company said it is “evaluating the customer data that was affected” and is sending notifications in accordance with relevant laws.&nbsp;</p>\n\n<p>Community Bank’s chief executive John Montgomery did not immediately respond to TechCrunch’s request for comment.</p>\n\n<p>The Register <a rel=\"nofollow\" href=\"https://www.theregister.com/security/2026/05/12/us-bank-reports-itself-after-ai-customer-data-mishap/5238787\">first reported</a> the security lapse.</p> </div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Security</h2>\n</p> </div></div>",
+  "image": "images/78c765a310b3.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
