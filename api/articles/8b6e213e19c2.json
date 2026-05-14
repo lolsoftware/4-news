@@ -1,0 +1,13 @@
+{
+  "id": "8b6e213e19c2",
+  "title": "Arena AI Model ELO History",
+  "originalTitle": "Arena AI Model ELO History",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://mayerwin.github.io/AI-Arena-History/",
+  "publishedAt": "2026-05-14T03:19:05.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <div> <h2>Why this exists?</h2> <p>AI labs frequently update their models post-launch. These updates sometimes introduce \"nerfs\" such as aggressive censorship, excessive quantization (to save compute costs), or behavioral degradation. This chart exposes these hidden trends.</p> <p><strong>Note on Web UIs vs. API:</strong> LMSYS Arena tests model performance via API endpoints (the \"raw\" model). Consumer chat interfaces (like gemini.com or chatgpt.com) often add system prompts, safety filters, and UI-specific wrappers not present in the raw API. Providers may also silently switch to <strong>quantized (lower-precision)</strong> versions of models to save compute during peak load, leading to perceived \"nerfing\" the API benchmarks don't fully capture. <strong>PRs are welcome</strong> for data sources representing true web-interface evaluations.</p> </div> <div> <h2>Where does the data come from?</h2> <p>The data is automatically fetched daily from the official <a href=\"https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset\" target=\"_blank\" rel=\"noopener\">LM Arena Leaderboard Dataset</a> on Hugging Face. The Arena relies on thousands of blind, crowdsourced human evaluations, making it the most robust metric of actual model capability.</p> </div> <div> <h2>How does the chart logic work?</h2> <p>Each major AI lab has exactly <strong>ONE curve</strong> representing their flagship lineage. At each point in time the curve tracks the lab's <strong>highest-rated</strong> flagship-eligible model on the leaderboard — not just the most recently announced one.</p> <ul> <li><strong>Highest-ELO flagship:</strong> If a lab ships a mid-tier model (e.g. Sonnet) while a higher-tier one (e.g. Opus) is still the top performer, the curve stays on Opus.</li> <li><strong>Inference-mode variants collapsed:</strong> Suffixes like <code>-thinking</code>, <code>-reasoning</code>, and <code>-high</code> are the same underlying model in a different mode — they're merged so the curve doesn't flip-flop between them.</li> <li><strong>New releases:</strong> Shown as marker points with labels, often accompanied by a jump in score.</li> <li><strong>Degradation:</strong> Any downward trend in a model's lifecycle between releases is clearly visible.</li> </ul> </div> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
