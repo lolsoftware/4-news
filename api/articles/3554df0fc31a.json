@@ -1,0 +1,13 @@
+{
+  "id": "3554df0fc31a",
+  "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
+  "originalTitle": "EditLens: Quantifying the extent of AI editing in text (2025)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2510.03154",
+  "publishedAt": "2026-05-13T19:22:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2510.03154\">View PDF</a> <a href=\"https://arxiv.org/html/2510.03154v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>A significant proportion of queries to large language models ask them to edit user-provided text, rather than generate new text from scratch. While previous work focuses on detecting fully AI-generated text, we demonstrate that AI-edited text is distinguishable from human-written and AI-generated text. First, we propose using lightweight similarity metrics to quantify the magnitude of AI editing present in a text given the original human-written text and validate these metrics with human annotators. Using these similarity metrics as intermediate supervision, we then train EditLens, a regression model that predicts the amount of AI editing present within a text. Our model achieves state-of-the-art performance on both binary (F1=94.7%) and ternary (F1=90.4%) classification tasks in distinguishing human, AI, and mixed writing. Not only do we show that AI-edited text can be detected, but also that the degree of change made by AI to human writing can be detected, which has implications for authorship attribution, education, and policy. Finally, as a case study, we use our model to analyze the effects of AI-edits applied by Grammarly, a popular writing assistance tool. To encourage further research, we commit to publicly releasing our models and dataset. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Katherine Thai [<a href=\"https://arxiv.org/show-email/c643962b/2510.03154\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Fri, 3 Oct 2025 16:27:48 UTC (5,596 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
