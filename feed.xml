@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 14 May 2026 20:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 21:39:41 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Elon Musk’s SpaceXAI has been bleeding staff since its merger</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/afa27375bb3c</link>
+      <description>More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.</description>
+      <pubDate>Thu, 14 May 2026 21:30:44 GMT</pubDate>
+      <guid isPermaLink="false">afa27375bb3c</guid>
+      <source url="https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/">TechCrunch</source>
+    </item>
     <item>
       <title>Ten lek ma niemal każdy w domu. GIF bije na alarm: hospitalizacji przybywa</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d4dfc71985d9</link>
@@ -14,6 +22,119 @@
       <pubDate>Thu, 14 May 2026 21:25:00 GMT</pubDate>
       <guid isPermaLink="false">d4dfc71985d9</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Ten-lek-ma-niemal-kazdy-w-domu-GIF-bije-na-alarm-hospitalizacji-przybywa,284387,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>USA zniszczyły 90 proc. przemysłu obronnego Iranu. Wątpliwości ws. potencjału Teheranu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d09c2facc043</link>
+      <description>Dowódca amerykańskich sił na Bliskim Wschodzie, admirał Brad Cooper, ogłosił, że podczas wojny z Iranem zniszczono 90 procent przemysłu obronnego tego kraju. Mimo tych zapewnień, pojawiają się doniesienia, że Iran zachował znacznie większy potencjał militarny, niż oficjalnie przyznają władze USA.</description>
+      <pubDate>Thu, 14 May 2026 21:22:07 GMT</pubDate>
+      <guid isPermaLink="false">d09c2facc043</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-usa-zniszczyly-90-proc-przemyslu-obronnego-iranu-watpliwosci,nId,8081979">RMF24</source>
+    </item>
+    <item>
+      <title>Eurowizja 2026. Wyniki drugiego półfinału</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/38256ae6135d</link>
+      <description>Znamy wszystkich finalistów 70. Konkursu Piosenki Eurowizji w Wiedniu. Po drugim koncercie półfinałowym do dalszego etapu zakwalifikowały się piosenki między innymi z Ukrainy, Bułgarii, Australii, Rumunii i Cypru.</description>
+      <pubDate>Thu, 14 May 2026 21:19:40 GMT</pubDate>
+      <guid isPermaLink="false">38256ae6135d</guid>
+      <source url="https://tvn24.pl/kultura-i-styl/eurowizja-2026-wyniki-drugiego-polfinalu-st9048945?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Fired hacker twins forget to end Teams recording, capture own crimes</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/093437b67937</link>
+      <description>One little mystery—solved.</description>
+      <pubDate>Thu, 14 May 2026 21:02:53 GMT</pubDate>
+      <guid isPermaLink="false">093437b67937</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f08fdcc0722b</link>
+      <description>Overview
+
+The spend on public cloud is fast approaching $1 trillion per year - we estimate this boundary will be crossed before
+the turn of the decade.
+
+Infrastructure-as-Code (e.g. Terraform, CloudFormation, CDK) and platform engineering have fundamentally changed who
+makes spending decisions. In the past, only a central team provisioned cloud resources. Now every engineer can provision
+resources as needed; every engineer has become a buyer.
+
+Infracost helps engineers see the cost of their code changes before any money has been spent - we sit in the engineering
+workflow, show the cost impact, and suggest optimizations. That’s what we mean by “Shift FinOps Left”, and we’ve seen
+strong pull from engineers who use Infracost in their terminals, CI/CD pipelines and IDEs. The Infracost CLI repo
+has 12K stars on GitHub! There’s a massive opportunity to help organizations proactively manage their cloud spend;
+rather than reacting to surprise cost spikes after the fact. We know reactive is too late; we saw that firsthand with
+our first startup a decade ago, and we’re building Infracost to change that.
+
+About the role
+
+We’re hiring our first Developer Advocate to help more engineers discover and fall in love with Infracost. Your mission
+is simple: increase signups by showing DevOps, SRE, Platform, and Infrastructure engineers the value of Infracost in the
+channels and workflows they already use.
+
+You’ll work closely with our Developer Adoption product engineering team, which is focused on DX: CLI, VS Code &amp;
+JetBrains extensions, MCP server, Copilot integrations…
+
+Timezone
+
+We are fully remote and the ideal timezone for this role is US Eastern time to have overlap with the West Coast and
+Europe.
+
+Responsibilities
+
+  - Drive adoption: This is a founding role; you’ll shape how we engage with developers, what channels we double down
+    on, and how we turn interest into adoption. You’ll collaborate with marketing, product and engineering, but you’ll
+    own the developer voice outside the company.
+  - Create content: Create compelling content (blog posts, videos, tutorials, demos, sample code, example repos) that
+    show developers how to use Infracost and integrate it into their workflow.
+  - Build community: Build awareness through GitHub, Slack, YouTube, Reddit, Hacker News, and relevant dev communities
+    or podcasts. Test messaging, content formats, and distribution strategies with one goal in mind: increasing
+    developer signups.
+  - Feedback loop: Collect insights from the community, report back to product and engineering, and help shape the
+    roadmap.
+
+Prior experience
+
+  - Developer-first mindset: Background in DevOps and Infrastructure as Code with a passion for educating and enabling
+    developers.
+  - Content creation: Demonstrated ability to create engaging technical content; blogs, videos and social media posts.
+  - Community building: Experience engaging with developer communities online and offline. Ability to simplify technical
+    concepts into clear, developer-friendly messages.
+  - Significant advantage: Experience building developer tools, working in a fast-growing startup, or domain expertise
+    with cloud costs. Experience connecting products to engineers working within large enterprises.
+
+What we value
+
+1.  Ustomer, not customer: It is all about seeing us and the customer as one. We like to be a part of the user’s team,
+    and help them however we can. If the user is not successful, then we will not be either so we try to walk in their
+    shoes. It&apos;s more than work - we build relationships and community with users and customers.
+2.  Open is our core: Put yourself out there. Show your learning. Transparency builds confidence. Encourage sharing the
+    good and the bad. The best decisions are made when everyone has access to all the data. Be straightforward and kind,
+    feedback is about your work not your person.
+3.  Let&apos;s JEDI: Let’s Just Effing Do It! Own it and move fast. A good plan fiercely executed now is better than a
+    perfect plan later. We ask for help and unblock each other. The main thing, is to keep the main thing, the main
+    thing.
+
+Benefits
+
+  - Fully remote team
+  - Two meetups a year - last year we went to Croatia and Barcelona.
+  - Employee-friendly equity terms, including a 10 year exercise window
+  - 401k matching (US)
+  - Health, dental, and vision insurance (US)
+  - 31 days paid leave per year (includes national holidays)
+  - 12 weeks paid parental leave</description>
+      <pubDate>Thu, 14 May 2026 21:00:37 GMT</pubDate>
+      <guid isPermaLink="false">f08fdcc0722b</guid>
+      <source url="https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate">Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI says Codex is coming to your phone</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad2ef5506e1f</link>
+      <description>The update gives users enhanced flexibility over how they can manage their workflows.</description>
+      <pubDate>Thu, 14 May 2026 20:58:55 GMT</pubDate>
+      <guid isPermaLink="false">ad2ef5506e1f</guid>
+      <source url="https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/">TechCrunch</source>
     </item>
     <item>
       <title>Komisja Zdrowia odrzuciła poprawkę Konfederacji. Chodzi o lekarzy spoza Unii Europejskiej</title>
@@ -24,12 +145,111 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Komisja-Zdrowia-odrzucila-poprawke-Konfederacji-Chodzi-o-lekarzy-spoza-Unii-Europejskiej,284385,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>&quot;Moskwa wybiera eskalację zamiast negocjacji&quot;. Rośnie liczba ofiar ataku na Kijów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f5035cd1f440</link>
+      <description>Liczba ofiar ataku w dzielnicy Darnica w Kijowie wzrosła do 16 - poinformowały ukraińskie służby. Wciąż jednak szukają ludzi pod gruzami bloku, w który uderzyli Rosjanie. Atak na stolicę Ukrainy skomentował kanclerz Niemiec Friedrich Merz, który ocenił, że Rosja, przeprowadzając kolejne uderzenia, &quot;wysyła jasny sygnał&quot;.</description>
+      <pubDate>Thu, 14 May 2026 20:53:51 GMT</pubDate>
+      <guid isPermaLink="false">f5035cd1f440</guid>
+      <source url="https://tvn24.pl/swiat/wojna-w-ukrainie-rosja-zaatakowala-w-kijowie-rosnie-liczba-ofiar-st9048983?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>NASA Draws on Industry for Mars Telecommunications Network</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/858dfd592f16</link>
+      <description>On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network.</description>
+      <pubDate>Thu, 14 May 2026 20:53:24 GMT</pubDate>
+      <guid isPermaLink="false">858dfd592f16</guid>
+      <source url="https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Plotki o romansie prezydenta Francji z irańską aktorką. Ukazała się nowa książka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cdcafd33e00a</link>
+      <description>Premiera książki „Un couple (presque) parfait” autorstwa dziennikarza Floriana Tardifa ponownie rozbudziła spekulacje na temat relacji prezydenta Francji Emmanuela Macrona z irańską aktorką Golshifteh Farahani. Publikacja ujawnia kulisy domniemanego platonicznego związku oraz rzekomych napięć w małżeństwie prezydenckiej pary.</description>
+      <pubDate>Thu, 14 May 2026 20:52:12 GMT</pubDate>
+      <guid isPermaLink="false">cdcafd33e00a</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-plotki-o-romansie-prezydenta-francji-z-iranska-aktorka-ukaza,nId,8081958">RMF24</source>
+    </item>
+    <item>
+      <title>BBC on the ground during march through Jerusalem&apos;s Old City</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4941facaa684</link>
+      <description>Tens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.</description>
+      <pubDate>Thu, 14 May 2026 20:51:47 GMT</pubDate>
+      <guid isPermaLink="false">4941facaa684</guid>
+      <source url="https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Elon Musk w Pekinie. Nagrania obiegły sieć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33122d6ff9c5</link>
+      <description>Elon Musk towarzyszy Donaldowi Trumpowi w Chinach. Szef Tesli przyciągnął uwagę mediów, pozując do zdjęć. Internet obiegły nagrania ukazujące, jak robi różne miny.</description>
+      <pubDate>Thu, 14 May 2026 20:46:13 GMT</pubDate>
+      <guid isPermaLink="false">33122d6ff9c5</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/chiny-elon-musk-w-pekinie-nagrania-obiegly-siec-st9048976?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Lovable just backed a company that’s looking to bring vibe coding to hardware</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e278a8821936</link>
+      <description>Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.</description>
+      <pubDate>Thu, 14 May 2026 20:43:03 GMT</pubDate>
+      <guid isPermaLink="false">e278a8821936</guid>
+      <source url="https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Watch: The day Labour&apos;s potential leadership race began to heat up</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dd75fe05e066</link>
+      <description>Political turmoil continued in Westminster on Thursday after Health Secretary Wes Streeting resigned Starmer&apos;s government saying he had &quot;lost confidence&quot; in his leadership.</description>
+      <pubDate>Thu, 14 May 2026 20:41:36 GMT</pubDate>
+      <guid isPermaLink="false">dd75fe05e066</guid>
+      <source url="https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b3f71f8e336e</link>
+      <description>Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras&apos; pitch.</description>
+      <pubDate>Thu, 14 May 2026 20:23:03 GMT</pubDate>
+      <guid isPermaLink="false">b3f71f8e336e</guid>
+      <source url="https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Amazonbot is finally respecting robots.txt</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7de6c4ca80f5</link>
+      <description>Protected by Anubis From Techaro. Made with ❤️ in 🇨🇦.</description>
+      <pubDate>Thu, 14 May 2026 20:22:35 GMT</pubDate>
+      <guid isPermaLink="false">7de6c4ca80f5</guid>
+      <source url="https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/">Hacker News</source>
+    </item>
+    <item>
       <title>Dewastuje wątrobę i mózg. Odstaw, a niektóre szkody da się odwrócić</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9723a342d10b</link>
       <description>Alkohol zwiększa ryzyko nowotworów, marskości wątroby, uszkodzeń mózgu i chorób serca – potwierdza nowy przegląd badań opublikowany w „Addiction”. Naukowcy podkreślają jednak, że po ograniczeniu lub odstawieniu alkoholu część szkód może się cofnąć, a niektóre funkcje organizmu zaczynają poprawiać się już po kilku dniach abstynencji.</description>
       <pubDate>Thu, 14 May 2026 20:21:00 GMT</pubDate>
       <guid isPermaLink="false">9723a342d10b</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Dewastuje-watrobe-i-mozg-Odstaw-a-niektore-szkody-da-sie-odwrocic,284370,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>RISC-V Router</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1049c85f4fef</link>
+      <description>10%
+                Of Goal
+                
+                    Goal resets every {{srvModel.resetEveryAmount}} {{srvModel.resetEvery}} {{srvModel.resetEveryAmount&gt;1?&apos;s&apos;: &apos;&apos;}}</description>
+      <pubDate>Thu, 14 May 2026 20:06:53 GMT</pubDate>
+      <guid isPermaLink="false">1049c85f4fef</guid>
+      <source url="https://router.start9.com/">Hacker News</source>
+    </item>
+    <item>
+      <title>Ministerstwo gotowe do ekstradycji Ziobry. &quot;Moglibyśmy już rozpocząć procedury&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/38128b89dbba</link>
+      <description>Prokuratura przygotowała już wniosek o ekstradycję byłego ministra sprawiedliwości Zbigniewa Ziobry, który obecnie przebywa w Stanach Zjednoczonych. Rozpoczęcie procedury zależy jednak od decyzji Sądu Okręgowego w Warszawie w sprawie zażalenia na tymczasowy areszt. Minister sprawiedliwości, prokurator generalny Waldemar Żurek przyznał, że gdyby było postanowienie sądu, to można byłoby rozpocząć procedury.</description>
+      <pubDate>Thu, 14 May 2026 20:06:45 GMT</pubDate>
+      <guid isPermaLink="false">38128b89dbba</guid>
+      <source url="https://www.rmf24.pl/polityka/news-ministerstwo-gotowe-do-ekstradycji-ziobry-moglibysmy-juz-roz,nId,8081957">RMF24</source>
+    </item>
+    <item>
+      <title>Work with Codex from Anywhere</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b58f3d99eea7</link>
+      <description>Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.</description>
+      <pubDate>Thu, 14 May 2026 20:06:14 GMT</pubDate>
+      <guid isPermaLink="false">b58f3d99eea7</guid>
+      <source url="https://openai.com/index/work-with-codex-from-anywhere/">Hacker News</source>
     </item>
     <item>
       <title>Polacy szykują się na sezon: kwitną bardzo krótko. Pomogą przy gorączce, uspokoją, złagodzą kaszel</title>
@@ -56,6 +276,14 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-przelom-ws-kradziezy-bezcennej-relikwii-policja-wydala-komun,nId,8081956">RMF24</source>
     </item>
     <item>
+      <title>Czarzasty przyniósł do studia dokument. &quot;To jest duża sprawa&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f688d60194f6</link>
+      <description>Dwa wyroki - i sądu polskiego, i sądu zagranicznego - są spełniane. Powiem szczerze, fajniej się czuję w tej sprawie - tak Włodzimierz Czarzasty odniósł się do opracowywanego przez rząd rozporządzenia w sprawie transkrypcji zagranicznych małżeństw jednopłciowych. Marszałek Sejmu przyniósł też projekt nowego aktu do studia.</description>
+      <pubDate>Thu, 14 May 2026 19:44:03 GMT</pubDate>
+      <guid isPermaLink="false">f688d60194f6</guid>
+      <source url="https://tvn24.pl/polska/wlodzimierz-czarzasty-przyniosl-do-kropki-nad-i-dokument-to-jest-duza-sprawa-st9048811?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Nowy pakt o nieagresji na Bliskim Wschodzie? Ruch Arabii Saudyjskiej</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9d82959b850b</link>
       <description>Arabia Saudyjska prowadzi zaawansowane rozmowy na temat paktu o nieagresji z Iranem i innymi państwami Bliskiego Wschodu. Inicjatywa, inspirowana procesem helsińskim z lat 70., ma na celu zażegnanie napięć i ustanowienie nowych zasad bezpieczeństwa w jednym z najbardziej zapalnych regionów świata.</description>
@@ -64,12 +292,28 @@
       <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-nowy-pakt-o-nieagresji-na-bliskim-wschodzie-ruch-arabii-saud,nId,8081955">RMF24</source>
     </item>
     <item>
+      <title>Cell phone users can&apos;t stop incriminating themselves</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8b0886e5e3d</link>
+      <description>People confide almost everything to their phones.</description>
+      <pubDate>Thu, 14 May 2026 19:27:50 GMT</pubDate>
+      <guid isPermaLink="false">b8b0886e5e3d</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/">Ars Technica</source>
+    </item>
+    <item>
       <title>Prezydent Nawrocki zaadoptował niedźwiedzia. &quot;Miś Batyr&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/fc845288a5b1</link>
       <description>&quot;Prezydent ponownie zaadoptował zwierzaka&quot; - ogłosił w mediach społecznościowych osobisty fotograf Karola Nawrockiego - Mikołaj Bujak. Okazuje się, że chodzi o niedźwiedzia, który otrzymał imię Batyr. To część pseudonimu używanego kiedyś przez obecnego prezydenta.</description>
       <pubDate>Thu, 14 May 2026 19:20:00 GMT</pubDate>
       <guid isPermaLink="false">fc845288a5b1</guid>
       <source url="https://www.rmf24.pl/fakty/polska/news-prezydent-nawrocki-zaadoptowal-niedzwiedzia-mis-batyr,nId,8081950">RMF24</source>
+    </item>
+    <item>
+      <title>Energy supplier abandons Lake Tahoe residents to serve data centers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0fd3080f5741</link>
+      <description>Town’s 49,000 California residents compete with Nevada data centers for energy.</description>
+      <pubDate>Thu, 14 May 2026 19:17:28 GMT</pubDate>
+      <guid isPermaLink="false">0fd3080f5741</guid>
+      <source url="https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/">Ars Technica</source>
     </item>
     <item>
       <title>OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned</title>
@@ -239,176 +483,6 @@
       <pubDate>Thu, 14 May 2026 18:25:10 GMT</pubDate>
       <guid isPermaLink="false">719efbeddf5e</guid>
       <source url="https://internals-for-interns.com/posts/linux-kernel-startup/">Hacker News</source>
-    </item>
-    <item>
-      <title>First public macOS kernel memory corruption exploit on Apple M5</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1cc0794b1e71</link>
-      <description>Apple spent five years building hardware and software to make memory corruption exploits dramatically harder. Our engineers, working together with Mythos Preview, built a working exploit in five days.</description>
-      <pubDate>Thu, 14 May 2026 18:25:09 GMT</pubDate>
-      <guid isPermaLink="false">1cc0794b1e71</guid>
-      <source url="https://blog.calif.io/p/first-public-kernel-memory-corruption">Hacker News</source>
-    </item>
-    <item>
-      <title>Historyczny pakt na Bliskim Wschodzi? Arabia Saudyjska chce porozumienia z Iranem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f4b648892a6</link>
-      <description>Arabia Saudyjska prowadzi rozmowy na temat zawarcia paktu o nieagresji między Iranem a państwami Bliskiego Wschodu - powiadomił w czwartek brytyjski dziennik „Financial Times”. Gazeta informowała wcześniej, że Arabia Saudyjska dokonuje ataków odwetowych na Iran podczas wojny USA i Izraela z tym państwem.</description>
-      <pubDate>Thu, 14 May 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="false">5f4b648892a6</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Historyczny-pakt-na-Bliskim-Wschodzi-Arabia-Saudyjska-chce-porozumienia-z-Iranem-9133403.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Domagają się wyjaśnień od brytyjskiego premiera. Chodzi o Tarczyńskiego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f2429ab0937</link>
-      <description>Polski eurodeputowany Dominik Tarczyński (PiS) nie został wpuszczony na terytorium Wielkiej Brytanii. Decyzja brytyjskich służb wywołała natychmiastową reakcję liderów frakcji Europejskich Konserwatystów i Reformatorów w Parlamencie Europejskim, którzy w specjalnym liście do premiera Keira Starmera domagają się szczegółowego wyjaśnienia tej sytuacji.</description>
-      <pubDate>Thu, 14 May 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="false">3f2429ab0937</guid>
-      <source url="https://www.rmf24.pl/polityka/news-domagaja-sie-wyjasnien-od-brytyjskiego-premiera-chodzi-o-tar,nId,8081947">RMF24</source>
-    </item>
-    <item>
-      <title>Wiceszef MON o nocnych telefonach do prezydenta. &quot;Artykuły były zaskakujące&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9bec8ae63e7c</link>
-      <description>Amerykanie nie planują systemowo zmniejszenia obecności amerykańskiej w Polsce - powiedział w &quot;Faktach po Faktach&quot; w TVN24 wiceszef MON Paweł Zalewski. Tłumaczył też, dlaczego wicepremier Władysław Kosiniak-Kamysz dzwonił w nocy do prezydenta i głównodowodzących siłami amerykańskimi w Europie.</description>
-      <pubDate>Thu, 14 May 2026 18:20:19 GMT</pubDate>
-      <guid isPermaLink="false">9bec8ae63e7c</guid>
-      <source url="https://tvn24.pl/polska/wiceszef-mon-o-nocnych-telefonach-do-prezydenta-artykuly-byly-zaskakujace-st9048799?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Pacjenci czekają na badania nawet do 2028 roku. Lekarze alarmują</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0cb53d49b7fd</link>
-      <description>Nowy system rozliczania badań obrazowych wpływa także na harmonogramy prywatnych placówek. Przyznają, że po zmianie zasad przyjmują mniej pacjentów w ramach NFZ – różnice sięgają nawet 60 proc. W jednej z przychodni czas oczekiwania na kolonoskopię wydłużył się z 7 do 20 miesięcy. - Placówki będą mogły umawiać tylko tyle badań, ile przewiduje limit finansowania, mimo że liczba skierowań pozostaje wysoka – słyszymy.</description>
-      <pubDate>Thu, 14 May 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="false">0cb53d49b7fd</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Pacjenci-czekaja-na-badania-nawet-do-2028-roku-Lekarze-alarmuja,284380,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>AI is making me dumb</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/731c5e14d167</link>
-      <description>It&apos;s so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.
-
-...</description>
-      <pubDate>Thu, 14 May 2026 18:19:28 GMT</pubDate>
-      <guid isPermaLink="false">731c5e14d167</guid>
-      <source url="https://jpain.io/god-damn-ai-is-making-me-dumb/">Hacker News</source>
-    </item>
-    <item>
-      <title>You Don&apos;t Align an AI, You Align with It</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e5f11fb7b426</link>
-      <description>The people writing alignment policy are not the people whose work is being replaced by AI.</description>
-      <pubDate>Thu, 14 May 2026 18:19:13 GMT</pubDate>
-      <guid isPermaLink="false">e5f11fb7b426</guid>
-      <source url="https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it">Hacker News</source>
-    </item>
-    <item>
-      <title>Ustawa o kryptoaktywach. Wszystkie poprawki odrzucone przez komisję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8a932f26270b</link>
-      <description>Kolejna odsłona politycznej batalii o kryptoaktywa. Sejmowa Komisja Finansów Publicznych odrzuciła w czwartek wszystkie poprawki zgłoszone w drugim czytaniu do rządowego projektu ustawy. Nad projektem wraz z poprawkami, które uzyskały negatywną opinię komisji, będzie w piątek głosował Sejm.</description>
-      <pubDate>Thu, 14 May 2026 18:08:28 GMT</pubDate>
-      <guid isPermaLink="false">8a932f26270b</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-ustawa-o-kryptoaktywach-wszystkie-poprawki-odrzucone-przez-k,nId,8081946">RMF24</source>
-    </item>
-    <item>
-      <title>Rekordowo suchy kwiecień. Gdzie było najcieplej?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/190f55d7d83d</link>
-      <description>Tegoroczny kwiecień był jednym z najsuchszych w Polsce od 75 lat. Chociaż w naszym kraju miesiąc ten został zaklasyfikowany jako chłodny, to był on czwartym najcieplejszym na świecie.</description>
-      <pubDate>Thu, 14 May 2026 18:08:21 GMT</pubDate>
-      <guid isPermaLink="false">190f55d7d83d</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/rekordowo-suchy-kwiecien-gdzie-bylo-najcieplej-st9048747?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Już nie &quot;zły&quot; cholesterol. Szkody robi inna, groźna cząsteczka: mało kto bada jej poziom</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ff4c1b497d29</link>
-      <description>Przez lata mówiło się głównie o „dobrym” i „złym” cholesterolu. Naukowcy coraz częściej zwracają jednak uwagę na inne cząsteczki we krwi, które mogą zwiększać ryzyko zawału i udaru mimo prawidłowych wyników badań. Jedną z nich jest lipoproteina(a), czyli Lp(a), nazywana „ukrytym cholesterolem”. Problem w tym, że większość osób nigdy jej nie bada.</description>
-      <pubDate>Thu, 14 May 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="false">ff4c1b497d29</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Juz-nie-zly-cholesterol-Szkody-robi-inna-grozna-czasteczka-malo-kto-bada-jej-poziom,284317,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Już 5 ofert do telefonu no limit do 15 zł miesięcznie. Która najlepsza?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6fe1088042d9</link>
-      <description>Niemniej, dzisiejsze zestawienie ofert jest dla osób, którym zależy głównie na nielimitowanych rozmowach i wiadomościach.</description>
-      <pubDate>Thu, 14 May 2026 18:00:57 GMT</pubDate>
-      <guid isPermaLink="false">6fe1088042d9</guid>
-      <source url="https://antyweb.pl/najtansza-oferta-do-telefonu-no-limit-2026">Antyweb</source>
-    </item>
-    <item>
-      <title>&quot;Ojczyzna&quot; Pawła Pawlikowskiego w Cannes. O czym jest film? </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/caf932a7c6a4</link>
-      <description>Po ośmiu latach od &quot;Zimnej wojny&quot; Paweł Pawlikowski wraca z nowym filmem &quot;Ojczyzna&quot;, który walczy o Złotą Palmę Konkursu Głównego Festiwalu Filmowego w Cannes. Polski reżyser przenosi nas do powojennych Niemiec. Za pomocą ważnego wydarzenia z życia Thomasa Manna, Pawlikowski na nowo stawia pytania o moralność i podstawowe ludzkie wartości.</description>
-      <pubDate>Thu, 14 May 2026 18:00:27 GMT</pubDate>
-      <guid isPermaLink="false">caf932a7c6a4</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/ojczyzna-pawla-pawlikowskiego-w-cannes-o-czym-jest-film-wybor-wrony-st9048640?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>10 minut wystarczy. Nowa funkcjonalność w Internetowym Koncie Pacjenta</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc2fc96d09a2</link>
-      <description>W Moim IKP narzędzie &quot;10 dla serca&quot; ma zostać zastąpione szerszą ankietą &quot;10 dla zdrowia&quot;, obejmującą czynniki ryzyka chorób sercowo-naczyniowych, onkologicznych i neurologicznych. Eksperci trzech towarzystw naukowych podkreślają, że profilaktyka chorób przewlekłych wymaga wspólnego podejścia.</description>
-      <pubDate>Thu, 14 May 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bc2fc96d09a2</guid>
-      <source url="https://www.rynekzdrowia.pl/E-zdrowie/10-minut-wystarczy-Nowa-funkcjonalnosc-w-Internetowym-Koncie-Pacjenta,284383,7.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Niesamowity humanizm i współczucie&quot;. Jak Piesiewicz zapisał się w historii kina?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9c5788f9d942</link>
-      <description>Zmarł Krzysztof Piesiewicz - scenarzysta, prawnik i wieloletni senator. Współtworzył scenariusze do 17 filmów Krzysztofa Kieślowskiego. Łukasz Muszyński, redaktor naczelny portalu Filmweb, w Radiu RMF24 nazwał go postacią &quot;nieprawdopodobnie ważną&quot; dla polskiego kina.</description>
-      <pubDate>Thu, 14 May 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="false">9c5788f9d942</guid>
-      <source url="https://www.rmf24.pl/kultura/news-niesamowity-humanizm-i-wspolczucie-jak-piesiewicz-zapisal-si,nId,8081944">RMF24</source>
-    </item>
-    <item>
-      <title>Pierwsza transkrypcja aktu małżeństwa jednopłciowego. Co z dostępem do informacji medycznej?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1f0ae44d2dd0</link>
-      <description>Pierwsza transkrypcja aktu małżeństwa jednopłciowego, o której poinformował w czwartek (14 maja) prezydent Warszawy Rafał Trzaskowski, otwiera takim parom drogę do uprawnień dotyczących m.in. leczenia. Chodzi m.in. o dostęp do informacji od lekarza o stanie zdrowia członka rodziny czy odwiedzin w szpitalu.</description>
-      <pubDate>Thu, 14 May 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="false">1f0ae44d2dd0</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Pierwsza-transkrypcja-aktu-malzenstwa-jednoplciowego-Co-z-dostepem-do-informacji-medycznej,284381,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Politycy zawsze są z tyłu tych zmian&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e208940025a5</link>
-      <description>Mamy ogromną satysfakcję, to jest ogromny krok dla całej społeczności - mówił w &quot;Tak jest&quot; w TVN24 Miłosz Przepiórkowski. Komentował dokonanie pierwszej transkrypcji aktu małżeństwa zawartego przez parę jednopłciową w stołecznym Urzędzie Stanu Cywilnego. Wraz z mężem Mateuszem Urbanem przyznali jednak, że w Polsce nie można mówić o równości małżeńskiej i komentowali udział polityków w zmianach w tym zakresie.</description>
-      <pubDate>Thu, 14 May 2026 17:51:07 GMT</pubDate>
-      <guid isPermaLink="false">e208940025a5</guid>
-      <source url="https://tvn24.pl/polska/mateusz-urban-i-milosz-przepiorkowski-o-transkrypcji-aktow-malzenstw-zawieranych-przez-pary-jednoplciowe-st9048755?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Miliardy płyną na polską giełdę. GPW opublikowała pierwszy Barometr Transakcyjny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/51a626c7b28a</link>
-      <description>Na rynkach GPW zrealizowano w okresie styczeń-kwiecień 2026 r. transakcje kapitałowe o wartości 4 mld zł oraz emisje obligacji korporacyjnych o wartości blisko 7 mld zł - podano w pierwszej edycji Barometru Transakcyjnego GPW.</description>
-      <pubDate>Thu, 14 May 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="false">51a626c7b28a</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Transakcje-kapitalowe-na-GPW-siegnely-4-mld-zl-w-I-IV-emisje-obligacji-korp-ok-7-mld-zl-9133382.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Polskie popołudnie w Cannes i tłum międzynarodowych gwiazd na premierach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cc994b1bf89a</link>
-      <description>Trwa trzeci dzień 79. Festiwalu Filmowego w Cannes i jest wypełniony polskimi akcentami. Swoją światową premierę ma &quot;Ojczyzna&quot; w reżyserii Pawła Pawlikowskiego. Pokaz przyciągnął tłumnie międzynarodowe gwiazdy. Dziś również premiera &quot;Historii równoległych&quot; Asghara Farhadiego, którego producentami wykonawczymi są Maciej Musiał i Krzysztof Piesiewicz.</description>
-      <pubDate>Thu, 14 May 2026 17:49:46 GMT</pubDate>
-      <guid isPermaLink="false">cc994b1bf89a</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/cannes-2026-polskie-popoludnie-na-festiwalu-filmowym-tlum-miedzynarodowych-gwiazd-na-premierach-st9048706?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zysk Dino Polska pobił oczekiwania. Sieć pokazała raport za I kwartał</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e0891279fd29</link>
-      <description>Zysk netto jednostki dominującej grupy Dino Polska wyniósł w pierwszym kwartale 2026 roku 316 mln zł wobec prawie 311,3 mln zł zysku rok wcześniej - podała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał 291,3 mln zł zysku netto.</description>
-      <pubDate>Thu, 14 May 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="false">e0891279fd29</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-I-kw-316-mln-zl-zysku-netto-j-d-wobec-konsensusu-291-3-mln-zl-zysku-9133379.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Profesor Adam Rotfeld z tytułem doktora honoris causa </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f413f356ae90</link>
-      <description>Prof. Adam Daniel Rotfeld otrzymał tytuł doktora honoris causa Uniwersytetu Warszawskiego. To najwyższe akademickie wyróżnienie przyznawane przez uczelnię. - Jest to z mojej strony zobowiązanie na przyszłość, a nie uznanie za to, co do tej pory zrobiłem - powiedział.</description>
-      <pubDate>Thu, 14 May 2026 17:46:08 GMT</pubDate>
-      <guid isPermaLink="false">f413f356ae90</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-prof-adam-rotfeld-z-tytulem-doktora-honoris-causa-st9048629?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Napad na kwiatomat. Ona trzymała drzwi, on uderzał z całych sił</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac8e31fb1f49</link>
-      <description>Policja zatrzymała 15-latka, który w Ostrowcu Świętokrzyskim zniszczył kwiatomat. Na opublikowanym nagraniu widać, jak chłopak w towarzystwie dziewczyny uderza i kopie w szybę, jednak nie udaje mu się zdobyć bukietu. Odpowie teraz przed sądem rodzinnym.</description>
-      <pubDate>Thu, 14 May 2026 17:45:13 GMT</pubDate>
-      <guid isPermaLink="false">ac8e31fb1f49</guid>
-      <source url="https://tvn24.pl/kielce/ostrowiec-swietokrzyski-napad-na-kwiatomat-zatrzymany-nastolatek-st9048800?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
