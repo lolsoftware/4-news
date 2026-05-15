@@ -1,0 +1,13 @@
+{
+  "id": "ed787888edef",
+  "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+  "originalTitle": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/oven-sh/bun/issues/30719",
+  "publishedAt": "2026-05-15T16:51:25.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"issue-body-viewer\" data-team-hovercards-enabled=\"true\" data-turbolinks=\"false\" id=\"issue-body-viewer\"><div data-snippet-clipboard-copy-content=\"error: Undefined Behavior: constructing invalid value of type &amp;[u8]: encountered a dangling reference (0x20933[noalloc] has no provenance) --> src/main.rs:97:18 |\n97 | unsafe { core::slice::from_raw_parts(ptr as *const u8, self.len()) } | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Undefined Behavior occurred here | = help: this indicates a bug in the program: it performed an invalid operation, and caused Undefined Behavior = help: see https://doc.rust-lang.org/nightly/reference/behavior-considered-undefined.html for further information = note: stack backtrace: 0: PathString::slice at src/main.rs:97:18: 97:75 1: main at src/main.rs:130:22: 130:34\"><pre><code>error: Undefined Behavior: constructing invalid value of type &amp;[u8]: encountered a dangling reference (0x20933[noalloc] has no provenance) --&gt; src/main.rs:97:18 |\n97 | unsafe { core::slice::from_raw_parts(ptr as *const u8, self.len()) } | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Undefined Behavior occurred here | = help: this indicates a bug in the program: it performed an invalid operation, and caused Undefined Behavior = help: see https://doc.rust-lang.org/nightly/reference/behavior-considered-undefined.html for further information = note: stack backtrace: 0: PathString::slice at src/main.rs:97:18: 97:75 1: main at src/main.rs:130:22: 130:34\n</code></pre></div>\n<p dir=\"auto\">code:</p>\n<div data-snippet-clipboard-copy-content=\"fn main() { let test = Box::new(*b&quot;Hello World&quot;); let init = PathString::init(&amp;*test); drop(test); println!(&quot;{:?}&quot;, init.slice());\n}\"><pre><code>fn main() { let test = Box::new(*b\"Hello World\"); let init = PathString::init(&amp;*test); drop(test); println!(\"{:?}\", init.slice());\n}\n</code></pre></div>\n<p dir=\"auto\">Please consider not vibe coding rust as AIs are not good at writing Rust and also hire a real rust dev</p></div></div>",
+  "image": "images/885dbb78fc58.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
