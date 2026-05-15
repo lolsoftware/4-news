@@ -1,0 +1,13 @@
+{
+  "id": "5602ed1121bb",
+  "title": "Explore Wikipedia Like a Windows XP Desktop",
+  "originalTitle": "Explore Wikipedia Like a Windows XP Desktop",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://explorer.samismith.com/",
+  "publishedAt": "2026-05-15T08:45:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- ── Desktop icons (top-left, double-click to open) ───────────── --> <!-- Explorer windows (both Geofile and Wikipedia) are now spawned dynamically by desktop.js — each desktop-icon click creates a fresh .explorer-pane and appends it here in .desktop. No static mount points needed. --> <!-- Reader windows are now spawned dynamically per article — see _spawnReader in js/wikipedia.js. No static mount point needed. --> <!-- ── Media Viewer (opens when a Commons file is double-clicked) ─ --> <!-- ── Readme.txt window — styled as a real Notepad .txt note ──── --> <!-- ── Upload (Add an Image / Note) modal — singleton, opened by Geofile ─ --> <!-- ── Contribution viewer — image preview for approved/pending uploads ─ --> <!-- ── Start menu (XP two-column layout) ─────────────────────── --> <div id=\"startMenu\"> <!-- Top blue header strip with \"username\" + avatar. --> <div> <p>User</p> </div> <!-- Two columns. --> <div> </div> </div> <!-- ── Taskbar ─────────────────────────────────────────────────── --> <div> <p><span id=\"taskbarClock\">—</span> </p> </div> </div></div>",
+  "image": "images/edb624959543.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
