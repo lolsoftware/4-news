@@ -1,0 +1,13 @@
+{
+  "id": "8f187cbe5092",
+  "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+  "originalTitle": "Δ-Mem: Efficient Online Memory for Large Language Models",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2605.12357",
+  "publishedAt": "2026-05-16T09:30:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2605.12357\">View PDF</a></p><blockquote> <span>Abstract:</span>Large language models increasingly need to accumulate and reuse historical information in long-term assistants and agent systems. Simply expanding the context window is costly and often fails to ensure effective context utilization. We propose $\\delta$-mem, a lightweight memory mechanism that augments a frozen full-attention backbone with a compact online state of associative memory. $\\delta$-mem compresses past information into a fixed-size state matrix updated by delta-rule learning, and uses its readout to generate low-rank corrections to the backbone's attention computation during generation. With only an $8\\times8$ online memory state, $\\delta$-mem improves the average score to $1.10\\times$ that of the frozen backbone and $1.15\\times$ that of the strongest non-$\\delta$-mem memory baseline. It achieves larger gains on memory-heavy benchmarks, reaching $1.31\\times$ on MemoryAgentBench and $1.20\\times$ on LoCoMo, while largely preserving general capabilities. These results show that effective memory can be realized through a compact online state directly coupled with attention computation, without full fine-tuning, backbone replacement, or explicit context extension. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Jingdi Lei [<a href=\"https://arxiv.org/show-email/3b79a046/2605.12357\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Tue, 12 May 2026 16:31:44 UTC (609 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
