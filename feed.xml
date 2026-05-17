@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 17 May 2026 19:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 21:11:26 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Jedli 5 razy w tygodniu. Ryzyko alzheimera spadło o 27 proc.</title>
@@ -24,6 +24,30 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Wrog-numer-jeden-Naukowcy-ponad-10-lat-badali-wplyw-na-jelita,284330,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Włoska Perugia za mocna. Aluron CMC Warta Zawiercie przegrywa w finale LM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/643e2711e058</link>
+      <description>Siatkarze Aluronu CMC Warty Zawiercie przegrali w Turynie z drużyną Sir Sicoma Monini Perugia 0:3 (27:29, 18:25, 15:25) w finale Ligi Mistrzów.</description>
+      <pubDate>Sun, 17 May 2026 20:25:10 GMT</pubDate>
+      <guid isPermaLink="false">643e2711e058</guid>
+      <source url="https://www.rmf24.pl/sport/news-wloska-perugia-za-mocna-aluron-cmc-warta-zawiercie-przegrywa,nId,8082430">RMF24</source>
+    </item>
+    <item>
+      <title>Gaza: Zabici w izraelskim ataku na punkt żywienia w pobliżu szpitala</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/75a28f9f5311</link>
+      <description>Co najmniej pięć osób zginęło w wyniku izraelskich nalotów przeprowadzonych w niedzielę na terenie Strefy Gazy - poinformowało tamtejsze ministerstwo zdrowia, cytowane przez agencję Reutera. Wśród celów znalazł się m.in. punkt wydawania posiłków w pobliżu szpitala w środkowej części półenklawy.</description>
+      <pubDate>Sun, 17 May 2026 20:21:27 GMT</pubDate>
+      <guid isPermaLink="false">75a28f9f5311</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-gaza-zabici-w-izraelskim-ataku-na-punkt-zywienia-w-poblizu-s,nId,8082429">RMF24</source>
+    </item>
+    <item>
+      <title>Apple’s Siri revamp could include auto-deleting chats</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fb58d72832af</link>
+      <description>Privacy will be a major theme when Apple unveils a new version of Siri.</description>
+      <pubDate>Sun, 17 May 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">fb58d72832af</guid>
+      <source url="https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/">TechCrunch</source>
+    </item>
+    <item>
       <title>Ten zapomniany napój piła polska szlachta. Jak balsam dla jelit</title>
       <link>https://lolsoftware.github.io/4-news/#/article/faf602f5a1bd</link>
       <description>Choć przez lata został wyparty przez popularne napoje gazowane, kwas chlebowy coraz częściej budzi zainteresowanie osób, które preferują zdrowy styl życia i tradycyjną kuchnią. Ten fermentowany napój o długiej historii może zaskakiwać nie tylko smakiem, ale i właściwościami.</description>
@@ -32,12 +56,44 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Ten-zapomniany-napoj-pila-polska-szlachta-Jak-balsam-dla-jelit,284232,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>​Zarzut: szpiegostwo. Norwegia aresztuje Chińczyka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/05b7a5961d5a</link>
+      <description>Sąd w Bodoe zdecydował w niedzielę o tymczasowym aresztowaniu obywatela Chin podejrzanego o działalność szpiegowską przeciwko Norwegii - poinformowała telewizja NRK. To już drugi taki przypadek w tym kraju w ostatnim czasie. Północ Norwegii, gdzie zatrzymano Chińczyka, ma szczególne znaczenie militarne.</description>
+      <pubDate>Sun, 17 May 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="false">05b7a5961d5a</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zarzut-szpiegostwo-norwegia-aresztuje-chinczyka,nId,8082428">RMF24</source>
+    </item>
+    <item>
+      <title>Why trust is a big question at the Elon Musk-OpenAI trial</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1e24248a8b10</link>
+      <description>A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.</description>
+      <pubDate>Sun, 17 May 2026 19:46:34 GMT</pubDate>
+      <guid isPermaLink="false">1e24248a8b10</guid>
+      <source url="https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/">TechCrunch</source>
+    </item>
+    <item>
       <title>Trump: Z Iranu „nic nie zostanie”, jeśli szybko nie zawrze pokoju</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7de8dc148487</link>
       <description>Prezydent USA Donald Trump w niedzielę wezwał Iran, by szybko zawarł układ pokojowy, bo w przeciwnym razie „nic z niego nie zostanie”. Według portalu Axios prezydent ma we wtorek odbyć spotkanie na temat możliwego wznowienia ataków.</description>
       <pubDate>Sun, 17 May 2026 19:45:00 GMT</pubDate>
       <guid isPermaLink="false">7de8dc148487</guid>
       <source url="https://www.bankier.pl/wiadomosc/Trump-Z-Iranu-nic-nie-zostanie-jesli-szybko-nie-zawrze-pokoju-9134642.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>VoIP Brings Back Old-Fashioned Pay Phones to Rural Vermont</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/34b2eaa291e8</link>
+      <description>Old pay phones are back in Vermont, offering free calls via VoIP. Discover how one engineer is reviving these nostalgic devices for modern use.</description>
+      <pubDate>Sun, 17 May 2026 19:39:10 GMT</pubDate>
+      <guid isPermaLink="false">34b2eaa291e8</guid>
+      <source url="https://spectrum.ieee.org/payphone-voip">Hacker News</source>
+    </item>
+    <item>
+      <title>&quot;Czas ucieka&quot;. Trump zwiększa presję na Iran</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51e05b6cf85e</link>
+      <description>Prezydent USA Donald Trump ostrzegł Iran, że „czas ucieka”, w związku z brakiem postępów w negocjacjach mających zakończyć wojnę. Amerykański przywódca zagroził, że jeśli Teheran nie przyspieszy działań, „nie zostanie z nich nic”.</description>
+      <pubDate>Sun, 17 May 2026 19:34:53 GMT</pubDate>
+      <guid isPermaLink="false">51e05b6cf85e</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-czas-ucieka-trump-zwieksza-presje-na-iran,nId,8082427">RMF24</source>
     </item>
     <item>
       <title>W USA postanowili zakazać. Od dawna ostrzegano przed wpływem na mózg</title>
@@ -152,6 +208,14 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-okrutna-egzekucja-calej-rodziny-wsrod-zastrzelonych-niemowle,nId,8082339">RMF24</source>
     </item>
     <item>
+      <title>Recenzja Starbites. jRPG z mechami rodem z epoki PS2</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/96b6fd53224d</link>
+      <description>Jeżeli tęsknicie do jRPG z ery PS2/PS3 najnowsza gra koreańskiego studia IKINA Games może mocno rozbudzić Wasz sentyment... Pod warunkiem, że macie w sobie sporo tolerancji na archaizmy.</description>
+      <pubDate>Sun, 17 May 2026 17:12:49 GMT</pubDate>
+      <guid isPermaLink="false">96b6fd53224d</guid>
+      <source url="https://antyweb.pl/recenzja-starbites-jrpg-z-mechami-rodem-z-epoki-ps2">Antyweb</source>
+    </item>
+    <item>
       <title>Meta deletes popular 1M follower account after Kuwaiti request</title>
       <link>https://lolsoftware.github.io/4-news/#/article/02ba21ce1b82</link>
       <description>Something went wrong, but don’t fret — let’s give it another shot.</description>
@@ -256,6 +320,14 @@
       <source url="https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/">TechCrunch</source>
     </item>
     <item>
+      <title>Don’t Outsource the Learning</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e99364b6a1c4</link>
+      <description>Right now, it&apos;s too easy to let AI write the code while you skip the learning. The bug gets fixed. Your mental model doesn&apos;t move. We are silently trading fu...</description>
+      <pubDate>Sun, 17 May 2026 16:04:08 GMT</pubDate>
+      <guid isPermaLink="false">e99364b6a1c4</guid>
+      <source url="https://addyosmani.com/blog/dont-outsource-learning/">Hacker News</source>
+    </item>
+    <item>
       <title>Ranił 73-letniego mężczyznę. Policjanci zastrzelili pod Lipskiem tygrysa</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8fb1e16a0346</link>
       <description>Tygrys uciekł z prywatnego wybiegu i ranił 73-letniego mężczyznę. Do zdarzenia doszło niedaleko Lipska na wschodzie Niemiec. Policja zastrzeliła w niedzielę zwierzę - poinformowała niemiecka agencja prasowa dpa.</description>
@@ -270,6 +342,14 @@
       <pubDate>Sun, 17 May 2026 15:45:00 GMT</pubDate>
       <guid isPermaLink="false">5f830c2c1eff</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-najbardziej-przeludnione-miejsca-europy-ktore-zamierzasz-odw,nId,8082022">RMF24</source>
+    </item>
+    <item>
+      <title>Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55c13bb333f5</link>
+      <description>Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble</description>
+      <pubDate>Sun, 17 May 2026 15:37:07 GMT</pubDate>
+      <guid isPermaLink="false">55c13bb333f5</guid>
+      <source url="https://github.com/MinishLab/semble">Hacker News</source>
     </item>
     <item>
       <title>Wjechał na chodnik i &quot;zaczął taranować ludzi&quot;. Jest nagranie z Modeny</title>
@@ -326,86 +406,6 @@
       <pubDate>Sun, 17 May 2026 15:00:04 GMT</pubDate>
       <guid isPermaLink="false">cf83804f546d</guid>
       <source url="https://antyweb.pl/z-ksiazek-do-kina-te-adaptacje-science-fiction-ostatnich-5-lat-pokochasz">Antyweb</source>
-    </item>
-    <item>
-      <title>Nowe terapie w reumatologii. PTR ocenia korzystnie i proponuje poszerzenie dostępności</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/08122559d7b6</link>
-      <description>Polskie Towarzystwo Reumatologiczne opublikowało obszerne stanowisko, w którym szczegółowo omówiło zakres innowacyjnych terapii dostępnych dla pacjentów. PTR podkreśla korzystne zmiany w programach lekowych. Stanowisko zawiera też m.in. propozycje dotyczące poszerzenia dostępu do leków lub ich wskazań oraz zmian kryteriów refundacyjnych.</description>
-      <pubDate>Sun, 17 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">08122559d7b6</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Reumatologia/Nowe-terapie-w-reumatologii-PTR-ocenia-korzystnie-i-proponuje-poszerzenie-dostepnosci,284438,1011.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ab112a1783c</link>
-      <description>Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world&apos;s action.</description>
-      <pubDate>Sun, 17 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">1ab112a1783c</guid>
-      <source url="https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Był odwrót od wycieczek, teraz sprzedaż ruszyła. &quot;Branża jest dobrze przygotowana na ewentualne szoki&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ab197f16fd7</link>
-      <description>Prezes Polskiej Izby Turystyki Paweł Niewiadomski powiedział, że mimo turbulencji wywołanych wojną na Bliskim Wschodzie branża spodziewa się kolejnego roku ze wzrostem sprzedaży. Jak dodał, na początku, po wybuchu wojny, klienci wstrzymywali się z zakupem wycieczek, teraz sprzedaż ruszyła.</description>
-      <pubDate>Sun, 17 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">1ab197f16fd7</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Byl-odwrot-od-wycieczek-teraz-sprzedaz-ruszyla-Branza-jest-dobrze-przygotowana-na-ewentualne-szoki-9134559.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>XS: A programming language. Anywhere, anytime, by anyone</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/54dc55e2686e</link>
-      <description>A programming language. Anywhere, anytime, by anyone.</description>
-      <pubDate>Sun, 17 May 2026 14:48:23 GMT</pubDate>
-      <guid isPermaLink="false">54dc55e2686e</guid>
-      <source url="https://xslang.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Papież zrobił &quot;six-seven&quot;. Namówili go młodzi pielgrzymi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/268e476128a5</link>
-      <description>Papież Leon XIV za namową młodych pielgrzymów wykonał viralowy gest &quot;six-seven&quot;. Nagranie obiegło sieć.</description>
-      <pubDate>Sun, 17 May 2026 14:47:20 GMT</pubDate>
-      <guid isPermaLink="false">268e476128a5</guid>
-      <source url="https://tvn24.pl/swiat/papiez-leon-xiv-zrobil-gest-six-seven-st9052548?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zapaliła się przyczepa z kojcami dla psów w Jaśkowicach. Zginęło 11 zwierząt</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bd10e52f074e</link>
-      <description>Jedenaście psów zginęło w pożarze przyczepy przerobionej na kojce dla zwierząt. Do tragedii doszło w sobotę nad ranem w miejscowości Jaśkowice w województwie opolskim.</description>
-      <pubDate>Sun, 17 May 2026 14:45:05 GMT</pubDate>
-      <guid isPermaLink="false">bd10e52f074e</guid>
-      <source url="https://tvn24.pl/opole/jaskowice-jedenascie-psow-zginelo-w-pozarze-przyczepy-st9052560?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Niże niosą więcej deszczu. Tu najsilniej popada</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15998a6cf33d</link>
-      <description>Pogoda w Polsce. W nadchodzących dniach na aurę w naszym kraju wpływać będą niże. Przyniosą opady deszczu, miejscami dość obfite. Sprawdź, gdzie spadnie go najwięcej.</description>
-      <pubDate>Sun, 17 May 2026 14:38:59 GMT</pubDate>
-      <guid isPermaLink="false">15998a6cf33d</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/ulewy-i-burze-w-polsce-pogoda-w-polsce-nize-przyniosa-kolejne-opady-gdzie-spadnie-najwiecej-deszczu-st9052545?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ukraina egzekwuje &quot;sankcje dalekiego zasięgu&quot; w bezprecedensowym ataku na Rosję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/545f44cdadaa</link>
-      <description>Roje dronów nad Rosją. Potężne zniszczenia na Krymie i w obwodzie moskiewskim. Ukraina egzekwuje swoje &quot;sankcje dalekiego zasięgu&quot;, Rosjanie próbują w głównych mediach tuszować skutki nocnego ataku, ale agencja Interfax podaje wstrząsające dane o liczbie zestrzelonych przez obronę przeciwlotniczą bezzałogowców. Wołodymyr Zełenski wydaje komunikat po niszczycielskim ataku i wzywa Moskwę: zakończcie tę wojnę.</description>
-      <pubDate>Sun, 17 May 2026 14:35:39 GMT</pubDate>
-      <guid isPermaLink="false">545f44cdadaa</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-ukraina-egzekwuje-sankcje-dalekiego-zasiegu-w-bezprecedensow,nId,8082325">RMF24</source>
-    </item>
-    <item>
-      <title>Swatch stores close for second day after crowds</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d526eb4e31bf</link>
-      <description>The launch of a new £335 pocket watch has drawn criticism after queues of shoppers built up again.</description>
-      <pubDate>Sun, 17 May 2026 14:35:24 GMT</pubDate>
-      <guid isPermaLink="false">d526eb4e31bf</guid>
-      <source url="https://www.bbc.com/news/articles/c302vjqz563o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>​Niemiecka policja zastrzeliła tygrysa. Zwierzę uciekło z wybiegu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a84280d67491</link>
-      <description>Policja zastrzeliła w niedzielę po południu tygrysa, który zbiegł z prywatnego wybiegu niedaleko Lipska na wschodzie Niemiec. Zwierzę raniło jedną osobę. Jego właścicielką była Carmen Zander, znana jako &quot;Królowa Tygrysów&quot;, której działalność w Niemczech budzi kontrowersje.</description>
-      <pubDate>Sun, 17 May 2026 14:29:46 GMT</pubDate>
-      <guid isPermaLink="false">a84280d67491</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-niemiecka-policja-zastrzelila-tygrysa-zwierze-ucieklo-z-wybi,nId,8082334">RMF24</source>
     </item>
   </channel>
 </rss>
