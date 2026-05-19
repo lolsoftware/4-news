@@ -1,0 +1,13 @@
+{
+  "id": "7bb836c4ed21",
+  "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+  "originalTitle": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+  "publishedAt": "2026-05-19T17:45:00.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-05-19T10:45:00-07:00\">10:45 AM PDT · May 19, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">In addition to serving up its own flavor of vibe-coding tools for building on Android, Google announced it will also offer tools that allow AI agents, like Claude Code, OpenAI’s Codex, or its own Antigravity or Gemini in Android Studio, to accelerate Android app development.</p>\n\n<p>Google shared on Tueday at its Google I/O annual developer conference that its Android CLI (command-line interface) is now stable at version 1.0, and can be used by those who are leveraging AI agents to build for them — no matter what their preferred coding platform may be.</p> <p>The move acknowledges that many people are now building for Android with AI agents that aren’t from Google. The company is trying to find a way to make its specialized knowledge, like what’s found within Android Studio, more accessible.</p>\n\n<p>With Android CLI, AI agents can retrieve <a rel=\"nofollow\" href=\"http://d.android.com/tools/agents\">knowledge</a> about Android development via a new “android studio” command that can tap into the capabilities of <a rel=\"nofollow\" href=\"https://developer.android.com/studio/preview\">Android Studio</a> when building their own project. From there, the agents will be able to tap into a range of other commands and tools.</p>\n\n<p>Google Antigravity, the company’s agentic development platform, will include an optional bundle that will install the tools and knowledge included in Android CLI, so it can also perform the core tasks for Android app development, Google says.</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Apps</h2>\n</p> </div></div>",
+  "image": "images/314dbdf9d7e8.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
