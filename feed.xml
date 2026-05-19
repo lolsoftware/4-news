@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 19 May 2026 20:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 21:49:06 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump chce &quot;dać szansę&quot; Iranowi na porozumienie. Powiedział to wprost</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e5099e737b0d</link>
+      <description>​Prezydent USA Donald Trump powiedział we wtorek, że wstrzymał się ze wznowieniem ataków na Iran na 2-3 dni lub do początku przyszłego tygodnia, by &quot;dać Iranowi szansę na zawarcie porozumienia&quot;. Dodał, że negocjuje &quot;jako zespół&quot; z bliskowschodnimi sojusznikami USA.</description>
+      <pubDate>Tue, 19 May 2026 21:36:44 GMT</pubDate>
+      <guid isPermaLink="false">e5099e737b0d</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-trump-chce-dac-szanse-iranowi-na-porozumienie-powiedzial-to-,nId,8082753">RMF24</source>
+    </item>
+    <item>
+      <title>Google just declared itself a contender in AI design at IO 2026</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4bb578a7b98c</link>
+      <description>Google says it&apos;s designed the app to be accessible to everyone, from teachers to small business owners.</description>
+      <pubDate>Tue, 19 May 2026 21:33:30 GMT</pubDate>
+      <guid isPermaLink="false">4bb578a7b98c</guid>
+      <source url="https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/">TechCrunch</source>
+    </item>
+    <item>
+      <title>You can now talk to your Gmail inbox, as seen at Google IO 2026</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/225a97a85bd3</link>
+      <description>Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.</description>
+      <pubDate>Tue, 19 May 2026 21:25:31 GMT</pubDate>
+      <guid isPermaLink="false">225a97a85bd3</guid>
+      <source url="https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/">TechCrunch</source>
+    </item>
+    <item>
+      <title>How to use Google’s new AI agents to go beyond your standard searches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0789c3cb074d</link>
+      <description>Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.</description>
+      <pubDate>Tue, 19 May 2026 21:16:25 GMT</pubDate>
+      <guid isPermaLink="false">0789c3cb074d</guid>
+      <source url="https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Discord enables end-to-end encrypted voice and video calling for every user</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/127a049dce5d</link>
+      <description>Good news! Discord&apos;s hundreds of millions of users now have their communications scrambled, so not even Discord can see them.</description>
+      <pubDate>Tue, 19 May 2026 21:14:08 GMT</pubDate>
+      <guid isPermaLink="false">127a049dce5d</guid>
+      <source url="https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Mach Industries just spent $50M to solve a major defense tech problem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4a82d9eb73f8</link>
+      <description>Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.</description>
+      <pubDate>Tue, 19 May 2026 21:09:56 GMT</pubDate>
+      <guid isPermaLink="false">4a82d9eb73f8</guid>
+      <source url="https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/">TechCrunch</source>
+    </item>
+    <item>
+      <title>From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9c1eb9a106ce</link>
+      <description>Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.</description>
+      <pubDate>Tue, 19 May 2026 21:08:51 GMT</pubDate>
+      <guid isPermaLink="false">9c1eb9a106ce</guid>
+      <source url="https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/">TechCrunch</source>
+    </item>
     <item>
       <title>Najzdrowszy owoc świata wybrany. Polacy przecierają oczy ze zdziwienia</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8578074e05d0</link>
@@ -16,12 +72,108 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Najzdrowszy-owoc-swiata-wybrany-Polacy-przecieraja-oczy-ze-zdziwienia,284527,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Spider-Noir final trailer gives us a classic villain</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/04c90b4e03be</link>
+      <description>It&apos;s never too late to become a hero.</description>
+      <pubDate>Tue, 19 May 2026 20:58:51 GMT</pubDate>
+      <guid isPermaLink="false">04c90b4e03be</guid>
+      <source url="https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Czekali na to ponad dwie dekady. Arsenal Londyn nowym mistrzem Anglii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/32309bf82496</link>
+      <description>​Piłkarze Manchesteru City niespodziewanie zremisowali na wyjeździe z Bournemouth 1:1 w przedostatniej, 37. kolejce Premier League. Ten wynik oznacza, że Arsenal Londyn po 22 latach został mistrzem Anglii. &quot;Kanonierzy&quot; będą świętować tytuł w niedzielę po meczu z Crystal Palace.</description>
+      <pubDate>Tue, 19 May 2026 20:55:36 GMT</pubDate>
+      <guid isPermaLink="false">32309bf82496</guid>
+      <source url="https://www.rmf24.pl/sport/news-czekali-na-to-ponad-dwie-dekady-arsenal-londyn-nowym-mistrze,nId,8082741">RMF24</source>
+    </item>
+    <item>
+      <title>NASA’s Psyche Mission Images Mars’ Huygens Crater</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/93926061d21e</link>
+      <description>Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper left;</description>
+      <pubDate>Tue, 19 May 2026 20:47:13 GMT</pubDate>
+      <guid isPermaLink="false">93926061d21e</guid>
+      <source url="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>&quot;I&apos;ll buy 10 of those&quot;—NASA science chief yearns for mass-produced satellites</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aa51bf009fa4</link>
+      <description>How in the hell do I get more science into space? That is my goal.&quot;</description>
+      <pubDate>Tue, 19 May 2026 20:43:31 GMT</pubDate>
+      <guid isPermaLink="false">aa51bf009fa4</guid>
+      <source url="https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/">Ars Technica</source>
+    </item>
+    <item>
+      <title>NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e3e3a62a0e0</link>
+      <description>This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters</description>
+      <pubDate>Tue, 19 May 2026 20:43:20 GMT</pubDate>
+      <guid isPermaLink="false">7e3e3a62a0e0</guid>
+      <source url="https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Psyche’s High-Resolution View of Mars’ South Pole</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fc500e716c62</link>
+      <description>This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the</description>
+      <pubDate>Tue, 19 May 2026 20:38:49 GMT</pubDate>
+      <guid isPermaLink="false">fc500e716c62</guid>
+      <source url="https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>NASA’s Psyche Mission Sees Mars’ South Pole After Flyby</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f029dc2f106f</link>
+      <description>This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from</description>
+      <pubDate>Tue, 19 May 2026 20:34:02 GMT</pubDate>
+      <guid isPermaLink="false">f029dc2f106f</guid>
+      <source url="https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Rozmowa z Peterem Magyarem w TVN24</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c4424c5c5d70</link>
+      <description>Dziennikarz &quot;Faktów&quot; TVN Piotr Marciniak przeprowadził wywiad z premierem Węgier Peterem Magyarem. Jest dostępna w TVN24+.</description>
+      <pubDate>Tue, 19 May 2026 20:31:23 GMT</pubDate>
+      <guid isPermaLink="false">c4424c5c5d70</guid>
+      <source url="https://tvn24.pl/polska/peter-magyar-w-polsce-wywiad-z-premierem-wegier-st9056447?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Odmłodzili jelita i wzmocnili wątrobę. Efekty zaskoczyły nawet badaczy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5855a7336927</link>
       <description>Naukowcy twierdzą, że jelita mogą skrywać jeden z największych sekretów długowieczności. W nowym badaniu udało się odmłodzić mikrobiom, a efekty zaskoczyły nawet badaczy — chodzi m.in. o stan wątroby i ryzyko raka.</description>
       <pubDate>Tue, 19 May 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">5855a7336927</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Odmlodzili-jelita-i-wzmocnili-watrobe-Efekty-zaskoczyly-nawet-badaczy,284526,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>NASA’s Psyche Mission Images the Crescent of Mars</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/771d1782146b</link>
+      <description>This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist.</description>
+      <pubDate>Tue, 19 May 2026 20:28:51 GMT</pubDate>
+      <guid isPermaLink="false">771d1782146b</guid>
+      <source url="https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Peter Magyar w Polsce. Najpierw Kraków, później Warszawa i zaskoczenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8013c7fe3620</link>
+      <description>Za nami pierwszy dzień wizyty nowego premiera Węgier w Polsce. Peter Magyar wylądował po południu na lotnisku w Balicach, potem pojechał na Wawel, gdzie spotkał się z kardynałem Grzegorzem Rysiem. Chodził po Rynku Głównym w Krakowie, a pod wieczór pojechał pociągiem do Warszawy, gdzie zaskoczył czekających na niego dziennikarzy.</description>
+      <pubDate>Tue, 19 May 2026 20:28:27 GMT</pubDate>
+      <guid isPermaLink="false">8013c7fe3620</guid>
+      <source url="https://tvn24.pl/polska/peter-magyar-pierwszy-dzien-wizyty-w-polsce-zwiedzil-krakow-potem-przyjechal-pociagiem-do-warszawy-i-zaskoczyl-st9056419?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Wimbledon bez Carlosa Alcaraza. Oto powód</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ca72f1ffe24</link>
+      <description>​Zmagający się z kontuzją nadgarstka słynny hiszpański tenisista Carlos Alcaraz poinformował, że opuści część sezonu na kortach trawiastych. Tym samym potwierdził, że nie wystąpi w wielkoszlemowym turnieju Wimbledon na kortach w Londynie.</description>
+      <pubDate>Tue, 19 May 2026 20:16:02 GMT</pubDate>
+      <guid isPermaLink="false">6ca72f1ffe24</guid>
+      <source url="https://www.rmf24.pl/sport/news-wimbledon-bez-carlosa-alcaraza-oto-powod,nId,8082740">RMF24</source>
+    </item>
+    <item>
+      <title>Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e409cab39886</link>
+      <description>“By the end of this week, you and Sam will be the most hated men in America.”</description>
+      <pubDate>Tue, 19 May 2026 20:11:00 GMT</pubDate>
+      <guid isPermaLink="false">e409cab39886</guid>
+      <source url="https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/">TechCrunch</source>
     </item>
     <item>
       <title>Naukowcy biją na alarm: fałszuje wyniki badań. Tarczyca zagrożona</title>
@@ -46,6 +198,14 @@
       <pubDate>Tue, 19 May 2026 19:52:49 GMT</pubDate>
       <guid isPermaLink="false">88bb88f160d4</guid>
       <source url="https://www.autonocion.com/us/tesla-lithium-refinery-texas/">Hacker News</source>
+    </item>
+    <item>
+      <title>Plex&apos;s 200% Lifetime Pass price hike tries forcing users to another subscription</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a8057c958bf7</link>
+      <description>Plex says that it has considered getting rid of Lifetime Passes.</description>
+      <pubDate>Tue, 19 May 2026 19:52:01 GMT</pubDate>
+      <guid isPermaLink="false">a8057c958bf7</guid>
+      <source url="https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/">Ars Technica</source>
     </item>
     <item>
       <title>NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid</title>
@@ -80,6 +240,14 @@
       <source url="https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/">Hacker News</source>
     </item>
     <item>
+      <title>OpenAI Adopts Google&apos;s SynthID Watermark for AI Images with Verification Tool</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca6dcc3fb0ea</link>
+      <description>OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.</description>
+      <pubDate>Tue, 19 May 2026 19:34:30 GMT</pubDate>
+      <guid isPermaLink="false">ca6dcc3fb0ea</guid>
+      <source url="https://openai.com/index/advancing-content-provenance/">Hacker News</source>
+    </item>
+    <item>
       <title>Decyzja zapadła: nowe zasady w przyznawaniu 800 plus. Już bez wyjątku</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a9ee6b199fe0</link>
       <description>Rodzice mają jeszcze czas na złożenie wniosku o 800 plus, ale zwłoka może oznaczać przerwę w wypłatach. ZUS przypomina, że kluczowy termin mija szybciej, niż wielu osobom się wydaje, a od czerwca pojawią się też nowe zasady dla części rodzin.</description>
@@ -94,6 +262,14 @@
       <pubDate>Tue, 19 May 2026 19:23:54 GMT</pubDate>
       <guid isPermaLink="false">089d3317b8f7</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/rosyjska-ropa-wielka-brytania-lagodzi-sankcje-i-zezwala-na-zakup-oleju-napedowego-i-paliwa-lotniczego-z-rosyjskiej-ropy-st9056376?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Dumb Ways for an Open Source Project to Die</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a56bfa532c95</link>
+      <description>How your dependencies became Bernies</description>
+      <pubDate>Tue, 19 May 2026 19:22:56 GMT</pubDate>
+      <guid isPermaLink="false">a56bfa532c95</guid>
+      <source url="https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html">Hacker News</source>
     </item>
     <item>
       <title>Google takes a page out of Meta’s book, announces new audio-powered smart glasses</title>
@@ -118,6 +294,14 @@
       <pubDate>Tue, 19 May 2026 19:14:12 GMT</pubDate>
       <guid isPermaLink="false">ffedbcada2f5</guid>
       <source url="https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai">Hacker News</source>
+    </item>
+    <item>
+      <title>Minnesota becomes first state to ban prediction markets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8e240b81bd2</link>
+      <description>While dozens of states have taken legal action against the controversial industry, Minnesota is the first state to pass a law making it a felony for companies like Kalshi and Polymarket to operate.</description>
+      <pubDate>Tue, 19 May 2026 19:13:26 GMT</pubDate>
+      <guid isPermaLink="false">b8e240b81bd2</guid>
+      <source url="https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets">Hacker News</source>
     </item>
     <item>
       <title>Jeszcze dobrze nie skończyli, już muszą poprawiać</title>
@@ -222,190 +406,6 @@
       <pubDate>Tue, 19 May 2026 18:27:08 GMT</pubDate>
       <guid isPermaLink="false">66ea2b3a4a12</guid>
       <source url="https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Faisal Islam: Why a full HS2 line could still be built despite the latest fiasco</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f03fdb7650b9</link>
-      <description>The Transport Secretary has said the high-speed rail line will not be completed until 2039.</description>
-      <pubDate>Tue, 19 May 2026 18:26:11 GMT</pubDate>
-      <guid isPermaLink="false">f03fdb7650b9</guid>
-      <source url="https://www.bbc.com/news/articles/cvgzrle9441o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Grenlandia nie na sprzedaż. Premier stawia sprawę jasno</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/16bb6157383c</link>
-      <description>&quot;Chociaż pragnienie &apos;władcy&apos;, by przejąć kontrolę nad Grenlandią jest całkowicie lekceważące, zobowiązujemy się do znalezienia rozwiązania tej sytuacji&quot; – zadeklarował grenlandzki premier Jens-Frederik Nielsen podczas forum ekonomicznego &quot;Przyszłość Grenlandii&quot; w Nuuk. Jak zaznaczył, przywódcy wyspy &quot;są zobowiązani do znalezienia dróg współpracy&quot; ze Stanami Zjednoczonymi.</description>
-      <pubDate>Tue, 19 May 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="false">16bb6157383c</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-grenlandia-nie-na-sprzedaz-premier-stawia-sprawe-jasno,nId,8082735">RMF24</source>
-    </item>
-    <item>
-      <title>RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a373f013dd0</link>
-      <description>Charter would have expanded member eligibility and focused on alleged injuries.</description>
-      <pubDate>Tue, 19 May 2026 18:17:54 GMT</pubDate>
-      <guid isPermaLink="false">2a373f013dd0</guid>
-      <source url="https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/">Ars Technica</source>
-    </item>
-    <item>
-      <title>To największa zmiana od 25 lat. Już za moment nie poznasz wyszukiwarki Google</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac169c554edd</link>
-      <description>Google zapowiedziało największą przebudowę swojej wyszukiwarki od lat. Search ma stać się bardziej konwersacyjny, tworzyć interaktywne odpowiedzi, uruchamiać agentów AI i generować miniaplikacje bezpośrednio w wynikach. To naprawdę brzmi jak rewolucja.</description>
-      <pubDate>Tue, 19 May 2026 18:15:24 GMT</pubDate>
-      <guid isPermaLink="false">ac169c554edd</guid>
-      <source url="https://antyweb.pl/to-najwieksza-zmiana-od-25-lat-juz-za-moment-nie-poznasz-wyszukiwarki-google">Antyweb</source>
-    </item>
-    <item>
-      <title>Nie tacy &quot;Święci&quot;. Southampton wyrzucone z rozgrywek po skandalu szpiegowskim</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f318f5ee2c3</link>
-      <description>Angielska Liga Piłkarska (EFL) wykluczyła Southampton z finału play-off Championship (drugiej klasy rozrywkowej w Anglii) po ujawnieniu, że przedstawiciele &quot;Świętych&quot; szpiegowali treningi rywali. Klub otrzymał także czteropunktową karę na przyszły sezon. Middlesbrough zagra z Hull City o awans do Premier League.</description>
-      <pubDate>Tue, 19 May 2026 18:14:00 GMT</pubDate>
-      <guid isPermaLink="false">5f318f5ee2c3</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-nie-tacy-swieci-southampton-wyrzucone-z-rozgrywek-po-skandal,nId,8082733">RMF24</source>
-    </item>
-    <item>
-      <title>Gemini 3.5 Flash might be fast enough for gen AI to make sense</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/56f94d21c035</link>
-      <description>Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.</description>
-      <pubDate>Tue, 19 May 2026 18:11:50 GMT</pubDate>
-      <guid isPermaLink="false">56f94d21c035</guid>
-      <source url="https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Southampton expelled from Championship play-offs for spying on Middlesbrough</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c58c6d5cb04c</link>
-      <description>Southampton have been thrown out of the play-offs after admitting they spied on three clubs during the Championship season.</description>
-      <pubDate>Tue, 19 May 2026 18:08:54 GMT</pubDate>
-      <guid isPermaLink="false">c58c6d5cb04c</guid>
-      <source url="https://www.bbc.com/sport/football/articles/cwy2pnpqjl7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>​Rektor uniwersytetu zawieszony. W tle poważne oskarżenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8900cdc75059</link>
-      <description>Minister nauki Marcin Kulasek zawiesił we wtorek prof. Mirosława Minkinę w pełnieniu funkcji rektora Uniwersytetu w Siedlcach - poinformował Departament Komunikacji Ministerstwa Nauki i Szkolnictwa Wyższego. Wniosek o odwołanie rektora będzie rozpatrywany przez Kolegium Elektorów siedleckiej uczelni. Pracownicy uniwersytetu zarzucali mu korupcję i mobbing.</description>
-      <pubDate>Tue, 19 May 2026 18:08:22 GMT</pubDate>
-      <guid isPermaLink="false">8900cdc75059</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-rektor-uniwersytetu-zawieszony-w-tle-powazne-oskarzenia,nId,8082734">RMF24</source>
-    </item>
-    <item>
-      <title>Supermarkets urged to limit food prices by government</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aee0033db94a</link>
-      <description>Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.</description>
-      <pubDate>Tue, 19 May 2026 18:08:20 GMT</pubDate>
-      <guid isPermaLink="false">aee0033db94a</guid>
-      <source url="https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>&apos;Ebola has tortured us&apos;: Fear grips eastern DR Congo as deadly virus spreads</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/340b158c1006</link>
-      <description>The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.</description>
-      <pubDate>Tue, 19 May 2026 18:05:26 GMT</pubDate>
-      <guid isPermaLink="false">340b158c1006</guid>
-      <source url="https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Play odpala petardę – najnowszy telefon Google za mniej niż 1,5 tys. zł!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8828a79d7f0</link>
-      <description>Play informuje już na stronie głównej swojego serwisu o obniżce aż o 600 zł za Google Pixel 10a 5G 8/128GB - obecnie najtaniej w Polsce.</description>
-      <pubDate>Tue, 19 May 2026 18:00:43 GMT</pubDate>
-      <guid isPermaLink="false">f8828a79d7f0</guid>
-      <source url="https://antyweb.pl/google-pixel-10a-najtaniej">Antyweb</source>
-    </item>
-    <item>
-      <title>Google’s Genie world model can now simulate real streets with Street View</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/36929d22cee9</link>
-      <description>Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.</description>
-      <pubDate>Tue, 19 May 2026 17:51:39 GMT</pubDate>
-      <guid isPermaLink="false">36929d22cee9</guid>
-      <source url="https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/">TechCrunch</source>
-    </item>
-    <item>
-      <title>With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aee75443996a</link>
-      <description>Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company&apos;s annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.</description>
-      <pubDate>Tue, 19 May 2026 17:51:30 GMT</pubDate>
-      <guid isPermaLink="false">aee75443996a</guid>
-      <source url="https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/">TechCrunch</source>
-    </item>
-    <item>
-      <title>To może być przełom. Google odpowie na pytania kompilacjami filmów z YouTube</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2abce549e051</link>
-      <description>Google zapowiada Ask YouTube – funkcję AI, która ma odpowiadać na pytania użytkowników za pomocą odpowiednio dobranych filmów i Shortsów. To nowy sposób wyszukiwania treści na YouTube.</description>
-      <pubDate>Tue, 19 May 2026 17:50:42 GMT</pubDate>
-      <guid isPermaLink="false">2abce549e051</guid>
-      <source url="https://antyweb.pl/ask-youtube-ma-odpowiadac-filmami-na-pytania-uzytkownikow">Antyweb</source>
-    </item>
-    <item>
-      <title>How to use Google’s new information agents</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eab4343cd78b</link>
-      <description>Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.</description>
-      <pubDate>Tue, 19 May 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="false">eab4343cd78b</guid>
-      <source url="https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Gemini Omni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d85e3d7fde1</link>
-      <description>Create anything from anything from any input – starting with video</description>
-      <pubDate>Tue, 19 May 2026 17:46:19 GMT</pubDate>
-      <guid isPermaLink="false">9d85e3d7fde1</guid>
-      <source url="https://deepmind.google/models/gemini-omni/">Hacker News</source>
-    </item>
-    <item>
-      <title>Google Search as you know it is over</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9cf05aa1a42f</link>
-      <description>Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.</description>
-      <pubDate>Tue, 19 May 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="false">9cf05aa1a42f</guid>
-      <source url="https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google’s AI now lets you talk to your Gmail inbox</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/54d3814c5cc4</link>
-      <description>Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.</description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">54d3814c5cc4</guid>
-      <source url="https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google’s AI Studio now lets anyone build Android apps in minutes</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2f2a6691c3b0</link>
-      <description>Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.</description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">2f2a6691c3b0</guid>
-      <source url="https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google just declared itself a contender in AI design</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc4d1aed3015</link>
-      <description>The tech giant says it&apos;s designed the app to be accessible to everyone, from teachers to small business owners.</description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">bc4d1aed3015</guid>
-      <source url="https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google updates its Gemini app to take on ChatGPT and Claude</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a31dee5fd39d</link>
-      <description>The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.</description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">a31dee5fd39d</guid>
-      <source url="https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Agentic app coding gets an upgrade with Google’s release of Android CLI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7bb836c4ed21</link>
-      <description>Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.</description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">7bb836c4ed21</guid>
-      <source url="https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google’s new Universal Cart wants to follow you across the entire internet</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1f52b74d24ac</link>
-      <description>The tech giant says it&apos;s aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it&apos;s launching Universal Cart.</description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">1f52b74d24ac</guid>
-      <source url="https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/">TechCrunch</source>
     </item>
   </channel>
 </rss>
