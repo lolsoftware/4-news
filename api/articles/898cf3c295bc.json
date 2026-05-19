@@ -1,0 +1,13 @@
+{
+  "id": "898cf3c295bc",
+  "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+  "originalTitle": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+  "publishedAt": "2026-05-19T18:37:02.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Last year, Google added support for SynthID detection in the Gemini app. You can upload the suspect content and ask the chatbot if it’s AI-generated. This should work reliably with all those billions of Google AI images and audio clips from the past three years. A few ambitious tinkerers have claimed to find methods for removing the hidden SynthID patterns. Google contends that none of these bypasses actually work.</p>\n<h2>More SynthID in more places</h2>\n<p>Even if no one has been able to crack SynthID, that doesn’t matter for the vast majority of AI images on the Internet—only Google’s AI models apply SynthID. That’s going to change soon, though.</p>\n<p>Google has announced that it has partnered with several companies to add SynthID to their systems. Nvidia will implement SynthID in its Cosmos world foundation models, and OpenAI will use SynthID in its GPT 2 images. Kakao and ElevenLabs will also begin adding SynthID to their AI content.</p>\n<p>This doesn’t mean you’ll always be able to tell if something is AI by looking for SynthID. Plenty of publicly available models continue to produce content with no AI watermarking, and there are open models that can be trained by anyone looking to create AI images and videos on their own terms. Still, this is a step in the right direction.</p>\n<p>There will also be new paths to checking SynthID status, so you won’t even have to open Gemini just to check for the watermark. SynthID will be integrated with Circle to Search, Lens, and AI Mode. You’ll also be able to use Gemini in Chrome by sharing a tab with the content in question. You can ask any variation of “Is this AI” to get a SynthID scan with these tools.</p>\n<p>There is currently not a public API for SynthID—making these scans too readily available could serve as an attack vector for those seeking to circumvent SynthID. However, Google is preparing to launch an AI content detection API as part of the company’s Gemini Enterprise Agent Platform. This will allow trusted business partners to more easily flag AI content, allowing Google to refine the API over the coming months.</p> </div></div>",
+  "image": "images/89ff3265cc6b.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
