@@ -1,0 +1,13 @@
+{
+  "id": "210f4d666736",
+  "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+  "originalTitle": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+  "publishedAt": "2026-05-19T15:27:53.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content\"> <p><a href=\"https://packages.gentoo.org/packages/sys-kernel/gentoo-kernel\"> <img src=\"https://www.gentoo.org/assets/img/news/2026/fragnesia.png\" alt=\"Fragnesia logo\">\n</a></p>\n\n<p>The Linux kernel has recently been facing a series of discovered\nprivilege escalation vulnerabilities, starting with the\n<a href=\"https://copy.fail/\">Copy Fail</a> vulnerability and followed by subsequent\nvulnerabilities in the same spirit\n(<a href=\"https://github.com/V4bel/dirtyfrag\">Dirty Frag</a>,\n<a href=\"https://github.com/v12-security/pocs/tree/main/fragnesia\">Fragnesia</a>).\nThis development is part of a general trend where vulnerabilities are being found - and\ndisclosed - faster than before. We expect it to continue, at least for\nthe short-term.</p>\n\n<p>The Gentoo Linux Kernel and Distribution Kernel teams are doing their best\nto keep Gentoo kernels secure. This includes both packaging the latest\nupstream releases as soon as possible, and backporting additional vulnerability fixes\nor mitigations whenever they become available. \nAs example, while upstream kernel releases are still vulnerable to Fragnesia,\nthe respective Gentoo kernels feature fixes from day one. At the time of writing, all\nsupported Gentoo kernels feature the latest Fragnesia v5 patch. Please expect more updates.\nWe recommend exploring ways to automate upgrading your kernel.</p>\n\n<p>Please note that only\n<a href=\"https://packages.gentoo.org/packages/sys-kernel/gentoo-kernel\">sys-kernel/gentoo-kernel</a>,\n<a href=\"https://packages.gentoo.org/packages/sys-kernel/gentoo-kernel-bin\">sys-kernel/gentoo-kernel-bin</a>\nand <a href=\"https://packages.gentoo.org/packages/sys-kernel/gentoo-sources\">sys-kernel/gentoo-sources</a>\npackages are security-supported. The vanilla kernel packages are\nvulnerable at the moment. Other kernel packages may carry fixes, but\nthey usually are slower to be updated. Additionally, we recommend\nrunning the latest kernel version (~arch or latest stable LTS), as\nupstream does not reliably backport security fixes to older versions.</p> </div></div>",
+  "image": "images/470eb5fdc8d9.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
