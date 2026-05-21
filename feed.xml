@@ -5,407 +5,478 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 20 May 2026 22:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 08:09:19 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nvidia posts another record quarter, reveals $43 billion of holdings in startups</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e1e25bd6eee4</link>
-      <description>Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.</description>
-      <pubDate>Wed, 20 May 2026 22:03:51 GMT</pubDate>
-      <guid isPermaLink="false">e1e25bd6eee4</guid>
-      <source url="https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/">TechCrunch</source>
+      <title>Emeryt-rekordzista z lubelskiego. Na taką kwotę odkładał przez 60 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/12b6839a294a</link>
+      <description>Emerytury w Polsce potrafią sięgać skrajnie różnych kwot. Rekordziści, którzy pracowali przez dekady i późno zakończyli aktywność zawodową, otrzymują świadczenia porównywalne z wypłatami kilkunastu emerytów pobierających najniższe świadczenie.</description>
+      <pubDate>Thu, 21 May 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="false">12b6839a294a</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Emeryt-rekordzista-z-lubelskiego-Na-taka-kwote-odkladal-przez-60-lat,284584,15.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Senat zdecydował w sprawie propozycji referendum Nawrockiego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/90567fcac778</link>
-      <description>Senat nie wyraził zgody na zarządzenie przez prezydenta referendum w sprawie unijnej polityki klimatycznej. Wcześniej odrzucenie tego wniosku zarekomendowały połączone komisje senackie.</description>
-      <pubDate>Wed, 20 May 2026 21:57:56 GMT</pubDate>
-      <guid isPermaLink="false">90567fcac778</guid>
-      <source url="https://tvn24.pl/polska/prezydent-karol-nawrocki-chcial-referendum-ws-unijnej-polityki-klimatycznej-senat-nie-wyrazil-zgody-st9058656?source=rss">TVN24</source>
+      <title>Rak płuca coraz ważniejszy w systemie. Będzie nowy program i zmiany dla placówek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6042de78bdfd</link>
+      <description>Ministerstwo Zdrowia przygotowało projekt nowelizacji dotyczący szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej. Dodano nowy przedmiot postępowania, obejmujący program profilaktyczny raka płuca.</description>
+      <pubDate>Thu, 21 May 2026 09:50:00 GMT</pubDate>
+      <guid isPermaLink="false">6042de78bdfd</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Choroby-Pluc/Rak-pluca-coraz-wazniejszy-w-systemie-Bedzie-nowy-program-i-zmiany-dla-placowek,284579,1022.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef622ed86c0c</link>
-      <description>Elon Muks&apos;s xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX&apos;s IPO filing.</description>
-      <pubDate>Wed, 20 May 2026 21:55:49 GMT</pubDate>
-      <guid isPermaLink="false">ef622ed86c0c</guid>
-      <source url="https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/">TechCrunch</source>
+      <title>8055,00 zł miesięcznie i 39 dni urlopu. Więzienia i areszty szukają do pracy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/280c62698a4b</link>
+      <description>Służba Więzienna oferuje pracę w zakładach karnych w całej Polsce dla cywilów. Nabór dotyczy m.in. lekarzy, pielęgniarek i ratowników medycznych. Wynagrodzenia wahają się od 6 do ponad 8 tys. zł miesięcznie.</description>
+      <pubDate>Thu, 21 May 2026 09:27:00 GMT</pubDate>
+      <guid isPermaLink="false">280c62698a4b</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/8055-00-zl-miesiecznie-i-39-dni-urlopu-Wiezienia-i-areszty-szukaja-do-pracy,284583,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Starship&apos;s Twelfth Flight Test</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/03d72cd71821</link>
-      <description>Comments</description>
-      <pubDate>Wed, 20 May 2026 21:41:54 GMT</pubDate>
-      <guid isPermaLink="false">03d72cd71821</guid>
-      <source url="https://www.spacex.com/launches/starship-flight-12">Hacker News</source>
+      <title>Polski przemysł schodzi na ziemię. Efekt bazy uderzył w kwietniową produkcję</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8beea251b04a</link>
+      <description>Po spektakularnym marcowym wystrzale polski sektor wytwórczy zaliczył wyraźne hamowanie. Najnowsze dane Głównego Urzędu Statystycznego pokazują, że produkcja przemysłowa utrzymała się na plusie w ujęciu rocznym, ale w porównaniu do poprzedniego miesiąca zanotowała głęboki spadek. Spełniły się tym samym prognozy ekonomistów, którzy ostrzegali przed kwietniowym ochłodzeniem.</description>
+      <pubDate>Thu, 21 May 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="false">8beea251b04a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Polski-przemysl-schodzi-na-ziemie-Efekt-bazy-uderzyl-w-kwietniowa-produkcje-9136917.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Prezydent chce referendum ws. polityki klimatycznej. Senat podjął decyzję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6bf370998bc7</link>
-      <description>Senat RP nie wyraził zgody na zarządzenie przez prezydenta Karola Nawrockiego referendum w sprawie unijnej polityki klimatycznej. Za podjęciem przez Senat uchwały opowiedziało się 32 senatorów, przeciw było 62, od głosu wstrzymał się 1.</description>
-      <pubDate>Wed, 20 May 2026 21:41:10 GMT</pubDate>
-      <guid isPermaLink="false">6bf370998bc7</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-prezydent-chce-referendum-ws-polityki-klimatycznej-senat-pod,nId,8087135">RMF24</source>
+      <title>Płace rosną najwolniej od 5 lat. Zatrudnienie nadal maleje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/119fa1e8cc33</link>
+      <description>Płace rosły w najwolniejszym tempie od 5 lat, a liczba zatrudnionych cały czas malała. Jest to przedłużenie trendów obserwowanych przez ostatnie cztery lata.</description>
+      <pubDate>Thu, 21 May 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="false">119fa1e8cc33</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Polski-rynek-pracy-w-kwietniu-2026-Place-rosna-najwolniej-od-5-lat-a-zatrudnienie-spada-9136904.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Google Declaring War on the Web</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bd0babd2bdb1</link>
-      <description>In Yesterday’s IO Keynote Google declared war on the remnants of the Web. (See longer description on their website.) TL;DR: They are pushing Search more into the “here’s your processed answer” direction that “AI Overviews” have established (you know, those AI snippets in current Search that are wrong about 10% of the time). So they […]</description>
-      <pubDate>Wed, 20 May 2026 21:33:18 GMT</pubDate>
-      <guid isPermaLink="false">bd0babd2bdb1</guid>
-      <source url="https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/">Hacker News</source>
+      <title>Analiza: mikrobiota jelitowa może nasilać objawy chorób atopowych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dc253377dbfb</link>
+      <description>Spożywanie większej ilości warzyw i owoców zmniejsza ryzyko demencji nawet u tych osób, które zmieniły dietę dopiero pod 50. lub nawet 60. roku życia – sugerują badania opublikowane przez pismo „Neurology”.</description>
+      <pubDate>Thu, 21 May 2026 08:03:34 GMT</pubDate>
+      <guid isPermaLink="false">dc253377dbfb</guid>
+      <source url="https://dzienniknaukowy.pl/analiza-mikrobiota-jelitowa-moze-nasilac-objawy-chorob-atopowych">Dziennik Naukowy</source>
     </item>
     <item>
-      <title>Anthropic will pay xAI $1.25 billion per month for compute</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ef16b68dd61</link>
-      <description>Elon Musk&apos;s xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it&apos;s worth.</description>
-      <pubDate>Wed, 20 May 2026 21:29:22 GMT</pubDate>
-      <guid isPermaLink="false">1ef16b68dd61</guid>
-      <source url="https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/">TechCrunch</source>
+      <title>Prasa ujawnia: Putin stał się wasalem Chin. &quot;Xi wyciska go jak cytrynę&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/acd4acab4227</link>
+      <description>Wojny prowadzone przez Rosję i USA osłabiły pozycję obu krajów wobec Chin; Władimir Putin całkowicie uzależnił swój kraj od Pekinu, a Donald Trump nie zdołał zmusić Chin do ustępstw wojną celną; Xi Jinping czeka spokojnie na kolejne błędy rywali w drodze do dominacji - ocenia niemiecka prasa po wizycie Putina w ChRL.</description>
+      <pubDate>Thu, 21 May 2026 08:03:00 GMT</pubDate>
+      <guid isPermaLink="false">acd4acab4227</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Prasa-ujawnia-Putin-stal-sie-wasalem-Chin-Xi-wyciska-go-jak-cytryne-9136886.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Matty Cash świętuje. Aston Villa wygrała Ligę Europy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/17fc118a9bca</link>
-      <description>Angielska Aston Villa, z naturalizowanym Polakiem Matty Cashem w składzie, pokonała w finale Ligi Europy niemiecki SC Freiburg 3:0, zwyciężając w całych rozgrywkach. Cash jest trzynastym Polakiem w historii, który wywalczył jedno z trofeów europejskich rozgrywek.</description>
-      <pubDate>Wed, 20 May 2026 21:27:16 GMT</pubDate>
-      <guid isPermaLink="false">17fc118a9bca</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-matty-cash-swietuje-aston-villa-wygrala-lige-europy,nId,8087134">RMF24</source>
+      <title>Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e28d0a3c05f9</link>
+      <description>Customer service is being rebuilt from scratch, and we’re building the platform that wins it.
+
+Typewise (YC S22) is the AI Agent Platform behind 60+ enterprise customer service teams across Europe and the US. Brands
+like Unilever and DPD use us to resolve customer requests across email, chat, and social, autonomously, at a fraction of
+the cost and a multiple of the quality. We’re a 20-person remote-first team out of Zurich, moving fast, and we just
+raised the round to push harder.
+
+Here’s the challenge: when a CS leader sits down today and types “best AI customer service platform” into Google, they
+find Fin/Intercom. They find Zendesk. They don’t find us. Yet.
+
+That’s the job.
+
+Who you&apos;ll work with
+
+You’ll report directly to David (CEO, ex-Booz Allen strategy) and work alongside Janis (CTO, deep tech NLP). No
+marketing VP layer. No approval chains. Two founders who’ve built the company from a research project to 50+ enterprise
+customers and who now need someone to make the world find what they’ve built. You’ll have direct access to decisions,
+budget, and the full team.
+
+Role Overview
+
+As AI Growth Engineer, you own one outcome: make CS buyers find Typewise through any creative, non-paid, AI-powered
+means that work. No channel is off-limits. No approach is too unconventional. You pick the channels, build the systems,
+run the experiments, and iterate ruthlessly. This is a 3-month sprint to prove what works with the option to extend or
+convert to full-time.
+
+Your outcomes
+
+  - Make Typewise discoverable wherever CS buyers research solutions: Reddit, podcasts, YouTube, influencers, industry
+    associations, communities, or channels nobody has thought of yet.
+  - Build AI-powered systems that let you operate at the scale of a full marketing team, alone.
+  - Run fast experiment loops (days, not weeks) and prove which channels deliver real sign-ups and pipeline.
+  - Leave behind a documented, automated Growth Playbook that keeps working after the sprint ends.
+
+In your first 30 days, you&apos;ll have shipped your first experiments and generated your first measurable signals. We don&apos;t
+care which channel. We care that something is live and learning.
+
+What you&apos;ll bring
+
+  - AI-native to the core: you don&apos;t just use AI — you think in AI. You&apos;ve built agents, automations, or AI-powered
+    systems that do things that weren&apos;t possible two years ago. You use AI to 10x yourself, not to save 10 minutes on an
+    email.
+  - Builder mindset: you can ship systems autonomously — whether that&apos;s through code, AI-assisted development, no-code
+    tools, or a combination. You don&apos;t need a team to go from idea to live experiment.
+  - Growth obsession: you&apos;ve grown something before — a side project, a community, a product&apos;s user base — through
+    creative, non-obvious means.
+  - Speed and bias to action: you ship experiments in days, not weeks. You&apos;re comfortable with imperfect launches and
+    fast iteration.
+  - Ownership mindset: you treat this like your own startup. You don&apos;t wait for instructions; you identify opportunities
+    and execute.
+  - Nice to have: experience with B2B SaaS, customer service/CX industry knowledge, podcast guesting or influencer
+    outreach, community building.
+
+Why you&apos;ll love it here
+
+  - Category-defining platform at the forefront of AI for customer service.
+  - Full autonomy: you own the mission, the channels, and the experiments. We give you the budget and get out of the
+    way.
+  - Unlimited AI budget for tools and APIs, we&apos;re serious about the AI-first approach.
+  - Hyper-collaborative, international team (20 people) with fast decision cycles and high trust.
+  - Remote-first with flexible hours (CET-friendly, office in Zurich).
+  - Quarterly team trips to cool locations for on-sites, customer visits, and shared adventures.
+  - Competitive compensation with performance bonus tied to measurable outcomes. Stock option potential if converting to
+    full-time.
+  - The chance to define how Typewise grows, and prove that creative, AI-powered organic growth beats paid ads.
+
+Ready to move?
+
+Don&apos;t send us a CV. Send us something you&apos;ve built: a bot, an automation, a growth system, a content engine. Show us how
+you think and what you can ship. Tell us which channels you&apos;d attack first for Typewise and why.
+
+Help us make sure the next person searching for a CS AI solution finds Typewise, not just the incumbents.</description>
+      <pubDate>Thu, 21 May 2026 08:01:53 GMT</pubDate>
+      <guid isPermaLink="false">e28d0a3c05f9</guid>
+      <source url="https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer">Hacker News</source>
     </item>
     <item>
-      <title>NASA&apos;s Psyche spacecraft returns unfamiliar views of a familiar world</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/feb62f4afe54</link>
-      <description>As a bonus, it captured Mars images from a rare perspective.&quot;</description>
-      <pubDate>Wed, 20 May 2026 21:26:57 GMT</pubDate>
-      <guid isPermaLink="false">feb62f4afe54</guid>
-      <source url="https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/">Ars Technica</source>
+      <title>Netflix wysłuchał próśb. To najlepsza zmiana od lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c84fe80d9493</link>
+      <description>Netflix szykuje prawdziwe trzęsienie ziemi, jeszcze wcześniej niż się spodziewaliśmy.</description>
+      <pubDate>Thu, 21 May 2026 08:00:26 GMT</pubDate>
+      <guid isPermaLink="false">c84fe80d9493</guid>
+      <source url="https://antyweb.pl/netflix-wysluchal-prosb-to-najlepsza-zmiana-od-lat">Antyweb</source>
     </item>
     <item>
-      <title>Sam Altman makes ‘mic drop’ offer to every Y Combinator startup</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/19f9642c54ab</link>
-      <description>Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.</description>
-      <pubDate>Wed, 20 May 2026 21:23:02 GMT</pubDate>
-      <guid isPermaLink="false">19f9642c54ab</guid>
-      <source url="https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/">TechCrunch</source>
+      <title>Ebola wygania piłkarzy z kraju. Zmiana planów przed mundialem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/46c01b64dc51</link>
+      <description>Wirus Ebola zmienia plany przygotowującej się do mundialu reprezentacji Demokratycznej Republiki Konga. Ekipa odwołała część zgrupowania, która miała odbyć się w kraju.</description>
+      <pubDate>Thu, 21 May 2026 07:56:00 GMT</pubDate>
+      <guid isPermaLink="false">46c01b64dc51</guid>
+      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-ebola-wygania-pilkarzy-z-kraju-zmiana-planow-przed-mundialem,nId,8087167">RMF24</source>
     </item>
     <item>
-      <title>You don’t need to be an AI startup to raise. Lucra has $20M to prove it. </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/caab5f4258b9</link>
-      <description>Watch as Lucra founder Dylan Robbins joins Equity to talk about landing $20M from ARK Invest, pivoting from consumer to B2B, and why honesty helped close the round.</description>
-      <pubDate>Wed, 20 May 2026 21:21:22 GMT</pubDate>
-      <guid isPermaLink="false">caab5f4258b9</guid>
-      <source url="https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/">TechCrunch</source>
+      <title>16-latka wpadła pod tramwaj</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd9976382a83</link>
+      <description>W czwartek na rano na warszawskim Bródnie tramwaj potrącił 16-letnią dziewczynę. Nastolatka trafiła do szpitala z obrażeniami.</description>
+      <pubDate>Thu, 21 May 2026 07:55:41 GMT</pubDate>
+      <guid isPermaLink="false">bd9976382a83</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/targowek/warszawa-nastolatka-potracona-przez-tramwaj-st9058929?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Southampton lose appeal against play-off expulsion</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/41be16d7928b</link>
-      <description>Southampton lose their appeal against expulsion from the Championship play-off final for spying.</description>
-      <pubDate>Wed, 20 May 2026 21:15:29 GMT</pubDate>
-      <guid isPermaLink="false">41be16d7928b</guid>
-      <source url="https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Wes Streeting pledges wealth tax as part of leadership pitch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a30f4984d2e9</link>
+      <description>Wes Streeting is proposing reforms to capital gains tax, as part of his pitch for the Labour leadership.</description>
+      <pubDate>Thu, 21 May 2026 07:52:24 GMT</pubDate>
+      <guid isPermaLink="false">a30f4984d2e9</guid>
+      <source url="https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f22b9de1f919</link>
-      <description>Vmax is automating reinforcement learning. We transform proprietary data and evals into new sets of environments. We refine agents on new examples of the tasks they are intended to perform.</description>
-      <pubDate>Wed, 20 May 2026 21:11:55 GMT</pubDate>
-      <guid isPermaLink="false">f22b9de1f919</guid>
-      <source url="https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play">Hacker News</source>
+      <title>&quot;Bez znajomości języka polskiego&quot; mogą leczyć Polaków? Co przegłosowano</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2255bed521a</link>
+      <description>Sejm uchwalił, że &quot;lekarze bez znajomości języka polskiego będą leczyć Polaków&quot; - twierdzi europosłanka Konfederacji Anna Bryłka. Przekaz ten rozpowszechnia również wielu internautów, w tym prorosyjskie konta. Jest w nim jednak kilka przekłamań.</description>
+      <pubDate>Thu, 21 May 2026 07:49:33 GMT</pubDate>
+      <guid isPermaLink="false">f2255bed521a</guid>
+      <source url="https://konkret24.tvn24.pl/zdrowie/bez-znajomosci-jezyka-polskiego-moga-leczyc-polakow-co-przeglosowano-st9056917?source=rss">TVN24</source>
     </item>
     <item>
-      <title>The SpaceX IPO filing has arrived</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73c100e517de</link>
-      <description>SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever.</description>
-      <pubDate>Wed, 20 May 2026 20:52:00 GMT</pubDate>
-      <guid isPermaLink="false">73c100e517de</guid>
-      <source url="https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/">TechCrunch</source>
+      <title>Mieszkania w Warszawie już średnio za 20 tys. zł/mkw. Dlaczego kupujący nie powinni się tym przejmować?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/866d114a8c97</link>
+      <description>W pierwszej połowie maja średnia cena ofertowa notowana na warszawskim rynku pierwotnym przekroczyła 20 tys. zł/mkw. – wynika z danych Otodom. To pierwsza taka sytuacja w historii. W aktach notarialnych tak drastycznych podwyżek jednak nie widać. Kupujący za nowe mieszkania płacili przeciętnie o 2,7 tys. zł/mkw. mniej.</description>
+      <pubDate>Thu, 21 May 2026 07:49:00 GMT</pubDate>
+      <guid isPermaLink="false">866d114a8c97</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-Warszawie-przekroczyly-20-tys-zl-mkw-9136875.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>NASA Announces Winners in University Aeronautics Competition</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d8d0f3a95dd</link>
-      <description>The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a</description>
-      <pubDate>Wed, 20 May 2026 20:48:01 GMT</pubDate>
-      <guid isPermaLink="false">8d8d0f3a95dd</guid>
-      <source url="https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/">NASA Breaking News</source>
+      <title>AI do finansów, bankierzy na bruk. Przełomowe słowa szefa JP Morgan</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5dd92c068eaf</link>
+      <description>Będziemy zatrudniać więcej specjalistów od sztucznej inteligencji niż bankierów takie rewolucyjne dla branży słowa wypowiedział dyrektor generalny JP Morgan Jamie Dimon w wywiadzie dla Bloomberga. Co za tym idzie, zmniejszy się znacznie zatrudnienie w tym jednym z największych holdingów finansowych z siedzibą na Wall Street.</description>
+      <pubDate>Thu, 21 May 2026 07:49:00 GMT</pubDate>
+      <guid isPermaLink="false">5dd92c068eaf</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Rewolucja-w-JP-Morgan-Gigant-z-Wall-Street-stawia-na-AI-Bedziemy-zatrudniac-mniej-bankierow-9136845.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Microsoft’s carbon-removal plans aren’t dead after all</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/65a9a27a2031</link>
-      <description>Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.</description>
-      <pubDate>Wed, 20 May 2026 20:30:24 GMT</pubDate>
-      <guid isPermaLink="false">65a9a27a2031</guid>
-      <source url="https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/">TechCrunch</source>
+      <title>Tak wyglądają zarobki Polaków</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1ad09c87c4e7</link>
+      <description>Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw w kwietniu 2026 roku spadło o 1,3 procent wobec marca do 9530,74  złotych - podał Główny Urząd Statystyczny. Jednocześnie wzrosło o 5,4 procent wobec kwietnia ubiegłego roku. Z kolei zatrudnienie w tym sektorze spadło o 0,9 procent wobec kwietnia ubiegłego roku.</description>
+      <pubDate>Thu, 21 May 2026 07:46:07 GMT</pubDate>
+      <guid isPermaLink="false">1ad09c87c4e7</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/przecietne-wynagrodzenie-i-zatrudnienie-w-polsce-w-kwietniu-2026-roku-ile-zarabiaja-srednio-polacy-dane-gus-st9058868?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Masters of the Universe final trailer brings the &apos;80s nostalgia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d03575bb09c8</link>
-      <description>You are he who will restore peace to Eternia.&quot;</description>
-      <pubDate>Wed, 20 May 2026 20:29:39 GMT</pubDate>
-      <guid isPermaLink="false">d03575bb09c8</guid>
-      <source url="https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/">Ars Technica</source>
+      <title>Chris Mason: Reeves&apos; summer savings drive won&apos;t stretch to energy bills</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8e51c068872c</link>
+      <description>The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.</description>
+      <pubDate>Thu, 21 May 2026 07:44:15 GMT</pubDate>
+      <guid isPermaLink="false">8e51c068872c</guid>
+      <source url="https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Trump: mógłbym kandydować na premiera Izraela</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6d4f093a800</link>
-      <description>Prezydent USA Donald Trump ocenił, że premier Benjamin Netanjahu nie jest dobrze traktowany w Izraelu. Zadeklarował też, że sam mógłby zostać szefem izraelskiego rządu ze względu na wysokie poparcie, jakim - jego zdaniem - cieszy się w tym kraju.</description>
-      <pubDate>Wed, 20 May 2026 20:28:58 GMT</pubDate>
-      <guid isPermaLink="false">d6d4f093a800</guid>
-      <source url="https://tvn24.pl/swiat/donald-trump-moglbym-kandydowac-na-premiera-izraela-st9058435?source=rss">TVN24</source>
+      <title>Już pradziejowi rolnicy na Kujawach użyźniali glebę i zaczęli uprawiać proso</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/30ed42b7243e</link>
+      <description>Neolityczni rolnicy żyjący na Kujawach nie tylko uprawiali ziemię, ale także aktywnie ją użyźniali. Wraz z epoką brązu na tereny te wkroczyło też proso, czyli odżywczy i wytrzymały superfood pradziejów - opowiada dr Łukasz Pospieszny z Uniwersytetu Gdańskiego.</description>
+      <pubDate>Thu, 21 May 2026 07:43:51 GMT</pubDate>
+      <guid isPermaLink="false">30ed42b7243e</guid>
+      <source url="https://dzienniknaukowy.pl/juz-pradziejowi-rolnicy-na-kujawach-uzyzniali-glebe-i-zaczeli-uprawiac-proso">Dziennik Naukowy</source>
     </item>
     <item>
-      <title>OpenAI claims it solved an 80-year-old math problem — for real this time</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7932795805a6</link>
-      <description>OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.</description>
-      <pubDate>Wed, 20 May 2026 20:28:27 GMT</pubDate>
-      <guid isPermaLink="false">7932795805a6</guid>
-      <source url="https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/">TechCrunch</source>
+      <title>Zarzuty zabójstwa dla byłego prezydenta Kuby. &quot;Oczekujemy, że stawi się tutaj dobrowolnie&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc44f1169f23</link>
+      <description>Władze USA postawiły zarzuty zabójstwa byłemu prezydentowi Kuby, 94-letniemu Raulowi Castro. - Oczekujemy, że stawi się tutaj dobrowolnie albo zostanie doprowadzony w inny sposób - powiedział pełniący obowiązki prokuratora generalnego Todd Blanche. To znacząca eskalacja w wywieranej od miesięcy presji ze strony Waszyngtonu na Hawanę - zauważa Reuters.</description>
+      <pubDate>Thu, 21 May 2026 07:40:36 GMT</pubDate>
+      <guid isPermaLink="false">cc44f1169f23</guid>
+      <source url="https://tvn24.pl/swiat/usa-zarzuty-zabojstwa-dla-bylego-prezydenta-kuby-raula-castro-st9058804?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Tragedia pod Warszawą. Niespełna 2-letnie dziecko zginęło w żłobku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/05e47890cc3f</link>
-      <description>W środę po południu w jednym ze żłobków w podwarszawskich Ząbkach w województwie mazowieckim doszło do tragedii. Zginęło niespełna 2-letnie dziecko. Okoliczności tego tragicznego zdarzenia wyjaśnia policja i prokurator.</description>
-      <pubDate>Wed, 20 May 2026 20:20:53 GMT</pubDate>
-      <guid isPermaLink="false">05e47890cc3f</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-tragedia-w-podwarszawskich-zabkach-w-zlobku-zginelo-niespeln,nId,8087133">RMF24</source>
+      <title>Produkcja przemysłowa w kwietniu. Najnowsze dane</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/21f1fd538efb</link>
+      <description>Produkcja przemysłowa wzrosła o 3,1 procent rok do roku w kwietniu 2026 roku - podał Główny Urząd Statystyczny (GUS). W ujęciu miesięcznym spadła o 7,4 proc.</description>
+      <pubDate>Thu, 21 May 2026 07:33:58 GMT</pubDate>
+      <guid isPermaLink="false">21f1fd538efb</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/produkcja-przemyslowa-za-kwiecien-2026-r-produkcja-przemyslowa-o-wzrosla-o-3-1-proc-r-r-dane-gus-st9058854?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Celowo wjechał Teslą do jeziora i utknął. Został aresztowany</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9dcd00a5bc8f</link>
-      <description>Kierowca Tesli celowo wjechał do jeziora w Teksasie, chcąc sprawdzić &quot;tryb brodzenia&quot; pojazdu. Cybertruck jednak utknął, a mężczyzna i jego pasażer musieli wzywać pomocy.</description>
-      <pubDate>Wed, 20 May 2026 20:12:25 GMT</pubDate>
-      <guid isPermaLink="false">9dcd00a5bc8f</guid>
-      <source url="https://tvn24.pl/swiat/usa-celowo-wjechal-tesla-cybertruck-do-jeziora-i-utknal-zostal-aresztowany-st9058610?source=rss">TVN24</source>
+      <title>Zagadka rozwiązana. Wiemy dlaczego większość jest praworęczna</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/932f1ee39621</link>
+      <description>Jeżeli zastanawiałeś się, dlaczego większość społeczeństwa posługuje się prawą ręką, to naukowcy właśnie znaleźli odpowiedź. Konieczne było sięgnięcie po czasy, gdy nasz gatunek zszedł z drzew.</description>
+      <pubDate>Thu, 21 May 2026 07:30:58 GMT</pubDate>
+      <guid isPermaLink="false">932f1ee39621</guid>
+      <source url="https://antyweb.pl/zagadka-rozwiazana-wiemy-dlaczego-wiekszosc-jest-praworeczna">Antyweb</source>
     </item>
     <item>
-      <title>London bus driver dies after assault on bridge</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d1990d5f9660</link>
-      <description>Sergei Krajev, 64, was taken to hospital after he was found critically injured on Monday.</description>
-      <pubDate>Wed, 20 May 2026 20:11:14 GMT</pubDate>
-      <guid isPermaLink="false">d1990d5f9660</guid>
-      <source url="https://www.bbc.com/news/articles/clypnj4dnk5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Kolejny pożar w rafinerii. Rosjanie otrzymali cios od Ukraińców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6077f3c4f76d</link>
+      <description>Ukraińcy zaatakowali kolejną rosyjską rafinerię. Tym razem w Syzraniu, w obwodzie samarskim (południowy-wschód europejskiej części Rosji). Miejscowe władze informują o śmierci dwóch osób.</description>
+      <pubDate>Thu, 21 May 2026 07:28:00 GMT</pubDate>
+      <guid isPermaLink="false">6077f3c4f76d</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kolejny-pozar-w-rafinerii-rosjanie-otrzymali-cios-od-ukrainc,nId,8087158">RMF24</source>
     </item>
     <item>
-      <title>US charges Cuba&apos;s Raúl Castro with murder over 1996 downing of two planes</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c9c9f13e4b03</link>
-      <description>Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft</description>
-      <pubDate>Wed, 20 May 2026 20:11:02 GMT</pubDate>
-      <guid isPermaLink="false">c9c9f13e4b03</guid>
-      <source url="https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>We Wrocławiu powstaje &quot;mały Manhattan&quot;. Najwyższy wieżowiec w UE</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6c3baa154ba1</link>
+      <description>We Wrocławiu rusza wielka inwestycja, która może na zawsze odmienić panoramę miasta. Giant Development Group planuje budowę najwyższego wieżowca w Unii Europejskiej – Giant Tower. Obiekt ma liczyć aż 272 metry wysokości do dachu i wyprzedzić dotychczasowego rekordzistę, warszawski Varso Tower. To jednak nie koniec ambitnych planów – w okolicy powstanie także kompleks biurowców oraz cztery prywatne akademiki.</description>
+      <pubDate>Thu, 21 May 2026 07:23:46 GMT</pubDate>
+      <guid isPermaLink="false">6c3baa154ba1</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-we-wroclawiu-powstaje-maly-manhattan-najwyzszy-wiezowiec-w-u,nId,8087159">RMF24</source>
     </item>
     <item>
-      <title>Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e31d700dcd13</link>
-      <description>The 0–60 time is impressive, the miles/kWh number even more so.</description>
-      <pubDate>Wed, 20 May 2026 19:53:34 GMT</pubDate>
-      <guid isPermaLink="false">e31d700dcd13</guid>
-      <source url="https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/">Ars Technica</source>
+      <title>Vivaldi 8.0</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9c9e60520b1f</link>
+      <description>More than thirteen years in, and I am still as excited about building this browser as I was on day one. Maybe more. That excitement comes from a genuine belief that the people who use Vivaldi deserve…</description>
+      <pubDate>Thu, 21 May 2026 07:21:55 GMT</pubDate>
+      <guid isPermaLink="false">9c9e60520b1f</guid>
+      <source url="https://vivaldi.com/blog/vivaldi-on-desktop-8-0/">Hacker News</source>
     </item>
     <item>
-      <title>IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/27e38315ab03</link>
-      <description>Initially billed as an &quot;AI butler,&quot; Iris watches what happens on a user&apos;s desktop and automatically learns how to do tasks for them, its co-founder says.</description>
-      <pubDate>Wed, 20 May 2026 19:47:20 GMT</pubDate>
-      <guid isPermaLink="false">27e38315ab03</guid>
-      <source url="https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/">TechCrunch</source>
+      <title>Rosyjski resort obrony ogłasza: Broń jądrowa trafiła na Białoruś</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2edcf8e581d4</link>
+      <description>Rosja przenosi broń jądrową na Białoruś. Resort obrony w Moskwie poinformował, że w ramach trwających ćwiczeń wojskowych rozmieszczono ładunki nuklearne w polowych magazynach na terytorium Białorusi. To kolejny etap szeroko zakrojonych manewrów, podczas których głowice atomowe zostały już wcześniej zainstalowane na rakietach Iskander-M.</description>
+      <pubDate>Thu, 21 May 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="false">2edcf8e581d4</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-rosyjski-resort-obrony-oglasza-bron-jadrowa-trafila-na-bialo,nId,8087161">RMF24</source>
     </item>
     <item>
-      <title>UK agrees £3.7bn trade deal with six Gulf states</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/954d015fc8f5</link>
-      <description>The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical</description>
-      <pubDate>Wed, 20 May 2026 19:41:50 GMT</pubDate>
-      <guid isPermaLink="false">954d015fc8f5</guid>
-      <source url="https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Fundacja Rodzić po Ludzku apeluje: położna nie jest wyłącznie osobą &quot;od porodów&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7d6ccbd10544</link>
+      <description>Fundacja Rodzić po Ludzku opublikowała stanowisko dotyczące zmian w kształceniu położnych. Zaapelowała o natychmiastowe wycofanie proponowanych zmian i pozostawienie odrębnej ścieżki kształcenia położnych. W ocenie Fundacji proponowane rozwiązania to zagrożenie dla jakości opieki nad kobietami i noworodkami.</description>
+      <pubDate>Thu, 21 May 2026 07:16:00 GMT</pubDate>
+      <guid isPermaLink="false">7d6ccbd10544</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Ginekologia-i-poloznictwo/Fundacja-Rodzic-po-Ludzku-apeluje-polozna-nie-jest-wylacznie-osoba-od-porodow,284577,209.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>​Afera w Kłodzku. Prokuratura zaskarżyła wyrok ws. Kamili L.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1c5c93a19150</link>
-      <description>Prokuratura Okręgowa w Świdnicy (woj. dolnośląskie) złożyła apelację od wyroku sądu, który skazał 41-letnią Kamilę L. z Kłodzka na 6,5 roku więzienia za nieudzielenie pomocy małoletniej ofierze przestępstw seksualnych. Prokuratura domaga się wyższej kary. O sprawie z Kłodzka jest głośno ze względu na polityczną przeszłość oskarżonej.</description>
-      <pubDate>Wed, 20 May 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="false">1c5c93a19150</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-afera-w-klodzku-prokuratura-zaskarzyla-wyrok-ws-kamili-l,nId,8087131">RMF24</source>
+      <title>Strach przed bańką AI. Jeff Bezos uspokaja</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/825eb2d84b24</link>
+      <description>Jeff Bezos nie obawia się pęknięcia bańki wokół sztucznej inteligencji. Założyciel Amazona uważa, że nawet jeśli do niego dojdzie, ogromne inwestycje i tak przyspieszą rozwój technologii AI.</description>
+      <pubDate>Thu, 21 May 2026 07:14:02 GMT</pubDate>
+      <guid isPermaLink="false">825eb2d84b24</guid>
+      <source url="https://tvn24.pl/biznes/tech/sztuczna-inteligencja-i-ryzyko-banki-jeff-bezos-studzi-obawy-st9058246?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Not alive, but not dead: disembodied human brains used for drug testing</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5a9b200819a0</link>
-      <description>Comments</description>
-      <pubDate>Wed, 20 May 2026 19:38:25 GMT</pubDate>
-      <guid isPermaLink="false">5a9b200819a0</guid>
-      <source url="https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing">Hacker News</source>
+      <title>TikTok and YouTube &apos;not safe enough&apos; for kids, says regulator</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fa4b73cceac0</link>
+      <description>YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.</description>
+      <pubDate>Thu, 21 May 2026 07:10:42 GMT</pubDate>
+      <guid isPermaLink="false">fa4b73cceac0</guid>
+      <source url="https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Amerykański sąd ściga Raula Castro. USA stawiają zarzuty byłemu prezydentowi Kuby</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d848e60d3c72</link>
-      <description>Agencja Reutera, powołując się na dokumenty sądowe, poinformowała, że federalni prokuratorzy w Stanach Zjednoczonych postawili Raulowi Castro – byłemu prezydentowi i wieloletniemu ministrowi obrony Kuby – zarzuty morderstwa oraz zniszczenia dwóch samolotów cywilnych.</description>
-      <pubDate>Wed, 20 May 2026 19:33:00 GMT</pubDate>
-      <guid isPermaLink="false">d848e60d3c72</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-amerykanski-sad-sciga-raula-castro-usa-stawiaja-zarzuty-byle,nId,8087132">RMF24</source>
+      <title>Na drodze krajowej spłonął samochód </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e6e1adb6196</link>
+      <description>Na drodze krajowej numer 16 w Woźnicach w gminie Mikołajki (Warmia i Mazury) w płomieniach stanął samochód. Pożar gasiły trzy zastępy strażaków. Nikt nie został ranny.</description>
+      <pubDate>Thu, 21 May 2026 07:09:52 GMT</pubDate>
+      <guid isPermaLink="false">9e6e1adb6196</guid>
+      <source url="https://tvn24.pl/olsztyn/woznice-na-drodze-krajowej-splonal-samochod-st9058828?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Jechał dużo za szybko. Na koncie miał dwa aktywne zakazy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3ec59f0d665b</link>
-      <description>Policjanci z grupy SPEED zatrzymali kierowcę, który zignorował nie tylko znaki drogowe, ale także decyzję sądu. Obowiązywały go dwa zakazy prowadzenia pojazdów. Usłyszał zarzut.</description>
-      <pubDate>Wed, 20 May 2026 19:30:20 GMT</pubDate>
-      <guid isPermaLink="false">3ec59f0d665b</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/przyborowice-plonsk-jechal-za-szybko-mial-dwa-zakazy-st9058444?source=rss">TVN24</source>
+      <title>Stacja radiowa poinformowała o śmierci Karola III. Tłumaczy to &quot;błędem&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/46d6105642a0</link>
+      <description>Brytyjska rozgłośnia Radio Caroline przeprosiła w środę za nadanie fałszywego komunikatu o śmierci Karola III. Szef radia tłumaczy to &quot;błędem komputerowym&quot;. &quot;Przepraszamy jego królewską mość i naszych słuchaczy za wywołanie zaniepokojenia&quot; - przekazano w oświadczeniu.</description>
+      <pubDate>Thu, 21 May 2026 07:09:14 GMT</pubDate>
+      <guid isPermaLink="false">46d6105642a0</guid>
+      <source url="https://tvn24.pl/swiat/wielka-brytania-stacja-radiowa-poinformowala-o-smierci-karola-iii-tlumaczy-to-bledem-st9058761?source=rss">TVN24</source>
     </item>
     <item>
-      <title>„Oddać do hospicjum”? Ta kampania pokazuje, dlaczego te słowa ranią</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b7ad1837ce8d</link>
-      <description>Puckie Hospicjum rozpoczęło kampanię „Właściwe słowa mają znaczenie”, która zwraca uwagę na język używany wobec osób korzystających z opieki hospicyjnej. Organizatorzy przekonują, że popularne określenie „oddać do hospicjum” utrwala krzywdzące skojarzenia i wzmacnia poczucie winy wśród rodzin pacjentów. Akcja ma zachęcać do bardziej empatycznej komunikacji i pokazywać, że profesjonalna opieka nie oznacza porzucenia bliskiej osoby.</description>
-      <pubDate>Wed, 20 May 2026 19:25:00 GMT</pubDate>
-      <guid isPermaLink="false">b7ad1837ce8d</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Oddac-do-hospicjum-Ta-kampania-pokazuje-dlaczego-te-slowa-rania,284575,15.html">Rynek Zdrowia</source>
+      <title>Zapasy ropy szybko topnieją. Ekspert ostrzega</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4cee68854909</link>
+      <description>Ceny ropy naftowej w czwartek odbiły po środowej korekcie - informuje Reuters. Rynki reagują na rozwój rozmów między USA a Iranem. Duży wpływ ma także niska podaż ropy na rynku oraz spadek zapasów tego surowca w Stanach Zjednoczonych.</description>
+      <pubDate>Thu, 21 May 2026 07:04:33 GMT</pubDate>
+      <guid isPermaLink="false">4cee68854909</guid>
+      <source url="https://tvn24.pl/biznes/rynki/ceny-ropy-a-bliski-wschod-spadek-zapasow-w-usa-i-blokada-ormuz-podbijaja-rynek-st9058699?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Ustawa o kryptowalutach. Jest decyzja Senatu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d76d8a148c49</link>
-      <description>W trakcie środowych obrad plenarnych Senatu zgłoszono poprawki do ustawy dotyczącej rynku kryptoaktywów. W związku z tym dokument ponownie trafił do komisji budżetu i finansów publicznych. Głosowanie nad ustawą zaplanowano na czwartek.</description>
-      <pubDate>Wed, 20 May 2026 19:23:21 GMT</pubDate>
-      <guid isPermaLink="false">d76d8a148c49</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/ustawa-o-kryptowalutach-jest-decyzja-senatu-st9058341?source=rss">TVN24</source>
+      <title>Jemy na potęgę, a tłuszcz odkłada się w udach. Złogi zamiast mięśni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/52d15a858b3c</link>
+      <description>Udowodniono, że większe spożycie żywności wysoko przetworzonej wiązało się z większą ilością tłuszczu w mięśniach ud, co potencjalnie zwiększało ryzyko wystąpienia choroby zwyrodnieniowej stawów kolanowych – informuje SciTechDaily.com.</description>
+      <pubDate>Thu, 21 May 2026 07:02:00 GMT</pubDate>
+      <guid isPermaLink="false">52d15a858b3c</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Jemy-na-potege-a-tluszcz-odklada-sie-w-udach-Zlogi-zamiast-miesni,284505,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Klimatyczne referendum 27 września? „To 35 lat programu 800 plus”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cd4e70d43ef6</link>
-      <description>Szef gabinetu prezydenta Paweł Szefernaker, zachęcając senatorów do poparcia wniosku prezydenta o przeprowadzenie referendum ws. polityki klimatycznej, powiedział, że Karol Nawrocki sięga w ten sposób po „głos ludu”. Skutki Zielonego Ładu odczują wszyscy; dlatego zadajmy pytanie obywatelom - dodał.</description>
-      <pubDate>Wed, 20 May 2026 19:21:00 GMT</pubDate>
-      <guid isPermaLink="false">cd4e70d43ef6</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Klimatyczne-referendum-27-wrzesnia-To-35-lat-programu-800-plus-9136689.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Zginęli ojciec i dwaj synowie. Śledztwo w sprawie wypadku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/755082860a75</link>
+      <description>W wypadku drogowym w Smykowie (Małopolska) zginęli ojciec i dwaj synowie. Samochód kierowany przez starszego z synów uderzył tam w zaparkowaną ciężarówkę. Prokuratura wszczęła śledztwo.</description>
+      <pubDate>Thu, 21 May 2026 07:00:22 GMT</pubDate>
+      <guid isPermaLink="false">755082860a75</guid>
+      <source url="https://tvn24.pl/krakow/smykow-zgineli-ojciec-i-dwaj-synowie-sledztwo-w-sprawie-wypadku-st9058808?source=rss">TVN24</source>
     </item>
     <item>
-      <title>&quot;Ryzen 5800X3D 10th Anniversary Edition&quot; may help you avoid paying for a new PC</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/22c7ae264d0d</link>
-      <description>It could be one way to make your old PC play nicely with a high-end GPU.</description>
-      <pubDate>Wed, 20 May 2026 19:19:44 GMT</pubDate>
-      <guid isPermaLink="false">22c7ae264d0d</guid>
-      <source url="https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/">Ars Technica</source>
+      <title>Roboty idą po wulkanizatorów. Nikt się nie uchroni przed AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f3737cde7ab4</link>
+      <description>Przez długi czas żyliśmy w przekonaniu, że rewolucja sztucznej inteligencji dotknie przede wszystkim pracowników umysłowych, aż do teraz.</description>
+      <pubDate>Thu, 21 May 2026 07:00:22 GMT</pubDate>
+      <guid isPermaLink="false">f3737cde7ab4</guid>
+      <source url="https://antyweb.pl/roboty-ida-po-wulkanizatorow-nikt-sie-nie-uchroni-przed-ai">Antyweb</source>
     </item>
     <item>
-      <title>&quot;Witamy w Izraelu&quot;. Szokujące zachowanie Ben-Gwira skrytykowane nawet przez USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b9b6b05e6591</link>
-      <description>Szokujące zachowanie izraelskiego ministra bezpieczeństwa narodowego Itamara Ben-Gwira wywołało falę międzynarodowego oburzenia. Szef resortu opublikował nagranie, na którym drwi z zatrzymanych aktywistów, próbujących dostarczyć pomoc humanitarną do Gazy. Jego działania potępiły m.in. Wielka Brytania, Francja, Włochy, Kanada i USA, a także premier Izraela Benjamin Netanjahu.</description>
-      <pubDate>Wed, 20 May 2026 19:16:47 GMT</pubDate>
-      <guid isPermaLink="false">b9b6b05e6591</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-witamy-w-izraelu-szokujace-zachowanie-ben-gwira-skrytykowane,nId,8087128">RMF24</source>
+      <title>&quot;Królestwo zbudowane zostało z myślą o klimacie, który już nie istnieje&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55e506571fc1</link>
+      <description>Susze, powodzie i upały, które nasilają się przez zmiany klimatu, zagrażają stylowi życia Brytyjczyków - poinformowała w raporcie brytyjska Komisja ds. Zmian Klimatycznych. Eksperci wskazali, jakie działania mogą pomóc w spowolnieniu tego procesu.</description>
+      <pubDate>Thu, 21 May 2026 06:57:23 GMT</pubDate>
+      <guid isPermaLink="false">55e506571fc1</guid>
+      <source url="https://tvn24.pl/tvnmeteo/nauka/wielka-brytania-krolestwo-zbudowane-zostalo-z-mysla-o-klimacie-ktory-juz-nie-istnieje-st9058617?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Chronią się przed turystami w trudno dostępnych miejscach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac842c3f958a</link>
-      <description>Zagrożone wyginięciem foki z Grecji opracowały sposób ucieczki przed turystami. Mniszki śródziemnomorskie wykorzystują niedostępne dla ludzi jaskinie, by odpocząć od zgiełku. Jest to szczególnie ważne w okresie, gdy na świecie pojawiają się młode.</description>
-      <pubDate>Wed, 20 May 2026 19:15:05 GMT</pubDate>
-      <guid isPermaLink="false">ac842c3f958a</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/chronia-sie-przed-turystami-w-trudno-dostepnych-miejscach-st9058324?source=rss">TVN24</source>
+      <title>Kościół angażuje się w nową inicjatywę. Wierni w gotowości</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bcc537b964c1</link>
+      <description>Parafialne Grupy Obrony Cywilnej to inicjatywa, która ruszyła w polskim Kościele. Jej inicjatorzy i członkowie chcą budować odporność społeczności lokalnych, opierając się na wiernych zaangażowanych w grupy zadaniowe. Są to np. grupy zmotoryzowane, medyczne, wsparcia psychologicznego czy opiekuńczo-wychowawcze.</description>
+      <pubDate>Thu, 21 May 2026 06:53:00 GMT</pubDate>
+      <guid isPermaLink="false">bcc537b964c1</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-kosciol-angazuje-sie-w-nowa-inicjatywe-wierni-w-gotowosci,nId,8087142">RMF24</source>
     </item>
     <item>
-      <title>Stopy procentowe w USA pójdą w górę? Kulisy głosowania w Fedzie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/27f46eecd820</link>
-      <description>Podwyżka stóp proc. w USA może być zasadna, jeśli wzrost inflacji się utrzyma – wynika z protokołu z ostatniego posiedzenia Fedu. Z minutes wynika też, że w związku tym wielu członków Fedu chciało usunięcia z komunikatu sformułowań sugerujących łagodne nastawienie w polityce pieniężnej.</description>
-      <pubDate>Wed, 20 May 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="false">27f46eecd820</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-USA-pojda-w-gore-Kulisy-glosowania-w-Fedzie-9136686.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Ojciec i synowie nie żyją. Nowe informacje po tragedii w Smykowie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d823bf84bdf</link>
+      <description>Jest śledztwo w sprawie niedzielnego wypadku drogowego w Smykowie w Małopolsce, w którym zginął 69-letni mężczyzna oraz jego dwaj synowie w wieku 46 i 41 lat. Auto prowadzone przez starszego syna wjechało w zaparkowaną ciężarówkę.</description>
+      <pubDate>Thu, 21 May 2026 06:52:59 GMT</pubDate>
+      <guid isPermaLink="false">8d823bf84bdf</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-ojciec-i-synowie-nie-zyja-nowe-informacje-po-tragedii-w-smyk,nId,8087155">RMF24</source>
     </item>
     <item>
-      <title>Google publishes exploit code threatening millions of Chromium users</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2c32649819d9</link>
-      <description>Google publishes exploit code before patch, reported 29 months earlier, is fixed.</description>
-      <pubDate>Wed, 20 May 2026 19:10:36 GMT</pubDate>
-      <guid isPermaLink="false">2c32649819d9</guid>
-      <source url="https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/">Ars Technica</source>
+      <title>Tragedia w żłobku pod Warszawą. Jest śledztwo ws. śmierci dwulatka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a2c9287e37e1</link>
+      <description>Wstrząsające zdarzenie w podwarszawskich Ząbkach. Prokuratura Rejonowa w Wołominie wszczęła śledztwo w sprawie śmierci 2-letniego dziecka w sąsiedztwie jednego ze żłobków. Według wstępnych ustaleń policji, chłopiec utonął w oczku wodnym po tym, jak sam wyszedł z terenu placówki.</description>
+      <pubDate>Thu, 21 May 2026 06:51:27 GMT</pubDate>
+      <guid isPermaLink="false">a2c9287e37e1</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-tragedia-w-zlobku-pod-warszawa-2-latek-utonal-w-oczku-wodnym,nId,8087154">RMF24</source>
     </item>
     <item>
-      <title>La NASA informará sobre su estrategia y misiones para la Base Lunar</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7c02b5c92489</link>
-      <description>La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los</description>
-      <pubDate>Wed, 20 May 2026 19:08:50 GMT</pubDate>
-      <guid isPermaLink="false">7c02b5c92489</guid>
-      <source url="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/">NASA Breaking News</source>
+      <title>Sikorski żąda przeprosin. &quot;Poleciłem niezwłocznie wezwać chargé d&apos;affaires Izraela&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a7ecb80e0fb2</link>
+      <description>&quot;Poleciłem wezwać niezwłocznie chargé d’affaires Izraela w Warszawie celem przekazania mu wyrazów naszego oburzenia oraz żądania przeprosin za skrajnie niewłaściwe zachowanie członka izraelskiego rządu&quot; - napisał szef MSZ Radosław Sikorski. Chodzi o postępowanie względem zatrzymanych przez armię izraelską aktywistów Global Sumud Flotilla. Wśród nich są też polscy obywatele.</description>
+      <pubDate>Thu, 21 May 2026 06:49:00 GMT</pubDate>
+      <guid isPermaLink="false">a7ecb80e0fb2</guid>
+      <source url="https://www.rmf24.pl/polityka/news-sikorski-zada-przeprosin-polecilem-niezwlocznie-wezwac-charg,nId,8087156">RMF24</source>
     </item>
     <item>
-      <title>Silne wstrząsy w Danii. Epicentrum znajdowało się na Bałtyku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2c61e1d091fc</link>
-      <description>W kilku duńskich miastach odczuwane były w środę silne wstrząsy. W Kopenhadze osiągnęły magnitudę 3,9. Zdaniem GEUS - Służb Geologicznych Danii i Grenlandii były to najsilniejsze wstrząsy w historii duńskich pomiarów od prawie 100 lat. Brak informacji o ofiarach.</description>
-      <pubDate>Wed, 20 May 2026 19:07:57 GMT</pubDate>
-      <guid isPermaLink="false">2c61e1d091fc</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-silne-wstrzasy-w-danii-epicentrum-znajdowalo-sie-na-baltyku,nId,8087130">RMF24</source>
+      <title>Parking w Rzymie droższy niż mieszkanie. Cena szokuje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/909ea1ff93bd</link>
+      <description>Miejsce parkingowe w podziemnym garażu kamienicy w historycznym centrum Rzymu, w pobliżu Piazza Navona, zostało wystawione na sprzedaż za rekordowe 260 tysięcy euro. To kwota, za którą w innych częściach miasta można kupić dwupokojowe mieszkanie.</description>
+      <pubDate>Thu, 21 May 2026 06:48:34 GMT</pubDate>
+      <guid isPermaLink="false">909ea1ff93bd</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/rzym-rekordowa-cena-za-parking-drozszy-niz-dwupokojowe-mieszkanie-st9058737?source=rss">TVN24</source>
     </item>
     <item>
-      <title>An OpenAI model has disproved a central conjecture in discrete geometry</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bf40d911137c</link>
-      <description>An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.</description>
-      <pubDate>Wed, 20 May 2026 19:05:30 GMT</pubDate>
-      <guid isPermaLink="false">bf40d911137c</guid>
-      <source url="https://openai.com/index/model-disproves-discrete-geometry-conjecture/">Hacker News</source>
+      <title>Więcej specjalistów, lepsze leczenie, ale wciąż nierówny dostęp. Ekspertka o wyzwaniach w obszarze alergologii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1bf3d6209d4f</link>
+      <description>Choć liczba alergologów w Polsce wydaje się wystarczająca, problemem pozostaje ich nierównomierne rozmieszczenie i dostępność opieki poza dużymi ośrodkami. Prof. Karina Jahnz-Różyk, konsultantka krajowa w dziedzinie alergologii, zwraca uwagę, że choroby alergiczne mogą dotyczyć nawet 40 proc. Polaków, a ich obraz zmienia się m.in. pod wpływem zmian klimatycznych.</description>
+      <pubDate>Thu, 21 May 2026 06:38:00 GMT</pubDate>
+      <guid isPermaLink="false">1bf3d6209d4f</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Wiecej-specjalistow-lepsze-leczenie-ale-wciaz-nierowny-dostep-Ekspertka-o-wyzwaniach-w-obszarze-alergologii,284504,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>NASA TechLeap Prize: Robotically Manipulated Payload Challenge</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c59302038ea7</link>
-      <description>The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for</description>
-      <pubDate>Wed, 20 May 2026 19:02:18 GMT</pubDate>
-      <guid isPermaLink="false">c59302038ea7</guid>
-      <source url="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/">NASA Breaking News</source>
+      <title>Kilometrówki, plecak i tajemnicze opisy. Tak posłowie wydają publiczne pieniądze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/45d92bafe4e2</link>
+      <description>Na usługi gastronomiczne 40 tysięcy złotych posła PiS, plecak, nawigacja i translatory uciekiniera Zbigniewa Ziobry czy kilometrówki wypisywane przez ministrów i wiceministrów, którzy często są wożeni przez kierowców. Patryk Michalski, autor programu &quot;News Michalskiego&quot;, przygotował własny ranking najciekawszych, najdziwniejszych i najbardziej kuriozalnych poselskich wydatków z publicznych pieniędzy. Kto jest rekordzistą?</description>
+      <pubDate>Thu, 21 May 2026 06:36:58 GMT</pubDate>
+      <guid isPermaLink="false">45d92bafe4e2</guid>
+      <source url="https://tvn24.pl/polska/ktory-posel-wydal-najwiecej-ranking-najciekawszych-i-najdziwniejszych-wydatkow-poselskich-st9058666?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Trump wants $1B to protect White House ballroom from drones and other threats</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8ded9c40f9fe</link>
-      <description>President asks $1B from taxpayers to secure his $400M privately funded ballroom.</description>
-      <pubDate>Wed, 20 May 2026 18:59:52 GMT</pubDate>
-      <guid isPermaLink="false">8ded9c40f9fe</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/">Ars Technica</source>
+      <title>Zderzenie trzech pojazdów na autostradzie A2</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0120a369a019</link>
+      <description>Pięć godzin zablokowana była autostrada A2 w kierunku Warszawy po zderzeniu dwóch ciężarówek i samochodu dostawczego pod Zgierzem (Łódzkie). Ranna została jedna osoba.</description>
+      <pubDate>Thu, 21 May 2026 06:33:47 GMT</pubDate>
+      <guid isPermaLink="false">0120a369a019</guid>
+      <source url="https://tvn24.pl/lodz/dabrowka-strumiany-zderzenie-trzech-pojazdow-na-autostradzie-a2-jedna-osoba-ranna-st9058763?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Generał o decyzjach Pentagonu: dajemy sygnał, że się boimy, a nie powinniśmy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d7338d6acf79</link>
-      <description>Prezydent Trump chciał obudzić Europę i mu się to udało - powiedział generał brygady, dr Jarosław Kraszewski w &quot;Faktach po Faktach&quot;, komentując decyzję administracji USA dotyczącą obecności amerykańskich wojsk w Europie. - Jedna brygada nie zachwieje równowagą sił - ocenił.</description>
-      <pubDate>Wed, 20 May 2026 18:51:34 GMT</pubDate>
-      <guid isPermaLink="false">d7338d6acf79</guid>
-      <source url="https://tvn24.pl/polska/usa-wycofuja-czesc-wojsk-z-europy-general-kraszewski-jaroslaw-uspokaja-st9058545?source=rss">TVN24</source>
+      <title>Quo vadis, Trump? Ceny ropy rosną, końca konfliktu nie widać</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/611e06b4d291</link>
+      <description>Maklerzy alarmują, że w czwartek ceny ropy naftowej na globalnych giełdach rosną. To pokłosie tego, że Stany Zjednoczone i Iran grożą eskalacją konfliktu w obliczu trwającego od wielu tygodni impasu na Bliskim Wschodzie, który nie doprowadził na razie do żadnego rozwiązania.</description>
+      <pubDate>Thu, 21 May 2026 06:33:00 GMT</pubDate>
+      <guid isPermaLink="false">611e06b4d291</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-quo-vadis-trump-ceny-ropy-rosna-konca-konfliktu-nie-widac,nId,8087151">RMF24</source>
     </item>
     <item>
-      <title>&quot;Mamy gwarancje&quot;. Szef MON o żołnierzach USA w Polsce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ba41d4bc122</link>
-      <description>Trwa reorganizacja wojsk amerykańskich w Europie i Polska będzie uczestniczyła w procesie planowania - mówił w &quot;Kropce nad i&quot; w TVN24 wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz. Zapewniał również, że liczba amerykańskich żołnierzy w Polsce nie ulegnie zmniejszeniu. Komentował także ucieczkę Zbigniewa Ziobry do USA oraz sytuację wokół Globalnej Flotylli Sumud.</description>
-      <pubDate>Wed, 20 May 2026 18:51:31 GMT</pubDate>
-      <guid isPermaLink="false">7ba41d4bc122</guid>
-      <source url="https://tvn24.pl/polska/szef-mon-wladyslaw-kosiniak-kamysz-o-zolnierzach-usa-w-polsce-mamy-gwarancje-st9058535?source=rss">TVN24</source>
+      <title>Aplikacja zinterpretuje wyniki, oceni, czy jechać na SOR. Nowość dla pacjentów jeszcze w tym roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/13bd225a9460</link>
+      <description>Jeszcze w 2026 roku w Internetowym Koncie Pacjenta mogą pojawić się nowe funkcje oparte na sztucznej inteligencji – zapowiedział podczas posiedzenia senackiej Komisji Zdrowia dyrektor Centrum e-Zdrowia Łukasz Sosnowski. Chodzi m.in. o automatyczną interpretację wyników badań laboratoryjnych oraz narzędzie pomagające pacjentowi ocenić, czy wymaga pilnej pomocy medycznej.</description>
+      <pubDate>Thu, 21 May 2026 06:31:00 GMT</pubDate>
+      <guid isPermaLink="false">13bd225a9460</guid>
+      <source url="https://www.rynekzdrowia.pl/E-zdrowie/Aplikacja-zinterpretuje-wyniki-oceni-czy-jechac-na-SOR-Nowosc-dla-pacjentow-jeszcze-w-tym-roku,284549,7.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Bardzo poważna usterka w amerykańskich śmigłowcach bojowych Apache</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0b2fe223f4dc</link>
-      <description>Amerykańska armia prowadzi dochodzenie w sprawie poważnej usterki przekładni w śmigłowcach bojowych Apache AH-64E. Pentagon mierzy się z problemem w najgorszym możliwym momencie - braki w finansowaniu zmuszają dowództwo do drastycznego cięcia godzin nalotu pilotów oraz przyspieszonego wycofywania ze służby starszych modeli maszyn.</description>
-      <pubDate>Wed, 20 May 2026 18:49:33 GMT</pubDate>
-      <guid isPermaLink="false">0b2fe223f4dc</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-bardzo-powazna-usterka-w-amerykanskich-smiglowcach-bojowych-,nId,8087126">RMF24</source>
+      <title>Finał kultowego serialu wyjaśniony. Twórca the Boys tłumaczy dlaczego zmienił zakończenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fef8eb859768</link>
+      <description>Za nami finał serialu, który odmienił sposób ukazywania komiksowych superbohaterów. Jednakże twórca musiał jeszcze wyjaśnić, czemu postąpił inaczej niż w materiale źródłowym.</description>
+      <pubDate>Thu, 21 May 2026 06:30:28 GMT</pubDate>
+      <guid isPermaLink="false">fef8eb859768</guid>
+      <source url="https://antyweb.pl/final-kultowego-serialu-wyjasniony-tworca-the-boys-tlumaczy-dlaczego-zmienil-zakonczenie">Antyweb</source>
     </item>
     <item>
-      <title>Hulu set to keep existing as standalone streaming service and app (for now)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ce40df16d30f</link>
-      <description>Disney still has a lot of tech to unite and bundles to push.</description>
-      <pubDate>Wed, 20 May 2026 18:48:41 GMT</pubDate>
-      <guid isPermaLink="false">ce40df16d30f</guid>
-      <source url="https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/">Ars Technica</source>
+      <title>Polska ofensywa w Kongresie przynosi efekty. Nagła ewolucja planów Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/15ecb12904e0</link>
+      <description>Administracja Trumpa zamierzała całkowicie odwołać wysłanie brygady pancernej do Polski i nie zastępować jej, a teraz się z tym wstrzymali — powiedział w środę szef komisji sił zbrojnych Izby Reprezentantów Mike Rogers, cytowany przez portal NOTUS. Rogers spotkał się w środę z wiceszefem MON Pawłem Zalewskim.</description>
+      <pubDate>Thu, 21 May 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">15ecb12904e0</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Polska-ofensywa-w-Kongresie-przynosi-efekty-Nagla-ewolucja-planow-Trumpa-9136720.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Kowal: wzywam, żeby na poważnie włączył się ośrodek prezydencki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3373e4c9567c</link>
-      <description>Musimy mieć scenariusz na każdy wariant. Także taki, że zmniejszy się w przyszłości obecność amerykańska w Europie - powiedział w &quot;Faktach po Faktach&quot; w TVN24 szef sejmowej komisji spraw zagranicznych Paweł Kowal (KO). Zapowiedział, że niebawem poleci do swoich odpowiedników w USA oraz wezwał do takiego samego działania prezydenta Karola Nawrockiego.</description>
-      <pubDate>Wed, 20 May 2026 18:47:46 GMT</pubDate>
-      <guid isPermaLink="false">3373e4c9567c</guid>
-      <source url="https://tvn24.pl/polska/zolnierze-usa-w-polsce-pawel-kowal-wzywam-zeby-sie-na-powaznie-wlaczyl-osrodek-prezydencki-st9058556?source=rss">TVN24</source>
+      <title>Na obwodnicę wyjechał wózkiem inwalidzkim </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/82ae6458693f</link>
+      <description>Policjanci zatrzymali na obwodnicy Jarosławia (Podkarpacie) mężczyznę, który jechał elektrycznym wózkiem i odeskortowali go w bezpieczne miejsce. Na szczęście 57-latkowi nic się nie stało.</description>
+      <pubDate>Thu, 21 May 2026 06:25:22 GMT</pubDate>
+      <guid isPermaLink="false">82ae6458693f</guid>
+      <source url="https://tvn24.pl/rzeszow/jaroslaw-jechal-wozkiem-inwalidzkim-po-obwodnicy-st9058734?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Backlash over Department for Education videos with Gemma Collins </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/509d9ed1f556</link>
-      <description>The education secretary defends videos starring The Only Way Is Essex star promoting post-16 education.</description>
-      <pubDate>Wed, 20 May 2026 18:42:37 GMT</pubDate>
-      <guid isPermaLink="false">509d9ed1f556</guid>
-      <source url="https://www.bbc.com/news/articles/cd6pw448nqdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Koniec epoki Netanjahu? Izrael idzie na przyspieszone wybory</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a14cfea3913f</link>
+      <description>Izraelski parlament zatwierdził w środę projekt ustawy o samorozwiązaniu, co potencjalnie przyspieszy kolejne wybory parlamentarne o kilka tygodni. Według sondaży premier Benjamin Netanjahu może przegrać wybory, które zgodnie z prawem muszą odbyć się najpóźniej 27 października.</description>
+      <pubDate>Thu, 21 May 2026 06:23:00 GMT</pubDate>
+      <guid isPermaLink="false">a14cfea3913f</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Koniec-epoki-Netanjahu-Izrael-idzie-na-przyspieszone-wybory-9136705.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Chickens without eggs? De-extinction company creates artificial egg.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b52dc7516160</link>
-      <description>In the process, Colossal may have handed a useful tool to developmental biology.</description>
-      <pubDate>Wed, 20 May 2026 18:38:05 GMT</pubDate>
-      <guid isPermaLink="false">b52dc7516160</guid>
-      <source url="https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/">Ars Technica</source>
+      <title>I&apos;m trapped in a retirement flat with a £20k service charge. I fear I&apos;ll never sell</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3c947843dd2a</link>
+      <description>Hundreds of people contacted BBC News after a report found families were being left with service charge debts after inheriting properties.</description>
+      <pubDate>Thu, 21 May 2026 06:18:36 GMT</pubDate>
+      <guid isPermaLink="false">3c947843dd2a</guid>
+      <source url="https://www.bbc.com/news/articles/c9v38vk2j0no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
