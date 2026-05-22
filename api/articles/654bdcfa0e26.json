@@ -1,0 +1,13 @@
+{
+  "id": "654bdcfa0e26",
+  "title": "Bun support is now limited and deprecated",
+  "originalTitle": "Bun support is now limited and deprecated",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+  "publishedAt": "2026-05-22T17:24:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"issue-body-viewer\" data-team-hovercards-enabled=\"true\" data-turbolinks=\"false\" id=\"issue-body-viewer\"><p dir=\"auto\">Due to foreseeable compatibility and security issues, yt-dlp's support for Bun as an <a href=\"https://github.com/yt-dlp/ejs\"><code>ejs</code></a>-compatible JavaScript runtime is being both limited and deprecated.</p>\n<p dir=\"auto\">As of the next yt-dlp and/or ejs release, only Bun versions <code>1.2.11</code> through <code>1.3.14</code> will be supported. The rationale for this change is twofold:</p>\n<ol dir=\"auto\">\n<li>\n<p dir=\"auto\">The minimum required version is being raised from <code>1.0.31</code> to <code>1.2.11</code> because building the <code>ejs</code> package with a version earlier than <code>1.2.0</code> results in the ejs lockfile being ignored, which is a significant security concern for users when considering all of the recent npm supply chain attacks. Additionally, the support floor is being bumped to <code>1.2.11</code> instead of <code>1.2.0</code> because the <code>ejs</code> test suite cannot be run with versions of Bun earlier than <code>1.2.11</code>.</p>\n</li>\n<li>\n<p dir=\"auto\">Bun was recently rewritten in Rust using Claude, and its development seems to have taken a turn towards being fully vibe-coded. This is alarming and disappointing for a number of reasons, and frankly it seems like a future headache that we'd prefer to avoid. We are adding a support ceiling of version <code>1.3.14</code>, as that is the last release built from the original zig codebase.</p>\n</li>\n</ol>\n<p dir=\"auto\">Bun support will also be deprecated. This means that while yt-dlp will continue to support this narrower range of Bun versions for as long as they're able to meet the needs of yt-dlp and ejs, we reserve the right to completely drop support for Bun should it at any point become too burdensome to maintain.</p>\n<hr>\n<p dir=\"auto\">See <a href=\"https://github.com/yt-dlp/yt-dlp/wiki/EJS\">the EJS wiki article</a> for more information about supported JavaScript runtimes, but note that it has not yet been updated to reflect the changes announced in this post.</p></div></div>",
+  "image": "images/fd2793b5ea58.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
