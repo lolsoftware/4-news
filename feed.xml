@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 22 May 2026 20:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:39:12 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jest porozumienie między Meksykiem a UE. Zawarto umowę handlową</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02d9f4752873</link>
+      <description>​Unia Europejska i Meksyk podpisały w piątek w stolicy tego państwa umowę handlową na pierwszym od ponad dekady szczycie. Porozumienie ma m.in. znieść lub ograniczyć cła na produkty rolne z Europy takie jak sery, jaja, wieprzowinę i drób.</description>
+      <pubDate>Fri, 22 May 2026 21:21:39 GMT</pubDate>
+      <guid isPermaLink="false">02d9f4752873</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-jest-porozumienie-miedzy-meksykiem-a-ue-zawarto-umowe-handlo,nId,8087427">RMF24</source>
+    </item>
     <item>
       <title>Fizjoterapeuci po wyborach prezesa. Wiemy, kto pokieruje samorządem w kolejnej kadencji</title>
       <link>https://lolsoftware.github.io/4-news/#/article/15dc5806488e</link>
@@ -16,12 +24,92 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Fizjoterapeuci-po-wyborach-prezesa-Wiemy-kto-pokieruje-samorzadem-w-kolejnej-kadencji,284685,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Red Arrows to fly with fewer jets to preserve ageing fleet</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/db09bdfa8d09</link>
+      <description>The famous display team will fly with seven rather than nine aircraft for most of its displays.</description>
+      <pubDate>Fri, 22 May 2026 21:03:20 GMT</pubDate>
+      <guid isPermaLink="false">db09bdfa8d09</guid>
+      <source url="https://www.bbc.com/news/articles/cj9p8rvl0d0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c0bee0ec4ca4</link>
+      <description>You can now disco ball-ify your entire Pixel homescreen, says Google.</description>
+      <pubDate>Fri, 22 May 2026 21:02:36 GMT</pubDate>
+      <guid isPermaLink="false">c0bee0ec4ca4</guid>
+      <source url="https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Czołowi demokraci żądają wyjaśnień w sprawie Zbigniewa Ziobry. Napisali list do Marco Rubio</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e45e566d94e8</link>
+      <description>Demokraci domagają się od sekretarza stanu Marco Rubio wyjaśnień w sprawie wydania wizy Zbigniewowi Ziobrze. W liście, do którego dotarła agencja Reuters, Gregory Meeks i James Raskin ocenili, że przyznanie wizy stanowi &quot;bezprecedensowy poziom ingerencji w politykę wewnętrzną i systemy sądownicze dwóch długoletnich sojuszników USA&quot;.</description>
+      <pubDate>Fri, 22 May 2026 20:57:54 GMT</pubDate>
+      <guid isPermaLink="false">e45e566d94e8</guid>
+      <source url="https://tvn24.pl/swiat/demokraci-zadaja-wyjasnien-od-marco-rubio-w-sprawie-zbigniewa-ziobry-agencja-ujawnia-list-st9062339?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Polak na celowniku giganta. Jest filarem defensywy FC Porto</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6702ae74e3b9</link>
+      <description>​Polski piłkarz FC Porto Jakub Kiwior znalazł się na krótkiej liście obrońców, których chciałaby pozyskać FC Barcelona podczas tegorocznych wakacji. Priorytetem dla &quot;Dumy Katalonii&quot; ma być jednak włoski defensor Interu Mediolan Alessandro Bastoni - przekazał w piątek dziennikarz Matteo Moretto.</description>
+      <pubDate>Fri, 22 May 2026 20:52:59 GMT</pubDate>
+      <guid isPermaLink="false">6702ae74e3b9</guid>
+      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-polak-na-celowniku-giganta-jest-filarem-defensywy-fc-porto,nId,8087426">RMF24</source>
+    </item>
+    <item>
+      <title>How VCs and founders use inflated ‘ARR’ to crown AI startups </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/78d2e983135f</link>
+      <description>Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.</description>
+      <pubDate>Fri, 22 May 2026 20:40:48 GMT</pubDate>
+      <guid isPermaLink="false">78d2e983135f</guid>
+      <source url="https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Models.dev: open-source database of AI model specs, pricing, and capabilities</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ebfa3b20bd3</link>
+      <description>An open-source database of AI models. Contribute to anomalyco/models.dev development by creating an account on GitHub.</description>
+      <pubDate>Fri, 22 May 2026 20:26:07 GMT</pubDate>
+      <guid isPermaLink="false">0ebfa3b20bd3</guid>
+      <source url="https://github.com/anomalyco/models.dev">Hacker News</source>
+    </item>
+    <item>
+      <title>Naciska na Trumpa, mówi o Iranie. &quot;Musimy dokończyć to, co zaczęliśmy&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b0c0b09ba231</link>
+      <description>​Szef komisji sił zbrojnych Senatu USA Roger Wicker wezwał w piątek prezydenta Donalda Trumpa do wznowienia ataków na irańskie cele militarne. &quot;Musimy dokończyć to, co zaczęliśmy&quot; - zaapelował senator.</description>
+      <pubDate>Fri, 22 May 2026 20:23:42 GMT</pubDate>
+      <guid isPermaLink="false">b0c0b09ba231</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-naciska-na-trumpa-mowi-o-iranie-musimy-dokonczyc-to-co-zacze,nId,8087425">RMF24</source>
+    </item>
+    <item>
+      <title>Kumulacja w Eurojackpot rośnie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c2de7901e959</link>
+      <description>Piątkowe losowanie Eurojackpot ponownie nie przyniosło głównej wygranej. Oznacza to, że kumulacja rośnie do 520 milionów złotych. Oto wyniki losowania z 22 maja 2026 roku.</description>
+      <pubDate>Fri, 22 May 2026 20:23:28 GMT</pubDate>
+      <guid isPermaLink="false">c2de7901e959</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/eurojackpot-wyniki-z-22-maja-2026-roku-jakie-liczby-padly-w-trakcie-losowania-st9062319?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Producenci dodają na potęgę, nadciśnienie w gratisie. 8 lat badań potwierdziło</title>
       <link>https://lolsoftware.github.io/4-news/#/article/14f7639d89b3</link>
       <description>Nowe badanie wskazuje, że częste spożywanie żywności zawierającej konserwanty może wiązać się ze zwiększonym ryzykiem nadciśnienia tętniczego oraz chorób układu sercowo-naczyniowego. Naukowcy wskazali 8 najgroźniejszych substancji.</description>
       <pubDate>Fri, 22 May 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">14f7639d89b3</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Producenci-dodaja-na-potege-nadcisnienie-w-gratisie-8-lat-badan-potwierdzilo,284617,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Niebezpieczny składnik w suplementach. Wykryto THC z konopi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8def23b4ee0</link>
+      <description>Główny Inspektorat Sanitarny poinformował o wycofaniu z rynku kilku partii suplementu diety marki Green Out. Decyzja została podjęta po wykryciu substancji psychoaktywnej. GIS ostrzegł, że produkt stwarza ryzyko dla zdrowia.</description>
+      <pubDate>Fri, 22 May 2026 19:58:35 GMT</pubDate>
+      <guid isPermaLink="false">b8def23b4ee0</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/thc-w-suplementach-diety-sanepid-nakazal-wycofanie-produktow-green-out-st9062276?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Setki martwych ryb. Wszystko przez skwar</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fae8e8980bc8</link>
+      <description>Temperatura w Nowym Delhi, stolicy Indii, wzrosła w piątek do 40 stopni Celsjusza. W innych regionach kraju sięgnęła niemal 50 stopni. Przed skwarem wydano ostrzeżenia.</description>
+      <pubDate>Fri, 22 May 2026 19:51:05 GMT</pubDate>
+      <guid isPermaLink="false">fae8e8980bc8</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/fala-upalow-w-indiach-martwe-ryby-wszystko-przez-skwar-st9062292?source=rss">TVN24</source>
     </item>
     <item>
       <title>NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station</title>
@@ -104,6 +192,22 @@
       <source url="https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary">Hacker News</source>
     </item>
     <item>
+      <title>Pisklę dzięcioła wydostało się z pudełka i utknęło pod deską rozdzielczą</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5ec99066d199</link>
+      <description>Kobieta miała w samochodzie pisklę dzięcioła, które zamierzała oddać do ptasiego azylu. Ptak dostał się jednak pod deskę rozdzielczą. Pomogli policjanci, którzy uwolnili dzięcioła.</description>
+      <pubDate>Fri, 22 May 2026 19:15:49 GMT</pubDate>
+      <guid isPermaLink="false">5ec99066d199</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-nietypowa-interwencja-policji-uratowali-piskle-dzieciola-st9062251?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Pogoda na jutro - sobota 23.05. Będzie ciepło i pogodnie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5255f5606ffe</link>
+      <description>Pogoda na jutro, czyli na sobotę 23.05. W nocy pojawią się miejscami zamglenia i mgły. Dzień przyniesie pogodną aurę, a na termometrach zobaczymy maksymalnie 27 stopni Celsjusza.</description>
+      <pubDate>Fri, 22 May 2026 19:10:48 GMT</pubDate>
+      <guid isPermaLink="false">5255f5606ffe</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-23-05-bedzie-cieplo-i-pogodnie-st9062235?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Incydent w ukraińskiej elektrowni jądrowej. Nie tej, co zazwyczaj</title>
       <link>https://lolsoftware.github.io/4-news/#/article/989dff9270fe</link>
       <description>Południowoukraińska Elektrownia Jądrowa została częściowo odłączona od zewnętrznych źródeł zasilania - informuje Międzynarodowa Agencja Energii Atomowej. Przyczyną jest pożar w podstacji spowodowany &quot;działaniami wojennymi&quot;.</description>
@@ -136,12 +240,36 @@
       <source url="https://bun.com/bun-unsafe-audit">Hacker News</source>
     </item>
     <item>
+      <title>Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5c342a9f2109</link>
+      <description>Injection detectors deployed to protect LLM agents are calibrated on static, template-based payloads that announce themselves as override directives. We identify a systematic blind spot: when payloads are generated to mimic the domain vocabulary and authority structures of the target document, what we call domain camouflaged injection, standard detectors fail to flag them, with detection rates dropping from 93.8% to 9.7% on Llama 3.1 8B and from 100% to 55.6% on Gemini 2.0 Flash. We formalize this as the Camouflage Detection Gap (CDG), the difference in injection detection rate between static and camouflaged payloads. Across 45 tasks spanning three domains and two model families, CDG is large and statistically significant (chi^2 = 38.03, p &lt; 0.001 for Llama; chi^2 = 17.05, p &lt; 0.001 for Gemini), with zero reverse discordant pairs in either case. We additionally evaluate Llama Guard 3, a production safety classifier, which detects zero camouflage payloads (IDRcamouflage = 0.000), confirming that the blind spot extends beyond few-shot detectors to dedicated safety classifiers. We further show that multi-agent debate architectures amplify static injection attacks by up to 9.9x on smaller models, while stronger models show collective resistance. Targeted detector augmentation provides only partial remediation (10.2% improvement on Llama, 78.7% on Gemini), suggesting the vulnerability is architectural rather than incidental for weaker models. Our framework, task bank, and payload generator are released publicly.</description>
+      <pubDate>Fri, 22 May 2026 18:46:07 GMT</pubDate>
+      <guid isPermaLink="false">5c342a9f2109</guid>
+      <source url="https://arxiv.org/abs/2605.22001">Hacker News</source>
+    </item>
+    <item>
+      <title>Donald Trump nie pojedzie na ślub syna. Tłumaczy dlaczego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/406baa1e9399</link>
+      <description>Donald Trump przekazał, że nie pojedzie na ślub najstarszego syna - Donalda Trumpa Juniora z Bettiną Anderson. Amerykański prezydent podkreślił, że choć bardzo chciałby być tego dnia ze swoim synem i przyszłą synową, to &quot;ważnym jest, aby pozostał w Waszyngtonie w tym okresie&quot;.</description>
+      <pubDate>Fri, 22 May 2026 18:45:55 GMT</pubDate>
+      <guid isPermaLink="false">406baa1e9399</guid>
+      <source url="https://tvn24.pl/swiat/donald-trump-nie-pojedzie-na-slub-syna-tlumaczy-dlaczego-st9062239?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Police boast of hacking VPN where criminals &quot;believed themselves to be safe&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f7e4cc8ef545</link>
       <description>Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.</description>
       <pubDate>Fri, 22 May 2026 18:43:54 GMT</pubDate>
       <guid isPermaLink="false">f7e4cc8ef545</guid>
       <source url="https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Władysław Kosiniak-Kamysz: to moment, w którym redefiniuje się architektura bezpieczeństwa w Europie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ce67ba9de9af</link>
+      <description>Pracujemy z dowództwem sił amerykańskich w Europie nad rozlokowaniem wojsk USA na nowo na naszym kontynencie, w tym w Polsce - mówił w &quot;Faktach po Faktach&quot; w TVN24 wicepremier, szef MON Władysław Kosiniak-Kamysz. Komentował decyzję prezydenta Donalda Trumpa w sprawie żołnierzy USA w Polsce. Ocenił, że &quot;to jest moment, w którym redefiniuje się architektura bezpieczeństwa w Europie, a Polska odgrywa w tym ważną rolę&quot;.</description>
+      <pubDate>Fri, 22 May 2026 18:40:55 GMT</pubDate>
+      <guid isPermaLink="false">ce67ba9de9af</guid>
+      <source url="https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-to-moment-w-ktorym-redefiniuje-sie-architektura-bezpieczenstwa-w-europie-st9062228?source=rss">TVN24</source>
     </item>
     <item>
       <title>Trump is putting pressure on Cuba - why and to what end?</title>
@@ -166,6 +294,14 @@
       <pubDate>Fri, 22 May 2026 18:30:06 GMT</pubDate>
       <guid isPermaLink="false">6794e934353d</guid>
       <source url="https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Włamywacz z toporkiem próbował przebić się przez ścianę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/00edff83a706</link>
+      <description>W ręce policji wpadł mężczyzna podejrzany o włamanie do garażu domu jednorodzinnego w Ostrołęce. 46-latek toporkiem rozbijał ścianę, chcąc dostać się do części mieszkalnej.</description>
+      <pubDate>Fri, 22 May 2026 18:27:46 GMT</pubDate>
+      <guid isPermaLink="false">00edff83a706</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/ostroleka-probowal-wlamac-sie-do-domu-toporkiem-rozbijal-sciane-st9062197?source=rss">TVN24</source>
     </item>
     <item>
       <title>Zielona karta w USA na nowych zasadach. Nagła decyzja urzędu uderza w Polaków</title>
@@ -248,6 +384,14 @@
       <source url="https://www.rmf24.pl/regiony/krakow/news-w-krakowie-trwaja-poszukiwania-12-letniej-eli-dziewczynki-sz,nId,8087417">RMF24</source>
     </item>
     <item>
+      <title>Ziemia zatrzęsła się na hiszpańskich wyspach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffec725ca51c</link>
+      <description>Trzęsienie ziemi o magnitudzie 4,8 odnotowano w piątek rano w rejonie Wysp Kanaryjskich. Wstrząsy odczuwalne były na całej Gran Canarii oraz w częściach Fuerteventury i Teneryfy.</description>
+      <pubDate>Fri, 22 May 2026 18:07:55 GMT</pubDate>
+      <guid isPermaLink="false">ffec725ca51c</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/hiszpania-trzesienie-ziemi-na-wyspach-kanaryjskich-st9062213?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Fioletowe kwiaty zachwycają, ale uwaga: trująca jest każda tej część rośliny</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f50afa5b2481</link>
       <description>Ta roślina zachwyca zwisającymi kwiatami i szybko porasta pergole oraz elewacje. Nie każdy wie, że jest toksyczna. Dwa lata temu &quot;wygrała&quot; ranking na najbardziej trującą roślinę roku.</description>
@@ -262,150 +406,6 @@
       <pubDate>Fri, 22 May 2026 18:00:54 GMT</pubDate>
       <guid isPermaLink="false">e0d83dd5a620</guid>
       <source url="https://antyweb.pl/oplata-reprograficzna-ile-wyniesie">Antyweb</source>
-    </item>
-    <item>
-      <title>Before it comes down, what should be saved from the International Space Station?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f44370c3816b</link>
-      <description>National Air and Space Museum curators, NASA officials, an astronaut, an archeologist and others met for a series of panel discussions on preserving the ISS.</description>
-      <pubDate>Fri, 22 May 2026 17:59:29 GMT</pubDate>
-      <guid isPermaLink="false">f44370c3816b</guid>
-      <source url="https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Bodies of Italian divers did not have optimal equipment, says rescuer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9dc36e16c5c3</link>
-      <description>Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.</description>
-      <pubDate>Fri, 22 May 2026 17:54:11 GMT</pubDate>
-      <guid isPermaLink="false">9dc36e16c5c3</guid>
-      <source url="https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Kevin Warsh objął stery Fedu. Trump: Chcę, żebyś był niezależny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5ca9cd025da6</link>
-      <description>Prezydent USA Donald Trump powiedział w piątek nowemu przewodniczącemu Rezerwy Federalnej Kevinowi Warshowi, że chce by był „całkowicie niezależny” od niego. Warsh został oficjalnie zaprzysiężony przez prezydenta.</description>
-      <pubDate>Fri, 22 May 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="false">5ca9cd025da6</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kevin-Warsh-objal-stery-Fedu-Trump-Chce-zebys-byl-niezalezny-9138214.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Tulsi Gabbard resigns as US director of national intelligence</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b76da35cf76e</link>
-      <description>She is leaving the role of coordinating the US intelligence agencies on 30 June in order to help her husband, who was diagnosed with bone cancer.</description>
-      <pubDate>Fri, 22 May 2026 17:51:04 GMT</pubDate>
-      <guid isPermaLink="false">b76da35cf76e</guid>
-      <source url="https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Bliska współpracownica Trumpa rezygnuje. Podaje smutny powód</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5a2ab38167ab</link>
-      <description>Tulsi Gabbard, Dyrektor Wywiadu Narodowego Stanów Zjednoczonych, rezygnuje ze stanowiska. Decyzja ma związek z poważną chorobą jej męża, u którego zdiagnozowano rzadki nowotwór kości - informuje telewizja Fox News.</description>
-      <pubDate>Fri, 22 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="false">5a2ab38167ab</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-bliska-wspolpracownica-trumpa-rezygnuje-podaje-smutny-powod,nId,8087415">RMF24</source>
-    </item>
-    <item>
-      <title>Marketer that claimed it could tap devices for ad targeting will pay $880K settlement</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e17b91efbe54</link>
-      <description>Two additional marketing companies will also pay $25,000 each.</description>
-      <pubDate>Fri, 22 May 2026 17:48:03 GMT</pubDate>
-      <guid isPermaLink="false">e17b91efbe54</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Lukas Podolski kończy piłkarską karierę. Pożegna się meczem z Radomiakiem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5b82e5f7f254</link>
-      <description>​Urodzony w Gliwicach, piłkarski mistrz świata z reprezentacją Niemiec z 2014 roku i jeden z najlepszych piłkarzy w historii niemieckiego futbolu, Lukas Podolski kończy bogatą piłkarską karierę. Ostatni raz zagra w sobotę w meczu z Radomiakiem Radom, o czym poinformował Górnik Zabrze w opublikowanym komunikacie. Popularny &quot;Poldi&quot; od niedawna jest właścicielem zabrzańskiego klubu.</description>
-      <pubDate>Fri, 22 May 2026 17:45:30 GMT</pubDate>
-      <guid isPermaLink="false">5b82e5f7f254</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-lukas-podolski-konczy-pilkarska-kariere-pozegna-sie-meczem-z,nId,8087414">RMF24</source>
-    </item>
-    <item>
-      <title>F-35 już w Polsce. Historyczny moment w Łasku. Polska odbiera pierwsze myśliwce 5. generacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1932f6b39cbe</link>
-      <description>Przybycie pierwszych F-35 do Polski to wielki moment, który zmienia zdolności operacyjne całego wojska – ocenił w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał, że to symbol współpracy transatlantyckiej, w której Polska jest „absolutnym liderem”.</description>
-      <pubDate>Fri, 22 May 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">1932f6b39cbe</guid>
-      <source url="https://www.bankier.pl/wiadomosc/F-35-juz-w-Polsce-Historyczny-moment-w-Lasku-Polska-odbiera-pierwsze-mysliwce-5-generacji-9138202.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Karol Nawrocki: ponownie skieruję wniosek o referendum</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/775787bc884d</link>
-      <description>Prezydent Karol Nawrocki zapowiedział, że skieruje do Senatu &quot;drugi wniosek o referendum&quot; w sprawie unijnej polityki klimatycznej. Jak mówił w Bielanach-Jarosławach, &quot;zmienimy pytanie, jeśli ono jest nieodpowiednie&quot;.</description>
-      <pubDate>Fri, 22 May 2026 17:31:44 GMT</pubDate>
-      <guid isPermaLink="false">775787bc884d</guid>
-      <source url="https://tvn24.pl/polska/karol-nawrocki-ponownie-skieruje-wniosek-o-referendum-w-sprawie-unijnej-polityki-klimatycznej-st9062143?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Tu pociągi metra będą brały prysznic</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/31246cfaa234</link>
-      <description>Na krańcach warszawskiego Bemowa, na stacji techniczno-postojowej Mory trwają testy systemów i urządzeń, które są niezbędne do utrzymania taboru metra. Jednym z nich jest myjnia, gdzie pociągi metra będą czyszczone.</description>
-      <pubDate>Fri, 22 May 2026 17:25:34 GMT</pubDate>
-      <guid isPermaLink="false">31246cfaa234</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/bemowo/warszawa-miasto-pokazalo-myjnie-dla-pociagow-metra-miesci-sie-na-powstajacej-stacji-st9061750?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Bun support is now limited and deprecated</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/654bdcfa0e26</link>
-      <description>Due to foreseeable compatibility and security issues, yt-dlp&apos;s support for Bun as an ejs-compatible JavaScript runtime is being both limited and deprecated. As of the next yt-dlp and/or ejs release...</description>
-      <pubDate>Fri, 22 May 2026 17:24:12 GMT</pubDate>
-      <guid isPermaLink="false">654bdcfa0e26</guid>
-      <source url="https://github.com/yt-dlp/yt-dlp/issues/16766">Hacker News</source>
-    </item>
-    <item>
-      <title>Kevin Warsh nowym szefem amerykańskiego banku centralnego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/338cecd886da</link>
-      <description>Kevin Warsh został nowym szefem amerykańskiego banku centralnego - podał Reuters. W piątek w Białym Domu zaprzysiągł go prezydent Donald Trump.</description>
-      <pubDate>Fri, 22 May 2026 17:23:30 GMT</pubDate>
-      <guid isPermaLink="false">338cecd886da</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/usa-nowy-szef-fed-kevin-warsh-zaprzysiezony-przez-donalda-trumpa-st9062073?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Soaring solar and a surge in hydro push more coal off the US grid</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f5848e9ea2e4</link>
-      <description>The first data from 2026 seem to indicate that last year was an oddity.</description>
-      <pubDate>Fri, 22 May 2026 17:22:42 GMT</pubDate>
-      <guid isPermaLink="false">f5848e9ea2e4</guid>
-      <source url="https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Prezydent Nawrocki wymownie komentuje decyzję Trumpa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/065abb03c635</link>
-      <description>&quot;Prezydent Trump po raz kolejny pokazał, że złożone słowo polskiemu prezydentowi czy nasza bezpośrednia relacja jest relacją bardzo poważną&quot; - powiedział prezydent Karol Nawrocki podczas wystąpienia w Bielanach-Jarosławach (woj. mazowieckie). Chodzi o decyzję Donalda Trumpa dotyczącą wysłania do Polski 5 tys. amerykańskich żołnierzy.</description>
-      <pubDate>Fri, 22 May 2026 17:22:24 GMT</pubDate>
-      <guid isPermaLink="false">065abb03c635</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-prezydent-nawrocki-wymownie-komentuje-decyzje-trumpa,nId,8087413">RMF24</source>
-    </item>
-    <item>
-      <title>Milionowe wypłaty w PZU. Wiemy, kto zarobił najwięcej </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/55324f97c0ef</link>
-      <description>Wynagrodzenie członków zarządu PZU w ub.r. wyniosło blisko 16,2 mln zł; najwięcej zarobił Tomasz Kulik - ponad 2,5 mln zł - wynika ze sprawozdania, które spółka opublikowała w piątek. Obecny prezes PZU Bogdan Benczak, który od września ub.r. był p.o. prezesa otrzymał prawie 449 tys. zł.</description>
-      <pubDate>Fri, 22 May 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="false">55324f97c0ef</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Milionowe-wyplaty-w-PZU-Wiemy-kto-zarobil-najwiecej-9138183.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>&quot;To kwestia czasu&quot;. Norwegia nie ma złudzeń ws. USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f8adcf36edf</link>
-      <description>​Państwa NATO spodziewają się nadejścia informacji, w jaki sposób Stany Zjednoczone ograniczą swoją obecność w Europie. Bo to, że ona nastąpi, jest przesądzone; aby zachować silne NATO, Europa musi się wzmocnić - powiedział w piątkowym wywiadzie dla dziennika &quot;VG&quot; szef norweskiego MSZ Espen Barth Eide.</description>
-      <pubDate>Fri, 22 May 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="false">9f8adcf36edf</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-to-kwestia-czasu-norwegia-nie-ma-zludzen-ws-usa,nId,8087412">RMF24</source>
-    </item>
-    <item>
-      <title>1940 Air Terminal Museum Begins Liquidation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d380353c821</link>
-      <description>We own 3 full size, full motion simulators and they are available for purchase:  Southwest&apos;s first 737-200 simulator - donated by Southwest Beechcraft King Air 200 - donated by FlightSafety Hawker 700 - donated by FlightSafety  Each of these comes with all the associated computer cabinets that was u</description>
-      <pubDate>Fri, 22 May 2026 17:05:32 GMT</pubDate>
-      <guid isPermaLink="false">3d380353c821</guid>
-      <source url="https://www.1940airterminal.org/news/liquidation-of-simulators">Hacker News</source>
-    </item>
-    <item>
-      <title>Pierwszy zwiastun wyczekiwanego spin-offu kultowej serii. Prime Video z murowanym hitem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/53c53f50190a</link>
-      <description>Prime Video wraca do świata The Boys, ale zamiast iść do przodu – cofa się do lat 50. Vought Rising szybko wypełni pustkę po świeżo zakończonym głównym serialu.</description>
-      <pubDate>Fri, 22 May 2026 17:01:40 GMT</pubDate>
-      <guid isPermaLink="false">53c53f50190a</guid>
-      <source url="https://antyweb.pl/pierwszy-zwiastun-wyczekiwanego-spin-offu-kultowej-serii-prime-video-z-murowanym-hitem">Antyweb</source>
     </item>
   </channel>
 </rss>
