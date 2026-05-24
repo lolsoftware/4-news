@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 24 May 2026 10:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 11:45:16 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Do końca nie wiedzą, czy dziecko z niepełnosprawnością dojedzie do szkoły</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b194663e7114</link>
+      <description>Dowozy uczniów z niepełnosprawnością do szkół budzą zastrzeżenia zarówno rodziców, jak i samorządów, a nawet przedsiębiorstw przewozowych. Biuro Rzecznika Praw Obywatelskich rozłożyło zagadnienie na czynniki pierwsze, a teraz pragnie porozmawiać o koniecznych kierunkach zmian - wyjaśnia Dorota Beker, ekspertka prawna w Zespole ds. Równego Traktowania BRPO.</description>
+      <pubDate>Sun, 24 May 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="false">b194663e7114</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Do-konca-nie-wiedza-czy-dziecko-z-niepelnosprawnoscia-dojedzie-do-szkoly,284595,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Portfel Google przejdzie duże zmiany. Ułatwi nam życie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd76a7317da8</link>
+      <description>Google I/O 2026 przyniosło nam całe mnóstwo ekscytujących zapowiedzi, ale niektóre z najważniejszych nowości wdrażane są po cichu, bez zbędnego rozgłosu.</description>
+      <pubDate>Sun, 24 May 2026 11:00:28 GMT</pubDate>
+      <guid isPermaLink="false">cd76a7317da8</guid>
+      <source url="https://antyweb.pl/portfel-google-przejdzie-duze-zmiany-ulatwi-nam-zycie">Antyweb</source>
+    </item>
     <item>
       <title>„Żegnaj piesku”. Tyle trzeba zapłacić za pochówek czworonożnego przyjaciela</title>
       <link>https://lolsoftware.github.io/4-news/#/article/93c43eef0aa9</link>
@@ -38,6 +54,38 @@
       <pubDate>Sun, 24 May 2026 10:52:00 GMT</pubDate>
       <guid isPermaLink="false">23dd8a9f5ca2</guid>
       <source url="https://www.bankier.pl/wiadomosc/Kryptowaluty-czarna-magia-Ponad-40-proc-Polakow-nie-wie-co-o-nich-myslec-9138532.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Brytyjczycy muszą przebudować kraj. Wielka Brytania niegotowa na zmiany klimatyczne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3d36ef546d69</link>
+      <description>Globalne ocieplenie zagraża brytyjskiemu sposobowi życia - ostrzega Komisja ds. Zmian Klimatycznych (CCC). Środowy raport zaleca przebudowę szkół i szpitali oraz wprowadzenie limitów temperatury w miejscach pracy.</description>
+      <pubDate>Sun, 24 May 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="false">3d36ef546d69</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wielka-Brytania-niegotowa-na-zmiany-klimatyczne-Brytyjczycy-musza-przebudowac-kraj-9136392.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>BBC at the site of China&apos;s worst mining disaster in more than a decade</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51605926c92b</link>
+      <description>At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.</description>
+      <pubDate>Sun, 24 May 2026 10:34:52 GMT</pubDate>
+      <guid isPermaLink="false">51605926c92b</guid>
+      <source url="https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Seven flotilla activists detained in Israel arrive back in UK  </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/16eb80f75579</link>
+      <description>Activists from the flotilla have made numerous allegations of abuse and mistreatment, which the Israeli government denies.</description>
+      <pubDate>Sun, 24 May 2026 10:29:09 GMT</pubDate>
+      <guid isPermaLink="false">16eb80f75579</guid>
+      <source url="https://www.bbc.com/news/articles/c78krdgxl91o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Scientists discover atoms suddenly spinning backward in quantum experiment</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c4b863c9212</link>
+      <description>Scientists have directly watched angular momentum move through a crystal for the very first time — and discovered a bizarre twist along the way. Using ultra-powerful terahertz laser pulses, researchers triggered tiny atomic rotations inside a quantum material and found that the direction of rotation can unexpectedly flip as momentum is transferred. The strange reversal happens because of the crystal’s underlying symmetry, creating an almost impossible-sounding effect where two rotations combine into one spinning the opposite way.</description>
+      <pubDate>Sun, 24 May 2026 10:21:18 GMT</pubDate>
+      <guid isPermaLink="false">7c4b863c9212</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/05/260523103903.htm">ScienceDaily</source>
     </item>
     <item>
       <title>Policjanci zatrzymali lawetę. Kierowca miał cztery promile</title>
@@ -208,6 +256,15 @@
       <source url="https://www.rmf24.pl/sport/pilka-nozna/news-pudrowanie-trupa-przed-mundialem-stolica-zmienia-sie-w-insta,nId,8087706">RMF24</source>
     </item>
     <item>
+      <title>All Lean Books and Where to Find Them</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e022f9085298</link>
+      <description>Respecting traditions of the city I&apos;m currently in
+This could have been a classic &quot;Awesome Lean&quot; repo (like this), however I&apos;d much prefer reading subjective o...</description>
+      <pubDate>Sun, 24 May 2026 08:13:32 GMT</pubDate>
+      <guid isPermaLink="false">e022f9085298</guid>
+      <source url="https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ">Hacker News</source>
+    </item>
+    <item>
       <title>Motoryzacja w Polsce pod ścianą. Zwolnienia przyspieszają, znamy czarną listę branż</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a84249656f3b</link>
       <description>2025 r. był trudny dla polskiej i europejskiej motoryzacji z powodu konkurencji chińskich marek, spowolnienia elektromobilności i napięć geopolitycznych – wynika z raportu AutomotiveSuppliers.pl. Mimo to produkcja sprzedana polskiego przemysłu motoryzacyjnego wzrosła o 2,9 proc. do 226,7 mld zł.</description>
@@ -350,62 +407,6 @@
       <pubDate>Sun, 24 May 2026 06:45:10 GMT</pubDate>
       <guid isPermaLink="false">e429e9baceff</guid>
       <source url="https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-temperatura-zbiornika-z-toksyczna-substancja-rosnie-to-bardzo-zla-informacja-st9063580?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Piekło w Kijowie po zmasowanym ataku. Putin użył nowej, niszczycielskiej broni?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8cd6aa9fdf2e</link>
-      <description>Co najmniej cztery osoby nie żyją, a 53 odniosły obrażenia w wyniku zmasowanego ataku na Kijów i obwód kijowski przeprowadzonego przez Rosję w nocy z soboty na niedzielę - przekazały lokalne władze. Uszkodzone zostały budynki mieszkalne w siedmiu z 10 dzielnic miasta.</description>
-      <pubDate>Sun, 24 May 2026 06:35:00 GMT</pubDate>
-      <guid isPermaLink="false">8cd6aa9fdf2e</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Pieklo-w-Kijowie-po-zmasowanym-ataku-Putin-uzyl-nowej-niszczycielskiej-broni-9138503.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>12 milionów złotych do wygrania w Lotto</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2d17e2f8a9d2</link>
-      <description>W sobotnim losowaniu Lotto nikomu nie udało się wytypować poprawnie wszystkich sześciu liczb. Kumulacja w Lotto wzrosła do 12 milionów złotych. Oto wyniki Lotto i Lotto Plus z 23 maja 2026 roku.</description>
-      <pubDate>Sun, 24 May 2026 06:33:14 GMT</pubDate>
-      <guid isPermaLink="false">2d17e2f8a9d2</guid>
-      <source url="https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-23-maja-2026-takie-liczby-padly-w-trakcie-ostatniego-losowania-st9063595?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Odprawa rządu i służb. Premier zabrał głos</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d9b20f0aa703</link>
-      <description>Priorytetem jest szybka identyfikacja i zatrzymanie tych, którzy odpowiadają za ostatnie prowokacje - powiedział premier Donald Tusk na początku odprawy rządu i służb. Odbywa się ona w związku z fałszywym zgłoszeniu o pożarze, po którym do domu rodzinnego prezydenta Karola Nawrockiego w Gdańsku &quot;siłowo weszli&quot; strażacy. Tusk mówił też o potrzebie &quot;przeglądu wszystkich procedur&quot;.</description>
-      <pubDate>Sun, 24 May 2026 06:25:00 GMT</pubDate>
-      <guid isPermaLink="false">d9b20f0aa703</guid>
-      <source url="https://tvn24.pl/polska/odprawa-rzadu-i-sluzb-donald-tusk-zabral-glos-ws-falszywego-zgloszenia-i-wejscia-strazakow-do-domu-rodzinnego-prezydenta-st9063581?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Referendum w Krakowie. Ważą się losy prezydenta i rady miasta</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c923337ab871</link>
-      <description>W Krakowie o godzinie 07:00 rozpoczęło się referendum, w którym mieszkańcy Krakowa zdecydują, czy ze stanowiskiem pożegna się prezydent miasta Aleksander Miszalski (KO) oraz odwołana zostanie urzędująca rada miejska. Głosowanie będzie ważne, jeśli do urn pójdzie około 27 procent wyborców.</description>
-      <pubDate>Sun, 24 May 2026 06:23:00 GMT</pubDate>
-      <guid isPermaLink="false">c923337ab871</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-referendum-w-krakowie-waza-sie-losy-prezydenta-i-rady-miasta,nId,8087701">RMF24</source>
-    </item>
-    <item>
-      <title>Zapomnij o 10 tys. kroków. Ta japońska metoda daje lepsze efekty w krótszym czasie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4a133eccdb41</link>
-      <description>Przez lata wmawiano nam, że magiczną granicą zdrowia jest 10 000 kroków dziennie. Okazuje się, że byliśmy w błędzie. Badania naukowe dowodzą, że od morderczych dystansów znacznie ważniejsza jest jakość naszego ruchu. Z Japonii nadchodzi właśnie nowa metoda aktywności, która rzuca wyzwanie dotychczasowym trendom fitness. Zamiast liczyć tysiące kroków, Japończycy postawili na prosty trik ze zmianą tempa. Efekt? Szybsze odchudzanie, niższe ciśnienie i lepsza kondycja w zaledwie 30 minut.</description>
-      <pubDate>Sun, 24 May 2026 06:17:19 GMT</pubDate>
-      <guid isPermaLink="false">4a133eccdb41</guid>
-      <source url="https://www.rmf24.pl/ciekawostki/news-zapomnij-o-10-tys-krokow-ta-japonska-metoda-daje-lepsze-efek,nId,8087086">RMF24</source>
-    </item>
-    <item>
-      <title>Suspect killed after opening fire on Secret Service near White House</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cb876b573d3a</link>
-      <description>Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.</description>
-      <pubDate>Sun, 24 May 2026 06:15:32 GMT</pubDate>
-      <guid isPermaLink="false">cb876b573d3a</guid>
-      <source url="https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Najmniejszy park narodowy jest tuż obok Krakowa. Dawniej nazywano &quot;Polską Szwajcarią&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c0c049ab6d3</link>
-      <description>Choć jest najmniejszym parkiem narodowym w Polsce, kryje w sobie więcej tajemnic niż niejedna ogromna puszcza. Ojcowski Park Narodowy - położony zaledwie kilkanaście kilometrów od Krakowa - to prawdziwe królestwo jaskiń, rzadkich gatunków zwierząt i zachwycających formacji skalnych z Maczugą Herkulesa na czele. Poznaj sekrety miejsca, które dawniej nazywano &quot;Polską Szwajcarią&quot; i dowiedz się, dlaczego tamtejsze mroczne groty przyciągają miliony turystów.</description>
-      <pubDate>Sun, 24 May 2026 06:15:16 GMT</pubDate>
-      <guid isPermaLink="false">3c0c049ab6d3</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-najmniejszy-park-narodowy-jest-tuz-obok-krakowa-dawniej-nazy,nId,8087207">RMF24</source>
     </item>
   </channel>
 </rss>
