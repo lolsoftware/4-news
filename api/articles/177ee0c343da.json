@@ -1,0 +1,13 @@
+{
+  "id": "177ee0c343da",
+  "title": "Exit IP VPN servers mitigation rollout",
+  "originalTitle": "Exit IP VPN servers mitigation rollout",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+  "publishedAt": "2026-05-25T17:45:11.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"main\"><article><header> <!--[0--><p><!--[--><a href=\"https://mullvad.net/en/help?Topic=privacy\">Privacy</a><!---->&nbsp;<!--]--><!----></p><!--]--> <p><!--[0-->Last updated: <time datetime=\"2026-05-25T11:47:34.376Z\">May 25, 2026</time><!--]--><!----></p></header> <div><!----><p>Below are the servers with the <a href=\"https://mullvad.net/blog/exit-ip-fingerprinting-between-vpn-servers\">new mitigation</a> applied.&nbsp;</p>\n<ul>\n<li>au-mel-wg-402</li>\n<li>au-syd-wg-001</li>\n<li>ca-mtr-wg-302</li>\n<li>de-fra-wg-103</li>\n<li>fi-hel-wg-201</li>\n<li>fr-par-wg-101</li>\n<li>ie-dub-wg-101</li>\n<li>no-osl-wg-101</li>\n<li>se-sto-wg-208</li>\n<li>us-dal-wg-701</li>\n<li>us-lax-wg-002</li>\n<li>us-nyc-wg-601</li>\n<li>us-slc-wg-303</li>\n</ul><!----></div></article></div></div>",
+  "image": "images/fb94e60244bd.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
