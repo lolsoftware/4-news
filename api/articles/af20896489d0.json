@@ -1,0 +1,13 @@
+{
+  "id": "af20896489d0",
+  "title": "All of human cooking compressed into 2 megabytes",
+  "originalTitle": "All of human cooking compressed into 2 megabytes",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2605.22391",
+  "publishedAt": "2026-05-27T08:14:40.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2605.22391\">View PDF</a> <a href=\"https://arxiv.org/html/2605.22391v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>We present Epicure, a family of three sibling skip-gram ingredient embeddings retrained from scratch on a multilingual recipe corpus. We aggregate 4.14M recipes from 11 sources spanning seven languages, English, Chinese, Russian, Vietnamese, Spanish, Turkish, Indonesian, German, and Indian-English, and normalise the raw ingredient strings to 1,790 canonical entries via an LLM-augmented pipeline. A 203,508-edge ingredient-ingredient NPMI graph and an 80,019-edge typed FlavorDB ingredient-compound graph, 2,247 typed compound nodes across 15 categories, seed three Metapath2Vec variants that share architecture and hyperparameters and differ only in the random-walk schema: Cooc walks the co-occurrence graph only, Chem walks the typed compound metapaths only, and Core blends both via injected ingredient-ingredient walks at controlled mixing, placing each model at a distinct point on the chemistry-vs-recipe-context spectrum. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Josef Liyanjun Chen [<a href=\"https://arxiv.org/show-email/8ec3cb4e/2605.22391\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Thu, 21 May 2026 12:23:38 UTC (6,566 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
