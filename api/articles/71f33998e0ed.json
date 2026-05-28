@@ -1,0 +1,13 @@
+{
+  "id": "71f33998e0ed",
+  "title": "The Green Side of the Lua",
+  "originalTitle": "The Green Side of the Lua",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2601.16670",
+  "publishedAt": "2026-05-24T23:44:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2601.16670\">View PDF</a> <a href=\"https://arxiv.org/html/2601.16670v2\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>The United Nations' 2030 Agenda for Sustainable Development highlights the importance of energy-efficient software to reduce the global carbon footprint. Programming languages and execution models strongly influence software energy consumption, with interpreted languages generally being less efficient than compiled ones. Lua illustrates this trade-off: despite its popularity, it is less energy-efficient than greener and faster languages such as C.\n<br>This paper presents an empirical study of Lua's runtime performance and energy efficiency across 25 official interpreter versions and just-in-time (JIT) compilers. Using a comprehensive benchmark suite, we measure execution time and energy consumption to analyze Lua's evolution, the impact of JIT compilation, and comparisons with other languages. Results show that all LuaJIT compilers significantly outperform standard Lua interpreters. The most efficient LuaJIT consumes about seven times less energy and runs seven times faster than the best Lua interpreter. Moreover, LuaJIT approaches C's efficiency, using roughly six times more energy and running about eight times slower, demonstrating the substantial benefits of JIT compilation for improving both performance and energy efficiency in interpreted languages. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: João Saraiva [<a href=\"https://arxiv.org/show-email/b58071fe/2601.16670\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/2601.16670v1\" rel=\"nofollow\">[v1]</a></strong> Fri, 23 Jan 2026 11:40:30 UTC (2,146 KB)<br> <strong>[v2]</strong> Fri, 30 Jan 2026 07:52:17 UTC (2,143 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
