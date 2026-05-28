@@ -1,0 +1,13 @@
+{
+  "id": "31136bff8365",
+  "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+  "originalTitle": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+  "publishedAt": "2026-05-28T17:10:10.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Most of the Steam Deck imitators on the market right now use AMD silicon, specifically the Ryzen Z-series chips. These are the same chips AMD makes for regular laptops, but with different power settings better suited to a compact handheld system. There are handhelds based on Intel silicon (<a href=\"https://www.msi.com/Handheld/Claw-8-AI-Plus-Glacier-Blue-Edition-A2VMX\">MSI’s Claw</a> is the main one), but Intel hasn’t yet tried making silicon marketed specifically for that purpose.</p>\n<p>Today, the company is throwing its hat in the ring with two Intel Arc G-series processors, which will allow gaming handhelds to leverage the company’s <a href=\"https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/\">genuinely quite good</a> Arc B-series integrated GPUs. Intel says that several Arc G-series handhelds will arrive “starting in June 2026, with broader availability throughout the year.” These systems will include a new MSI Claw model, a <a href=\"https://news.acer.com/acer-expands-gaming-portfolio-with-predator-atlas-8-handheld-powered-by-intel\">Predator Atlas 8</a> from Acer, and a device from <a href=\"https://onexplayerstore.com/\">OneXPlayer</a>.</p>\n<p>Intel normally uses its “Arc” branding for integrated and dedicated GPUs, but in this case, the “Arc” brand encompasses the entire chip, including the CPU, GPU, NPU, and other components.</p>\n<p>The G-series chips are similar in many ways to <a href=\"https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/\">the Core Ultra Series 3 chips</a> (codenamed Panther Lake) that Intel is currently shipping in high-end thin-and-light laptops. They use the same CPU and GPU architectures and make use of Intel’s 18A manufacturing process (among others). But they ship with a slightly different combination of CPU and GPU cores that doesn’t quite match up with any of the Core Ultra processors.</p> </div></div>",
+  "image": "images/894b2852b224.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
