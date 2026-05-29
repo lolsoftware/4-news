@@ -1,0 +1,13 @@
+{
+  "id": "41df00c13273",
+  "title": "Botnet of more than 17 million devices dismantled",
+  "originalTitle": "Botnet of more than 17 million devices dismantled",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+  "publishedAt": "2026-05-29T18:46:33.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Authorities in the Netherlands said they dismantled a botnet that comprised more than 17 million devices and were managed by 200 servers in a joint operation by the police and the National Cyber Security Center.</p>\n<p>The action, <a href=\"https://www.ncsc.nl/nieuws/gezamenlijke-actie-politie-en-ncsc-legt-groot-botnetwerk-plat\">announced Thursday</a>, came about after a security researcher reported the sprawling network to authorities. The host infrastructure was located in the Netherlands.</p>\n<h2>Used for criminal purposes</h2>\n<p>“The police then seized several botnet servers from a hosting provider for investigation,” the NCSC said. “The botnet was taken offline by the provider because it was used for criminal purposes.”</p>\n<p>According to a <a href=\"https://nltimes.nl/2026/05/28/ncsc-dutch-police-disrupt-global-botnet-controlled-via-netherlands-based-servers\">report</a> Thursday by the NL Times, the botnet was linked to ASOCKS, a Russia-based company that provides residential proxy services. These services cater to people and organizations who want to obscure their locations or identities by proxying their Internet traffic through third-party devices. Proxy services are often used for illicit or unethical purposes such as performing DDoS attacks, running botnet command-and-control servers, operating phishing operations, and scraping website content.</p>\n<p>Ars was unable to independently confirm the NL Times report, but the claim checks out. Thursday’s NCSC post linked to a <a href=\"https://www.ncsc.nl/expertblogs/residential-proxies-en-hun-grote-impact-op-de-digitale-veiligheid-in-nederland\">separate post</a> that the nonprofit organization published a day earlier. That post, in turn, was updated to add a link to Thursday’s post. Wednesday’s post, headlined “Residential proxies and their major impact on digital security in the Netherlands,” warned: “Residential proxies are used to maintain anonymity and circumvent geographical restrictions. In this way, a Dutch organization can be attacked with Dutch proxies that have similarities with ‘regular’ traffic, making cybercrime mitigation more difficult.”</p> </div></div>",
+  "image": "images/9b8238a7a1af.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
