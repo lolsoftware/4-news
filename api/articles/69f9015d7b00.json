@@ -1,0 +1,13 @@
+{
+  "id": "69f9015d7b00",
+  "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+  "originalTitle": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://ajin.im/is/building/omen.ops/",
+  "publishedAt": "2026-05-30T19:23:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>The <b>Joseon</b> court — the dynasty that ruled <b>Korea</b> for five centuries (1392–1897) — watched and recorded eclipses, comets, droughts, floods, and tiger incursions as signs bearing on the Mandate of Heaven: Heaven's read on whether the dynasty should stand.</p> <p>This console logs those readings as operational telemetry — every entry a real record from the <span>朝鮮王朝實錄</span>.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

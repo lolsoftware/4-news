@@ -5,8 +5,56 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 30 May 2026 19:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 21:16:54 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This weekend’s two biggest movies were both directed by YouTubers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a92c95a059ff</link>
+      <description>The YouTube-to-prestige-horror pipeline is looking very strong.</description>
+      <pubDate>Sat, 30 May 2026 21:12:37 GMT</pubDate>
+      <guid isPermaLink="false">a92c95a059ff</guid>
+      <source url="https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Dron uderzył w elektrownię jądrową w Zaporożu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aa539f1292dc</link>
+      <description>Międzynarodowa Agencja Energii Atomowej (MAEA) poinformowała, że w elektrownię jądrową w Zaporożu – największy tego typu obiekt w Europie – uderzył dron. Według wstępnych ustaleń, bezzałogowiec trafił w budynek turbiny, powodując powstanie dziury w ścianie.</description>
+      <pubDate>Sat, 30 May 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="false">aa539f1292dc</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-dron-uderzyl-w-elektrownie-jadrowa-w-zaporozu,nId,8088704">RMF24</source>
+    </item>
+    <item>
+      <title>Kore: Binary File Format Optimized for Modern Data Systems (Open Source)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/200ca6c8ffa4</link>
+      <description>Contribute to arunkatherashala/Kore development by creating an account on GitHub.</description>
+      <pubDate>Sat, 30 May 2026 20:54:22 GMT</pubDate>
+      <guid isPermaLink="false">200ca6c8ffa4</guid>
+      <source url="https://github.com/arunkatherashala/Kore">Hacker News</source>
+    </item>
+    <item>
+      <title>Domain expertise has always been the real moat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e2dba8b881f7</link>
+      <description>Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner.</description>
+      <pubDate>Sat, 30 May 2026 20:40:57 GMT</pubDate>
+      <guid isPermaLink="false">e2dba8b881f7</guid>
+      <source url="https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/">Hacker News</source>
+    </item>
+    <item>
+      <title>Parallel Reconstruction of Lawful TLS Wiretapping</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/18383fa33403</link>
+      <description>Transport Layer Security (TLS) is the protocol involved in getting the lock icon to appear in your browser next to the URL. Under the hood it uses a bunch of really cool numbers for encryption. Some numbers are considered private and need securing; some are considered public and are fine for sharing. You can mix your numbers with other people’s numbers in such a way that you can verify a chain of trust. Ultimately, at the top of this chain there has to be an entity or entities that are implied to be trustworthy, so that the links further down the chain of numbers can inherit that trust. This is the role of a root Certificate Authority (CA) at the top (root) of the chain.</description>
+      <pubDate>Sat, 30 May 2026 19:47:36 GMT</pubDate>
+      <guid isPermaLink="false">18383fa33403</guid>
+      <source url="https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/">Hacker News</source>
+    </item>
+    <item>
+      <title>Jef Raskin, the Visionary Behind the Mac (2013)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c9d788269d82</link>
+      <description>Jef Raskin founded the Macintosh project at Apple, which led to the development of the Apple Mac and the popularisation of the graphical user-interface. He was Apple employee #31 and left the Macintosh team in mid-1981 after Steve Jobs took over the project. Jason Walsh: Before the Mac you were a professor of music. As […]</description>
+      <pubDate>Sat, 30 May 2026 19:42:33 GMT</pubDate>
+      <guid isPermaLink="false">c9d788269d82</guid>
+      <source url="https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/">Hacker News</source>
+    </item>
     <item>
       <title>Mężczyzna z podejrzeniem eboli w Brazylii</title>
       <link>https://lolsoftware.github.io/4-news/#/article/08ec95ee4334</link>
@@ -22,6 +70,14 @@
       <pubDate>Sat, 30 May 2026 19:24:00 GMT</pubDate>
       <guid isPermaLink="false">6322db433d1f</guid>
       <source url="https://www.rmf24.pl/regiony/news-armagedon-pogodowy-na-poludniu-polski-strazacy-walcza-ze-sku,nId,8088702">RMF24</source>
+    </item>
+    <item>
+      <title>Show HN: 500 years of Joseon court omens as an observability dashboard</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/69f9015d7b00</link>
+      <description>The Joseon court — the dynasty that ruled Korea for five centuries (1392–1897) — watched and recorded eclipses, comets, droughts, floods, and tiger incursions as signs bearing on the Mandate of Heaven: Heaven&apos;s read on whether the dynasty should stand.</description>
+      <pubDate>Sat, 30 May 2026 19:23:36 GMT</pubDate>
+      <guid isPermaLink="false">69f9015d7b00</guid>
+      <source url="https://ajin.im/is/building/omen.ops/">Hacker News</source>
     </item>
     <item>
       <title>Ebola rozszerza się poza Afrykę? Podejrzenie u pacjenta w Brazylii</title>
@@ -256,6 +312,14 @@
       <source url="https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture">Hacker News</source>
     </item>
     <item>
+      <title>Accenture to acquire Ookla</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55be36055689</link>
+      <description>Accenture has entered into an agreement to acquire Ookla, a global leader in network intelligence, competitive benchmarking and customer experience analytics.</description>
+      <pubDate>Sat, 30 May 2026 16:28:58 GMT</pubDate>
+      <guid isPermaLink="false">55be36055689</guid>
+      <source url="https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises">Hacker News</source>
+    </item>
+    <item>
       <title>Raheem Sterling arrested on suspicion of drug-driving</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b6df839fae8e</link>
       <description>Raheem Sterling has been arrested on suspicion of drug-driving after he allegedly crashed his car into motorway barriers.</description>
@@ -342,70 +406,6 @@
       <pubDate>Sat, 30 May 2026 15:39:00 GMT</pubDate>
       <guid isPermaLink="false">72a581de4f14</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-czerwona-farba-na-budynku-polskiego-konsulatu-w-usa-drugi-at,nId,8088693">RMF24</source>
-    </item>
-    <item>
-      <title>Tajemniczy huk w środku dnia. &quot;Co to było, do diabła?!&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/48937db39a83</link>
-      <description>Tajemniczy, głośny huk wywołał ogromne poruszenie wśród mieszkańców stanu Karolina Południowa. Nietypowe zdarzenie zostało zarejestrowane na nagraniu. To, co odpowiadało za ten rozległy dźwięk, wciąż pozostaje zagadką. Są jednak pewne hipotezy.</description>
-      <pubDate>Sat, 30 May 2026 15:36:24 GMT</pubDate>
-      <guid isPermaLink="false">48937db39a83</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-karolina-poludniowa-co-to-bylo-do-diabla-tajemniczy-huk-wywolal-poruszenie-mieszkancow-wideo-st9074492?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Windows 10 nie chce umierać. Rynek pokazuje twarde dane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2c6d486ed9d6</link>
-      <description>Windows 10 wciąż działa na wielu komputerach HP. Koniec wsparcia, ESU i wymagania Windows 11 mogą przyspieszyć wymianę sprzętu.</description>
-      <pubDate>Sat, 30 May 2026 15:30:36 GMT</pubDate>
-      <guid isPermaLink="false">2c6d486ed9d6</guid>
-      <source url="https://antyweb.pl/windows-10-nie-chce-umierac">Antyweb</source>
-    </item>
-    <item>
-      <title>I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d046b68f7c5</link>
-      <description>Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.</description>
-      <pubDate>Sat, 30 May 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">9d046b68f7c5</guid>
-      <source url="https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Trump&apos;s doctor says he&apos;s in excellent health - but are US presidents&apos; health checks a PR exercise?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f7f180aeb88</link>
-      <description>Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.</description>
-      <pubDate>Sat, 30 May 2026 15:06:01 GMT</pubDate>
-      <guid isPermaLink="false">5f7f180aeb88</guid>
-      <source url="https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>&quot;To polityczny akt oskarżenia wobec moich poprzedników&quot;. Kontrakt na Rosomaki podpisany</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b2fee60ff03d</link>
-      <description>Rosomak S.A. dostarczy Siłom Zbrojnym RP 48 specjalistycznych pojazdów wsparcia. Polska Grupa Zbrojeniowa poinformowała, że chodzi dokładnie o 30 wozów przystosowanych do ewakuacji medycznej oraz 18 wozów dowodzenia. Przy podpisaniu umowy w ramach unijnego programu SAFE w zakładach Rosomaka w Siemianowicach Śląskich był dziś obecny m.in. minister obrony narodowej, wicepremier Władysław Kosiniak-Kamysz. &quot;To polityczny akt oskarżenia wobec moich poprzedników&quot; - mówił.</description>
-      <pubDate>Sat, 30 May 2026 15:06:00 GMT</pubDate>
-      <guid isPermaLink="false">b2fee60ff03d</guid>
-      <source url="https://www.rmf24.pl/regiony/slaskie/news-to-polityczny-akt-oskarzenia-wobec-moich-poprzednikow-kontra,nId,8088691">RMF24</source>
-    </item>
-    <item>
-      <title>Najwyższa emerytura w Polsce. ZUS wypłaca mu 54 000 zł miesięcznie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d843eb8f0fb8</link>
-      <description>54 tysiące złotych brutto miesięcznie – tyle wynosi najwyższa emerytura wypłacana obecnie w Polsce. Okazuje się, że recepta na tak gigantyczne świadczenie jest jedna: ekstremalnie długa aktywność zawodowa. Polacy coraz chętniej idą w ślady rekordzistów, a liczba pracujących seniorów wzrosła w ostatniej dekadzie aż o połowę. Sprawdź, jak późniejsze przejście na emeryturę podnosi Twoje świadczenie i jakie limity zarobków obowiązują przy dorabianiu do budżetu.</description>
-      <pubDate>Sat, 30 May 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="false">d843eb8f0fb8</guid>
-      <source url="https://www.rmf24.pl/ekonomia/news-najwyzsza-emerytura-w-polsce-zus-wyplaca-mu-54-000-zl-miesie,nId,8088341">RMF24</source>
-    </item>
-    <item>
-      <title>11-latka na rowerze potrącona przez auto. Lądował śmigłowiec LPR</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d2949ca99f80</link>
-      <description>11-letnia rowerzystka została potrącona przez samochód w Nowym Głuchówku (woj. łódzkie). Dziewczynka została przetransportowana śmigłowcem do szpitala.</description>
-      <pubDate>Sat, 30 May 2026 15:03:27 GMT</pubDate>
-      <guid isPermaLink="false">d2949ca99f80</guid>
-      <source url="https://tvn24.pl/lodz/nowy-gluchowek-11-latka-na-rowerze-potracona-przez-auto-ladowal-smiglowiec-lpr-st9074566?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Oto nowy najdroższy kraj świata. Nawet Szwajcaria jest tańsza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c4e55e5eda8</link>
-      <description>Szwajcaria straciła status najdroższego państwa na globie. Z najnowszych analiz wynika, że nowym liderem drożyzny została Islandia, gdzie ceny są obecnie o 3 procent wyższe niż w kraju helweckim. Przepaść w stosunku do średniej unijnej jest porażająca i sięga aż 84 procent. Eksperci wskazują, że za drastyczny wzrost kosztów życia odpowiada przede wszystkim jedna gałąź gospodarki.</description>
-      <pubDate>Sat, 30 May 2026 15:03:00 GMT</pubDate>
-      <guid isPermaLink="false">6c4e55e5eda8</guid>
-      <source url="https://www.rmf24.pl/ekonomia/news-oto-nowy-najdrozszy-kraj-swiata-nawet-szwajcaria-jest-tansza,nId,8088213">RMF24</source>
     </item>
   </channel>
 </rss>
