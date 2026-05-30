@@ -1,0 +1,13 @@
+{
+  "id": "bf067eb2a6c0",
+  "title": "Internet będzie lepszy. AWS w końcu ma miejsce na oddech",
+  "originalTitle": "Internet będzie lepszy. AWS w końcu ma miejsce na oddech",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/internet-bedzie-lepszy-aws-w-koncu-ma-miejsce-na-oddech",
+  "publishedAt": "2026-05-30T03:45:49.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Amazon Web Service, w skrócie AWS, odpowiedzialny jest za sporą część Internetu. Jeżeli usługi Amazona padają, to z nimi również połowa sieci. Gigant wymyślił jednak rozwiązanie, które sprawi, że teraz Przepustowość będzie większa, a zużycie energii spadnie.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Jeżeli podejmujemy temat rozwoju Internetu, to raczej odbywa się to wszerz. Coraz mocniejsze procesory, sztuczna inteligencja, czy gigantyczne centra danych. Tymczasem prawdziwy problem często leży gdzie indziej. Nawet najszybszy serwer niewiele pomoże, jeśli dane nie są w stanie sprawnie przemieszczać się między tysiącami maszyn. Amazon właśnie pokazał, że znalazł sposób na rozwiązanie tego problemu.</p>  <h2>Amazon prezentuje RNG. Przepustowość danych wyższa o nawet 33 procent</h2> <p>Firma pochwaliła się nową architekturą sieciową dla swoich centrów danych AWS. Mowa tu o projekcie Resilient Network Graphs. Konkretne liczby robią wrażenie. Przepustowość rośnie o 33 procent, zużycie energii przez sieć spada o 40 procent, a liczba urządzeń sieciowych kurczy się o 69 procent. Oszczędności w kosztach infrastruktury sięgają nawet 45 procent. W skali globalnej floty serwerowni AWS-a to miliardy dolarów i solidny ubytek emisji CO₂.</p> <p>Całość opiera się na dwóch autorskich rozwiązaniach. Spraypoint to protokół routingu, który rozprasza ruch po wielu dostępnych ścieżkach. Oznacza to koniec z kurczowym trzymaniem się najkrótszej trasy, która akurat jest zapchana. ShuffleBox to pasywne urządzenie optyczne, które ujarzmia fizyczny chaos kabli światłowodowych, a bez niego losowa topologia na milionach połączeń byłaby logistycznym koszmarem.</p> <p>Amazon zaczął testy w Dublinie w 2024 roku, potem rozszerzył wdrożenie na Niemcy i Hiszpanię. Teraz RNG trafia do wszystkich nowych centrów danych i stanie się fundamentem przyszłych inwestycji.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/0584b766027d.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
