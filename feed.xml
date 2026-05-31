@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 31 May 2026 17:33:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 19:43:05 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brazil monitors two patients for possible Ebola infection  </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/58e961320088</link>
+      <description>If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.</description>
+      <pubDate>Sun, 31 May 2026 19:07:47 GMT</pubDate>
+      <guid isPermaLink="false">58e961320088</guid>
+      <source url="https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
     <item>
       <title>AOTMiT pokazała zarobki pielęgniarek. Różnice między grupami sięgają kilku tysięcy złotych</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1023275579a3</link>
@@ -14,6 +22,78 @@
       <pubDate>Sun, 31 May 2026 19:01:00 GMT</pubDate>
       <guid isPermaLink="false">1023275579a3</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/AOTMiT-pokazala-zarobki-pielegniarek-Roznice-miedzy-grupami-siegaja-kilku-tysiecy-zlotych,284954,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Codex just found a &quot;workaround&quot; of not having sudo on my PC</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dd55f06f3f5f</link>
+      <description>Something went wrong, but don’t fret — let’s give it another shot.</description>
+      <pubDate>Sun, 31 May 2026 18:57:48 GMT</pubDate>
+      <guid isPermaLink="false">dd55f06f3f5f</guid>
+      <source url="https://twitter.com/i/status/2060746160558543217">Hacker News</source>
+    </item>
+    <item>
+      <title>Flaga Izraela nad twierdzą krzyżowców. Najgłębsza ofensywa od ćwierć wieku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6dcb1bc6cca3</link>
+      <description>Kruche zawieszenie broni legło w gruzach. Izraelska armia sforsowała rzekę Litani i zajęła strategiczne wzgórze wraz z XII-wieczną twierdzą Beaufort w południowym Libanie. To najgłębsza lądowa ofensywa Tel Awiwu od ponad ćwierć wieku. Wydarzenie to wywołało natychmiastową reakcję społeczności międzynarodowej i stawia pod wielkim znakiem zapytania nadchodzące rozmowy pokojowe.</description>
+      <pubDate>Sun, 31 May 2026 18:52:05 GMT</pubDate>
+      <guid isPermaLink="false">6dcb1bc6cca3</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-flaga-izraela-nad-twierdza-krzyzowcow-najglebsza-ofensywa-od,nId,8088825">RMF24</source>
+    </item>
+    <item>
+      <title>Uwaga kierowcy, remont na S8 spowoduje duże utrudnienia. Oto objazdy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b3a9cf38fa77</link>
+      <description>Kierowcy muszą przygotować się na utrudnienia na drodze ekspresowej S8. Od poniedziałku 1 czerwca przez dwa miesiące na węźle Łask w Łódzkiem obowiązuje ograniczenie ruchu. Na drodze wojewódzkiej nr 473 remontowany będzie przejazd kolejowy i dlatego na węźle Łask można pojechać jedynie w kierunku Wadlewa. Jak ominąć utrudnienia?</description>
+      <pubDate>Sun, 31 May 2026 18:50:32 GMT</pubDate>
+      <guid isPermaLink="false">b3a9cf38fa77</guid>
+      <source url="https://www.rmf24.pl/regiony/lodz/news-uwaga-kierowcy-remont-na-s8-spowoduje-duze-utrudnienia-oto-o,nId,8088826">RMF24</source>
+    </item>
+    <item>
+      <title>Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fd0d0465e93e</link>
+      <description>Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  - viggy28/streambed</description>
+      <pubDate>Sun, 31 May 2026 18:43:05 GMT</pubDate>
+      <guid isPermaLink="false">fd0d0465e93e</guid>
+      <source url="https://github.com/viggy28/streambed">Hacker News</source>
+    </item>
+    <item>
+      <title>This weekend’s two biggest movies were both directed by YouTubers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0392e323f517</link>
+      <description>The YouTube-to-prestige-horror pipeline is looking very strong.</description>
+      <pubDate>Sun, 31 May 2026 18:34:58 GMT</pubDate>
+      <guid isPermaLink="false">0392e323f517</guid>
+      <source url="https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/">TechCrunch</source>
+    </item>
+    <item>
+      <title>‘This is fine’ artist KC Green reaches agreement with AI startup Artisan</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e16372767dc</link>
+      <description>The startup has apparently taken down the ads using KC Green&apos;s &quot;This is fine&quot; meme.</description>
+      <pubDate>Sun, 31 May 2026 18:28:17 GMT</pubDate>
+      <guid isPermaLink="false">6e16372767dc</guid>
+      <source url="https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Coraz bliżej ostateczna decyzja w sprawie zabiegu syna senatora. Ustalenia RMF FM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bdd87b7130e5</link>
+      <description>Jeszcze przed długim weekendem Narodowy Fundusz Zdrowia może wydać ostateczną decyzją w sprawie kary finansowej nałożonej na Szpital w Aleksandrowie Kujawskim - dowiedział się reporter RMF FM Michał Dobrołowicz. Chodzi o sprawę zabiegu syna senatora Tomasza Lenza. NFZ wykazał, że ten zabieg odbył się poza procedurą i poza kolejką, bez formalnej zgody. Lecznica ma zapłacić karę w wysokości 134. tysięcy złotych.</description>
+      <pubDate>Sun, 31 May 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bdd87b7130e5</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-coraz-blizej-ostateczna-decyzja-w-sprawie-zabiegu-syna-senat,nId,8088821">RMF24</source>
+    </item>
+    <item>
+      <title>Re: [PATCH] OOM_pardon, a.k.a. don&apos;t kill my xlock</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22f436abb857</link>
+      <description>From:     	      Andries Brouwer &lt;aebr-AT-win.tue.nl&gt; To:     	      Thomas Habets &lt;t [...]</description>
+      <pubDate>Sun, 31 May 2026 17:58:15 GMT</pubDate>
+      <guid isPermaLink="false">22f436abb857</guid>
+      <source url="https://lwn.net/Articles/104185/">Hacker News</source>
+    </item>
+    <item>
+      <title>&apos;Cancel it&apos;, Trump says after artists drop out of US Freedom 250 festival</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/27b241fe049d</link>
+      <description>Trump suggests holding a &quot;Make America Great Again&quot; rally instead after most headliners drop out of White-House-linked event.</description>
+      <pubDate>Sun, 31 May 2026 17:40:58 GMT</pubDate>
+      <guid isPermaLink="false">27b241fe049d</guid>
+      <source url="https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Arsenal fans turn streets red for victory parade</title>
@@ -38,6 +118,14 @@
       <pubDate>Sun, 31 May 2026 17:22:46 GMT</pubDate>
       <guid isPermaLink="false">80d84604a92d</guid>
       <source url="https://www.bbc.com/news/articles/c3r2e2wjz4lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>ONZ na skraju bankructwa. Miliardowe długi USA i Chin paraliżują organizację</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/013c0e3120b7</link>
+      <description>Organizacja Narodów Zjednoczonych bankrutuje - zaalarmował w niedzielę dziennik „Wall Street Journal”. Do kłopotów finansowych organizacji przyczyniają się zaległości finansowe USA i Chin, które wynoszą - odpowiednio - ponad 4 mld dolarów i 455 mln USD.</description>
+      <pubDate>Sun, 31 May 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="false">013c0e3120b7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/ONZ-na-skraju-bankructwa-Miliardowe-dlugi-USA-i-Chin-paralizuja-organizacje-9143115.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>Irlandia &quot;na celowniku&quot;. Plac zabaw rosyjskiego wywiadu i obawy w Londynie</title>
@@ -318,100 +406,6 @@
       <pubDate>Sun, 31 May 2026 14:30:32 GMT</pubDate>
       <guid isPermaLink="false">ea1e75ea30b4</guid>
       <source url="https://antyweb.pl/saturn-tajemnica-rozwiazanie">Antyweb</source>
-    </item>
-    <item>
-      <title>ONZ znalazła się na skraju bankructwa. USA mogą stracić głos</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a01076c1333</link>
-      <description>Organizacja Narodów Zjednoczonych stoi w obliczu poważnego kryzysu finansowego - informuje &quot;The Wall Street Journal&quot;. Stany Zjednoczone zalegają z płatnościami na ponad 4 miliardy dolarów, a Chiny opóźniają własne wpłaty, mimo deklaracji wsparcia. Sekretarz generalny ONZ Antonio Guterres ostrzega przed realną groźbą niewypłacalności już w połowie sierpnia.</description>
-      <pubDate>Sun, 31 May 2026 14:28:47 GMT</pubDate>
-      <guid isPermaLink="false">2a01076c1333</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-onz-znalazla-sie-na-skraju-bankructwa-usa-moga-stracic-glos,nId,8088815">RMF24</source>
-    </item>
-    <item>
-      <title>The solution might be cancelling my AI subscription</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/48509c9a2b6f</link>
-      <description>I am trying to think of a list of all the wonderful things I&apos;ve built with AI:</description>
-      <pubDate>Sun, 31 May 2026 14:23:30 GMT</pubDate>
-      <guid isPermaLink="false">48509c9a2b6f</guid>
-      <source url="https://thoughts.hmmz.org/2026-05-31.html">Hacker News</source>
-    </item>
-    <item>
-      <title>New solar desalination breakthrough makes fresh water without toxic brine</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77ad2a0fd2ed</link>
-      <description>Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing clogging. The process was successfully tested with water from three oceans and can recover nearly all salts as solids. Those leftover materials could even become a source of valuable lithium for batteries.</description>
-      <pubDate>Sun, 31 May 2026 14:22:38 GMT</pubDate>
-      <guid isPermaLink="false">77ad2a0fd2ed</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/05/260530053418.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Sześć osób, w tym troje dzieci, rannych w wypadku autobusu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d4387f59cdf8</link>
-      <description>Na ulicy Kopcińskiego w Łodzi doszło do zderzenia autobusu linii Z213 z samochodem osobowym. Sześć osób zostało poszkodowanych, troje z nich to dzieci.</description>
-      <pubDate>Sun, 31 May 2026 14:18:10 GMT</pubDate>
-      <guid isPermaLink="false">d4387f59cdf8</guid>
-      <source url="https://tvn24.pl/lodz/lodz-wypadek-na-kopcinskiego-szesc-osob-w-szpitalu-st9075413?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Cloudflare Turnstile requiring fingerprintable WebGL</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/265d9b7e6e17</link>
-      <description>Since about a week, Cloudflare Turnstile (their &quot;Verify you&apos;re human&quot;
-	device verification) has been looping indefinitely in my
-	webkit-gtk based browser.
-	Preventing access to quite few websites (previously, but it even went worse lately).
-	
-	Turns out it&apos;s because Cloudflare wants to have a fingerprint of your
-	device via WebGL, the only reason for doing this would be tracking.</description>
-      <pubDate>Sun, 31 May 2026 14:13:20 GMT</pubDate>
-      <guid isPermaLink="false">265d9b7e6e17</guid>
-      <source url="https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting">Hacker News</source>
-    </item>
-    <item>
-      <title>Podatkowa pułapka w PIT. &quot;System nie nadąża&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ffd26c9009f8</link>
-      <description>Już co dziesiąty Polak rozliczający PIT na zasadach ogólnych łapie się przynajmniej w przypadku części dochodów na wyższą stawkę podatkową. Jak wynika z rządowych danych, grupa ta w rok powiększyła się o niemal pół miliona osób. - System nie nadąża za zmianami gospodarczymi - mówi doradczyni podatkowa Joanna Narkiewicz-Tarłowska z Vialto Partners. Resort finansów zmian w przepisach jednak nie przewiduje.</description>
-      <pubDate>Sun, 31 May 2026 14:08:32 GMT</pubDate>
-      <guid isPermaLink="false">ffd26c9009f8</guid>
-      <source url="https://tvn24.pl/biznes/pieniadze/pit-2025-coraz-wiecej-polakow-w-drugim-progu-podatkowym-st9072373?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Colombia votes in presidential election that could redefine relations with US</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d66ad1db0370</link>
-      <description>The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.</description>
-      <pubDate>Sun, 31 May 2026 14:03:43 GMT</pubDate>
-      <guid isPermaLink="false">d66ad1db0370</guid>
-      <source url="https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Woman dies trying to rescue dog from sea</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/100d64462ade</link>
-      <description>The woman, in her 60s, died in hospital after getting into difficulty in the water, police say.</description>
-      <pubDate>Sun, 31 May 2026 13:58:00 GMT</pubDate>
-      <guid isPermaLink="false">100d64462ade</guid>
-      <source url="https://www.bbc.com/news/articles/c4g8l5l59eeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>I Put a Datacenter GPU in My Gaming PC for £200</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6773f89ed89</link>
-      <description>I bought a datacenter GPU that doesn&apos;t fit in a normal motherboard, macgyvered the fan with jumper wires, and now I&apos;m running a model that ties with Claude Sonnet 4.6 on benchmarks, all for £200.</description>
-      <pubDate>Sun, 31 May 2026 13:53:16 GMT</pubDate>
-      <guid isPermaLink="false">a6773f89ed89</guid>
-      <source url="https://blog.tymscar.com/posts/v100localllm/">Hacker News</source>
-    </item>
-    <item>
-      <title>Zawalił się szyb nielegalnej kopalni. Są ranni i ofiary śmiertelne</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f576dbe56d12</link>
-      <description>W nielegalnej kopalni doszło do zawalenia się szybu - poinformowały chińskie media państwowe, powołując się na lokalne władze. Według przekazanych informacji są ofiary śmiertelne i ranni.</description>
-      <pubDate>Sun, 31 May 2026 13:51:02 GMT</pubDate>
-      <guid isPermaLink="false">f576dbe56d12</guid>
-      <source url="https://tvn24.pl/swiat/chiny-zawalil-sie-szyb-nielegalnej-kopalni-sa-ofiary-smiertelne-i-ranni-st9075357?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nowy hit science-fiction od Apple to wydmuszka. Oglądam i łapię się za głowę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46457261de8d</link>
-      <description>Gwiezdne Miasteczko (Star City) miało przejąć płynnie schedę od Far All Mankind, ale w zamian za to zaoferowało nam miałką historię.</description>
-      <pubDate>Sun, 31 May 2026 13:50:50 GMT</pubDate>
-      <guid isPermaLink="false">46457261de8d</guid>
-      <source url="https://antyweb.pl/nowy-hit-science-fiction-od-apple-to-wydmuszka">Antyweb</source>
     </item>
   </channel>
 </rss>
