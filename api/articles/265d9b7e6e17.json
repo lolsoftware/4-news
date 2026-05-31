@@ -1,0 +1,13 @@
+{
+  "id": "265d9b7e6e17",
+  "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+  "originalTitle": "Cloudflare Turnstile requiring fingerprintable WebGL",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+  "publishedAt": "2026-05-31T14:13:20.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div xml:lang=\"en\" lang=\"en\">\n\n<p>\n\tSince about a week, Cloudflare Turnstile (their \"Verify you're human\"\n\tdevice verification) has been looping indefinitely in my\n\t<a href=\"https://hacktivis.me/projects/badwolf\">webkit-gtk based browser</a>.\n\tPreventing access to quite few websites (<a href=\"https://hacktivis.me/articles/blocking%20cloudflare%20IP-range%20be%20like\">previously</a>, but it even went worse lately).\n\t<br>\n\tTurns out it's because Cloudflare wants to have a fingerprint of your\n\tdevice via WebGL, the only reason for doing this would be tracking.\n</p> <p>\n\tTheir pro-tracking non-justification copied here just in case:\n\t</p><blockquote> Turnstile uses browser fingerprinting to verify you're human. Privacy tools that block or randomize fingerprinting make your browser look like a bot trying to hide its identity. Temporarily allowing fingerprinting for this site will fix the issue.\n\t</blockquote> <p>\n\tSuch things are blocked in WebKit, and have been for years.\n\tMeaning it's tracking so awful that even Apple would block it,\n\tand as far as I can tell it's not the kind of privacy protection\n\tyou can easily disable in it.<br>\n\tSo Cloudflare just <strong>banned all WebKitGTK browsers</strong> as I guess they\n\tput an exception for Safari.\n</p>\n\n<p>\n\tAs an aside, if you're wondering, Mozilla Firefox screwed up their\n\tWebGL fingerprinting protection:\n\t<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1916271\"> Bugzilla#1916271: Gecko reveals sanitized GPU Characteristics; webkit and blink return hardcoded strings for all users\n\t</a>\n</p> <p>\n\tPlus <code>privacy.resistfingerprinting</code> isn't enabled even\n\twhen selecting \"Strict\" \"Enhanced Privacy Protection\" in the settings,\n\tgreat job there Mozilla.<br>\n\tBut I guess with it enabled, privacy-conscious Firefox users might\n\tnot be able to pass Cloudflare's device verification in the future.\n</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
