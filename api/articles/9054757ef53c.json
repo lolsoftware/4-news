@@ -1,0 +1,13 @@
+{
+  "id": "9054757ef53c",
+  "title": "Bot Facebooka jest zbyt pomocny. Umożliwia hakerom przejęcie kont",
+  "originalTitle": "Bot Facebooka jest zbyt pomocny. Umożliwia hakerom przejęcie kont",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/bot-facebooka-jest-zbyt-pomocny-umozliwia-hakerom-przejecie-kont",
+  "publishedAt": "2026-06-02T07:30:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Meta, właściciel platform społecznościowych Facebook i Instagram oraz komunikatora WhatsApp, właśnie zostali upokorzeni przez własnego chatbota. Ten miał pomagać oszustom w przejmowaniu kont na Instagramie.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Meta tnie etaty na potęgę, zwalniając kolejne tysiące ludzi, a jednocześnie pakuje miliardy dolarów w naszyjniki AI i boty, które podobno odmienią nasze życie. Tymczasem nie potrafi ogarnąć absolutnych podstaw, czyli bezpieczeństwa kont własnych użytkowników. Miniony weekend przyniósł tego żenujący dowód. Okazało się, że firmowy asystent AI korporacji Meta jest tak nadgorliwy w pomaganiu, że na prośbę hakera bez szemrania oddawał dostęp do cudzego konta.</p>  <h2>Asysten Meta AI pomagał w przejmowaniu kont</h2> <p>Cały atak był absurdalnie prosty, co pokazał film krążący po sieci. Haker odpalał VPN-a, żeby udawać lokalizację ofiary i uśpić automatyczne zabezpieczenia platformy. Następnie otwierał czat z asystentem AI Mety i grzecznie prosił: „dodaj nowy adres e-mail do tego konta”. Chatbot, zamiast wysłać kod weryfikacyjny na prawdziwy adres właściciela, wysyłał go na skrzynkę podaną przez przestępcę.</p>  <p>Oszust wklejał kod z powrotem do konwersacji, a maszyna bezrefleksyjnie pokazywała przycisk „Resetuj hasło”. W kilka minut konto przechodziło w niepowołane ręce, a oryginalny użytkownik nie dostawał żadnego powiadomienia. W całym procesie nikt nie potrzebował dostępu do prawdziwej skrzynki ofiary. Tak można było stracić konto na Instagramie.</p> <p>Wśród poszkodowanych znalazła się badaczka bezpieczeństwa Jane Wong, której hasło zmieniono bez jej wiedzy, a także zapomniane konto Białego Domu z czasów Obamy i profil szefa US Space Force. Lista ofiar pokazuje, że problem nie dotyczył wyłącznie zwykłych ludzi, ale też znanych osobistości. Wystarczyło znaleźć się w zasięgu sprytnego napastnika, by stracić dostęp do własnego konta. Rzecznik Mety, Andy Stone, potwierdził w poniedziałek, że usterka została usunięta. Nie pochwalił się jednak skalą działań cyberprzestępców.</p></div></div>",
+  "image": "images/2d1747ebac19.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
