@@ -6,8 +6,8 @@
   "category": "Tech",
   "url": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
   "publishedAt": "2026-06-02T16:19:34.000Z",
-  "content": "<p>Sprite-based graphics architecture makes first-person 3D a challenge.</p>",
-  "image": null,
-  "readingTimeMin": 1,
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2>Neo Wolfenstein</h2>\n<p>While those limitations might hold back a Neo Geo <em>Doom</em> port, the system may still be able to handle a simpler FPS like <em>Wolfenstein 3D</em>. Modern Vintage Gamer put together a simple Neo Geo raycasting demo for a video that approximates that game’s 90-degree walls, flat floors, and ceilings.</p> <p>The raycaster works by sending out rays from the player’s position to detect the distance to the first wall the player can see in that line. That data then determines the heights and colors for each of a set of 80 4-pixel-wide sprites arranged horizontally across the display, which act as pieces of wall. Since the Neo Geo’s scaling hardware can efficiently stretch those sprites vertically without much overhead, the raycasting data can be quickly converted into a chunky approximation of a first-person view.</p>\n<p>MVG’s simple, unoptimized Neo Geo raycaster currently runs at just eight frames per second via emulation without any of <em>Wolfenstein 3D</em>‘s enemies or game logic. And the raycasting system would still be wildly insufficient for <em>Doom</em> elements like raised platforms, staircases, elevators, textured walls and ceilings, etc.</p>\n<p>For all those reasons, MVG believes the only practical way to get <em>Doom</em> running on a Neo Geo is to pack additional hardware into the cartridge, much like the Super FX2 chip that powered <a href=\"https://www.youtube.com/watch?v=9fTKGsq5Oa4\">the limited SNES port of the game</a>. Failing that kind of extra processing power, he wagers that the system will likely remain <em>Doom-</em>free for the foreseeable future.</p>\n<p>“I don’t want to say it’s impossible because as soon as you say that something is impossible, the gauntlet has been thrown down,” MVG added.</p> </div></div>",
+  "image": "images/ed2ae7e26d58.webp",
+  "readingTimeMin": 2,
   "titleStatus": "skipped"
 }

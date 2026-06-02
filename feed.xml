@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 22:30:36 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Starmer zabiera głos w sprawie śmierci Henry&apos;ego Nowaka. Burza w Wielkiej Brytanii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c8c0c99c08df</link>
+      <description>Premier Wielkiej Brytanii Sir Keir Starmer zapowiedział, że po ujawnieniu nagrania z zatrzymania Henry&apos;ego Nowaka konieczne jest wyjaśnienie działań policji. 18-letni student zmarł po tym, jak został zaatakowany nożem, a następnie skuty kajdankami i zignorowany przez funkcjonariuszy, mimo że wielokrotnie informował ich, że nie może oddychać. Kluczowym elementem sprawy pozostają fałszywe oskarżenia o rasizm, skierowane pod adresem ofiary.</description>
+      <pubDate>Tue, 02 Jun 2026 21:19:10 GMT</pubDate>
+      <guid isPermaLink="false">c8c0c99c08df</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-starmer-zabiera-glos-w-sprawie-smierci-henry-ego-nowaka-burz,nId,8089050">RMF24</source>
+    </item>
     <item>
       <title>Od 1 września zakaz smartfonów w podstawówkach. Rząd przyjął projekt</title>
       <link>https://lolsoftware.github.io/4-news/#/article/acbcbd4b3725</link>
@@ -14,6 +22,14 @@
       <pubDate>Tue, 02 Jun 2026 21:10:00 GMT</pubDate>
       <guid isPermaLink="false">acbcbd4b3725</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Od-1-wrzesnia-zakaz-smartfonow-w-podstawowkach-Rzad-przyjal-projekt,285042,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Microsoft&apos;s Project Solara is an Android OS designed for agents instead of apps</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/12400cd22d97</link>
+      <description>Microsoft missed the boat on apps, so get ready for agents.</description>
+      <pubDate>Tue, 02 Jun 2026 20:47:54 GMT</pubDate>
+      <guid isPermaLink="false">12400cd22d97</guid>
+      <source url="https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/">Ars Technica</source>
     </item>
     <item>
       <title>Koniec ubezwłasnowolnienia. Będzie nowy model wsparcia dla osób z niepełnosprawnościami</title>
@@ -24,12 +40,71 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Koniec-ubezwlasnowolnienia-Bedzie-nowy-model-wsparcia-dla-osob-z-niepelnosprawnosciami,285040,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>CT scans of BYD car parts</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b7baef1d132f</link>
+      <description>BYD sold 4.6M vehicles in 2025, but Americans can&apos;t buy one. We CT scanned four components from its lineup to reveal what vertical integration looks like at the part level.</description>
+      <pubDate>Tue, 02 Jun 2026 20:30:08 GMT</pubDate>
+      <guid isPermaLink="false">b7baef1d132f</guid>
+      <source url="https://www.lumafield.com/scan-of-the-month/byd">Hacker News</source>
+    </item>
+    <item>
+      <title>Pilny komunikat. GIF wstrzymuje obrót tymi kroplami do oczu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/da1553b1a495</link>
+      <description>Główny Inspektor Farmaceutyczny zdecydował o natychmiastowym wstrzymaniu obrotu produktem leczniczym Travoprost + Timolol Medical Valley w postaci kropli do oczu. Powodem są uzasadnione podejrzenia, że lek nie spełnia wymagań jakościowych.</description>
+      <pubDate>Tue, 02 Jun 2026 20:24:36 GMT</pubDate>
+      <guid isPermaLink="false">da1553b1a495</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-pilny-komunikat-gif-wstrzymuje-obrot-tymi-kroplami-do-oczu,nId,8089049">RMF24</source>
+    </item>
+    <item>
       <title>Onkologia XXI wieku: indywidualne leczenie zamiast &quot;wojny z rakiem&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5418fc2d34da</link>
       <description>Zamiast mówić o &quot;walce z rakiem&quot;, lepiej mówić o skutecznym zwalczaniu choroby nowotworowej - przekonywali eksperci podczas spotkania towarzyszącego startowi kampanii edukacyjnej o glejaku &quot;Widzimy się jutro. Glejak. Choruję. Jestem…&quot;.</description>
       <pubDate>Tue, 02 Jun 2026 20:21:49 GMT</pubDate>
       <guid isPermaLink="false">5418fc2d34da</guid>
       <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Onkologia-XXI-wieku-indywidualne-leczenie-zamiast-wojny-z-rakiem,285041,1013.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Cyberdecks are having a moment, rejecting big tech surveillance with style and substance</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9df576980999</link>
+      <description>Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.</description>
+      <pubDate>Tue, 02 Jun 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">9df576980999</guid>
+      <source url="https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51a3f3628099</link>
+      <description>Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.</description>
+      <pubDate>Tue, 02 Jun 2026 20:17:41 GMT</pubDate>
+      <guid isPermaLink="false">51a3f3628099</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Poseł PiS Marcin Porzucek pijany na lotnisku. &quot;Bardzo przykry i bardzo smutny obraz&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b9c3d3aeff74</link>
+      <description>Bardzo smutny widok, bo to jest obraz części polskiego parlamentaryzmu - tak Krzysztof Brejza skomentował w &quot;Kropce nad i&quot; w TVN24 incydent na warszawskim lotnisku z udziałem posła PiS Marcina Porzucka. Ryszard Petru ocenił, że to &quot;wpływa na wizerunek całej klasy politycznej&quot;.</description>
+      <pubDate>Tue, 02 Jun 2026 20:08:46 GMT</pubDate>
+      <guid isPermaLink="false">b9c3d3aeff74</guid>
+      <source url="https://tvn24.pl/polska/posel-pis-marcin-porzucek-pijany-na-lotnisku-bardzo-przykry-i-bardzo-smutny-obraz-st9078756?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>My thoughts after using Clojure for about a month</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/70485bfa663f</link>
+      <description>I am now generating this website with Clojure (yes, right after rewriting it in GNU Make and shell; I have a problem, ok?).
+In a personal tradition, I used writing a static site generator as the project to play with and learn Clojure as a new language.
+While I’ve long scoffed at Clojure for its copious syntax (three types of brackets!?), it turns out to be pretty ergonomic and powerful.
+Here are my impressions after playing around with Clojure for about a month.</description>
+      <pubDate>Tue, 02 Jun 2026 19:56:46 GMT</pubDate>
+      <guid isPermaLink="false">70485bfa663f</guid>
+      <source url="https://www.acdw.net/clojure/">Hacker News</source>
+    </item>
+    <item>
+      <title>If I had a hammer... it might actually be a rhino tooth</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/978fc21f27d5</link>
+      <description>Neanderthals had some wild stuff in their toolkits.</description>
+      <pubDate>Tue, 02 Jun 2026 19:54:14 GMT</pubDate>
+      <guid isPermaLink="false">978fc21f27d5</guid>
+      <source url="https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/">Ars Technica</source>
     </item>
     <item>
       <title>Prognoza zagrożeń IMGW. Tu aura w długi weekend nie dopisze</title>
@@ -89,6 +164,14 @@ feature, watch out.</description>
       <source url="https://www.rmf24.pl/fakty/polska/news-polski-astronauta-pochwalil-sie-narodzinami-syna-uznanscy-wi,nId,8089045">RMF24</source>
     </item>
     <item>
+      <title>Open Repair Data Standard – Open Repair Alliance</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2764e16a715f</link>
+      <description>The Open Repair Data Standard (ORDS) defines a shared approach towards collecting and […]</description>
+      <pubDate>Tue, 02 Jun 2026 19:37:10 GMT</pubDate>
+      <guid isPermaLink="false">2764e16a715f</guid>
+      <source url="https://openrepair.org/open-data/open-standard/">Hacker News</source>
+    </item>
+    <item>
       <title>Duże zmiany dla kierowców na Słowacji. Zakazy i zaostrzenie kar</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4584715503eb</link>
       <description>Słowacki parlament przyjął nowelizację ustawy o ruchu drogowym, która przewiduje surowsze kary za przekroczenie prędkości, nowe obowiązki dla pieszych oraz dodatkowe regulacje dotyczące hulajnóg i usług taksówkowych. Zmiany mogą wejść w życie już we wrześniu, jeśli podpisze je prezydent Peter Pellegrini.</description>
@@ -135,6 +218,22 @@ feature, watch out.</description>
       <pubDate>Tue, 02 Jun 2026 19:07:00 GMT</pubDate>
       <guid isPermaLink="false">37e63096bb7e</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-wraca-gala-przerwana-przez-probe-zamachu-na-trumpa-podano-da,nId,8089044">RMF24</source>
+    </item>
+    <item>
+      <title>HP re-releases classic computer science calculator: The HP-16C</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/db5434336b9d</link>
+      <description>Comments</description>
+      <pubDate>Tue, 02 Jun 2026 19:02:40 GMT</pubDate>
+      <guid isPermaLink="false">db5434336b9d</guid>
+      <source url="https://hpcalcs.com/product/hp-16c-collectors-edition/">Hacker News</source>
+    </item>
+    <item>
+      <title>Feds failing in bid to take a supercomputer from a climate research center</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/174635610fc6</link>
+      <description>The National Center for Atmospheric Research won&apos;t be losing its supercomputer.</description>
+      <pubDate>Tue, 02 Jun 2026 19:02:27 GMT</pubDate>
+      <guid isPermaLink="false">174635610fc6</guid>
+      <source url="https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/">Ars Technica</source>
     </item>
     <item>
       <title>New Microsoft tool lets devs spin up AI behavior tests using text descriptions</title>
@@ -257,6 +356,22 @@ feature, watch out.</description>
       <source url="https://www.bankier.pl/wiadomosc/PiS-wybralo-kandydata-na-prezydenta-Krakowa-i-apeluje-do-Konfederacji-Oferta-do-dyskusji-9145085.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Microsoft announces Scout, an autonomous AI agent built on OpenClaw</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/308a2700742e</link>
+      <description>Scout is the first of a new breed of ‘autopilot’ agents in Microsoft 365 that can carry out tasks independently.</description>
+      <pubDate>Tue, 02 Jun 2026 18:19:27 GMT</pubDate>
+      <guid isPermaLink="false">308a2700742e</guid>
+      <source url="https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Mathematicians warn of AI threats to profession as industry encroaches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0917b4cad744</link>
+      <description>International Mathematical Union endorses warning about tech industry influence.</description>
+      <pubDate>Tue, 02 Jun 2026 18:19:06 GMT</pubDate>
+      <guid isPermaLink="false">0917b4cad744</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/">Ars Technica</source>
+    </item>
+    <item>
       <title>Bodnar o odebraniu orderu Zełenskiemu: to jednoznaczny sygnał dyplomatyczny</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3fc8db5d2574</link>
       <description>Decyzja Wołodymyra Zełenskiego jest z punktu widzenia Polski zła, haniebna i nie powinna mieć miejsca - powiedział w &quot;Faktach po Faktach&quot; w TVN24 senator KO Adam Bodnar. Były minister sprawiedliwości komentował nadanie jednej z ukraińskich jednostek imienia &quot;Bohaterów UPA&quot;. Mówił też o ewentualnym odebraniu Zełenskiemu Orderu Orła Białego.</description>
@@ -295,118 +410,6 @@ feature, watch out.</description>
       <pubDate>Tue, 02 Jun 2026 18:10:02 GMT</pubDate>
       <guid isPermaLink="false">eea376a5d0d4</guid>
       <source url="https://antyweb.pl/microsoft-chce-zeby-ai-znalo-twoja-firme">Antyweb</source>
-    </item>
-    <item>
-      <title>Pogoda na jutro - środa 3.06. Spokojna noc, w dzień wrócą wyładowania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e3c881fe92ec</link>
-      <description>Pogoda na jutro, czyli na środę 3.06. Noc w większości kraju przyniesie spokojną aurę. W dzień nad krajem ma jednak przemieszczać się strefa opadów, w której może zagrzmieć. Termometry pokażą maksymalnie 26 stopni Celsjusza.</description>
-      <pubDate>Tue, 02 Jun 2026 18:08:41 GMT</pubDate>
-      <guid isPermaLink="false">e3c881fe92ec</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-3-06-spokojna-noc-w-dzien-wroca-wyladowania-st9078744?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zmiany w kadrze na Nigerię. Jan Urban podjął decyzję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/20d0c6b2f53a</link>
-      <description>Selekcjoner reprezentacji Polski Jan Urban przyznał, że w zbliżającym się meczu towarzyskim z Nigerią w bramce zobaczymy Kamila Grabarę, a liderzy drużyny - Robert Lewandowski i Piotr Zieliński - rozpoczną spotkanie od pierwszego gwizdka. Urban zapowiedział liczne zmiany w składzie i podkreślił, że to idealny moment na testowanie nowych rozwiązań.</description>
-      <pubDate>Tue, 02 Jun 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="false">20d0c6b2f53a</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-zmiany-w-kadrze-na-nigerie-jan-urban-podjal-decyzje,nId,8089039">RMF24</source>
-    </item>
-    <item>
-      <title>Microsoft launches Scout, an OpenClaw-inspired personal assistant</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/799e29949be7</link>
-      <description>Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.</description>
-      <pubDate>Tue, 02 Jun 2026 18:02:44 GMT</pubDate>
-      <guid isPermaLink="false">799e29949be7</guid>
-      <source url="https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Polak obejmie ważne stanowisko w MFW. Był ministrem w rządach Tuska i Kopacz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/281f9e1ddb61</link>
-      <description>​Mateusz Szczurek, były minister finansów Polski, obejmie stanowisko dyrektora Departamentu Europejskiego Międzynarodowego Funduszu Walutowego. Nową funkcję zacznie pełnić 27 lipca, zastępując przechodzącego na emeryturę Niemca Alfreda Kammera. Szczurek był szefem resortu finansów w rządach Donalda Tuska i Ewy Kopacz w latach 2013-2015.</description>
-      <pubDate>Tue, 02 Jun 2026 18:01:24 GMT</pubDate>
-      <guid isPermaLink="false">281f9e1ddb61</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-polak-obejmie-wazne-stanowisko-w-mfw-byl-ministrem-w-rzadach,nId,8089038">RMF24</source>
-    </item>
-    <item>
-      <title>Jedna niedziela handlowa w czerwcu. Jeszcze tylko 5 takich w tym roku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/278b47e951eb</link>
-      <description>28 czerwca przypada niedziela handlowa, czyli tuż po zakończeniu roku szkolnego 2025/2026. Łącznie pozostało jeszcze 5 takich niedziel w tym roku, ostatnia wypadła przed majówką.</description>
-      <pubDate>Tue, 02 Jun 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="false">278b47e951eb</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Jedna-niedziela-handlowa-w-czerwcu-Jeszcze-tylko-5-takich-w-tym-roku,284976,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Google announces deepfake call detection for Android, new AirDrop device support</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4200d64c8832</link>
-      <description>Google&apos;s June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:46 GMT</pubDate>
-      <guid isPermaLink="false">4200d64c8832</guid>
-      <source url="https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Tani abonament na czerwiec 2026 - Orange, Play, Plus, T-Mobile (porównanie)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e73814325a8d</link>
-      <description>Zaczynamy od porównania najtańszych ofert na abonament w Orange, Play, Plus i T-Mobile, w nieco przewrotnej postaci.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:23 GMT</pubDate>
-      <guid isPermaLink="false">e73814325a8d</guid>
-      <source url="https://antyweb.pl/tani-abonament-na-czerwiec-2026">Antyweb</source>
-    </item>
-    <item>
-      <title>Ex-Anduril engineer raises $42M to build the Amazon of composite parts</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/af0d337dd23b</link>
-      <description>Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">af0d337dd23b</guid>
-      <source url="https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google rolls out fake call detection to protect against AI deepfake impersonation scams</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77925e65fdb8</link>
-      <description>As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">77925e65fdb8</guid>
-      <source url="https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Microsoft offers devs a better way to control AI agent behavior</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/600bc7437caa</link>
-      <description>The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">600bc7437caa</guid>
-      <source url="https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/">TechCrunch</source>
-    </item>
-    <item>
-      <title>GitHub Copilot App</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6bbc4d3a4783</link>
-      <description>Join the waitlist to stay informed and get notified when we expand access to the GitHub Copilot app technical preview—a new desktop experience for agent-driven development built natively on GitHub.</description>
-      <pubDate>Tue, 02 Jun 2026 17:58:55 GMT</pubDate>
-      <guid isPermaLink="false">6bbc4d3a4783</guid>
-      <source url="https://github.com/features/preview/github-app">Hacker News</source>
-    </item>
-    <item>
-      <title>The truth lies in the past in Silo S3 trailer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/877449426420</link>
-      <description>&quot;We do not know when it will be safe to go outside. We only know that day is not this day.&quot;</description>
-      <pubDate>Tue, 02 Jun 2026 17:58:29 GMT</pubDate>
-      <guid isPermaLink="false">877449426420</guid>
-      <source url="https://arstechnica.com/culture/2026/06/the-truth-lies-in-the-past-in-silo-s3-trailer/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Nowy zespół w stołecznym ratuszu. Ma rozwiązać problem dzików</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ffa1ffd998bb</link>
-      <description>Prezydent Warszawy powołał zespół do spraw dzikich zwierząt na terenie stolicy. W jego skład weszli przedstawiciele miejskich jednostek oraz instytucji państwowych, a także leśnicy, przyrodnicy i łowczy. Będą szukać wspólnie rozwiązań ograniczających między innymi problem zwiększającej się populacji warszawskich dzików.</description>
-      <pubDate>Tue, 02 Jun 2026 17:51:26 GMT</pubDate>
-      <guid isPermaLink="false">ffa1ffd998bb</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/nowy-zespol-w-stolecznym-ratuszu-ma-rozwiazac-problem-dzikow-st9078665?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Blik rusza za granicę. &quot;Nie możemy pozwolić, by pociąg odjechał&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3dab8b8d6fe8</link>
-      <description>Jeszcze w tym roku co najmniej trzy duże banki rumuńskie wdrożą technologię polskiego systemu płatności mobilnych Blik - poinformował w rozmowie z Reutersem prezes Polskiego Standardu Płatności (PSP) Dariusz Mazurkiewicz. Słowacja ma natomiast odegrać kluczową rolę w rozwoju blika w strefie euro.</description>
-      <pubDate>Tue, 02 Jun 2026 17:48:56 GMT</pubDate>
-      <guid isPermaLink="false">3dab8b8d6fe8</guid>
-      <source url="https://tvn24.pl/biznes/rynki/polski-system-platnosci-mobilnych-blik-planuje-ekspansje-w-strefie-euro-po-wejsciu-na-rynki-rumunii-i-slowacji-st9078729?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
