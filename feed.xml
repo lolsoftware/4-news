@@ -5,8 +5,120 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:35:44 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Flesh-eating screwworm infection detected in South Texas, USDA says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cec66a77a243</link>
+      <description>If confirmed, it would be the fly&apos;s first breach of the US-Mexico border.</description>
+      <pubDate>Wed, 03 Jun 2026 21:31:35 GMT</pubDate>
+      <guid isPermaLink="false">cec66a77a243</guid>
+      <source url="https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/">Ars Technica</source>
+    </item>
+    <item>
+      <title>MI5 warns Chinese spies using job websites to target government staff</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55a90a153c64</link>
+      <description>Undercover agents are posing as fake job recruiters to try and identify useful targets, MI5 warns.</description>
+      <pubDate>Wed, 03 Jun 2026 21:26:03 GMT</pubDate>
+      <guid isPermaLink="false">55a90a153c64</guid>
+      <source url="https://www.bbc.com/news/articles/cq6peqrnzpro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Ależ trafienie! Przemysław Wiśniewski uratował remis z Nigerią</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6b0a05c372f9</link>
+      <description>​Piłkarska reprezentacja Polski zremisowała z Nigerią 2:2 (1:1) w towarzyskim meczu na PGE Narodowym w Warszawie. Remis uratował drużynie Jana Urbana w ostatniej sekundzie doliczonego czasu obrońca Przemysław Wiśniewski, który popisał się mocnym strzałem z dystansu. Pierwszą bramkę w reprezentacji</description>
+      <pubDate>Wed, 03 Jun 2026 21:22:12 GMT</pubDate>
+      <guid isPermaLink="false">6b0a05c372f9</guid>
+      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-alez-trafienie-przemyslaw-wisniewski-uratowal-remis-z-nigeri,nId,8089153">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Rosja panikuje&quot;. Kaja Kallas o ukraińskich uderzeniach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a75eff379708</link>
+      <description>Rosja &quot;panikuje&quot; po ostatnich atakach ukraińskich dronów, w tym tych, które uderzyły w Petersburg - powiedziała w środę AFP szefowa dyplomacji UE Kaja Kallas. W środę rano ukraińskie bezzałogowce uderzyły w terminal naftowy w Petersburgu i korwetę rosyjskiej Floty Bałtyckiej.</description>
+      <pubDate>Wed, 03 Jun 2026 20:57:29 GMT</pubDate>
+      <guid isPermaLink="false">a75eff379708</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-rosja-panikuje-kaja-kallas-o-ukrainskich-uderzeniach,nId,8089152">RMF24</source>
+    </item>
+    <item>
+      <title>Defense tech is flooded with money, but who’s built to last?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ff952b3c7c20</link>
+      <description>Watch as XYZ Venture Capital founder and early Anduril backer Ross Fubini joins Equity to discuss the defense tech boom and what separates the startups that win government contracts from those that don&apos;t.</description>
+      <pubDate>Wed, 03 Jun 2026 20:51:41 GMT</pubDate>
+      <guid isPermaLink="false">ff952b3c7c20</guid>
+      <source url="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Ableton Extensions SDK</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2bb54990ea8f</link>
+      <description>Extensions SDK is an open JavaScript toolkit allowing anyone to create custom tools that expand the possibilities inside Live 12 Suite</description>
+      <pubDate>Wed, 03 Jun 2026 20:39:34 GMT</pubDate>
+      <guid isPermaLink="false">2bb54990ea8f</guid>
+      <source url="https://www.ableton.com/en/live/extensions/">Hacker News</source>
+    </item>
+    <item>
+      <title>Henry Nowak murder: What we know about how the events unfolded</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/248d394801d0</link>
+      <description>The student was 18 when he was stabbed by 23-year-old Vickrum Digwa in Southampton in December 2025.</description>
+      <pubDate>Wed, 03 Jun 2026 20:34:47 GMT</pubDate>
+      <guid isPermaLink="false">248d394801d0</guid>
+      <source url="https://www.bbc.com/news/articles/cjepqy29jdpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/069f9f932eb1</link>
+      <description>Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend. - zaydmulani09/mnemo</description>
+      <pubDate>Wed, 03 Jun 2026 20:32:10 GMT</pubDate>
+      <guid isPermaLink="false">069f9f932eb1</guid>
+      <source url="https://github.com/zaydmulani09/mnemo">Hacker News</source>
+    </item>
+    <item>
+      <title>&apos;Crazy&apos; phone call between Trump and Netanyahu complicates Iran talks</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a46a23a48fb</link>
+      <description>Israel&apos;s PM laughed off reports of friction, but he has tested the patience of other US presidents.</description>
+      <pubDate>Wed, 03 Jun 2026 20:28:01 GMT</pubDate>
+      <guid isPermaLink="false">2a46a23a48fb</guid>
+      <source url="https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Google ordered to put clearer links in AI search and let UK publishers opt out</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/76000326e70f</link>
+      <description>Google must change AI Overviews after claiming users don&apos;t want &quot;lots of sources.&quot;</description>
+      <pubDate>Wed, 03 Jun 2026 20:26:51 GMT</pubDate>
+      <guid isPermaLink="false">76000326e70f</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Jadą tam, skąd inni uciekli. Rośnie popularność &quot;dark tours&quot; w Ukrainie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/40915712d49c</link>
+      <description>​Coraz więcej cudzoziemców - głównie z Japonii i USA - odwiedza Ukrainę, by zobaczyć miejsca zniszczone przez rosyjską inwazję. &quot;Mroczna turystyka&quot; budzi kontrowersje, jednak organizatorzy tych wycieczek przekonują, że &quot;wyjazdy mają charakter edukacyjny i dokumentalny&quot; - informuje Radio Swoboda.</description>
+      <pubDate>Wed, 03 Jun 2026 20:26:06 GMT</pubDate>
+      <guid isPermaLink="false">40915712d49c</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-jada-tam-skad-inni-uciekli-rosnie-popularnosc-dark-tours-w-u,nId,8089149">RMF24</source>
+    </item>
+    <item>
+      <title>A Man Who Reads Books for a Living (One Every Two Days)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c1c049a27e1</link>
+      <description>When Clarke Speicher (spike-er) asked how I liked the screen adaptation of Train Dreams, Denis Johnson’s novella following the solitary logger Robert Granier in the early 20th-century American West…</description>
+      <pubDate>Wed, 03 Jun 2026 20:08:33 GMT</pubDate>
+      <guid isPermaLink="false">7c1c049a27e1</guid>
+      <source url="https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/">Hacker News</source>
+    </item>
+    <item>
+      <title>Uber to put 500 data-collection vehicles on the road this year</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e0461d78608a</link>
+      <description>The modified Ioniq 5 will be loaded with sensors to capture data for Uber&apos;s new AV Labs division.</description>
+      <pubDate>Wed, 03 Jun 2026 20:08:28 GMT</pubDate>
+      <guid isPermaLink="false">e0461d78608a</guid>
+      <source url="https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Polacy stworzyli AI, które mówi ludzkim głosem. &quot;Większa rewolucja niż internet&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f3afde0d8e93</link>
+      <description>Polski start-up ElevenLabs, założony przez dwóch absolwentów warszawskiego liceum, rozwija technologię sztucznej inteligencji, która potrafi generować naturalnie brzmiący ludzki głos. Jak przekonuje współzałożyciel firmy Mati Staniszewski, zmiany, które niesie ze sobą rozwój AI, mogą okazać się &quot;potencjalnie większą rewolucją niż internet&quot;, a sama technologia ma w najbliższych latach całkowicie odmienić sposób, w jaki komunikujemy się i korzystamy z treści audio.</description>
+      <pubDate>Wed, 03 Jun 2026 20:06:43 GMT</pubDate>
+      <guid isPermaLink="false">f3afde0d8e93</guid>
+      <source url="https://tvn24.pl/biznes/tech/elevenlabs-polska-firma-ktora-daje-sztucznej-inteligencji-ludzki-glos-wieksza-rewolucja-niz-internet-st9080407?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Lepsze niż baton energetyczny. 1 łyżeczka działa jak zastrzyk energii</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5ee093c6f589</link>
@@ -14,6 +126,22 @@
       <pubDate>Wed, 03 Jun 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">5ee093c6f589</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Lepsze-niz-baton-energetyczny-1-lyzeczka-dziala-jak-zastrzyk-energii,285053,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>​Magyar ogłasza porozumienie z Ukrainą ws. mniejszości węgierskiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d1ab689c843a</link>
+      <description>Węgry osiągnęły kompleksowe porozumienie z Ukrainą w sprawie rozszerzenia praw językowych, edukacyjnych, kulturalnych i politycznych mniejszości węgierskiej na Zakarpaciu - ogłosił w środę węgierski premier Peter Magyar w nagraniu zamieszczonym na Facebooku. Podkreślił, że jego rząd w ciągu zaledwie trzech tygodni osiągnął w tej sprawie więcej niż gabinet Viktora Orbana przez dekadę.</description>
+      <pubDate>Wed, 03 Jun 2026 19:53:55 GMT</pubDate>
+      <guid isPermaLink="false">d1ab689c843a</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-magyar-oglasza-porozumienie-z-ukraina-ws-mniejszosci-wegiers,nId,8089151">RMF24</source>
+    </item>
+    <item>
+      <title>Dashlane issues opaque advisory warning 20 encrypted vaults were stolen</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fcbdf55f382b</link>
+      <description>Security advisory leaves out key details. Dashlane maintains complete silence.</description>
+      <pubDate>Wed, 03 Jun 2026 19:53:14 GMT</pubDate>
+      <guid isPermaLink="false">fcbdf55f382b</guid>
+      <source url="https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/">Ars Technica</source>
     </item>
     <item>
       <title>Pożar hali w Płocku. Prokurator: podejrzany przyznał się </title>
@@ -24,12 +152,36 @@
       <source url="https://tvn24.pl/tvnwarszawa/okolice/pozar-hali-w-plocku-zatrzymano-podejrzanego-o-podpalenie-uslyszal-zarzuty-st9080462?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/70e4a3b66c8b</link>
+      <description>Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding ag - tastyeffectco/sandboxes</description>
+      <pubDate>Wed, 03 Jun 2026 19:43:37 GMT</pubDate>
+      <guid isPermaLink="false">70e4a3b66c8b</guid>
+      <source url="https://github.com/tastyeffectco/sandboxes">Hacker News</source>
+    </item>
+    <item>
+      <title>Brume is a 24-voice multi-timbral desktop synth for the CM5</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0b8307a3f9f9</link>
+      <description>A desktop multi-timbral music machine with four synthesis engines, a 10″ touch surface, and one cable to your DAW.</description>
+      <pubDate>Wed, 03 Jun 2026 19:41:21 GMT</pubDate>
+      <guid isPermaLink="false">0b8307a3f9f9</guid>
+      <source url="https://brume.aftertone.co/">Hacker News</source>
+    </item>
+    <item>
       <title>Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cffdd44a3578</link>
       <description>If Alphabet&apos;s record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.</description>
       <pubDate>Wed, 03 Jun 2026 19:38:32 GMT</pubDate>
       <guid isPermaLink="false">cffdd44a3578</guid>
       <source url="https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Największy statek na świecie. Na pokładzie nawet park wodny i sieć tramwajowa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d134ea376203</link>
+      <description>Freedom Ship ma być nie tylko statkiem wycieczkowym, ale wręcz pływającym miastem, które nieustannie będzie okrążać Ziemię. Projekt rozwijany przez Freedom Cruise Line International od lat rozpala wyobraźnię futurystów i miłośników nowoczesnej inżynierii. Na pokładzie gigantycznej jednostki zamieszka 80 tys. osób.</description>
+      <pubDate>Wed, 03 Jun 2026 19:28:14 GMT</pubDate>
+      <guid isPermaLink="false">d134ea376203</guid>
+      <source url="https://www.rmf24.pl/ciekawostki/news-najwiekszy-statek-na-swiecie-na-pokladzie-nawet-park-wodny-i,nId,8089147">RMF24</source>
     </item>
     <item>
       <title>Meta mercifully spun out VR fitness game Supernatural instead of just killing it</title>
@@ -64,6 +216,14 @@
       <source url="https://tvn24.pl/polska/komendant-glowny-policji-marek-boron-o-interwencji-u-tomasza-sakiewicza-sluzby-tam-przyjechaly-zeby-pomagac-st9080373?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Google&apos;s new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/67ad581ec809</link>
+      <description>Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.</description>
+      <pubDate>Wed, 03 Jun 2026 19:10:03 GMT</pubDate>
+      <guid isPermaLink="false">67ad581ec809</guid>
+      <source url="https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/">Ars Technica</source>
+    </item>
+    <item>
       <title>Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d71e209093b7</link>
       <description>The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.</description>
@@ -94,6 +254,14 @@
       <pubDate>Wed, 03 Jun 2026 19:02:26 GMT</pubDate>
       <guid isPermaLink="false">706b87cc25ba</guid>
       <source url="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/">Hacker News</source>
+    </item>
+    <item>
+      <title>Sobkowiak-Czarnecka o programie SAFE: to, co się udało, ma wagę historyczną </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3cb200d87d89</link>
+      <description>Mam nadzieję, że pan prezydent już rozumie, że to ja mówiłam prawdę, a jego urzędnicy robili go w balona - mówiła w &quot;Kropce nad i&quot; w TVN24 pełnomocniczka rządu do spraw programu SAFE Magdalena Sobkowiak-Czarnecka. Jak dodała, rząd podpisał w ramach tego programu 62 umowy w trzy dni.</description>
+      <pubDate>Wed, 03 Jun 2026 18:59:09 GMT</pubDate>
+      <guid isPermaLink="false">3cb200d87d89</guid>
+      <source url="https://tvn24.pl/polska/pelnomocniczka-rzadu-do-spraw-safe-w-trzy-dni-podpisano-62-umowy-st9080374?source=rss">TVN24</source>
     </item>
     <item>
       <title>Police chief apologises to Henry Nowak&apos;s family over handcuffing and arrest</title>
@@ -168,6 +336,22 @@
       <source url="https://www.rmf24.pl/sport/pilka-nozna/news-urban-podal-sklad-na-nigerie-niespodzianka-w-obronie,nId,8089144">RMF24</source>
     </item>
     <item>
+      <title>Trump plan to test AI models has a problem—US security teams were gutted by DOGE</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/12c05310444f</link>
+      <description>Critics say Trump plan to test AI models is short-sighted, performative.</description>
+      <pubDate>Wed, 03 Jun 2026 18:11:15 GMT</pubDate>
+      <guid isPermaLink="false">12c05310444f</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/">Ars Technica</source>
+    </item>
+    <item>
+      <title>NASA Finds New Way Earth May Have Received Elements Needed for Life</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c91f8f44370</link>
+      <description>NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become</description>
+      <pubDate>Wed, 03 Jun 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="false">7c91f8f44370</guid>
+      <source url="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Obajtek: niech obecny prezes Orlenu pokaże majątek</title>
       <link>https://lolsoftware.github.io/4-news/#/article/dec7101db7b9</link>
       <description>Orlen zdecydował o pozostawieniu Ireneusza Fąfary na stanowisku prezesa i powołaniu dotychczasowego zarządu na nową kadencję. Decyzję skrytykował były szef koncernu Daniel Obajtek, nazywając konkurs &quot;kolejną farsą&quot; i wzywając do ujawnienia majątku przez obecnego prezesa, choć sam nie publikował takich oświadczeń, gdy kierował spółką, a do przestrzeni publicznej przedostawały się liczne kontrowersje związane z jego majątkiem.</description>
@@ -192,6 +376,14 @@
       <source url="https://news.ycombinator.com/item?id=48387095">Hacker News</source>
     </item>
     <item>
+      <title>New social features further Plex’s evolution from media server business</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8cbd39a54157</link>
+      <description>Plex is increaingly focusing on content discovery and streaming rentals.</description>
+      <pubDate>Wed, 03 Jun 2026 17:35:06 GMT</pubDate>
+      <guid isPermaLink="false">8cbd39a54157</guid>
+      <source url="https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/">Ars Technica</source>
+    </item>
+    <item>
       <title>Ultrahuman says hackers accessed customers’ wellness data via internal tool</title>
       <link>https://lolsoftware.github.io/4-news/#/article/de68be6b25ce</link>
       <description>The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.</description>
@@ -208,240 +400,12 @@
       <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-nie-czeka-na-usa-i-chce-spotkania-z-putinem-rutte-z,nId,8089139">RMF24</source>
     </item>
     <item>
-      <title>Carvana ties up with Bezos-backed Slate Auto as it plans new car sales</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a38d226d21c9</link>
-      <description>Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.</description>
-      <pubDate>Wed, 03 Jun 2026 17:25:51 GMT</pubDate>
-      <guid isPermaLink="false">a38d226d21c9</guid>
-      <source url="https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Ulice jak rwące potoki. Zalania w Polsce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e7641197b3c5</link>
-      <description>Środa przyniosła części kraju niespokojną aurę. W czasie burz padał ulewny deszcz, który doprowadził do podtopień na Śląsku i Ziemi Łódzkiej. Działania strażaków głównie polegają na wypompowywaniu wody z zalanych terenów.</description>
-      <pubDate>Wed, 03 Jun 2026 17:23:58 GMT</pubDate>
-      <guid isPermaLink="false">e7641197b3c5</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/ulewy-i-burze-w-polsce-zalania-podtopienia-ulice-jak-rwace-potoki-zalania-w-polsce-st9080311?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>​Koniec 12-godzinnego horroru w biurowcu. FBI zastrzeliło napastnika</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eec48fb144eb</link>
-      <description>Mężczyzna, który we wtorek po południu wziął zakładników w Kalifornii, został w środę zastrzelony przez FBI, a wszystkich zakładników uwolniono - poinformowała policja. Zakładnicy byli przetrzymywani w biurowcu przez około 12 godzin - podała agencja AP.</description>
-      <pubDate>Wed, 03 Jun 2026 17:19:38 GMT</pubDate>
-      <guid isPermaLink="false">eec48fb144eb</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-koniec-12-godzinnego-horroru-w-biurowcu-fbi-zastrzelilo-napa,nId,8089141">RMF24</source>
-    </item>
-    <item>
-      <title>Henry Nowak&apos;s death raises more questions about UK policing and race</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/55342edc8564</link>
-      <description>Police face accusations of two-tier policing as they work to stamp out racial bias, our senior UK correspondent writes.</description>
-      <pubDate>Wed, 03 Jun 2026 17:18:53 GMT</pubDate>
-      <guid isPermaLink="false">55342edc8564</guid>
-      <source url="https://www.bbc.com/news/articles/cx210nvyv2qo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Krajowa sieć kardiologiczna rośnie: już 1277 realizatorów. Jakość leczenia wpłynie na finansowanie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c18eb7f721f8</link>
-      <description>Krajowa sieć kardiologiczna obejmuje obecnie 1277 realizatorów, w tym 136 ośrodków drugiego poziomu i 26 placówek najwyższego poziomu referencyjności. Ministerstwo Zdrowia podkreśla, że celem KSK jest uporządkowanie ścieżki pacjenta, poprawa dostępności do diagnostyki i leczenia chorób serca oraz wprowadzenie mechanizmów kontroli jakości.</description>
-      <pubDate>Wed, 03 Jun 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="false">c18eb7f721f8</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Kardiologia/Krajowa-siec-kardiologiczna-rosnie-juz-1277-realizatorow-Jakosc-leczenia-wplynie-na-finansowanie,285059,1014.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Samochody elektryczne zamiast spalinowych. Rekordowa sprzedaż</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e35b57d1fb1</link>
-      <description>Sprzedaż nowych samochodów elektrycznych pobiła historyczne rekordy w 37 państwach - poinformował japoński portal Nikkei Asia. Jest to wynik ucieczki konsumentów przed wysokimi cenami paliw spowodowanymi konfliktem na Bliskim Wschodzie.</description>
-      <pubDate>Wed, 03 Jun 2026 17:12:27 GMT</pubDate>
-      <guid isPermaLink="false">9e35b57d1fb1</guid>
-      <source url="https://tvn24.pl/biznes/moto/samochody-elektryczne-rekordowa-sprzedaz-w-kilkudziesieciu-panstwach-st9080322?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Gooey: A GPU-accelerated UI framework for Zig</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ee87b679631c</link>
-      <description>Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan - duanebester/gooey</description>
-      <pubDate>Wed, 03 Jun 2026 17:12:27 GMT</pubDate>
-      <guid isPermaLink="false">ee87b679631c</guid>
-      <source url="https://github.com/duanebester/gooey">Hacker News</source>
-    </item>
-    <item>
-      <title>Nowy szlak handlowy Turcji. Ankara ogłasza potężny plan</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/704066659734</link>
-      <description>Minister transportu i infrastruktury Turcji Abdulkadir Uraloglu poinformował w środę, że Ankara planuje modernizację i rozbudowę Kolei Hidżaskiej, połączenia biegnącego od Damaszku do Medyny, by stworzyć alternatywę dla cieśniny Ormuz - przekazała agencja Anadolu.</description>
-      <pubDate>Wed, 03 Jun 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="false">704066659734</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nowy-szlak-handlowy-Turcji-Ankara-oglasza-potezny-plan-9145691.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Skoczył z zapory w Solinie. Trudna akcja ratowników</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/26c54f71de11</link>
-      <description>Trwają poszukiwania mężczyzny, który we wtorek wieczorem skoczył z zapory w Solinie na Podkarpaciu. Mimo akcji służb i wykorzystania specjalistycznego sprzętu w środę nie udało się go znaleźć. Akcja ma zostać wznowiona w czwartek.</description>
-      <pubDate>Wed, 03 Jun 2026 17:03:20 GMT</pubDate>
-      <guid isPermaLink="false">26c54f71de11</guid>
-      <source url="https://tvn24.pl/rzeszow/solina-mezczyzna-skoczyl-z-zapory-do-wody-trwaja-poszukiwania-st9080332?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/944f4588158e</link>
-      <description>Skyvern is an open-source AI agent that automates anything in a browser. YC-backed. Growing fast.
-
-We have a product developers get excited about when they see it. The problem: not enough developers have seen it.
-
-We need someone who can make Skyvern impossible to ignore. Someone who understands the product deeply enough to demo it,
-explain it, and make content that actually resonates with technical audiences.
-
-The work
-
-  - Create YouTube content—demos, tutorials, deep dives—that developers actually watch
-  - Produce short-form content for Twitter, LinkedIn, TikTok, wherever devs scroll
-  - Build and own Skyvern&apos;s social presence from the ground up
-  - Engage authentically with the open-source and AI community (not just broadcast—actually participate)
-  - Dream up and execute viral campaigns. We&apos;re an AI agent that can browse the internet—there&apos;s a lot to work with.
-  - Experiment constantly. Double down on what works, kill what doesn&apos;t.
-
-Why this role is interesting
-
-  - The product demos well. AI agents doing browser tasks is inherently visual and satisfying to watch.
-  - Open source = built-in community. You&apos;re not selling—you&apos;re building genuine relationships.
-  - Small team, big canvas. No brand guidelines committee. You&apos;d define the voice.
-  - You&apos;d be early at a company in a category (AI agents) that&apos;s about to get very loud. First-mover advantage matters.
-
-You
-
-  - You&apos;ve built an audience before—your own or someone else&apos;s. Show us.
-  - You can explain technical products without dumbing them down or losing people.
-  - Comfortable on camera. You don&apos;t need a production team to ship a good video.
-  - Strong writer. Your tweets and posts don&apos;t sound like marketing.
-  - Plugged into the AI/dev tools world. You know what&apos;s resonating and why.
-  - Scrappy. You&apos;ll do the editing, the posting, the replies, the A/B tests—whatever it takes.
-  - Bonus: you&apos;ve written code. You can actually run Skyvern, not just talk about it.
-
-Apply
-
-Send your best content—videos, threads, posts, campaigns. Follower counts matter less than quality. Show us something
-you made that you think is genuinely good.</description>
-      <pubDate>Wed, 03 Jun 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="false">944f4588158e</guid>
-      <source url="https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai">Hacker News</source>
-    </item>
-    <item>
-      <title>Sezon trwa kilka tygodni. Solidna dawka polifenoli i witaminy C</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/820fe3ca0639</link>
-      <description>Zbiera się je tylko przez kilka tygodni w roku, zanim w środku wykształci się twarda skorupa. Zielone orzechy włoskie od stuleci wykorzystywano w medycynie ludowej Europy i Azji przy dolegliwościach trawiennych oraz jako środek wzmacniający organizm. Współczesne badania potwierdzają, że niedojrzałe owoce zawierają wiele związków bioaktywnych, m.in. polifenole, flawonoidy, garbniki i witaminę C.</description>
-      <pubDate>Wed, 03 Jun 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="false">820fe3ca0639</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Sezon-trwa-kilka-tygodni-Solidna-dawka-polifenoli-i-witaminy-C,285060,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Spór o koniec wojny. Donald Trump i Benjamin Netanjahu poróżnili się o kluczowy krok</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/abeafceb1fdd</link>
-      <description>Premier Izraela Benjamin Netanjahu przyznał w środę w rozmowie ze stacją CNBC, że między nim i prezydentem Donaldem Trumpem istnieją „taktyczne rozbieżności, ale zgadzają się w głównych sprawach. Skrytykował też przywódców europejskich.</description>
-      <pubDate>Wed, 03 Jun 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="false">abeafceb1fdd</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Spor-o-koniec-wojny-Donald-Trump-i-Benjamin-Netanjahu-poroznili-sie-o-kluczowy-krok-9145966.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Najpopularniejszy film sci-fi Netflixa wróci. Druga część już powstaje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6f6b67904c4</link>
-      <description>Netflix zapowiada drugą część ogromnego hitu sci-fi ostatnich miesięcy.</description>
-      <pubDate>Wed, 03 Jun 2026 17:00:11 GMT</pubDate>
-      <guid isPermaLink="false">a6f6b67904c4</guid>
-      <source url="https://antyweb.pl/najpopularniejszy-film-sci-fi-netflixa-wroci-druga-czesc-juz-powstaje">Antyweb</source>
-    </item>
-    <item>
-      <title>Pożar hali w Płocku. 66-latek przyznał się do zarzucanego czynu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/79bba73525f6</link>
-      <description>​Zarzut dotyczący nieumyślnego wywołania pożaru w hali usługowo-magazynowej w Płocku prokuratura przedstawiła w środę 66-letniemu mężczyźnie. Podczas przesłuchania przyznał się on do zarzucanego czynu i złożył obszerne wyjaśnienia - poinformowała prokuratura.</description>
-      <pubDate>Wed, 03 Jun 2026 16:59:56 GMT</pubDate>
-      <guid isPermaLink="false">79bba73525f6</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-pozar-hali-w-plocku-66-latek-przyznal-sie-do-zarzucanego-czy,nId,8089140">RMF24</source>
-    </item>
-    <item>
-      <title>Angular v22</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3a841db185ad</link>
-      <description>Announcing Angular v22 Today, we are thrilled to announce the release of Angular v22. We continue to be proud of the work we do with each release. Our goal is to maintain a high quality stream of …</description>
-      <pubDate>Wed, 03 Jun 2026 16:51:49 GMT</pubDate>
-      <guid isPermaLink="false">3a841db185ad</guid>
-      <source url="https://blog.angular.dev/announcing-angular-v22-c52bb83a4664">Hacker News</source>
-    </item>
-    <item>
-      <title>Pięcioletnia Oliwia z Gniezna przeżyła w domu piekło. Ojczym i matka zostali skazani</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c050c8ed2469</link>
-      <description>Pięcioletnia Oliwia z Gniezna była bita, polewana zimną wodą, musiała jeść papier i stać w jednym miejscu wiele godzin. Sąd Okręgowy w Poznaniu prawomocnie skazał jej ojczyma i matkę na bezwzględne kary więzienia. Robert S. spędzi w więzieniu 7 lat, zaś Karolina P. - 4 lata i dwa miesiące.</description>
-      <pubDate>Wed, 03 Jun 2026 16:50:49 GMT</pubDate>
-      <guid isPermaLink="false">c050c8ed2469</guid>
-      <source url="https://tvn24.pl/poznan/poznan-ojczym-i-matka-maltretowanej-oliwii-z-gniezna-skazani-st9080321?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Stał przy krawędzi peronu, potrącił go pociąg</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/805e8c848681</link>
-      <description>Na Białołęce pociąg Kolei Mazowieckich potrącił mężczyznę, który stał blisko krawędzi peronu stacji Warszawa Choszczówka. 60-latek został przetransportowany do szpitala w stanie ciężkim.</description>
-      <pubDate>Wed, 03 Jun 2026 16:50:10 GMT</pubDate>
-      <guid isPermaLink="false">805e8c848681</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-pociag-potracil-czlowieka-na-bialolece-utrudnienia-na-kolei-st9080280?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>11-latka złamała kręgosłup w sali zabaw w Lublinie. Zarzuty dla opiekunów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/007fbb676487</link>
-      <description>​Zarzuty dotyczące m.in. narażenia dziecka na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu prokuratura postawiła dwóm pracownikom jednej z sali zabaw w Lublinie. W październiku ub.r. 11-latka skoczyła tam na nieprawidłowo napompowaną poduszkę i złamała kręgosłup.</description>
-      <pubDate>Wed, 03 Jun 2026 16:47:57 GMT</pubDate>
-      <guid isPermaLink="false">007fbb676487</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-11-latka-zlamala-kregoslup-w-sali-zabaw-w-lublinie-zarzuty-d,nId,8089138">RMF24</source>
-    </item>
-    <item>
-      <title>Leczenie gruźlicy bez szpitala: ministerstwo przedłuża program pilotażowy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cec7f7f63ef2</link>
-      <description>Ministerstwo Zdrowia chce przedłużyć pilotaż leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych z 45 do 54 miesięcy. Zmiana ma dać czas na przygotowanie docelowych przepisów i zapewnić pacjentom ciągłość terapii.</description>
-      <pubDate>Wed, 03 Jun 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="false">cec7f7f63ef2</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Choroby-Pluc/Leczenie-gruzlicy-bez-szpitala-ministerstwo-przedluza-program-pilotazowy,285091,1022.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Liczne nieruchomości, obligacje warte miliony złotych. Morawiecki pokazał swój majątek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d7520113d59</link>
-      <description>Były premier Mateusz Morawiecki wykazał w swoim oświadczeniu majątkowym za 2025 rok, że posiada nieruchomości warte łącznie blisko dziewięć milionów złotych. Zadeklarował także oszczędności w kwocie przekraczającej 200 tysięcy i obligacje skarbowe warte kilka milionów złotych.</description>
-      <pubDate>Wed, 03 Jun 2026 16:34:20 GMT</pubDate>
-      <guid isPermaLink="false">3d7520113d59</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/majatek-bylego-premiera-mateusza-morawieckiego-w-oswiadczeniu-dwa-domy-segment-mieszkanie-obligacje-za-miliony-zlotych-st9080191?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>MacBook Neo Is So Popular That Apple Doubled Production</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/983c162b29a5</link>
-      <description>On an earnings call in late April, Apple&apos;s CEO Tim Cook said that customer response to the MacBook Neo was &quot;off the charts,&quot; and the popularity of the laptop has reportedly led the company to significantly boost production. Apple supply chain analyst Ming-Chi Kuo this week said he believes that MacBook Neo shipments to Apple were doubled from an initial target of 5 million units to 10 million units in 2026 at some point after the laptop launched in March.</description>
-      <pubDate>Wed, 03 Jun 2026 16:33:17 GMT</pubDate>
-      <guid isPermaLink="false">983c162b29a5</guid>
-      <source url="https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/">Hacker News</source>
-    </item>
-    <item>
-      <title>Pierwsza taka operacja na Podkarpaciu: usunięto raka nerki z czopem sięgającym do serca</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a47f520c2796</link>
-      <description>W Rzeszowie przeprowadzono pierwszy na Podkarpaciu zabieg usunięcia raka nerki z czopem nowotworowym sięgającym do prawego przedsionka serca. Operację wykonał zespół specjalistów z trzech ośrodków medycznych.</description>
-      <pubDate>Wed, 03 Jun 2026 16:17:00 GMT</pubDate>
-      <guid isPermaLink="false">a47f520c2796</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Pierwsza-taka-operacja-na-Podkarpaciu-usunieto-raka-nerki-z-czopem-siegajacym-do-serca,285074,1013.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Inwestorzy już na długim weekendzie. Kto zyskał, a kto stracił przed Bożym Ciałem?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c837ec69c239</link>
-      <description>Środowa sesja na warszawskim parkiecie upłynęła w sennej atmosferze i handlu bez wyraźnego kierunku. Krajowi inwestorzy pozycjonowali się już przed nadchodzącym długim weekendem, przez co zmienność na głównych indeksach była ograniczona. Cieniem na nastrojach w Europie wciąż kładzie się jednak sytuacja geopolityczna na Bliskim Wschodzie, która uderza w rynki bazowe silniej niż w Wall Street.</description>
-      <pubDate>Wed, 03 Jun 2026 16:17:00 GMT</pubDate>
-      <guid isPermaLink="false">c837ec69c239</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Inwestorzy-juz-na-dlugim-weekendzie-Kto-zyskal-a-kto-stracil-przed-Bozym-Cialem-9145903.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Wypadek 11-latki w sali zabaw. Dwie osoby z zarzutami </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0c3e36345c7c</link>
-      <description>Prokuratura postawiła dwóm pracownikom sali zabaw w Lublinie zarzuty dotyczące narażenia dziecka na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu. W październiku ubiegłego roku 11-letnia dziewczynka skoczyła tam na nieprawidłowo napompowaną poduszkę i złamała kręgosłup.</description>
-      <pubDate>Wed, 03 Jun 2026 16:16:57 GMT</pubDate>
-      <guid isPermaLink="false">0c3e36345c7c</guid>
-      <source url="https://tvn24.pl/lublin/lublin-zarzuty-dla-pracownikow-sali-zabaw-po-wypadku-11-latki-st9080278?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Instagram is alerting users who were targeted by hackers during AI chatbot attacks</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d92bebe86d22</link>
-      <description>Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.</description>
-      <pubDate>Wed, 03 Jun 2026 16:12:06 GMT</pubDate>
-      <guid isPermaLink="false">d92bebe86d22</guid>
-      <source url="https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/">TechCrunch</source>
+      <title>International Sea Level Satellite Observes El Niño Precursor</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7327c96fed8d</link>
+      <description>Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the</description>
+      <pubDate>Wed, 03 Jun 2026 17:27:22 GMT</pubDate>
+      <guid isPermaLink="false">7327c96fed8d</guid>
+      <source url="https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/">NASA Breaking News</source>
     </item>
   </channel>
 </rss>
