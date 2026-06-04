@@ -5,8 +5,130 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 04 Jun 2026 17:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:28:35 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tak kibice szaleli po zwycięstwie Chwalińskiej. &quot;Paryż jest nasz!&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08967072d1bd</link>
+      <description>Maja Chwalińska pokonała Dianę Sznajder i awansowała do finału wielkoszlemowego turnieju French Open w Paryżu. Z sukcesu Polki cieszyli się rodacy, którzy oglądali to widowisko na żywo. Wśród wiwatujących była też dziennikarka i publicystka TVN24 Monika Olejnik.</description>
+      <pubDate>Thu, 04 Jun 2026 20:15:44 GMT</pubDate>
+      <guid isPermaLink="false">08967072d1bd</guid>
+      <source url="https://tvn24.pl/polska/radosc-kibicow-po-zwyciestwie-mai-chwalinskiej-w-polfinale-french-open-wsrod-wiwatujacych-monika-olejnik-st9081671?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Anthropic&apos;s open-source framework for AI-powered vulnerability discovery</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffb79fe518b6</link>
+      <description>Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness</description>
+      <pubDate>Thu, 04 Jun 2026 20:11:20 GMT</pubDate>
+      <guid isPermaLink="false">ffb79fe518b6</guid>
+      <source url="https://github.com/anthropics/defending-code-reference-harness">Hacker News</source>
+    </item>
+    <item>
+      <title>Groźna pogoda w części kraju. Połamane drzewa, zalania</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8274921d4f7a</link>
+      <description>Czwartek to kolejny burzowy dzień w Polsce. Tym razem aura pokazała swoje groźne oblicze na Pomorzu Zachodnim. Zjawiskom towarzyszył ulewny deszcz i porywisty wiatr. To, jak gwałtowna była pogoda, można zobaczyć na nagraniu z Choszczna.</description>
+      <pubDate>Thu, 04 Jun 2026 19:57:44 GMT</pubDate>
+      <guid isPermaLink="false">8274921d4f7a</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/pomorze-zachodnie-grozna-pogoda-w-czesci-kraju-polamane-drzewa-zalania-interwencje-strazy-pozarnej-st9081646?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&quot;Tenisowa bajka&quot;, &quot;Niewiarygodna historia&quot;. Światowe media o Chwalińskiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c199ef86d4d7</link>
+      <description>​Maja Chwalińska, polska kwalifikantka, awansowała do finału wielkoszlemowego French Open, wzbudzając sensację na całym świecie. Jej niezwykła droga do finału, pokonanie licznych przeszkód i emocjonujące zwycięstwa zostały okrzyknięte &quot;tenisową bajką&quot; przez międzynarodowe media.</description>
+      <pubDate>Thu, 04 Jun 2026 19:53:05 GMT</pubDate>
+      <guid isPermaLink="false">c199ef86d4d7</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-tenisowa-bajka-niewiarygodna-historia-swiatowe-media-o-chwal,nId,8089200">RMF24</source>
+    </item>
+    <item>
+      <title>Castor: CERN Advanced STORage Manager</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b4559c4e5d02</link>
+      <description>The CERN Advanced STORage manager (CASTOR) is a hierarchical storage (i.e. has disk and tape) management system which was developed at CERN for archiving physics data (with very large data volumes, see the plot on the right). Files can be stored, listed, retrieved and remotely accessed using CASTOR command-line tools or user applications that were developed using the CASTOR API. CASTOR provides a set of access protocols such as XROOT (the main and recommended protocol) and GridFTP. RFIO (Remote File IO) used to be supported until 2016.</description>
+      <pubDate>Thu, 04 Jun 2026 19:52:02 GMT</pubDate>
+      <guid isPermaLink="false">b4559c4e5d02</guid>
+      <source url="https://castor.web.cern.ch/content/home.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Elon Musk tries again to escape FTC audits of X data handling</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba028053e6c7</link>
+      <description>Musk can&apos;t be trusted to protect X user privacy, public commenters warn FTC.</description>
+      <pubDate>Thu, 04 Jun 2026 19:49:12 GMT</pubDate>
+      <guid isPermaLink="false">ba028053e6c7</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Henry Nowak deserves legacy that goes beyond tragedy, says PM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5cac6da9388a</link>
+      <description>Prime Minister Sir Keir Starmer mets the family of Henry Nowak at 10 Downing Street.</description>
+      <pubDate>Thu, 04 Jun 2026 19:46:09 GMT</pubDate>
+      <guid isPermaLink="false">5cac6da9388a</guid>
+      <source url="https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Polski dowódca z jednym z najwyższych odznaczeń wojskowych USA      </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/313f5b45552f</link>
+      <description>Dowódca Generalny Rodzajów Sił Zbrojnych generał broni Marek Sokołowski został uhonorowany w USA odznaczeniem Legion of Merit w stopniu Komandora. To jedno z najwyższych odznaczeń wojskowych USA nadawanych obcokrajowcom.</description>
+      <pubDate>Thu, 04 Jun 2026 19:44:50 GMT</pubDate>
+      <guid isPermaLink="false">313f5b45552f</guid>
+      <source url="https://tvn24.pl/polska/polski-dowodca-general-marek-sokolowski-odznaczony-amerykanskim-medalem-legion-of-merit-st9081559?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Kate hugs mum ringing &apos;end of cancer treatment&apos; bell</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ee2c57a39a27</link>
+      <description>The Princess of Wales encourages an emotional cancer patient at The Christie by saying &quot;you can do it!&quot;</description>
+      <pubDate>Thu, 04 Jun 2026 19:37:13 GMT</pubDate>
+      <guid isPermaLink="false">ee2c57a39a27</guid>
+      <source url="https://www.bbc.com/news/articles/cq5p52l2xjjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Meta&apos;s ships facial recognition on smart glasses</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/edbc8beb0d4e</link>
+      <description>Stella is the companion app for Meta&apos;s smart glasses. Inspecting version 273.0.0.21 of the Android build (com.facebook.stella), I found the entire computational and storage stack for on-device facial recognition: three face models, a local database schema, a cosine-similarity vector index dimensioned to match the models, a write path that stages biometric records to disk, a fully wired notification surface, and a user-facing &quot;Connections&quot; widget.
+
+I want to be precise about what that does and do</description>
+      <pubDate>Thu, 04 Jun 2026 19:36:48 GMT</pubDate>
+      <guid isPermaLink="false">edbc8beb0d4e</guid>
+      <source url="https://www.buchodi.com/meta-glasses-facial-recognition/">Hacker News</source>
+    </item>
+    <item>
+      <title>Zełenski napisał list otwarty do Putina. Takie słowa jeszcze nie padły</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22d98f125890</link>
+      <description>&quot;Ukraina proponuje zakończenie tej wojny w formacie między Wami a nami. Proponuję Panu spotkanie&quot; - napisał w liście otwartym do prezydenta Rosji Władimira Putina prezydent Ukrainy Wołodymyr Zełenski. Wojna &quot;w końcu przestaje się podobać Rosjanom (...). Musimy określić, jaka przyszłość czeka pokolenia Ukraińców i Rosjan, które przyjdą po nas&quot; - napisał. Wskazał, że dziś po raz pierwszy w historii Rosji jest ona zależna od Chin i że zna dane wywiadowcze. &quot;Widzimy, że próbujecie coś zorganizować wokół Naddniestrza. Naprawdę chcesz przez to wszystko przechodzić?&quot; - zwrócił się całkiem bezpośrednio do Putina.</description>
+      <pubDate>Thu, 04 Jun 2026 19:36:01 GMT</pubDate>
+      <guid isPermaLink="false">22d98f125890</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-napisal-list-otwarty-do-putina-takie-slowa-jeszcze-,nId,8089199">RMF24</source>
+    </item>
+    <item>
+      <title>Meta steals a tactic from Tesla and builds data centers in tents</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9d4929215a92</link>
+      <description>Meta may have one found one way to slash its massive data center bill: tents.</description>
+      <pubDate>Thu, 04 Jun 2026 19:33:09 GMT</pubDate>
+      <guid isPermaLink="false">9d4929215a92</guid>
+      <source url="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/">TechCrunch</source>
+    </item>
+    <item>
+      <title>How misinformation about student&apos;s murder sent two people into hiding</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b2a8be691d89</link>
+      <description>A former police officer wrongly identified as being at the scene of Henry Nowak&apos;s arrest and death said she is scared for her safety.</description>
+      <pubDate>Thu, 04 Jun 2026 19:24:11 GMT</pubDate>
+      <guid isPermaLink="false">b2a8be691d89</guid>
+      <source url="https://www.bbc.com/news/videos/cg4p4lr9v35o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Apple approves Poke as the first AI agent on its Messages for Business platform</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/15755989363b</link>
+      <description>Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.</description>
+      <pubDate>Thu, 04 Jun 2026 19:20:58 GMT</pubDate>
+      <guid isPermaLink="false">15755989363b</guid>
+      <source url="https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/">TechCrunch</source>
+    </item>
+    <item>
+      <title>​Tragiczny wypadek na Rysach. Jedna osoba nie żyje, druga walczy o życie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/94a884378640</link>
+      <description>W czwartek na Rysach doszło do tragicznego wypadku - jedna osoba zginęła w wyniku upadku z dużej wysokości, a druga jest w stanie ciężkim. Akcję ratunkową utrudniały bardzo trudne warunki pogodowe, a ratownicy ostrzegają przed niebezpieczeństwami czyhającymi na turystów w wyższych partiach gór.</description>
+      <pubDate>Thu, 04 Jun 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="false">94a884378640</guid>
+      <source url="https://www.rmf24.pl/regiony/zakopane/news-tragiczny-wypadek-na-rysach-jedna-osoba-nie-zyje-druga-walcz,nId,8089198">RMF24</source>
+    </item>
     <item>
       <title>Najlepsze produkty wspierające jelita. Ten na pewno masz już w lodówce</title>
       <link>https://lolsoftware.github.io/4-news/#/article/09b824b4fd17</link>
@@ -16,12 +138,132 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Najlepsze-produkty-wspierajace-jelita-Ten-na-pewno-masz-juz-w-lodowce,285111,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Śmiertelny wypadek w Tatrach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e936c531ba38</link>
+      <description>W czwartek na Rysach doszło do wypadku. Jedna osoba zginęła, druga została ciężko ranna. Ratownicy TOPR przypominają, że warunki w Tatrach wciąż są trudne, zalega tam śnieg, a mgła ogranicza widzialność.</description>
+      <pubDate>Thu, 04 Jun 2026 18:56:01 GMT</pubDate>
+      <guid isPermaLink="false">e936c531ba38</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/rysy-smiertelny-wypadek-w-tatrach-jedna-osoba-nie-zyje-trudne-warunki-w-gorach-st9081627?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a9f3ddc7fa0</link>
+      <description>Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.</description>
+      <pubDate>Thu, 04 Jun 2026 18:54:08 GMT</pubDate>
+      <guid isPermaLink="false">2a9f3ddc7fa0</guid>
+      <source url="https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Niepokojąca deklaracja Putina w &quot;rosyjskim Davos&quot;. Wystartuje w kolejnych wyborach?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4b50660f2fa0</link>
+      <description>Władimir Putin powiedział, że jest za wcześnie, by stwierdzić, czy będzie ubiegał się o kolejną kadencję w 2030 roku, mimo że konstytucja pozwala mu pozostać u władzy. Stwierdził tak w Sankt Petersburgu, gdzie odbywa się 29. edycja Międzynarodowego Petersburskiego Forum Ekonomicznego, czyli SPIEF, często nazywanego &quot;rosyjskim Davos&quot;. &quot;Rosja pokona Ukrainę na polu bitwy, jeśli będzie to konieczne&quot; - powiedział także, dodając, że Rosja jest również gotowa zakończyć wojnę drogą dyplomatyczną i &quot;uszanować bliżej nieokreślone kompromisy&quot;, które, jak twierdził, &quot;zostały uzgodnione z Trumpem na szczycie na Alasce w zeszłym roku&quot;.</description>
+      <pubDate>Thu, 04 Jun 2026 18:36:04 GMT</pubDate>
+      <guid isPermaLink="false">4b50660f2fa0</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-niepokojaca-deklaracja-putina-w-rosyjskim-davos-wystartuje-w,nId,8089197">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Nasza Pszczółka Maja lepsza od rosyjskich rakiet!&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8b4010e88111</link>
+      <description>Politycy, w tym premier i ministrowie, gratulują wygranego meczu polskiej tenisistce Mai Chwalińskiej, która w czwartek awansowała do finału wielkoszlemowego turnieju French Open.</description>
+      <pubDate>Thu, 04 Jun 2026 18:35:39 GMT</pubDate>
+      <guid isPermaLink="false">8b4010e88111</guid>
+      <source url="https://tvn24.pl/swiat/chwalinska-w-finale-rolanda-garrosa-nasza-pszczolka-maja-lepsza-od-rosyjskich-rakiet-st9081607?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Cable lobby warns of chaos if FCC doesn&apos;t relax ban on foreign routers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fa6d003c8b10</link>
+      <description>NCTA seeks waiver from foreign-router ban, citing memory and substrate shortages.</description>
+      <pubDate>Thu, 04 Jun 2026 18:34:33 GMT</pubDate>
+      <guid isPermaLink="false">fa6d003c8b10</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Liverpool appoint Andoni Iraola as head coach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/23986cb646c9</link>
+      <description>Liverpool appoint Andoni Iraola as their new head coach on a two-year contract following the sacking of Arne Slot.</description>
+      <pubDate>Thu, 04 Jun 2026 18:28:58 GMT</pubDate>
+      <guid isPermaLink="false">23986cb646c9</guid>
+      <source url="https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Kolejna porcja opadów, możliwe burze. Tak będą wędrować</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1f2734827ca</link>
+      <description>Do Polski zmierza kolejna dostawa deszczu. Na noc z czwartku na piątek oraz na piątek prognozowane są opady, miejscami ulewne, a także burze. Sprawdź na mapach, czego spodziewać się w pogodzie.</description>
+      <pubDate>Thu, 04 Jun 2026 18:19:14 GMT</pubDate>
+      <guid isPermaLink="false">f1f2734827ca</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-radar-i-mapa-opadow-na-zywo-piatek-5-06-nawet-30-litrow-wody-w-12-godzin-gdzie-ich-sie-spodziewac-st9081552?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Rozmowy pokojowe z Rosją? Propozycja premiera Czech</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4e862a0e41ac</link>
+      <description>Premier Czech, Andrej Babisz, zasugerował, by to niemiecki kanclerz Friedrich Merz objął rolę głównego negocjatora Unii Europejskiej w rozmowach dotyczących zakończenia rosyjskiej agresji na Ukrainę. Propozycja ta pojawiła się w kontekście trwających dyskusji o przyszłości Ukrainy w strukturach UE oraz o roli Europy i Stanów Zjednoczonych w procesie pokojowym.</description>
+      <pubDate>Thu, 04 Jun 2026 18:05:55 GMT</pubDate>
+      <guid isPermaLink="false">4e862a0e41ac</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-rozmowy-pokojowe-z-rosja-propozycja-premiera-czech,nId,8089196">RMF24</source>
+    </item>
+    <item>
+      <title>Ex-wife of Dubai ruler&apos;s nephew missing, says lawyer</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3c378977ac4f</link>
+      <description>British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.</description>
+      <pubDate>Thu, 04 Jun 2026 18:01:54 GMT</pubDate>
+      <guid isPermaLink="false">3c378977ac4f</guid>
+      <source url="https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Bumblebees can spontaneously solve problems, study finds</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f8aad2773093</link>
+      <description>Scientists in Finland found bees could solve an insect version of the classic &quot;box-and-banana&quot; problem.</description>
+      <pubDate>Thu, 04 Jun 2026 18:00:35 GMT</pubDate>
+      <guid isPermaLink="false">f8aad2773093</guid>
+      <source url="https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/">Ars Technica</source>
+    </item>
+    <item>
       <title>Napój na zdrowe jelita i brzuch płaski jak deska. Pij tylko o tej porze</title>
       <link>https://lolsoftware.github.io/4-news/#/article/bfdf96b5f0a9</link>
       <description>Ten prosty napój z siemienia lnianego od lat jest polecany na problemy trawienne. Może wspierać pracę jelit, poprawiać trawienie, łagodzić zaparcia i pomagać dłużej utrzymać uczucie sytości.</description>
       <pubDate>Thu, 04 Jun 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="false">bfdf96b5f0a9</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Napoj-na-zdrowe-jelita-i-brzuch-plaski-jak-deska-Pij-tylko-o-tej-porze,285110,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>&quot;To działanie niedopuszczalne&quot;. Reakcja szefa MON na publikację zdjęcia żołnierzy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/802462df59ad</link>
+      <description>Wicepremier, szef MON Władysław Kosiniak-Kamysz stwierdził, że dla bezpieczeństwa Polek i Polaków lepiej by było, gdyby urzędnicy BBN &quot;nie publikowali wizerunków komandosów jednostek specjalnych&quot;. O publikacji zdjęcia z odsłoniętymi twarzami żołnierzy napisał Onet. Biuro Bezpieczeństwa Narodowego oświadczyło, że fotografię w takiej formie otrzymało od organizatorów uroczystości Święta Wojsk Specjalnych.</description>
+      <pubDate>Thu, 04 Jun 2026 17:52:29 GMT</pubDate>
+      <guid isPermaLink="false">802462df59ad</guid>
+      <source url="https://tvn24.pl/polska/bbn-opublikowalo-zdjecie-z-wizerunkami-zolnierzy-wojsk-specjalnych-szef-mon-to-dzialanie-niedopuszczalne-st9081501?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Dutch police investigate suspected drugging and sexual assault of multiple women</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/26abfab742e6</link>
+      <description>Police raided the suspects&apos; homes after tip-offs from German and UK authorities.</description>
+      <pubDate>Thu, 04 Jun 2026 17:48:36 GMT</pubDate>
+      <guid isPermaLink="false">26abfab742e6</guid>
+      <source url="https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>The desperation of NYTimes</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9629e88947ea</link>
+      <description>I recently got suckered into subscribing to NYTimes because I wanted to read an article behind a paywall and I couldn&apos;t find an easy and quick alternative. I didn&apos;t mind the $2.00 a month. But I took offense to what happened after I paid.</description>
+      <pubDate>Thu, 04 Jun 2026 17:39:13 GMT</pubDate>
+      <guid isPermaLink="false">9629e88947ea</guid>
+      <source url="https://rozumem.xyz/posts/16">Hacker News</source>
+    </item>
+    <item>
+      <title>Tutaj woda od lat zabiera domy. Właśnie zniszczyła kolejny </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fea40ab8b091</link>
+      <description>U wybrzeży Karoliny Północnej kolejny dom runął do oceanu. To już dwudziesty budynek od niemal roku, który został zniszczony w tej okolicy wskutek niekorzystnych warunków pogodowych. Lokalne władze starają się poprawić sytuację mieszkańców, jednak ci boją się o przyszłość.</description>
+      <pubDate>Thu, 04 Jun 2026 17:36:29 GMT</pubDate>
+      <guid isPermaLink="false">fea40ab8b091</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-karolina-polnocna-tutaj-woda-od-lat-zabiera-domy-wlasnie-zniszczyla-kolejny-st9081506?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Jest decyzja ws. kolejnych ekshumacji szczątków polskich ofiar na Wołyniu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/68d6cd5abac5</link>
+      <description>&quot;Jest zgoda na ekshumacje szczątków polskich ofiar w Ostrówkach i Woli Ostrowieckiej na Wołyniu&quot; - poinformował szef ukraińskiego IPN.</description>
+      <pubDate>Thu, 04 Jun 2026 17:26:58 GMT</pubDate>
+      <guid isPermaLink="false">68d6cd5abac5</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-jest-decyzja-ws-kolejnych-ekshumacji-szczatkow-polskich-ofia,nId,8089195">RMF24</source>
     </item>
     <item>
       <title>Chwalińska w finale French Open! Polka zagra o tytuł</title>
@@ -188,6 +430,14 @@ a technical moonshot that will actually matter for over 100 to 1,000 years.</des
       <source url="https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/">Ars Technica</source>
     </item>
     <item>
+      <title>When AI Builds Itself: Our progress toward recursive self-improvement</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e5e9682128d</link>
+      <description>Our progress toward recursive self-improvement, and its implications.</description>
+      <pubDate>Thu, 04 Jun 2026 16:20:17 GMT</pubDate>
+      <guid isPermaLink="false">9e5e9682128d</guid>
+      <source url="https://www.anthropic.com/institute/recursive-self-improvement">Hacker News</source>
+    </item>
+    <item>
       <title>A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it</title>
       <link>https://lolsoftware.github.io/4-news/#/article/98005d77616f</link>
       <description>The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.</description>
@@ -210,256 +460,6 @@ a technical moonshot that will actually matter for over 100 to 1,000 years.</des
       <pubDate>Thu, 04 Jun 2026 16:12:56 GMT</pubDate>
       <guid isPermaLink="false">0634842e4c31</guid>
       <source url="https://tvn24.pl/tvnmeteo/polska/zorza-polarna-w-polsce-slonce-solidnie-sie-rozkrecilo-czy-jest-szansa-na-zorze-polarna-co-z-pogoda-st9081419?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Szwedzki sąd uderza w rosyjską flotę cieni. Statek Caffa trafi do Ukrainy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ad73602b7906</link>
-      <description>​Zatrzymany w marcu na Bałtyku masowiec Caffa, należący do tzw. rosyjskiej floty cieni, ma zostać przekazany Ukrainie - tak zdecydował sąd w Ystad w Szwecji. Decyzja zapadła na wniosek prokuratury, która działała na prośbę śledczych z Ukrainy.</description>
-      <pubDate>Thu, 04 Jun 2026 16:12:01 GMT</pubDate>
-      <guid isPermaLink="false">ad73602b7906</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-szwedzki-sad-uderza-w-rosyjska-flote-cieni-statek-caffa-traf,nId,8089192">RMF24</source>
-    </item>
-    <item>
-      <title>300 lekarzy straciło uprawnienia. &quot;Nie powinni leczyć bez znajomości języka&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0e8a8e19c815</link>
-      <description>Około 300 lekarzy spoza Unii Europejskiej straciło warunkowe prawo wykonywania zawodu za brak potwierdzenia znajomości języka polskiego. Szef samorządu lekarskiego Łukasz Jankowski odpiera zarzuty o korporacyjny egoizm środowiska. - To fałszywa narracja, że oni są dla nas konkurencją - mówi w rozmowie z Rynkiem Zdrowia.</description>
-      <pubDate>Thu, 04 Jun 2026 16:12:00 GMT</pubDate>
-      <guid isPermaLink="false">0e8a8e19c815</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/300-lekarzy-stracilo-uprawnienia-Nie-powinni-leczyc-bez-znajomosci-jezyka,285093,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Retro-Tech Parenting</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/09d88e2cd78f</link>
-      <description>We can embrace the magic of technology without fear by looking for inspiration from a previous generation of technology.</description>
-      <pubDate>Thu, 04 Jun 2026 16:02:35 GMT</pubDate>
-      <guid isPermaLink="false">09d88e2cd78f</guid>
-      <source url="https://havenweb.org/2026/05/28/retro-tech.html">Hacker News</source>
-    </item>
-    <item>
-      <title>To już się dzieje! Tak sztuczna inteligencja zmienia sklepy internetowe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9c60b4090f58</link>
-      <description>Branża e-commerce coraz chętniej sięga po sztuczną inteligencję. Co ciekawe, nie dotyczy to tylko największych graczy. Sprawdzamy, jakie funkcje AI już dzisiaj może wdrożyć niemal każdy właściciel sklepu internetowego – od opisów produktów i zdjęć po chatboty, rekomendacje, wyszukiwarkę i analizę danych.</description>
-      <pubDate>Thu, 04 Jun 2026 16:00:19 GMT</pubDate>
-      <guid isPermaLink="false">9c60b4090f58</guid>
-      <source url="https://antyweb.pl/ai-w-sklepie-internetowym">Antyweb</source>
-    </item>
-    <item>
-      <title>Cash App launches a wand for tap-and-pay</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/266cc056fead</link>
-      <description>Cash App plans to launch more tap-to-pay tags</description>
-      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">266cc056fead</guid>
-      <source url="https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Uruchamia spalanie tłuszczu. Naukowcy odkryli nowy sposób odchudzania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ddcaf60a177</link>
-      <description>Naukowcy odkryli hormon, który może odgrywać kluczową rolę w spalaniu tkanki tłuszczowej. Badania pokazują, że po otrzymaniu sygnału z mózgu pobudza on jelita do przekształcania tłuszczu w energię. Co ważne, zwiększenie jego poziomu prowadziło do większego spalania tłuszczu bez zauważalnych skutków ubocznych. Odkrycie może otworzyć drogę do opracowania nowych terapii otyłości i zaburzeń metabolicznych.</description>
-      <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7ddcaf60a177</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Uruchamia-spalanie-tluszczu-Naukowcy-odkryli-nowy-sposob-odchudzania,285104,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Show HN: Open Terminal – A Bloomberg Style App for Research</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d2b75eb05bc9</link>
-      <description>Professional financial research for individual investors. Real SEC data, live market news, AI-powered analysis, and stock charts.</description>
-      <pubDate>Thu, 04 Jun 2026 15:58:48 GMT</pubDate>
-      <guid isPermaLink="false">d2b75eb05bc9</guid>
-      <source url="https://tesseractanalytics.ai/">Hacker News</source>
-    </item>
-    <item>
-      <title>Colorful, Chaotic Jupiter</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a7e683961eda</link>
-      <description>NASA&apos;s Juno spacecraft captured this color-enhanced view of Jupiter&apos;s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024.</description>
-      <pubDate>Thu, 04 Jun 2026 15:58:03 GMT</pubDate>
-      <guid isPermaLink="false">a7e683961eda</guid>
-      <source url="https://www.nasa.gov/image-article/colorful-chaotic-jupiter/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Woman falsely identified as officer in Nowak case &apos;scared for safety&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/93d3de40fc11</link>
-      <description>Ex-police officer Christi Hill says she has been moved to safe house after being falsely accused of being involved in Henry Nowak&apos;s arrest before his death.</description>
-      <pubDate>Thu, 04 Jun 2026 15:50:47 GMT</pubDate>
-      <guid isPermaLink="false">93d3de40fc11</guid>
-      <source url="https://www.bbc.com/news/articles/cg7pl7zj024o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Waymo’s spent robotaxi batteries will be used as grid storage</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b5ba46ea8c34</link>
-      <description>The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.</description>
-      <pubDate>Thu, 04 Jun 2026 15:48:41 GMT</pubDate>
-      <guid isPermaLink="false">b5ba46ea8c34</guid>
-      <source url="https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/">TechCrunch</source>
-    </item>
-    <item>
-      <title>It doesn&apos;t feel very agricultural: The 2026 Subaru Solterra review</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/08d6b47808c6</link>
-      <description>Subaru&apos;s badge-engineered SUV remains on sale alongside the new Trailseeker.</description>
-      <pubDate>Thu, 04 Jun 2026 15:43:51 GMT</pubDate>
-      <guid isPermaLink="false">08d6b47808c6</guid>
-      <source url="https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Są w mieście i na leśnych ścieżkach. Co zrobić, gdy nas ugryzą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/734441753560</link>
-      <description>Długi weekend w pełni, a wielu z nas ma sporo czasu na odpoczynek na świeżym powietrzu. Przebywając na łonie natury, warto pamiętać o odpowiednim zabezpieczeniu się przed kleszczami. Jeśli mimo ochrony dojdzie do ukąszenia, powinniśmy wiedzieć, jak odpowiednio zareagować.</description>
-      <pubDate>Thu, 04 Jun 2026 15:42:05 GMT</pubDate>
-      <guid isPermaLink="false">734441753560</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/sa-w-miescie-i-na-lesnych-sciezkach-co-zrobic-gdy-nas-ugryza-st9081153?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zorza polarna nad Polską już dziś. Sprawdź, gdzie i kiedy dokładnie patrzeć w niebo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/52eff456ddb3</link>
-      <description>Dziś wieczorem oraz w nocy z 4 czerwca na 5 czerwca będzie szansa zobaczyć na własne oczy jedno z najpiękniejszych zjawisk przyrodniczych – zorzę polarną. To efekt silnej burzy geomagnetycznej, która według prognoz może rozświetlić niebo niemal w całym kraju. Zorza polarna świeci zazwyczaj nisko nad północnym horyzontem, gdzie konkuruje z łuną po zachodzącym Słońcu.</description>
-      <pubDate>Thu, 04 Jun 2026 15:38:55 GMT</pubDate>
-      <guid isPermaLink="false">52eff456ddb3</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-zorza-polarna-nad-polska-juz-dzis-sprawdz-gdzie-i-kiedy-dokl,nId,8089189">RMF24</source>
-    </item>
-    <item>
-      <title>Groźny incydent na lotnisku we Frankfurcie. Samolot &quot;położył się na brzuchu&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0192194d5db4</link>
-      <description>Na lotnisku we Frankfurcie doszło do groźnego incydentu z udziałem Boeinga 787 należącego do niemieckiego przewoźnika Lufthansa. Przed rozpoczęciem lotu do Los Angeles samolot &quot;położył się na brzuch&quot; po zapadnięciu się przedniego podwozia. W wyniku zdarzenia rannych zostało kilku pracowników linii lotniczych. Trwa wyjaśnianie przyczyn wypadku.</description>
-      <pubDate>Thu, 04 Jun 2026 15:37:26 GMT</pubDate>
-      <guid isPermaLink="false">0192194d5db4</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-grozny-incydent-na-lotnisku-we-frankfurcie-samolot-polozyl-s,nId,8089190">RMF24</source>
-    </item>
-    <item>
-      <title>The LLM warnings Google fired Timnit Gebru over have all come true</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c2ebb3bd3220</link>
-      <description>💬 0  🔁 72  ❤️ 79 · Darren O&apos;Connor
-
-&quot;Timnit Gebru was fired from Google in December 2020 for refusing to retract a research paper, and every single warning that paper made about large language mode…</description>
-      <pubDate>Thu, 04 Jun 2026 15:34:43 GMT</pubDate>
-      <guid isPermaLink="false">c2ebb3bd3220</guid>
-      <source url="https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from">Hacker News</source>
-    </item>
-    <item>
-      <title>Amerykański plan pokojowy w gruzach. Hezbollah odrzuca rozejm i grzmi o &quot;poniżeniu&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3b32b0e17c8c</link>
-      <description>Szyicka organizacja Hezbollah, wspierana przez Iran, odrzuciła propozycję zawieszenia broni wynegocjowaną przez izraelskich i libańskich dyplomatów w Waszyngtonie przy mediacji USA i przekazała tę informację libańskim władzom - poinformowała w czwartek AFP, powołując się na przedstawiciela Hezbollahu.</description>
-      <pubDate>Thu, 04 Jun 2026 15:34:00 GMT</pubDate>
-      <guid isPermaLink="false">3b32b0e17c8c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Amerykanski-plan-pokojowy-w-gruzach-Hezbollah-odrzuca-rozejm-i-grzmi-o-ponizeniu-9146365.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Scientists discover vast hidden structure beneath Antarctica’s ice</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fd9ddfed7ee6</link>
-      <description>A giant fan-shaped network of hidden basins has been discovered beneath East Antarctica, revealing that several well-known subglacial features are actually part of one massive geological structure. The finding sheds new light on Antarctica’s ancient tectonic history and could help scientists better understand how the ice sheet behaves today.</description>
-      <pubDate>Thu, 04 Jun 2026 15:23:27 GMT</pubDate>
-      <guid isPermaLink="false">fd9ddfed7ee6</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/06/260604044244.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>KVarN: Native vLLM backend for KV-cache quantization by Huawei</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/297156776a50</link>
-      <description>KVarN is a native vLLM KV-cache quantization backend for your agents: 3-5x more context, throughput above FP16, and FP16-level accuracy. Calibration-free, one flag. - huawei-csl/KVarN</description>
-      <pubDate>Thu, 04 Jun 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="false">297156776a50</guid>
-      <source url="https://github.com/huawei-csl/KVarN">Hacker News</source>
-    </item>
-    <item>
-      <title>Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3e8f60f25bfc</link>
-      <description>Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.</description>
-      <pubDate>Thu, 04 Jun 2026 15:08:34 GMT</pubDate>
-      <guid isPermaLink="false">3e8f60f25bfc</guid>
-      <source url="https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Incydent podczas procesji Bożego Ciała. Pod ołtarz wtargnął mężczyzna z nożami </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/db389ce683cf</link>
-      <description>Podczas procesji Bożego Ciała w Sosnowcu mężczyzna trzymający noże wtargnął w okolice ołtarza polowego. Dzięki reakcji policjantów nikt nie ucierpiał, a agresor został zatrzymany. Gdy wytrzeźwieje, zostanie przesłuchany.</description>
-      <pubDate>Thu, 04 Jun 2026 15:07:02 GMT</pubDate>
-      <guid isPermaLink="false">db389ce683cf</guid>
-      <source url="https://tvn24.pl/katowice/sosnowiec-incydent-podczas-procesji-bozego-ciala-pod-oltarz-wtargnal-mezczyzna-z-nozami-st9081492?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/987da7df565c</link>
-      <description>The California startup released the fourth-generation of its home assistance robot, Stretch.</description>
-      <pubDate>Thu, 04 Jun 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="false">987da7df565c</guid>
-      <source url="https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Quadem uderzyła w słupek. &quot;Pomyliła hamulec z gazem&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/07f0cd513675</link>
-      <description>Groźny wypadek w Gorzowie Wielkopolskim. Quad uderzył w szlaban. Kierująca nim kobieta jechała bez kasku. Na miejsce wezwano służby.</description>
-      <pubDate>Thu, 04 Jun 2026 15:01:44 GMT</pubDate>
-      <guid isPermaLink="false">07f0cd513675</guid>
-      <source url="https://tvn24.pl/lubuskie/gorzow-wielkopolski-quad-uderzyl-w-szlaban-kierujaca-pomylila-hamulec-z-gazem-st9081491?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>To dlatego tyjesz głównie na brzuchu. Po wielu latach znaleziono odpowiedź</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4e15c023677a</link>
-      <description>To, co dzieje się w jelitach, może mieć bezpośredni wpływ na odkładanie tłuszczu na brzuchu. Brytyjscy naukowcy wykazali, że osoby z mniej zróżnicowaną florą bakteryjną jelit częściej zmagają się z otyłością brzuszną, uznawaną za szczególnie niebezpieczną dla zdrowia. Badanie objęło ponad 3,6 tys. bliźniaków i wskazuje, że odpowiednia dieta może wspierać mikrobiom oraz zmniejszać ryzyko nadmiernego gromadzenia tkanki tłuszczowej.</description>
-      <pubDate>Thu, 04 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">4e15c023677a</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/To-dlatego-tyjesz-glownie-na-brzuchu-Po-wielu-latach-znaleziono-odpowiedz,285103,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Cudzoziemcy nie uratują polskich emerytur? Ponure prognozy ZUS</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d3b3db227a3b</link>
-      <description>Cudzoziemcy poprawią sytuację demograficzną, ale nie zahamują niekorzystnych trendów związanych ze starzeniem się społeczeństwa - wynika z opracowania demograficznego ZUS.</description>
-      <pubDate>Thu, 04 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d3b3db227a3b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Cudzoziemcy-nie-uratuja-polskich-emerytur-Ponure-prognozy-ZUS-9143350.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fcd02bb4548c</link>
-      <description>The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.</description>
-      <pubDate>Thu, 04 Jun 2026 14:57:41 GMT</pubDate>
-      <guid isPermaLink="false">fcd02bb4548c</guid>
-      <source url="https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/">TechCrunch</source>
-    </item>
-    <item>
-      <title>After 20 years, scientists finally shrink a powerful laser onto a chip</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1f66b09d2c9e</link>
-      <description>Researchers at EPFL have developed a chip-scale ultrafast laser that performs on par with traditional tabletop femtosecond lasers. The innovation could make advanced laser technologies far smaller, cheaper, and more accessible for applications ranging from medical diagnostics to atomic clocks.</description>
-      <pubDate>Thu, 04 Jun 2026 14:54:57 GMT</pubDate>
-      <guid isPermaLink="false">1f66b09d2c9e</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/06/260604044240.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d32c8cffeafb</link>
-      <description>The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</description>
-      <pubDate>Thu, 04 Jun 2026 14:54:22 GMT</pubDate>
-      <guid isPermaLink="false">d32c8cffeafb</guid>
-      <source url="https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Pijani turyści pływali w Odrze. Postawili służby na nogi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77f38facef0a</link>
-      <description>Służby interweniowały po zgłoszeniu o grupie osób pływających w Odrze w rejonie Mostu Piaskowego we Wrocławiu. Na miejsce skierowano ratowników, straż pożarną, ratowników i policję.</description>
-      <pubDate>Thu, 04 Jun 2026 14:41:51 GMT</pubDate>
-      <guid isPermaLink="false">77f38facef0a</guid>
-      <source url="https://tvn24.pl/wroclaw/wroclaw-interwencja-nad-odra-turysci-plywali-w-rzece-st9081362?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Hezbollah odrzuca propozycję rozejmu. Nici z negocjacji Izraela i Libanu w USA?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f934b6efab3</link>
-      <description>Hezbollah - antyizraelska i antyzachodnia szyicka organizacja wspierana przez Iran - odrzucił propozycję zawieszenia broni wynegocjowaną przez izraelskich i libańskich dyplomatów w Waszyngtonie przy mediacji USA. Taką wiadomość miał przekazać libańskim władzom. Poinformowała o tym agencja AFP, powołując się na przedstawiciela Hezbollahu.</description>
-      <pubDate>Thu, 04 Jun 2026 14:40:00 GMT</pubDate>
-      <guid isPermaLink="false">5f934b6efab3</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-hezbollah-odrzuca-propozycje-rozejmu-nici-z-negocjacji-izrae,nId,8089187">RMF24</source>
-    </item>
-    <item>
-      <title>Jedzenia nie brakuje, a niedożywienie dzieci wciąż powszechne. Polska Misja Medyczna o Senegalu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ad387c8434cb</link>
-      <description>Choć w Senegalu jedzenia nie brakuje, niedożywienie dzieci pozostaje poważnym problemem – mówi PAP Xymena Dyduch z Polskiej Misji Medycznej. Organizacja od dekady szkoli i doposaża senegalskie ośrodki zdrowia, jednak w 2026 r. ma zakończyć działania, bo MSZ skreśliło kraj z programu &quot;Polska pomoc&quot;.</description>
-      <pubDate>Thu, 04 Jun 2026 14:37:00 GMT</pubDate>
-      <guid isPermaLink="false">ad387c8434cb</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Jedzenia-nie-brakuje-a-niedozywienie-dzieci-wciaz-powszechne-Polska-Misja-Medyczna-o-Senegalu,285119,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>In a first, wind and solar generated more power than gas globally in April 2026</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46321db628b1</link>
-      <description>Wind and solar generated more electricity than gas globally for the first time ever in April 2026, according to new Ember data.</description>
-      <pubDate>Thu, 04 Jun 2026 14:36:39 GMT</pubDate>
-      <guid isPermaLink="false">46321db628b1</guid>
-      <source url="https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/">Hacker News</source>
     </item>
   </channel>
 </rss>
