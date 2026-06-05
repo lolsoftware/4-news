@@ -1,0 +1,13 @@
+{
+  "id": "3b6e469f31e5",
+  "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+  "originalTitle": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://news.ycombinator.com/item?id=48414869",
+  "publishedAt": "2026-06-05T16:33:00.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><td colspan=\"2\"></td><td><div><p>Hey HN, Guanming and Bill here from General Instinct (<a href=\"https://general-instinct.com/\">https://general-instinct.com/</a>).</p><p>After years of working in robotics, we kept running into the same problem: the best models never fit the hardware we actually had available.</p><p>The models that performed best were usually designed around datacenter assumptions: large GPUs, lots of memory bandwidth, and reliable network access. But most physical systems have the opposite constraints.</p><p>That led us down the path of figuring out how much of a frontier model could be preserved while still making it practical to run on edge hardware.</p><p>As part of that work, we recently open sourced InstinctRazor (<a href=\"https://github.com/General-Instinct/InstinctRazor\" rel=\"nofollow\">https://github.com/General-Instinct/InstinctRazor</a>)</p><p>One result we're excited about is compressing Qwen3.5-122B-A10B, a roughly 245 GB BF16 MoE model, into a 48 GiB GGUF. The resulting model is actually smaller than Gemma-4-26B-A4B while outperforming it on benchmarks like MMLU-Pro and GPQA-D etc. we preserve the parts that are always active (router, norms, Gated-DeltaNet/SSM layers, vision pathway, etc.) and quantize the routed experts much more aggressively. We then use on-policy distillation to recover capability lost during quantization.</p><p>The model can also run in a \"small GPU\" configuration where experts are streamed from system RAM. With an 8k context window, peak VRAM usage is around 7.6–8 GB.</p><p>If you're interested in the technical details, we wrote up the approach here (<a href=\"https://general-instinct.com/blog/frontier-moe-sub-4-bit\">https://general-instinct.com/blog/frontier-moe-sub-4-bit</a>)</p><p>We're especially interested in hearing from people deploying models onto robots or other edge devices. What models are you trying to run locally today? What has been the biggest bottleneck in getting them into production?</p></div></td></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
