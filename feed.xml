@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 05 Jun 2026 20:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:48:01 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Highly reviewed speaker can be hacked over the air to infect connected devices</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/219398756357</link>
+      <description>Seller of the Sound Blaster Katana V2X doesn&apos;t consider the behavior a vulnerability.</description>
+      <pubDate>Fri, 05 Jun 2026 21:00:29 GMT</pubDate>
+      <guid isPermaLink="false">219398756357</guid>
+      <source url="https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Pech Bartosza Zmarzlika w Manchesterze. Polak zaliczył niegroźny upadek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5d6ff0843b3c</link>
+      <description>​Bartosz Zmarzlik w finale żużlowych zawodów Grand Prix rozgrywanych w angielskim Manchesterze zaliczył niegroźny upadek i został wykluczony z powtórki. Broniący tytułu Polak zajął tym samym czwarte miejsce w trzeciej rundzie mistrzostw świata. Nadal jednak prowadzi w klasyfikacji generalnej. Zawody wygrał Australijczyk Max Fricke.</description>
+      <pubDate>Fri, 05 Jun 2026 20:40:55 GMT</pubDate>
+      <guid isPermaLink="false">5d6ff0843b3c</guid>
+      <source url="https://www.rmf24.pl/sport/news-pech-bartosza-zmarzlika-w-manchesterze-polak-zaliczyl-niegro,nId,8089418">RMF24</source>
+    </item>
+    <item>
+      <title>Hacker News, Sans AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6857593cb053</link>
+      <description>Comments</description>
+      <pubDate>Fri, 05 Jun 2026 20:38:40 GMT</pubDate>
+      <guid isPermaLink="false">6857593cb053</guid>
+      <source url="https://elijahpotter.dev/articles/hacker-news-sans-AI">Hacker News</source>
+    </item>
+    <item>
+      <title>Former cyber executive turned whistleblower accuses IBM of covering up several data breaches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9d84e0ef1610</link>
+      <description>IBM and two of its subsidiary companies were allegedly breached during the mid-2010s, which a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering up.</description>
+      <pubDate>Fri, 05 Jun 2026 20:31:04 GMT</pubDate>
+      <guid isPermaLink="false">9d84e0ef1610</guid>
+      <source url="https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/">TechCrunch</source>
+    </item>
     <item>
       <title>Jadła 3 razy dziennie i dożyła 117 lat. Ten tani produkt kupisz wszędzie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/99d9e8f4c902</link>
@@ -72,6 +104,14 @@
       <source url="https://tvn24.pl/polska/umorzyc-zadluzenie-z-safe-adam-jarubas-musi-byc-pelen-konsensus-st9082839?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Small modular nuclear reactor reaches criticality in first test</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6de0b30584db</link>
+      <description>The reactor, from a startup called Antares, isn&apos;t ready to generate power yet.</description>
+      <pubDate>Fri, 05 Jun 2026 19:23:08 GMT</pubDate>
+      <guid isPermaLink="false">6de0b30584db</guid>
+      <source url="https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/">Ars Technica</source>
+    </item>
+    <item>
       <title>From Nescafe to Ted Lasso: Anthony Head&apos;s life in pictures </title>
       <link>https://lolsoftware.github.io/4-news/#/article/c9dfd8bdd96c</link>
       <description>Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.</description>
@@ -110,6 +150,14 @@
       <pubDate>Fri, 05 Jun 2026 19:08:00 GMT</pubDate>
       <guid isPermaLink="false">ee4950daa252</guid>
       <source url="https://www.rynekzdrowia.pl/Farmacja/Ponad-750-ton-zmarnowanych-lekow-Ministerstwo-planuje-zmiany,285150,6.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>The saga of the International Space Station air leak took a worrying turn Friday</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/744269bd439e</link>
+      <description>We look forward to working with Roscosmos on a collaborative approach to address the leaks.&quot;</description>
+      <pubDate>Fri, 05 Jun 2026 19:03:16 GMT</pubDate>
+      <guid isPermaLink="false">744269bd439e</guid>
+      <source url="https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/">Ars Technica</source>
     </item>
     <item>
       <title>Najgorsze owoce dla diabetyków. Cukier poszybuje w górę</title>
@@ -358,54 +406,6 @@
       <pubDate>Fri, 05 Jun 2026 17:30:00 GMT</pubDate>
       <guid isPermaLink="false">4a92bab6cf82</guid>
       <source url="https://www.bankier.pl/wiadomosc/Putin-odrzuca-spotkanie-z-Zelenskim-Nie-widze-powodu-by-sie-z-nim-spotykac-9146835.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Putin przeczytał list od Zełenskiego. Oto odpowiedź</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8798839211b</link>
-      <description>&quot;Na razie nie widzę w tym sensu&quot; - tak odpowiedział Władimir Putin na pytanie o to, czy spotka się z Wołodymyrem Zełenskim. To pokłosie listu otwartego, jak wysłał do prezydenta Rosji prezydent Ukrainy. Putin, który obecnie przebywa w Sankt Petersburgu, gdzie odbywa się 29. edycja Międzynarodowego Petersburskiego Forum Ekonomicznego nazywanego &quot;rosyjskim Davos&quot;, określił treść tego niezwykle szczerego listu paroma słowami.</description>
-      <pubDate>Fri, 05 Jun 2026 17:21:49 GMT</pubDate>
-      <guid isPermaLink="false">b8798839211b</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-putin-przeczytal-list-od-zelenskiego-oto-odpowiedz,nId,8089404">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Wydaje się, że wszyscy wiedzieli, kim on jest&quot; </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6bdfe632c06a</link>
-      <description>Należałoby się zastanowić, czy to nie jest jakaś forma korupcji politycznej - analizował w TVN24 Michał Fuja z &quot;Superwizjera&quot;. Komentował nowe oświadczenie majątkowe zbiegłego posła PiS Zbigniewa Ziobry, a także informacje o tym, że prezes Zondacrypto wpłacił pieniądze na fundację byłego ministra sprawiedliwości.</description>
-      <pubDate>Fri, 05 Jun 2026 17:17:09 GMT</pubDate>
-      <guid isPermaLink="false">6bdfe632c06a</guid>
-      <source url="https://tvn24.pl/polska/wszyscy-wiedzieli-kim-jest-prezes-zondacrypto-st9082261?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>The most interesting startups right now want to get you off your phone</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bbb55645be73</link>
-      <description>Watch as the Equity podcast breaks down Anthropic&apos;s surprise IPO filing, the founders building startups to get you off your screen, and the token bubble that&apos;s starting to burst.</description>
-      <pubDate>Fri, 05 Jun 2026 17:17:06 GMT</pubDate>
-      <guid isPermaLink="false">bbb55645be73</guid>
-      <source url="https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/">TechCrunch</source>
-    </item>
-    <item>
-      <title>&quot;Poważny incydent&quot; przy Zaporoskiej Elektrowni Atomowej. Rosjanie ranni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ee422da171ff</link>
-      <description>Podczas rozminowywania w pobliżu Zaporoskiej Elektrowni Atomowej doszło do poważnego incydentu. Międzynarodowa Agencja Energii Atomowej poinformowała, że ranni zostali rosyjscy żołnierze.</description>
-      <pubDate>Fri, 05 Jun 2026 17:14:19 GMT</pubDate>
-      <guid isPermaLink="false">ee422da171ff</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-powazny-incydent-przy-zaporoskiej-elektrowni-atomowej-rosjan,nId,8089408">RMF24</source>
-    </item>
-    <item>
-      <title>Ex-Channel 4 News host Jon Snow reveals he has Alzheimer&apos;s</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/96192fcdc613</link>
-      <description>Snow, the lead presenter of C4 News for 32 years, will be seen navigating his diagnosis in a new film.</description>
-      <pubDate>Fri, 05 Jun 2026 17:10:50 GMT</pubDate>
-      <guid isPermaLink="false">96192fcdc613</guid>
-      <source url="https://www.bbc.com/news/articles/c3626ry101lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>&quot;Za 10 lat symbolem innowacyjności będzie Made in China&quot;. Polska spółka próbuje być w peletonie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/92fd068e24d0</link>
-      <description>Światowy przemysł farmaceutyczny przesuwa się w stronę technologii genowych, a największe inwestycje w tym obszarze prowadzą dziś m.in. Chiny i Stany Zjednoczone. Polpharma chce, aby Polska była częścią tego wyścigu. Uruchomiona linia technologiczna ma umożliwić skalowanie produktów mRNA i budowę kompetencji, które w przyszłości mogą stać się ważnym elementem europejskiego bezpieczeństwa lekowego.</description>
-      <pubDate>Fri, 05 Jun 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="false">92fd068e24d0</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Za-10-lat-symbolem-innowacyjnosci-bedzie-Made-in-China-Polska-spolka-probuje-byc-w-peletonie,284904,6.html">Rynek Zdrowia</source>
     </item>
   </channel>
 </rss>
