@@ -1,0 +1,13 @@
+{
+  "id": "0ee3b0bc59be",
+  "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+  "originalTitle": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+  "publishedAt": "2026-06-05T19:15:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- postmortem if it's published --> <!-- incident updates in reverse order --> <div> <h2> Update </h2> <div> <p><span>We are still exploring options to restore the deleted subscriptions, and we will provide another update soon. In the meantime, customers can manually re-subscribe their Slack and Teams channels to repositories.</span> </p> <p> Posted <span data-datetime-unix=\"1780685029000\"></span>Jun <var data-var=\"date\">05</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">18:43</var> UTC </p> </div> </div> <div> <h2> Monitoring </h2> <div> <p><span>The degradation has been mitigated. We are monitoring to ensure stability.</span> </p> <p> Posted <span data-datetime-unix=\"1780682700000\"></span>Jun <var data-var=\"date\">05</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">18:05</var> UTC </p> </div> </div> <div> <h2> Update </h2> <div> <p><span>During 14:49 UTC to 16:45 UTC, customers may have experienced authorization failures for legitimate requests. This was caused by a recently enabled feature flag, which has now been turned off as a mitigation. Customers should now see normal authorization behavior. This is also the cause of the chat integration issue, and we are exploring options to restore it. In the meantime, customers can manually re-subscribe their repo.</span> </p> <p> Posted <span data-datetime-unix=\"1780682683000\"></span>Jun <var data-var=\"date\">05</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">18:04</var> UTC </p> </div> </div> <div> <h2> Update </h2> <div> <p><span>Customers may see unexpected repo unsubscription events in their Slack or Teams channels.</span> </p> <p> Posted <span data-datetime-unix=\"1780680344000\"></span>Jun <var data-var=\"date\">05</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">17:25</var> UTC </p> </div> </div> <div> <h2> Investigating </h2> <div> <p><span>We are investigating reports of impacted performance for some GitHub services.</span> </p> <p> Posted <span data-datetime-unix=\"1780680031000\"></span>Jun <var data-var=\"date\">05</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">17:20</var> UTC </p> </div> </div> <!-- affected components --> </div></div>",
+  "image": "images/3be3d674b085.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
