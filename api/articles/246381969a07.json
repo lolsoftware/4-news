@@ -1,0 +1,13 @@
+{
+  "id": "246381969a07",
+  "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+  "originalTitle": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://pokeemerald.com/",
+  "publishedAt": "2026-06-06T11:12:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div aria-label=\"pokeemerald-wasm emulator\"> <header> <a href=\"https://github.com/tripplyons/pokeemerald-wasm\" target=\"_blank\" rel=\"noreferrer\" aria-label=\"Open pokeemerald-wasm on GitHub\"> <span>tripplyons</span> </a> </header> <section aria-label=\"Game display\"> <canvas id=\"screen\" width=\"240\" height=\"160\" aria-label=\"Game screen\"></canvas> </section> <p>loading wasm…</p> <section aria-label=\"Controls\"> <p><label for=\"speed\">Speed <output id=\"speed-value\" for=\"speed\">1x</output></label> </p> </section> <p>Keyboard: arrows, Z=A, X=B, Enter=Start, Shift=Select.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
