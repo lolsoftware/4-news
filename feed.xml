@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 06 Jun 2026 19:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 21:21:00 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hegseth attacks Europe over &apos;invasion&apos; of migrants on its beaches in D-Day speech</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e7f118c48386</link>
+      <description>The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.</description>
+      <pubDate>Sat, 06 Jun 2026 21:14:00 GMT</pubDate>
+      <guid isPermaLink="false">e7f118c48386</guid>
+      <source url="https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Builder wins bet on Epsom Derby thanks to &apos;spooky&apos; time capsule tip</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d8c8d052ce47</link>
+      <description>A member of the team that unearthed the 62-year-old letter put £20 on what came to be the winning horse.</description>
+      <pubDate>Sat, 06 Jun 2026 20:49:44 GMT</pubDate>
+      <guid isPermaLink="false">d8c8d052ce47</guid>
+      <source url="https://www.bbc.com/news/articles/ced41gy95y1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Zmarzlik stracił w Manchesterze pozycję lidera Grand Prix</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6227da8620b2</link>
+      <description>Bartosz Zmarzlik zajął trzecie miejsce w żużlowej Grand Prix w Manchesterze, czwartej rundzie mistrzostw świata. Wygrał Australijczyk Brady Kurtz i to on objął prowadzenie w klasyfikacji generalnej. Polak, który do tej pory był liderem, spadł na drugie miejsce.</description>
+      <pubDate>Sat, 06 Jun 2026 20:48:00 GMT</pubDate>
+      <guid isPermaLink="false">6227da8620b2</guid>
+      <source url="https://www.rmf24.pl/sport/news-zmarzlik-stracil-w-manchesterze-pozycje-lidera-grand-prix,nId,8089459">RMF24</source>
+    </item>
+    <item>
+      <title>Universal Memory Protocol – a shared format for agent memory</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a84c9a33bd23</link>
+      <description>An open standard for agent memory. What MCP did for tools, UMP does for memory.</description>
+      <pubDate>Sat, 06 Jun 2026 20:39:21 GMT</pubDate>
+      <guid isPermaLink="false">a84c9a33bd23</guid>
+      <source url="https://universalmemoryprotocol.io/">Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/303cab70ee0e</link>
+      <description>Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.</description>
+      <pubDate>Sat, 06 Jun 2026 20:32:24 GMT</pubDate>
+      <guid isPermaLink="false">303cab70ee0e</guid>
+      <source url="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/">TechCrunch</source>
+    </item>
+    <item>
+      <title>​Porsche pod pociągiem. Za kierownicą siedział 69-latek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1fa844cd519b</link>
+      <description>Do niebezpiecznego wypadku doszło w sobotę około godziny 18.30 na przejeździe kolejowym w Bulowicach w gminie Kęty (woj. małopolskie). 69-letni kierowca Porsche wjechał na przejazd wprost przed nadjeżdżający pociąg.</description>
+      <pubDate>Sat, 06 Jun 2026 20:25:03 GMT</pubDate>
+      <guid isPermaLink="false">1fa844cd519b</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-porsche-pod-pociagiem-za-kierownica-siedzial-69-latek,nId,8089458">RMF24</source>
+    </item>
+    <item>
+      <title>Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/32a6bc50c690</link>
+      <description>Comments</description>
+      <pubDate>Sat, 06 Jun 2026 20:24:29 GMT</pubDate>
+      <guid isPermaLink="false">32a6bc50c690</guid>
+      <source url="https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/">Hacker News</source>
+    </item>
     <item>
       <title>37 lat badań. Naukowcy już wiedzą, co frytki robią z organizmem</title>
       <link>https://lolsoftware.github.io/4-news/#/article/95fa836a6814</link>
@@ -14,6 +70,22 @@
       <pubDate>Sat, 06 Jun 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">95fa836a6814</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/37-lat-badan-Naukowcy-juz-wiedza-co-frytki-robia-z-organizmem,285129,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>​Nie żyje 3-latek, który wpadł do przydomowego stawu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a353b43efc71</link>
+      <description>Tragiczne informacje ws. 3-letniego chłopca, który tydzień temu wpadł do przydomowego stawu w powiecie bocheńskim w Małopolsce. Dziecko zmarło w szpitalu, nie odzyskując przytomności.</description>
+      <pubDate>Sat, 06 Jun 2026 19:52:01 GMT</pubDate>
+      <guid isPermaLink="false">a353b43efc71</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-nie-zyje-3-latek-ktory-wpadl-do-przydomowego-stawu,nId,8089457">RMF24</source>
+    </item>
+    <item>
+      <title>Home alone: Remote work, isolation, and mental health</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d47d80b12c84</link>
+      <description>Comments</description>
+      <pubDate>Sat, 06 Jun 2026 19:51:10 GMT</pubDate>
+      <guid isPermaLink="false">d47d80b12c84</guid>
+      <source url="https://www.science.org/doi/10.1126/science.aec7671">Hacker News</source>
     </item>
     <item>
       <title>Poważny wypadek na Półwyspie Helskim. Zderzenie trzech samochodów</title>
@@ -334,78 +406,6 @@
       <pubDate>Sat, 06 Jun 2026 15:55:46 GMT</pubDate>
       <guid isPermaLink="false">358d4f813542</guid>
       <source url="https://magazine.atavist.com/2026/mccann-cocaine-fugitives">Hacker News</source>
-    </item>
-    <item>
-      <title>&quot;To nie jest żadne rozczarowanie, to jest ogromny sukces Mai&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c3d0b01c59f</link>
-      <description>To jest naprawdę zwycięstwo Mai, to jest zwycięstwo polskiego tenisa. Nie można w żadnym wypadku mówić o rozczarowaniu - ocenił na antenie TVN24 Maciej Łosiak, redaktor naczelny &quot;Tenis Magazyn&quot;, komentując porażkę Mai Chwalińskiej w finale tegorocznego turnieju Rolanda Garrosa.</description>
-      <pubDate>Sat, 06 Jun 2026 15:51:04 GMT</pubDate>
-      <guid isPermaLink="false">6c3d0b01c59f</guid>
-      <source url="https://tvn24.pl/polska/maja-chwalinska-przegrala-final-roland-garros-2026-maciej-losiak-to-nie-jest-zadne-rozczarowanie-to-nie-jest-zaden-niedosyt-to-jest-ogromny-sukces-mai-st9083891?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Skóry lisa polarnego w bagażu. Odkrycie celników na granicy polsko-ukraińskiej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f3534282ef0b</link>
-      <description>Funkcjonariusze ukraińskiej straży granicznej oraz służby celnej udaremnili próbę przemytu 120 skór z lisa polarnego przez przejście graniczne Hruszów w obwodzie lwowskim. Wartość zatrzymanego towaru szacuje się na niemal 400 tysięcy hrywien, czyli ok 33 tys. zł. Sprawą zajmują się już odpowiednie służby, a kierowcy grożą konsekwencje prawne.</description>
-      <pubDate>Sat, 06 Jun 2026 15:48:19 GMT</pubDate>
-      <guid isPermaLink="false">f3534282ef0b</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-skory-lisa-polarnego-w-bagazu-odkrycie-celnikow-na-granicy-p,nId,8089447">RMF24</source>
-    </item>
-    <item>
-      <title>Teenager Andreeva beats Chwalinska at French Open for first Grand Slam title</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a84940dac0c1</link>
-      <description>Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.</description>
-      <pubDate>Sat, 06 Jun 2026 15:44:24 GMT</pubDate>
-      <guid isPermaLink="false">a84940dac0c1</guid>
-      <source url="https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Police in England and Wales told to halt AI use in court statements</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/34cd9c4b965c</link>
-      <description>Comments</description>
-      <pubDate>Sat, 06 Jun 2026 15:35:49 GMT</pubDate>
-      <guid isPermaLink="false">34cd9c4b965c</guid>
-      <source url="https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241">Hacker News</source>
-    </item>
-    <item>
-      <title>Windows Defender może Ci już nie wystarczyć. Nie popełniaj tego błędu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ae3f09d424f8</link>
-      <description>Microsoft usunął tekst o Defenderze jako najlepszym antywirusie na 2026 rok. Sprawa pokazuje, kiedy Windows Security wystarczy, a kiedy nie.</description>
-      <pubDate>Sat, 06 Jun 2026 15:30:55 GMT</pubDate>
-      <guid isPermaLink="false">ae3f09d424f8</guid>
-      <source url="https://antyweb.pl/windows-defender-moze-nie-wystarczyc">Antyweb</source>
-    </item>
-    <item>
-      <title>Maja Chwalińska wicemistrzynią Rolanda Garrosa. Pierwszy tytuł Andriejewej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1a5ddc03d0b2</link>
-      <description>​Maja Chwalińska przegrała z rozstawioną z numerem ósmym rosyjską tenisistką Mirrą Andriejewą 3:6, 2:6 w finale wielkoszlemowego turnieju French Open na kortach ziemnych w Paryżu. Mecz trwał godzinę i 22 minuty. W poniedziałek Polka awansuje na 21. miejsce w światowym rankingu, notując skok o 93 pozycje.</description>
-      <pubDate>Sat, 06 Jun 2026 15:18:59 GMT</pubDate>
-      <guid isPermaLink="false">1a5ddc03d0b2</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-maja-chwalinska-wicemistrzynia-rolanda-garrosa-pierwszy-tytu,nId,8089446">RMF24</source>
-    </item>
-    <item>
-      <title>Kijów ma wiadomość dla Putina. &quot;Szansa stracona, od teraz będzie gorzej&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1057f1b1b270</link>
-      <description>Minister spraw zagranicznych Ukrainy Andrij Sybiha ocenił, że Władimir Putin odrzucając propozycję Wołodymyra Zełenskiego dotyczącą rozmów pokojowych, zamknął sobie drogę do zakończenia wojny na korzystnych warunkach. „Od teraz wszystko będzie dla Rosji tylko gorsze” – podkreślił Sybiha.</description>
-      <pubDate>Sat, 06 Jun 2026 15:14:44 GMT</pubDate>
-      <guid isPermaLink="false">1057f1b1b270</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kijow-ma-wiadomosc-dla-putina-szansa-stracona-od-teraz-bedzi,nId,8089445">RMF24</source>
-    </item>
-    <item>
-      <title>Żmija lewantyńska ukąsiła 16-latka w Małopolsce, surowica musiała zostać sprowadzona z Niemiec</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e006806dd52c</link>
-      <description>Żmija lewantyńska to gatunek, który nie występuje u nas. Najłatwiej ją można spotkać na Cyprze i w Turcji. Trzymana w domu w Nowym Targu taka żmija w piątek ukąsiła 16-latka. Specjalny zespół musiał pojechać po surowicę aż do Monachium.</description>
-      <pubDate>Sat, 06 Jun 2026 15:09:16 GMT</pubDate>
-      <guid isPermaLink="false">e006806dd52c</guid>
-      <source url="https://tvn24.pl/fakty-artykuly/zmija-lewantynska-ukasila-16-latka-w-nowym-targu-trwa-walka-o-jego-zycie-surowica-zostala-sprowadzona-z-niemiec-st9083804?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Pierwsza karetka miała dzwonek, lampy naftowe i parę koni. 135 lat temu narodziło się polskie ratownictwo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/714aa411673d</link>
-      <description>6 czerwca 1891 r. na ulice Krakowa wyjechała pierwsza polska karetka pogotowia. Zaprzężony w konie ambulans, nazywany przez mieszkańców „budą ratunkową”, zapoczątkował historię ratownictwa medycznego w Polsce. Od tamtej pory pogotowie przeszło drogę od drewnianych wozów do ponad 1600 nowoczesnych zespołów ratownictwa medycznego działających w całym kraju.</description>
-      <pubDate>Sat, 06 Jun 2026 15:07:00 GMT</pubDate>
-      <guid isPermaLink="false">714aa411673d</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Pierwsza-karetka-miala-dzwonek-lampy-naftowe-i-pare-koni-135-lat-temu-narodzilo-sie-polskie-ratownictwo,285170,15.html">Rynek Zdrowia</source>
     </item>
   </channel>
 </rss>
