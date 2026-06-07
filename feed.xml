@@ -5,8 +5,191 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 07 Jun 2026 14:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:42:48 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zjadł rybę w restauracji, a chwilę później nie żył. Prokuratura sprawdza, co się stało</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4c854fbf1cbc</link>
+      <description>Niemieckie i włoskie media rozpisują się o zagadkowej śmierci 35-letniego turysty z Badenii-Wirtembergii po zjedzeniu ryby w restauracji. Do zdarzenia doszło nad jeziorem Garda. Dochodzenie toczy się równolegle w Niemczech i we Włoszech.</description>
+      <pubDate>Sun, 07 Jun 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="false">4c854fbf1cbc</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Zjadl-rybe-w-restauracji-a-chwile-pozniej-nie-zyl-Prokuratura-sprawdza-co-sie-stalo,285136,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>1,5 mln zgonów rocznie. WHO alarmuje o zagrożeniu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e4fc1445c8f</link>
+      <description>Każdego roku z powodu skażonej żywności choruje około 866 mln ludzi, a 1,5 mln umiera – wynika z najnowszych szacunków Światowej Organizacji Zdrowia (WHO). Choć od początku XXI wieku globalne obciążenie chorobami związanymi z żywnością zmalało, eksperci alarmują, że problem nadal dotyka setki milionów osób, a największe ryzyko ponoszą najmłodsze dzieci.</description>
+      <pubDate>Sun, 07 Jun 2026 19:01:00 GMT</pubDate>
+      <guid isPermaLink="false">6e4fc1445c8f</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/1-5-mln-zgonow-rocznie-WHO-alarmuje-o-zagrozeniu,285143,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>0,5 litra darmowej wody. Ma być obowiązkowe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08dbc7fce470</link>
+      <description>Ministerstwo Klimatu i Środowiska wpisało do projektu ustawy opakowaniowej obowiązek podania klientowi 0,5 l darmowej wody z kranu na życzenie – podaje Portal Samorządowy. Projekt nowelizacji jest na etapie uzgodnień i opiniowania.</description>
+      <pubDate>Sun, 07 Jun 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="false">08dbc7fce470</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/0-5-litra-darmowej-wody-Ma-byc-obowiazkowe,285145,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>50 tys. zł kary dla symulanta na SOR. Ministerstwo odpowiada</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3fabe4037ade</link>
+      <description>Do Ministerstwa Zdrowia wpłynęła petycja dotycząca wprowadzenia kar dla pacjentów za niezasadne korzystanie z systemu Państwowego Ratownictwa Medycznego.</description>
+      <pubDate>Sun, 07 Jun 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="false">3fabe4037ade</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/50-tys-zl-kary-dla-symulanta-na-SOR-Ministerstwo-odpowiada,285146,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>SpaceShield Hack 2026 – innowacje, które zmieniają przyszłość</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fcfdd4b05052</link>
+      <description>SpaceShield Hack to 24-godzinny hackathon, który zgromadził uczestników z całej Polski oraz Europy. Wydarzenie koncentrowało się na tworzeniu innowacyjnych rozwiązań odpowiadających na aktualne wyzwania technologiczne i społeczne – szczególnie w obszarach bezpieczeństwa, sektora kosmicznego oraz nowoczesnych technologii.</description>
+      <pubDate>Sun, 07 Jun 2026 17:07:55 GMT</pubDate>
+      <guid isPermaLink="false">fcfdd4b05052</guid>
+      <source url="https://kopalniawiedzy.pl/SpaceShield-Hack-2026-laureaci,38696">KopalniaWiedzy.pl</source>
+    </item>
+    <item>
+      <title>Proliferate (YC S25) is hiring to building open source Codex</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c5b3b597bb9b</link>
+      <description>About Proliferate
+
+Proliferate is building the operating system for modern engineering.
+
+We are building the company in person in SoMa, San Francisco. We care a lot about intensity, craft, and working with
+people who want to do the best work of their careers. We work hard, and we also take health seriously: company-expensed
+Whoop, meaningful health and wellness budget, and top-tier insurance.
+
+About the Founder
+
+I (Pablo) finished my master&apos;s in AI at 19 and joined Onyx (YC W24) as engineer #1, where I spent a year building
+enterprise AI search before starting Proliferate. You can see what I shipped there here. We’ll be working closely
+together.
+
+About the Role
+
+You’d be one of our first engineering hires and build the core product. This is a high-ownership role across product,
+systems, and user experience.
+
+Example work:
+
+  - Build a new core workflow end to end across agent runtime, product UI, and cloud infrastructure.
+  - Design and ship a new interface for human-agent collaboration made possible by a model capability that landed last
+    week.
+  - Turn a rough customer pain point into a polished product surface in days.
+  - Re-think how engineering teams review, redirect, and trust agent work before merge.
+
+Who We’re Looking For
+
+We have an extremely small, flat, talent-dense team. We value urgency, taste, truth-seeking, and people who care deeply
+about the quality and impact of their work.
+
+You might be a great fit if:
+
+  - You&apos;ve shipped products from 0 to 1
+  - You want a role that is unusually dense in learning, ownership, and pace
+  - You want to work with teammates who have very high standards
+  - You care deeply about what you build and who you build it with
+  - You want to do your life&apos;s work and enable other people to do theirs
+
+Stack
+
+TypeScript, React, Next.js, Python, Postgres, Redis, AWS, Rust
+
+Comp &amp; Benefits
+
+Top-of-market salary plus meaningful equity, full health/dental/vision, all meals covered, equipment budget, and a
+monthly health and wellness stipend.</description>
+      <pubDate>Sun, 07 Jun 2026 17:01:17 GMT</pubDate>
+      <guid isPermaLink="false">c5b3b597bb9b</guid>
+      <source url="https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer">Hacker News</source>
+    </item>
+    <item>
+      <title>Israel strikes Beirut suburb days after US-brokered truce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/04d154e459a9</link>
+      <description>Israel says the attacks on the Lebanese capital were ordered  &quot;in response to Hezbollah&apos;s firing at Israeli territory&quot;.</description>
+      <pubDate>Sun, 07 Jun 2026 16:42:18 GMT</pubDate>
+      <guid isPermaLink="false">04d154e459a9</guid>
+      <source url="https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>​Śmierć w Tatrach. Wysłał rodzinie zdjęcie ze szczytu - kontakt się urwał</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a34b2dd87ea9</link>
+      <description>Słowaccy ratownicy z HZS odnaleźli w niedzielę w Tatrach Wysokich zwłoki polskiego taternika. Mężczyzna spadł do Kwietnikowego Żlebu pod Staroleśnym Szczytem. Zginął po upadku z wysokości 300 metrów.</description>
+      <pubDate>Sun, 07 Jun 2026 16:35:08 GMT</pubDate>
+      <guid isPermaLink="false">a34b2dd87ea9</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-smierc-w-tatrach-wyslal-rodzinie-zdjecie-ze-szczytu-kontakt-,nId,8089495">RMF24</source>
+    </item>
+    <item>
+      <title>Tajwańska straż przybrzeżna przepędziła chińskie okręty. Pekin rozpoczął operację</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5fa5e7a20596</link>
+      <description>Tajwańska straż przybrzeżna poinformowała o przepędzeniu czterech chińskich okrętów, które w niedzielę wpłynęły na wody zastrzeżone na południe od wyspy. Wcześniej Pekin ogłosił rozpoczęcie specjalnej operacji egzekwowania prawa morskiego. To odpowiedź na jednostronne ogłoszenie przez Japonię i Filipiny rozpoczęcia rozmów dotyczących wyznaczenia granic morskich w regionie, co Pekin uznaje za poważne naruszenie swojej suwerenności i interesów morskich.</description>
+      <pubDate>Sun, 07 Jun 2026 16:30:08 GMT</pubDate>
+      <guid isPermaLink="false">5fa5e7a20596</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-tajwanska-straz-przybrzezna-przepedzila-chinskie-okrety-peki,nId,8089492">RMF24</source>
+    </item>
+    <item>
+      <title>Minister przyrównuje członków UPA do polskich bohaterów. Czarnek żąda dymisji Donalda Tuska</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/597afeb0aa79</link>
+      <description>Przemysław Czarnek (PiS) zażądał w niedzielę dymisji rządu Donalda Tuska. Powodem były słowa wiceministra nauki Karola Szeptyckiego, który w wywiadzie radiowym określił członków UPA jako „trochę takich ukraińskich żołnierzy niezłomnych”.</description>
+      <pubDate>Sun, 07 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">597afeb0aa79</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Minister-przyrownuje-czlonkow-UPA-do-polskich-bohaterow-Czarnek-zada-dymisji-Donalda-Tuska-9147161.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Wojna napędza „mroczną turystykę” na Ukrainie, chętnych nie brakuje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1527ba8206c</link>
+      <description>Coraz więcej cudzoziemców, głównie z Japonii i USA, odwiedza Ukrainę, by zobaczyć miejsca zniszczone przez rosyjską inwazję; „mroczna turystyka” budzi kontrowersje, jednak organizatorzy tych wycieczek przekonują, że wyjazdy mają charakter edukacyjny i dokumentalny - poinformowało Radio Swoboda.</description>
+      <pubDate>Sun, 07 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">f1527ba8206c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wojna-napedza-mroczna-turystyke-na-Ukrainie-chetnych-nie-brakuje-9146007.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Zegar tyka, Kijów szuka rozwiązania, a Warszawa nie odpuszcza. Jutro kapituła zdecyduje o orderze dla Zełenskiego </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c39d3aa6438</link>
+      <description>W poniedziałek przed południem odbędzie się posiedzenie Kapituły Orderu Orła Białego. Prezydent Karol Nawrocki zaproponował, by jednym z punktów było odebranie Orderu prezydentowi Ukrainy Wołodymyrowi Zełenskiemu po tym, jak nadał on jednej z jednostek Sił Zbrojnych swego kraju imię „Bohaterów UPA”.</description>
+      <pubDate>Sun, 07 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">1c39d3aa6438</guid>
+      <source url="https://www.bankier.pl/wiadomosc/KRYZYS-WOKOL-UPA-9147167.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Politycy nie ponoszą konsekwencji za naruszenie prawa. Tak uważają Polacy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/437a371c8a6b</link>
+      <description>79 proc. ankietowanych uważa, że politycy nie ponoszą konsekwencji za naruszenie prawa, a 69 proc. Polaków sądzi, że sądy nie są niezależne od polityków. Stan praworządności w Polsce najlepiej oceniają sympatycy rządzącej Koalicji Obywatelskiej, najgorzej - zwolennicy ugrupowań opozycyjnych - wynika z sondażu CBOS.</description>
+      <pubDate>Sun, 07 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">437a371c8a6b</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Politycy-nie-ponosza-konsekwencji-za-naruszenie-prawa-Tak-uwazaja-Polacy-9145981.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Antonelli wins Monaco Grand Prix from Hamilton after dramatic ending</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d58e83c3d62f</link>
+      <description>Kimi Antonelli wins the Monaco Grand Prix from Lewis Hamilton after a chaotic ending that featured two safety cars and a red flag.</description>
+      <pubDate>Sun, 07 Jun 2026 16:29:17 GMT</pubDate>
+      <guid isPermaLink="false">d58e83c3d62f</guid>
+      <source url="https://www.bbc.com/sport/formula1/articles/ckgpgp5q3z7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>OpenAI is still working on that ‘super app’</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f3ecafaa8446</link>
+      <description>&quot;Chat is dead&quot; — at least, according to a senior OpenAI employee.</description>
+      <pubDate>Sun, 07 Jun 2026 16:23:22 GMT</pubDate>
+      <guid isPermaLink="false">f3ecafaa8446</guid>
+      <source url="https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Trump twardo o aktywach Iranu: Nie będzie ustępstw przed podpisaniem umowy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/963e6b475f13</link>
+      <description>Prezydent USA Donald Trump powiedział w wywiadzie z NBC News, że wbrew żądaniom Iranu nie odblokuje zamrożonych irańskich aktywów przed wdrożeniem ewentualnego porozumienia. Jednocześnie twierdził, że obie strony są „bardzo blisko” zawarcia wstępnego układu.</description>
+      <pubDate>Sun, 07 Jun 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="false">963e6b475f13</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Trump-twardo-o-aktywach-Iranu-Nie-bedzie-ustepstw-przed-podpisaniem-umowy-9147168.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>The gamers taking on the industry to stop it switching off games</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/311965eff704</link>
+      <description>Stop Killing Games is challenging the idea publishers can shut down a game without making sure it&apos;s still playable.</description>
+      <pubDate>Sun, 07 Jun 2026 16:16:54 GMT</pubDate>
+      <guid isPermaLink="false">311965eff704</guid>
+      <source url="https://www.bbc.com/news/articles/c8e8e7g0r82o">Hacker News</source>
+    </item>
     <item>
       <title>Sejm zacznie prace nad Lex Szarlatan, prawdopodobnie uchwali bon senioralny</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b2f45928a8fc</link>
@@ -14,6 +197,70 @@
       <pubDate>Sun, 07 Jun 2026 16:05:00 GMT</pubDate>
       <guid isPermaLink="false">b2f45928a8fc</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-zacznie-prace-nad-Lex-Szarlatan-prawdopodobnie-uchwali-bon-senioralny,285154,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: Inside GM’s $900M EV battery gamble</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f114f1d554e0</link>
+      <description>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.</description>
+      <pubDate>Sun, 07 Jun 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">f114f1d554e0</guid>
+      <source url="https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Kto kandydatem KO i PSL na prezydenta Krakowa? Ustalenia RMF FM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/df55d9245cef</link>
+      <description>Rafał Sonik, biznesmen i przede wszystkim kierowca rajdowy, będzie prawdopodobnie wspólnym kandydatem Koalicji Obywatelskiej i PSL na prezydenta Krakowa - ustalił nieoficjalnie reporter RMF FM Michał Radkowski.</description>
+      <pubDate>Sun, 07 Jun 2026 16:00:08 GMT</pubDate>
+      <guid isPermaLink="false">df55d9245cef</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-kto-kandydatem-ko-i-psl-na-prezydenta-krakowa-ustalenia-rmf-,nId,8089494">RMF24</source>
+    </item>
+    <item>
+      <title>​Poważny wypadek podczas pielgrzymki. Proboszcz ciężko ranny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4d72c8f9ef87</link>
+      <description>Do dramatycznego wypadku doszło w sobotę w Bodzewie w woj. wielkopolskim podczas pielgrzymki konnej i zaprzęgów konnych na Świętą Górę. 53-letni ksiądz został ciężko ranny po tym, jak przewróciła się bryczka, a spłoszony koń ciągnął go przez kilkadziesiąt metrów.</description>
+      <pubDate>Sun, 07 Jun 2026 15:37:56 GMT</pubDate>
+      <guid isPermaLink="false">4d72c8f9ef87</guid>
+      <source url="https://www.rmf24.pl/regiony/poznan/news-powazny-wypadek-podczas-pielgrzymki-proboszcz-ciezko-ranny,nId,8089493">RMF24</source>
+    </item>
+    <item>
+      <title>Royal Mail delivers new parent magazine to father 19 years late</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffb6929910ea</link>
+      <description>Paul Edwards, 52, was left baffled after the magazine finally arrived almost two decades late.</description>
+      <pubDate>Sun, 07 Jun 2026 15:33:44 GMT</pubDate>
+      <guid isPermaLink="false">ffb6929910ea</guid>
+      <source url="https://www.bbc.com/news/articles/cx2dl7kwex0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b76c19c53e74</link>
+      <description>Comments</description>
+      <pubDate>Sun, 07 Jun 2026 15:08:10 GMT</pubDate>
+      <guid isPermaLink="false">b76c19c53e74</guid>
+      <source url="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122">Hacker News</source>
+    </item>
+    <item>
+      <title>Netflix ogłosił prawdziwą bombę. Czy to nadejście filmowej rewolucji?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dfa216331ca3</link>
+      <description>Netflix ma ogłoszenie, które wielu rozsierdzi. Jednakże warto się zastanowić, czy firma ma rzeczywiście taki wpływ na całą branżę, jak próbuje nam wmówić.</description>
+      <pubDate>Sun, 07 Jun 2026 15:00:18 GMT</pubDate>
+      <guid isPermaLink="false">dfa216331ca3</guid>
+      <source url="https://antyweb.pl/netflix-oglosil-prawdziwa-bombe-czy-to-nadejscie-filmowej-rewolucji">Antyweb</source>
+    </item>
+    <item>
+      <title>Burza na Pomorzu. Drzewo spadło na tory</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/925baf0a3761</link>
+      <description>W wyniku burzy nad Pomorzem drzewo spadło na tory na linii kolejowej ze Słupska do Ustki. Uszkodzona została sieć trakcyjna, a ruch pociągów wstrzymano - poinformowały Polskie Linie Kolejowe.</description>
+      <pubDate>Sun, 07 Jun 2026 14:55:23 GMT</pubDate>
+      <guid isPermaLink="false">925baf0a3761</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-burza-na-pomorzu-drzewo-spadlo-na-tory,nId,8089491">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Natychmiast do dymisji cały rząd&quot;. Czarnek mówi o zdradzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ade8333c010</link>
+      <description>Kandydat PiS na premiera Przemysław Czarnek zażądał dymisji całego rządu Donalda Tuska. To pokłosie wypowiedzi wiceministra nauki Andrzeja Szeptyckiego, który w radiowym wywiadzie określił członków UPA jako „trochę takich ukraińskich żołnierzy niezłomnych”.</description>
+      <pubDate>Sun, 07 Jun 2026 14:49:38 GMT</pubDate>
+      <guid isPermaLink="false">8ade8333c010</guid>
+      <source url="https://www.rmf24.pl/polityka/news-natychmiast-do-dymisji-caly-rzad-czarnek-mowi-o-zdradzie,nId,8089490">RMF24</source>
     </item>
     <item>
       <title>Przełom w walce z „cichym zabójcą”. Nowy smartwatch mierzy ciśnienie bez mankietu</title>
@@ -62,6 +309,22 @@
       <pubDate>Sun, 07 Jun 2026 14:01:28 GMT</pubDate>
       <guid isPermaLink="false">954799add1d5</guid>
       <source url="https://tvn24.pl/swiat/bill-gates-rozdaje-miliardy-tim-schwab-autor-ksiazki-problem-z-billem-gatesem-o-filantropii-miliarderow-st9077942?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Podman 6: machine usability improvements</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bc26d2793095</link>
+      <description>I wanted to introduce a significant change we are making in Podman 6 for our machine function. To understand the problem and change, we first need to establish that Podman machine is based on a con…</description>
+      <pubDate>Sun, 07 Jun 2026 14:01:27 GMT</pubDate>
+      <guid isPermaLink="false">bc26d2793095</guid>
+      <source url="https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/">Hacker News</source>
+    </item>
+    <item>
+      <title>Australian doctor who underwent &apos;world-first&apos; brain tumour treatment dies</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/af2345ae059a</link>
+      <description>The melanoma doctor&apos;s brain cancer treatment experiment has sparked hope for a breakthrough.</description>
+      <pubDate>Sun, 07 Jun 2026 14:01:14 GMT</pubDate>
+      <guid isPermaLink="false">af2345ae059a</guid>
+      <source url="https://www.bbc.com/news/articles/c14yz5jg476o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Nowe dane z sondy Juno. NASA publikuje rewolucyjne opracowanie</title>
@@ -190,222 +453,6 @@
       <pubDate>Sun, 07 Jun 2026 13:09:05 GMT</pubDate>
       <guid isPermaLink="false">6f7e80fd89fc</guid>
       <source url="https://tvn24.pl/kujawsko-pomorskie/w-toruniu-krzysztof-zanussi-mial-wypadek-na-planie-filmu-calopalenie-st9084495?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Simone Biles reveals health scare after &apos;almost dying&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3985a392db23</link>
-      <description>Seven-time Olympic champion Simone Biles reveals she suffered a health scare, describing the experience as &quot;almost dying&quot;.</description>
-      <pubDate>Sun, 07 Jun 2026 13:07:55 GMT</pubDate>
-      <guid isPermaLink="false">3985a392db23</guid>
-      <source url="https://www.bbc.com/sport/olympics/articles/cjeg2pqx2ppo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Anthropic, please ship an official Claude Desktop for Linux</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/003043e1b737</link>
-      <description>Preflight Checklist I have searched existing requests and this feature hasn&apos;t been requested yet This is a single feature request (not multiple features) Problem Statement Preflight note. The close...</description>
-      <pubDate>Sun, 07 Jun 2026 13:06:52 GMT</pubDate>
-      <guid isPermaLink="false">003043e1b737</guid>
-      <source url="https://github.com/anthropics/claude-code/issues/65697">Hacker News</source>
-    </item>
-    <item>
-      <title>Tylko 40 proc. Polaków interesuje się bezpieczeństwem żywności. To najgorszy wynik w UE</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2e0cf7f27a43</link>
-      <description>Polacy są najmniej zainteresowani bezpieczeństwem żywności spośród wszystkich mieszkańców Unii Europejskiej – wynika z badania Eurobarometru przygotowanego dla Europejskiego Urzędu ds. Bezpieczeństwa Żywności (EFSA). Przy zakupach jedzenia najważniejsza okazuje się cena, podczas gdy kwestie związane z bezpieczeństwem produktów schodzą na dalszy plan.</description>
-      <pubDate>Sun, 07 Jun 2026 13:04:00 GMT</pubDate>
-      <guid isPermaLink="false">2e0cf7f27a43</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Tylko-40-proc-Polakow-interesuje-sie-bezpieczenstwem-zywnosci-To-najgorszy-wynik-w-UE,285175,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Sypnęło gradem. Burzowa niedziela na zdjęciach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cbe137a199c7</link>
-      <description>Burze w Polsce w niedzielę przynoszą opady gradu. W wielu regionach kraju grzmi i mocno wieje wiatr. To, jakie zjawiska towarzyszą wyładowaniom, można zobaczyć na zdjęciach.</description>
-      <pubDate>Sun, 07 Jun 2026 13:01:02 GMT</pubDate>
-      <guid isPermaLink="false">cbe137a199c7</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-niedziela-7-06-grad-na-pomorzu-zdjecia-st9084475?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zwierzęta stają się coraz bardziej agresywne. Poznaliśmy przyczynę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/75c35cb61cdb</link>
-      <description>Duży wpływ na zachowanie zwierząt mogą mieć temperatury. Wielodniowe fale upałów wpływają negatywnie na ich kognitywne funkcje, a nawet wywołują u nich agresję.</description>
-      <pubDate>Sun, 07 Jun 2026 13:00:35 GMT</pubDate>
-      <guid isPermaLink="false">75c35cb61cdb</guid>
-      <source url="https://antyweb.pl/zwierzeta-staja-sie-coraz-bardziej-agresywne-poznalismy-przyczyne">Antyweb</source>
-    </item>
-    <item>
-      <title>Smoki opanowały centrum Krakowa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8e6a860ffb70</link>
-      <description>Ulicami centum Krakowa przeszła Parada Smoków. Blisko 30 potężnych smoczych figur walczyło o miano Najpiękniejszego Smoka Parady. Zwycięzców ogłoszono na Rynku Głównym po barwnym przemarszu od Wawelu.</description>
-      <pubDate>Sun, 07 Jun 2026 12:53:36 GMT</pubDate>
-      <guid isPermaLink="false">8e6a860ffb70</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-smoki-opanowaly-centrum-krakowa,nId,8089484">RMF24</source>
-    </item>
-    <item>
-      <title>LLMs are eroding my software engineering career and I don&apos;t know what to do</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/14a3979cc40c</link>
-      <description>I&apos;m a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...</description>
-      <pubDate>Sun, 07 Jun 2026 12:49:29 GMT</pubDate>
-      <guid isPermaLink="false">14a3979cc40c</guid>
-      <source url="https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/">Hacker News</source>
-    </item>
-    <item>
-      <title>Kto odwiedził Zełenskiego w Kijowie? Moskwa potwierdza - &quot;wielu go zna&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1fe52034f54b</link>
-      <description>Kreml potwierdza, że znany rosyjski biznesmen odwiedził Kijów i spotkał się z prezydentem Wołodymyrem Zełenskim. Według ukraińskich parlamentarzystów chodzi o Romana Abramowicza, który miał przekazać informacje między Zełenskim a Władimirem Putinem. Sam Putin odniósł się do sprawy podczas Petersburskiego Forum Ekonomicznego.</description>
-      <pubDate>Sun, 07 Jun 2026 12:40:54 GMT</pubDate>
-      <guid isPermaLink="false">1fe52034f54b</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kto-odwiedzil-zelenskiego-w-kijowie-moskwa-potwierdza-wielu-,nId,8089482">RMF24</source>
-    </item>
-    <item>
-      <title>Drugi dzień pielgrzymki Leona XIV do Hiszpanii. Papież przemówił do wiernych w Madrycie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5e59fa4c725d</link>
-      <description>Papież wziął udział w mszy i procesji w Madrycie z okazji święta Bożego Ciała. Leon XIV wezwał Hiszpanów, aby ich religijność &quot;nie była muzeum przeszłości, które się zwiedza, lecz szkołą wiary, z której także dzisiaj można czerpać&quot;.</description>
-      <pubDate>Sun, 07 Jun 2026 12:37:11 GMT</pubDate>
-      <guid isPermaLink="false">5e59fa4c725d</guid>
-      <source url="https://tvn24.pl/swiat/papiez-leon-xiv-na-pielgrzymce-w-hiszpanii-papiez-przemowil-do-wiernych-w-madrycie-podczas-uroczystosci-bozego-ciala-st9084488?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nowa era w półprzewodnikach. Oto, co ona znaczy dla nas</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/42f85d9acac4</link>
-      <description>Heterozłącze ZnO–Te podnosi częstotliwość czterokrotnie w jednym stopniu i ogranicza liczbę elementów układu nawet o 75 proc.</description>
-      <pubDate>Sun, 07 Jun 2026 12:30:10 GMT</pubDate>
-      <guid isPermaLink="false">42f85d9acac4</guid>
-      <source url="https://antyweb.pl/polprzewodniki-zno-te-efekt-dndt">Antyweb</source>
-    </item>
-    <item>
-      <title>Odnaleziono ciało 16-latki. Prokuratura potwierdza: Doszło do zabójstwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1490eb86fc14</link>
-      <description>​Tragiczny finał poszukiwań 16-latki z Leśnej Podlaskiej w województwie lubelskim. W Białej Podlaskiej odnaleziono ciało nastolatki, a prokuratura potwierdza, że doszło do zabójstwa - informuje reporter RMF FM Michał Krasoń. Zatrzymano mężczyznę w wieku ok. 20 lat.</description>
-      <pubDate>Sun, 07 Jun 2026 12:24:34 GMT</pubDate>
-      <guid isPermaLink="false">1490eb86fc14</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-odnaleziono-cialo-16-latki-prokuratura-potwierdza-doszlo-do-,nId,8089483">RMF24</source>
-    </item>
-    <item>
-      <title>Śmiertelna choroba dotyka nawet 5 proc. młodych Polaków. Pomóc może dieta ketogeniczna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/04ea698f7bf3</link>
-      <description>Dieta ketogeniczna - wysokotłuszczowa, niskowęglowodanowa, o umiarkowanej zawartości białka - może łagodzić objawy anoreksji. W badaniu pilotażowym u większości uczestniczek zmniejszyła ona nasilenie jadłowstrętu oraz towarzyszącej mu depresji.</description>
-      <pubDate>Sun, 07 Jun 2026 12:23:54 GMT</pubDate>
-      <guid isPermaLink="false">04ea698f7bf3</guid>
-      <source url="https://www.rynekzdrowia.pl/Psychiatria/Smiertelna-choroba-dotyka-nawet-5-proc-mlodych-Polakow-Pomoc-moze-dieta-ketogeniczna,285176,16.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Żołnierz zginął, jadąc motocyklem. Uderzył w krzyż</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cfc6936f6ef9</link>
-      <description>Zginął żołnierz z 41. bazy Lotnictwa Szkolnego w Dęblinie. Mężczyzna miał wypadek na motocyklu</description>
-      <pubDate>Sun, 07 Jun 2026 12:21:03 GMT</pubDate>
-      <guid isPermaLink="false">cfc6936f6ef9</guid>
-      <source url="https://tvn24.pl/polska/strzyzow-zolnierz-zginal-jadac-motocyklem-uderzyl-w-krzyz-st9084404?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>M&amp;S launches new traineeship for 1,000 young people </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/56f369263fba</link>
-      <description>The scheme aims to tackle the &quot;growing challenge&quot; of young people not in employment, education, or training.</description>
-      <pubDate>Sun, 07 Jun 2026 12:16:11 GMT</pubDate>
-      <guid isPermaLink="false">56f369263fba</guid>
-      <source url="https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Zelensky criticises &apos;vile&apos; Chornobyl drone strike ahead of London talks</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e56c51b677ad</link>
-      <description>Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.</description>
-      <pubDate>Sun, 07 Jun 2026 12:09:57 GMT</pubDate>
-      <guid isPermaLink="false">e56c51b677ad</guid>
-      <source url="https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Odbudowa za pieniądze Iranu. USA chcą rozdać zamrożone aktywa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac72afc68214</link>
-      <description>Stany Zjednoczone planują przekazać zamrożone aktywa Iranu państwom Zatoki Perskiej w celu sfinansowania odbudowy i naprawy zniszczeń wojennych - przekazał Reuters. Informacja ta pojawiła się kilka dni po ostatnich atakach Iranu na Bahrajn oraz Kuwejt, w których zginęła jedna osoba, a kilkadziesiąt zostało rannych.</description>
-      <pubDate>Sun, 07 Jun 2026 12:01:21 GMT</pubDate>
-      <guid isPermaLink="false">ac72afc68214</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/wojna-usa-iran-odbudowa-za-iranskie-pieniadze-stany-zjednoczone-chca-rozdac-zamrozone-aktywa-st9084449?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>9 Mothers (YC P26) Is Hiring</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc364985d621</link>
-      <description>Build counter-drone defense systems in Austin. 9 Mothers is hiring across audio ML, DSP, systems, and software — hardware on software tempo, real deployment, short iteration loops.</description>
-      <pubDate>Sun, 07 Jun 2026 12:00:40 GMT</pubDate>
-      <guid isPermaLink="false">fc364985d621</guid>
-      <source url="https://9mothers.com/careers">Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft właśnie zgasił światło jednej z najlepszych funkcji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/579a02e495a3</link>
-      <description>Przeglądarka Microsoftu może i nie jest najpopularniejszą na świecie, lecz nie można jej odmówić, że przez lata nawet ona dodała przydatne funkcje. Te niestety padają ofiarą AI.</description>
-      <pubDate>Sun, 07 Jun 2026 12:00:31 GMT</pubDate>
-      <guid isPermaLink="false">579a02e495a3</guid>
-      <source url="https://antyweb.pl/microsoft-wlasnie-zgasil-swiatlo-jednej-z-najlepszych-funkcji">Antyweb</source>
-    </item>
-    <item>
-      <title>Dlaczego mężczyźni i chłopcy powinni być szczepieni przeciwko HPV? &quot;Nie jest prawdą, że są tylko wektorami zakażenia&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/51e6ca6d5b69</link>
-      <description>Wirus HPV jest w tej chwili główną przyczyną dużej części raków jamy ustnej i gardła: najczęściej migdałka podniebiennego i nasady języka. W Polsce wiąże się z nim nawet 50 proc. nowotworów rozpoznawanych w tych obszarach. W największym stopniu problem dotyczy mężczyzn - mówi dr hab. Joanna Jackowska z Uniwersytetu Medycznego w Poznaniu</description>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">51e6ca6d5b69</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Dlaczego-mezczyzni-i-chlopcy-powinni-byc-szczepieni-przeciwko-HPV-Nie-jest-prawda-ze-sa-tylko-wektorami-zakazenia,285027,1013.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Zderzenie sześciu aut, &quot;efekt domina&quot; i zablokowana S8</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/249f43e7fa1e</link>
-      <description>Na trasie S8, na wysokości Ślubowa (Mazowieckie) doszło do zderzenia sześciu aut. Droga w kierunku Warszawy jest zablokowana.</description>
-      <pubDate>Sun, 07 Jun 2026 11:58:51 GMT</pubDate>
-      <guid isPermaLink="false">249f43e7fa1e</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/slubow-s8-zderzenie-szesciu-aut-utrudnienia-st9084466?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Turyści wracają z długiego weekendu. Tam korkuje się najbardziej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/feebf5daf7fa</link>
-      <description>Rozpoczęły się powroty z długiego weekendu. Turyści spędzali wolny czas m.in. w górach czy nad morzem. Wzmożony ruch panuje więc m.in. na zakopiance, a także autostradzie A1. Kierowcy muszą liczyć się z utrudnieniami.</description>
-      <pubDate>Sun, 07 Jun 2026 11:56:11 GMT</pubDate>
-      <guid isPermaLink="false">feebf5daf7fa</guid>
-      <source url="https://www.rmf24.pl/regiony/zakopane/news-turysci-wracaja-z-dlugiego-weekendu-tam-korkuje-sie-najbardz,nId,8089481">RMF24</source>
-    </item>
-    <item>
-      <title>Szef gabinetu Zełenskiego w Polsce. &quot;Mam nadzieję, że Ukraina zrobi krok wstecz&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0f30daf61488</link>
-      <description>Prezydent Wołodymyr Zełenski sam sprowokował ten kryzys w naszych stosunkach - ocenił w niedzielę w &quot;Kawie na Ławę&quot; w TVN24 doradca prezydenta Sławomir Mazurek, odnosząc się do decyzji ukraińskiego przywódcy o nadaniu jednej z jednostek imienia &quot;Bohaterów UPA&quot;. Sprawę komentowali również inni politycy.</description>
-      <pubDate>Sun, 07 Jun 2026 11:50:59 GMT</pubDate>
-      <guid isPermaLink="false">0f30daf61488</guid>
-      <source url="https://tvn24.pl/polska/szef-gabinetu-wolodymyra-zelenskiego-w-polsce-komentarze-politykow-st9084351?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Aleksander Łukaszenka zwrócił się do Polaków. &quot;Chcę, żeby mnie usłyszeli&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6d74137c149</link>
-      <description>&quot;Chcę, żeby Polacy, Litwini i Ukraińcy mnie usłyszeli&quot; - tymi słowami Aleksander Łukaszenka zwrócił się m.in. do Polaków podczas wystąpienia w Grodnie. Białoruski dyktator niespodziewanie odciął się od pomysłu wysłania swoich żołnierzy przeciwko Ukrainie.</description>
-      <pubDate>Sun, 07 Jun 2026 11:38:00 GMT</pubDate>
-      <guid isPermaLink="false">b6d74137c149</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-aleksander-lukaszenka-zwrocil-sie-do-polakow-chce-zeby-mnie-,nId,8089476">RMF24</source>
-    </item>
-    <item>
-      <title>Skandaliczny błąd w Windows 11. Microsoft się tłumaczy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b4e3c0f879d1</link>
-      <description>Microsoft naprawia wolne menu kontekstowe Windows 11. Testuje grupowanie poleceń, szybsze ładowanie i pełniejszą personalizację.</description>
-      <pubDate>Sun, 07 Jun 2026 11:30:21 GMT</pubDate>
-      <guid isPermaLink="false">b4e3c0f879d1</guid>
-      <source url="https://antyweb.pl/windows-11-menu-kontekstowe">Antyweb</source>
-    </item>
-    <item>
-      <title>Nowy Samsung bez tajemnic. Szykuje się hit sprzedaży?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d162efb4f390</link>
-      <description>Samsungowi ponownie nie udało się utrzymać niespodzianki do końca. Zdjęcia modelu Galaxy S26 FE wyciekły przed premierą.</description>
-      <pubDate>Sun, 07 Jun 2026 11:15:32 GMT</pubDate>
-      <guid isPermaLink="false">d162efb4f390</guid>
-      <source url="https://antyweb.pl/nowy-samsung-bez-tajemnic-szykuje-sie-hit-sprzedazy">Antyweb</source>
-    </item>
-    <item>
-      <title>School shooting survivor sues AI gun detection firm after system failed to spot weapon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a493296ed8e6</link>
-      <description>How accurate does an AI system need to be?</description>
-      <pubDate>Sun, 07 Jun 2026 11:08:30 GMT</pubDate>
-      <guid isPermaLink="false">a493296ed8e6</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Po tragicznym wypadku nie działa sygnalizacja, doszło do potrącenia rowerzysty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/83723e5d0910</link>
-      <description>Kolejne groźne zdarzenie w Ząbkach (Mazowieckie). Najpierw w sobotnim wypadku, po zderzeniu dwóch aut na tym skrzyżowaniu, zginęły dwie osoby. W niedzielę  w tym samym miejscu kierowca samochodu osobowego uderzył w rowerzystę.</description>
-      <pubDate>Sun, 07 Jun 2026 11:06:06 GMT</pubDate>
-      <guid isPermaLink="false">83723e5d0910</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/zabki-drugi-wypadek-na-tym-samym-skrzyzowaniu-gdzie-zginely-dwie-osoby-st9084373?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
