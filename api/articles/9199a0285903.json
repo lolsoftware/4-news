@@ -1,0 +1,13 @@
+{
+  "id": "9199a0285903",
+  "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+  "originalTitle": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://kyushu.dev/",
+  "publishedAt": "2026-06-07T07:35:02.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>  <h2 data-page-title=\"\">A Self-Hostable Wasm Sandbox for JavaScript Workers</h2> <p>Ever wanted to run a Cloudflare Workers-style handler, on a VPS or anywhere, without Node.js, Bun, or even Docker?</p> <div></div> <p> <a href=\"https://kyushu.dev/getting-started\">  Get started  </a><a href=\"https://github.com/peterpeterparker/kyushu\" target=\"_blank\" rel=\"noopener noreferrer\">  View on GitHub  </a> </p> </div><div> <section> <h2>What is Kyushu?</h2> <p>Kyushu is an open source CLI that lets you write a JavaScript or TypeScript handler, build it into a self-contained WebAssembly binary, and run it anywhere with one command - <code>kyu</code>.</p> <ul> <li>  <span><strong>No Node, Bun, or Docker</strong> - just a single binary</span> </li> <li>  <span><strong>Cloudflare Workers-style API</strong> - familiar <code>fetch</code> handler</span> </li> <li>  <span><strong>Self-hostable</strong> - runs on a VPS or anywhere</span> </li> <li>  <span><strong>WebAssembly sandbox</strong> - isolated from the host</span> </li> </ul> <a href=\"https://kyushu.dev/getting-started\">  Read docs  </a> </section>\n<section> <h2>What people are saying <span>(probably)</span></h2> <div>  </div> </section> </div></div>",
+  "image": "images/36652ea69120.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
