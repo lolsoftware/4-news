@@ -5,8 +5,32 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 07 Jun 2026 17:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 19:49:23 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Najlepiej wspierają jelita. Na liście czekolada, twaróg i banany</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e19df19057a5</link>
+      <description>Odpowiednio zbilansowana dieta odgrywa kluczową rolę w utrzymaniu zdrowej mikrobioty jelitowej. To, co jemy na co dzień, wspiera rozwój korzystnych bakterii, a tym samym wpływa na lepsze funkcjonowanie całego organizmu. Jakie produkty szczególnie sprzyjają zdrowiu jelit?</description>
+      <pubDate>Sun, 07 Jun 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="false">e19df19057a5</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Najlepiej-wspieraja-jelita-Na-liscie-czekolada-twarog-i-banany,285149,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Syreny w Izraelu. Iran wystrzelił pociski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/47a8a2548514</link>
+      <description>Iran poinformował o wystrzeleniu w kierunku Izraela pocisków balistycznych. To odpowiedź Iranu na izraelskie ataki w Libanie. Izrael informuje o przechwyceniu kilku rakiet, ale uderzenie trwa. To pierwszy taki incydent od ogłoszenia zawieszenia broni 8 kwietnia i poważna eskalacja napięć na Bliskim Wschodzie.</description>
+      <pubDate>Sun, 07 Jun 2026 19:40:10 GMT</pubDate>
+      <guid isPermaLink="false">47a8a2548514</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-syreny-w-izraelu-iran-wystrzelil-pociski,nId,8089502">RMF24</source>
+    </item>
+    <item>
+      <title>Wybory w Kosowie. Są wyniki exit poll</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca15f31b35f2</link>
+      <description>Partia obecnego szefa rządu Albina Kurtiego wygrała niedzielne wybory parlamentarne w Kosowie. Uzyskała jednak gorszy wynik niż w poprzednim głosowaniu, w grudniu ubiegłego roku. Wybory odbyły się przed terminem, bo parlament nie wybrał prezydenta.</description>
+      <pubDate>Sun, 07 Jun 2026 19:33:51 GMT</pubDate>
+      <guid isPermaLink="false">ca15f31b35f2</guid>
+      <source url="https://tvn24.pl/swiat/wybory-w-kosowie-sa-wyniki-exit-poll-na-pierwszym-miejscu-partia-samostanowienie-albina-kurtiego-st9084918?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Zjadł rybę w restauracji, a chwilę później nie żył. Prokuratura sprawdza, co się stało</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4c854fbf1cbc</link>
@@ -14,6 +38,22 @@
       <pubDate>Sun, 07 Jun 2026 19:31:00 GMT</pubDate>
       <guid isPermaLink="false">4c854fbf1cbc</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Zjadl-rybe-w-restauracji-a-chwile-pozniej-nie-zyl-Prokuratura-sprawdza-co-sie-stalo,285136,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Zełenski w Londynie na spotkaniu z wielką trójką. Zwraca uwagę jeden szczegół</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5ada37bdcf6</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski przybył do Wielkiej Brytanii na rozmowy z premierem Keirem Starmerem, prezydentem Francji Emmanuelem Macronem oraz kanclerzem Niemiec Friedrichem Merzem. Spotkanie w Londynie ma na celu wzmocnienie współpracy w zakresie obrony powietrznej i bezpieczeństwa Europy w obliczu trwającej wojny z Rosją. Wcześniej Zełenski podkreślał, że Wielka Brytania, Francja i Niemcy powinny mieć liczący się głos w kontekście europejskiego bezpieczeństwa.</description>
+      <pubDate>Sun, 07 Jun 2026 19:11:05 GMT</pubDate>
+      <guid isPermaLink="false">d5ada37bdcf6</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-w-londynie-na-spotkaniu-z-wielka-trojka-zwraca-uwag,nId,8089500">RMF24</source>
+    </item>
+    <item>
+      <title>How&apos;s Linear so fast? A technical breakdown</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33ee17f668ca</link>
+      <description>breakdown of the architecture behind Linear&apos;s speed: local-first sync, MobX observables, instant first loads, and a keyboard-first design.</description>
+      <pubDate>Sun, 07 Jun 2026 19:01:37 GMT</pubDate>
+      <guid isPermaLink="false">33ee17f668ca</guid>
+      <source url="https://performance.dev/how-is-linear-so-fast-a-technical-breakdown">Hacker News</source>
     </item>
     <item>
       <title>1,5 mln zgonów rocznie. WHO alarmuje o zagrożeniu</title>
@@ -24,12 +64,140 @@
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/1-5-mln-zgonow-rocznie-WHO-alarmuje-o-zagrozeniu,285143,15.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Przerwany mecz. ​Eriksen znowu padł na murawę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7f8d91e1d514</link>
+      <description>Duński piłkarz Christian Eriksen upadł na boisku podczas towarzyskiego meczu z Ukrainą. Spotkanie przerwano. Na szczęście piłkarz samodzielne podniósł się z murawy, lekarze zapewnili, że czuje się dobrze. Kibicom stanęły przed oczami dramatyczne sceny z Euro w 2021 roku. Wówczas życie Eriksena było zagrożone, piłkarz był reanimowany na boisku.</description>
+      <pubDate>Sun, 07 Jun 2026 19:00:16 GMT</pubDate>
+      <guid isPermaLink="false">7f8d91e1d514</guid>
+      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-przerwany-mecz-eriksen-znowu-padl-na-murawe,nId,8089501">RMF24</source>
+    </item>
+    <item>
+      <title>Noc z deszczem w części kraju. W poniedziałek popada i zagrzmi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/81c9ef21b6b7</link>
+      <description>W nocy i poniedziałek przez Polskę wciąż będzie wędrować strefa opadów, która w niedzielę przyniosła deszcz i burze w wielu rejonach kraju. Zapoznaj się z prognozą naszego synoptyka i zobacz na mapach, gdzie lepiej nie zapomnieć ze sobą parasola.</description>
+      <pubDate>Sun, 07 Jun 2026 18:43:07 GMT</pubDate>
+      <guid isPermaLink="false">81c9ef21b6b7</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-noc-z-deszczem-w-czesci-kraju-w-poniedzialek-popada-i-zagrzmi-st9084863?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Leiden Declaration on Artificial Intelligence and Mathematics</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/44c0933aaf5a</link>
+      <description>Loader</description>
+      <pubDate>Sun, 07 Jun 2026 18:36:36 GMT</pubDate>
+      <guid isPermaLink="false">44c0933aaf5a</guid>
+      <source url="https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics">Hacker News</source>
+    </item>
+    <item>
+      <title>Building from Zero After Addiction, Prison, and a Felony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a41e99d31fde</link>
+      <description>I spent ages 14-16 in a maximum-security juvenile prison, became a felon at 19, lost almost everything to addiction, and later rebuilt my life through software, open source, and a few people who took a chance on me. This is the condensed story, written for anyone wondering whether they have a future.</description>
+      <pubDate>Sun, 07 Jun 2026 18:33:07 GMT</pubDate>
+      <guid isPermaLink="false">a41e99d31fde</guid>
+      <source url="https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony">Hacker News</source>
+    </item>
+    <item>
+      <title>Christian Eriksen conscious after collapsing in Denmark game</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4deceae35eac</link>
+      <description>Christian Eriksen collapsed during Denmark&apos;s friendly against Ukraine but is now conscious, says the Danish Football Association.</description>
+      <pubDate>Sun, 07 Jun 2026 18:31:56 GMT</pubDate>
+      <guid isPermaLink="false">4deceae35eac</guid>
+      <source url="https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Tomczyk pokazał dokument. &quot;Głęboka hipokryzja&quot; Błaszczaka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f7b9bdc06cd3</link>
+      <description>Mariusz Błaszczak po tym reportażu powinien wycofać się z życia publicznego - mówił wiceminister obrony narodowej Cezary Tomczyk, komentując ustalenia &quot;Czarno na białym&quot; na temat zakupów dokonywanych przez MON za rządów PiS. Tomczyk &quot;głęboką hipokryzją&quot; określił krytykę programu SAFE ze strony PiS i Błaszczaka.</description>
+      <pubDate>Sun, 07 Jun 2026 18:30:50 GMT</pubDate>
+      <guid isPermaLink="false">f7b9bdc06cd3</guid>
+      <source url="https://tvn24.pl/polska/cezary-tomczyk-pokazal-dokument-gleboka-hipokryzja-mariusza-blaszczaka-st9084868?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>My automated doubt development process</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0d71a3759666</link>
+      <description>How front-loading scrutiny through multi-agent validation rebuilt trust in AI-assisted development.</description>
+      <pubDate>Sun, 07 Jun 2026 18:17:40 GMT</pubDate>
+      <guid isPermaLink="false">0d71a3759666</guid>
+      <source url="https://www.alexself.dev/blog/automated-doubt">Hacker News</source>
+    </item>
+    <item>
+      <title>Making Peace with Your Unlived Dreams</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f9b4984af30b</link>
+      <description>Loader</description>
+      <pubDate>Sun, 07 Jun 2026 18:15:47 GMT</pubDate>
+      <guid isPermaLink="false">f9b4984af30b</guid>
+      <source url="https://nik.art/making-peace-with-your-unlived-dreams/">Hacker News</source>
+    </item>
+    <item>
+      <title>​Do czterech razy sztuka. Wielki Szlem dla Zvereva</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/49e72c6a31aa</link>
+      <description>Niemiec Alexander Zverev zdobył pierwszy wielkoszlemowy tytuł w karierze. Rozstawiony z numerem drugim tenisista w finale French Open w Paryżu pokonał Włocha Flavio Cobollego (nr 10.) w pięciu setach 6:1, 4:6, 6:4, 6:7 (5-7), 6:1. Zverev do dzisiaj był nazywany &quot;najlepszym tenisistą, który nigdy nie zdobył Wielkiego Szlema&quot;.</description>
+      <pubDate>Sun, 07 Jun 2026 18:13:32 GMT</pubDate>
+      <guid isPermaLink="false">49e72c6a31aa</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-do-czterech-razy-sztuka-wielki-szlem-dla-zvereva,nId,8089499">RMF24</source>
+    </item>
+    <item>
       <title>0,5 litra darmowej wody. Ma być obowiązkowe</title>
       <link>https://lolsoftware.github.io/4-news/#/article/08dbc7fce470</link>
       <description>Ministerstwo Klimatu i Środowiska wpisało do projektu ustawy opakowaniowej obowiązek podania klientowi 0,5 l darmowej wody z kranu na życzenie – podaje Portal Samorządowy. Projekt nowelizacji jest na etapie uzgodnień i opiniowania.</description>
       <pubDate>Sun, 07 Jun 2026 18:01:00 GMT</pubDate>
       <guid isPermaLink="false">08dbc7fce470</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/0-5-litra-darmowej-wody-Ma-byc-obowiazkowe,285145,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>AI w biurze i kancelarii: oszczędność czasu czy proszenie się o kłopoty?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a4ebfe2bf754</link>
+      <description>AI w biurze – niby coraz powszechniejszy temat, ale czy to na pewno dobry pomysł? Sztuczna inteligencja w kancelarii może przyspieszyć analizę dokumentów, research, pisanie pism i obsługę klientów, ale w miejscach, gdzie przetwarzane są wrażliwe dane, trzeba tym bardziej korzystać z niej bezpiecznie i z głową.</description>
+      <pubDate>Sun, 07 Jun 2026 18:00:19 GMT</pubDate>
+      <guid isPermaLink="false">a4ebfe2bf754</guid>
+      <source url="https://antyweb.pl/ai-w-biurze-do-czego-moze-przydac-sie-sztuczna-inteligencja-w-kancelarii">Antyweb</source>
+    </item>
+    <item>
+      <title>Notion restores access to Anthropic after service disruption</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/04e254181c28</link>
+      <description>Notion&apos;s head of product said he was &quot;astonished&quot; at “the amount of people RT-ing this.&quot;</description>
+      <pubDate>Sun, 07 Jun 2026 17:56:22 GMT</pubDate>
+      <guid isPermaLink="false">04e254181c28</guid>
+      <source url="https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/">TechCrunch</source>
+    </item>
+    <item>
+      <title>​Izrael zaatakował przedmieścia Bejrutu. &quot;Obserwujcie dziś niebo&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08197b41ca75</link>
+      <description>Izraelskie siły zaatakowały w niedzielę południowe przedmieścia Bejrutu - stolicy Libanu. Celem były &quot;centra dowodzenia&quot; Hezbollahu - poinformował premier Benjamin Netanjahu. W wyniku ataku zginęły dwie osoby, a 11 zostało rannych. Iran zagroził &quot;zdecydowaną i bolesną odpowiedzią&quot;.</description>
+      <pubDate>Sun, 07 Jun 2026 17:49:31 GMT</pubDate>
+      <guid isPermaLink="false">08197b41ca75</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-izrael-zaatakowal-przedmiescia-bejrutu-obserwujcie-dzis-nieb,nId,8089497">RMF24</source>
+    </item>
+    <item>
+      <title>Trump nie wytrzymał. Powiedział dziennikarce, że jest &quot;głupia&quot;, wstał i wyszedł</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d4a73b724815</link>
+      <description>Prezydent USA Donald Trump niespodziewanie opuścił studio podczas nagrania wywiadu dla programu „Meet the Press” stacji NBC. Powodem były pytania dotyczące jego twierdzeń o rzekomym sfałszowaniu wyborów prezydenckich w 2020 roku. &quot;NBC jest nieuczciwe, CBS jest nieuczciwe, CNN jest nieuczciwe&quot; - wykrzykiwał Trump, zanim zdecydował się przerwać rozmowę.</description>
+      <pubDate>Sun, 07 Jun 2026 17:44:09 GMT</pubDate>
+      <guid isPermaLink="false">d4a73b724815</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-trump-nie-wytrzymal-powiedzial-dziennikarce-ze-jest-glupia-w,nId,8089496">RMF24</source>
+    </item>
+    <item>
+      <title>Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4515f7e69a06</link>
+      <description>Contribute to yukiyokotani/office-open-xml-viewer development by creating an account on GitHub.</description>
+      <pubDate>Sun, 07 Jun 2026 17:22:28 GMT</pubDate>
+      <guid isPermaLink="false">4515f7e69a06</guid>
+      <source url="https://github.com/yukiyokotani/office-open-xml-viewer">Hacker News</source>
+    </item>
+    <item>
+      <title>Izrael uderza w dowództwo Hezbollahu. Iran zapowiada „zdecydowaną i bolesną odpowiedź”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fbefddad9425</link>
+      <description>Izraelskie siły zaatakowały w niedzielę południowe przedmieścia Bejrutu, a celem były „centra dowodzenia” Hezbollahu - poinformował w oświadczeniu premier Benjamin Netanjahu. Zginęły dwie osoby, a 11 zostało rannych. Iran zagroził „zdecydowaną i bolesną odpowiedzią” - podał portal Times of Israel.</description>
+      <pubDate>Sun, 07 Jun 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="false">fbefddad9425</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Izrael-uderza-w-dowodztwo-Hezbollahu-Iran-zapowiada-zdecydowana-i-bolesna-odpowiedz-9147176.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Powering up a module from the IBM 604: an electronic calculator from 1948</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/153e502dcc0d</link>
+      <description>1948 was an interesting time for computing. For decades, businesses had used punch card equipment that added and sorted electromechanically....</description>
+      <pubDate>Sun, 07 Jun 2026 17:18:12 GMT</pubDate>
+      <guid isPermaLink="false">153e502dcc0d</guid>
+      <source url="https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html">Hacker News</source>
     </item>
     <item>
       <title>50 tys. zł kary dla symulanta na SOR. Ministerstwo odpowiada</title>
@@ -101,6 +269,14 @@ monthly health and wellness stipend.</description>
       <pubDate>Sun, 07 Jun 2026 17:01:17 GMT</pubDate>
       <guid isPermaLink="false">c5b3b597bb9b</guid>
       <source url="https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer">Hacker News</source>
+    </item>
+    <item>
+      <title>Wysłał zdjęcie do rodziny i kontakt się urwał. Znaleźli jego ciało</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7d5ab5a42a13</link>
+      <description>Słowaccy ratownicy górscy znaleźli w niedzielę ciało polskiego taternika. Kontakt z mężczyzną urwał się w sobotę. Według informacji ratowników mężczyzna spadł z dużej wysokości.</description>
+      <pubDate>Sun, 07 Jun 2026 16:46:35 GMT</pubDate>
+      <guid isPermaLink="false">7d5ab5a42a13</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/slowacja-tatry-zginal-polski-turysta-wyslal-zdjecie-do-rodziny-i-kontakt-sie-urwal-znalezli-jego-cialo-st9084833?source=rss">TVN24</source>
     </item>
     <item>
       <title>Israel strikes Beirut suburb days after US-brokered truce</title>
@@ -191,6 +367,14 @@ monthly health and wellness stipend.</description>
       <source url="https://www.bbc.com/news/articles/c8e8e7g0r82o">Hacker News</source>
     </item>
     <item>
+      <title>Czarnek chce dymisji rządu po słowach wiceministra o UPA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1128f8246ddc</link>
+      <description>Poseł PiS Przemysław Czarnek zażądał w niedzielę dymisji rządu Donalda Tuska. Powodem były słowa wiceministra nauki Andrzeja Szeptyckiego, który w wywiadzie radiowym określił członków UPA jako &quot;trochę takich ukraińskich żołnierzy niezłomnych&quot;.</description>
+      <pubDate>Sun, 07 Jun 2026 16:14:01 GMT</pubDate>
+      <guid isPermaLink="false">1128f8246ddc</guid>
+      <source url="https://tvn24.pl/polska/przemyslaw-czarnek-chce-dymisji-rzadu-donalda-tuska-chodzi-o-slowa-andrzeja-szeptyckiego-o-upa-i-zolnierzach-niezlomnych-st9084785?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Sejm zacznie prace nad Lex Szarlatan, prawdopodobnie uchwali bon senioralny</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b2f45928a8fc</link>
       <description>W tym tygodniu zaplanowane są posiedzenia Sejmu i Senatu. Posłowie rozpoczną prace nad ustawą Lex Szarlatan, zakończą – prawdopodobnie – nad bonem senioralnym, czyli ustawą o opiece długoterminowej.</description>
@@ -231,12 +415,28 @@ monthly health and wellness stipend.</description>
       <source url="https://www.bbc.com/news/articles/cx2dl7kwex0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>Karetka chciała go wyprzedzić, skręcił w lewo. Cztery osoby ranne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1ddf3e08f1f9</link>
+      <description>W niedzielę po południu doszło do wypadku z udziałem karetki i auta osobowego w Bodaczowie na Lubelszczyźnie. Na miejsce wezwano śmigłowiec Lotniczego Pogotowia Ratunkowego.</description>
+      <pubDate>Sun, 07 Jun 2026 15:13:39 GMT</pubDate>
+      <guid isPermaLink="false">1ddf3e08f1f9</guid>
+      <source url="https://tvn24.pl/lublin/wypadek-z-udzialem-karetki-w-bodaczowie-cztery-osoby-ranne-st9084791?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b76c19c53e74</link>
       <description>Comments</description>
       <pubDate>Sun, 07 Jun 2026 15:08:10 GMT</pubDate>
       <guid isPermaLink="false">b76c19c53e74</guid>
       <source url="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122">Hacker News</source>
+    </item>
+    <item>
+      <title>Pijany 19-latek uciekał przed policją, rozbił auto na latarni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4c5e48c829bc</link>
+      <description>Policja zatrzymała 19-latka, który nie zatrzymał się do kontroli drogowej. Mężczyzna zakończył swoją ucieczkę, uderzając w zaparkowane pojazdy i w betonową latarnię. Ta złamała się z powodu impetu uderzenia.</description>
+      <pubDate>Sun, 07 Jun 2026 15:07:31 GMT</pubDate>
+      <guid isPermaLink="false">4c5e48c829bc</guid>
+      <source url="https://tvn24.pl/lublin/wlodawa-pijany-19-latek-uciekal-przed-policja-zlamal-uliczna-latarnie-st9084767?source=rss">TVN24</source>
     </item>
     <item>
       <title>Netflix ogłosił prawdziwą bombę. Czy to nadejście filmowej rewolucji?</title>
@@ -253,206 +453,6 @@ monthly health and wellness stipend.</description>
       <pubDate>Sun, 07 Jun 2026 14:55:23 GMT</pubDate>
       <guid isPermaLink="false">925baf0a3761</guid>
       <source url="https://www.rmf24.pl/regiony/trojmiasto/news-burza-na-pomorzu-drzewo-spadlo-na-tory,nId,8089491">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Natychmiast do dymisji cały rząd&quot;. Czarnek mówi o zdradzie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8ade8333c010</link>
-      <description>Kandydat PiS na premiera Przemysław Czarnek zażądał dymisji całego rządu Donalda Tuska. To pokłosie wypowiedzi wiceministra nauki Andrzeja Szeptyckiego, który w radiowym wywiadzie określił członków UPA jako „trochę takich ukraińskich żołnierzy niezłomnych”.</description>
-      <pubDate>Sun, 07 Jun 2026 14:49:38 GMT</pubDate>
-      <guid isPermaLink="false">8ade8333c010</guid>
-      <source url="https://www.rmf24.pl/polityka/news-natychmiast-do-dymisji-caly-rzad-czarnek-mowi-o-zdradzie,nId,8089490">RMF24</source>
-    </item>
-    <item>
-      <title>Przełom w walce z „cichym zabójcą”. Nowy smartwatch mierzy ciśnienie bez mankietu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39ca2b5b13d9</link>
-      <description>Dzięki nowej technologii pomiaru własności elektrycznych tkanek możliwe jest ciągłe, dokładne monitorowanie ciśnienia tętniczego krwi urządzeniem wbudowanym w zegarek, bez stosowania uciążliwych mankietów - informuje „Nature Communications”.</description>
-      <pubDate>Sun, 07 Jun 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="false">39ca2b5b13d9</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Przelom-w-walce-z-cichym-zabojca-Nowy-smartwatch-mierzy-cisnienie-bez-mankietu,285179,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Rewolucja w wynagrodzeniach. Pensje mają zależeć od 4 kryteriów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76316f18ab45</link>
-      <description>Nadchodzące zmiany w prawie mogą całkowicie zmienić sposób ustalania wynagrodzeń. Jak podaje PulsHR, firmy będą musiały wykazać, że różnice płac wynikają z obiektywnych kryteriów, a nie uznaniowych decyzji.</description>
-      <pubDate>Sun, 07 Jun 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="false">76316f18ab45</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Rewolucja-w-wynagrodzeniach-Pensje-maja-zalezec-od-4-kryteriow,285180,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Powroty z długiego weekendu, spory ruch na głównych trasach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8ee4f9ffebd8</link>
-      <description>Utrudnienia na autostradach i drogach ekspresowych - choć nie wszędzie są korki, to w wielu miejscach ruch jest spowolniony. Obecnie zablokowana jest autostrada A1 na granicy powiatu lublinieckiego i Częstochowy.</description>
-      <pubDate>Sun, 07 Jun 2026 14:18:37 GMT</pubDate>
-      <guid isPermaLink="false">8ee4f9ffebd8</guid>
-      <source url="https://tvn24.pl/katowice/powroty-z-dlugiego-weekendu-spory-ruch-na-glownych-trasach-st9084689?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zatrzymali podejrzanego o zabójstwo młodej kobiety</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7aebe3f28f84</link>
-      <description>Policja zatrzymała mężczyznę podejrzanego o zabójstwo młodej kobiety w Białej Podlaskiej. Prokuratura zapowiada wniosek o areszt.</description>
-      <pubDate>Sun, 07 Jun 2026 14:17:54 GMT</pubDate>
-      <guid isPermaLink="false">7aebe3f28f84</guid>
-      <source url="https://tvn24.pl/lublin/biala-podlaska-zatrzymali-podejrzanego-o-zabojstwo-kobiety-st9084772?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Karetka na sygnale zderzyła się z Toyotą. Cztery osoby w szpitalu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0ff1c5864089</link>
-      <description>​Na drodze krajowej nr 74 w Bodaczowie (Lubelskie) między Szczebrzeszynem a Zamościem samochód osobowy zderzył się z karetką pogotowia przewożącą pacjenta. Cztery ranne osoby trafiły do szpitala. Trasa jest zablokowana. Utrudnienia mogą potrwać do godz. 18.</description>
-      <pubDate>Sun, 07 Jun 2026 14:12:58 GMT</pubDate>
-      <guid isPermaLink="false">0ff1c5864089</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-karetka-na-sygnale-zderzyla-sie-z-toyota-cztery-osoby-w-szpi,nId,8089489">RMF24</source>
-    </item>
-    <item>
-      <title>Czy istnieją dobrzy miliarderzy?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/954799add1d5</link>
-      <description>Filantropia miliarderów jest sposobem na to, by superbogaci mogli sprawować niedemokratyczną, oligarchiczną władzę - przekonuje w rozmowie z TVN24+ Tim Schwab, autor głośnej książki &quot;Problem z Billem Gatesem. Rozliczenie z mitem dobrego miliardera&quot;.</description>
-      <pubDate>Sun, 07 Jun 2026 14:01:28 GMT</pubDate>
-      <guid isPermaLink="false">954799add1d5</guid>
-      <source url="https://tvn24.pl/swiat/bill-gates-rozdaje-miliardy-tim-schwab-autor-ksiazki-problem-z-billem-gatesem-o-filantropii-miliarderow-st9077942?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Podman 6: machine usability improvements</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc26d2793095</link>
-      <description>I wanted to introduce a significant change we are making in Podman 6 for our machine function. To understand the problem and change, we first need to establish that Podman machine is based on a con…</description>
-      <pubDate>Sun, 07 Jun 2026 14:01:27 GMT</pubDate>
-      <guid isPermaLink="false">bc26d2793095</guid>
-      <source url="https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/">Hacker News</source>
-    </item>
-    <item>
-      <title>Australian doctor who underwent &apos;world-first&apos; brain tumour treatment dies</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/af2345ae059a</link>
-      <description>The melanoma doctor&apos;s brain cancer treatment experiment has sparked hope for a breakthrough.</description>
-      <pubDate>Sun, 07 Jun 2026 14:01:14 GMT</pubDate>
-      <guid isPermaLink="false">af2345ae059a</guid>
-      <source url="https://www.bbc.com/news/articles/c14yz5jg476o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Nowe dane z sondy Juno. NASA publikuje rewolucyjne opracowanie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9a40263df31a</link>
-      <description>Juno wykryła przy Jowiszu niemal relatywistyczne elektrony i potwierdziła mechanizm mogący rozpędzać promienie kosmiczne przy supernowych.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:58 GMT</pubDate>
-      <guid isPermaLink="false">9a40263df31a</guid>
-      <source url="https://antyweb.pl/juno-promieniowanie-kosmiczne">Antyweb</source>
-    </item>
-    <item>
-      <title>Hacked, leaked, and held for ransom: the worst breaches of 2026 so far</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2d020d7e1c06</link>
-      <description>From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2d020d7e1c06</guid>
-      <source url="https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Atak terrorystyczny w Izraelu. Zginął 31-latek, ranni w stanie krytycznym</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7fcec2f3dbff</link>
-      <description>Jedna osoba zginęła, a co najmniej cztery zostały ranne w podwójnym ataku terrorystycznym, do którego doszło w niedzielę przed południem w środkowej części Izraela - poinformowały izraelskie służby ratunkowe, cytowane przez portal Times of Israel. Policja przekazała, że sprawca ataku został zabity.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7fcec2f3dbff</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Atak-terrorystyczny-w-Izraelu-Zginal-31-latek-ranni-w-stanie-krytycznym-9147131.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>USA uderzają w finanse Teheranu. Waszyngton chce przejąć majątek Iranu na odbudowę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8ea81f5242e1</link>
-      <description>Stany Zjednoczone chcą, by aktywa Iranu zostały przeznaczone na odbudowę ze zniszczeń i naprawę szkód spowodowanych w krajach Zatoki Perskiej przez irańskie naloty - podała w nocy z soboty na niedzielę agencja Reutera, powołując się na źródło zaznajomione ze sprawą.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">8ea81f5242e1</guid>
-      <source url="https://www.bankier.pl/wiadomosc/USA-uderzaja-w-finanse-Teheranu-Waszyngton-chce-przejac-majatek-Iranu-na-odbudowe-9147147.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Kultowa kawiarnia może przetrwać. Miasto wyciąga rękę, dług przekracza 2 mln zł</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/27779ad2110f</link>
-      <description>Warszawska kawiarnia A. Blikle, działająca przy Nowym Świecie od 1869 r., może uniknąć eksmisji mimo zadłużenia przekraczającego 2 mln zł. Jak poinformował w niedzielę portal Wyborcza.pl, stołeczni radni mają zdecydować o rozłożeniu należności na raty.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">27779ad2110f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kultowa-kawiarnia-moze-przetrwac-Miasto-wyciaga-reke-dlug-przekracza-2-mln-zl-9147130.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>ISW ostrzega przed naiwnością USA. Trump szuka kanału do Moskwy przez Mińsk</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/421fa9544105</link>
-      <description>Możliwe, że administracja prezydenta USA Donalda Trumpa próbuje zacieśnić relacje z Białorusią w nadziei, że pomoże to w negocjacjach z Rosją na temat zakończenia wojny przeciw Ukrainie - powiedział PAP George Barros, ekspert Instytutu Studiów nad Wojną (ISW). Ocenił, że byłoby to błędne założenie.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">421fa9544105</guid>
-      <source url="https://www.bankier.pl/wiadomosc/ISW-ostrzega-przed-naiwnoscia-USA-Trump-szuka-kanalu-do-Moskwy-przez-Minsk-9147088.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Największa operacja w historii Kanady. Myśliwce i AI na straży mundialu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f24755bb5108</link>
-      <description>Podczas mistrzostw świata w piłce nożnej, w których 13 meczów zostanie rozegranych w Kanadzie, w zapewnianiu bezpieczeństwa pomoże lotnictwo wojskowe, nad Toronto i Vancouver pojawią się uzbrojone myśliwce. Dla torontońskiej policji to największa operacja w historii.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f24755bb5108</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Najwieksza-operacja-w-historii-Kanady-Uzbrojone-mysliwce-i-sztuczna-inteligencja-na-strazy-mundialu-9147124.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Korzystanie z telefonu przy dziecku. Nowe zakazy dla... rodziców</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef9484743ea0</link>
-      <description>Szwedzki Urząd Zdrowia Publicznego opublikował w poniedziałek zalecenia dotyczące korzystania z telefonów przez rodziców przy dzieciach. Wśród rekomendacji znalazło się ustanowienie w domu stref wolnych od urządzeń z ekranami.</description>
-      <pubDate>Sun, 07 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ef9484743ea0</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Korzystanie-z-telefonu-przy-dziecku-Nowe-zakazy-dla-rodzicow-9143551.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>​Kluczowy poniedziałek dla Krakowa. Karty lądują na stole</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/82290912637a</link>
-      <description>Nowa Lewica zapowiedziała na poniedziałek ogłoszenie kandydata w przedterminowych wyborach prezydenckich w Krakowie. Można się spodziewać, że będzie to posłanka Daria Gosek-Popiołek. Również Koalicja Obywatelska ma tego dnia przedstawić swoją kandydaturę. Wiele wskazuje na to, że partia Donalda Tuska wystawi wspólnego kandydata z PSL.</description>
-      <pubDate>Sun, 07 Jun 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="false">82290912637a</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-kluczowy-poniedzialek-dla-krakowa-karty-laduja-na-stole,nId,8089486">RMF24</source>
-    </item>
-    <item>
-      <title>Son calls for Iran prisoner exchange for British pair</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f7261b1c246d</link>
-      <description>Craig and Lindsay Foreman&apos;s son urges the UK to explore a prisoner exchange to secure their release.</description>
-      <pubDate>Sun, 07 Jun 2026 13:43:39 GMT</pubDate>
-      <guid isPermaLink="false">f7261b1c246d</guid>
-      <source url="https://www.bbc.com/news/articles/ced414n2vyxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>To oficjalne. Właśnie przegraliśmy Internet i już go nie odzyskamy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c24eca935680</link>
-      <description>Boty generują już większość żądań do stron HTML. Agenci AI zmieniają reklamę, handel, analitykę i zasady bezpieczeństwa sieci.</description>
-      <pubDate>Sun, 07 Jun 2026 13:30:28 GMT</pubDate>
-      <guid isPermaLink="false">c24eca935680</guid>
-      <source url="https://antyweb.pl/boty-vs-ludzie-przegralismy">Antyweb</source>
-    </item>
-    <item>
-      <title>Iran&apos;s World Cup team lands in Mexico amid US visa row</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/832fa388dc87</link>
-      <description>All of Iran&apos;s group games are in the US, but players and support staff will have to fly in and out of the country on match day.</description>
-      <pubDate>Sun, 07 Jun 2026 13:24:50 GMT</pubDate>
-      <guid isPermaLink="false">832fa388dc87</guid>
-      <source url="https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Dachowanie, ratownicy i psy służbowe. Tak będą uczyć bezpieczeństwa w Poznaniu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/10dcc22b7630</link>
-      <description>Pokazy dachowania, nauka pierwszej pomocy, policyjne drony i możliwość oddania krwi – takie atrakcje czekają uczestników Warsztatów Bezpieczeństwa, które w czwartek odbędą się w Poznaniu. W wydarzeniu weźmie udział ponad 40 instytucji, służb i organizacji.</description>
-      <pubDate>Sun, 07 Jun 2026 13:22:00 GMT</pubDate>
-      <guid isPermaLink="false">10dcc22b7630</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dachowanie-ratownicy-i-psy-sluzbowe-Tak-beda-uczyc-bezpieczenstwa-w-Poznaniu,285177,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Zaginął koń ułanów. Niecodzienne poszukiwania w Krakowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a0acd225230</link>
-      <description>Krakowscy ułani proszą o informacje, które mogą pomóc w odnalezieniu konia należącego do Szwadronu im. Józefa Piłsudskiego. Zwierzę o imieniu Amarant po raz ostatni było widziane w sobotę po południu w okolicach Wisły.</description>
-      <pubDate>Sun, 07 Jun 2026 13:18:23 GMT</pubDate>
-      <guid isPermaLink="false">7a0acd225230</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-zaginal-kon-ulanow-niecodzienne-poszukiwania-w-krakowie,nId,8089485">RMF24</source>
-    </item>
-    <item>
-      <title>Polacy robią nowego Star Treka! Kultowe sci-fi w zupełnie nowej odsłonie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/53d25f240a6e</link>
-      <description>Szykuje się nie lada gratka dla miłośników uniwersum Star Trek! Star Trek: Shadow Frontier to nowa gra od polskiego Bloober Team. Tym razem zamiast klasycznej kosmicznej przygody, mamy dostać mroczny, psychologiczny thriller.</description>
-      <pubDate>Sun, 07 Jun 2026 13:15:27 GMT</pubDate>
-      <guid isPermaLink="false">53d25f240a6e</guid>
-      <source url="https://antyweb.pl/polacy-robia-nowego-star-treka-kultowe-sci-fi-w-zupelnie-nowej-odslonie">Antyweb</source>
-    </item>
-    <item>
-      <title>Krzysztof Zanussi miał wypadek. Złamał rękę i kość czaszki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6f7e80fd89fc</link>
-      <description>Krzysztof Zanussi podczas zdjęć do swojego najnowszego filmu spadł ze schodów i trafił do szpitala. &quot;Reżyserowałem ze szpitalnego łóżka&quot; - powiedział w opublikowanym na Facebooku nagraniu. Ma złamaną rękę i kość czaszki.</description>
-      <pubDate>Sun, 07 Jun 2026 13:09:05 GMT</pubDate>
-      <guid isPermaLink="false">6f7e80fd89fc</guid>
-      <source url="https://tvn24.pl/kujawsko-pomorskie/w-toruniu-krzysztof-zanussi-mial-wypadek-na-planie-filmu-calopalenie-st9084495?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
