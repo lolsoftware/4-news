@@ -1,0 +1,13 @@
+{
+  "id": "49266abcd565",
+  "title": "Spherical Voronoi Diagram",
+  "originalTitle": "Spherical Voronoi Diagram",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.jasondavies.com/maps/voronoi/",
+  "publishedAt": "2026-06-03T15:32:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>A <a href=\"http://en.wikipedia.org/wiki/Voronoi_diagram\">Voronoi diagram</a> for a set of seed points divides space into a number of regions.  There is one region for each seed, consisting of all points closer to that seed than any other.  In this case, the space is the surface of the globe (approximated as a sphere). </p><p>This implementation uses a randomised incremental algorithm to compute the 3D <a href=\"http://en.wikipedia.org/wiki/Convex_hull\">convex hull</a> of the spherical points. The 3D convex hull of the spherical points is equivalent to the spherical <a href=\"http://en.wikipedia.org/wiki/Delaunay_triangulation\">Delaunay triangulation</a> of these points. </p><p>A work in progess!  Remaining items: </p><ul> <li>Handle coplanar points correctly. </li><li>Show the spherical convex hull (this is the boundary of the Delaunay triangulation for points ⊆ hemisphere, otherwise the whole sphere). </li></ul> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
