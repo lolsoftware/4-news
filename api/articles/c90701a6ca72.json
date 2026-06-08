@@ -1,0 +1,13 @@
+{
+  "id": "c90701a6ca72",
+  "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+  "originalTitle": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+  "publishedAt": "2026-06-08T21:03:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>As Apple <a href=\"https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/\">announced last year</a>, this year’s macOS release will end support for Intel Macs. The macOS 27 Golden Gate release will require a Mac with an Apple Silicon chip inside, including the original M1 that launched in the MacBook Air, MacBook Pro, and Mac mini back in late 2020.</p>\n<p>Intel Macs running macOS 26 Tahoe can expect security and Safari patches for about two more years after the release of macOS 27 Golden Gate. Macs running macOS 15 Sequoia will receive one more year of updates. Apple Silicon Macs will still be able to run Intel Mac apps via the Rosetta 2 compatibility layer in macOS 27, but future releases will begin to limit the technology (Apple has said it will mainly be used to support older games that still use Intel code).</p>\n<p>This change has been a long time coming, and every new macOS release has left <a href=\"https://arstechnica.com/gadgets/2025/06/one-last-look-at-software-support-as-macos-26-tahoe-winds-down-the-intel-mac-era/\">a longer and longer list</a> of Intel Macs behind. But many Mac owners who purchased late-model Intel machines in 2019 and 2020 could still run the latest version of the operating system, and third-party utilities like the <a href=\"https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/\">OpenCore Legacy Patcher</a> helped more adventurous Mac owners use their unsupported hardware a bit longer.</p> </div></div>",
+  "image": "images/cb4b07904224.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
