@@ -1,0 +1,13 @@
+{
+  "id": "acc817d6bfda",
+  "title": "High-severity vulnerability in Linux caused by a single errant character",
+  "originalTitle": "High-severity vulnerability in Linux caused by a single errant character",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+  "publishedAt": "2026-06-09T15:12:43.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>When a verdict map is deleted from memory, catchall elements are deactivated and a chain’s reference counter is decremented. When errors occur the deletion can be reversed and the counter incremented. CVE-2026-53111 allows for that process to be altered. As a result, the exploit can decrement the variable an arbitrary number of times and then delete and free the chain when some objects still point to it.</p>\n<p>“In this blog post, we have seen how one incorrect exclamation mark introduced a use-after-free vulnerability which can be exploited by an unprivileged user on Debian and Ubuntu to escalate privileges to root,” researchers from security firm Exodus Intelligence <a href=\"https://blog.exodusintel.com/2026/06/08/off-by-exploiting-a-use-after-free-in-the-linux-kernel/\">wrote Monday</a>. “Although the exploit triggers the use-after-free vulnerability multiple times to leak the kernel base address, leak heap addresses, and hijack the control flow, the stability tests resulted in a stability of &gt;99% on an idle system.”</p>\n<p>The vulnerability was <a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f41c5d151078c5348271ffaf8e7410d96f2d82f8\">fixed</a> in the kernel in February and subsequently back ported to major Linux distributions. Security firm FuzzingLabs <a href=\"https://fuzzinglabs.com/repro-cve-2026-23111/\">demonstrated</a> a proof of concept exploit in April. Exodus Intelligence, which discovered the bug, included its own PoC exploit in Monday’s post. It worked on Debian and Ubuntu.</p>\n<p>CVE-2026-53111 is one of <a href=\"https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/\">at least</a> <a href=\"https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/\">three</a> potent elevation-of-privilege vulnerabilities to hit Linux in recent weeks. The vulnerabilities are serious, because, when chained to a separate exploit, they can be used to evade security defenses baked into the OS.</p> </div></div>",
+  "image": "images/5ffc0671d59b.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
