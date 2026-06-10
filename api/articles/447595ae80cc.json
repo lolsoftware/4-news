@@ -1,0 +1,13 @@
+{
+  "id": "447595ae80cc",
+  "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+  "originalTitle": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+  "publishedAt": "2026-06-10T13:31:37.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>The researchers used an AI system trained to identify comments in the dataset that were likely to violate Meta’s current policies in three areas: violence and incitement, hateful conduct, or bullying and harassment.</p>\n<p>Comments that violated Meta’s policies around violent threats quadrupled, from 1,800 in the six months before the changes to 7,600 in the six months after. Hate speech comments also quadrupled, from 6,900 to 30,000. Comments that broke Meta’s rules on bullying and harassment doubled, from 15,700 to 39,900.</p>\n<p>“We regularly issue public reports tracking violating content on our platforms, and the prevalence of hateful conduct did not increase throughout 2025,” a Meta spokesperson tells WIRED, adding that the company could not address the report’s claims directly without seeing the research in its entirety. WIRED did provide a list of the abusive comments cited in the report, but Meta did not comment on these. Hours before the report was published, many of the examples were deleted from Facebook.</p>\n<p>“When companies reduce oversight in areas like violence, hate, and harassment, it should not be any surprise to see those harms increase,” Senator John Curtis, a Republican from Utah and a member of the Committee on Commerce, Science, and Transportation, said in a statement to CCDH.</p>\n<p>The data collected by CCDH researchers is echoed in Meta’s <a href=\"https://transparency.meta.com/reports/community-standards-enforcement/violence-incitement/\">own transparency reports</a> from 2025, which show how the company cut its proactive content moderation enforcement by roughly half in the months following its policy changes. “The surge in abuse and the collapse in enforcement track one another almost exactly,” the report’s authors write.</p> </div></div>",
+  "image": "images/b85a8f2ba14b.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
