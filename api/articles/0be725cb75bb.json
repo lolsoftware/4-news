@@ -1,0 +1,13 @@
+{
+  "id": "0be725cb75bb",
+  "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+  "originalTitle": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://bitboard.work/",
+  "publishedAt": "2026-06-12T16:58:03.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- ===== Hero ===== --> <div> <h2>Build dashboards and reports with your favorite AI tools.</h2> <p>\nConnect your data, build with your agent, share with your team.\n</p>  </div> <!-- ===== Stories ===== --> <section> <article> <div> <h2>Use from your favorite AI tools.</h2> <p>Generate dashboards and analysis in BitBoard from your favorite AI chat or coding agent. Turn your analysis into connected, durable assets instead of one-off chat threads.</p> <p><span> <img src=\"https://bitboard.work/assets/claude.png\" alt=\"Claude\"> </span><span> <img src=\"https://bitboard.work/assets/chatgpt.png\" alt=\"ChatGPT\"> </span><span> <img src=\"https://bitboard.work/assets/cursor.png\" alt=\"Cursor\"> </span> </p> </div> <div> <p><img src=\"https://bitboard.work/assets/build-with-ai.png\" alt=\"Building a BitBoard dashboard from a chat with Claude\"> </p> </div> </article><article> <div> <h2>Traceable and repeatable.</h2> <p>Connections, queries, and code are stored. Know exactly where your data came from and can rerun with consistent logic, even if the logic was AI-generated.</p>  </div> <div> <p><img src=\"https://bitboard.work/assets/traceable.png\" alt=\"A query stored alongside its dashboard, ready to rerun\"> </p> </div> </article><article> <div> <h2>All your data, in one place.</h2> <p>Give BitBoard direct access to your data sources for live connections or push data from your agent to leverage existing connections with minimal setup.</p>  </div> <div> <p><img src=\"https://bitboard.work/assets/connections.png\" alt=\"Connected data sources in BitBoard\"> </p> </div> </article><article> <div> <h2>Share with your team.</h2> <p>Use AI for data analysis without losing logic and context in your chat threads. Share with your team and collaborate in the browser.</p>  </div> <div> <p><img src=\"https://bitboard.work/assets/share.png\" alt=\"Sharing a BitBoard dashboard in Slack\"> </p> </div> </article> </section> <!-- ===== Closing band ===== --> <section> <h2>Try BitBoard for free.</h2>  </section> </div></div>",
+  "image": "images/d79f0b7ee264.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
