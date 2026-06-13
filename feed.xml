@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 13 Jun 2026 19:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 21:41:09 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>&quot;Niebezpiecznie blisko&quot;. CNN alarmuje: Rynek ropy naftowej na krawędzi kryzysu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e1b08b3c5441</link>
+      <description>Zapasy ropy naftowej w kluczowym amerykańskim hubie magazynowym Cushing w Oklahomie spadły do poziomu, który może zagrozić stabilności światowego rynku - przekazała w analizie stacja CNN. To może oznaczać, że ceny paliw wkrótce zaczną gwałtownie rosnąć.</description>
+      <pubDate>Sat, 13 Jun 2026 20:49:00 GMT</pubDate>
+      <guid isPermaLink="false">e1b08b3c5441</guid>
+      <source url="https://www.rmf24.pl/ekonomia/news-niebezpiecznie-blisko-cnn-alarmuje-rynek-ropy-naftowej-na-kr,nId,8090229">RMF24</source>
+    </item>
+    <item>
+      <title>KPMG pulls report on AI usage due to apparent hallucinations</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5a71d336caf</link>
+      <description>Once again, AI proves to be an unreliable source of information about AI.</description>
+      <pubDate>Sat, 13 Jun 2026 20:42:31 GMT</pubDate>
+      <guid isPermaLink="false">d5a71d336caf</guid>
+      <source url="https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/">TechCrunch</source>
+    </item>
+    <item>
+      <title>The nuclear challenge at the heart of Trump&apos;s Iran negotiations</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f3683df7ff58</link>
+      <description>US officials say the deal will lead to the destruction of Iran&apos;s enriched uranium, but details are still to be worked out.</description>
+      <pubDate>Sat, 13 Jun 2026 20:38:09 GMT</pubDate>
+      <guid isPermaLink="false">f3683df7ff58</guid>
+      <source url="https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Katar miał propozycję dla Iranu na początku wojny. &quot;WP&quot; o tajnym porozumieniu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1e0df97ac0f4</link>
+      <description>W pierwszych dniach konfliktu z Iranem Katar miał zaproponować Teheranowi tajne porozumienie, by uchronić kluczowy kompleks gazowy Ras Laffan przed atakiem – informuje &quot;The Washington Post&quot;, powołując się na źródła rządowe z Bliskiego Wschodu i Zachodu. Katar stanowczo zaprzecza tym doniesieniom, podkreślając, że oskarżenia są próbą podważenia jego roli mediatora w regionie.</description>
+      <pubDate>Sat, 13 Jun 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="false">1e0df97ac0f4</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-katar-mial-propozycje-dla-iranu-na-poczatku-wojny-wp-o-tajny,nId,8090228">RMF24</source>
+    </item>
+    <item>
+      <title>Ejchart o aresztowanym dziennikarzu: Nie ma statusu niebezpiecznego więźnia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/356fe567ab23</link>
+      <description>Maria Ejchart, wiceminister sprawiedliwości, odniosła się do pojawiających się w mediach doniesień na temat aresztowanego dziennikarza Leszka K. Zapewniła, że nie został on zakwalifikowany jako osoba stwarzająca poważne zagrożenie społeczne lub dla bezpieczeństwa zakładu karnego.</description>
+      <pubDate>Sat, 13 Jun 2026 20:11:00 GMT</pubDate>
+      <guid isPermaLink="false">356fe567ab23</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-ejchart-o-aresztowanym-dziennikarzu-nie-ma-statusu-niebezpie,nId,8090227">RMF24</source>
+    </item>
     <item>
       <title>Ruszył sezon. To najcenniejszy chwast z polskich pól</title>
       <link>https://lolsoftware.github.io/4-news/#/article/90e8c496847a</link>
@@ -46,6 +86,38 @@
       <pubDate>Sat, 13 Jun 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">6635d0e397e6</guid>
       <source url="https://www.bankier.pl/wiadomosc/Co-sekunde-do-kosza-trafia-150-kg-jedzenia-Najwiekszym-problemem-sa-domowe-zakupy-9148674.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Zamieszanie wokół pokoju na Bliskim Wschodzie. Sprzeczne sygnały USA i Iranu </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/496645b7b1ee</link>
+      <description>Donald Trump zapowiedział podpisanie porozumienia z Iranem w niedzielę. Rzecznik irańskiej dyplomacji zaprzeczył tym doniesieniom. Zdaniem prezydenta USA umowa ma &quot;natychmiast&quot; otworzyć cieśninę Ormuz. Z kolei Teheran zapowiada &quot;opłaty&quot;. W amerykańskiej i irańskiej narracji dotyczącej zawarcia pokoju znów nastąpił rozdźwięk.</description>
+      <pubDate>Sat, 13 Jun 2026 19:58:01 GMT</pubDate>
+      <guid isPermaLink="false">496645b7b1ee</guid>
+      <source url="https://tvn24.pl/swiat/co-dalej-z-pokojem-na-bliskim-wschodzie-sprzeczne-komunikaty-usa-i-iranu-st9094827?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Police officer investigated for using AI to &apos;create evidence&apos; in multiple cases</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7cf4dd7c01e1</link>
+      <description>Comments</description>
+      <pubDate>Sat, 13 Jun 2026 19:54:55 GMT</pubDate>
+      <guid isPermaLink="false">7cf4dd7c01e1</guid>
+      <source url="https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661">Hacker News</source>
+    </item>
+    <item>
+      <title>&quot;Wzruszająco i piękne&quot;. Za nami koncert finałowy Festiwalu Zaczarowanej Piosenki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/11564be53447</link>
+      <description>12 utalentowanych wykonawców z niepełnosprawnością walczyło na krakowskim Rynku Głównym o statuetki Zaczarowanego Ptaszka i stypendia artystyczne. Mimo uciążliwej pogody, odbył się tam 18. Festiwal Zaczarowanej Piosenki.</description>
+      <pubDate>Sat, 13 Jun 2026 19:54:00 GMT</pubDate>
+      <guid isPermaLink="false">11564be53447</guid>
+      <source url="https://www.rmf24.pl/kultura/news-wzruszajaco-i-piekne-za-nami-koncert-finalowy-festiwalu-zacz,nId,8090226">RMF24</source>
+    </item>
+    <item>
+      <title>Kobieta skoczyła na bungee. Zapomnieli przypiąć jej linę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e5f636bf20ff</link>
+      <description>Tragedia w brazylijskim stanie São Paulo - nie żyje 21-letnia kobieta, która zginęła po skoku na bungee. Okazuje się, że pracownicy zapomnieli przypiąć jej linę.</description>
+      <pubDate>Sat, 13 Jun 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="false">e5f636bf20ff</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-kobieta-skoczyla-na-bungee-zapomnieli-przypiac-jej-line,nId,8090225">RMF24</source>
     </item>
     <item>
       <title>Resident doctors cancel strike after new offer from government</title>
@@ -334,78 +406,6 @@
       <pubDate>Sat, 13 Jun 2026 16:57:49 GMT</pubDate>
       <guid isPermaLink="false">12e7070eb410</guid>
       <source url="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578">Hacker News</source>
-    </item>
-    <item>
-      <title>The adder at the heart of Intel&apos;s 8087 floating-point chip</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ce211978d013</link>
-      <description>In 1980, Intel released the Intel 8087 floating-point coprocessor, a chip that could make math up to 100 times faster. As well as arithmetic...</description>
-      <pubDate>Sat, 13 Jun 2026 16:49:42 GMT</pubDate>
-      <guid isPermaLink="false">ce211978d013</guid>
-      <source url="https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html">Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI faces investigation from state attorneys general</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e3bfdb856d94</link>
-      <description>It&apos;s not clear which states are involved, but they&apos;re asking about everything from OpenAI&apos;s ad policies to its handling of health data.</description>
-      <pubDate>Sat, 13 Jun 2026 16:47:18 GMT</pubDate>
-      <guid isPermaLink="false">e3bfdb856d94</guid>
-      <source url="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/">TechCrunch</source>
-    </item>
-    <item>
-      <title>AI Coding at Home Without Going Broke</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f2fc0f920fdd</link>
-      <description>There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...</description>
-      <pubDate>Sat, 13 Jun 2026 16:45:03 GMT</pubDate>
-      <guid isPermaLink="false">f2fc0f920fdd</guid>
-      <source url="https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/">Hacker News</source>
-    </item>
-    <item>
-      <title>Wojna dotarła do Moskwy. Zdziwienie na stacjach benzynowych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f5bcf733e5bc</link>
-      <description>Wojna zaczyna dotykać mieszkańców Moskwy, bowiem największe sieci stacji paliw zaczęły ograniczać sprzedaż zarówno benzyny, jak i oleju napędowego. Niedobory wynikają z systematycznych, niemal codziennych ataków sił ukraińskich na rosyjską infrastrukturę naftową.</description>
-      <pubDate>Sat, 13 Jun 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="false">f5bcf733e5bc</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-wojna-dotarla-do-moskwy-zdziwienie-na-stacjach-benzynowych,nId,8090218">RMF24</source>
-    </item>
-    <item>
-      <title>Thousands gather for anti-racism rally in Belfast after disorder</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3454bb813708</link>
-      <description>Protesters gathered at Belfast City Hall for a demonstration against racism, after the past week of violence and disorder.</description>
-      <pubDate>Sat, 13 Jun 2026 16:36:26 GMT</pubDate>
-      <guid isPermaLink="false">3454bb813708</guid>
-      <source url="https://www.bbc.com/news/articles/c20ygdde4djo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Polki na podium mistrzostw Europy. Szalony dzień i bolesna dyskwalifikacja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/23cb45bf6d16</link>
-      <description>Sobotnie finały mistrzostw Europy w kajakarstwie przyniosły polskiej reprezentacji trzy medale. Srebrny krążek wywalczyła kobieca czwórka w olimpijskiej konkurencji K4 500 m, a brązowe medale zdobyły Dorota Borowska w C1 200 m oraz duet Borowska/Mackiewicz w C2 200 m. Zawody w portugalskim Montemor trwają do niedzieli.</description>
-      <pubDate>Sat, 13 Jun 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="false">23cb45bf6d16</guid>
-      <source url="https://www.rmf24.pl/sport/news-polki-na-podium-mistrzostw-europy-szalony-dzien-i-bolesna-dy,nId,8090217">RMF24</source>
-    </item>
-    <item>
-      <title>Wygrana, dyskwalifikacja i płacz ze szczęścia. Szalony dzień na ME pełen medali</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/75859d83324d</link>
-      <description>Piękny dzień kajakarskiej reprezentacji Polski w portugalskim Montemor! Biało-Czerwoni otworzyli worek z medalami, zdobywając w sobotę aż cztery krążki. Obok pełnego zwrotów akcji horroru z udziałem nowego mistrza Europy, Aleksa Boruckiego, oczy kibiców były zwrócone na panie.</description>
-      <pubDate>Sat, 13 Jun 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="false">75859d83324d</guid>
-      <source url="https://www.rmf24.pl/sport/news-wygrana-dyskwalifikacja-i-placz-ze-szczescia-szalony-dzien-n,nId,8090217">RMF24</source>
-    </item>
-    <item>
-      <title>Inspektor z Marines w polskiej fabryce leków. Kulisy kontroli amerykańskiej agencji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a0fe1b9089b7</link>
-      <description>Rynek USA to marzenie wielu firm farmaceutycznych, ale wejście za ocean wymaga przejścia przez jednego z najbardziej wymagających regulatorów świata. W przypadku leków biologicznych polskie szlaki przetarł Rezon Bio, marka Polpharma Biologics, który jako pierwszy i jak dotąd jedyny podmiot z Polski uzyskał rejestrację FDA dla takiego produktu. Jak wygląda przygotowanie fabryki, dokumentacji i zespołu do amerykańskiej inspekcji? Opowiada Natalia Kamont, dyrektor ds. systemów zarządzania jakością grupy i zapewnienia jakości gdańskiego Ośrodka Badań i Produkcji Rezon Bio.</description>
-      <pubDate>Sat, 13 Jun 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="false">a0fe1b9089b7</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Inspektor-z-Marines-w-polskiej-fabryce-lekow-Kulisy-kontroli-amerykanskiej-agencji,284414,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>GLM 5.2 Is Out</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0b2146d3833f</link>
-      <description>Initial access is limited to GLM Coding Plan subscribers.</description>
-      <pubDate>Sat, 13 Jun 2026 16:18:31 GMT</pubDate>
-      <guid isPermaLink="false">0b2146d3833f</guid>
-      <source url="https://digg.com/tech/ii9xibgn">Hacker News</source>
     </item>
   </channel>
 </rss>
