@@ -1,0 +1,13 @@
+{
+  "id": "209660e0ed79",
+  "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+  "originalTitle": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+  "publishedAt": "2026-06-13T11:55:30.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<p><img alt=\"ARCH LINUX\" src=\"https://www.phoronix.com/assets/categories/archlinux.webp\" width=\"100\" height=\"100\"></p><p>\nThe day started out with <a href=\"https://www.phoronix.com/news/Arch-Linux-AUR-400-Compromised\">Arch Linux's AUR user-contributed repository seeing more than 400 packages compromised</a> with malware. Now in ending out the day they believe all affected commits have been addressed. But it ended up being more than 1,500 affected packages.\n</p><p>\nIt was bad enough when finding out more than 400 AUR packages for Arch Linux users had been infected with malware but now that number has risen to around 900 a few hours ago and now in the end at more than 1,500 user-contributed packages.\n</p><p>\nIn an <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/5FDTMKA54RMWNRHJFUAKXEBAFV5WPDUL/\">update</a> a few hours ago, it was believed around 900 packages were infected by malware in this week's incident.\n</p><p>\nThen as of writing now, the last message in the thread over this security incident is <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FCH7TT6IOVT7D477JKSVJALBKADAARSW/\">noting</a> that Arch Linux developers have deleted all the malicious commits they are aware of. Cited was <a href=\"https://md.archlinux.org/s/SxbqukK6IA\">this list</a> that puts the number of malware-affected packages at 1,579! Tons of software in this user-maintained Arch Linux user repository were impacted by this nasty security incident.\n</p><p>\nEven at 1,579 packages listed, that final updated noted, it's a \"<em>list containing many (but not all) of the affected packages</em>\". Ouch.</p></div></div>",
+  "image": "images/d986c0f90c9f.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
