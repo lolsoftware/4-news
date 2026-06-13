@@ -1,0 +1,13 @@
+{
+  "id": "0583f3a48b55",
+  "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+  "originalTitle": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+  "publishedAt": "2026-06-13T05:44:46.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><section><!--$--><p>A few days ago, Anthropic released the model that was supposedly too dangerous for the world to see. I wanted to give it a try using my personal benchmark: can it build a game idea I've had for years, in a single shot?</p>\n<p>The model started with a very long reasoning session, and after 45 minutes and more than €20 worth of tokens (!), it happily reported that \"Shepherd's Dog is complete — a single 2,319 line index.html with zero dependencies.\"</p>\n<p>You can watch the video below or give the game a <a href=\"https://vnglst.github.io/when-ai-fails/shepards-dog/claude-fable-5/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">try<svg fill=\"currentColor\"><use href=\"/static/icons/external-link.svg#external-link\"></use></svg></a> It's really fun and exactly how I imagined it. For me this is the first time an AI model is able to create this for me in one go:</p>\n<video width=\"700\" muted=\"\" loop=\"\" autoplay=\"\" playsinline=\"\"><source src=\"https://files.koenvangilst.nl/u/sheperds-dog.mov\" type=\"video/mp4\"></video>\n<ul>\n<li>Play the game here: <a href=\"https://vnglst.github.io/when-ai-fails/shepards-dog/claude-fable-5/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">vnglst.github.io/when-ai-fails/shepards-dog/claude-fable-5/index.html<svg fill=\"currentColor\"><use href=\"/static/icons/external-link.svg#external-link\"></use></svg></a></li>\n<li>Other attempts with earlier models: <a href=\"https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md\" target=\"_blank\" rel=\"noopener noreferrer\">github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md<svg fill=\"currentColor\"><use href=\"/static/icons/external-link.svg#external-link\"></use></svg></a></li>\n</ul><!--/$--></section></div>",
+  "image": "images/c19f04969021.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
