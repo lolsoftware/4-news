@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 14 Jun 2026 20:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 21:43:16 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roy Hattersley, former Labour deputy leader, dies aged 93</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/37a35e3ea60d</link>
+      <description>Paying tribute, Sir Keir Starmer said Lord Hattersley &quot;was a giant of the Labour movement&quot;.</description>
+      <pubDate>Sun, 14 Jun 2026 21:39:02 GMT</pubDate>
+      <guid isPermaLink="false">37a35e3ea60d</guid>
+      <source url="https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>New social media restrictions will end &apos;system failing our kids&apos;, PM says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/81054ee05f27</link>
+      <description>Starmer promises &apos;bold action&apos; ahead of Monday&apos;s announcement on restrictions for children.</description>
+      <pubDate>Sun, 14 Jun 2026 21:32:21 GMT</pubDate>
+      <guid isPermaLink="false">81054ee05f27</guid>
+      <source url="https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Roy Hattersley: Labour politician who helped start the party&apos;s modernisation</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7247931ba2b0</link>
+      <description>Able Labour politician, often at odds with his party, who became a successful author and columnist.</description>
+      <pubDate>Sun, 14 Jun 2026 21:29:25 GMT</pubDate>
+      <guid isPermaLink="false">7247931ba2b0</guid>
+      <source url="https://www.bbc.com/news/articles/c7224g41x1po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Zinnia: A modular 64-bit Unix-like kernel written in Rust</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2424150ecf88</link>
+      <description>A modular 64-bit Unix-like kernel written in Rust</description>
+      <pubDate>Sun, 14 Jun 2026 21:04:46 GMT</pubDate>
+      <guid isPermaLink="false">2424150ecf88</guid>
+      <source url="https://zinnia-os.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Fala ekstremalnych upałów w USA. Alerty dla milionów mieszkańców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/358723d4f53e</link>
+      <description>Kalifornia, Oregon i Waszyngton w najbliższych dniach będą się zmagać z ekstremalnymi upałami. Krajowa Służba Pogodowa ostrzega przed temperaturami, które mogą stanowić poważne zagrożenie dla zdrowia i życia mieszkańców. Wydano alerty dla milionów osób.</description>
+      <pubDate>Sun, 14 Jun 2026 20:49:00 GMT</pubDate>
+      <guid isPermaLink="false">358723d4f53e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-fala-ekstremalnych-upalow-w-usa-alerty-dla-milionow-mieszkan,nId,8090279">RMF24</source>
+    </item>
     <item>
       <title>Kolejne kraje ostrzegają. Polacy zajadają się tą rybą bez opamiętania</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7f2b7610cb4c</link>
@@ -14,6 +54,30 @@
       <pubDate>Sun, 14 Jun 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">7f2b7610cb4c</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Kolejne-kraje-ostrzegaja-Polacy-zajadaja-sie-ta-ryba-bez-opamietania,285431,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>UK may ban social media for children under 16</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5450d6266af6</link>
+      <description>The U.K. seems to be following Australia&apos;s lead in banning a wide swath of social media for teens.</description>
+      <pubDate>Sun, 14 Jun 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="false">5450d6266af6</guid>
+      <source url="https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Obawy o atak. Media: Przestrzeń powietrzna nad Iranem zamknięta</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/28feb70ed2ad</link>
+      <description>Iran zamknął swoją przestrzeń powietrzną w obawie przed potencjalnym atakiem na Izrael  - przekazał w niedzielę wieczorem portal Times of Israel. Mają o tym świadczyć dane z monitoringu lotów. Decyzja zapadła po eskalacji napięć między Izraelem a wspieranym przez Teheran Hezbollahem.</description>
+      <pubDate>Sun, 14 Jun 2026 20:09:00 GMT</pubDate>
+      <guid isPermaLink="false">28feb70ed2ad</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-obawy-o-atak-media-przestrzen-powietrzna-nad-iranem-zamkniet,nId,8090278">RMF24</source>
+    </item>
+    <item>
+      <title>Assisted dying returns to parliament as MP urges peers to &apos;finish the job&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d7357f585dd</link>
+      <description>Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords.</description>
+      <pubDate>Sun, 14 Jun 2026 20:05:21 GMT</pubDate>
+      <guid isPermaLink="false">8d7357f585dd</guid>
+      <source url="https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Emeryci alarmują: ZUS kwestionuje składki sprzed lat. Tracą miliony złotych</title>
@@ -54,6 +118,14 @@
       <pubDate>Sun, 14 Jun 2026 19:47:00 GMT</pubDate>
       <guid isPermaLink="false">619a66de4ba8</guid>
       <source url="https://www.bankier.pl/wiadomosc/Premier-Sanchez-zyskuje-szacunek-w-Europie-jako-przeciwnik-Trumpa-9147860.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Watch: Protesters clash with police ahead of G7 summit in Geneva</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c52233253d18</link>
+      <description>Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.</description>
+      <pubDate>Sun, 14 Jun 2026 19:46:36 GMT</pubDate>
+      <guid isPermaLink="false">c52233253d18</guid>
+      <source url="https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>11 skydivers and pilot killed in US plane crash</title>
@@ -118,6 +190,14 @@
       <pubDate>Sun, 14 Jun 2026 19:14:21 GMT</pubDate>
       <guid isPermaLink="false">2f29cb34e3a1</guid>
       <source url="https://tumbleweed.nu/r/lm-3/uv/amber.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Yserver: A modern X11 server written in Rust</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e74ecde88c43</link>
+      <description>A modern X11 server written from scratch in Rust. Contribute to joske/yserver development by creating an account on GitHub.</description>
+      <pubDate>Sun, 14 Jun 2026 19:10:35 GMT</pubDate>
+      <guid isPermaLink="false">e74ecde88c43</guid>
+      <source url="https://github.com/joske/yserver">Hacker News</source>
     </item>
     <item>
       <title>40 tygodni badań dało spektakularny efekt. Pacjenci tracili nawet 15 proc. wagi</title>
@@ -326,86 +406,6 @@
       <pubDate>Sun, 14 Jun 2026 16:33:00 GMT</pubDate>
       <guid isPermaLink="false">49a6d4514141</guid>
       <source url="https://www.bankier.pl/wiadomosc/Co-czwarty-Polak-bez-finansowej-poduszki-Oszczednosci-starcza-najwyzej-na-3-miesiace-9150930.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Unia Europejska chce zmian w emeryturach. Na liście m.in. wiek emerytalny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/665dd4f8abd3</link>
-      <description>Przyszłość polskiego systemu emerytalnego ponownie stała się przedmiotem międzynarodowej dyskusji. Komisja Europejska opublikowała rekomendacje dla państw członkowskich, w których zwróciła uwagę na kilka obszarów wymagających zmian. Wśród poruszonych kwestii znalazły się zarówno zasady przechodzenia na emeryturę, jak i funkcjonowanie wybranych grup objętych odrębnymi rozwiązaniami.</description>
-      <pubDate>Sun, 14 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">665dd4f8abd3</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Unia-Europejska-chce-zmian-w-emeryturach-Na-liscie-m-in-wiek-emerytalny,285213,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Drugi próg  podatkowy w górę do 180 tys. zł. PiS przedstawia „Plan Czarnka”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ff916dd13ecb</link>
-      <description>PiS zaprezentował w Kaliszu trzy z dwudziestu jeden punktów programu obietnic dla Polski. Zakłada on: wyjście z ETS, zwolnienie emerytów z podatku i składek emerytalno-rentowych do 2,5 tys. zł oraz podniesienie drugiego progu podatkowego do 180 tys. zł rocznie, zaś w przypadku rozliczania małżonków - 360 tys. zł.</description>
-      <pubDate>Sun, 14 Jun 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="false">ff916dd13ecb</guid>
-      <source url="https://www.bankier.pl/wiadomosc/PiS-przedstawia-Plan-Czarnka-Trzy-kluczowe-propozycje-dla-gospodarki-9150969.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Swiss voters reject proposal to cap population at ten million</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/88fbd84fde88</link>
-      <description>Provisional results of Sunday&apos;s polls show Swiss citizens have rejected the right-wing Swiss People&apos;s Party proposal to limit the population to ten million.</description>
-      <pubDate>Sun, 14 Jun 2026 16:28:54 GMT</pubDate>
-      <guid isPermaLink="false">88fbd84fde88</guid>
-      <source url="https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146">Hacker News</source>
-    </item>
-    <item>
-      <title>Szwajcaria odrzuca plan ograniczenia populacji. Bez zmian w relacjach z UE</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/471dbcf403bd</link>
-      <description>Wstępne wyniki niedzielnego referendum w Szwajcarii, w którym obywatele decydowali, czy wprowadzić nakaz ograniczenia liczby ludności kraju do 10 mln przed 2050 r., wskazują, że prawie 53 proc. głosujących odrzuciło wniosek skrajnie prawicowej Szwajcarskiej Partii Ludowej (SVP). Frekwencja przekroczyła 57 proc.</description>
-      <pubDate>Sun, 14 Jun 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="false">471dbcf403bd</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Szwajcaria-odrzuca-plan-ograniczenia-populacji-Bez-zmian-w-relacjach-z-UE-9150968.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Główny negocjator Iranu: USA brakuje woli lub możliwości wypełnienia zobowiązań</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a1263721200c</link>
-      <description>Główny irański negocjator Mohammad Bagher Ghalibaf oświadczył po ostrzale przez Izrael celu Hezbollahu w Bejrucie, że Stanom Zjednoczonym brakuje woli lub możliwości wypełnienia zobowiązań, wynikających z porozumienia z Iranem, które ma być podpisane w niedzielę.</description>
-      <pubDate>Sun, 14 Jun 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="false">a1263721200c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Glowny-negocjator-Iranu-USA-brakuje-woli-lub-mozliwosci-wypelnienia-zobowiazan-9150971.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Kierowcy w Warszawie mają problem. Strefa płatnego parkowania będzie większa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0b642d400d7a</link>
-      <description>Stołeczni radni zdecydowali, że od 7 września strefa płatnego parkowania niestrzeżonego zostanie poszerzona o kolejną część Pragi-Południe i Woli. Następne rozszerzenie SPPN będzie w połowie maja przyszłego roku i obejmie kolejną część Mokotowa oraz Włoch.</description>
-      <pubDate>Sun, 14 Jun 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="false">0b642d400d7a</guid>
-      <source url="https://www.bankier.pl/moto/wiadomosc/Kierowcy-w-Warszawie-maja-problem-Strefa-platnego-parkowania-bedzie-wieksza-9149953.html">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Karol Nawrocki w USA. Pierwszy punkt wizyty: msza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77737211a5ce</link>
-      <description>Prezydent Karol Nawrocki jest w USA, gdzie weźmie udział w obchodach 80. urodzin Donalda Trumpa. Wcześniej, jeszcze przed wieczorną uroczystością, uczestniczył w mszy w polskim kościele w Silver Spring w stanie Maryland.</description>
-      <pubDate>Sun, 14 Jun 2026 16:16:46 GMT</pubDate>
-      <guid isPermaLink="false">77737211a5ce</guid>
-      <source url="https://tvn24.pl/swiat/prezydent-karol-nawrocki-w-usa-przyjechal-na-msze-w-polskim-kosciele-w-silver-spring-maryland-st9095738?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Karol Nawrocki w USA. Ma &quot;cel strategiczny&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7f292cadd7da</link>
-      <description>Prezydent Karol Nawrocki jest w USA, gdzie weźmie udział w obchodach 80. urodzin Donalda Trumpa. Wcześniej, jeszcze przed wieczorną uroczystością, uczestniczył w mszy w polskim kościele w Silver Spring. - Naszym celem strategicznym jest oczywiście stała obecność wojsk amerykańskich w Polsce - powiedział później w rozmowie z dziennikarzami. Zdradził też, czego będzie życzył Trumpowi.</description>
-      <pubDate>Sun, 14 Jun 2026 16:16:46 GMT</pubDate>
-      <guid isPermaLink="false">7f292cadd7da</guid>
-      <source url="https://tvn24.pl/swiat/prezydent-karol-nawrocki-w-usa-wezmie-udzial-w-urodzinach-donalda-trumpa-rozmawial-z-dziennikarzami-st9095738?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Prof. Bożejko: Świat inwestuje w komputery kwantowe, czekając na tzw. Q-Day</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f247b3e17572</link>
-      <description>Programowanie komputerów kwantowych przypomina programowanie pierwszych komputerów z lat 40. XX wieku. To obszar, który dopiero raczkuje i w porównaniu z programowaniem współczesnych klasycznych komputerów wygląda siermiężnie - opowiada prof. Wojciech Bożejko, specjalista od informatyki kwantowej.</description>
-      <pubDate>Sun, 14 Jun 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="false">f247b3e17572</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Prof-Bozejko-Swiat-inwestuje-w-komputery-kwantowe-czekajac-na-tzw-Q-Day-9150932.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Tragedia w Chorwacji, zginęły trzy osoby. &quot;Nigdy nie doświadczyłem czegoś takiego&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b114a26df49e</link>
-      <description>Niedaleko Splitu doszło do zderzenia katamaranu z żaglówką. W wyniku wypadku zginęły trzy osoby, jedna wciąż jest poszukiwana. Wiadomo, że ofiarami są Czesi. &quot;Wyrażam szczere współczucie ich rodzinom oraz premierowi Andrejowi Babiszowi&quot; - przekazał premier Chorwacji Andrej Plenković.</description>
-      <pubDate>Sun, 14 Jun 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="false">b114a26df49e</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-tragedia-w-chorwacji-zginely-trzy-osoby-nigdy-nie-doswiadczy,nId,8090270">RMF24</source>
     </item>
   </channel>
 </rss>
