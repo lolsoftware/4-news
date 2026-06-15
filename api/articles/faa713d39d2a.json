@@ -1,0 +1,13 @@
+{
+  "id": "faa713d39d2a",
+  "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+  "originalTitle": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://news.ycombinator.com/item?id=48543908",
+  "publishedAt": "2026-06-15T16:47:21.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><td colspan=\"2\"></td><td><div><p>I’m Nick, founder of Drafted (<a href=\"https://www.drafted.ai/\">https://www.drafted.ai</a>). We’re training models that generate residential architecture from structured design constraints.</p><p>Product demo: <a href=\"https://www.youtube.com/watch?v=8QkJ7jNU9y4\" rel=\"nofollow\">https://www.youtube.com/watch?v=8QkJ7jNU9y4</a></p><p>Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visualize the outcome. As a result, the vast majority of homes are built without direct architectural involvement.</p><p>Our goal is to teach computers how the built environment works so anyone can imagine, explore, and eventually create physical spaces tailored to them.</p><p>Today, users can design homes using simple inputs such as: - Square footage targets - Footprint shapes - Lot boundaries - Room placement preferences - Spatial relationships and constraints.</p><p>Our models generate complete floor plans and matching exterior elevations in seconds. Users can explore designs in both 2D and 3D, iterate instantly, furnish interiors, experiment with materials, and export CAD, PDF, and other files for the rest of the pre-construction process.</p><p>One of our newest capabilities allows users to draw any footprint shape and generate a complete home layout inside it: <a href=\"https://www.youtube.com/watch?v=wZJhBm7-OHI\" rel=\"nofollow\">https://www.youtube.com/watch?v=wZJhBm7-OHI</a>.</p><p>Over the past month, more than 120,000 people have used Drafted, generating over 325,000 home designs.</p><p>If you're building a home, developing property, working in architecture, construction, or AI, we'd love to hear your feedback!</p></div></td></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
