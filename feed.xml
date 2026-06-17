@@ -5,409 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 16 Jun 2026 22:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:17:03 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Apple plans to change its Hide My Email privacy feature that could make it less effective</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/06e571162d49</link>
-      <description>In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.</description>
-      <pubDate>Tue, 16 Jun 2026 22:09:32 GMT</pubDate>
-      <guid isPermaLink="false">06e571162d49</guid>
-      <source url="https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/">TechCrunch</source>
+      <title>Błyskawiczne prace. Nowe przepisy o danych nt. zarobków lekarzy już w dziś w Sejmie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/baaf7435b49a</link>
+      <description>Rząd przyspiesza prace nad przepisami, które mają dać Agencji Oceny Technologii Medycznych i Taryfikacji możliwość zbierania zanonimizowanych danych o łącznych wynagrodzeniach medyków, m.in. na podstawie numeru PESEL lub prawa wykonywania zawodu. To reakcja na głośną sprawę radnego i lekarza Dawida Kacprzyka, który za 2025 r. wykazał ponad 1,7 mln zł dochodu.</description>
+      <pubDate>Wed, 17 Jun 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="false">baaf7435b49a</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Blyskawiczne-prace-Nowe-przepisy-o-danych-nt-zarobkow-lekarzy-juz-w-dzis-w-Sejmie,285531,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Cockroaches scurry around with thousands of pieces of bacterial genomes</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e28e758e08e3</link>
-      <description>Transferring genes across species doesn&apos;t just happen in microbes.</description>
-      <pubDate>Tue, 16 Jun 2026 21:54:41 GMT</pubDate>
-      <guid isPermaLink="false">e28e758e08e3</guid>
-      <source url="https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/">Ars Technica</source>
+      <title>Zdrowie pacjentek z wielu perspektyw. Już jutro Forum Zdrowia Kobiet</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/156d80defa3b</link>
+      <description>Jak skuteczniej odpowiadać na potrzeby zdrowotne kobiet na różnych etapach życia? To jedno z kluczowych pytań, wokół których będzie toczyć się dyskusja podczas Forum Zdrowia Kobiet. Wydarzenie rozpocznie się 18 czerwca i zgromadzi ekspertki, ekspertów, przedstawicieli systemu ochrony zdrowia oraz pacjentki.</description>
+      <pubDate>Wed, 17 Jun 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="false">156d80defa3b</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Zdrowie-pacjentek-z-wielu-perspektyw-Juz-jutro-Forum-Zdrowia-Kobiet,283989,15.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Operacja &quot;Kukulkan&quot; przynosi efekty. Najniższy poziom zabójstw od dekady</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a1ca501ba16</link>
-      <description>W dniu rozpoczęcia piłkarskich mistrzostw świata w Meksyku odnotowano zaledwie 30 zabójstw - to drugi najniższy wynik w ciągu ostatnich dziesięciu lat. Jak wynika z danych meksykańskiego gabinetu bezpieczeństwa, w połowie stanów kraju nie doszło tego dnia do żadnego morderstwa.</description>
-      <pubDate>Tue, 16 Jun 2026 21:40:00 GMT</pubDate>
-      <guid isPermaLink="false">7a1ca501ba16</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-operacja-kukulkan-przynosi-efekty-najnizszy-poziom-zabojstw-,nId,8090655">RMF24</source>
+      <title>Rewolucja w zdrowiu według Lewicy. Limit zarobków dla lekarzy i zakaz łączenia praktyk</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ff4e0f5d168</link>
+      <description>Klub Lewicy chce, by natychmiast rozpocząć dyskusję o radykalnych zmianach w ochronie zdrowia. Proponuje cztery tematy, w tym maksymalny limit wynagrodzeń lekarzy i zakaz łączenia praktyki prywatnej z publiczną – poinformował w środę lider Nowej Lewicy, marszałek Sejmu Włodzimierz Czarzasty.</description>
+      <pubDate>Wed, 17 Jun 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="false">0ff4e0f5d168</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Rewolucja-w-zdrowiu-wedlug-Lewicy-Limit-zarobkow-dla-lekarzy-i-zakaz-laczenia-praktyk-9152639.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Unlocking UK house-building with AI-accelerated planning</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/334cabed9c98</link>
-      <description>Google DeepMind is working alongside the UK government to co-develop an AI-powered prototype to help cut application decision times by 50%.</description>
-      <pubDate>Tue, 16 Jun 2026 21:29:50 GMT</pubDate>
-      <guid isPermaLink="false">334cabed9c98</guid>
-      <source url="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/">Google DeepMind</source>
+      <title>Trump &quot;uderza&quot; w Obamę przez.. basen. Chodzi o zieloną wodę za miliony dolarów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f19ffa1be21</link>
+      <description>Przedstawiciele administracji Donalda Trumpa skierowali ostrą krytykę pod adresem byłego prezydenta Baracka Obamy, obwiniając go o zazielenienie się wody w basenie lustrzanym przy Pomniku Lincolna. Do sytuacji doszło pomimo przeprowadzonej wcześniej, głośno medialnie opisywanej modernizacji tego obiektu, której koszt wyniósł 14 milionów dolarów - czytamy w Independent.</description>
+      <pubDate>Wed, 17 Jun 2026 09:13:00 GMT</pubDate>
+      <guid isPermaLink="false">3f19ffa1be21</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Trump-uderza-w-Obame-przez-basen-Chodzi-o-zielona-wode-za-miliony-dolarow-9152581.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Francuska maszyna ruszyła w drugiej połowie. Mbappe goni Klose</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b33899babc6b</link>
-      <description>Choć po pierwszej połowie był bezbramkowy remis, w drugiej części gry reprezentacja Francji wrzuciła wyższy bieg i nie dała większych szans Senegalowi, pokonując ekipę z Afryki 3:1. Dwa gole dla &quot;Trójkolorowych&quot; strzelił Kylian Mbappe, który w klasyfikacji strzelców wszech czasów piłkarskich mistrzostw świata goni Niemca Miroslava Klose.</description>
-      <pubDate>Tue, 16 Jun 2026 21:26:00 GMT</pubDate>
-      <guid isPermaLink="false">b33899babc6b</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-francuska-maszyna-ruszyla-w-drugiej-polowie-mbappe-goni-klos,nId,8090656">RMF24</source>
+      <title>Ukraińcy nie chcą już polskich MIG-ów. Kijów chciałbym najpierw ich modernizacji </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fef3b2f0227c</link>
+      <description>Wiceszef MON Paweł Zalewski stwierdził, że po stronie ukraińskiej nie ma zainteresowania przekazaniem jej MiG-ów. Według niego, Ukraińcy chcieliby, aby te samoloty były dopasowane do bardziej nowoczesnych warunków bojowych, tymczasem Polska nie jest zainteresowana ponoszeniem kosztu ich modernizacji.</description>
+      <pubDate>Wed, 17 Jun 2026 09:11:00 GMT</pubDate>
+      <guid isPermaLink="false">fef3b2f0227c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ukraincy-nie-chca-juz-polskich-MIG-ow-Kijow-chcialbym-najpierw-ich-modernizacji-9152611.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Total Iran Economic Damage Estimate</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da724e866b27</link>
-      <description>Comments</description>
-      <pubDate>Tue, 16 Jun 2026 21:18:36 GMT</pubDate>
-      <guid isPermaLink="false">da724e866b27</guid>
-      <source url="https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/">Hacker News</source>
+      <title>Głaskanie kota nie tylko uspokaja. Zaskakujące wnioski naukowców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d3e7e1635dfb</link>
+      <description>Kontakt z kotem zwykle poprawia samopoczucie, ale w stresie nie zawsze działa kojąco – wynika z badania opublikowanego w „Frontiers in Psychology”. U części opiekunów kotów częstsza interakcja w trudnych chwilach wiązała się z silniejszymi negatywnymi emocjami.</description>
+      <pubDate>Wed, 17 Jun 2026 09:06:00 GMT</pubDate>
+      <guid isPermaLink="false">d3e7e1635dfb</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Glaskanie-kota-nie-tylko-uspokaja-Zaskakujace-wnioski-naukowcow,285520,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>NASA’s Webb Catches Exoplanet Getting Roasted</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/56b6666648bb</link>
-      <description>One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an</description>
-      <pubDate>Tue, 16 Jun 2026 21:15:00 GMT</pubDate>
-      <guid isPermaLink="false">56b6666648bb</guid>
-      <source url="https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/">NASA Breaking News</source>
+      <title>Wjechał w tył auta, po czym próbował uciec. Pijany kierowca w rękach policji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/abe7cf18a7f0</link>
+      <description>​27-latek, podejrzany o spowodowanie groźnej kolizji na jednej z ulic Gorzowa Wielkopolskiego oraz próbę ucieczki z miejsca zdarzenia, trafił do aresztu. Złamał prawo, będąc pod wpływem alkoholu. Jak przekazał nadkom. Grzegorz Jaroszewicz z gorzowskiej policji, mężczyzna został ujęty dzięki reakcji świadków. &quot;W aucie miał narkotyki&quot; - dodał policjant.</description>
+      <pubDate>Wed, 17 Jun 2026 09:03:30 GMT</pubDate>
+      <guid isPermaLink="false">abe7cf18a7f0</guid>
+      <source url="https://www.rmf24.pl/regiony/news-wjechal-w-tyl-auta-po-czym-probowal-uciec-pijany-kierowca-w-,nId,8090698">RMF24</source>
     </item>
     <item>
-      <title>Among the large new rockets Amazon was counting on, only Europe has delivered</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f0a3c2a5fe5</link>
-      <description>As for Arianespace, they have definitely stepped up.&quot;</description>
-      <pubDate>Tue, 16 Jun 2026 21:14:08 GMT</pubDate>
-      <guid isPermaLink="false">9f0a3c2a5fe5</guid>
-      <source url="https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/">Ars Technica</source>
+      <title>Lewica chce rewolucji w ochronie zdrowia. Czarzasty przedstawił cztery postulaty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a7a4d47e22cd</link>
+      <description>​Klub Lewicy chce, by natychmiast rozpocząć dyskusję o radykalnych zmianach w ochronie zdrowia. Proponuje cztery tematy, w tym maksymalny limit wynagrodzeń lekarzy i zakaz łączenia praktyki prywatnej z publiczną - poinformował w środę lider Nowej Lewicy, marszałek Sejmu Włodzimierz Czarzasty.</description>
+      <pubDate>Wed, 17 Jun 2026 09:03:08 GMT</pubDate>
+      <guid isPermaLink="false">a7a4d47e22cd</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-lewica-chce-rewolucji-w-ochronie-zdrowia-czarzasty-przedstaw,nId,8090697">RMF24</source>
     </item>
     <item>
-      <title>Anthropic &quot;pauses&quot; token-based billing for its Claude Agent SDK</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ccb02d928b52</link>
-      <description>Move originally planned for Monday would have heavily increased power users&apos; costs.</description>
-      <pubDate>Tue, 16 Jun 2026 21:00:35 GMT</pubDate>
-      <guid isPermaLink="false">ccb02d928b52</guid>
-      <source url="https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/">Ars Technica</source>
+      <title>A daily probiotic may help relieve depression and anxiety</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc91df03626d</link>
+      <description>A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater improvements in depression and anxiety symptoms than those who received a placebo.</description>
+      <pubDate>Wed, 17 Jun 2026 09:00:24 GMT</pubDate>
+      <guid isPermaLink="false">cc91df03626d</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/06/260617032149.htm">ScienceDaily</source>
     </item>
     <item>
-      <title>Pula w Eurojackpot coraz większa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4db60391ecd2</link>
-      <description>We wtorkowym losowaniu Eurojackpot nikt nie wytypował poprawnie wszystkich siedmiu liczb, natomiast padły dwie wygrane drugiego stopnia. W Polsce najwyższa była czwartego stopnia. Kumulacja loterii rośnie do 280 milionów złotych. Oto wyniki losowania z 16 czerwca 2026 roku.</description>
-      <pubDate>Tue, 16 Jun 2026 20:49:23 GMT</pubDate>
-      <guid isPermaLink="false">4db60391ecd2</guid>
-      <source url="https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-16-czerwca-2026-roku-jakie-liczby-padly-w-trakcie-losowania-st9099569?source=rss">TVN24</source>
+      <title>Most of the CVE-2026-4020 attackers are the same client</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7a7f31eaf186</link>
+      <description>Almost every IP we logged exploiting the Gravity SMTP credential bug shares one HTTP fingerprint. Behind it is a Google Cloud fleet of thousands of short-lived instances, disguised by 3,299 rotating user-agents, sweeping more than 36,000 ports for .env files, git configs, credentials, and database dumps.</description>
+      <pubDate>Wed, 17 Jun 2026 08:47:14 GMT</pubDate>
+      <guid isPermaLink="false">7a7f31eaf186</guid>
+      <source url="https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020">Hacker News</source>
     </item>
     <item>
-      <title>Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4cc99b9a1033</link>
-      <description>NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space</description>
-      <pubDate>Tue, 16 Jun 2026 20:41:29 GMT</pubDate>
-      <guid isPermaLink="false">4cc99b9a1033</guid>
-      <source url="https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/">NASA Breaking News</source>
+      <title>Karty zniknęły z Bezcennych Chwil. Kolejny problem po migracji Citi do VeloBanku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e7e27e89526</link>
+      <description>Klienci przejęci z Citi Handlowego zgłaszają kolejny kłopot po migracji. Część nie widzi swoich kart w programie lojalnościowym Mastercard, a razem z nimi punktów. Z dokumentów wynika, że program ma działać dalej pod nazwą VeloChwile.</description>
+      <pubDate>Wed, 17 Jun 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="false">6e7e27e89526</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Karty-zniknely-z-Bezcennych-Chwil-Kolejny-problem-po-migracji-Citi-do-VeloBanku-9152595.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>GrapheneOS has been ported to Android 17 and official releases are coming soon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15747e96e4a8</link>
-      <description>GrapheneOS discussion forum</description>
-      <pubDate>Tue, 16 Jun 2026 20:34:35 GMT</pubDate>
-      <guid isPermaLink="false">15747e96e4a8</guid>
-      <source url="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon">Hacker News</source>
+      <title>Nota poszła do MSZ. Nieoficjalnie: Zełenski przyjedzie do Gdańska</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/24f5481e75ff</link>
+      <description>Wołodymyr Zełenski przyjedzie na szczyt ws. odbudowy Ukrainy, który odbędzie się w Gdańsku - podaje nieoficjalnie &quot;Rzeczpospolita&quot;. Gazeta, powołując się na źródło w rządzie, informuje, że odpowiednia nota w sprawie wizyty prezydenta Ukrainy pojawiła się już w Ministerstwie Spraw Zagranicznych.</description>
+      <pubDate>Wed, 17 Jun 2026 08:38:00 GMT</pubDate>
+      <guid isPermaLink="false">24f5481e75ff</guid>
+      <source url="https://www.rmf24.pl/polityka/news-nota-poszla-do-msz-nieoficjalnie-zelenski-przyjedzie-do-gdan,nId,8090695">RMF24</source>
     </item>
     <item>
-      <title>Trzy kawy, krawat i walka z nałogiem. Rozmowa za kulisami szczytu G7</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b9c49fe54f85</link>
-      <description>Podczas szczytu G7 zarejestrowano swobodną konwersację między spotykającymi się tam przywódcami państw. Kanclerz Niemiec Friedrich Merz zwrócił uwagę na jeden z elementów stroju premier Włoch. - Możesz mnie uznać za wojowniczkę - odpowiedziała mu Giorgia Meloni. Po chwili wyznała także, że zdecydowała się zerwać ze szkodliwym nałogiem.</description>
-      <pubDate>Tue, 16 Jun 2026 20:30:22 GMT</pubDate>
-      <guid isPermaLink="false">b9c49fe54f85</guid>
-      <source url="https://tvn24.pl/swiat/szczyt-g7-zakulisowa-rozmowa-przywodcow-giorgia-meloni-przyznala-ze-rzucila-palenie-st9099486?source=rss">TVN24</source>
+      <title>Lider mafii wnuczkowej zatrzymany w Hiszpanii. Ferrari warte ponad milion i drogie hotele</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/60b91886a560</link>
+      <description>Policjanci z Krakowa, we współpracy z hiszpańskimi służbami, zatrzymali w Barcelonie 24-letniego mężczyznę podejrzanego o kierowanie zorganizowaną grupą przestępczą dokonującą oszustw metodą &quot;na legendę&quot;. Mężczyzna od miesięcy ukrywał się przed polskimi organami ścigania, a jego przestępcza działalność przyniosła mu ogromne zyski. Funkcjonariusze zabezpieczyli między innymi jego czerwone Ferrari warte ponad milion złotych.</description>
+      <pubDate>Wed, 17 Jun 2026 08:35:18 GMT</pubDate>
+      <guid isPermaLink="false">60b91886a560</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-lider-mafii-wnuczkowej-zatrzymany-w-hiszpanii-ferrari-warte-,nId,8090692">RMF24</source>
     </item>
     <item>
-      <title>Zrzutka na Iran. Zebrano już ponad 150 miliardów dolarów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/036b7f302f9f</link>
-      <description>Waszyngton i Teheran wypracowały mechanizm, który może odmienić irańską gospodarkę - prywatny fundusz inwestycyjny, który już zgromadził ponad 150 mld dolarów. Środki popłyną do Iranu dopiero po podpisaniu ostatecznego porozumienia pokojowego.</description>
-      <pubDate>Tue, 16 Jun 2026 20:29:00 GMT</pubDate>
-      <guid isPermaLink="false">036b7f302f9f</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-zrzutka-na-iran-zebrano-juz-ponad-150-miliardow-dolarow,nId,8090654">RMF24</source>
+      <title>PM warns Burnham against immediate leadership challenge if he wins by-election</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0fd790b9508b</link>
+      <description>Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.</description>
+      <pubDate>Wed, 17 Jun 2026 08:31:18 GMT</pubDate>
+      <guid isPermaLink="false">0fd790b9508b</guid>
+      <source url="https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Frood, an Alpine Initramfs NAS (2024)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/28836f1e3ffa</link>
-      <description>My NAS is just one big initramfs containing a whole Alpine Linux system. It’s delightful. Here&apos;s why and how.</description>
-      <pubDate>Tue, 16 Jun 2026 20:17:04 GMT</pubDate>
-      <guid isPermaLink="false">28836f1e3ffa</guid>
-      <source url="https://words.filippo.io/frood/">Hacker News</source>
+      <title>Które smartfony dostaną iOS 27?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c99ddc616972</link>
+      <description>Testerzy i deweloperzy już teraz mogą instalować na swoich iPhone’ach pierwszą betę iOS 27. We wrześniu pojawi się stabilna wersja tego systemu. Kto będzie mógł go zainstalować? Oto pełna lista kompatybilnych urządzeń.</description>
+      <pubDate>Wed, 17 Jun 2026 08:30:48 GMT</pubDate>
+      <guid isPermaLink="false">c99ddc616972</guid>
+      <source url="https://antyweb.pl/ktore-smartfony-dostana-ios-27">Antyweb</source>
     </item>
     <item>
-      <title>SpaceX valuation balloons to $2.6T, briefly passes Amazon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa6c9ee97349</link>
-      <description>SpaceX&apos;s valuation has increased by $1 trillion since its shares started trading on Friday.</description>
-      <pubDate>Tue, 16 Jun 2026 20:11:00 GMT</pubDate>
-      <guid isPermaLink="false">aa6c9ee97349</guid>
-      <source url="https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/">TechCrunch</source>
+      <title>Zyski ze złota na zbrojenia wracają na agendę. Koalicja zwiera szyki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/66c69122888a</link>
+      <description>Projekt PSL o tzw. SAFE 0 proc. został uzgodniony m.in. z premierem Donaldem Tuskiem i wkrótce trafi pod obrady rządu - poinformował w środę wiceprezes PSL, minister infrastruktury Dariusz Klimczak. Dodał, że samorządowcy zgłaszają się do niego, chcąc gościć u siebie bazę wojsk amerykańskich.</description>
+      <pubDate>Wed, 17 Jun 2026 08:27:00 GMT</pubDate>
+      <guid isPermaLink="false">66c69122888a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zyski-ze-zlota-na-zbrojenia-wracaja-na-agende-Koalicja-zwiera-szyki-9152591.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Katastrofa bombowca Su-24M na zachodzie Ukrainy. Dwie osoby nie żyją</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d85066803a8</link>
-      <description>Pilot i nawigator zginęli w katastrofie bombowca Su-24M na zachodzie Ukrainy - poinformowały ukraińskie Siły Powietrzne. W komunikacie podano nazwiska ofiar.</description>
-      <pubDate>Tue, 16 Jun 2026 19:58:28 GMT</pubDate>
-      <guid isPermaLink="false">8d85066803a8</guid>
-      <source url="https://tvn24.pl/swiat/ukraina-katastrofa-bombowca-su-24m-dwie-osoby-nie-zyja-st9099566?source=rss">TVN24</source>
+      <title>Pościg za piratem drogowym. Wypuszczony na wolność mimo pięciu zakazów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/832995ccf482</link>
+      <description>Pijany kierowca z pięcioma zakazami prowadzenia pojazdów został zatrzymany po pościgu, a następnie... wypuszczony przez prokuraturę na wolność. Pirat drogowy z okolic Płońska na Mazowszu musiał zapłacić jedynie poręczenie majątkowe.</description>
+      <pubDate>Wed, 17 Jun 2026 08:25:11 GMT</pubDate>
+      <guid isPermaLink="false">832995ccf482</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-poscig-za-piratem-drogowym-wypuszczony-na-wolnosc-mimo-pieci,nId,8090691">RMF24</source>
     </item>
     <item>
-      <title>​Zdjęcia pasażerek na grupie na WhatsApp. Motorniczy oceniali ich ciała</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5e5e4468a7cc</link>
-      <description>Prokuratura w Mediolanie wszczęła dochodzenie w sprawie grupy na komunikatorze WhatsApp, na której kilkunastu motorniczych tramwajów wymieniało się komentarzami na temat fotografii pasażerek zarejestrowanych przez kamery bezpieczeństwa w tramwajach. Sprawa wyszła na jaw przypadkiem, dzięki czujności jednej z kobiet.</description>
-      <pubDate>Tue, 16 Jun 2026 19:52:00 GMT</pubDate>
-      <guid isPermaLink="false">5e5e4468a7cc</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zdjecia-pasazerek-na-grupie-na-whatsapp-motorniczy-oceniali-,nId,8090653">RMF24</source>
+      <title>Superconductivity breakthrough could unlock ultra-efficient electronics</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8b782fdec6df</link>
+      <description>A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting material, they could make it stay superconducting at higher temperatures and under much stronger magnetic fields.</description>
+      <pubDate>Wed, 17 Jun 2026 08:24:20 GMT</pubDate>
+      <guid isPermaLink="false">8b782fdec6df</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/06/260617032211.htm">ScienceDaily</source>
     </item>
     <item>
-      <title>Jazda nocą nie na Krymie. Rosjanie popadają w paranoję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c0bad270b9a9</link>
-      <description>Okupacyjne władze Krymu wprowadzają nocny zakaz jazdy motorowerami, motocyklami i innymi tego typu pojazdami. Powód? Jednoślady dźwiękiem przypominają ukraińskie drony.</description>
-      <pubDate>Tue, 16 Jun 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="false">c0bad270b9a9</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-jazda-noca-nie-na-krymie-rosjanie-popadaja-w-paranoje,nId,8090651">RMF24</source>
+      <title>Pilny komunikat z norweskiego dworu. Księżna Mette-Marit przeszła poważną operację</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c400a8400bab</link>
+      <description>Żona następcy norweskiego tronu księżna Mette-Marit przeszła przeszczep płuc. Informację przekazał dwór królewski. Księżna od lat chorowała na nieuleczalne zwłóknienie płuc.</description>
+      <pubDate>Wed, 17 Jun 2026 08:22:01 GMT</pubDate>
+      <guid isPermaLink="false">c400a8400bab</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-pilny-komunikat-z-norweskiego-dworu-ksiezna-mette-marit-prze,nId,8090693">RMF24</source>
     </item>
     <item>
-      <title>Sala balowa będzie droższa. Nowe ustalenia </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8968e0d18996</link>
-      <description>Budowana przy Białym Domu sala balowa będzie kosztować więcej, niż zapowiadały początkowo władze USA. Ponad połowa ma zostać pokryta z pieniędzy podatników - poinformował &quot;Washington Post&quot;.</description>
-      <pubDate>Tue, 16 Jun 2026 19:47:07 GMT</pubDate>
-      <guid isPermaLink="false">8968e0d18996</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/media-budowa-sali-balowej-przy-bialym-domu-drozsza-od-szacunkow-wiekszosc-kosztow-poniosa-podatnicy-st9099553?source=rss">TVN24</source>
+      <title>To tutaj powstał pierwszy obóz jeniecki dla Rosjan. &quot;Komfortowe zakwaterowanie&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dd490e4da7dd</link>
+      <description>Holandia testuje nowy typ obozu jenieckiego dla rosyjskich żołnierzy. Specjalny obiekt powstał w Marneheizen, na poligonie w prowincji Groningen, i jest gotowy do jednoczesnego przetrzymywania nawet 2 tys. rosyjskich żołnierzy.</description>
+      <pubDate>Wed, 17 Jun 2026 08:18:41 GMT</pubDate>
+      <guid isPermaLink="false">dd490e4da7dd</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-to-tutaj-powstal-pierwszy-oboz-jeniecki-dla-rosjan-komfortow,nId,8090668">RMF24</source>
     </item>
     <item>
-      <title>Kamil Majchrzak żegna się z Londynem. Zacięty bój z wyżej rozstawionym Czechem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c98d993aa64</link>
-      <description>​Kamil Majchrzak zakończył swój udział w turnieju ATP 500 w Londynie już w pierwszej rundzie. Polski tenisista stoczył wyrównany pojedynek z rozstawionym z numerem 2 Czechem Jirim Lehecką, jednak ostatecznie musiał uznać wyższość rywala, przegrywając w dwóch setach.</description>
-      <pubDate>Tue, 16 Jun 2026 19:43:16 GMT</pubDate>
-      <guid isPermaLink="false">8c98d993aa64</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-kamil-majchrzak-zegna-sie-z-londynem-zaciety-boj-z-wyzej-roz,nId,8090652">RMF24</source>
+      <title>Legia strzela gola, Ty masz więcej internetu w telefonie. Czego nie rozumiesz?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffc546639295</link>
+      <description>Zasady, która wyróżnia ofertę Legia Mobile do telefonu na tle innych operatorów, a mianowicie „gol = gigabajt”.</description>
+      <pubDate>Wed, 17 Jun 2026 08:13:47 GMT</pubDate>
+      <guid isPermaLink="false">ffc546639295</guid>
+      <source url="https://antyweb.pl/legia-mobile-oferta-do-telefonu">Antyweb</source>
     </item>
     <item>
-      <title>Jest nowy asfalt, ale brakuje oznaczeń</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ff86c468073d</link>
-      <description>Na trasie S8 od ulicy Powązkowskiej do Marek wymieniana jest nawierzchnia. Prace podzielono na etapy. Nowy asfalt pojawił się na odcinku przy ulicy Głębockiej. Jednak brakuje na nim części pasów. Jak tłumaczy GDDKiA, te zostaną domalowane, gdy pozwolą na to warunki atmosferyczne.</description>
-      <pubDate>Tue, 16 Jun 2026 19:42:17 GMT</pubDate>
-      <guid isPermaLink="false">ff86c468073d</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/targowek/warszawa-s8-jest-nowy-asfalt-brakuje-oznaczen-st9099233?source=rss">TVN24</source>
+      <title>Sikorski wyśmiewa Bąkiewicza. &quot;Proszę tatusiowi przekazać, aby uważał&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/db5ee6fc620f</link>
+      <description>Minister Spraw Zagranicznych nie wprost odniósł się do awantury w Berlinie z udziałem Ruchu Obrony Granic i Roberta Bąkiewicza. We wpisach na platformie X życzył osobom wyjeżdżającym z kraju udanych wakacji, radził, aby przestrzegać lokalnego prawa i odpowiedział na wpis córki Roberta Bąkiewicza - Blanki.</description>
+      <pubDate>Wed, 17 Jun 2026 08:11:00 GMT</pubDate>
+      <guid isPermaLink="false">db5ee6fc620f</guid>
+      <source url="https://www.rmf24.pl/polityka/news-sikorski-wysmiewa-bakiewicza-prosze-tatusiowi-przekazac-aby-,nId,8090690">RMF24</source>
     </item>
     <item>
-      <title>U.S. pulling ocean sensors a &apos;shock&apos; for Canadian research as El Niño nears</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/160c4910c14f</link>
-      <description>Comments</description>
-      <pubDate>Tue, 16 Jun 2026 19:42:05 GMT</pubDate>
-      <guid isPermaLink="false">160c4910c14f</guid>
-      <source url="https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874">Hacker News</source>
+      <title>Przekroczone normy ołowiu i kadmu. Duża sieć prosi o pilny zwrot produktu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/01ccf00e9372</link>
+      <description>Sieć KiK wycofała ze sprzedaży szklankę. Powodem jest stwierdzenie podwyższonej zawartości ołowiu i kadmu. Klienci proszeni są o natychmiastowe zaprzestanie używania produktu i zwrócenie go do sklepu. Za oddany towar można otrzymać pełny zwrot pieniędzy.</description>
+      <pubDate>Wed, 17 Jun 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="false">01ccf00e9372</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przekroczone-normy-olowiu-i-kadmu-Duza-siec-prosi-o-pilny-zwrot-produktu,285510,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Pożar w ukraińskiej restauracji. &quot;Ktoś chciał, aby przestała istnieć&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/44dadeb1055f</link>
-      <description>W poniedziałek w nocy strażacy gasili pożar w ukraińskiej restauracji przy ulicy Chmielnej. Spaliło się wnętrze lokalu. &quot;Kiedy nie możesz wygrać w ciągu dnia, niektórzy ludzie przychodzą w nocy&quot; - napisał jego właściciel w mediach społecznościowych. Sprawę bada policja.</description>
-      <pubDate>Tue, 16 Jun 2026 19:29:34 GMT</pubDate>
-      <guid isPermaLink="false">44dadeb1055f</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wola/warszawa-pozar-w-ukrainskiej-restauracji-przy-ulicy-chmielnej-sprawe-bada-policja-st9099441?source=rss">TVN24</source>
+      <title>Fani filmów zachwyceni. Takich gadżetów w KFC nie było</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/393e2252b7c7</link>
+      <description>Na taką premierę czekali fani Minionków. Z okazji nowego filmu do KFC zawitało specjalne menu oraz wyjątkowe gadżety.</description>
+      <pubDate>Wed, 17 Jun 2026 08:00:25 GMT</pubDate>
+      <guid isPermaLink="false">393e2252b7c7</guid>
+      <source url="https://antyweb.pl/fani-filmow-wniebowzieci-takich-gadzetow-w-kfc-nie-bylo">Antyweb</source>
     </item>
     <item>
-      <title>Runął Su-24 Sił Powietrznych Ukrainy. &quot;Obaj lotnicy zginęli&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5faccbf9dba4</link>
-      <description>Na zachodzie Ukrainy rozbił się bombowiec frontowy Su-24M - poinformowały we wtorek ukraińskie siły powietrzne. W katastrofie zginęło dwóch członków załogi - pilot i nawigator.</description>
-      <pubDate>Tue, 16 Jun 2026 19:21:00 GMT</pubDate>
-      <guid isPermaLink="false">5faccbf9dba4</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-runal-su-24-sil-powietrznych-ukrainy-obaj-lotnicy-zgineli,nId,8090650">RMF24</source>
+      <title>Pizza Hut została sprzedana. Miliardowa transakcja na rynku fast foodów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca4dae9b63e6</link>
+      <description>Koncern Yum Brands (YUM.N) ogłosił we wtorek decyzję o sprzedaży sieci Pizza Hut za kwotę 2,7 miliarda dolarów. Cała operacja zostanie sfinalizowana w ramach dwóch osobnych transakcji, które odzwierciedlają zupełnie różne strategie rozwoju marki na rynku chińskim oraz w pozostałych regionach świata - czytamy w Reutersie.</description>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ca4dae9b63e6</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Pizza-Hut-zostala-sprzedana-Miliardowa-transakcja-na-rynku-fast-foodow-9152568.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Powtarza się czarny scenariusz. Ukraina może stracić kluczowe miasto</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb48a027e002</link>
-      <description>Rosyjskie wojska dotarły do obrzeży Konstantynówki w obwodzie donieckim, próbując wedrzeć się do miasta z kilku kierunków. Zdaniem analityków z DeepState, po ewentualnym zajęciu Konstantynówki otworzy się droga do ataku na kluczową aglomerację słowiańsko-kramatorską. Z samego miasta prawdopodobnie nic nie zostanie, bo wojska Rosji równają zabudowania z ziemią.</description>
-      <pubDate>Tue, 16 Jun 2026 19:17:46 GMT</pubDate>
-      <guid isPermaLink="false">bb48a027e002</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-powtarza-sie-czarny-scenariusz-ukraina-moze-stracic-kluczowe,nId,8090647">RMF24</source>
+      <title>Lekarze na czele mafii lekowej. Fałszywe recepty i miliony w gotówce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ebceae2b30a3</link>
+      <description>Czujność mieszkańca Piły (Wielkopolskie) i powiadomienie z aplikacji &quot;mojeIKP&quot; doprowadziły do rozbicia zorganizowanej grupy przestępczej, która wprowadzała do obrotu znaczne ilości silnych leków narkotycznych. Policjanci pod nadzorem Prokuratury Okręgowej w Poznaniu zatrzymali już 9 osób, w tym dwóch lekarzy.</description>
+      <pubDate>Wed, 17 Jun 2026 07:58:00 GMT</pubDate>
+      <guid isPermaLink="false">ebceae2b30a3</guid>
+      <source url="https://www.rmf24.pl/regiony/poznan/news-lekarze-na-czele-mafii-lekowej-falszywe-recepty-i-miliony-w-,nId,8090687">RMF24</source>
     </item>
     <item>
-      <title>&quot;Gestapo, gestapo&quot;. Awantura w Berlinie z udziałem ​Ruchu Obrony Granic</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4d362f455cab</link>
-      <description>Członkowie Ruchu Obrony Granic, w tym Robert Bąkiewicz, zostali tymczasowo zatrzymani przez niemiecką policję podczas próby postawienia krzyża w centrum Berlina przy pomniku upamiętniającym Polaków zamordowanych w czasie II wojny światowej. W sprawę zaangażował się polski konsul, a okoliczności interwencji wciąż są wyjaśniane.</description>
-      <pubDate>Tue, 16 Jun 2026 19:00:24 GMT</pubDate>
-      <guid isPermaLink="false">4d362f455cab</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-gestapo-gestapo-awantura-w-berlinie-z-udzialem-ruchu-obrony-,nId,8090649">RMF24</source>
+      <title>W Puszczy Białowieskiej po raz pierwszy nagrano atak wilków na żubry</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/719b0e1dafd3</link>
+      <description>Przez dziesięciolecia żubr europejski traktowany był jako gatunek pozostający poza łańcuchem pokarmowym drapieżników – zbyt duży, zbyt silny, by stać się ofiarą wilka. Nowe nagranie z Puszczy Białowieskiej każe tę tezę poważnie zrewidować.</description>
+      <pubDate>Wed, 17 Jun 2026 07:54:44 GMT</pubDate>
+      <guid isPermaLink="false">719b0e1dafd3</guid>
+      <source url="https://kopalniawiedzy.pl/zubr-wilk-atak-Puszcza-Bialowieska,38717">KopalniaWiedzy.pl</source>
     </item>
     <item>
-      <title>Przemysław Czarnek o &quot;Ukraińcach&quot; w rządzie. Dorota Olko do posła PiS: zróbcie porządek ze swoim kandydatem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b1b7d673e096</link>
-      <description>Nic nie usprawiedliwia takiej wypowiedzi - powiedziała w &quot;Kropce nad i&quot; w TVN24 posłanka Lewicy Dorota Olko. Komentowała słowa Przemysława Czarnka o &quot;Ukraińcach&quot; w rządzie, które wygłosił w Sejmie. Zdaniem posła PiS Jarosława Sellina było to powiedziane &quot;w konkretnym kontekście konkretnego polityka, konkretnej osoby&quot;.</description>
-      <pubDate>Tue, 16 Jun 2026 18:59:06 GMT</pubDate>
-      <guid isPermaLink="false">b1b7d673e096</guid>
-      <source url="https://tvn24.pl/polska/przemyslaw-czarnek-o-ukraincach-w-rzadzie-dorota-olko-do-posla-pis-zrobcie-porzadek-ze-swoim-kandydatem-st9099454?source=rss">TVN24</source>
+      <title>Od 30 lat leży na najwyższej górze świata. Szykuje się wyprawa po &quot;Zielone Buty&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bcea3c093975</link>
+      <description>Ciało himalaisty znanego jako &quot;Zielone Buty&quot;, od 30 lat spoczywające w strefie śmierci na Mount Evereście, może wreszcie zostać sprowadzone z góry. Indyjskie służby przygotowują jedną z najtrudniejszych operacji tego typu w historii himalaizmu.</description>
+      <pubDate>Wed, 17 Jun 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="false">bcea3c093975</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-od-30-lat-lezy-na-najwyzszej-gorze-swiata-szykuje-sie-wypraw,nId,8090685">RMF24</source>
     </item>
     <item>
-      <title>Media: największa na świecie giełda kryptowalut Binance może przestać działać w Unii Europejskiej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/235d91d4f846</link>
-      <description>Binance, największa na świecie giełda kryptowalut, prawdopodobnie straci w ciągu najbliższych tygodni pozwolenie na świadczenie usług klientom z Unii Europejskiej - ustalił Reuters.</description>
-      <pubDate>Tue, 16 Jun 2026 18:53:30 GMT</pubDate>
-      <guid isPermaLink="false">235d91d4f846</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/binance-moze-przestac-dzialac-w-unii-europejskiej-podaje-reuters-st9099472?source=rss">TVN24</source>
+      <title>Hacker News but for Independent Blogs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/126b31abdb1a</link>
+      <description>Independent blog posts, ranked by the community. Good stuff bubbles up. The rest pops.</description>
+      <pubDate>Wed, 17 Jun 2026 07:49:44 GMT</pubDate>
+      <guid isPermaLink="false">126b31abdb1a</guid>
+      <source url="https://bubbles.town/">Hacker News</source>
     </item>
     <item>
-      <title>Russian warship fires warning shots near UK-registered yacht in Channel</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f7e3e272652a</link>
-      <description>BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.</description>
-      <pubDate>Tue, 16 Jun 2026 18:53:10 GMT</pubDate>
-      <guid isPermaLink="false">f7e3e272652a</guid>
-      <source url="https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Jeremy Clarkson ma raka. &quot;Trudno się to ogląda&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/958f083d0b94</link>
+      <description>&quot;Trudno się to ogląda. Naprawdę trudno się to ogląda&quot; - mówi Jeremy Clarkson o ostatnich dwóch odcinkach &quot;Farmy Clarksona&quot;, programu, w którym pokazuje swoje przygody z prowadzeniem gospodarstwa rolniczego. Prezenter &quot;Top Gear&quot; mówi w nich o tym, że zdiagnozowano u niego raka.</description>
+      <pubDate>Wed, 17 Jun 2026 07:41:00 GMT</pubDate>
+      <guid isPermaLink="false">958f083d0b94</guid>
+      <source url="https://www.rmf24.pl/kultura/news-jeremy-clarkson-ma-raka-trudno-sie-to-oglada,nId,8090682">RMF24</source>
     </item>
     <item>
-      <title>US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f1be1df23b9c</link>
-      <description>Trump admin green-lighting $111B deal &quot;reeks of corruption,&quot; Sen. Warren says.</description>
-      <pubDate>Tue, 16 Jun 2026 18:48:45 GMT</pubDate>
-      <guid isPermaLink="false">f1be1df23b9c</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/">Ars Technica</source>
+      <title>Oszuści uderzają na dwa fronty. Podszywają się pod ZUS i skarbówkę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55029488cb53</link>
+      <description>Zakład Ubezpieczeń Społecznych i Krajowa Administracja Skarbowa przed nową falą oszustw. Przestępcy rozsyłają fałszywe SMS-y i e-maile, w których informują m.in. o zwrocie podatku, błędzie w rozliczeniu składki zdrowotnej lub konieczności potwierdzenia danych. Oszuści chcą wyłudzić dane osobowe i pieniądze.</description>
+      <pubDate>Wed, 17 Jun 2026 07:40:00 GMT</pubDate>
+      <guid isPermaLink="false">55029488cb53</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Falszywe-wiadomosci-z-ZUS-i-skarbowki-Oszusci-uderzaja-na-dwa-fronty-9152542.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Zawały coraz częściej dotykają 50-latków. Naukowcy wskazali na przyczynę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d4b3883a0f5b</link>
-      <description>Otyłość coraz silniej wpływa na globalne trendy chorób serca – naukowcy wskazują, że rośnie liczba zgonów wśród osób w średnim wieku, szczególnie w krajach rozwijających się. Największy wzrost dotyczy dziś grupy 50–54 lata</description>
-      <pubDate>Tue, 16 Jun 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="false">d4b3883a0f5b</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Kardiologia/Zawaly-coraz-czesciej-dotykaja-50-latkow-Naukowcy-wskazali-na-przyczyne,285514,1014.html">Rynek Zdrowia</source>
+      <title>Jeremy Clarkson reveals prostate cancer diagnosis on farming show</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c06c253c29b5</link>
+      <description>The former Top Gear presenter did not clarify what type of cancer he had been diagnosed with.</description>
+      <pubDate>Wed, 17 Jun 2026 07:36:37 GMT</pubDate>
+      <guid isPermaLink="false">c06c253c29b5</guid>
+      <source url="https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Usunięto ponad 200 pułapek na homary. Wielka akcja sprzątania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dffcd0ee0cd0</link>
-      <description>Co roku organizacja pozarządowa Rozalia Project, której misją jest ochrona mórz i oceanów, jest inicjatorem wielkiej akcji sprzątania śmieci. W tym roku wolontariusze usunęli z dwóch wysp położonych w Zatoce Maine w USA ponad 200 pułapek na homary.</description>
-      <pubDate>Tue, 16 Jun 2026 18:47:52 GMT</pubDate>
-      <guid isPermaLink="false">dffcd0ee0cd0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-akcja-sprzatania-usunieto-ponad-200-pulapek-na-homary-st9099453?source=rss">TVN24</source>
+      <title>Pilny apel skarbówki do Polaków. Sprawdź, czy dostałeś taką wiadomość</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/07b952f678d8</link>
+      <description>Krajowa Administracja Skarbowa ostrzega przed oszustami rozsyłającymi fałszywe wiadomości o rzekomym zwrocie nadpłaconego podatku PIT. W e-mailach pojawia się informacja o tym, że wymagane jest potwierdzenie  swoich danych rachunku bankowego w ciągu 48 godzin, co jest próbą wyłudzenia.</description>
+      <pubDate>Wed, 17 Jun 2026 07:36:00 GMT</pubDate>
+      <guid isPermaLink="false">07b952f678d8</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Pilny-apel-skarbowki-do-Polakow-Sprawdz-czy-dostales-taka-wiadomosc,285519,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Zakopią topór wojenny? &quot;Spotkanie wyjaśniające&quot; Trumpa i Meloni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/167d1281649a</link>
-      <description>Podczas szczytu G7 w Évian-les-Bains prezydent USA Donald Trump i premier Włoch Giorgia Meloni odbyli rozmowę, która - według włoskich źródeł dyplomatycznych - miała na celu wyjaśnienie ostatnich nieporozumień. Spotkanie odbyło się w dobrej atmosferze, co stanowiło wyraźny kontrast wobec wcześniejszych napięć między przywódcami.</description>
-      <pubDate>Tue, 16 Jun 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="false">167d1281649a</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zakopia-topor-wojenny-spotkanie-wyjasniajace-trumpa-i-meloni,nId,8090648">RMF24</source>
+      <title>Zestawy Parkside Performance trafiają do Kauflanda. I to za grosze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bbb3e95600e5</link>
+      <description>Już w najbliższy czwartek, czyli 18 czerwca startują promocje w Kauflandzie na elektronarzędzia Parkside Performance. Z oferty będzie można skorzystać do 1 lipca.</description>
+      <pubDate>Wed, 17 Jun 2026 07:30:12 GMT</pubDate>
+      <guid isPermaLink="false">bbb3e95600e5</guid>
+      <source url="https://antyweb.pl/zestawy-parkside-performance-trafiaja-do-kauflanda-i-to-za-grosze">Antyweb</source>
     </item>
     <item>
-      <title>​Kumulacja remontów w Warszawie w czasie wakacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1b492cf6d5d3</link>
-      <description>Warszawscy tramwajarze zaplanowali kumulację remontów torowisk na czas wakacji. Do trwających już prac w Al. Jerozolimskich i Alei Niepodległości, dojdą remonty m.in. na skrzyżowaniu Alei Jana Pawła II i Alei &quot;Solidarności&quot; oraz na ul. Grójeckiej. Szykuje się też sporo remontów ulic.</description>
-      <pubDate>Tue, 16 Jun 2026 18:39:00 GMT</pubDate>
-      <guid isPermaLink="false">1b492cf6d5d3</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-kumulacja-remontow-w-warszawie-w-czasie-wakacji,nId,8090646">RMF24</source>
+      <title>ZUS ostrzega przed nową metodą oszustów. Tak chcieli nabrać mieszkańca Zielonej Góry</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a2e9377034f6</link>
+      <description>Zakład Ubezpieczeń Społecznych przestrzegł w środę przed kolejną metodą oszustów, którzy próbują wyłudzić dane - SMS-ami z linkiem prowadzącym rzekomo do portalu eZUS. Dodał, by takie wiadomości natychmiast zgłosić pod numer 8080.</description>
+      <pubDate>Wed, 17 Jun 2026 07:23:28 GMT</pubDate>
+      <guid isPermaLink="false">a2e9377034f6</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/ZUS-ostrzega-przed-nowa-metoda-oszustow-Tak-chcieli-nabrac-mieszkanca-Zielonej-Gory,285522,2.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Minister sportu Jakub Rutnicki o Radosławie Piesiewiczu. &quot;Nie ma innej dyskusji&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4b8f71b9e615</link>
-      <description>Pan Piesiewicz powinien reprezentować polski sport, a całe środowisko sportowe pokazuje jednoznacznie: nie chcemy, żeby taki człowiek kierował tak szanowną instytucją  - mówił w &quot;Faktach po Faktach&quot; w TVN24 minister sportu Jakub Rutnicki o sprawie prezesa Polskiego Komitetu Olimpijskiego. Oznajmił również, że Piesiewicz ma obowiązek zwołania walnego zgromadzenia w sprawie odwołania go z funkcji.</description>
-      <pubDate>Tue, 16 Jun 2026 18:38:51 GMT</pubDate>
-      <guid isPermaLink="false">4b8f71b9e615</guid>
-      <source url="https://tvn24.pl/polska/minister-sportu-jakub-rutnicki-o-radoslawie-piesiewiczu-nie-ma-innej-dyskusji-st9099458?source=rss">TVN24</source>
+      <title>Nawet 2 lata więzienia za modlitwy, egzorcyzmy i &quot;terapie&quot; zmieniające orientację</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a63c65c51054</link>
+      <description>Holenderski Senat przyjął we wtorek (16 czerwca) ustawę zakazującą tzw. terapii konwersyjnej, czyli praktyk mających zmienić orientację seksualną lub tożsamość płciową - poinformowała agencja ANP.</description>
+      <pubDate>Wed, 17 Jun 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="false">a63c65c51054</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Nawet-2-lata-wiezienia-za-modlitwy-egzorcyzmy-i-terapie-zmieniajace-orientacje,285521,15.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Apple is about to make Hide My Email useless</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8557b00f158f</link>
-      <description>Yesterday, June 15, 2026, a small and unimportant announcement appeared in Apple developer news: New domain for Sign in with Apple and iCloud+ Hide My Email.
-Long story short: now both Sign in with Apple and Hide My Email aliases are going to be issued on the @private.icloud.com subdomain. This makes it much easier to ban all aliases without affecting non-relay mailboxes on iCloud mail.
-This is certainly a big hit for iCloud privacy, since some plausible deniability together with Apple’s backing made banning iCloud aliases costly.</description>
-      <pubDate>Tue, 16 Jun 2026 18:37:21 GMT</pubDate>
-      <guid isPermaLink="false">8557b00f158f</guid>
-      <source url="https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/">Hacker News</source>
+      <title>Największa giełda kryptowalut świata straci prawo do działania w UE? Mamy odpowiedź </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4cd7d93b5e98</link>
+      <description>Obsługująca 300 mln klientów globalna platforma do handlu kryptowalutami nie uzyskała dotąd licencji CASP koniecznej do kontynuowania działalności w Unii Europejskiej od 1 lipca 2026 roku. Co więcej według doniesień agencji Reutera, wniosek Binance o uzyskanie zezwolenia ma zostać wkrótce odrzucony przez grecki nadzór finansowy.</description>
+      <pubDate>Wed, 17 Jun 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="false">4cd7d93b5e98</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Najwieksza-gielda-kryptowalut-swiata-straci-prawo-do-dzialania-w-UE-9152530.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Polski trailer „Shreka 5” wywołał burzę. Podmienili kultową ekipę dubbingową?!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4299fe7b4bd7</link>
-      <description>W sieci właśnie ukazał się trailer długo oczekiwanego filmu „Shrek 5”. Co ciekawe, nie tylko w języku angielskim. Polski dubbing od razu wywołał burzę.</description>
-      <pubDate>Tue, 16 Jun 2026 18:30:17 GMT</pubDate>
-      <guid isPermaLink="false">4299fe7b4bd7</guid>
-      <source url="https://antyweb.pl/polski-trailer-shreka-5-wywolal-burze-podmienili-kultowa-ekipe-dubbingowa">Antyweb</source>
+      <title>Extraordinary Messi makes more history in masterclass for the ages</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/38043c89a072</link>
+      <description>Kylian Mbappe and Erling Haaland both enjoyed a fine start to the World Cup - but on a day packed with superstars, Lionel Messi still took top billing.</description>
+      <pubDate>Wed, 17 Jun 2026 07:17:39 GMT</pubDate>
+      <guid isPermaLink="false">38043c89a072</guid>
+      <source url="https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Gdy brzuch puchnie jak balon, a jelita cierpią. Zbieraj od czerwca do września</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d008b3f3aafd</link>
-      <description>Niepozorna roślina o intensywnym, kamforowym zapachu może okazać się prawdziwym skarbem dla ogrodników. Hyzop lekarski nie tylko odstrasza mszyce, ślimaki i inne szkodniki, ale od wieków wykorzystywany jest także w domowym ziołolecznictwie. Latem zachwyca fioletowymi kwiatami i przyciąga pożyteczne owady, a jego właściwości zdrowotne wciąż budzą zainteresowanie.</description>
-      <pubDate>Tue, 16 Jun 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="false">d008b3f3aafd</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Gdy-brzuch-puchnie-jak-balon-a-jelita-cierpia-Zbieraj-od-czerwca-do-wrzesnia,285498,11.html">Rynek Zdrowia</source>
+      <title>Rządowy bat na pijanych kierowców. Zapłacą pięć razy więcej niż dotąd</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d67c874bfd94</link>
+      <description>Od przyszłego tygodnia nastąpią istotne zmiany dla kierowców, którzy zostali złapani na jeździe samochodem będąc pod wpływem alkoholu czy też środków odurzających. Od środy, 24 czerwca, aż pięciokrotnie wzrośnie opłata za obowiązkowy kurs reedukacyjny. Dotąd był to koszt 500 zł, po zmianach będzie to 2500 złotych.</description>
+      <pubDate>Wed, 17 Jun 2026 07:14:30 GMT</pubDate>
+      <guid isPermaLink="false">d67c874bfd94</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-rzadowy-bat-na-pijanych-kierowcow-zaplaca-piec-razy-wiecej-n,nId,8090679">RMF24</source>
     </item>
     <item>
-      <title>Najmniejsze rezerwy od czasów Reagana. Skutki wojny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e35e9886c80c</link>
-      <description>Ilość ropy w Strategicznej Rezerwie Naftowej w USA spadła do najniższego poziomu od 1983 roku. Administracja Donalda Trumpa wykorzystuje zasoby awaryjne, żeby łagodzić szkody spowodowane przez wojnę z Iranem.</description>
-      <pubDate>Tue, 16 Jun 2026 18:22:51 GMT</pubDate>
-      <guid isPermaLink="false">e35e9886c80c</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/rezerwy-awaryjne-ropy-w-usa-najnizsze-od-lat-80-to-skutek-wojny-z-iranem-st9099383?source=rss">TVN24</source>
+      <title>The founder&apos;s playbook: Building an AI-native startup</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d25aea7d9d2f</link>
+      <description>We share how AI-native founders are using Claude at every stage of the startup journey, with practical exercises, frameworks, and prompts.</description>
+      <pubDate>Wed, 17 Jun 2026 07:04:42 GMT</pubDate>
+      <guid isPermaLink="false">d25aea7d9d2f</guid>
+      <source url="https://claude.com/blog/the-founders-playbook">Hacker News</source>
     </item>
     <item>
-      <title>Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8dcfe1ab5ea</link>
-      <description>Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won&apos;t be a phone.</description>
-      <pubDate>Tue, 16 Jun 2026 18:22:24 GMT</pubDate>
-      <guid isPermaLink="false">f8dcfe1ab5ea</guid>
-      <source url="https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/">TechCrunch</source>
+      <title>Steam Machine już po pierwszych testach. Wyniki są obiecujące</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d729620d9cf8</link>
+      <description>Premiera nowej konsoli od Valve wydaje się być dosłownie na wyciągnięcie ręki. Najnowsze doniesienia z sieci sugerują, że debiut może nastąpić już za kilka dni.</description>
+      <pubDate>Wed, 17 Jun 2026 07:00:39 GMT</pubDate>
+      <guid isPermaLink="false">d729620d9cf8</guid>
+      <source url="https://antyweb.pl/steam-machine-juz-po-pierwszych-testach-wyniki-sa-obiecujace">Antyweb</source>
     </item>
     <item>
-      <title>Podejrzany o spowodowanie wypadku posła Litewki chciał zwrotu prawa jazdy. Sąd zdecydował</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f19a220f0e89</link>
-      <description>16 czerwca sąd w Dąbrowie Górniczej utrzymał postanowienie prokuratury o zatrzymaniu prawa jazdy 57-latkowi, który jest podejrzany o nieumyślne spowodowanie wypadku, w którym zginął poseł Łukasz Litewka. - Jest to decyzja prawomocna - powiedział nam prokurator Bartosz Kilian, rzecznik prasowy Prokuratury Okręgowej w Sosnowcu.</description>
-      <pubDate>Tue, 16 Jun 2026 18:21:29 GMT</pubDate>
-      <guid isPermaLink="false">f19a220f0e89</guid>
-      <source url="https://tvn24.pl/katowice/podejrzany-o-spowodowanie-wypadku-posla-litewki-chcial-zwrotu-prawa-jazdy-sad-w-dabrowie-gorniczej-zdecydowal-st9099445?source=rss">TVN24</source>
+      <title>Jak lekarze wstydzą się swoich zarobków. &quot;Króciutki projekt&quot; i błyskawiczna akcja rządu i resortu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/03d6a18ecaa6</link>
+      <description>W Norwegii każdy może sprawdzić dochody dowolnego obywatela. W Polsce pieniądze są tematem tabu, a sam pomysł gromadzenia danych o zarobkach lekarzy wywołał ich sprzeciw. Tymczasem pełna tajność zarobków czasem stwarza pole do nadużyć. – I dlatego przyjmiemy dzisiaj bardzo króciutki projekt ustawy, który umożliwi (...) orientację kto, w jakich miejscach, ile zarabia – mówił przed posiedzeniem rządu Donald Tusk.</description>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">03d6a18ecaa6</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Jak-lekarze-wstydza-sie-swoich-zarobkow-Krociutki-projekt-i-blyskawiczna-akcja-rzadu-i-resortu,285517,15.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Bug in FIFA World Cup internal system gave anyone ability to modify TV stream</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a91fb58d330a</link>
-      <description>A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.</description>
-      <pubDate>Tue, 16 Jun 2026 18:13:49 GMT</pubDate>
-      <guid isPermaLink="false">a91fb58d330a</guid>
-      <source url="https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/">TechCrunch</source>
+      <title>Małgorzata Rusewicz: Rynek kapitałowy przyspieszy dzięki OKI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3525365e6a63</link>
+      <description>– Spotykamy się, żeby podyskutować o tym, jak powinniśmy budować rynek kapitałowy przez najbliższe 20 lat, ponieważ świetny punkt wyjścia do tego, aby rzeczywiście ten rynek kapitałowy ruszył szybszym tempem niż dotychczas – mówi Małgorzata Rusewicz, prezes Izby Zarządzających Funduszami i Aktywami.</description>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3525365e6a63</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Malgorzata-Rusewicz-Rynek-kapitalowy-przyspieszy-dzieki-OKI-9152470.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Pentagon boasts of using AI to write reports mandated by Congress</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a63630bc9083</link>
-      <description>Pentagon also claims 1.5 million personnel are using generative AI tools.</description>
-      <pubDate>Tue, 16 Jun 2026 18:11:05 GMT</pubDate>
-      <guid isPermaLink="false">a63630bc9083</guid>
-      <source url="https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/">Ars Technica</source>
+      <title>Why do commercial spaces sit vacant?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c7355dad735c</link>
+      <description>Understanding “extend and pretend”</description>
+      <pubDate>Wed, 17 Jun 2026 06:59:29 GMT</pubDate>
+      <guid isPermaLink="false">c7355dad735c</guid>
+      <source url="https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant">Hacker News</source>
     </item>
     <item>
-      <title>​Pełnomocnik prezydenta USA o Ziobrze. &quot;Trumpowi robili to samo&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5d9b3609b5fa</link>
-      <description>Edward Martin, pełnomocnik Donalda Trumpa ds. ułaskawień, w rozmowie TV Republika wyraził zaniepokojenie sytuacją polityczną w Polsce. Jego zdaniem mechanizmy, które miały być stosowane wobec prezydenta USA i jego otoczenia, są obecnie widoczne nad Wisłą. Martin wskazał na przypadek Zbigniewa Ziobry, ostrzegając przed zagrożeniem dla wolności i demokracji. &quot;Trumpowi robili to samo. Sowieci byli na waszej ziemi nie tak dawno temu, a to wygląda jak sowiecki komunizm, powrót globalistów&quot; - powiedział.</description>
-      <pubDate>Tue, 16 Jun 2026 18:03:41 GMT</pubDate>
-      <guid isPermaLink="false">5d9b3609b5fa</guid>
-      <source url="https://www.rmf24.pl/polityka/news-pelnomocnik-prezydenta-usa-o-ziobrze-trumpowi-robili-to-samo,nId,8090645">RMF24</source>
+      <title>New plasma trick could unlock smaller, more powerful computer chips</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/85108942a2df</link>
+      <description>A new technique could solve one of the biggest challenges in making future computer chips from ultrathin materials. Researchers found that coating molybdenum disulfide with oxygen or fluorine lets manufacturers remove just the top layer of atoms much more safely during plasma processing. The result is a cleaner, more controlled path toward smaller and more capable electronics.</description>
+      <pubDate>Wed, 17 Jun 2026 06:57:07 GMT</pubDate>
+      <guid isPermaLink="false">85108942a2df</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/06/260616102219.htm">ScienceDaily</source>
     </item>
     <item>
-      <title>Android 17 w końcu dostępny! Te smartfony można już aktualizować</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f6f0c766ced9</link>
-      <description>Android 17 oficjalnie debiutuje na rynku. Nowa wersja systemu wprowadza Dymki do wielozadaniowości, Reakcje na ekranie, wygodniejsze granie na składanych urządzeniach oraz nowe funkcje prywatności i bezpieczeństwa. Aktualizację otrzymała właśnie popularna linia smartfonów Google.</description>
-      <pubDate>Tue, 16 Jun 2026 18:00:29 GMT</pubDate>
-      <guid isPermaLink="false">f6f0c766ced9</guid>
-      <source url="https://antyweb.pl/android-17-debiutuje-na-smartfonach-pixel">Antyweb</source>
+      <title>100 mln zł na utylizację zamiast na leki. Ministerstwo Finansów mówi stop</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d1d06fdd5148</link>
+      <description>Niewykorzystane leki to ogromny problem szpitali: to one ponoszą koszty. Ministerstwo Zdrowia chce to zmienić. Pomysł jest taki, aby tzw. straty technologiczne były częściowo finansowane z Funduszu Medycznego. Wydatki resort szacuje na ok. 100 mln zł. Ministerstwo Finansów mówi stop i ostrzega: skala nie została dokładnie policzona.</description>
+      <pubDate>Wed, 17 Jun 2026 06:55:00 GMT</pubDate>
+      <guid isPermaLink="false">d1d06fdd5148</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/100-mln-zl-na-utylizacje-zamiast-na-leki-Ministerstwo-Finansow-mowi-stop,285290,6.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Android 17 starts hitting Pixel phones and watches today</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c100d39da306</link>
-      <description>Pixels will get their OTA in the coming weeks, but don&apos;t expect monumental changes.</description>
-      <pubDate>Tue, 16 Jun 2026 18:00:08 GMT</pubDate>
-      <guid isPermaLink="false">c100d39da306</guid>
-      <source url="https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/">Ars Technica</source>
+      <title>&quot;To było surrealistyczne&quot;. Rosyjski okręt wojenny otworzył ogień do jachtu brytyjskich emerytów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/faceb391771e</link>
+      <description>&quot;Z całą pewnością nie byliśmy na kursie kolizyjnym&quot; - tak o wczorajszym incydencie na kanale La Manche mówi para brytyjskich emerytów. Małżeństwo płynęło na jachcie, w kierunku którego rosyjski okręt wojenny Admirał Grigorowicz oddał strzały ostrzegawcze.</description>
+      <pubDate>Wed, 17 Jun 2026 06:37:25 GMT</pubDate>
+      <guid isPermaLink="false">faceb391771e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-to-bylo-surrealistyczne-rosyjski-okret-wojenny-otworzyl-ogie,nId,8090675">RMF24</source>
     </item>
     <item>
-      <title>Oni nie żartują, do tych miast dotrzecie pociągiem w 3 godziny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9bcac4017d5b</link>
-      <description>Drugi cel, określany hasłem „Polska 3 godzin&quot;, dotyczy połączeń przez cały kraj – zarówno na osi wschód-zachód, jak i północ-południe.</description>
-      <pubDate>Tue, 16 Jun 2026 18:00:01 GMT</pubDate>
-      <guid isPermaLink="false">9bcac4017d5b</guid>
-      <source url="https://antyweb.pl/zintegrowana-siec-kolejowa-w-polsce">Antyweb</source>
+      <title>Koniec marzeń pasażerów o taniej kolei. PKP właśnie zdusiło konkurencję</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/78b1b9663b07</link>
+      <description>Koniec marzeń o zdrowej konkurencji w Polsce. Czeski przewoźnik się wycofuje i czeka, aż będzie normalnie.</description>
+      <pubDate>Wed, 17 Jun 2026 06:33:25 GMT</pubDate>
+      <guid isPermaLink="false">78b1b9663b07</guid>
+      <source url="https://antyweb.pl/koniec-marzen-pasazerow-o-taniej-kolei-pkp-wlasnie-zdusilo-konkurencje">Antyweb</source>
     </item>
     <item>
-      <title>Android 17 launches with new multitasking tools as Google expands Gemini features</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc68331373f9</link>
-      <description>Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.</description>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">fc68331373f9</guid>
-      <source url="https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/">TechCrunch</source>
+      <title>Mniej niż Berlin chciał, więcej niż PiS by zniósł. Polska i Niemcy podpisują umowę </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d2999c0e8678</link>
+      <description>W środę - w 35. rocznicę podpisania traktatu o dobrym sąsiedztwie - ministrowie obrony Polski i Niemiec Władysław Kosiniak-Kamysz i Boris Pistorius podpiszą w Warszawie nową umowę o współpracy wojskowej. Dotyczy ona m.in. wspólnych ćwiczeń, nie będzie w niej natomiast gwarancji bezpieczeństwa.</description>
+      <pubDate>Wed, 17 Jun 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="false">d2999c0e8678</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Mniej-niz-Berlin-chcial-wiecej-niz-PiS-by-zniosl-Polska-i-Niemcy-podpisuja-umowe-9152484.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Ryzyko stłuszczenia wątroby i cukrzycy wzrasta. Niepokojące wyniki badań</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/41fbe52b55ca</link>
-      <description>Nowe badanie budzi niepokój. Popularne &quot;wieczne chemikalia&quot;, obecne m.in. w opakowaniach i wielu produktach codziennego użytku, mogą nawet trzykrotnie zwiększać ryzyko stłuszczenia wątroby u nastolatków. Naukowcy ostrzegają, że szczególnie narażony jest organizm w okresie dojrzewania.</description>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">41fbe52b55ca</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Ryzyko-stluszczenia-watroby-i-cukrzycy-wzrasta-Niepokojace-wyniki-badan,285491,11.html">Rynek Zdrowia</source>
+      <title>Wiceminister o decyzji prezydenta Nawrockiego. &quot;Bardzo szkodliwa dla Polski&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d7197342a8b2</link>
+      <description>&quot;Prezydent Nawrocki uważa, że dobrze zdobywa się głosy na budowaniu nastrojów antyukraińskich. To jest dla Polski bardzo szkodliwe&quot; - mówił w Porannej rozmowie w RMF FM Paweł Zalewski, wiceminister obrony narodowej. Jego zdaniem Ukraińcy właśnie dlatego nie postrzegają Polski jako najbliższego sojusznika.</description>
+      <pubDate>Wed, 17 Jun 2026 06:02:04 GMT</pubDate>
+      <guid isPermaLink="false">d7197342a8b2</guid>
+      <source url="https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-wiceminister-o-decyzji-prezydenta-nawrockiego-bardzo-szkodli,nId,8090601">RMF24</source>
     </item>
   </channel>
 </rss>
