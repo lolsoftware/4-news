@@ -1,0 +1,13 @@
+{
+  "id": "0bc1a17936cd",
+  "title": "Show HN: High-Res Neural Cellular Automata",
+  "originalTitle": "Show HN: High-Res Neural Cellular Automata",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://cells2pixels.github.io/",
+  "publishedAt": "2026-06-17T09:28:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p><img src=\"https://cells2pixels.github.io/data/images/pipeline.png\" height=\"100%\"></p><p> The NCA operates on a coarse lattice of cells (in this example vertices of a mesh). <strong>Center:</strong> A sampling point \\(\\Point\\) (red dot) inside a triangle primitive, whose vertices correspond to NCA cells \\(\\State_i,\\,\\State_j,\\,\\State_k\\). The <em>local coordinate</em> \\(u(\\Point)\\) expresses the point’s position inside the primitive, while the <em>locally averaged cell state</em> \\(\\bar{\\State}(\\Point)\\) is obtained by interpolating the surrounding cell states. <strong>Right:</strong> The Local Pattern Producing Network (<b>LPPN</b>), A shared lightweight MLP, receives \\((\\bar{\\State}(\\Point), u(\\Point))\\) as input and outputs the target properties, such as color and surface normal, at point \\(\\Point\\). The NCA and the LPPN are trained jointly and end-to-end. </p> <p> Play with the interactive visualization below to see coarse NCA cell states and the output the LPPN generates. </p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
