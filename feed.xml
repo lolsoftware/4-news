@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 19 Jun 2026 20:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:38:29 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Krytyk Putina zastrzelony w Białej Podlaskiej. Nowy komunikat prokuratury</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55663cce97df</link>
+      <description>Elnur A. usłyszał dziś zarzut zabicia w Białej Podlaskiej rosyjskiego artysty znanego pod pseudonimem „Siemion Skriepiecki”. Jak przekazała Prokuratura Krajowa, mężczyzna odmówił składania wyjaśnień.</description>
+      <pubDate>Fri, 19 Jun 2026 21:27:00 GMT</pubDate>
+      <guid isPermaLink="false">55663cce97df</guid>
+      <source url="https://www.rmf24.pl/regiony/lublin/news-krytyk-putina-zastrzelony-w-bialej-podlaskiej-nowy-komunikat,nId,8090969">RMF24</source>
+    </item>
     <item>
       <title>Wiceministra Zdrowia Katarzyna Kęcka o zarobkach medyków: najpierw pełne dane, potem decyzja o limitach</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a6ae279ad208</link>
@@ -16,12 +24,92 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Wiceministra-Zdrowia-Katarzyna-Kecka-o-zarobkach-medykow-najpierw-pelne-dane-potem-decyzja-o-limitach,285661,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Aura’s impressive e-ink photo frame doesn’t even look digital</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a52c7ffac980</link>
+      <description>What&apos;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has</description>
+      <pubDate>Fri, 19 Jun 2026 21:00:34 GMT</pubDate>
+      <guid isPermaLink="false">a52c7ffac980</guid>
+      <source url="https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/">TechCrunch</source>
+    </item>
+    <item>
+      <title>&quot;Linia frontu przebiega gdzie indziej&quot;. Tusk reaguje na ruch prezydenta</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/532f59c494d0</link>
+      <description>Kilka godzin po ogłoszeniu przez prezydenta Karola Nawrockiego decyzji o odebraniu Wołodymyrowi Zełenskiemu Orderu Orła Białego głos w tej sprawie zabrał premier Donald Tusk. Jego krótki komentarz pojawił się na platformie X.</description>
+      <pubDate>Fri, 19 Jun 2026 20:58:21 GMT</pubDate>
+      <guid isPermaLink="false">532f59c494d0</guid>
+      <source url="https://www.rmf24.pl/polityka/news-linia-frontu-przebiega-gdzie-indziej-tusk-reaguje-na-ruch-pr,nId,8090968">RMF24</source>
+    </item>
+    <item>
+      <title>Karol Nawrocki zdecydował o odebraniu Orderu Orła Białego Wołodymyrowi Zełenskiemu. Komentarze </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5c30450cb39</link>
+      <description>Decyzja &quot;najbardziej ucieszy Niemców&quot;, &quot;Putin otwiera szampana&quot; - pisali politycy koalicji rządzącej w sprawie decyzji Karola Nawrockiego o odebraniu Orderu Orła Białego Wołodymyrowi Zełenskiemu. Opozycyjni parlamentarzyści chwalili decyzję prezydenta.</description>
+      <pubDate>Fri, 19 Jun 2026 20:51:07 GMT</pubDate>
+      <guid isPermaLink="false">d5c30450cb39</guid>
+      <source url="https://tvn24.pl/polska/karol-nawrocki-zdecydowal-o-odebraniu-orderu-orla-bialego-wolodymyrowi-zelenskiemu-komentarze-st9105063?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Donald Tusk reaguje na decyzję Karola Nawrockiego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/148684aa5ce2</link>
+      <description>&quot;Konflikt między Polską i Ukrainą cieszy Putina i szokuje naszych sojuszników&quot; - napisał Donald Tusk. Wcześniej Karol Nawrocki ogłosił decyzję w sprawie orderu Wołodymyra Zełenskiego.</description>
+      <pubDate>Fri, 19 Jun 2026 20:40:36 GMT</pubDate>
+      <guid isPermaLink="false">148684aa5ce2</guid>
+      <source url="https://tvn24.pl/polska/donald-tusk-reaguje-po-decyzji-karola-nawrockiego-chodzi-o-order-orla-bialego-wolodymyra-zelenskiego-st9105073?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Trump znowu o Meloni. &quot;Nie chcę, żeby była moją fanką&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d3d573d708bd</link>
+      <description>Relacje włosko-amerykańskie uległy ochłodzeniu po tym, jak prezydent USA Donald Trump powiedział, że premier Włoch Giorgia Meloni &quot;błagała&quot; go o wspólne zdjęcie. Włoszka stanowczo temu zaprzeczyła. Niedługo później Trump po raz kolejny wypowiedział się na jej temat.</description>
+      <pubDate>Fri, 19 Jun 2026 20:31:01 GMT</pubDate>
+      <guid isPermaLink="false">d3d573d708bd</guid>
+      <source url="https://tvn24.pl/swiat/donald-trump-znowu-o-giorgii-meloni-nie-chce-zeby-byla-moja-fanka-st9105064?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&quot;Ucieszy Niemców&quot;. Komentarze po decyzji ws. Orderu Orła Białego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4bdec1106e2a</link>
+      <description>Lawinę komentarzy wywołała decyzja prezydenta Karola Nawrockiego o odebraniu Orderu Orła Białego przywódcy Ukrainy Wołodymyrowi Zełenskiemu. Prawa strona polskiej sceny politycznej przyjęła ją z entuzjazmem. Przedstawiciele koalicji rządzącej są zdecydowanie bardziej sceptyczni. „Najbardziej ucieszy Niemców” – zasugerował wicemarszałek Sejmu Szymon Hołownia. „Putin otwiera szampana” – stwierdził europoseł Lewicy Robert Biedroń.</description>
+      <pubDate>Fri, 19 Jun 2026 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">4bdec1106e2a</guid>
+      <source url="https://www.rmf24.pl/polityka/news-ucieszy-niemcow-polska-ma-swoja-godnosc-komentarze-po-decyzj,nId,8090967">RMF24</source>
+    </item>
+    <item>
+      <title>From a 7 KB file to a 13-year backdoor operation</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1eb3d402ac8d</link>
+      <description>Most plugin closures are uneventful. A developer stops responding, wp.org pulls the plugin, the listing goes dark, and that is the end of it. My WP Beacon</description>
+      <pubDate>Fri, 19 Jun 2026 20:25:23 GMT</pubDate>
+      <guid isPermaLink="false">1eb3d402ac8d</guid>
+      <source url="https://anchor.host/from-a-7-kb-file-to-a-13-year-backdoor-operation/">Hacker News</source>
+    </item>
+    <item>
       <title>Rujnują jelita i powodują biegunki. Producenci dodają na potęgę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/36b10970c40c</link>
       <description>Coraz więcej osób świadomie ogranicza cukier w codziennej diecie. Produkty ze słodzikami cieszą się szczególną popularnością wśród osób dbających o sylwetkę. Nie wszystkie są obojętne dla zdrowia.</description>
       <pubDate>Fri, 19 Jun 2026 20:10:00 GMT</pubDate>
       <guid isPermaLink="false">36b10970c40c</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Rujnuja-jelita-i-powoduja-biegunki-Producenci-dodaja-na-potege,285649,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Dariusz Klimczak: Maciej Lasek będzie wiceministrem do spraw lotnictwa do końca miesiąca</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/982bd0e4a724</link>
+      <description>Pan minister Lasek powiedział mi, że de facto to jest na jego prośbę - przekazał w &quot;Faktach po Faktach&quot; w TVN24 minister infrastruktury Dariusz Klimczak. Tak skomentował odwołanie Macieja Laska z funkcji pełnomocnika rządu do spraw CPK. Dodał, że do końca miesiąca Lasek przestanie również pełnić funkcję wiceministra do spraw lotnictwa.</description>
+      <pubDate>Fri, 19 Jun 2026 20:08:08 GMT</pubDate>
+      <guid isPermaLink="false">982bd0e4a724</guid>
+      <source url="https://tvn24.pl/polska/dariusz-klimczak-maciej-lasek-bedzie-wiceministrem-infrastruktury-do-spraw-lotnictwa-do-konca-czerwca-st9104962?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Szef ukraińskiego parlamentu do Nawrockiego: popełnił pan katastrofalny błąd</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/437259ffda20</link>
+      <description>Zdaniem szefa ukraińskiego parlamentu Rusłana Stefanczuka, prezydent Karol Nawrocki &quot;popełnił katastrofalny błąd&quot;. Wcześniej decyzję Nawrockiego skomentował deputowany do parlamentu Ukrainy Mykoła Kniażycki.</description>
+      <pubDate>Fri, 19 Jun 2026 20:05:50 GMT</pubDate>
+      <guid isPermaLink="false">437259ffda20</guid>
+      <source url="https://tvn24.pl/swiat/szef-ukrainskiego-parlamentu-do-karola-nawrockiego-popelnil-pan-katastrofalny-blad-st9105050?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Amazon drops Sam Altman movie after announcing OpenAI partnership</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e65f11eb9a74</link>
+      <description>Luca Guadagnino’s nearly completed biopic stars Andrew Garfield as the controversial OpenAI founder</description>
+      <pubDate>Fri, 19 Jun 2026 20:03:16 GMT</pubDate>
+      <guid isPermaLink="false">e65f11eb9a74</guid>
+      <source url="https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html">Hacker News</source>
     </item>
     <item>
       <title>What we know so far about Bedford train crash</title>
@@ -136,6 +224,14 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-zyska-jedynie-moskwa-szef-msz-ukrainy-o-decyzji-nawrockiego,nId,8090964">RMF24</source>
     </item>
     <item>
+      <title>Would you choose to take a 22-hour non-stop flight?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1e9fdc5c544c</link>
+      <description>The BBC asked Sydney locals if they would take the newly announced, longest ever commercial flight from Sydney to London.</description>
+      <pubDate>Fri, 19 Jun 2026 18:47:31 GMT</pubDate>
+      <guid isPermaLink="false">1e9fdc5c544c</guid>
+      <source url="https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Szef MSZ Ukrainy reaguje na decyzję Nawrockiego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c6c2821f6c91</link>
       <description>Decyzja o pozbawieniu prezydenta Ukrainy Orderu Orła Białego jest strategicznym błędem prezydenta Polski, na którym zyska jedynie Moskwa - przekazał szef MSZ Ukrainy Andrij Sybiha. Poinformował, że sam zwróci odznaczenie, które otrzymał w 2022 roku. Kancelaria Zełenskiego odmówiła komentarza.</description>
@@ -174,6 +270,14 @@
       <pubDate>Fri, 19 Jun 2026 18:27:08 GMT</pubDate>
       <guid isPermaLink="false">33699bee8c98</guid>
       <source url="https://tvn24.pl/polska/lublin-podejrzany-o-zabojstwo-rosjanina-przesluchiwany-przez-prokurature-st9104674?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Jest zarzut i wniosek o areszt po zabójstwie w Białej Podlaskiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0816db73f1b7</link>
+      <description>36-letni Gruzin Elnur A. usłyszał zarzut w związku z zabójstwem w Białej Podlaskiej. Prokuratura zawnioskowała o areszt.</description>
+      <pubDate>Fri, 19 Jun 2026 18:27:08 GMT</pubDate>
+      <guid isPermaLink="false">0816db73f1b7</guid>
+      <source url="https://tvn24.pl/polska/zabojstwo-w-bialej-podlaskiej-jest-zarzut-i-wniosek-o-areszt-dla-36-letniego-gruzina-st9104674?source=rss">TVN24</source>
     </item>
     <item>
       <title>Takiego sci-fi jeszcze nie widzieliśmy. Twórcy pokazali pierwsze zdjęcia</title>
@@ -240,6 +344,14 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Dwa-lata-badan-Popularne-suplementy-nie-chronia-zdrowia-mozgu,285632,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>John Jumper to join Anthropic</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f063f6005b1e</link>
+      <description>A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful for my time at GDM. @demishassabis took a real chance letting me lead the AlphaFold team just six months after finishing</description>
+      <pubDate>Fri, 19 Jun 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="false">f063f6005b1e</guid>
+      <source url="https://twitter.com/JohnJumperSci/status/2068001285173834106">Hacker News</source>
+    </item>
+    <item>
       <title>Nawrocki zdecydował w sprawie orderu Zełenskiego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a059f103f4d0</link>
       <description>Prezydent Karol Nawrocki zdecydował o odebraniu Orderu Orła Białego prezydentowi Ukrainy Wołodymyrowi Zełenskiemu. Nawrocki zaznaczył, że ta decyzja nie jest &quot;przeciwko narodowi ukraińskiemu&quot;.</description>
@@ -294,118 +406,6 @@
       <pubDate>Fri, 19 Jun 2026 17:34:28 GMT</pubDate>
       <guid isPermaLink="false">c233fb76b657</guid>
       <source url="https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech">Hacker News</source>
-    </item>
-    <item>
-      <title>Wystarczy Ci jedna kamera. Oto Insta360 Luna Ultra</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0cc50b370217</link>
-      <description>Czy istnieje „kamera idealna”, która sprawdzi się w każdej sytuacji – od prostych vlogów i relacji z podróży, po profesjonalne produkcje wideo?</description>
-      <pubDate>Fri, 19 Jun 2026 17:30:06 GMT</pubDate>
-      <guid isPermaLink="false">0cc50b370217</guid>
-      <source url="https://antyweb.pl/wystarczy-ci-jedna-kamera-oto-insta360-luna-ultra">Antyweb</source>
-    </item>
-    <item>
-      <title>17 pracowników ochrony zdrowia zakażonych. WHO informuje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0d7aff4bda18</link>
-      <description>Zmarło 17 spośród 75 pracowników ochrony zdrowia, którzy w Demokratycznej Republice Konga zarazili się wirusem ebola – podała w piątek na telekonferencji Światowej Organizacji Zdrowia dyrektorka ds. kryzysowych WHO w Afryce Marie Roseline Belizaire. Urzędniczka podkreśliła, że epidemia przyspiesza.</description>
-      <pubDate>Fri, 19 Jun 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="false">0d7aff4bda18</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/17-pracownikow-ochrony-zdrowia-zakazonych-WHO-informuje,285657,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Krwawa awantura rodzinna w Świętokrzyskiem. Trwa obława</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a9bbcfc0c3b6</link>
-      <description>Trwają poszukiwania mężczyzny, który zabił swojego teścia w miejscowości Mierzawa w województwie świętokrzyskim.</description>
-      <pubDate>Fri, 19 Jun 2026 17:15:20 GMT</pubDate>
-      <guid isPermaLink="false">a9bbcfc0c3b6</guid>
-      <source url="https://www.rmf24.pl/regiony/kielce/news-krwawa-awantura-rodzinna-w-swietokrzyskiem-trwa-oblawa,nId,8090958">RMF24</source>
-    </item>
-    <item>
-      <title>Dramatyczna sytuacja w Afryce. Epidemia eboli przyspiesza, medycy umierają</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/231e310471f3</link>
-      <description>Sytuacja związana z epidemią wirusa Ebola w Demokratycznej Republice Konga staje się coraz bardziej dramatyczna. Oficjele przyznają, że transmisja patogenu &quot;przyspiesza&quot;, a medykom zaczyna brakować podstawowych środków ochrony osobistej, takich jak rękawiczki i maseczki. Dotychczas zmarło 17 spośród 75 pracowników ochrony zdrowia.</description>
-      <pubDate>Fri, 19 Jun 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="false">231e310471f3</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-dramatyczna-sytuacja-w-afryce-epidemia-eboli-przyspiesza-med,nId,8090955">RMF24</source>
-    </item>
-    <item>
-      <title>Ulga za leczenie prywatne, cięcia podwyżek medyków, nowa sieć szpitali. PSL proponuje reformę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/450b8805eabd</link>
-      <description>Ulga podatkowa za leczenie prywatne, przeniesienie składki chorobowej z ZUS do NFZ, obniżenie kosztów podwyżek medyków, reforma szpitali. W Sejmie rozpoczęły się prace nad reformą systemu ochrony zdrowia przedstawioną przez Polskie Stronnictwo Ludowe.</description>
-      <pubDate>Fri, 19 Jun 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="false">450b8805eabd</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Ulga-za-leczenie-prywatne-ciecia-podwyzek-medykow-nowa-siec-szpitali-PSL-proponuje-reforme,285652,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Tusk ostro do ludzi prezydenta: Grymaszą jak dzieci w piaskownicy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a8c345677607</link>
-      <description>Premier Donald Tusk zaapelował w piątek do „najbardziej grymaszących ministrów u prezydenta Karola Nawrockiego, żeby ucichli” w kontekście relacji rządu z USA i zapowiedzi stałej amerykańskiej bazy wojskowej w Polsce. To jest głupie i szkodzi Polsce - ocenił.</description>
-      <pubDate>Fri, 19 Jun 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="false">a8c345677607</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Tusk-ostro-do-ludzi-prezydenta-Grymasza-jak-dzieci-w-piaskownicy-9154707.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Mogli spędzić w izolacji nawet 30 lat. Decyzja sądu ws. rodzeństwa z Suwalszczyzny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/84c289d296c6</link>
-      <description>Sąd Rejonowy w Suwałkach (woj. podlaskie) podjął decyzję w bulwersującej sprawie rodzeństwa, które miało być izolowane i głodzone przez co najmniej kilkanaście lat. Chodzi o tymczasowy areszt dla 70-letniej matki i 50-letniej siostry bliźniaków.</description>
-      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="false">84c289d296c6</guid>
-      <source url="https://www.rmf24.pl/regiony/bialystok/news-mogli-spedzic-w-izolacji-nawet-30-lat-decyzja-sadu-ws-rodzen,nId,8090957">RMF24</source>
-    </item>
-    <item>
-      <title>Zełenski dał Łukaszence tydzień. &quot;Potem zrobimy to sami&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0a0679398109</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski dał białoruskiemu przywódcy Alaksandrowi Łukaszence tydzień na usunięcie z terytorium Białorusi retransmiterów, które pomagają rosyjskim dronom atakować ukraińskie miasta. W przeciwnym razie – jak zapowiedział Zełenski – Ukraina podejmie działania na własną rękę.</description>
-      <pubDate>Fri, 19 Jun 2026 17:05:05 GMT</pubDate>
-      <guid isPermaLink="false">0a0679398109</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-dal-lukaszence-tydzien-potem-zrobimy-to-sami,nId,8090956">RMF24</source>
-    </item>
-    <item>
-      <title>Czy pies lubi oglądać z Tobą Netfliksa? To zależy, co ma w genach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ce9e00096005</link>
-      <description>Twój pies kiedyś wpatrywał się w telewizor, a teraz go ignoruje? Nauka ma na to całkiem konkretne wytłumaczenie.</description>
-      <pubDate>Fri, 19 Jun 2026 17:00:18 GMT</pubDate>
-      <guid isPermaLink="false">ce9e00096005</guid>
-      <source url="https://antyweb.pl/czy-pies-lubi-ogladac-z-toba-netfliksa-to-zalezy-co-ma-w-genach">Antyweb</source>
-    </item>
-    <item>
-      <title>Every fusion startup that has raised over $100M</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/428471418989</link>
-      <description>Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.</description>
-      <pubDate>Fri, 19 Jun 2026 16:50:58 GMT</pubDate>
-      <guid isPermaLink="false">428471418989</guid>
-      <source url="https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/">TechCrunch</source>
-    </item>
-    <item>
-      <title>UE nie zamierza odgrywać roli mediatora w rozmowach pokojowych między Ukrainą a Rosją</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c8e092c1fecf</link>
-      <description>Premier Donald Tusk poinformował po szczycie UE, że przywódcy rozmawiali o inicjatywie przewodniczącego RE, Antonia Costy, związanej z kontaktami przedstawicieli jego otoczenia z urzędnikami Kremla. Według wyjaśnień przedstawionych przez Costę — jak relacjonował Tusk — nie chodziło jednak o rozpoczęcie negocjacji z Rosją.</description>
-      <pubDate>Fri, 19 Jun 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="false">c8e092c1fecf</guid>
-      <source url="https://www.bankier.pl/wiadomosc/UE-nie-zamierza-odgrywac-roli-mediatora-w-rozmowach-pokojowych-miedzy-Ukraina-a-Rosja-9154668.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Google workspace threatening to block Firefox access</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bfa007495dfa</link>
-      <description>Google workspace threatening to block firefox</description>
-      <pubDate>Fri, 19 Jun 2026 16:30:49 GMT</pubDate>
-      <guid isPermaLink="false">bfa007495dfa</guid>
-      <source url="https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Sędzia Marciniak w ogniu krytyki. Messi powinien wylecieć z boiska?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8fdd1705c7f</link>
-      <description>​Po przegranej 0:3 z Argentyną w fazie grupowej mistrzostw świata, Algierska Federacja Piłkarska złożyła oficjalne odwołanie do FIFA. Głównym powodem jest brak czerwonej kartki dla Lionela Messiego po ostrym faulu na Aissie Mandim. Spotkanie to sędziował Szymon Marciniak.</description>
-      <pubDate>Fri, 19 Jun 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="false">f8fdd1705c7f</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-sedzia-marciniak-w-ogniu-krytyki-messi-powinien-wyleciec-z-b,nId,8090954">RMF24</source>
-    </item>
-    <item>
-      <title>Hyundai buys Boston Dynamics</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/65ef1642e740</link>
-      <description>Hyundai Motor Group is acquiring SoftBank&apos;s remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics</description>
-      <pubDate>Fri, 19 Jun 2026 16:28:20 GMT</pubDate>
-      <guid isPermaLink="false">65ef1642e740</guid>
-      <source url="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/">Hacker News</source>
     </item>
   </channel>
 </rss>
