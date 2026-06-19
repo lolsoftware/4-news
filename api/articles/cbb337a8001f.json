@@ -1,0 +1,13 @@
+{
+  "id": "cbb337a8001f",
+  "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+  "originalTitle": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+  "publishedAt": "2026-06-18T23:28:52.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Microsoft says it has detected new self-propagating malware that spreads through USB drives in search of cryptocurrency credentials, which it then sends to attacker-controlled servers.</p>\n<p>The company named the worm Crypto Clipper because it monitors the contents of device clipboards for patterns consistent with wallet addresses or seed phrases. When found, the malware also takes five screenshots over a 10-second period. Both the credentials and the screenshots are then sent to the attacker through Tor, a network protocol that provides anonymous routing by sending traffic through redundant nodes so logs can’t capture both the sending and receiving IP addresses. Crypto Clipper establishes the Tor connection by using a SOCKS5 proxy, a network protocol that sends traffic through a proxy server, which then forwards it to its final destination.</p>\n<h2>A lightweight backdoor</h2>\n<p>“The execution of this clipper is notable because it does not depend on a traditional installer or exposed IP-based C2 infrastructure,” Microsoft <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/\">said</a> Thursday. “Instead, it deploys a portable Tor client, routes traffic through a local SOCKS5 proxy, and blends data theft with remote code execution, turning a financially motivated stealer into a lightweight backdoor.”</p>\n<p>Microsoft said it observed Crypto Clipper spreading through <a href=\"https://en.wikipedia.org/wiki/Shortcut_(computing)#Microsoft_Windows\">.lnk</a> file on a USB drive. These files store executable code. When an infected USB drive is plugged into a device, the code checks whether it is already installed on the machine. If it isn’t, the malware downloads it through the Tor proxy. To better conceal evidence of the worm, the malware scans the infected USB drive and names the .lnk files with similar names.</p> </div></div>",
+  "image": "images/f91c328412e5.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
