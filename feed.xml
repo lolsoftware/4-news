@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 20 Jun 2026 19:59:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 21:43:30 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>King Charles to reveal personal tax bill for first time as monarch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/742f1f9ec0bd</link>
+      <description>For the first time, the annual financial report for the royals will include how much tax is paid by the monarch.</description>
+      <pubDate>Sat, 20 Jun 2026 21:04:00 GMT</pubDate>
+      <guid isPermaLink="false">742f1f9ec0bd</guid>
+      <source url="https://www.bbc.com/news/articles/c5yzlk582pzo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c466a2255fe</link>
+      <description>Linux 7.2 has finally eliminated the strncpy API from the Linux kernel</description>
+      <pubDate>Sat, 20 Jun 2026 20:59:40 GMT</pubDate>
+      <guid isPermaLink="false">7c466a2255fe</guid>
+      <source url="https://www.phoronix.com/news/Linux-7.2-Drops-strncpy">Hacker News</source>
+    </item>
+    <item>
+      <title>UK Home Office launches £75M &apos;PoliceAI&apos; to capitalise on artificial intelligence</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e102eda45d80</link>
+      <description>Rebrand ditches dot from “Police.AI” proposal floated in January’s policing white paper as minister espouses the potential for technology to identify stolen goods and track people selling illegally obtained items
+
+
+
+
+
+
+
+The Home Office has formally launched a new national centre for scaling up the u</description>
+      <pubDate>Sat, 20 Jun 2026 20:41:06 GMT</pubDate>
+      <guid isPermaLink="false">e102eda45d80</guid>
+      <source url="https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/">Hacker News</source>
+    </item>
+    <item>
+      <title>Rękopis Mozarta odnaleziony przez przypadek. Zawiera 7 utworów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c3433e5b6e2</link>
+      <description>W Paryżu odnaleziono zeszyt z nieznanymi wcześniej utworami Wolfganga Amadeusza Mozarta. Badania potwierdziły, że to rękopis słynnego kompozytora.</description>
+      <pubDate>Sat, 20 Jun 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="false">1c3433e5b6e2</guid>
+      <source url="https://www.rmf24.pl/kultura/news-rekopis-mozarta-odnaleziony-przez-przypadek-zawiera-7-utworo,nId,8091006">RMF24</source>
+    </item>
+    <item>
+      <title>Szef MSWiA reaguje na sytuacje pogodową. &quot;Zlecił pełną gotowość&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0d72e4cbca3d</link>
+      <description>Szef MSWiA Marcin Kierwiński zlecił pełną gotowość podległych mu służb ratunkowych - poinformował resort. Decyzja ta ma związek z przechodzącymi przez Polskę intensywnymi burzami i upalną pogodą.</description>
+      <pubDate>Sat, 20 Jun 2026 20:33:24 GMT</pubDate>
+      <guid isPermaLink="false">0d72e4cbca3d</guid>
+      <source url="https://tvn24.pl/polska/pogoda-w-polsce-szef-mswia-marcin-kierwinski-reaguje-na-sytuacje-pogodowa-zlecil-pelna-gotowosc-st9106308?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/20bfeecb69d7</link>
+      <description>&quot;These are not your friends. These are not conscious beings. These are not sentient interlocutors.”</description>
+      <pubDate>Sat, 20 Jun 2026 20:32:29 GMT</pubDate>
+      <guid isPermaLink="false">20bfeecb69d7</guid>
+      <source url="https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/">TechCrunch</source>
+    </item>
     <item>
       <title>112 tys. osób przebadanych. Popularne konserwanty podnoszą ciśnienie: oto lista</title>
       <link>https://lolsoftware.github.io/4-news/#/article/adb45256d223</link>
@@ -14,6 +70,14 @@
       <pubDate>Sat, 20 Jun 2026 20:23:00 GMT</pubDate>
       <guid isPermaLink="false">adb45256d223</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/112-tys-osob-przebadanych-Popularne-konserwanty-podnosza-cisnienie-oto-lista,285629,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Unauthorized alert sent to cell phones across Brazil</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ebbc89b48f15</link>
+      <description>An unauthorized alert bearing a mysterious message that was sent to cell phones in several states across Brazil on Saturday morning is suspected to be the work of hackers, the Brazilian government said.</description>
+      <pubDate>Sat, 20 Jun 2026 20:05:03 GMT</pubDate>
+      <guid isPermaLink="false">ebbc89b48f15</guid>
+      <source url="https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam">Hacker News</source>
     </item>
     <item>
       <title>Bez tego witamina D nie będzie się wchłaniać. Polacy popełniają prosty błąd</title>
@@ -54,6 +118,14 @@
       <pubDate>Sat, 20 Jun 2026 19:31:00 GMT</pubDate>
       <guid isPermaLink="false">ffb1e42bb462</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Juz-nie-5-porcji-warzyw-i-owocow-Naukowcy-wskazali-nowa-zasade,285527,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Holly Ramsay and Adam Peaty announce they are expecting first child</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/788440ec5ec7</link>
+      <description>The news comes six months after Gordon Ramsay&apos;s daughter and the Olympic champion married in a star-studded ceremony at Bath Abbey.</description>
+      <pubDate>Sat, 20 Jun 2026 19:23:39 GMT</pubDate>
+      <guid isPermaLink="false">788440ec5ec7</guid>
+      <source url="https://www.bbc.com/news/articles/c5yzkp30kwxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Chwile grozy na Dolnym Śląsku. Kobieta porażona piorunem</title>
@@ -150,6 +222,14 @@
       <pubDate>Sat, 20 Jun 2026 17:58:05 GMT</pubDate>
       <guid isPermaLink="false">b78b16b2c42e</guid>
       <source url="https://tvn24.pl/swiat/leonid-kuczma-i-wiktor-juszczenko-zrzekli-sie-orderu-orla-bialego-st9106212?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Byli prezydenci Ukrainy Leonid Kuczma, Wiktor Juszczenko i Petro Poroszenko zrzekli się Orderu Orła Białego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/73be2dc56ba1</link>
+      <description>Były prezydent Ukrainy Leonid Kuczma oświadczył w sobotę, że w związku z decyzją o odebraniu Wołodymyrowi Zełenskiemu Orderu Orła Białego, on sam postanowił zrzec się tego odznaczenia. Niedługo po nim taką samą deklarację złożyli jego następcy na urzędzie - Wiktor Juszczenko i Petro Poroszenko.</description>
+      <pubDate>Sat, 20 Jun 2026 17:58:05 GMT</pubDate>
+      <guid isPermaLink="false">73be2dc56ba1</guid>
+      <source url="https://tvn24.pl/swiat/leonid-kuczma-wiktor-juszczenko-i-petro-poroszenko-zrzekli-sie-orderu-orla-bialego-st9106212?source=rss">TVN24</source>
     </item>
     <item>
       <title>&quot;Możliwe podtopienia&quot;. RCB rozesłało nowy alert</title>
@@ -297,6 +377,14 @@ Shared-memory threads for JavaScriptCore. new Thread(fn) runs fn on another thre
       <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-ciesnina-ormuz-ponownie-zamknieta-iran-oglasza,nId,8090998">RMF24</source>
     </item>
     <item>
+      <title>Gwałtowne burze nad Polską. Zalania we Wrocławiu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b45727ab72cf</link>
+      <description>W sobotę przez Polskę przechodziły burze, którym towarzyszyły silne opady deszczu i porywy wiatru. Najwięcej pracy mieli strażacy z województw lubuskiego i dolnośląskiego. Groźnie było między innymi we Wrocławiu, gdzie doszło do zalań.</description>
+      <pubDate>Sat, 20 Jun 2026 16:19:48 GMT</pubDate>
+      <guid isPermaLink="false">b45727ab72cf</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/pogoda-burze-i-ulewy-nad-polska-sobota-20-06-interwencje-strazakow-st9106106?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Upały nam nie odpuszczą. Czy pogoda się uspokoi</title>
       <link>https://lolsoftware.github.io/4-news/#/article/fdea9523c32a</link>
       <description>Koniec weekendu zapowiada się gorąco i burzowo. Na początku kolejnego tygodnia temperatura nieco spadnie, ale na horyzoncie widać kolejne masy ciepłego powietrza zmierzające do naszego kraju. Czy wysokim wartościom na termometrach wciąż będą towarzyszyć wyładowania? Szczegóły w prognozie.</description>
@@ -327,86 +415,6 @@ Shared-memory threads for JavaScriptCore. new Thread(fn) runs fn on another thre
       <pubDate>Sat, 20 Jun 2026 15:51:46 GMT</pubDate>
       <guid isPermaLink="false">01044d89f4c4</guid>
       <source url="https://www.bbc.com/news/videos/cp3xl7zw4gyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Antidotum Airshow Leszno 2026. &quot;Prosimy o przygotowanie się&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/612d584577be</link>
-      <description>Sobotnie burze po raz kolejny zagrażają pokazom lotniczym Antidotum Airshow Leszno. W godzinach popołudniowych nad Wielkopolskę wkraczają gwałtowne zjawiska atmosferyczne, a organizatorzy zdecydowali się na zawieszenie imprezy ze względów bezpieczeństwa.</description>
-      <pubDate>Sat, 20 Jun 2026 15:37:19 GMT</pubDate>
-      <guid isPermaLink="false">612d584577be</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/antidotum-airshow-leszno-2026-burze-w-polsce-problemy-podczas-imprezy-st9106132?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Scientists found a cannabis compound that relieves pain without the high</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e07e78527649</link>
-      <description>Compounds responsible for the aroma of cannabis and many other plants may offer a surprising new way to relieve chronic pain. Researchers found that several cannabis-derived terpenes significantly reduced pain in mouse models of fibromyalgia and post-surgical pain, with one terpene, geraniol, showing especially strong effects. Unlike THC, these compounds are not associated with psychoactive effects, making them a potentially attractive alternative for pain treatment.</description>
-      <pubDate>Sat, 20 Jun 2026 15:33:51 GMT</pubDate>
-      <guid isPermaLink="false">e07e78527649</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/06/260619033343.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Meloni tells Trump to &apos;focus on your own popularity&apos; as row escalates</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f798ae7cca0a</link>
-      <description>The US president earlier questioned Meloni&apos;s popularity after suggesting she &quot;begged&quot; for a photo at G7 summit</description>
-      <pubDate>Sat, 20 Jun 2026 15:31:12 GMT</pubDate>
-      <guid isPermaLink="false">f798ae7cca0a</guid>
-      <source url="https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Nine people in critical condition among 100 injured in fatal Bedford train crash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/793a7767bfd4</link>
-      <description>British Transport Police says the collision, which killed a train driver, is being investigated.</description>
-      <pubDate>Sat, 20 Jun 2026 15:30:12 GMT</pubDate>
-      <guid isPermaLink="false">793a7767bfd4</guid>
-      <source url="https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Trzy razy osobiście przekazała pieniądze, wysyłała też przelewy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7f3438eb6dfb</link>
-      <description>22-latek oszukał 68-latkę na ponad 150 tysięcy złotych, namawiając ją do inwestycji. Jak podaje policja, &quot;kobieta trzykrotnie spotykała się z mężczyzną w umówionym miejscu i czasie, by przekazywać gotówkę po podaniu określonego hasła&quot;. Wysyłała też przelewy.</description>
-      <pubDate>Sat, 20 Jun 2026 15:15:13 GMT</pubDate>
-      <guid isPermaLink="false">7f3438eb6dfb</guid>
-      <source url="https://tvn24.pl/katowice/jaworzno-trzy-razy-osobiscie-przekazala-pieniadze-wysylala-tez-przelewy-st9106107?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b3b4c383fb89</link>
-      <description>(This post is part of a series on the subject of my hobby project, which is recreating the C source code for the 1989 game F-15 Strike Eagle II by reverse engineering the original binaries.)</description>
-      <pubDate>Sat, 20 Jun 2026 15:10:03 GMT</pubDate>
-      <guid isPermaLink="false">b3b4c383fb89</guid>
-      <source url="https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Tragedia na plaży, nie żyje mężczyzna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d9eb92f807b9</link>
-      <description>W Ostrowie (powiat pucki) podczas kąpieli w morzu utonął 72-letni mężczyzna.</description>
-      <pubDate>Sat, 20 Jun 2026 15:01:45 GMT</pubDate>
-      <guid isPermaLink="false">d9eb92f807b9</guid>
-      <source url="https://tvn24.pl/trojmiasto/ostrowo-puck-tragedia-na-plazy-nad-baltykiem-nie-zyje-mezczyzna-st9106116?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Every new iOS 27 feature that’s worth knowing about</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/039c4efbe862</link>
-      <description>While it&apos;s not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.</description>
-      <pubDate>Sat, 20 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">039c4efbe862</guid>
-      <source url="https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Sony wraca z zapomnianym obiektywem. Sprawdziliśmy, czy było warto czekać</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6af71b13aea4</link>
-      <description>W końcu nadeszło nowe szkło, o którym już wiedzieliśmy wiele. W końcu plotki o tym nowym obiektywie flagowej serii G Master Sony krążyły od dawna, lecz przeczytać specyfikacje to jedno, ale użyć w akcji to drugie.</description>
-      <pubDate>Sat, 20 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">6af71b13aea4</guid>
-      <source url="https://antyweb.pl/sony-wraca-z-zapomnianym-obiektywem-sprawdzilismy-czy-bylo-warto-czekac">Antyweb</source>
-    </item>
-    <item>
-      <title>Cargo-Geiger</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/953b8454e1f9</link>
-      <description>Detects usage of unsafe Rust in a Rust crate and its dependencies. - geiger-rs/cargo-geiger</description>
-      <pubDate>Sat, 20 Jun 2026 14:52:59 GMT</pubDate>
-      <guid isPermaLink="false">953b8454e1f9</guid>
-      <source url="https://github.com/geiger-rs/cargo-geiger">Hacker News</source>
     </item>
   </channel>
 </rss>

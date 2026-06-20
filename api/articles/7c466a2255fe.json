@@ -1,0 +1,13 @@
+{
+  "id": "7c466a2255fe",
+  "title": "Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
+  "originalTitle": "Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+  "publishedAt": "2026-06-20T20:59:40.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<p><img alt=\"LINUX KERNEL\" src=\"https://www.phoronix.com/assets/categories/linuxkernel.webp\" width=\"100\" height=\"100\"></p><p>\nLinux 7.2 has finally eliminated the strncpy API from the Linux kernel. The strncpy() function for copying up to a specified number of bytes has long been deprecated and after six years of work and hundreds of patches, no more users of the strncpy interface within the Linux kernel remained that it has now been eliminated.\n</p><p>\nThe strncpy function within the Linux kernel has been a \"persistent source of bugs\" for years due to counter-intuitive semantics and behavior around NUL termination along with performance issues due to redundant zero-filling of the destination. It took work over the last six years with around 362 commits to eliminate users of strncpy code within the kernel, but they are over the finish line for Linux 7.2.\n</p><p><img src=\"https://www.phoronix.net/image.php?id=2026&amp;image=strncpy\" alt=\"strncpy\"></p>\n<p><a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=1a3746ccbb0a97bed3c06ccde6b880013b1dddc1\">This merge</a> on Friday eliminated the strncpy API and the last per CPU architecture strncpy implementations.\n</p><p>\nIn place of strncpy, Linux kernel code should use strscpy() for NUL terminated destinations, strscpy_pad() for NUl-terminated destinations with zero-padding, strtomem_pad() for non-NUL-terminated fixed-width fields, memcpy_and_pad() for bounded copies with explicit padding, or memcpy() for known-length memory copies.</p></div></div>",
+  "image": "images/c1b975d3b64c.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
