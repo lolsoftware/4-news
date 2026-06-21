@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 21 Jun 2026 20:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:44:57 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Anatomy of an AI-Native Org</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a9e769ee771e</link>
+      <description>For thirty years we were glorified translators — business asked why, product defined what, engineering translated to how. AI just ate the translation step. The anatomy of the team that&apos;s left looks nothing like the one you have today.</description>
+      <pubDate>Sun, 21 Jun 2026 21:34:19 GMT</pubDate>
+      <guid isPermaLink="false">a9e769ee771e</guid>
+      <source url="https://ajeygore.in/content/the-anatomy-of-an-ai-native-org">Hacker News</source>
+    </item>
+    <item>
+      <title>Apertus – Open Foundation Model for Sovereign AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3d1f3fa6ce3a</link>
+      <description>Fully Open Foundation Model for Sovereign AI</description>
+      <pubDate>Sun, 21 Jun 2026 21:29:43 GMT</pubDate>
+      <guid isPermaLink="false">3d1f3fa6ce3a</guid>
+      <source url="https://apertvs.ai/">Hacker News</source>
+    </item>
+    <item>
+      <title>Everything Is Logarithms</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1053550fbe3</link>
+      <description>Some connections between things, which I have not seen elsewhere. Maybe they mean something?</description>
+      <pubDate>Sun, 21 Jun 2026 21:10:32 GMT</pubDate>
+      <guid isPermaLink="false">f1053550fbe3</guid>
+      <source url="https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Stop wasting tokens and re explaining your project between sessions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/59bd03a59046</link>
+      <description>Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline. - raiyanyahya/recall</description>
+      <pubDate>Sun, 21 Jun 2026 21:05:37 GMT</pubDate>
+      <guid isPermaLink="false">59bd03a59046</guid>
+      <source url="https://github.com/raiyanyahya/recall">Hacker News</source>
+    </item>
+    <item>
+      <title>PiS ma kandydata na RPO. &quot;Staniemy na uszach&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a3622fa9925d</link>
+      <description>Prawo i Sprawiedliwość zgłosi Adama Borowskiego jako kandydata na Rzecznika Praw Obywatelskich. Zapowiedział to prezes tej partii Jarosław Kaczyński.</description>
+      <pubDate>Sun, 21 Jun 2026 20:59:33 GMT</pubDate>
+      <guid isPermaLink="false">a3622fa9925d</guid>
+      <source url="https://www.rmf24.pl/polityka/news-pis-ma-kandydata-na-rpo-staniemy-na-uszach,nId,8091043">RMF24</source>
+    </item>
     <item>
       <title>Zdrowe jelita i brzuch płaski jak deska. Pij raz w tygodniu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c92dd728edd9</link>
@@ -14,6 +54,14 @@
       <pubDate>Sun, 21 Jun 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">c92dd728edd9</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zdrowe-jelita-i-brzuch-plaski-jak-deska-Pij-raz-w-tygodniu,285702,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Ask for no, don&apos;t ask for yes (2022)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b25893239c00</link>
+      <description>I think it is important to have a bias for action. Like anything else, this is something you can make a habit of. Moving forward allows you to make progress. I don’t know about you, but I’ve frozen up in the past not knowing what the right path was for me. Moving forward, even the smallest possible step, helped break that stasis.</description>
+      <pubDate>Sun, 21 Jun 2026 20:17:48 GMT</pubDate>
+      <guid isPermaLink="false">b25893239c00</guid>
+      <source url="https://www.mooreds.com/wordpress/archives/3518">Hacker News</source>
     </item>
     <item>
       <title>Zabronione nie tylko dla cukrzyków. Silnie obciążają wątrobę i trzustkę</title>
@@ -465,54 +513,6 @@ You’ll be able to point to the models, systems, and product decisions you made
       <pubDate>Sun, 21 Jun 2026 16:10:24 GMT</pubDate>
       <guid isPermaLink="false">237109e02347</guid>
       <source url="https://www.bbc.com/news/articles/c8j21zvkd20o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Code duplication is far cheaper than the wrong abstraction (2016)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d2ed8622dde5</link>
-      <description>I&apos;ve been thinking about the consequences of the &quot;wrong abstraction.&quot; &amp;nbsp;My RailsConf 2014 &quot;all the little things&quot; talk included a section where I asserted:  &gt; duplication is far cheaper than the wrong abstraction  And in the summary, I went on to advise:  &gt;</description>
-      <pubDate>Sun, 21 Jun 2026 16:08:23 GMT</pubDate>
-      <guid isPermaLink="false">d2ed8622dde5</guid>
-      <source url="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">Hacker News</source>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66a353d87fb5</link>
-      <description>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.</description>
-      <pubDate>Sun, 21 Jun 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="false">66a353d87fb5</guid>
-      <source url="https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Polskie dzieci uzależnione od ekranów? Nowe badanie daje do myślenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/16338985df81</link>
-      <description>Z najnowszego badania Komisji Europejskiej wynika, że polscy rodzice częściej niż średnia unijna alarmują o nadmiernym czasie, jaki ich dzieci spędzają przed ekranami i w mediach społecznościowych. Częściej też oceniają, że media społecznościowe mają negatywny wpływ na zdrowie ich dzieci. Jednocześnie rzadziej niż rodzice z innych krajów popierają wprowadzanie ograniczeń wiekowych.</description>
-      <pubDate>Sun, 21 Jun 2026 16:01:28 GMT</pubDate>
-      <guid isPermaLink="false">16338985df81</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-polskie-dzieci-uzaleznione-od-ekranow-nowe-badanie-daje-do-m,nId,8091034">RMF24</source>
-    </item>
-    <item>
-      <title>Kod QR może być pułapką. Zobacz, jak bezpiecznie skanować je smartfonem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5aa28439561a</link>
-      <description>Kod QR można zeskanować smartfonem bez instalowania dodatkowych aplikacji. Zwykle wystarczy aparat, systemowy skaner QR albo narzędzie dostępne w galerii zdjęć. W tym poradniku wyjaśniamy, jak skanować kody QR, jak odczytywać je ze zrzutu ekranu oraz na co uważać, żeby nie trafić na fałszywą stronę.</description>
-      <pubDate>Sun, 21 Jun 2026 16:00:43 GMT</pubDate>
-      <guid isPermaLink="false">5aa28439561a</guid>
-      <source url="https://antyweb.pl/jak-skanowac-kody-qr-smartfonem">Antyweb</source>
-    </item>
-    <item>
-      <title>Już zakazana w Danii i Holandii. Polacy nadal łykają jak cukierki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/14d83c529a51</link>
-      <description>Popularny suplement na stres i lepszy sen znalazł się pod lupą europejskich urzędów. Ashwagandha została zakazana w Danii i Holandii, a kolejne kraje analizują jej bezpieczeństwo. Choć w Polsce pozostaje legalna, eksperci ostrzegają przed możliwym wpływem na hormony, tarczycę i przebieg ciąży.</description>
-      <pubDate>Sun, 21 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">14d83c529a51</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Juz-zakazana-w-Danii-i-Holandii-Polacy-nadal-lykaja-jak-cukierki,285692,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Wyległy masowo i są bardziej agresywne niż komary. Jak przetrwać plagę meszek?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b7526c2e0328</link>
-      <description>Są mniejsze od komarów, ale znacznie bardziej agresywne. W całej Polsce trwa właśnie szczyt aktywności meszek, których ugryzienia mogą skończyć się bolesnym obrzękiem i infekcją. Lekarze ostrzegają przed jednym powszechnym błędem, który drastycznie pogarsza stan rany. Sprawdź, jak skutecznie chronić się przed plagą i co zrobić, gdy zostaniesz pokąsany.</description>
-      <pubDate>Sun, 21 Jun 2026 15:39:30 GMT</pubDate>
-      <guid isPermaLink="false">b7526c2e0328</guid>
-      <source url="https://www.rmf24.pl/ciekawostki/news-wylegly-masowo-i-sa-bardziej-agresywne-niz-komary-jak-przetr,nId,8090701">RMF24</source>
     </item>
   </channel>
 </rss>
