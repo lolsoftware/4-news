@@ -5,8 +5,173 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 22 Jun 2026 19:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:19:10 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pielęgniarki ostro do lekarzy: Monopol jednej grupy zawodowej nie służy pacjentom</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba21c5058466</link>
+      <description>Naczelna Rada Pielęgniarek i Położnych ostro odpowiedziała na krytykę projektu ustawy o zawodzie pielęgniarki i położnej ze strony samorządu lekarskiego. Zdaniem pielęgniarek argumenty lekarzy pomijają wiedzę naukową i doświadczenia innych krajów, a współczesna ochrona zdrowia powinna opierać się na współpracy zawodów medycznych, a nie na &quot;monopolu jednej grupy zawodowej&quot;.</description>
+      <pubDate>Mon, 22 Jun 2026 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">ba21c5058466</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Pielegniarki-ostro-do-lekarzy-Monopol-jednej-grupy-zawodowej-nie-sluzy-pacjentom,285656,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Starmer quits as Labour leader and paves way for contest for new prime minister</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/691a1a8b9dff</link>
+      <description>Sir Keir delivered a statement to announce his planned departure from Downing Street.</description>
+      <pubDate>Mon, 22 Jun 2026 22:13:31 GMT</pubDate>
+      <guid isPermaLink="false">691a1a8b9dff</guid>
+      <source url="https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>What does Trump want from a new UK prime minister?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4195ade7d292</link>
+      <description>The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.</description>
+      <pubDate>Mon, 22 Jun 2026 21:51:37 GMT</pubDate>
+      <guid isPermaLink="false">4195ade7d292</guid>
+      <source url="https://www.bbc.com/news/videos/c2kyz2eqxwvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Dwójka dzieci znaleziona martwa w rozgrzanym samochodzie. Dramat we Francji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fcc90f77a9fc</link>
+      <description>&quot;Dwójka martwych dzieci została znaleziona w poniedziałek w rozgrzanym samochodzie na parkingu osiedla mieszkaniowego we Francji. Zgon nastąpił w wyniku zatrzymania akcji serca&quot; - poinformował brytyjski dziennik &quot;The Independent&quot;, powołując się na prokuraturę. Przez Francję przechodzi fala upałów sięgająca 40 stopni Celsjusza.</description>
+      <pubDate>Mon, 22 Jun 2026 21:46:03 GMT</pubDate>
+      <guid isPermaLink="false">fcc90f77a9fc</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-dwojka-dzieci-znaleziona-martwa-w-rozgrzanym-samochodzie-tra,nId,8091160">RMF24</source>
+    </item>
+    <item>
+      <title>Kyber (YC W23) Is Hiring a Head of Engineering</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f27ceaaa7ca4</link>
+      <description>At Kyber, we&apos;re building the next-generation document platform for enterprises. Today, our AI-native solution transforms
+regulatory document workflows, enabling insurance claims organizations to consolidate 80% of their templates, spend 65%
+less time drafting, and compress overall communication cycle times by 5x. Our vision is for every enterprise to
+seamlessly leverage AI templates to generate every document.
+
+Over the past 18 months, we’ve:
+
+  - &gt;40x’d revenue and are profitable.
+  - Landed multiple six and seven figure, multi-year contracts with leading insurance enterprises.
+  - Launched strategic partnerships with industry leading software partners like Guidewire, Majesco, and Twilio
+    Sendgrid.
+
+Kyber is backed by top Silicon Valley VCs, including Y Combinator and Fellows Fund.
+
+We&apos;re seeking a hands-on Head of Engineering with a clear line of sight to CTO. This role is ideal for someone who is
+already operating as a 10x engineer, thrives in early stage environments, and is excited to design and scale
+mission-critical AI systems from first principles.
+
+Responsibilities:
+
+  - Be the Technical Owner of the Product
+      - Own end-to-end technical decisions across backend, frontend, data, infra.
+      - Ship features personally while keeping the team unblocked.
+  - Prioritize an Aggressive Product Roadmap
+      - Lead sprint/weekly planning and keep priorities tight
+      - Protect focus: decisively manage tradeoffs, push back when needed
+  - Unlock Leverage to Boost Engineering Capacity
+      - Scale adoption of Agentic AI coding tools (Cursor, Claude Code, Greptile) into large scale engineering and
+        product workflows to accelerate time to market.
+      - Establish reusable patterns and interfaces so engineers and agents aren’t reinventing everything.
+  - Champion Reliability, Security, and Customer Trust
+      - Own uptime, performance, and incident response.
+      - Implement monitoring/alerts + fast debugging workflows.
+  - Mentor &amp; Raise the Engineering Bar
+      - Set expectations for quality and ownership.
+      - Help recruit and evaluate future hires.
+
+What We’re Looking For in You:
+
+  - 10x Engineer with a love of building
+      - Your raw coding ability should be unmatched and only deeply amplified by AI.
+      - You love to build and relish seeing customers delighted by your work.
+  - Ship first, optimize and harden later
+      - You get something out as quickly as possible, prove it was the right thing to build, and then optimize and
+        harden it.
+  - System Design Mastery
+      - You&apos;ve architected large scale data-driven applications and have a full E2E understanding of what tradeoffs to
+        make when.
+  - Systems-first thinking
+      - Not just in architecture, but also for how an AI-native engineering team will operate as we continue to grow.
+  - Accountability
+      - You&apos;re prepared and have been in roles before where you&apos;ve had to hold other engineers accountable for their
+        deliverables.
+  - Security and Compliance
+      - You&apos;ve dealt with enterprise software compliance requirements (SOC 2, HIPAA, ISO, etc) and are comfortable
+        incorporating those requirements in tandem with product build out.
+
+Our Values
+
+  - Possible Until Proven Otherwise
+      - Challenge assumptions with evidence. If it’s impossible, show us why.
+  - LOVE Your Customer
+      - Put customers at the heart of everything. Earn trust, deliver value, grow together.
+  - Take Pride In Your Craft
+      - Creating something from nothing is a privilege—embrace the process and perfect the details.
+  - Live Up To Your Expectations
+      - Set your standards high and let’s exceed them together—because no one should expect more of you than yourself.
+  - Have Fun &amp; Nurture Those Around You
+      - The joy of building is amplified when shared. Remember to support, uplift, and celebrate each other as we grow.
+
+Benefits
+
+  - Competitive salary
+  - Generous stock package
+  - 100% employer-covered medical, dental, and vision insurance
+
+Why Kyber?
+
+Join us in building and scaling a game-changing enterprise product powered by state-of-the-art AI. At Kyber, your
+contributions will directly impact how businesses handle some of their most critical workflows and customer
+interactions.
+
+If you’re obsessed with building, AI, and transforming enterprise workflows, we’d love to hear from you!
+
+How To Stand Out
+
+We want to hear from extraordinary individuals who are ready to shape the future of enterprise documents. To stand out,
+ask someone you’ve worked with to send your resume or LinkedIn profile, along with a brief 2-3 sentence endorsement,
+directly to arvind [at] askkyber.com.
+
+Referrals matter. They help us understand the impact you’ve already had and the kind of teammate you’ll be. A strong
+referee can elevate your application, so choose someone who knows your skills and character well.
+
+Apply today and help us bring enterprise documents into the AI-native age.</description>
+      <pubDate>Mon, 22 Jun 2026 21:00:51 GMT</pubDate>
+      <guid isPermaLink="false">f27ceaaa7ca4</guid>
+      <source url="https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering">Hacker News</source>
+    </item>
+    <item>
+      <title>Tacky men with ridiculous glasses want you to wear them too</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8c6db23786f6</link>
+      <description>Silicon Valley CEOs believe the best way to curb screen addiction at 20 cm from your face is to strap screens 20 mm from your eyes in ridiculous “smart” glasses. See for yourself how they look wearing…</description>
+      <pubDate>Mon, 22 Jun 2026 20:59:15 GMT</pubDate>
+      <guid isPermaLink="false">8c6db23786f6</guid>
+      <source url="https://manualdousuario.net/en/smart-glasses-ugly-tacky/">Hacker News</source>
+    </item>
+    <item>
+      <title>Job application asked for my SAT scores</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/901b867bebf5</link>
+      <description>&lt;p&gt;Yesterday I was looking at YC jobs to see if there were any interesting small startups hiring in my area (while I otherwise love my current fully-remote j...</description>
+      <pubDate>Mon, 22 Jun 2026 20:55:17 GMT</pubDate>
+      <guid isPermaLink="false">901b867bebf5</guid>
+      <source url="https://mrmarket.lol/job-application-asked-for-my-sat-scores/">Hacker News</source>
+    </item>
+    <item>
+      <title>The AI world is getting ‘loopy’</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dacd1e41e971</link>
+      <description>The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.</description>
+      <pubDate>Mon, 22 Jun 2026 20:53:11 GMT</pubDate>
+      <guid isPermaLink="false">dacd1e41e971</guid>
+      <source url="https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d027931891da</link>
+      <description>Spur scanned 6,038 LG and Samsung smart TV apps and found 2,058 with residential proxy SDKs, exposing privacy and home network risks.</description>
+      <pubDate>Mon, 22 Jun 2026 20:48:30 GMT</pubDate>
+      <guid isPermaLink="false">d027931891da</guid>
+      <source url="https://spur.us/blog/smart-tv-apps-residential-proxy-sdks">Hacker News</source>
+    </item>
     <item>
       <title>Uwaga użytkownicy air fryerów. Powszechny błąd niszczy zdrowie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/2d21bcaa9d5a</link>
@@ -16,12 +181,52 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Uwaga-uzytkownicy-air-fryerow-Powszechny-blad-niszczy-zdrowie,285635,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Microsoft and Chevron plan one of the largest gas-powered data center projects in US</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/efd244c73ab6</link>
+      <description>Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.</description>
+      <pubDate>Mon, 22 Jun 2026 20:37:19 GMT</pubDate>
+      <guid isPermaLink="false">efd244c73ab6</guid>
+      <source url="https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/">TechCrunch</source>
+    </item>
+    <item>
       <title>Nawet 4 mln zł kary za aferę w Szpitalu Południowym. Prokuratura nie wyklucza wezwania Trzaskowskiego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d1d530f96d90</link>
       <description>W stołecznym Szpitalu Południowym trwa kontrola NFZ. Fundusz sprawdza organizację SOR-u, rozliczenia oraz czas pracy koordynatora oddziału Dawida Kacprzyka. Przy potwierdzeniu nieprawidłowości kara dla placówki może wynieść blisko 4 mln zł. Sprawą zajmuje się także prokuratura, która nie wyklucza przesłuchania prezydenta Warszawy Rafała Trzaskowskiego.</description>
       <pubDate>Mon, 22 Jun 2026 20:35:00 GMT</pubDate>
       <guid isPermaLink="false">d1d530f96d90</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nawet-4-mln-zl-kary-za-afere-w-Szpitalu-Poludniowym-Prokuratura-nie-wyklucza-wezwania-Trzaskowskiego,285736,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Kolumbia pod rządami &quot;Tygrysa&quot;. Trump: To był zaszczyt udzielić mu poparcia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cae4d5303493</link>
+      <description>Prezydent USA Donald Trump pogratulował wygranej w wyborach prezydenckich w Kolumbii Abelardowi de la Esprielli. Przypomniał, że udzielił mu poparcia i wyraził nadzieję na współpracę. De la Espriella, prawicowy milioner i prawnik, obiecał m.in. drastyczne cięcia budżetowe, bombardowanie &quot;narkoterrorystów&quot; i budowę megawięzień. Dane ogłoszone po wstępnym przeliczeniu prawie wszystkich głosów oddanych w drugiej turze wyborów wskazują, że de la Espriella wyprzedził swojego rywala o niecały 1 punkt procentowy.</description>
+      <pubDate>Mon, 22 Jun 2026 20:27:57 GMT</pubDate>
+      <guid isPermaLink="false">cae4d5303493</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-kolumbia-pod-rzadami-tygrysa-trump-to-byl-zaszczyt-udzielic-,nId,8091158">RMF24</source>
+    </item>
+    <item>
+      <title>AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5bb24ad1420d</link>
+      <description>What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.</description>
+      <pubDate>Mon, 22 Jun 2026 20:13:58 GMT</pubDate>
+      <guid isPermaLink="false">5bb24ad1420d</guid>
+      <source url="https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Polymarket&apos;s viral videos showed people winning big, but the bets were fake</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bbcb4b776f37</link>
+      <description>Winning&quot; bets were made on cloned website and would have lost money, WSJ finds.</description>
+      <pubDate>Mon, 22 Jun 2026 20:10:34 GMT</pubDate>
+      <guid isPermaLink="false">bbcb4b776f37</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2b84ebb0336</link>
+      <description>Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI&apos;s biggest water use — fossil fuel power plants.</description>
+      <pubDate>Mon, 22 Jun 2026 20:08:15 GMT</pubDate>
+      <guid isPermaLink="false">f2b84ebb0336</guid>
+      <source url="https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/">TechCrunch</source>
     </item>
     <item>
       <title>Zasada “złotówka za złotówkę”. Tym emerytom ZUS zmniejszy wypłatę</title>
@@ -72,12 +277,36 @@
       <source url="https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/">TechCrunch</source>
     </item>
     <item>
+      <title>Japanese symbols that speak without words</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/409c0d640db3</link>
+      <description>I look at the Japanese symbols that carry meaning entirely on their own.</description>
+      <pubDate>Mon, 22 Jun 2026 19:22:37 GMT</pubDate>
+      <guid isPermaLink="false">409c0d640db3</guid>
+      <source url="https://arun.is/blog/japan-symbols/">Hacker News</source>
+    </item>
+    <item>
       <title>NASA Invites Media to Botswana Artemis Accords Signing Ceremony</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e74b686d6e3e</link>
       <description>The Republic of Botswana will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, June 25, at NASA Headquarters in Washington.</description>
       <pubDate>Mon, 22 Jun 2026 19:21:27 GMT</pubDate>
       <guid isPermaLink="false">e74b686d6e3e</guid>
       <source url="https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>British Columbia, Time Zones, and Postgres</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8dd4e74bc6e1</link>
+      <description>This year, British Column has moved to year-round Pacific Time. How does that affect date data?</description>
+      <pubDate>Mon, 22 Jun 2026 19:21:00 GMT</pubDate>
+      <guid isPermaLink="false">8dd4e74bc6e1</guid>
+      <source url="https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes">Hacker News</source>
+    </item>
+    <item>
+      <title>Optocam Zero: a Pi Zero based digital camera made using off the shelf components</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/080fa0ecfc5f</link>
+      <description>Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components. - dorukkumkumoglu/optocamzero</description>
+      <pubDate>Mon, 22 Jun 2026 19:19:55 GMT</pubDate>
+      <guid isPermaLink="false">080fa0ecfc5f</guid>
+      <source url="https://github.com/dorukkumkumoglu/optocamzero">Hacker News</source>
     </item>
     <item>
       <title>Order Zełenskiego dotarł do kancelarii prezydenta </title>
@@ -88,12 +317,28 @@
       <source url="https://tvn24.pl/polska/order-orla-bialego-odeslany-przez-wolodymyra-zelenskiego-dotarl-do-kancelarii-prezydenta-st9109211?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Following user outcry, AMD reinstates memory encryption in consumer CPUs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cdea1b1b1ee8</link>
+      <description>Critics saw the move as an underhanded way to steer them toward more costly chips.</description>
+      <pubDate>Mon, 22 Jun 2026 19:16:52 GMT</pubDate>
+      <guid isPermaLink="false">cdea1b1b1ee8</guid>
+      <source url="https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/">Ars Technica</source>
+    </item>
+    <item>
       <title>Kancelaria Prezydenta odebrała odesłany order. Potrzebna kontrasygnata premiera</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d51571be1bca</link>
       <description>Rzecznik prezydenta Rafał Leśkiewicz poinformował, że w poniedziałek Kancelaria Prezydenta odebrała Order Orła Białego odesłany przez prezydenta Wołodymyra Zełenskiego. By formalności stało się zadość, musi też nastąpić opublikowanie postanowienia prezydenta w tej sprawie z kontrasygnatą premiera - dodał.</description>
       <pubDate>Mon, 22 Jun 2026 19:14:00 GMT</pubDate>
       <guid isPermaLink="false">d51571be1bca</guid>
       <source url="https://www.bankier.pl/wiadomosc/Kancelaria-Prezydenta-odebrala-odeslany-order-Potrzebna-kontrasygnata-premiera-9155798.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3128624810d9</link>
+      <description>Documented LPR misuse by police chiefs exposes a gap only judicial oversight can close.</description>
+      <pubDate>Mon, 22 Jun 2026 19:13:46 GMT</pubDate>
+      <guid isPermaLink="false">3128624810d9</guid>
+      <source url="https://ipvm.com/reports/police-chiefs-track">Hacker News</source>
     </item>
     <item>
       <title>Były szef BBN o jednym pytaniu, jakie zadałby Ukraińcom</title>
@@ -118,6 +363,14 @@
       <pubDate>Mon, 22 Jun 2026 19:08:34 GMT</pubDate>
       <guid isPermaLink="false">c3d8d201b6b8</guid>
       <source url="https://tvn24.pl/polska/barbara-nowacka-krytykuje-wolodymyra-zelenskiego-mial-pelna-swiadomosc-ze-polska-nie-zostawi-tak-tego-tematu-st9109175?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Canada is looking to build up to 10 new nuclear reactors over the next 15 years</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a49e7d5c2006</link>
+      <description>The federal government is looking to build up to 10 new nuclear reactors over the next 15 years, with at least one of them outside of Ontario.</description>
+      <pubDate>Mon, 22 Jun 2026 19:06:48 GMT</pubDate>
+      <guid isPermaLink="false">a49e7d5c2006</guid>
+      <source url="https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509">Hacker News</source>
     </item>
     <item>
       <title>Nadciągają tropikalne upały. Tego dnia w Polsce będzie nawet 40 stopni</title>
@@ -240,172 +493,12 @@
       <source url="https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>​Niemcy skazali go na dożywocie. W poniedziałek opuścił więzienie w Rzeszowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5d57a44b6293</link>
-      <description>Polak skazany w 2006 roku w Niemczech na dożywocie opuścił w poniedziałek zakład karny w Rzeszowie. Ma być na wolności do czasu zakończenia postępowania ułaskawieniowego - informuje Krzysztof Zasada, dziennikarz RMF FM.</description>
-      <pubDate>Mon, 22 Jun 2026 18:17:00 GMT</pubDate>
-      <guid isPermaLink="false">5d57a44b6293</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-niemcy-skazali-go-na-dozywocie-w-poniedzialek-opuscil-wiezie,nId,8091151">RMF24</source>
-    </item>
-    <item>
-      <title>Brak zaproszenia dla Karola Nawrockiego. Rzecznik rządu komentuje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/05cce8553446</link>
-      <description>Rzecznik rządu Adam Szłapka wyjaśnił, z czego wynika brak zaproszenia dla prezydenta Karola Nawrockiego na Konferencję na rzecz Odbudowy Ukrainy. Głos w tej sprawie zabrał także Kijów.</description>
-      <pubDate>Mon, 22 Jun 2026 18:15:53 GMT</pubDate>
-      <guid isPermaLink="false">05cce8553446</guid>
-      <source url="https://tvn24.pl/polska/brak-zaproszenia-dla-prezydenta-karola-nawrockiego-na-konferencje-na-rzecz-odbudowy-ukrainy-rzecznik-rzadu-wyjasnia-st9109140?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Putin i Łukaszenka zwołują pilne spotkanie ws. &quot;gróźb Zełenskiego&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa0c9eaf490e</link>
-      <description>Władimir Putin i Alaksandr Łukaszenka mają zwołać spotkanie, na którym omówią &quot;groźby Wołodymyra Zełenskiego&quot; pod adresem Białorusi. W piątek prezydent Ukrainy zapowiedział, że Mińsk &quot;ma tydzień&quot; na usunięcie przekaźników, pozwalających Rosji na ataki dronowe. W dzisiejszym komunikacie białoruskiej dyplomacji padły słowa o &quot;militaryzacji Europy&quot; oraz &quot;zaniepokojeniu&quot; planami Polski i Francji.</description>
-      <pubDate>Mon, 22 Jun 2026 18:13:00 GMT</pubDate>
-      <guid isPermaLink="false">aa0c9eaf490e</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-putin-i-lukaszenka-zwoluja-pilne-spotkanie-ws-grozb-zelenski,nId,8091147">RMF24</source>
-    </item>
-    <item>
-      <title>Messi pisze historię. Argentyńczyk mundialowym rekordzistą wszech czasów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dfaafce0df79</link>
-      <description>Lionel Messi znów udowodnił, że jest piłkarskim geniuszem. W meczu mistrzostw świata z Austrią w Arlington koło Dallas Argentyńczyk zdobył swoją 17. bramkę w historii mundiali, stając się samodzielnym rekordzistą wszech czasów. Tym samym zepchnął z piedestału Miroslava Klosego, który przez lata był dzierżył tytuł mundialowego rekordzisty. Pod koniec spotkania piłkarz pobił swój własny rekord i strzelił kolejną - 18. - bramkę.</description>
-      <pubDate>Mon, 22 Jun 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="false">dfaafce0df79</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-messi-pisze-historie-argentynczyk-mundialowym-rekordzista-ws,nId,8091150">RMF24</source>
-    </item>
-    <item>
-      <title>Anthropic says Claude may want to see your ID</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f2ea0a1a1131</link>
-      <description>Claude&apos;s chatbot may ask to verify your age and identity &quot;in certain circumstances,&quot; such as with a passport or driver&apos;s license, according to a privacy policy change.</description>
-      <pubDate>Mon, 22 Jun 2026 18:05:13 GMT</pubDate>
-      <guid isPermaLink="false">f2ea0a1a1131</guid>
-      <source url="https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Steam Machine trafia do sprzedaży – padła ostateczna cena urządzenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c083dbf0a337</link>
-      <description>Gracze mogą wybierać spośród dwóch pojemności Steam Machine: 512 GB oraz 2 TB, z opcją dołożenia do zestawu dedykowanego Steam Controllera.</description>
-      <pubDate>Mon, 22 Jun 2026 18:02:23 GMT</pubDate>
-      <guid isPermaLink="false">c083dbf0a337</guid>
-      <source url="https://antyweb.pl/steam-machine-cena">Antyweb</source>
-    </item>
-    <item>
-      <title>Internet i abonament w jednym – ta oferta może zdetronizować konkurencję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9bf0a4063f34</link>
-      <description>Tak skonstruował swoją ofertę łączoną operator Premium Mobile, na pakiet abonamentu komórkowego i na internet mobilny.</description>
-      <pubDate>Mon, 22 Jun 2026 18:00:56 GMT</pubDate>
-      <guid isPermaLink="false">9bf0a4063f34</guid>
-      <source url="https://antyweb.pl/internet-i-abonament-do-telefonu">Antyweb</source>
-    </item>
-    <item>
-      <title>Bezprawne opłaty w szpitalach. Placówki z kontraktem NFZ wyciągały pieniądze od Polek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6601a752aa4</link>
-      <description>Zbyt długo pracujący lekarze, bezprawne pobieranie opłat, za wysoki odsetek cesarskich cięć i chaos organizacyjny - to tylko część nieprawidłowości ujawnionych w najnowszym raporcie NIK. Jak podkreślono, mimo ogólnej poprawy w opiece okołoporodowej, na wielu oddziałach dochodzi do niedopuszczalnych praktyk.</description>
-      <pubDate>Mon, 22 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d6601a752aa4</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Bezprawne-oplaty-w-szpitalach-Placowki-z-kontraktem-NFZ-wyciagaly-pieniadze-od-Polek-9155607.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>&quot;Gdy usilnie próbujesz zaprosić gościa&quot;. Przerwane wystąpienie szefa MSZ </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4f6b4fd718e0</link>
-      <description>Telefon zaskoczył Radosława Sikorskiego w trakcie wystąpienia. Wicepremier od razu zdradził, kto się do niego odezwał.</description>
-      <pubDate>Mon, 22 Jun 2026 17:56:48 GMT</pubDate>
-      <guid isPermaLink="false">4f6b4fd718e0</guid>
-      <source url="https://tvn24.pl/polska/gdy-usilnie-probujesz-zaprosic-goscia-przerwane-przemowienie-szefa-msz-radoslawa-sikorskiego-st9109034?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Rzucił niemowlęciem o podłogę. 27-latkowi grozi dożywocie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f1e234b14e9a</link>
-      <description>Od 10 do 30 lat pozbawienia wolności lub dożywocie - taka kara grozi 27-latkowi z jednej z miejscowości powiatu augustowskiego na Podlasiu za to, że rzucił swoim 6-miesięcznym dzieckiem o podłogę. Niemowlę od wielu dni przebywa w szpitalu. Prokuratura Okręgowa w Suwałkach poinformowała dzisiaj, że 27-latek został aresztowany na trzy miesiące.</description>
-      <pubDate>Mon, 22 Jun 2026 17:55:57 GMT</pubDate>
-      <guid isPermaLink="false">f1e234b14e9a</guid>
-      <source url="https://www.rmf24.pl/regiony/bialystok/news-rzucil-niemowleciem-o-podloge-27-latkowi-grozi-dozywocie,nId,8091149">RMF24</source>
-    </item>
-    <item>
-      <title>Uderzył piorun, pożar w ochronce dla dzieci</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba3b419a0bc0</link>
-      <description>Pożar ochronki w Grodzisku Dolnym w powiecie leżajskim. Ewakuowano dzieci i opiekunów. Strażacy wskazują na możliwe uderzenie pioruna.</description>
-      <pubDate>Mon, 22 Jun 2026 17:55:39 GMT</pubDate>
-      <guid isPermaLink="false">ba3b419a0bc0</guid>
-      <source url="https://tvn24.pl/rzeszow/grodzisk-dolny-pozar-ochronki-ewakuacja-dzieci-i-opiekunow-st9109067?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Iran studzi nastroje po rozmowach z USA. „Nie było nowych zobowiązań ws. programu nuklearnego”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/713f3cf05b97</link>
-      <description>Podczas niedzielnych rozmów z delegacją USA w Szwajcarii nie negocjowaliśmy w sprawie programu nuklearnego Iranu, nie podjęliśmy żadnych nowych zobowiązań - oświadczył w poniedziałek rzecznik irańskiego resortu dyplomacji Esmaeil Baghaei.</description>
-      <pubDate>Mon, 22 Jun 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="false">713f3cf05b97</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Iran-studzi-nastroje-po-rozmowach-z-USA-Nie-bylo-nowych-zobowiazan-ws-programu-nuklearnego-9155762.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Co nas czeka, zanim nastanie piekło. Prognoza pogody</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d70d25c4c17d</link>
-      <description>W nadchodzących dniach pogoda będzie taka, jaką kojarzymy z latem w Polsce. Potem słupki rtęci mogą powędrować do wartości, jakich na termometrach nie widujemy.</description>
-      <pubDate>Mon, 22 Jun 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="false">d70d25c4c17d</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/co-nas-czeka-zanim-nastanie-pieklo-prognoza-pogody-st9108609?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/edbeff6be6fd</link>
-      <description>At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards,</description>
-      <pubDate>Mon, 22 Jun 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="false">edbeff6be6fd</guid>
-      <source url="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Finding the Best Dog Treat with Statistics</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c547c649f9c6</link>
-      <description>I ran a pairwise-choice experiment on my Greyhound to rank his favorite treats, measure side bias, and accidentally turn bedtime snacks into a statistics problem.</description>
-      <pubDate>Mon, 22 Jun 2026 17:46:48 GMT</pubDate>
-      <guid isPermaLink="false">c547c649f9c6</guid>
-      <source url="https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Podrobiony paszport i nieudana próba ucieczki do Kanady przez Polskę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bda63e0f1ca5</link>
-      <description>Funkcjonariusze straży granicznej zatrzymali na Lotnisku Chopina mężczyznę, który podczas kontroli pokazał podrobiony brytyjski paszport. 30-latek trafił do ośrodka dla cudzoziemców.</description>
-      <pubDate>Mon, 22 Jun 2026 17:45:44 GMT</pubDate>
-      <guid isPermaLink="false">bda63e0f1ca5</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wlochy/warszawa-podrobiony-paszport-i-proba-ucieczki-do-kanady-na-lotnisku-chopina-st9109115?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Podszywają się pod ubezpieczycieli. Rzecznik ostrzega</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0cc1c1b2b671</link>
-      <description>W sieci pojawiły się fałszywe wiadomości e-mail informujące o rzekomym zwrocie składki ubezpieczeniowej, wysyłane w imieniu towarzystw ubezpieczeniowych - ostrzega w poniedziałek Rzecznik Finansowy. Kliknięcie w zamieszczony w wiadomości link prowadzi do spreparowanej strony internetowej, której celem jest wyłudzenie danych kart płatniczych.</description>
-      <pubDate>Mon, 22 Jun 2026 17:42:18 GMT</pubDate>
-      <guid isPermaLink="false">0cc1c1b2b671</guid>
-      <source url="https://tvn24.pl/biznes/tech/podszywaja-sie-pod-towarzystwa-ubezpieczeniowe-rzecznik-finansowy-ostrzega-st9109112?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ostre słowa pacjenta z ośrodka w Gostyninie. 23 czerwca sprawa trafi do Senatu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5993e5c75580</link>
-      <description>Senacka Komisja Petycji na najbliższym posiedzeniu zajmie się petycją wzywającą do całkowitego uchylenia ustawy o postępowaniu wobec osób uznawanych za szczególnie niebezpieczne. Jej autor przekonuje, że przepisy naruszają konstytucyjne prawa obywateli i prowadzą do bezprawnego pozbawiania wolności.</description>
-      <pubDate>Mon, 22 Jun 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">5993e5c75580</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Ostre-slowa-pacjenta-z-osrodka-w-Gostyninie-23-czerwca-sprawa-trafi-do-Senatu,285714,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>NASA’s Chandra Finds Possible Supernova Remnant</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac0867d6d1d6</link>
-      <description>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant – seen in this June 11, 2026, image – in an intriguing</description>
-      <pubDate>Mon, 22 Jun 2026 17:39:37 GMT</pubDate>
-      <guid isPermaLink="false">ac0867d6d1d6</guid>
-      <source url="https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Amazon is testing Alexa+ in India with Hindi support</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8bb7dc69ec75</link>
-      <description>Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.</description>
-      <pubDate>Mon, 22 Jun 2026 17:31:29 GMT</pubDate>
-      <guid isPermaLink="false">8bb7dc69ec75</guid>
-      <source url="https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Tego o Słońcu dotychczas nie wiedzieliśmy. LOFAR dostarcza nam istotnych danych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e557f8dd839c</link>
-      <description>LOFAR wykrył 613 par rozbłysków radiowych. Ich czterosekundowe echo odsłania gęstość i turbulencję plazmy oraz miejsca rekoneksji w koronie Słońca.</description>
-      <pubDate>Mon, 22 Jun 2026 17:30:06 GMT</pubDate>
-      <guid isPermaLink="false">e557f8dd839c</guid>
-      <source url="https://antyweb.pl/lofar-slonce-emisje">Antyweb</source>
+      <title>Eight in critical condition after train crash</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8cd9ba2a03a1</link>
+      <description>Over 100 needed hospital treatment as the transport secretary urges people not to speculate on the cause.</description>
+      <pubDate>Mon, 22 Jun 2026 18:18:29 GMT</pubDate>
+      <guid isPermaLink="false">8cd9ba2a03a1</guid>
+      <source url="https://www.bbc.com/news/articles/c4gy60gg6k5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
