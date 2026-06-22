@@ -1,0 +1,13 @@
+{
+  "id": "581f18f07b25",
+  "title": "Windows 11 sam zainstaluje ci pakiet aplikacji. Nawet nie musisz się zgadzać",
+  "originalTitle": "Windows 11 sam zainstaluje ci pakiet aplikacji. Nawet nie musisz się zgadzać",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/windows-11-sam-zainstaluje-ci-pakiet-aplikacji-nawet-nie-musisz-sie-zgadzac",
+  "publishedAt": "2026-06-22T09:15:04.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Microsoft po kilku obiecujących aktualizacjach, postanawia wrócić do starych nawyków integracji Copilota z dosłownie wszystkim. Teraz już nawet nie zapyta o zgodę, po prostu na twoim pulpicie pojawi się odpowiednia ikonka.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Microsoft znów robi swoje. Ledwo opadł kurz po fali krytyki za wciskanie Copilota na siłę, a firma z Redmond po cichu wraca do starych nawyków. Tym razem chodzi o aplikację Microsoft 365 Copilot, która sama trafi na twój komputer i to niezależnie od tego, czy tego chcesz, czy nie.</p>  <h2>Microsoft wymusi instalację programów</h2> <p>W aktualizacji panelu administracyjnego Microsoft przyznał, że od połowy czerwca do połowy lipca 2026 roku apka Copilot zostanie automatycznie zainstalowana na wszystkich „kwalifikujących się” urządzeniach z Windows i pakietem Microsoft 365. Nie musisz klikać „zgadzam się”, nie zobaczysz nawet żadnego okienka. Po prostu pewnego dnia ikonka Copilota wyląduje na pasku zadań, a wraz z nią kolejne punkty zaczepienia w Wordzie, Excelu, PowerPointzie i Outlooku. Jedynym wyjątekiem jest Europejski Obszar Gospodarczy, gdyż tu automatyczne instalacje nie mają wstępu.</p> <p>Co ciekawe, Microsoft nie używa do tego Sklepu Windows, a aplikacja wślizguje się przez aktualizator pakietu Office. Innymi słowy, kolejna aktualizacja biurowych narzędzi może przynieść niespodziewanego pasażera na gapę. Firma tłumaczy, że to „upraszcza dostęp do funkcji zwiększających produktywność”. Jednak dla użytkowników oznacza to raczej kolejny element do wyłączania.</p> <p>Na szczęście nie jesteśmy zupełnie bezbronni. Najprostsza metoda to ręczne wyłączenie Copilota w poszczególnych aplikacjach: Plik -&gt; Opcje -&gt; Copilot -&gt; odznacz „Włącz Copilot”. Minusem jest jednak to, że trzeba zrobić tę operację osobno dla Worda, Excela, PowerPointa i OneNote'a.</p> <p>Grafika:<a href=\"http://depositphotos.com/\"> depositphotos.com</a></p></div></div>",
+  "image": "images/8e8f85b69fa5.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

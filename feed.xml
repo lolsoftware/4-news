@@ -5,514 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 21 Jun 2026 21:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:20:19 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Anatomy of an AI-Native Org</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a9e769ee771e</link>
-      <description>For thirty years we were glorified translators — business asked why, product defined what, engineering translated to how. AI just ate the translation step. The anatomy of the team that&apos;s left looks nothing like the one you have today.</description>
-      <pubDate>Sun, 21 Jun 2026 21:34:19 GMT</pubDate>
-      <guid isPermaLink="false">a9e769ee771e</guid>
-      <source url="https://ajeygore.in/content/the-anatomy-of-an-ai-native-org">Hacker News</source>
+      <title>Handel dyplomami MBA w Collegium Humanum. Znany kardiolog miał kupić dyplom za ponad 10 tys. zł</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2d750e316ab7</link>
+      <description>Do wybuchu afery związanej z handlem dyplomami MBA w Collegium Humanum miało przyczynić się śledztwo dotyczące znanego lekarza Marka S. Były konsultant wojewódzki w dziedzinie kardiologii miał uzyskać dyplom MBA bez uczestnictwa w studiach, wpłacając ponad 10 tys. zł osobom związanym z procederem. Do transkrypcji rozmów nagranych przez CBA dotarła „Gazeta Wyborcza”.</description>
+      <pubDate>Mon, 22 Jun 2026 11:51:00 GMT</pubDate>
+      <guid isPermaLink="false">2d750e316ab7</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Handel-dyplomami-MBA-w-Collegium-Humanum-Znany-kardiolog-mial-kupic-dyplom-za-ponad-10-tys-zl,285707,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Apertus – Open Foundation Model for Sovereign AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d1f3fa6ce3a</link>
-      <description>Fully Open Foundation Model for Sovereign AI</description>
-      <pubDate>Sun, 21 Jun 2026 21:29:43 GMT</pubDate>
-      <guid isPermaLink="false">3d1f3fa6ce3a</guid>
-      <source url="https://apertvs.ai/">Hacker News</source>
+      <title>Posłanka Golbik o aferze w Szpitalu Południowym. Mówi, co ją zaskoczyło najbardziej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/83f68c14c635</link>
+      <description>W radiowej Trójce gościła posłanka KO Marta Golbik. Jak stwierdziła, afera w Szpitalu Południowym w Warszawie przyniosła wiele wniosków płynących z różnych poziomów nadzoru. - Tutaj mamy przypadek dwóch nadużyć w tym szpitalu - zaznaczyła.</description>
+      <pubDate>Mon, 22 Jun 2026 11:40:00 GMT</pubDate>
+      <guid isPermaLink="false">83f68c14c635</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Poslanka-Golbik-o-aferze-w-Szpitalu-Poludniowym-Mowi-co-ja-zaskoczylo-najbardziej,285711,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Everything Is Logarithms</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f1053550fbe3</link>
-      <description>Some connections between things, which I have not seen elsewhere. Maybe they mean something?</description>
-      <pubDate>Sun, 21 Jun 2026 21:10:32 GMT</pubDate>
-      <guid isPermaLink="false">f1053550fbe3</guid>
-      <source url="https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html">Hacker News</source>
+      <title>Pilna decyzja GIF. Lek na serce zanieczyszczony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cebd5110e6fc</link>
+      <description>Lek stosowany w leczeniu pacjentów z ciężką niewydolnością serca Levosimendan Farmak (levosimendanum) został wstrzymany w obrocie. Główny Inspektor Farmaceutyczny podjął tę decyzję z uwagi na wykryte zanieczyszczenia – produkt nie spełnił wymagań jakościowych.</description>
+      <pubDate>Mon, 22 Jun 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="false">cebd5110e6fc</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/Pilna-decyzja-GIF-Lek-na-serce-zanieczyszczony,285703,6.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Stop wasting tokens and re explaining your project between sessions</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/59bd03a59046</link>
-      <description>Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline. - raiyanyahya/recall</description>
-      <pubDate>Sun, 21 Jun 2026 21:05:37 GMT</pubDate>
-      <guid isPermaLink="false">59bd03a59046</guid>
-      <source url="https://github.com/raiyanyahya/recall">Hacker News</source>
+      <title>Nie mogą pracować zdalnie. Chcą specjalnego dodatku: 1,8% pensji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/92d0daa5376a</link>
+      <description>Nauczyciele z Wielkiej Brytanii wpadli na pomysł: chcą rekompensatę w postaci dodatku do pensji. Chodzi o wynagrodzenie za brak możliwości pracy zdalnej.</description>
+      <pubDate>Mon, 22 Jun 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="false">92d0daa5376a</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nie-moga-pracowac-zdalnie-Chca-specjalnego-dodatku-1-8-pensji,285505,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>PiS ma kandydata na RPO. &quot;Staniemy na uszach&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a3622fa9925d</link>
-      <description>Prawo i Sprawiedliwość zgłosi Adama Borowskiego jako kandydata na Rzecznika Praw Obywatelskich. Zapowiedział to prezes tej partii Jarosław Kaczyński.</description>
-      <pubDate>Sun, 21 Jun 2026 20:59:33 GMT</pubDate>
-      <guid isPermaLink="false">a3622fa9925d</guid>
-      <source url="https://www.rmf24.pl/polityka/news-pis-ma-kandydata-na-rpo-staniemy-na-uszach,nId,8091043">RMF24</source>
+      <title>Ewakuowano pacjentów i personel szpitala. Dogaszanie pożaru potrwa wiele godzin</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/372479446015</link>
+      <description>Pożar magazynu chemicznego we Włocławku wywołał ogromne zadymienie i akcję służb na dużą skalę. Ewakuowano 60 osób z pobliskiego szpitala, a Rządowe Centrum Bezpieczeństwa rozesłało pilny alert do mieszkańców. W płonącej hali znajdowały się tony żywic epoksydowych i setki kilogramów rozpuszczalników.</description>
+      <pubDate>Mon, 22 Jun 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="false">372479446015</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Ewakuowano-pacjentow-i-personel-szpitala-Dogaszanie-pozaru-potrwa-wiele-godzin,285715,15.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Zdrowe jelita i brzuch płaski jak deska. Pij raz w tygodniu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c92dd728edd9</link>
-      <description>Ten prosty napój przygotujesz w kilka minut, a jego działanie może pozytywnie wpłynąć na jelita, trawienie i poziom cholesterolu. Siemię lniane od lat uchodzi za naturalny sposób na wsparcie organizmu, jednak niewiele osób wie, ile można go bezpiecznie spożywać i jakie skutki daje nadmiar.</description>
-      <pubDate>Sun, 21 Jun 2026 20:30:00 GMT</pubDate>
-      <guid isPermaLink="false">c92dd728edd9</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zdrowe-jelita-i-brzuch-plaski-jak-deska-Pij-raz-w-tygodniu,285702,11.html">Rynek Zdrowia</source>
+      <title>64 toksyczne związki u jednej kobiety. Naukowcy alarmują: zmiany na całe życie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ed5f110a7177</link>
+      <description>Naukowcy wykryli w organizmach ciężarnych nawet 64 różne substancje chemiczne obecne w codziennym otoczeniu. Badanie pokazuje, że część z nich może zwiększać ryzyko wcześniejszego porodu i wpływać na masę urodzeniową dziecka. Eksperci ostrzegają, że kontakt z tymi związkami jest dziś niemal nieunikniony.</description>
+      <pubDate>Mon, 22 Jun 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="false">ed5f110a7177</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/64-toksyczne-zwiazki-u-jednej-kobiety-Naukowcy-alarmuja-zmiany-na-cale-zycie,285706,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Ask for no, don&apos;t ask for yes (2022)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b25893239c00</link>
-      <description>I think it is important to have a bias for action. Like anything else, this is something you can make a habit of. Moving forward allows you to make progress. I don’t know about you, but I’ve frozen up in the past not knowing what the right path was for me. Moving forward, even the smallest possible step, helped break that stasis.</description>
-      <pubDate>Sun, 21 Jun 2026 20:17:48 GMT</pubDate>
-      <guid isPermaLink="false">b25893239c00</guid>
-      <source url="https://www.mooreds.com/wordpress/archives/3518">Hacker News</source>
+      <title>Szpital tonie w długach, dyrektor zarabia krocie. 864 tys. zł dla kolejnego lekarza-radnego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc16f31f6a6f</link>
+      <description>864 tys. zł brutto wynagrodzenia - takie zarobki wykazał w swoim oświadczeniu majątkowym dyrektor szpitala w Tomaszowie Lubelskim Dariusz Gałecki, który jest jednocześnie radnym z ramienia PiS. To znacznie mniej niż lekarz i były już radny KO Dawid Kacprzyk. Pikanterii tej sprawie dodaje fakt, że placówka jest zadłużona na ponad 5 mln zł.</description>
+      <pubDate>Mon, 22 Jun 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="false">cc16f31f6a6f</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Szpital-tonie-w-dlugach-dyrektor-z-PiS-zarabia-krocie-864-tys-zl-dla-lekarza-radnego-PiS-9155336.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Zabronione nie tylko dla cukrzyków. Silnie obciążają wątrobę i trzustkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1c68b75e5465</link>
-      <description>Eksperci biją na alarm: nie tylko słodycze szkodzą. Niektóre popularne napoje, przekąski i produkty mięsne mogą utrudniać kontrolę glukozy i przyspieszać rozwój powikłań. Wiele z nich Polacy jedzą niemal codziennie.</description>
-      <pubDate>Sun, 21 Jun 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">1c68b75e5465</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zabronione-nie-tylko-dla-cukrzykow-Silnie-obciazaja-watrobe-i-trzustke,285701,11.html">Rynek Zdrowia</source>
+      <title>Ceny mieszkań w Polsce. Kupujący mają dość drożyzny, za to rośnie fala chętnych na sprzedaż</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/de33c9ec82c8</link>
+      <description>Od roku systematycznie spada odsetek osób deklarujących dobry moment na zakup nieruchomości – wynika z danych serwisu nieruchomosci-online.pl za II kw. 2026 r. Wraz ze spadkiem osób skłonnych do zakupu rośnie jednak odsetek osób deklarujących chęć sprzedaży mieszkania.</description>
+      <pubDate>Mon, 22 Jun 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="false">de33c9ec82c8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-Polsce-Kupujacy-maja-dosc-drozyzny-za-to-rosnie-fala-chetnych-na-sprzedaz-9155208.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Zełenski porównuje Nawrockiego do Orbana. &quot;To się źle skończy&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/24a849996e90</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski w rozmowie z dziennikarką nadawanego przez ukraińską telewizję programu TSN skomentował decyzję o odebraniu mu Orderu Orła Białego. Zarzucił polskiemu prezydentowi Karolowi Nawrockiemu, że - tak jak robił to były już premier Węgier Viktor Orban - podsyca nastroje antyukraińskie na potrzeby wewnętrznej polityki. &quot;To się źle skończy&quot; - ostrzegł.</description>
-      <pubDate>Sun, 21 Jun 2026 19:44:54 GMT</pubDate>
-      <guid isPermaLink="false">24a849996e90</guid>
-      <source url="https://www.rmf24.pl/polityka/news-zelenski-porownuje-nawrockiego-do-orbana-to-sie-zle-skonczy,nId,8091042">RMF24</source>
+      <title>8,9 mln wysłanych decyzji z ZUS. Lepiej sprawdź skrzynkę pocztową</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/de349c5ff39e</link>
+      <description>Blisko 8,9 mln emerytów i rencistów otrzymało ważną przesyłkę z ZUS. W jednej kopercie znalazły się decyzje o waloryzacji świadczeń oraz przyznaniu trzynastej emerytury. Seniorzy nie musieli składać żadnych wniosków, a część świadczeń wzrosła od marca o 5,3 proc.</description>
+      <pubDate>Mon, 22 Jun 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="false">de349c5ff39e</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/8-9-mln-wyslanych-decyzji-z-ZUS-Lepiej-sprawdz-skrzynke-pocztowa,285709,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Zrobili to. Koszykarze Legii Warszawa obronili tytuł mistrzów Polski</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c9d2322582bf</link>
-      <description>Koszykarze Legii Warszawa obronili tytuł mistrza Polski. W siódmym meczu finału play off pokonali u siebie Orlen Zastal Zielona Góra 78:70 zwyciężając w rywalizacji 4-3. To dziewiąty tryumf w historii stołecznej drużyny, który warszawscy koszykarze wywalczyli w 110-lecie klubu.</description>
-      <pubDate>Sun, 21 Jun 2026 19:35:23 GMT</pubDate>
-      <guid isPermaLink="false">c9d2322582bf</guid>
-      <source url="https://www.rmf24.pl/sport/news-zrobili-to-koszykarze-legii-warszawa-obronili-tytul-mistrzow,nId,8091041">RMF24</source>
+      <title>Są tanie i wartościowe. Dietetycy obalili popularny mit</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e01502645d3b</link>
+      <description>Eksperci zalecają spożywanie co najmniej 400 g warzyw i owoców dziennie. W praktyce wielu osobom trudno osiągnąć ten poziom. Dietetycy przypominają jednak, że do dziennego bilansu wliczają się nie tylko świeże produkty. Wartościowym uzupełnieniem diety mogą być także mrożonki, warzywa strączkowe z puszki czy owoce konserwowe.</description>
+      <pubDate>Mon, 22 Jun 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="false">e01502645d3b</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Sa-tanie-i-wartosciowe-Dietetycy-obalili-popularny-mit,285710,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Zakazany w Polsce. Ozdoba ogrodów i działek ma też ciemną stronę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1557b86883af</link>
-      <description>Łubin trwały co prawda wyróżnia się przepięknymi kwiatami, ale niestety jest zakazany, o czym wielu ogrodników amatorów nie wie. Wybieramy tę roślinę ze względu na długie kwiatostany pojawiające się od czerwca do września. Jednak zamiast łubiny warto postawić na inne, sprawdzone kwiaty ogrodowe.</description>
-      <pubDate>Sun, 21 Jun 2026 19:32:00 GMT</pubDate>
-      <guid isPermaLink="false">1557b86883af</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zakazany-w-Polsce-Ozdoba-ogrodow-i-dzialek-ma-tez-ciemna-strone,285590,11.html">Rynek Zdrowia</source>
+      <title>Czy to koniec tanich linii lotniczych? Ceny biletów mogą już nie wrócić do dawnych poziomów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f6457d81d7a1</link>
+      <description>W USA model taniego latania znalazł się pod największą presją od lat. Upadek Spirit Airlines, rosnące koszty paliwa i mocne wyniki przewoźników premium pokazują, że sama niska cena biletu może już nie wystarczyć.</description>
+      <pubDate>Mon, 22 Jun 2026 10:10:06 GMT</pubDate>
+      <guid isPermaLink="false">f6457d81d7a1</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/czy-to-koniec-tanich-linii-lotniczych-nadchodzi-drozsza-era-podrozowania-st9107922?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Lamine Yamal shows why this could be his World Cup</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d398bbfbce81</link>
-      <description>Spain looked an instantly better team with Lamine Yamal in the side, with the 18-year-old showing why this could be his World Cup.</description>
-      <pubDate>Sun, 21 Jun 2026 19:27:01 GMT</pubDate>
-      <guid isPermaLink="false">d398bbfbce81</guid>
-      <source url="https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Zełenski odesłał Order Orła Białego. &quot;Przed proponowałem Nawrockiemu spotkanie&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a3dbac4cb038</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski oświadczył, że przed odesłaniem Orderu Orła Białego do Kancelarii Prezydenta RP, przedstawiciele Ukrainy próbowali załagodzić spór i wyjaśnić stanowisko Kijowa. Zełenski również miał proponować spotkanie i wspólną konferencję prezydentowi Karolowi Nawrockiemu.</description>
+      <pubDate>Mon, 22 Jun 2026 10:06:00 GMT</pubDate>
+      <guid isPermaLink="false">a3dbac4cb038</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zelenski-odeslal-Order-Orla-Bialego-Przed-proponowalem-Nawrockiemu-spotkanie-9155346.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Rada Przedsiębiorczości apeluje do władz Polski i Ukrainy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f7ac2b0b3d01</link>
-      <description>Nie słabną napięcia między Polską a Ukrainą. W związku z tym Rada Przedsiębiorczości apeluje do polityków o &quot;dialog i współpracę&quot;. &quot;Blisko milion ukraińskich pracowników i przedsiębiorców stanowi integralną część polskiego systemu gospodarczego, a Polska jest dziś najważniejszym partnerem handlowym Ukrainy. Tego kapitału zaufania nie wolno zmarnować&quot; - podkreślają. Apel przedsiębiorców skomentował w &quot;Faktach po Faktach&quot; minister energii Miłosz Motyka.</description>
-      <pubDate>Sun, 21 Jun 2026 19:18:24 GMT</pubDate>
-      <guid isPermaLink="false">f7ac2b0b3d01</guid>
-      <source url="https://tvn24.pl/polska/rada-przedsiebiorczosci-apeluje-do-wladz-polski-i-ukrainy-st9107365?source=rss">TVN24</source>
+      <title>Wtorek na stacjach paliw. Nowe obwieszczenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/81fe8612396c</link>
+      <description>We wtorek, 23 czerwca, będą obowiązywały nowe maksymalne ceny paliw. Zgodnie z dzisiejszym obwieszczeniem ministra energii benzyna będzie droższa niż w poniedziałek, natomiast za olej napędowy zapłacimy mniej.</description>
+      <pubDate>Mon, 22 Jun 2026 10:03:22 GMT</pubDate>
+      <guid isPermaLink="false">81fe8612396c</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/ceny-paliw-we-wtorek-23-czerwca-jaka-bedzie-cena-benzyny-pb95-pb98-i-oleju-napedowego-st9107639?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Wowcher sorry for &apos;unacceptable&apos; crocodile attack email</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da7df11c3f37</link>
-      <description>The firm&apos;s marketing email appeared to reference an incident involving a toddler at a zoo.</description>
-      <pubDate>Sun, 21 Jun 2026 19:12:32 GMT</pubDate>
-      <guid isPermaLink="false">da7df11c3f37</guid>
-      <source url="https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Tych oficjalnych zestawów w sklepie LEGO nie kupisz. Jak je zdobyć?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/46599a2b8af4</link>
+      <description>BrickLink przedstawia 5 zestawów stworzonych przez fanów, które mają szansę trafić do produkcji w oficjalnych fabrykach LEGO. Oto one!</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:07 GMT</pubDate>
+      <guid isPermaLink="false">46599a2b8af4</guid>
+      <source url="https://antyweb.pl/tych-oficjalnych-zestawow-w-sklepie-lego-nie-kupisz-jak-je-zdobyc">Antyweb</source>
     </item>
     <item>
-      <title>Show HN: CleverCrow: give tokens to your favorite projects</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/36c4c05fe5cc</link>
-      <description>Flip the script on AI slop. Direct your own agent, funded by the community who cares about your project. You approve the plan, review the diff, merge on your terms.</description>
-      <pubDate>Sun, 21 Jun 2026 19:06:07 GMT</pubDate>
-      <guid isPermaLink="false">36c4c05fe5cc</guid>
-      <source url="https://clevercrow.io/">Hacker News</source>
+      <title>Chirurg ze Szpitala Południowego chciał za darmo działkę na prywatną lecznicę. W tle afery Robert Lewandowski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bbbae165c29b</link>
+      <description>Według ujawnionych informacji, do których dotała Gazeta Wyborcza - chirurg Emil Jędrzejewski, sygnalista, który ujawnił nieprawidłowości w Szpitalu Południowym, może nie być bezstronny w sprawie. W 2018 roku chciał, aby miasto przekazało mu za darmo działkę na prywatną lecznicę, a inwestycję tę miał firmować piłkarz Robert Lewandowski.</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bbbae165c29b</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Chirurg-ze-Szpitala-Poludniowego-chcial-za-darmo-dzialke-na-prywatna-lecznice-W-tle-afery-Robert-Lewandowski,285704,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Modele AI nie halucynują. Jeśli już, to konfabulują</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa97edb4030a</link>
-      <description>Obawy o to, co stanie się, jeśli systemy sztucznej inteligencji stałyby się świadome, są naturalne. Są raczej projekcją naszego własnego sposobu myślenia, niż faktycznych możliwości AI - mówi RMF FM neurobiolog z Uniwersytetu Sussex Anil Seth. Gość niedawnego Copernicus Festival w Krakowie przyznaje, że wraz z rozwojem AI stajemy przed nowym zestawem zagrożeń i możliwości. W rozmowie z Grzegorzem Jasińskim  podkreśla, że nie powinno się mówić o modelach sztucznej inteligencji, że halucynują. Jego zdaniem, jeśli piszą bzdury, to po prostu konfabulują.</description>
-      <pubDate>Sun, 21 Jun 2026 19:03:00 GMT</pubDate>
-      <guid isPermaLink="false">aa97edb4030a</guid>
-      <source url="https://www.rmf24.pl/nauka/news-modele-ai-nie-halucynuja-jesli-juz-to-konfabuluja,nId,8090919">RMF24</source>
+      <title>Brutalny atak w Zabrzu. &quot;Pocisk zatrzymał się centymetr od oka&quot; [NAGRANIE]</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ed411e9cbe2</link>
+      <description>W Zabrzu doszło do brutalnego ataku na młodego mężczyznę. 20-latek pobił i postrzelił 21-latka z broni pneumatycznej, a jeden z pocisków zatrzymał się zaledwie centymetr od jego oka. Policja zatrzymała sprawcę, który trafił do aresztu. Śledczy badają okoliczności zdarzenia</description>
+      <pubDate>Mon, 22 Jun 2026 09:54:12 GMT</pubDate>
+      <guid isPermaLink="false">6ed411e9cbe2</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-brutalny-atak-w-zabrzu-pocisk-zatrzymal-sie-centymetr-od-oka,nId,8091089">RMF24</source>
     </item>
     <item>
-      <title>Rewelacyjne wyniki badań. Uczestnicy przez rok pili go codziennie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/814f10cc2535</link>
-      <description>Codziennie piją go miliony osób, ale niewielu wie, że może obniżać ciśnienie krwi i poziom „złego” cholesterolu. Japońscy naukowcy wykazali, że regularne picie niesolonego soku pomidorowego wspiera serce, a dodatkowo może chronić wątrobę przed uszkodzeniami. To jeden z najprostszych sposobów na dostarczenie organizmowi cennych przeciwutleniaczy.</description>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">814f10cc2535</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Rewelacyjne-wyniki-badan-Uczestnicy-przez-rok-pili-go-codziennie,285700,11.html">Rynek Zdrowia</source>
+      <title>&quot;Proponowałem Nawrockiemu spotkanie&quot;. Zełenski o kulisach odebrania mu Orderu Orła Białego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7486380dc59d</link>
+      <description>Przedstawiciele Ukrainy próbowali załagodzić spór i wyjaśnić stanowisko Kijowa - tak mówi prezydent Wołodymyr Zełenski o tym, co działo się przed odebraniem mu Orderu Orła Białego. Prezydent Ukrainy miał również proponować spotkanie i wspólną konferencję prezydentowi Karolowi Nawrockiemu.</description>
+      <pubDate>Mon, 22 Jun 2026 09:52:44 GMT</pubDate>
+      <guid isPermaLink="false">7486380dc59d</guid>
+      <source url="https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-proponowalem-nawrockiemu-spotkanie-zelenski-o-kulisach-odebr,nId,8091088">RMF24</source>
     </item>
     <item>
-      <title> Trump zagroził Iranowi kolejnymi atakami, jeśli ten nie powstrzyma Hezbollahu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/38fe2fb12d1e</link>
-      <description>Prezydent USA Donald Trump zagroził w niedzielę, że powróci do ataków na Iran, jeśli kraj ten nie powstrzyma Hezbollahu. Groźba została wystosowana w sytuacji, kiedy w Szwajcarii trwa spotkanie delegacji USA i Iranu.</description>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">38fe2fb12d1e</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-zagrozil-Iranowi-kolejnymi-atakami-jesli-ten-nie-powstrzyma-Hezbollahu-9155094.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Keir Starmer zrezygnuje ze stanowiska premiera. &quot;Rozmawiałem dziś rano z królem&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/63fba6fec2ac</link>
+      <description>Premier Wielkiej Brytanii Keir Starmer zapowiedział w poniedziałek na Downing Street, że zrezygnuje ze stanowiska. Ogłosił, że pozostanie liderem Partii Pracy i szefem rządu do czasu wyłonienia jego następcy.</description>
+      <pubDate>Mon, 22 Jun 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="false">63fba6fec2ac</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Keir-Starmer-zrezygnuje-ze-stanowiska-premiera-Rozmawialem-dzis-rano-z-krolem-9155334.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Trump poprosił, abyśmy &quot;rozpoczęli nowy rozdział&quot; w relacjach z Iranem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/70d6f6d078e2</link>
-      <description>Prezydent USA Donald Trump poprosił, abyśmy „rozpoczęli nowy rozdział” w relacjach z Iranem - powiedział w niedzielę wiceprezydent USA J.D. Vance, który bierze udział w rozmowach technicznych delegacji Stanów Zjednoczonych i Iranu w kurorcie Buergenstock w Szwajcarii.</description>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">70d6f6d078e2</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-poprosil-abysmy-rozpoczeli-nowy-rozdzial-w-relacjach-z-Iranem-9155089.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Wielka fuzja zbrojeniowa w Poznaniu. &quot;To historyczny moment&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dda581f45b78</link>
+      <description>Polska Grupa Zbrojeniowa, Agencja Rozwoju Przemysłu oraz resort aktywów państwowych podpisały list intencyjny w sprawie utworzenia Wielkopolskich Zakładów Pancernych Hipolita Cegielskiego. - Otwieramy nowy rozdział dla Poznania, tworzymy perspektywę rozwoju, dajemy gwarancję miejsc pracy - powiedział minister aktywów państwowych Wojciech Balczun.</description>
+      <pubDate>Mon, 22 Jun 2026 09:48:44 GMT</pubDate>
+      <guid isPermaLink="false">dda581f45b78</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/wielkopolskie-zaklady-pancerne-hipolita-cegielskiego-wielka-fuzja-zbrojeniowa-w-poznaniu-to-historyczny-moment-st9107916?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Tusk gasi &quot;pożar&quot; Nawrockiego? &quot;Staram się minimalizować straty i obniżać napięcie&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa6c1ae25b4c</link>
-      <description>Brnięcie w konflikt polityków w Polsce i w Ukrainie to strategiczny błąd, na którym stracą obie strony - ocenił w niedzielę premier Donald Tusk. Szef rządu dodał, że w rozmowach z europejskimi partnerami stara się minimalizować straty i obniżać napięcie, co nie jest to łatwym zadaniem.</description>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">aa6c1ae25b4c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Tusk-gasi-pozar-Nawrockiego-Staram-sie-minimalizowac-straty-i-obnizac-napiecie-9155087.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Sturgeon and Gove to team up for reality TV &apos;wargame&apos; </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a4a9df1274a0</link>
+      <description>The former first minister is to serve as deputy prime minister in a simulation of a Russian attack on the UK.</description>
+      <pubDate>Mon, 22 Jun 2026 09:47:53 GMT</pubDate>
+      <guid isPermaLink="false">a4a9df1274a0</guid>
+      <source url="https://www.bbc.com/news/articles/cq6188775g5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Trump: Starmer poda się do dymisji, poniósł porażkę w sprawach imigracji i energetyki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/44912e243b13</link>
-      <description>Prezydent USA Donald Trump powiedział w niedzielę, że premier Wielkiej Brytanii Keir Starmer odejdzie ze stanowiska szefa rządu. Ocenił przy tym, że Starmer poniósł porażkę w kwestii imigracji i energetyki.</description>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">44912e243b13</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-Starmer-poda-sie-do-dymisji-poniosl-porazke-w-sprawach-imigracji-i-energetyki-9155097.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Three dead in Philippines high school shooting over bullying &apos;grudge&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/06777d4e2672</link>
+      <description>Police say they believe the attack was motivated by a &quot;grudge&quot; over bullying.</description>
+      <pubDate>Mon, 22 Jun 2026 09:45:52 GMT</pubDate>
+      <guid isPermaLink="false">06777d4e2672</guid>
+      <source url="https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Serena Williams to make singles comeback at Wimbledon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3647385a5d9a</link>
-      <description>Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.</description>
-      <pubDate>Sun, 21 Jun 2026 18:51:57 GMT</pubDate>
-      <guid isPermaLink="false">3647385a5d9a</guid>
-      <source url="https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Już czwarty dzień trwa obława na nożownika. &quot;Ciosów było co najmniej kilka&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/32584640c2aa</link>
+      <description>Policjanci kolejny dzień szukają Dariusza Równickiego podejrzanego o zamordowanie w Mierzawie 80-letniego teścia i ciężkie zranienie 76-letniej teściowej. &quot;Przyjmujemy, że mężczyzna jest na terenie powiatu jędrzejowskiego. Nie możemy też wykluczyć, że się przemieszcza, więc obszar poszukiwań cały czas się zmienia&quot; - poinformował nas mł. insp. Kamil Tokarski z kieleckiej policji. Jak podaje prokuratura, zarówno 80-latek, jak i jego żona otrzymali po &quot;co najmniej kilka&quot; ciosów nożem. 49-latek ma już zarzuty.</description>
+      <pubDate>Mon, 22 Jun 2026 09:45:45 GMT</pubDate>
+      <guid isPermaLink="false">32584640c2aa</guid>
+      <source url="https://tvn24.pl/kielce/mierzawa-czwarty-dzien-oblawy-na-nozownika-ciosow-bylo-co-najmniej-kilka-st9107680?source=rss">TVN24</source>
     </item>
     <item>
-      <title>JSON-LD Explained for Personal Websites</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8e195a9e8c2c</link>
-      <description>A guide to implementing JSON-LD on your personal website for better SEO, covering WebSite, Person, BlogPosting, and more with ready-to-use code snippets.</description>
-      <pubDate>Sun, 21 Jun 2026 18:51:47 GMT</pubDate>
-      <guid isPermaLink="false">8e195a9e8c2c</guid>
-      <source url="https://hawksley.dev/blog/json-ld-explained-for-personal-websites/">Hacker News</source>
+      <title>Hit science fiction zaraz w streamingu. Nie widzieliście? Koniecznie trzeba nadrobić!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a537fa579e2</link>
+      <description>Wielki hit science fiction nareszcie trafi do streamingu. Studio podało kiedy każdy, kto przegapił wypad do kina, będzie mógł nadrobić zaległości.</description>
+      <pubDate>Mon, 22 Jun 2026 09:45:40 GMT</pubDate>
+      <guid isPermaLink="false">8a537fa579e2</guid>
+      <source url="https://antyweb.pl/hit-science-fiction-zaraz-w-streamingu-nie-widzieliscie-koniecznie-trzeba-nadrobic">Antyweb</source>
     </item>
     <item>
-      <title>Dosadna odpowiedź na złośliwości Zełenskiego. &quot;Trzy lata temu nie narzekał&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/44e902cd5fab</link>
-      <description>Minister w Kancelarii Prezydenta RP Agnieszka Jędrzak stanowczo odpowiedziała na złośliwości zawarte w sobotnim oświadczeniu Wołodymyra Zełenskiego. Informując o odesłaniu do Polski Orderu Orła Białego ukraiński prezydent przypomniał, że najwyższego polskiego odznaczenia nie odebrano takim postaciom jak Benito Mussolini, Katarzyna II i Gerhard Schröder.</description>
-      <pubDate>Sun, 21 Jun 2026 18:50:52 GMT</pubDate>
-      <guid isPermaLink="false">44e902cd5fab</guid>
-      <source url="https://www.rmf24.pl/polityka/news-dosadna-odpowiedz-na-zlosliwosci-zelenskiego-trzy-lata-temu-,nId,8091040">RMF24</source>
+      <title>Deloitte wybrał najlepiej zarządzane firmy prywatne w Polsce </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9001ae5bf55a</link>
+      <description>Deloitte wyłonił tegorocznych finalistów plebiscytu Best Managed Companies Poland. -  Uczestnicy coraz świadomiej budują struktury, procesy i kompetencje potrzebne do ekspansji zagranicznej czy sukcesji - oceniła Iva Georgijew, partnerka w Deloitte Polska i przewodnicząca rady nadzorczej Deloitte Central Europe.</description>
+      <pubDate>Mon, 22 Jun 2026 09:45:02 GMT</pubDate>
+      <guid isPermaLink="false">9001ae5bf55a</guid>
+      <source url="https://tvn24.pl/biznes/dlafirm/deloitte-laureaci-best-managed-companies-poland-2026-st9107675?source=rss">TVN24</source>
     </item>
     <item>
-      <title>&quot;Poważny kryzys&quot;, &quot;postępująca eskalacja&quot;. Miłosz Motyka o odebraniu orderu Wołodymyrowi Zełenskiemu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ec66c8d47bc</link>
-      <description>Minister energii i polityk PSL Miłosz Motyka uważa, że odebranie Wołodymyrowi Zełenskiemu Orderu Orła Białego było decyzją &quot;na rynek wewnętrzny&quot; i dla niego zrozumiałą. - Choć uważam, że dyplomatycznie można było tę sprawę inaczej rozegrać - zastrzegł w &quot;Faktach po Faktach&quot; TVN24.</description>
-      <pubDate>Sun, 21 Jun 2026 18:35:49 GMT</pubDate>
-      <guid isPermaLink="false">7ec66c8d47bc</guid>
-      <source url="https://tvn24.pl/polska/powazny-kryzys-postepujaca-eskalacja-milosz-motyka-o-odebraniu-orderu-wolodymyrowi-zelenskiemu-st9107342?source=rss">TVN24</source>
+      <title>Ogromne różnice w ZUS. Wzrosła liczba bardzo niskich i wysokich emerytur</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ced045fca98</link>
+      <description>Po tegorocznej waloryzacji wzrosła liczba osób pobierających bardzo niskie świadczenia emerytalne - podał ZUS w analizie rozkładu wypłaty świadczeń po marcowej waloryzacji.</description>
+      <pubDate>Mon, 22 Jun 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="false">6ced045fca98</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ogromne-roznice-w-ZUS-Wzrosla-liczba-bardzo-niskich-i-wysokich-emerytur-9155324.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Ubisoft co-founder Claude Guillemot dies in plane crash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8cc0a4fce02</link>
-      <description>Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.</description>
-      <pubDate>Sun, 21 Jun 2026 18:34:31 GMT</pubDate>
-      <guid isPermaLink="false">f8cc0a4fce02</guid>
-      <source url="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/">TechCrunch</source>
+      <title>Napięcie w relacjach polsko-ukraińskich. Adamski o &quot;wstrząsie dla bardzo wielu Polaków&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c0bbff9c2f0</link>
+      <description>Deeskalacja relacji polsko-ukraińskich jest możliwa, natomiast nie sądzę, żeby była możliwa do tego poziomu, który był dwa lata temu - ocenił w TVN24 doktor Łukasz Adamski. Mówił o tym, kto traci w sporze dotyczącym Orderu Orła Białego Wołodymyra Zełenskiego.</description>
+      <pubDate>Mon, 22 Jun 2026 09:39:14 GMT</pubDate>
+      <guid isPermaLink="false">1c0bbff9c2f0</guid>
+      <source url="https://tvn24.pl/polska/sprawa-orderu-wolodymyra-zelenskiego-lukasz-adamski-o-relacjach-polsko-ukrainskich-st9107658?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Udana rehabilitacja Hiszpanów. Rozbili Arabię Saudyjską</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2412854d57de</link>
-      <description>Piłkarze reprezentacji Hiszpanii rozbili Arabię Saudyjską 4:0 w meczu drugiej kolejki grupy H mistrzostw świata rozgrywanych w USA, Kanadzie i Meksyku. W drugim spotkaniu tej grupy Urugwaj zmierzy się z Republiką Zielonego Przylądka.</description>
-      <pubDate>Sun, 21 Jun 2026 18:31:39 GMT</pubDate>
-      <guid isPermaLink="false">2412854d57de</guid>
-      <source url="https://www.rmf24.pl/sport/pilka-nozna/news-udana-rehabilitacja-hiszpanow-rozbili-arabie-saudyjska,nId,8091039">RMF24</source>
+      <title>Putin wypchnął Brytyjczyków z UE? Szokujące kulisy &quot;Londongradu&quot; i armii botów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1387c508b36</link>
+      <description>W kampanii, jaka poprzedziła referendum w sprawie wyjścia Wielkiej Brytanii z Unii Europejskiej, Rosja wykorzystywała boty i swoje media państwowe, by wpływać na brytyjską opinię publiczną. We wtorek minie 10 lat od plebiscytu, który zdecydował o wyjściu Zjednoczonego Królestwa ze Wspólnoty.</description>
+      <pubDate>Mon, 22 Jun 2026 09:39:00 GMT</pubDate>
+      <guid isPermaLink="false">f1387c508b36</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Putin-wypchnal-Brytyjczykow-z-UE-Szokujace-kulisy-Londongradu-i-armii-botow-9155323.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Sprawdź w domu. Stary dokument zapewnia wyższą emeryturę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1bf4085a28aa</link>
-      <description>Masz w domu stary zielony dowód osobisty lub legitymację ubezpieczeniową? ZUS przypomina, że takie dokumenty mogą pomóc w podwyższeniu emerytury nawet po latach. Wystarczy odnaleźć potwierdzenie zatrudnienia lub zarobków sprzed 1999 roku i złożyć odpowiedni wniosek o ponowne przeliczenie świadczenia.</description>
-      <pubDate>Sun, 21 Jun 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="false">1bf4085a28aa</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Sprawdz-w-domu-Stary-dokument-zapewnia-wyzsza-emeryture,285699,1.html">Rynek Zdrowia</source>
+      <title>Groził śmiercią, w rękach trzymał noże. Nagranie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0b78088d94ce</link>
+      <description>Policjanci z Choszczna zatrzymali obywatela Kuby, który groził śmiercią dwóm osobom. 35-latek trzymał w dłoniach noże kuchenne. Mężczyzna usłyszał zarzuty. Decyzją sądu trafił na dwa miesiące do aresztu.</description>
+      <pubDate>Mon, 22 Jun 2026 09:30:26 GMT</pubDate>
+      <guid isPermaLink="false">0b78088d94ce</guid>
+      <source url="https://tvn24.pl/szczecin/choszczno-grozil-smiercia-w-rekach-trzymal-noze-kuchenne-nagranie-st9107684?source=rss">TVN24</source>
     </item>
     <item>
-      <title>W Polsce nadal jemy na potęgę. Kolejne kraje zaostrzają przepisy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/06e6d241e560</link>
-      <description>Łosoś uchodzi za jedno z najzdrowszych źródeł kwasów omega-3, jednak coraz częściej pojawiają się pytania o jakość ryb pochodzących z przemysłowych hodowli. Eksperci zwracają uwagę na stosowanie środków przeciwpasożytniczych, wysokie zagęszczenie ryb oraz wpływ farm na środowisko. W niektórych regionach świata wprowadzono już ograniczenia lub zakazy dotyczące hodowli łososia w otwartych klatkach morskich.</description>
-      <pubDate>Sun, 21 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">06e6d241e560</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/W-Polsce-nadal-jemy-na-potege-Kolejne-kraje-zaostrzaja-przepisy,285696,11.html">Rynek Zdrowia</source>
+      <title>Paedophile nursery worker could have been stopped sooner, says former colleague</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6c226f0f3c14</link>
+      <description>Staff member who raised concerns about nursery worker Nathan Bennett was &quot;ignored&quot; for months.</description>
+      <pubDate>Mon, 22 Jun 2026 09:24:12 GMT</pubDate>
+      <guid isPermaLink="false">6c226f0f3c14</guid>
+      <source url="https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Ten sam lekarz, ta sama praca, inna ochrona. Prawnik punktuje projekt MZ</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3a439c5f4603</link>
-      <description>Nowelizując ustawę o zawodach lekarza i lekarza dentysty Ministerstwo Zdrowia nie zdecydowało się uporządkować niespójne przepisy dotyczące ochrony prawnej medyków. - Dzisiaj państwo mierzy bezpieczeństwo lekarza nie przez ryzyko jego pracy ani wartość życia pacjenta, ale przez… pochodzenie środków płatniczych - wskazuje mec. Beniamin Kołodziej.</description>
-      <pubDate>Sun, 21 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">3a439c5f4603</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Ten-sam-lekarz-ta-sama-praca-inna-ochrona-Prawnik-punktuje-projekt-MZ,285698,2.html">Rynek Zdrowia</source>
+      <title>Dolar najdroższy od marca. Rynek stawia na podwyżki stóp w Fedzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/48478ea850f8</link>
+      <description>Nasilające się oczekiwania na zaostrzenie polityki monetarnej Rezerwy Federalnej umocniły dolara względem euro. Osłabił się także polski złoty.</description>
+      <pubDate>Mon, 22 Jun 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="false">48478ea850f8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Dolar-najdrozszy-od-marca-Rynek-stawia-na-podwyzki-stop-w-Fedzie-9155310.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>&quot;Powinni liczyć się ze słowami&quot;. Iran reaguje na groźby Trumpa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac32697a5a8b</link>
-      <description>Szef irańskiego parlamentu i główny negocjator w rozmowach technicznych z USA w Szwajcarii Mohammad Bagher Ghalibaf odpowiada na słowa Donalda Trumpa.</description>
-      <pubDate>Sun, 21 Jun 2026 17:50:05 GMT</pubDate>
-      <guid isPermaLink="false">ac32697a5a8b</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izraelzaatakowalkonwoj/raportizraelzaatakowalnajnowszefakty/news-powinni-liczyc-sie-ze-slowami-iran-reaguje-na-grozby-trumpa,nId,8091038">RMF24</source>
+      <title>Pies wbiegł na posesję i zagryzł chihuahuę. Sprawa trafi do sądu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3cf175bc9869</link>
+      <description>Duży pies wbiegł na posesję w Nowym Dworze (woj. dolnośląskie) i zagryzł małego chihuahuę. Sprawa trafiła na policję, właściciel zwierzęcia ma odpowiadać przed sądem. Do urzędu zaś wpłynęła petycja od mieszkańców w sprawie innych podobnych zdarzeń. Pierwszą informację i film ze zdarzenia otrzymaliśmy na Kontakt24.</description>
+      <pubDate>Mon, 22 Jun 2026 09:21:50 GMT</pubDate>
+      <guid isPermaLink="false">3cf175bc9869</guid>
+      <source url="https://tvn24.pl/wroclaw/nowy-dwor-pies-wbiegl-na-posesje-i-zagryzl-chihuahue-sprawa-trafi-do-sadu-st9107666?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Trump admin’s coal investments assist plants with repeated violations</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3a9babe40c77</link>
-      <description>At least three coal plants have been repeatedly cited for violating environmental regulations.</description>
-      <pubDate>Sun, 21 Jun 2026 17:49:35 GMT</pubDate>
-      <guid isPermaLink="false">3a9babe40c77</guid>
-      <source url="https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/">Ars Technica</source>
+      <title>Nie wrócili na czas. TOPR ruszył nocą do jaskini</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/30b5492087aa</link>
+      <description>Czterech tatrzańskich grotołazów potrzebowało pomocy w ostatni weekend. Ratownicy wyruszyli po nich, gdy przekroczona została tzw. godzina alarmowa.</description>
+      <pubDate>Mon, 22 Jun 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="false">30b5492087aa</guid>
+      <source url="https://www.rmf24.pl/regiony/zakopane/news-nie-wrocili-na-czas-topr-ruszyl-noca-do-jaskini,nId,8091083">RMF24</source>
     </item>
     <item>
-      <title>Dziurawi jelita, skraca drogę do cukrzycy. Producenci wciąż dodają na potęgę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0191726bdd9a</link>
-      <description>Znajdziesz go w jogurtach, lodach, napojach roślinnych i wielu produktach fit. Naukowcy alarmują, że popularny dodatek do żywności oznaczany symbolem E407 może zaburzać pracę jelit i zwiększać ryzyko problemów metabolicznych. Najnowsze badania wskazują również na możliwy związek karagenu ze stanami zapalnymi i cukrzycą typu 2.</description>
-      <pubDate>Sun, 21 Jun 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">0191726bdd9a</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Dziurawi-jelita-skraca-droge-do-cukrzycy-Producenci-wciaz-dodaja-na-potege,285695,11.html">Rynek Zdrowia</source>
+      <title>Tego urlopu pracodawca nie może odmówić. Jest jeden warunek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e54697a52b14</link>
+      <description>Pracodawca zwykle może decydować o terminie urlopu, ale w jednym przypadku odmowa nie wchodzi w grę. Wyjątkiem jest sytuacja, gdy urlop wypoczynkowy ma rozpocząć się bezpośrednio po zakończeniu urlopu macierzyńskiego lub rodzicielskiego.</description>
+      <pubDate>Mon, 22 Jun 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="false">e54697a52b14</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Tego-urlopu-pracodawca-nie-moze-odmowic-Jest-jeden-warunek,285593,2.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Zarobki lekarzy, bon senioralny i leczenie uzależnień. Ważne ustawy na posiedzeniu Senatu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/45ea66fa8cb4</link>
-      <description>Senacka Komisja Zdrowia zajmie się 23 czerwca ustawą umożliwiającą AOTMiT zbieranie danych o zarobkach medyków po numerze PESEL. Wiele wskazuje, że jeszcze podczas czerwcowego posiedzenia Senatu odbędzie się też głosowanie nad przepisami. Ponadto senatorowie głosować będą m.in. wprowadzenie bonu senioralnego i ustawę o statusie osoby najbliższej w związku.</description>
-      <pubDate>Sun, 21 Jun 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">45ea66fa8cb4</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Zarobki-lekarzy-bon-senioralny-i-leczenie-uzaleznien-Wazne-ustawy-na-posiedzeniu-Senatu,285697,2.html">Rynek Zdrowia</source>
+      <title>Para złamała tradycję na jedynej takiej plaży w Europie. &quot;Żyjecie w średniowieczu&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aac91906d224</link>
+      <description>Para turystów wdała się w sprzeczkę na plaży, gdy zwrócono im uwagę, że zgodnie z tradycją powinni się rozdzielić i znaleźć po dwóch stronach muru. Po ostrej wymianie zdań doszło do przepychanek. Według włoskich dzienników miejsce to jest dla lokalnej społeczności &quot;nietykalne&quot;.</description>
+      <pubDate>Mon, 22 Jun 2026 09:18:55 GMT</pubDate>
+      <guid isPermaLink="false">aac91906d224</guid>
+      <source url="https://tvn24.pl/swiat/triest-para-zlamala-tradycje-na-jedynej-plazy-podzielonej-murem-st9107605?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cfb40e9ff89a</link>
-      <description>At the largest ACA Marketplace insurers, in-network claim denial rates ran from 13% to 35% in 2024, and the 2 highest denied about 1 in 3 claims.</description>
-      <pubDate>Sun, 21 Jun 2026 17:28:16 GMT</pubDate>
-      <guid isPermaLink="false">cfb40e9ff89a</guid>
-      <source url="https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/">Hacker News</source>
+      <title>Zatrzymali go do kontroli. Przecierali oczy ze zdumienia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/91ac1cf044f2</link>
+      <description>Gdy zatrzymali go do kontroli drogowej, przecierali oczy ze zdumienia. Kierowca Seata złamał aż sześć dożywotnich zakazów prowadzenia pojazdów. Jechał pomimo cofniętych uprawnień do kierowania, a na dodatek był pijany.</description>
+      <pubDate>Mon, 22 Jun 2026 09:18:44 GMT</pubDate>
+      <guid isPermaLink="false">91ac1cf044f2</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/otwock-pijany-prowadzil-samochod-mial-szesc-zakazow-prowadzenia-st9107676?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Family of driver killed in Bedford train crash &apos;devastated&apos; by loss</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/030094706050</link>
-      <description>The family of Shaun Burton say they are “devastated” by the loss.</description>
-      <pubDate>Sun, 21 Jun 2026 17:28:04 GMT</pubDate>
-      <guid isPermaLink="false">030094706050</guid>
-      <source url="https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Popularna aplikacja znika ze smartfonów. Wiemy, kiedy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bf11419bc576</link>
+      <description>Już w sierpniu w Krakowie przestanie działać aplikacja Karta Krakowska. Czy to oznacza koniec popularnego programu?</description>
+      <pubDate>Mon, 22 Jun 2026 09:15:56 GMT</pubDate>
+      <guid isPermaLink="false">bf11419bc576</guid>
+      <source url="https://antyweb.pl/popularna-aplikacja-znika-ze-smartfonow-wiemy-kiedy">Antyweb</source>
     </item>
     <item>
-      <title>&quot;Armia musi być w gotowości&quot;. Szef IDF o rozejmie z Hezbollahem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8a91397538bd</link>
-      <description>&quot;Zawieszenie broni z Hezbollahem w Libanie jest kruche i armia musi utrzymać gotowość bojową&quot; - ocenił ​szef Sztabu Generalnego Sił Obronnych Izraela IDF generał Ejal Zamir. Do kwestii rozejmu odniósł się podczas inspekcji izraelskich sił w południowym Libanie.</description>
-      <pubDate>Sun, 21 Jun 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="false">8a91397538bd</guid>
-      <source url="https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-armia-musi-byc-w-gotowosci-szef-idf-o-rozejmie-z-hezbollahem,nId,8091036">RMF24</source>
+      <title>Windows 11 sam zainstaluje ci pakiet aplikacji. Nawet nie musisz się zgadzać</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/581f18f07b25</link>
+      <description>Microsoft po kilku obiecujących aktualizacjach, postanawia wrócić do starych nawyków integracji Copilota z dosłownie wszystkim. Teraz już nawet nie zapyta o zgodę, po prostu na twoim pulpicie pojawi się odpowiednia ikonka.</description>
+      <pubDate>Mon, 22 Jun 2026 09:15:04 GMT</pubDate>
+      <guid isPermaLink="false">581f18f07b25</guid>
+      <source url="https://antyweb.pl/windows-11-sam-zainstaluje-ci-pakiet-aplikacji-nawet-nie-musisz-sie-zgadzac">Antyweb</source>
     </item>
     <item>
-      <title>Apple Intelligence w Polsce - co realnie działa w iOS 27?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f62840770be0</link>
-      <description>iOS 27 trafi do Polski bez Siri AI, ale po przełączeniu telefonu na angielski wciąż skorzystamy z kilku funkcji Apple Intelligence – sprawdziłem w becie, co dokładnie da się odpalić.</description>
-      <pubDate>Sun, 21 Jun 2026 17:00:33 GMT</pubDate>
-      <guid isPermaLink="false">f62840770be0</guid>
-      <source url="https://antyweb.pl/apple-intelligence-w-polsce-co-realnie-dziala-w-ios-27">Antyweb</source>
+      <title>Zatrudnienie w Polsce wciąż spada, a płace rosną wolno. &quot;Dane powinny zniechęcać RPP do dyskusji o podwyżkach stóp&quot; </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/74dc08910c4c</link>
+      <description>Dynamika średnich wynagrodzeń w przedsiębiorstwach nieco przyspieszyła, ale nie aż tak jak spodziewali się tego analitycy. Wraz z zaskakującą obniżką inflacji przyspieszył też wzrost realnych płac. Znów spadło zatrudnienie, potwierdzając schłodzenie popytu na pracę. Takie dane powinny zniechęcić RPP do dyskusji o ewentualnym podwyższeniu stóp procentowych, zauważyli analitycy mBanku.</description>
+      <pubDate>Mon, 22 Jun 2026 09:15:00 GMT</pubDate>
+      <guid isPermaLink="false">74dc08910c4c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zatrudnienie-w-Polsce-wciaz-spada-a-place-rosna-wolno-Dane-powinny-zniechecac-RPP-do-dyskusji-o-podwyzkach-stop-9155293.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3256d77d7154</link>
-      <description>Founding Applied ML Engineer
-
-About Wildcard
-
-Wildcard is the agentic commerce optimization platform for ecommerce and retail brands.
-
-We help brands understand, improve, and monetize how their products show up across AI shopping agents. We’re building
-the mission control for agentic commerce: visibility (AEO &amp; GEO), recommendations, execution, attribution, and
-automation in one platform.
-
-As shopping shifts from traditional search to AI agents, brands need to know where they appear, why competitors are
-winning, what to change, and whether those changes drive real business outcomes.
-
-We’re growing 50% month over month.
-
-Who you’ll work with
-
-You’ll work directly with me, Kaushik Mahorker, founder of Wildcard.
-
-Previously at Scale AI, I built the ecommerce enrichment engine behind the company’s largest pilot across 400K
-SKUs, 2.8M attributes, and hundreds of taxonomies, helping secure $15M+ in contracts with major retailers and
-marketplaces.
-
-That experience made something clear: shopping discovery is being rebuilt for an AI-first world, and most brands are not
-prepared for the shift.
-
-The role
-
-We’re looking for a Founding Applied ML Engineer to help shape both the product and the company from the earliest stage.
-
-This is engineer number one. You are not joining an engineering team. You are helping build one.
-
-The ideal person is strong enough to own product engineering across the stack, but also has the applied ML judgment to
-build reliable AI systems, ranking systems, evals, attribution models, agents, and automation loops that customers can
-actually trust.
-
-This is not a pure research role. It is not a pure analytics role. It is not a narrow full-stack role either.
-
-We need a builder who can move between product, infrastructure, applied ML, data, and customer problems without waiting
-for someone else to define the lane.
-
-You’ll work directly with customers, own product and infrastructure, and help decide what gets built, how it gets built,
-and what we prioritize as the market evolves.
-
-We are looking for someone high-agency, fast-moving, and expert-level with AI coding tools. You should use AI to move
-significantly faster, but not outsource your judgment to it.
-
-This market is moving fast. AI shopping agents, agentic commerce protocols, and consumer behavior are all changing in
-real time. The ambiguity is the opportunity.
-
-Week 0 projects
-
-You may work on:
-
-  - Building custom ML models to classify prompts, predict opportunity, and prioritize what brands should optimize for
-  - Building incrementality and attribution systems that connect AI visibility to revenue outcomes for ecommerce brands
-  - Building prompt discovery systems that identify and predict what shoppers are asking across AI commerce surfaces
-  - Designing ranking, scoring, and evaluation systems for noisy AI commerce outputs
-  - Modeling site traffic, conversion patterns, and performance trends from messy real-world data
-  - Making core AI workflows reliable with queues, retries, observability, evals, and workflow orchestration
-  - Building agents that can recommend, execute, and validate changes across ecommerce sites
-  - Designing pipelines to collect new signals and turn them into usable product intelligence
-  - Adapting the product to emerging agentic commerce protocols and platform launches
-  - Migrating scrappy early systems into scalable product infrastructure without slowing down execution
-
-We’re looking for someone who
-
-  - Has prior founding experience, or was early at a Seed, Series A, Series B, or similarly fast-moving company
-  - Has strong full-stack experience and can ship independently across the stack
-  - Has applied ML or data science experience, especially with LLMs, ranking, retrieval, evals, attribution,
-    experimentation, or product intelligence
-  - Can move between modeling, analysis, implementation, and product decisions
-  - Is high-agency, self-directed, and able to turn ambiguity into shipped product
-  - Is expert-level with AI coding tools and uses them to move significantly faster
-  - Has strong judgment on when to use AI and when not to
-  - Can reason about model behavior, failure modes, and quality without needing perfect data
-  - Moves fast, focuses on outcomes, and knows how to do more with less
-  - Brings new ideas constantly and can prioritize at a granular level
-  - Is resilient through changing priorities, new information, and mini-pivots
-  - Gets excited by ownership, ambiguity, and wearing multiple hats
-  - Wants to work in tight feedback loops with customers
-  - Has high schlep tolerance and is willing to do unglamorous work when it moves the business forward
-  - Can push back, think independently, and still move quickly
-
-Preferred experience
-
-  - Applied ML, data science, or AI systems work in production or near-production environments
-  - Attribution modeling, traffic analysis, forecasting, causal inference, experimentation, or product analytics
-  - Experience taking ML models from offline analysis to production systems customers actually use
-  - Data pipelines, instrumentation, and signal collection from messy real-world sources
-  - Strong Python and SQL skills
-  - LLM workflows, retrieval systems, evals, fine-tuning, and model evaluation
-  - AI agents, including context management, orchestration, tool use, and evals
-  - Ecommerce, marketplaces, search, recommendations, analytics, or growth systems
-  - Enough full-stack experience to ship customer-facing product, APIs, or internal tools when needed (Typescript,
-    Express, React)
-
-Why join
-
-You’ll work on problems that sit between modeling, product, and data infrastructure.
-
-The work is fast-paced, practical, and tied directly to company priorities. You will not spend months optimizing one
-narrow model in isolation.
-
-This is a rare applied ML role where the work goes from messy data to production product to customer impact quickly.
-You’ll help decide what gets built, ship it end to end, and see whether it actually changes business outcomes.
-
-You’ll be able to point to the models, systems, and product decisions you made as part of the reason why we win.</description>
-      <pubDate>Sun, 21 Jun 2026 17:00:28 GMT</pubDate>
-      <guid isPermaLink="false">3256d77d7154</guid>
-      <source url="https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer">Hacker News</source>
+      <title>Prime Minister Keir Starmer&apos;s resignation speech in full</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/14815ae5b4c0</link>
+      <description>Sir Keir announces he will be step down as Labour leader and PM in a Downing Street address.</description>
+      <pubDate>Mon, 22 Jun 2026 09:14:38 GMT</pubDate>
+      <guid isPermaLink="false">14815ae5b4c0</guid>
+      <source url="https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4f3ac210a583</link>
-      <description>As HN sits at the intersection of business and technology, I will share that I received one of the best corporate yet human Fathers Day messages I’ve seen today from a founder of Brunt (a work wear boot and apparel company whose boots I wear for my DIY projects). I felt an urge to share it but I only interact on HN theses days.</description>
-      <pubDate>Sun, 21 Jun 2026 17:00:26 GMT</pubDate>
-      <guid isPermaLink="false">4f3ac210a583</guid>
-      <source url="https://news.ycombinator.com/item?id=48620502">Hacker News</source>
+      <title>Proces Janusza Szymika o 20 mln zł: Kardynał Dziwisz nie przyszedł do sądu, miał powód</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/24681373b604</link>
+      <description>Kardynał Stanisław Dziwisz nie stawił się w poniedziałek przed Sądem Okręgowym w Krakowie, gdzie miał zeznawać jako świadek w procesie Janusza Szymika przeciwko Archidiecezji Krakowskiej. Według informacji przekazanej przez archidiecezję duchowny zachorował, a sąd zobowiązał go do przedstawienia zaświadczenia lekarskiego pod rygorem grzywny.</description>
+      <pubDate>Mon, 22 Jun 2026 09:12:56 GMT</pubDate>
+      <guid isPermaLink="false">24681373b604</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-proces-janusza-szymika-o-20-mln-zl-kardynal-dziwisz-nie-przy,nId,8091081">RMF24</source>
     </item>
     <item>
-      <title>1500 zł za kilogram. Roślinę długowieczności można uprawiać w Polsce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/087b556771de</link>
-      <description>1500 zł za kilogram – tyle może kosztować prawdziwe wasabi, uznawane za jedną z najdroższych roślin jadalnych na świecie. Ta ceniona w kuchni japońskiej przyprawa wymaga wyjątkowych warunków uprawy, dlatego poza Azją jest prawdziwą rzadkością. Co ciekawe, jedyna plantacja prawdziwego wasabi w kontynentalnej Europie znajduje się właśnie w Polsce.</description>
-      <pubDate>Sun, 21 Jun 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">087b556771de</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/1500-zl-za-kilogram-Rosline-dlugowiecznosci-mozna-uprawiac-w-Polsce,285694,11.html">Rynek Zdrowia</source>
+      <title>Wołodymyr Zełenski: proponowałem prezydentowi Polski spotkanie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e0cc3700e7b5</link>
+      <description>Proponowałem prezydentowi Polski Karolowi Nawrockiemu spotkanie - przekazał prezydent Ukrainy Wołodymyr Zełenski w niedzielnym wywiadzie dla telewizji TSN. Mówił również, że natychmiast po wypowiedziach Nawrockiego o zamiarze odebrania mu Orderu Orła Białego rozpoczął intensywne rozmowy, które jednak nie wpłynęły na stanowisko polskiego prezydenta.</description>
+      <pubDate>Mon, 22 Jun 2026 09:11:29 GMT</pubDate>
+      <guid isPermaLink="false">e0cc3700e7b5</guid>
+      <source url="https://tvn24.pl/swiat/wolodymyr-zelenski-proponowalem-prezydentowi-polski-spotkanie-st9107919?source=rss">TVN24</source>
     </item>
     <item>
-      <title>W aucie było ponad 20 butli z gazem. Nagle wybuchł pożar</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5e255b46bc40</link>
-      <description>Na ul. kardynała Stefana Wyszyńskiego w Łomży (woj. podlaskie) zapaliło się auto przewożące butle z gazem. Choć sytuacja wyglądała groźnie, nikt nie został poszkodowany.</description>
-      <pubDate>Sun, 21 Jun 2026 16:59:00 GMT</pubDate>
-      <guid isPermaLink="false">5e255b46bc40</guid>
-      <source url="https://www.rmf24.pl/regiony/bialystok/news-w-aucie-bylo-ponad-20-butli-z-gazem-nagle-wybuchl-pozar,nId,8091037">RMF24</source>
+      <title>Ekstremalny skwar od Paryża po Londyn. Mają paść rekordy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6f3fb728374d</link>
+      <description>Fala upałów nadciąga nad Europę Zachodnią. Na szczególnie dotkliwe upały szykują się Francuzi - tam termometry mogą miejscami pokazać nawet 46 stopni Celsjusza.</description>
+      <pubDate>Mon, 22 Jun 2026 09:07:37 GMT</pubDate>
+      <guid isPermaLink="false">6f3fb728374d</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/ekstremalny-skwar-od-paryza-po-londyn-maja-pasc-rekordy-st9107707?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/950c45944476</link>
-      <description>Lodash creator John-David Dalton reflects on the project’s growth, the pressures of maintaining software used across the world, and the personal journey that led to stepping back and eventually rebuilding a sustainable path forward.</description>
-      <pubDate>Sun, 21 Jun 2026 16:56:18 GMT</pubDate>
-      <guid isPermaLink="false">950c45944476</guid>
-      <source url="https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers">Hacker News</source>
+      <title>Zygmunt Solorz „chroni dzieło życia”. Znamy treść jego listu do akcjonariuszy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c75f7e58c8c</link>
+      <description>Nasza redakcja dotarła do listu, który Zygmunt Solorz kieruje dziś do akcjonariuszy Cyfrowego Polsatu, tuż przez zwyczajnym walnym ich zgromadzeniem (ma się odbyć dziś, czyli 22 czerwca). Biznesmen nazywa w nim firmę „dziełem swojego życia” i zapowiada, że będzie bronił jej przed skutkami narastającego konfliktu o kontrolę nad biznesem. Jednocześnie ostro krytykuje działania spadkobierców i niektórych byłych współpracowników, zarzucając im stawianie prywatnych interesów ponad dobrem Grupy. Do inwestorów w oddzielnym piśmie zwróciła się także Justyna Kulka, żona przedsiębiorcy.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">7c75f7e58c8c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zygmunt-Solorz-chroni-dzielo-zycia-Znamy-tresc-jego-listu-do-akcjonariuszy-Cyfrowego-Polsatu-9155210.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Starmer considers political future as pressure to quit mounts</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6d2dcb953d0</link>
-      <description>It comes as US President Donald Trump says on social media that the PM will resign, in a further blow to the Labour leader.</description>
-      <pubDate>Sun, 21 Jun 2026 16:56:17 GMT</pubDate>
-      <guid isPermaLink="false">d6d2dcb953d0</guid>
-      <source url="https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Planujesz przylot, lepiej się pospiesz. Dwudziestokrotny wzrost cen po 50 latach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b62e89bac556</link>
+      <description>Japonia poinformowała, że od następnego miesiąca opłaty wizowe dla obcjokrajowców wzrosną. Będzie to pierwsza taka podwyżka od prawie 50 lat. Rząd w piątek zatwierdził zmianę, która będzie obowiązywała dla wniosków złożonych od 1 lipca - czytamy w Independent.</description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">b62e89bac556</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Planujesz-przylot-lepiej-sie-pospiesz-Dwudziestokrotny-wzrost-cen-po-50-latach-9155223.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>The Minimum Viable Unit of Saleable Software</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d1119878d942</link>
-      <description>LLMs made software cheaper to build, but not free. A look at the new buy-vs-build math of the LLM age, and the pricing zone where small software businesses can still survive.</description>
-      <pubDate>Sun, 21 Jun 2026 16:41:21 GMT</pubDate>
-      <guid isPermaLink="false">d1119878d942</guid>
-      <source url="https://brandur.org/minimum-viable-unit">Hacker News</source>
+      <title>Injured ticket inspector who helped others in Bedford train crash hailed a hero</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ca549b309c7</link>
+      <description>A passenger praises a member of railway staff who, despite being in pain, helped the injured.</description>
+      <pubDate>Mon, 22 Jun 2026 08:57:49 GMT</pubDate>
+      <guid isPermaLink="false">0ca549b309c7</guid>
+      <source url="https://www.bbc.com/news/articles/c20y1n8y2z7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Polymarket reportedly paid creators to post deceptive videos about fake bets</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d98a2d9292af</link>
-      <description>Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.</description>
-      <pubDate>Sun, 21 Jun 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="false">d98a2d9292af</guid>
-      <source url="https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/">TechCrunch</source>
+      <title>Nie musisz dopłacać za spokój</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9fbd4ea0c6e0</link>
+      <description>Kliknij, aby przeczytać więcej</description>
+      <pubDate>Mon, 22 Jun 2026 08:56:11 GMT</pubDate>
+      <guid isPermaLink="false">9fbd4ea0c6e0</guid>
+      <source url="https://niebezpiecznik.pl/post/nie-musisz-doplacac-za-spokoj/">Niebezpiecznik</source>
     </item>
     <item>
-      <title>To dlatego masz ochotę na słodycze. Gdy go brakuje, apetyt szaleje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/69181f4f1159</link>
-      <description>Chrom jest często reklamowany jako suplement pomagający schudnąć i ograniczyć apetyt na słodycze. Eksperci podkreślają jednak, że jego najważniejszą rolą jest wspieranie prawidłowego poziomu cukru we krwi. Niedobór tego pierwiastka może powodować zmęczenie, problemy z koncentracją i wzmożoną ochotę na jedzenie.</description>
-      <pubDate>Sun, 21 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">69181f4f1159</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/To-dlatego-masz-ochote-na-slodycze-Gdy-go-brakuje-apetyt-szaleje,285693,11.html">Rynek Zdrowia</source>
+      <title>Apel biznesu w sprawie Ukrainy. &quot;Nie możemy tego zmarnować&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0908919601c7</link>
+      <description>My jesteśmy częścią jednego ekosystemu - ocenił sytuację ekonomiczną Polski i Ukrainy Wojciech Kostrzewa. Prezes zarządu Polskiej Rady Biznesu apelował na antenie TVN24 o deeskalację na linii Warszawa-Kijów. - To jest wielki kapitał i nie możemy tego zmarnować - dodał.</description>
+      <pubDate>Mon, 22 Jun 2026 08:53:42 GMT</pubDate>
+      <guid isPermaLink="false">0908919601c7</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/spor-z-ukraina-wojciech-kostrzewa-nie-mozemy-zostawic-pola-radykalom-st9107682?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Donald Trump grozi Iranowi, J.D. Vance obiecuje &quot;nowy rozdział&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5ced2a9d2b1a</link>
-      <description>W Szwajcarii trwają rozmowy USA i Iranu w sprawie końcowego porozumienia pokojowego, w których uczestniczy wiceprezydent J.D. Vance. Tymczasem prezydent Donald Trump grozi, że powróci do ataków na Iran, jeśli Hezbollah będzie &quot;sprawiał kłopoty&quot;.</description>
-      <pubDate>Sun, 21 Jun 2026 16:18:10 GMT</pubDate>
-      <guid isPermaLink="false">5ced2a9d2b1a</guid>
-      <source url="https://tvn24.pl/swiat/donald-trump-grozi-iranowi-j-d-vance-obiecuje-nowy-rozdzial-st9107209?source=rss">TVN24</source>
+      <title>EasyJet rejects £4.7bn takeover offer from US investment firm</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51e5155d5dc1</link>
+      <description>The airline described the latest bid approach from Castlelake as &quot;highly opportunistic&quot;.</description>
+      <pubDate>Mon, 22 Jun 2026 08:49:39 GMT</pubDate>
+      <guid isPermaLink="false">51e5155d5dc1</guid>
+      <source url="https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Boris Johnson o brexicie: Mieliśmy rację</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2551d3c22365</link>
-      <description>​Były premier Wielkiej Brytanii i jeden z architektów brexitu Boris Johnson ocenił w niedzielę, że dał on Brytyjczykom wolność. W opublikowanym w mediach społecznościowych nagraniu z okazji przypadającej we wtorek dziesiątej rocznicy referendum polityk ostrzegł przed powrotem do Unii Europejskiej. &quot;Oczywiście, dziś jeszcze bardziej żarliwie niż kiedykolwiek wierzę, że mieliśmy rację&quot; - powiedział Johnson.</description>
-      <pubDate>Sun, 21 Jun 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="false">2551d3c22365</guid>
-      <source url="https://www.rmf24.pl/polityka/news-boris-johnson-o-brexicie-mielismy-racje,nId,8091035">RMF24</source>
+      <title>Piorun uderzył w turystkę w Górach Izerskich. Tak wyglądał jej kask</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0b801c79707e</link>
+      <description>Dramatyczne chwile rozegrały się w Górach Izerskich, gdzie piorun poraził turystkę w rejonie schroniska Orle. Dzięki błyskawicznej reakcji świadków i profesjonalnej akcji ratowników kobieta odzyskała funkcje życiowe. Zobacz, co zostało z kasku po uderzeniu pioruna.</description>
+      <pubDate>Mon, 22 Jun 2026 08:46:37 GMT</pubDate>
+      <guid isPermaLink="false">0b801c79707e</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-piorun-uderzyl-w-turystke-w-gorach-izerskich-tak-wygladal-je,nId,8091079">RMF24</source>
     </item>
     <item>
-      <title>CCTV shows moments leading up to arrest in anti-Muslim attacks probe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/237109e02347</link>
-      <description>A topless man can be seen driving erratically in Edinburgh before abandoning his car and attacking a black man and a delivery rider.</description>
-      <pubDate>Sun, 21 Jun 2026 16:10:24 GMT</pubDate>
-      <guid isPermaLink="false">237109e02347</guid>
-      <source url="https://www.bbc.com/news/articles/c8j21zvkd20o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>​Premier Wielkiej Brytanii zapowiedział rezygnację ze stanowiska</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/533343946e06</link>
+      <description>​Premier Wielkiej Brytanii Keir Starmer zapowiedział w poniedziałek, że zrezygnuje ze stanowiska. Ogłosił, że pozostanie liderem Partii Pracy i szefem rządu do czasu wyłonienia jego następcy.</description>
+      <pubDate>Mon, 22 Jun 2026 08:41:34 GMT</pubDate>
+      <guid isPermaLink="false">533343946e06</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-premier-wielkiej-brytanii-zapowiedzial-rezygnacje-ze-stanowi,nId,8091084">RMF24</source>
     </item>
   </channel>
 </rss>
