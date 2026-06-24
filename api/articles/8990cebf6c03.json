@@ -1,0 +1,13 @@
+{
+  "id": "8990cebf6c03",
+  "title": "Minimus container images are now free",
+  "originalTitle": "Minimus container images are now free",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://images.minimus.io/",
+  "publishedAt": "2026-06-24T11:52:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div tabindex=\"-1\"><section><div><h2>Trademark</h2></div><p>This catalog is published by Minimus. All product names, logos, and marks, other than those belonging to Minimus, shown are owned by their respective rights holders and appear here only to identify the open source software each image contains. Minimus claims no ownership of those marks and implies no affiliation with, endorsement by, certification by, or sponsorship by any rights holder.</p></section><section><h2>Disclaimer</h2><p>Images are provided \"as-is\" without warranty of any kind. \"Hardened\" refers to the security configuration applied at the time of build and does not constitute a guarantee of ongoing security or absence of vulnerabilities. The free tier is provided without support, SLA, or guaranteed patching timelines. Security updates may be applied to paid subscriptions before or instead of free tier images. By pulling or using any image you agree to our<!-- --> <a target=\"_blank\" href=\"https://www.minimus.io/terms-of-use\">Terms of Use</a>.</p></section></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
