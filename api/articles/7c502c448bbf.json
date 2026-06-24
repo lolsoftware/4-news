@@ -1,0 +1,13 @@
+{
+  "id": "7c502c448bbf",
+  "title": "There are a few things that I look back on as my mistakes in the early days",
+  "originalTitle": "There are a few things that I look back on as my mistakes in the early days",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+  "publishedAt": "2026-06-24T15:56:19.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><p><span>There are a few things that I look back on as my mistakes in the early days.\n\nQuake was overly ambitious technically. We could have done all the great multiplayer and modding work inside a Doom++ engine, allowing the designers to work with a more stable base instead of rug-pulling everything out from underneath them a couple times. The follow up game could have then brought in full 6DOF environments and characters.\n\nI pushed everyone too hard. I didn’t appreciate how maturing companies need more slack, and that running people at startup intensity constantly will wear them out. Quake was also where I really had to accept my personal limits. I was working pretty much as hard as humanly possible, and I was still slipping past my goal points.\n\nOn all of the founders’ shoulders, our original corporate stock arrangement and buy/sell agreement was a mistake, and resulted in bad incentives. We wanted to ensure that all ownership rested in the hands of people working hard on current projects, but the Silicon Valley standard approach of vesting stock would have worked out better.\n\nOne real problem that I don’t accept the blame for is that we were insisting that level designers be not just game designers, but also have strong visual design esthetics. They needed to make things that not only played well, but looked awesome, and it got more challenging as the technology provided a richer palette. Romero covered that well, which set our company expectations early on.\n\nWe should have figured out how to pair up artists and designers earlier, but there was infighting among the designers, and the ones that could manage the visuals were happy to disparage the ones that couldn’t.\n\nSorry, Sandy.</span></p></div></div>",
+  "image": "images/df78e4b9f537.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
