@@ -1,0 +1,13 @@
+{
+  "id": "483f2dbca7cd",
+  "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+  "originalTitle": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+  "publishedAt": "2026-06-25T18:38:51.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google Finance is not a new product—it has been around for 20 years, long enough that it initially <a href=\"https://arstechnica.com/gadgets/2017/11/google-finance-gets-redesigned-finally-dumps-adobe-flash/\">relied on Flash</a> to display charts and graphs. The website has gotten a few major updates over the years, but it has never had a mobile app until now. Google has released the first standalone app for Google Finance, which is currently exclusive to Android, with iOS planned for later this year.</p>\n<p>The app is available globally <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.finance\">in the Play Store</a>, but that’s not the only update to Google’s financial tracker. The AI-powered makeover for the Finance website is also leaving beta, making Google’s chatbot a core part of the experience. Naturally, the mobile app includes a heaping helping of generative AI that aims to make sense of irrational financial markets.</p>\n<p>If you’ve checked out the new Finance web experience, you’ll see a lot of familiar features in the app. You can create watchlists, monitor real-time market data, and keep up with financial news in one place. While perusing graphs of stock performance, Finance will use AI to generate “key moments” that can explain why the numbers changed. This feature initially launched in the Finance web interface in May.</p> <p>The mobile app also gets Google’s new AI research tool, accessible via the “Ask” button floating at the bottom of the UI. This allows users to converse with Google’s money-tuned bot about stocks. The bottom bar also includes a History section where you can easily access your past chats.</p> </div></div>",
+  "image": "images/6246ea895151.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
