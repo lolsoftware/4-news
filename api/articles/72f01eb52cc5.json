@@ -1,0 +1,13 @@
+{
+  "id": "72f01eb52cc5",
+  "title": "OS9Map",
+  "originalTitle": "OS9Map",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://yllan.org/software/OS9Map/",
+  "publishedAt": "2026-06-25T15:01:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p><strong>OS9Map</strong> lets you browse <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> on Mac OS 9. Search for landmarks and addresses, and save the places you care about as bookmarks for next time.</p>\n\n<h2 id=\"requirements\">Requirements</h2>\n<ul>\n<li>Mac OS 9</li>\n<li>PowerPC processor</li>\n<li>16 MB RAM (32 MB or more recommended)</li>\n<li>An internet connection (Open Transport TCP/IP)</li>\n</ul>\n<h2 id=\"features\">Features</h2>\n<ul>\n<li><strong>Smooth scrolling map canvas</strong> — drag with the mouse to pan; nearby tiles load as you go.</li>\n<li><strong>Place search</strong> — built-in Nominatim lookup; type an address to jump straight there.</li>\n<li><strong>Bookmarks</strong> — save the places you visit often and return to them from the menu in one click.</li>\n</ul>\n<h2 id=\"version-history\">Version History</h2> <table><thead><tr><th>Version</th><th>Date</th><th>Changes</th></tr></thead><tbody><tr><td>1.0.0</td><td>2026-06-21</td><td>First public release: map scrolling, zooming, bookmarks</td></tr></tbody></table>\n<h2 id=\"donate\">Donate</h2>\n<ul>\n<li><a href=\"https://buymeacoffee.com/yllan\">Buy Me a Coffee</a></li>\n</ul> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
