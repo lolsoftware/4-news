@@ -5,8 +5,32 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 27 Jun 2026 19:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:21:54 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>&apos;Every person saved is a miracle&apos;: Families call to trapped loved ones in region devastated by Venezuela quakes</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7d5d59321556</link>
+      <description>Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.</description>
+      <pubDate>Sat, 27 Jun 2026 21:12:51 GMT</pubDate>
+      <guid isPermaLink="false">7d5d59321556</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d1c02bf165e</link>
+      <description>Not everyone is buying Elon Musk’s vision for orbital data centers.</description>
+      <pubDate>Sat, 27 Jun 2026 20:42:36 GMT</pubDate>
+      <guid isPermaLink="false">8d1c02bf165e</guid>
+      <source url="https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3610e59034a1</link>
+      <description>Keep your Mac awake only while AI coding agents are working - kageroumado/adrafinil</description>
+      <pubDate>Sat, 27 Jun 2026 20:34:53 GMT</pubDate>
+      <guid isPermaLink="false">3610e59034a1</guid>
+      <source url="https://github.com/kageroumado/adrafinil">Hacker News</source>
+    </item>
     <item>
       <title>Wróg numer jeden. Wykańcza nerki i jelita, a i tak pijemy na potęgę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/075cd7f82359</link>
@@ -14,6 +38,14 @@
       <pubDate>Sat, 27 Jun 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">075cd7f82359</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Wrog-numer-jeden-Wykancza-nerki-i-jelita-a-i-tak-pijemy-na-potege,286006,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Cud po tragedii. Żywe niemowlę wydobyte spod gruzów w Wenezueli</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad2f31917270</link>
+      <description>W mieście La Guaira ratownicy wydobyli żywego noworodka spod gruzów zawalonego budynku po tym, jak Wenezuelę nawiedziły dwa niszczycielskie trzęsienia ziemi - podaje BBC. W sieci pojawiły się nagrania, na których widać ratowników, którzy przenoszą dziecko z dala od gruzowiska i przekazują je mężczyźnie, prawdopodobnie ojcu. przewodniczący parlamentu Wenezueli podał, że liczba ofiar śmiertelnych wzrosła do 1430 osób. 3238 osób jest rannych.</description>
+      <pubDate>Sat, 27 Jun 2026 20:24:00 GMT</pubDate>
+      <guid isPermaLink="false">ad2f31917270</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wenezuela-wstrzasajace-nagrania-z-la-guaira-zywe-niemowle-w-,nIdn,1007897">RMF24</source>
     </item>
     <item>
       <title>Polskie wojsko rozsyła specjalne karty. Kolor paska nie jest przypadkowy</title>
@@ -40,7 +72,7 @@
       <source url="https://www.rmf24.pl/regiony/news-slubice-padl-rekord-temperatury-dla-czerwca-w-polsce,nIdn,1007896">RMF24</source>
     </item>
     <item>
-      <title>IP Crawl: living atlas of open webcams discovered on the public internet</title>
+      <title>IP Crawl: Living atlas of open webcams discovered on the public internet</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0b4ad2e2f4cc</link>
       <description>Comments</description>
       <pubDate>Sat, 27 Jun 2026 19:09:49 GMT</pubDate>
@@ -62,6 +94,14 @@
       <pubDate>Sat, 27 Jun 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="false">82813e267050</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Odciaza-watrobe-Regeneruje-stluszczony-narzad,286003,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„Macie w sobie gen zwycięzców”. Putin zwrócił się do młodzieży kończącej szkołę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd6dad9c5707</link>
+      <description>„Macie w sobie gen zwycięzców, (...) hart ducha waszych przodków – tych, którzy wyzwolili świat spod władzy nazizmu, ujarzmili energię atomu i otworzyli całej ludzkości drogę w przestrzeń kosmiczną. Już wkrótce Wy, dzisiejsza młodzież, przejmiecie odpowiedzialność za nasz kraj, naszą piękną i ukochaną Rosję. Waszą misją będzie kontynuowanie historii jej osiągnięć” - zwrócił się do absolwentów rosyjskich szkół Władimir Putin w dzisiejszym orędziu.</description>
+      <pubDate>Sat, 27 Jun 2026 18:57:00 GMT</pubDate>
+      <guid isPermaLink="false">bd6dad9c5707</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-putin-zwrocil-sie-do-mlodziezy-konczacej-szkole-macie-w-sobi,nIdn,1007895">RMF24</source>
     </item>
     <item>
       <title>Scientists discover what triggers belly fat as we age</title>
@@ -367,46 +407,6 @@ Jak podaje Reuters, deklaracja Vučicia nastąpiła po trwających półtora rok
       <pubDate>Sat, 27 Jun 2026 15:00:00 GMT</pubDate>
       <guid isPermaLink="false">681aec0ba5ef</guid>
       <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-jakie-sa-najszybsze-zwierzeta-swiata-gepard-osiaga-300-kmh-a,nId,8091120">RMF24</source>
-    </item>
-    <item>
-      <title>Tragedia w Belgii. Polak zmarł podczas pracy na plantacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a88d0edb4baf</link>
-      <description>W piątek w belgijskiej miejscowości Zonnebeke, położonej we Flandrii Zachodniej, doszło do tragicznego zdarzenia. 50-letni obywatel Polski, pracujący na jednym z lokalnych gospodarstw rolnych, nagle zasłabł podczas wykonywania swoich obowiązków. Mimo natychmiastowej interwencji służb ratunkowych i podjętej reanimacji, życia mężczyzny nie udało się uratować. Sprawę bada inspektorat pracy oraz biegły sądowy.</description>
-      <pubDate>Sat, 27 Jun 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="false">a88d0edb4baf</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-belgia-polak-zmarl-podczas-pracy-na-plantacji,nIdn,1007884">RMF24</source>
-    </item>
-    <item>
-      <title>Zuckerberg&apos;s Increasingly Bizarre War on Whistleblowers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2c0418d6bcf9</link>
-      <description>Comments</description>
-      <pubDate>Sat, 27 Jun 2026 14:38:05 GMT</pubDate>
-      <guid isPermaLink="false">2c0418d6bcf9</guid>
-      <source url="https://pluralistic.net/2026/06/27/zuckerstreisand-2/">Hacker News</source>
-    </item>
-    <item>
-      <title>Potężny pożar w Małopolsce. Kłęby dymu widoczne z kilku kilometrów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/47a629031db8</link>
-      <description>Płonie hala przy ul. Orkana w Mszanie Dolnej w powiecie limanowskim w Małopolsce. Informację dostaliśmy od Słuchacza na Gorącą Linię RMF FM. Potwierdziły nam ją służby. Kłęby dymu widoczne są z kilku kilometrów. Na miejsce ściągane są kolejne zastępy straży pożarnej, dlatego w okolicy mogą występować utrudnienia drogowe.</description>
-      <pubDate>Sat, 27 Jun 2026 14:37:00 GMT</pubDate>
-      <guid isPermaLink="false">47a629031db8</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-mszana-dolna-potezny-pozar-hali-kleby-dymu-widac-z-kilku-kil,nIdn,1007883">RMF24</source>
-    </item>
-    <item>
-      <title>Ten spektakl trwa 24 godziny bez przerwy. Magdalena Cielecka w &quot;The Second Woman&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7518401368ff</link>
-      <description>To jedno z największych wydarzeń tegorocznego Malta Festivalu. Trwa 24-godzinny spektakl &quot;The Second Woman&quot; z udziałem Magdaleny Cieleckiej. Aktorka odgrywa jedną scenę wraz z setką mężczyzn wybranych w castingu.</description>
-      <pubDate>Sat, 27 Jun 2026 14:34:21 GMT</pubDate>
-      <guid isPermaLink="false">7518401368ff</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/malta-festival-2026-w-poznaniu-magdalena-cielecka-w-24-godzinnym-spektaklu-the-second-woman-st9117507?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>24 godziny na scenie. Magdalena Cielecka zagrała w &quot;The Second Woman&quot; i zna odpowiedź na swoje pytanie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5d5291c93c03</link>
-      <description>Na Malta Festival zakończył się w sobotę po południu 24-godzinny spektakl &quot;The Second Woman&quot; z udziałem Magdaleny Cieleckiej. Aktorka odgrywała jedną scenę wraz z setką mężczyzn wybranych w castingu. W kluczowym momencie sceny mogli oni powiedzieć jej, że &quot;zawsze kochali&quot; albo że &quot;nigdy nie kochali&quot;. Co padało częściej?</description>
-      <pubDate>Sat, 27 Jun 2026 14:34:21 GMT</pubDate>
-      <guid isPermaLink="false">5d5291c93c03</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/malta-festival-2026-w-poznaniu-zakonczyl-sie-24-godzinny-spektakl-the-second-woman-z-udzialem-magdaleny-cieleckiej-st9117507?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
