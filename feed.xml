@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 27 Jun 2026 15:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:33:12 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Naukowcy są pewni: 3 filiżanki dziennie spowalnia biologiczne starzenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7d4a59fd99fd</link>
+      <description>Nowe badania opublikowane w „BMJ Mental Health” zaskoczyły naukowców: osoby pijące 3–4 filiżanki kawy dziennie miały dłuższe telomery, czyli marker wolniejszego starzenia biologicznego.Co najciekawsze, efekt zauważono u osób z poważnymi zaburzeniami psychicznymi, gdzie proces starzenia komórkowego zazwyczaj przebiega szybciej.</description>
+      <pubDate>Sat, 27 Jun 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="false">7d4a59fd99fd</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Naukowcy-sa-pewni-3-filizanki-dziennie-spowalnia-biologiczne-starzenie,286008,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Odciąża wątrobę. Regeneruje stłuszczony narząd</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/82813e267050</link>
+      <description>Stłuszczenie wątroby przez długi czas może nie dawać żadnych objawów, ale prowadzi do groźnych powikłań, w tym marskości i raka. Eksperci wskazują, że ogromne znaczenie ma codzienna dieta – jedne produkty wspierają regenerację wątroby, inne przyspieszają odkładanie się w niej tłuszczu.</description>
+      <pubDate>Sat, 27 Jun 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">82813e267050</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Odciaza-watrobe-Regeneruje-stluszczony-narzad,286003,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Nowe przepisy. Zmiany dotyczące witaminy D już obowiązują</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d65725b87aaf</link>
+      <description>Zmieniły się przepisy dotyczące suplementów diety. Na listę dopuszczonych składników trafią nowe formy witaminy D i żelaza, które producenci będą mogli wykorzystywać przy wytwarzaniu suplementów.</description>
+      <pubDate>Sat, 27 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d65725b87aaf</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Nowe-przepisy-Zmiany-dotyczace-witaminy-D-juz-obowiazuja,286002,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>35 proc. gospodarstw to już single. Tak zmienił się obraz polskiego domu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22cfcc320da7</link>
+      <description>Na koniec 2025 r. gospodarstwa jednoosobowe stanowiły 35 proc. wszystkich gospodarstw domowych w Polsce, wobec 22 proc. w 2006 r. - zauważył Polski Instytut Ekonomiczny. Jak dodał, spadek odnotowano w udziale gospodarstw z dziećmi - z 37 do 25 proc.</description>
+      <pubDate>Sat, 27 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">22cfcc320da7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/35-proc-gospodarstw-to-juz-single-Tak-zmienil-sie-obraz-polskiego-domu-9155035.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
     <item>
       <title>O której godzinie jeść śniadanie? Jedna zmiana i 5 kg w dół</title>
       <link>https://lolsoftware.github.io/4-news/#/article/055a9fa6a66f</link>
@@ -14,6 +46,22 @@
       <pubDate>Sat, 27 Jun 2026 17:30:00 GMT</pubDate>
       <guid isPermaLink="false">055a9fa6a66f</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/O-ktorej-godzinie-jesc-sniadanie-Jedna-zmiana-i-5-kg-w-dol,286007,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>&quot;Wystarczy przestrzegać tych przepisów, które są&quot;. Szykuje się starcie lekarzy z rządem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/58da5ec286e7</link>
+      <description>Nie trzeba tworzyć nowych przepisów, wystarczy przestrzegać tych, które są – powiedziała PAP zastępczyni rzecznika prasowego Naczelnej Izby Lekarskiej Iwona Kania, komentując zapowiedzi resortu zdrowia zaostrzenia kar dla medyków i dyrektorów szpitali. Chodzi m.in. o nieprzestrzeganie kolejek.</description>
+      <pubDate>Sat, 27 Jun 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="false">58da5ec286e7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wystarczy-przestrzegac-tych-przepisow-ktore-sa-Szykuje-sie-starcie-lekarzy-z-rzadem-9159259.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Supabase (YC S20) Is Hiring for Multigres</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5d0e8dd38b3b</link>
+      <description>Comments</description>
+      <pubDate>Sat, 27 Jun 2026 17:00:15 GMT</pubDate>
+      <guid isPermaLink="false">5d0e8dd38b3b</guid>
+      <source url="https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228">Hacker News</source>
     </item>
     <item>
       <title>Syci lepiej niż białko. Potwierdzono, że hamuje głód</title>
@@ -24,12 +72,68 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Syci-lepiej-niz-bialko-Potwierdzono-ze-hamuje-glod,286001,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Całoroczny zakaz jednak niezgodny z prawem. Sutryk przegrał w sądzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dbf5440ecead</link>
+      <description>Wojewódzki Sąd Administracyjny oddalił skargę Gminy Wrocław w sprawie unieważnionej przez wojewodę uchwały dotyczącej całorocznego zakazu fajerwerków. Wcześniej wojewoda uznała, że taki zakaz jest niezgodny z obowiązującymi w kraju przepisami. Do tej opinii przychylił się sąd.</description>
+      <pubDate>Sat, 27 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">dbf5440ecead</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Caloroczny-zakaz-jednak-niezgodny-z-prawem-Sutryk-przegral-w-sadzie-9157965.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Pożar hali, wielki słup dymu. 100 strażaków w akcji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e2fca4d9885</link>
+      <description>Ponad 100 strażaków zostało wysłanych do gaszenia pożaru hali w Mszanie Dolnej (województwo małopolskie), w której znajduje się stacja diagnostyczna pojazdów. Przed godziną 19 straż pożarna przekazała, że żywioł został opanowany, trwa dogaszanie.</description>
+      <pubDate>Sat, 27 Jun 2026 16:55:11 GMT</pubDate>
+      <guid isPermaLink="false">7e2fca4d9885</guid>
+      <source url="https://tvn24.pl/polska/mszana-dolna-pozar-stacji-diagnostycznej-pojazdow-100-strazakow-w-akcji-st9117600?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Legia żegna Kacpra Urbańskiego. 21-letni pomocnik opuszcza Łazienkowską</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/686431ceceeb</link>
+      <description>To koniec przygody Kacpra Urbańskiego z Legią Warszawa. Stołeczny klub poinformował o rozwiązaniu kontraktu z młodym pomocnikiem za porozumieniem stron.</description>
+      <pubDate>Sat, 27 Jun 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="false">686431ceceeb</guid>
+      <source url="https://www.rmf24.pl/pilka-nozna/news-kacper-urbanski-odchodzi-z-legii-warszawa,nIdn,1007890">RMF24</source>
+    </item>
+    <item>
+      <title>Apple Vision Pro exec is reportedly leaving for OpenAI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e99e21695232</link>
+      <description>Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.</description>
+      <pubDate>Sat, 27 Jun 2026 16:45:09 GMT</pubDate>
+      <guid isPermaLink="false">e99e21695232</guid>
+      <source url="https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Historyczne wartości w Niemczech i Czechach. Jeden rekord po drugim</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e27a88da6cb6</link>
+      <description>Europa mierzy się z falą wysokich temperatur. W niektórych miejscach na kontynencie w sobotę doszło do pobicia historycznych rekordów. Jak ostrzegają agencje meteorologiczne, Stary Kontynent jest uwięziony pod kopułą ciepła, co może skutkować kolejnymi rekordami.</description>
+      <pubDate>Sat, 27 Jun 2026 16:41:46 GMT</pubDate>
+      <guid isPermaLink="false">e27a88da6cb6</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/upaly-w-europie-historyczne-wartosci-w-niemczech-i-czechach-rekordy-padaja-jeden-po-drugim-st9117590?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>16 tys. osób czeka w kolejce. 300 zł za każdy dzień opieki</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f109010eb9ef</link>
       <description>Ponad 16 tys. osób czeka dziś na miejsce w zakładach opiekuńczo-leczniczych, a kolejne tysiące oczekują na przyjęcie do zakładów pielęgnacyjno-opiekuńczych. Podano nowe dane, które pokazują skalę problemu i rosnące wyzwania związane ze starzeniem się społeczeństwa.</description>
       <pubDate>Sat, 27 Jun 2026 16:30:00 GMT</pubDate>
       <guid isPermaLink="false">f109010eb9ef</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/16-tys-osob-czeka-w-kolejce-300-zl-za-kazdy-dzien-opieki,286005,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Rekordowe upały w Czechach i Niemczech. Popękane drogi, odwoływane pociągi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02a8a3ce852d</link>
+      <description>Europa zmaga się z falą upałów. W Czechach i Niemczech padły właśnie historyczne rekordy temperatury, a skutki ekstremalnego gorąca odczuwają nie tylko mieszkańcy, ale także infrastruktura i transport. Synoptycy ostrzegają, że to jeszcze nie koniec.</description>
+      <pubDate>Sat, 27 Jun 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">02a8a3ce852d</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-fala-upalow-w-europie-rekordowe-temperatury-w-czechach-i-w-n,nIdn,1007888">RMF24</source>
+    </item>
+    <item>
+      <title>Dwie planety lżejsze niż wata cukrowa. Są wielkości Jowisza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5bcbdf2e355d</link>
+      <description>Dwie egzoplanety TOI-791 b i c mają rozmiary Jowisza, ale gęstość niższą niż wata cukrowa. Astronomowie chcą zbadać je teleskopem Webba.</description>
+      <pubDate>Sat, 27 Jun 2026 16:00:30 GMT</pubDate>
+      <guid isPermaLink="false">5bcbdf2e355d</guid>
+      <source url="https://antyweb.pl/toi-791b-toi-791c-egzoplanety">Antyweb</source>
     </item>
     <item>
       <title>Prawda o polskich sanatoriach. Nieakceptowalny proceder rośnie w siłę</title>
@@ -46,6 +150,22 @@
       <pubDate>Sat, 27 Jun 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="false">5a6959110284</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Finanse-szpitali-problemy-maja-nie-tylko-placowki-powiatowe-Jest-zle-ale-tak-jak-wszedzie,285157,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Where does Scotland&apos;s campaign leave head coach Steve Clarke?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02b7cf311c0e</link>
+      <description>Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?</description>
+      <pubDate>Sat, 27 Jun 2026 15:50:25 GMT</pubDate>
+      <guid isPermaLink="false">02b7cf311c0e</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Coraz więcej przygodnego seksu, a testów na STI wciąż za mało. Te infekcje często są bezobjawowe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56a1292acc17</link>
+      <description>Najnowsze dane dotyczące infekcji przenoszonych drogą seksualną (STI) są alarmujące. O przyczynach gwałtownego wzrostu takich zachorowań rozmawiamy z Agnieszką Tan, specjalistką wenerologii i medycyny HIV. - Obserwujemy zjawisko, które po angielsku nazywamy &quot;condom fatigue&quot;. Ludzie nie chcą korzystać z prezerwatyw, twierdząc, że seks z ich użyciem daje gorsze odczucia albo że mają problem z dobraniem rozmiaru - wyjaśnia lekarka.</description>
+      <pubDate>Sat, 27 Jun 2026 15:48:11 GMT</pubDate>
+      <guid isPermaLink="false">56a1292acc17</guid>
+      <source url="https://tvn24.pl/zdrowie/przygodny-seks-i-ryzyko-czym-sa-sti-rekordowy-wzrost-zakazen-kila-i-rzezaczka-w-europie-st9112434?source=rss">TVN24</source>
     </item>
     <item>
       <title>Twój mózg zdradza, kiedy kłamiesz. Naukowcy wiedzą, jak to odczytać</title>
@@ -216,6 +336,22 @@
       <source url="https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/">TechCrunch</source>
     </item>
     <item>
+      <title>Ile na wakacje wyda statystyczny Polak?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f4e74001561e</link>
+      <description>Średnio 2042 zł wyda statystyczny Polak na tegoroczne wakacje; to o niemal 300 zł więcej niż rok wcześniej - wynika z badania „Wakacyjny Portfel Polaków 2026”. Przeciętne gospodarstwo domowe na letni wypoczynek przeznaczy ok. 5,1 tys. zł, czyli ponad 700 zł więcej niż w 2025 r.</description>
+      <pubDate>Sat, 27 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f4e74001561e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ile-na-wakacje-wyda-statystyczny-Polak-9157611.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>1,4 mld zł na naukową rewolucję. Polska chce stworzyć „polski Stanford”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fd50dc0d7a15</link>
+      <description>Około 1,4 mld zł w ciągu pięciu lat miałoby kosztować stworzenie w Polsce nowej instytucji naukowej działającej według zasad najlepszych ośrodków świata. O kulisach projektu i jego celach opowiedział PAP prof. Leszek Pacholski.</description>
+      <pubDate>Sat, 27 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fd50dc0d7a15</guid>
+      <source url="https://www.bankier.pl/wiadomosc/1-4-mld-zl-na-naukowa-rewolucje-Polska-chce-stworzyc-polski-Stanford-9155908.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
       <title>Strażacy pomagają zwierzętom w trakcie upałów. Polali schronisko</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6c3d089cf81a</link>
       <description>Na upały, które przechodzą przez Polskę, narażeni są nie tylko ludzie, ale też zwierzęta. Na pomoc ruszyli strażacy z OSP &quot;Przylep&quot; z Zielonej Góry, którzy w ten upalny weekend pomogli schłodzić się podopiecznym schroniska w Zielonej Górze.</description>
@@ -270,142 +406,6 @@
       <pubDate>Sat, 27 Jun 2026 13:32:20 GMT</pubDate>
       <guid isPermaLink="false">bd432b06db71</guid>
       <source url="https://danluu.com/discontinuities/">Hacker News</source>
-    </item>
-    <item>
-      <title>600 tys. Polaków żyje z otępieniem. Zbyt późna diagnoza zamyka drogę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c3326b44c6cc</link>
-      <description>Niedawno otrzymaliśmy do ręki pierwsze klinicznie potwierdzone narzędzia, leki, które powodują spowolnienie rozwoju choroby Alzheimera. Teraz najważniejsze jest sprawne rozpoznawanie pacjentów na wczesnym etapie choroby, bo właśnie do nich adresowane są te terapie – mówił w Sejmie prof. Bartosz Karaszewski, konsultant krajowy w dziedzinie neurologii.</description>
-      <pubDate>Sat, 27 Jun 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">c3326b44c6cc</guid>
-      <source url="https://www.rynekzdrowia.pl/Neurologia/600-tys-Polakow-zyje-z-otepieniem-Zbyt-pozna-diagnoza-zamyka-droge,285849,208.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Trzęsienie ziemi w Wenezueli. Mama uratowała malutką córkę, ale sama zginęła</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/57d911d93f0c</link>
-      <description>Żona wenezuelskiego piłkarza uratowała życie ich malutkiej córeczce, ale sama zginęła - przekazał w mediach społecznościowych jej mąż, Hector Bello. &quot;Opowiem jej historię o tym, jak ją uratowałaś, kochanie - jak oddałaś życie za naszą córkę&quot; - napisał.</description>
-      <pubDate>Sat, 27 Jun 2026 13:24:12 GMT</pubDate>
-      <guid isPermaLink="false">57d911d93f0c</guid>
-      <source url="https://tvn24.pl/swiat/trzesienie-ziemi-w-wenezueli-zona-pilkarza-hectora-bello-uratowala-ich-malutka-corke-ale-sama-zginela-st9117176?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ryzyko drastycznie teraz wzrasta. &quot;Wstęp&quot; do raka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/25428bbe0e0c</link>
-      <description>Oparzenie słoneczne to nie tylko uszkodzenie skóry, ale i ryzyko udaru oraz rozwoju czerniaka. W przypadku pojawienia się gorączki, dreszczy lub pęcherzy niezbędna jest pomoc lekarska – podkreśliła chirurg plastyczna dr n. med. Aldona Stachura ze szpitala św. Barbary w Sosnowcu.</description>
-      <pubDate>Sat, 27 Jun 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="false">25428bbe0e0c</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Ryzyko-drastycznie-teraz-wzrasta-Wstep-do-raka,285998,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Zakupy w upał. Wyjątkowa niedziela</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/14971e860a7b</link>
-      <description>W pierwszy weekend wakacji - 28 czerwca - wypada niedziela handlowa. Oznacza to, że w dzień upałów sięgających 40 stopni Celsjusza, centra handlowe będą otwarte. Następna niedziela bez zakazu handlu będzie dopiero w sierpniu.</description>
-      <pubDate>Sat, 27 Jun 2026 13:19:25 GMT</pubDate>
-      <guid isPermaLink="false">14971e860a7b</guid>
-      <source url="https://tvn24.pl/biznes/handel/niedziela-28-czerwca-2026-czy-jest-handlowa-czy-sklepy-beda-otwarte-czynne-st9117366?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Lalka&quot; od Netfliksa z datą premiery. Jest też nowy zwiastun</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/049bb48776e5</link>
-      <description>Polscy twórcy w niemal jednym czasie wzięli na warsztat klasykę polskiej literatury - &quot;Lalkę&quot; Bolesława Prusa i w ciągu 2 tygodni dostaniemy dwie wersje filmowe.</description>
-      <pubDate>Sat, 27 Jun 2026 13:19:03 GMT</pubDate>
-      <guid isPermaLink="false">049bb48776e5</guid>
-      <source url="https://antyweb.pl/lalka-od-netfliksa-z-data-premiery-jest-tez-nowy-zwiastun">Antyweb</source>
-    </item>
-    <item>
-      <title>Śmigłowiec LPR lądował na plaży. Nie żyje mężczyzna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/65a9c87bfe5f</link>
-      <description>Lotnicze Pogotowie Ratunkowe zostało wezwane do mężczyzny w miejscowości Pogorzelica (woj. zachodniopomorskie). Mimo podjętych działań, nie udało się go uratować.</description>
-      <pubDate>Sat, 27 Jun 2026 13:17:07 GMT</pubDate>
-      <guid isPermaLink="false">65a9c87bfe5f</guid>
-      <source url="https://tvn24.pl/szczecin/smiglowiec-lpr-ladowal-na-plazy-nie-zyje-mezczyzna-st9117426?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Upał we Włoszech. Lekarze i pielęgniarki w punktach pomocy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d8b455d0c2a</link>
-      <description>W Rzymie i w 17 innych włoskich miastach obowiązuje w sobotę najwyższy stopień alertu z powodu upału. W Wiecznym Mieście, gdzie przebywają tysiące turystów, z myślą o nich i mieszkańcach zainstalowano systemy rozpylania mgły chłodzącej. Działają też punkty pomocy medycznej.</description>
-      <pubDate>Sat, 27 Jun 2026 13:11:00 GMT</pubDate>
-      <guid isPermaLink="false">1d8b455d0c2a</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Upal-we-Wloszech-Lekarze-i-pielegniarki-w-punktach-pomocy,285999,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Hezbollah wydał komunikat. „Porozumienie między Izraelem a Libanem nieważne”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1b7d424578f0</link>
-      <description>Przywódca Hezbollahu oświadczył, że porozumienie ramowe między Izraelem a Libanem jest nieważne i musi zostać zastąpione memorandum między Iranem a USA. Poinformowała o tym agencja Reutera. Dowódca Hezbollahu oświadczył, że ugrupowanie będzie wywierać presję, dopóki Izrael nie wycofa się z Libanu.</description>
-      <pubDate>Sat, 27 Jun 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="false">1b7d424578f0</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-hezbollah-wydal-komunikat-porozumienie-miedzy-izraelem-a-lib,nIdn,1007879">RMF24</source>
-    </item>
-    <item>
-      <title>Wenezuela po trzęsieniu ziemi. Wśród ofiar wielu obcokrajowców</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c33487cff8ca</link>
-      <description>W środę, tuż po godzinie 18 czasu lokalnego, Wenezuelę nawiedziły dwa potężne trzęsienia ziemi o sile 7,2 oraz 7,5 w skali Richtera. Wstrząsy, które wystąpiły w północno-zachodnią częścią kraju, zebrały śmiertelne żniwo – oficjalnie potwierdzono już 920 ofiar, a liczba rannych przekroczyła 3,3 tysiąca. Wśród zabitych są obywatele wielu państw, w tym Europy. Eksperci alarmują: bilans tragedii może być znacznie wyższy.</description>
-      <pubDate>Sat, 27 Jun 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="false">c33487cff8ca</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-trzesienie-ziemi-w-wenezueli-wsrod-ofiar-wielu-obcokrajowcow,nIdn,1007878">RMF24</source>
-    </item>
-    <item>
-      <title>Trafił do szpitala ze zwichniętym barkiem i zmarł. Prokuratura powołuje biegłych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8dd001e1214a</link>
-      <description>Prokuratura powoła zespół biegłych, którzy ocenią prawidłowość działań personelu szpitala w Radomiu wobec pacjenta, który ze zwichniętym barkiem trafił na SOR, a ostatecznie zmarł po miesiącu w zakładzie opiekuńczo-leczniczym - poinformowała rzeczniczka Prokuratury Okręgowej w Radomiu Aneta Góźdź.</description>
-      <pubDate>Sat, 27 Jun 2026 13:01:26 GMT</pubDate>
-      <guid isPermaLink="false">8dd001e1214a</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/radom-smierc-po-pobycie-na-sor-prokuratura-powoluje-bieglych-st9117367?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Upały w Europie. 193 miliony ludzi kontra 35-stopniowy skwar</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a591a0e7c212</link>
-      <description>Sobota zapowiada się jako dzień ekstremalnie wysokich temperatur dla całej Europy. Francuska agencja prasowa AFP podała, że zatrważająco dużo ludzi doświadczy temperatur powyżej 30 i 35 stopni Celsjusza.</description>
-      <pubDate>Sat, 27 Jun 2026 13:00:47 GMT</pubDate>
-      <guid isPermaLink="false">a591a0e7c212</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/upaly-w-europie-193-miliony-ludzi-kontra-35-stopniowy-skwar-st9117111?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nigdy więcej z Rayanair. Miałem problem i zostałem na lodzie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/48ad2fed2bd6</link>
-      <description>Jeżeli wybierasz się w najbliższym czasie na wakacje i lecisz samolotem Rayanaira, to lepiej, żeby nie było żadnych nieoczekiwanych sytuacji. W ostateczności możesz zostać na lodzie. Tak, jak ja.</description>
-      <pubDate>Sat, 27 Jun 2026 13:00:14 GMT</pubDate>
-      <guid isPermaLink="false">48ad2fed2bd6</guid>
-      <source url="https://antyweb.pl/nigdy-wiecej-z-rayanair-mialem-problem-i-zostalem-na-lodzie">Antyweb</source>
-    </item>
-    <item>
-      <title>Trauma: Jak rozpoznać objawy i gdzie szukać pomocy?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a87435d79ee</link>
-      <description>Dowiedz się, czym jest trauma, jakie są jej objawy i jak wpływa na zdrowie psychiczne. Poznaj rolę psychotraumatologa i psychoterapeuty w leczeniu PTSD i complex PTSD. Wywiad z Karoliną Borek-Cygan, specjalistką w dziedzinie psychotraumatologii.</description>
-      <pubDate>Sat, 27 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2a87435d79ee</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-trauma-objawy-skutki-i-profesjonalna-pomoc-w-leczeniu-ptsd-i,nIdn,999963">RMF24</source>
-    </item>
-    <item>
-      <title>Watch: Moment newborn baby is rescued from Venezuela earthquake rubble</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b32c9a19cc49</link>
-      <description>Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.</description>
-      <pubDate>Sat, 27 Jun 2026 12:51:25 GMT</pubDate>
-      <guid isPermaLink="false">b32c9a19cc49</guid>
-      <source url="https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>How Many Elementary Particles Are There, Really?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e6c9dc78eb0c</link>
-      <description>Plausible answers range from 17 to — in all seriousness — 995.5.</description>
-      <pubDate>Sat, 27 Jun 2026 12:40:59 GMT</pubDate>
-      <guid isPermaLink="false">e6c9dc78eb0c</guid>
-      <source url="https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/">Hacker News</source>
-    </item>
-    <item>
-      <title>Polska przestaje być tania. Nowe dane o cenach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b009b6f320f6</link>
-      <description>W 2025 roku ceny w Polsce były na poziomie 73,3 procent średniej unijnej. Wzrost napędzają wydatki na żywność, energię i usługi - podał Polski Instytut Ekonomiczny (PIE).</description>
-      <pubDate>Sat, 27 Jun 2026 12:40:05 GMT</pubDate>
-      <guid isPermaLink="false">b009b6f320f6</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/ceny-w-polsce-a-srednia-ue-doganiamy-europe-raport-pie-st9117115?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>W awanturze ucierpiały dwie osoby. Sprawca uciekł do lasu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/00d98ce46b60</link>
-      <description>Trwają czynności z 20-latkiem, którego zatrzymano w Małopolsce. Według policji mężczyzna może mieć związek z awanturą, w której ucierpiały dwie osoby.</description>
-      <pubDate>Sat, 27 Jun 2026 12:17:17 GMT</pubDate>
-      <guid isPermaLink="false">00d98ce46b60</guid>
-      <source url="https://tvn24.pl/krakow/malopolska-powiat-wadowicki-awantura-domowa-dwie-osoby-poszkodowane-policja-zatrzymala-20-latka-st9117164?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
