@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 28 Jun 2026 19:49:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:22:26 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Popularna przyprawa powiązana z otyłością. Uderza prosto w wątrobę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba83fee001e3</link>
+      <description>Glutaminian sodu (MSG) jest powszechnie stosowanym wzmacniaczem smaku. Nowe badanie sugeruje, że jego nadmiar może sprzyjać otyłości i chorobom wątroby.</description>
+      <pubDate>Sun, 28 Jun 2026 22:35:00 GMT</pubDate>
+      <guid isPermaLink="false">ba83fee001e3</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Popularna-przyprawa-powiazana-z-otyloscia-Uderza-prosto-w-watrobe,286025,11.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Kiedyś hit na odchudzanie. Osłabia jelita i doprowadza wątrobę do ruiny</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7e6cb970a613</link>
@@ -32,6 +40,46 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Nowy-czynnik-wykancza-watrobe-9-lat-badan-dalo-przelomowe-odkrycie,286022,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Jest pierwsza ofiara śmiertelna rekordowych upałów w Polsce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ccb428fc0fad</link>
+      <description>„Dzisiaj na zamkniętym z powodu rewitalizacji kąpielisku &apos;Glinianki&apos; zmarła kobieta. Prawdopodobna przyczyną zgonu była reakcja organizmu na wysokie temperatury. Teren jest zamknięty i wyłączony z użytkowania” - poinformował dziś wieczorem prezydent Chełma w województwie lubelskim, Jakub Banaszek. Tam, podobnie jak w większości kraju, słupki na termometrach pokazały niemal 40 st. C.</description>
+      <pubDate>Sun, 28 Jun 2026 20:12:00 GMT</pubDate>
+      <guid isPermaLink="false">ccb428fc0fad</guid>
+      <source url="https://www.rmf24.pl/regiony/lublin/news-jest-pierwsza-ofiara-smiertelna-rekordowych-upalow-w-polsce,nIdn,1007953">RMF24</source>
+    </item>
+    <item>
+      <title>Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a1b48f78d57</link>
+      <description>Bash-first wrapper for Groq’s OpenAI-compatible API. Secure, portable, Termux-friendly.  - kamaludu/bash4llm</description>
+      <pubDate>Sun, 28 Jun 2026 19:43:10 GMT</pubDate>
+      <guid isPermaLink="false">8a1b48f78d57</guid>
+      <source url="https://github.com/kamaludu/bash4llm/">Hacker News</source>
+    </item>
+    <item>
+      <title>Pożar hali produkcyjnej na Podkarpaciu. Strażacy walczą z ogniem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a5809b673cda</link>
+      <description>Płonie hala produkcyjna w Zaklikowie koło Stalowej Woli na Podkarpaciu. Na miejscu akcję prowadzi sześć zastępów straży pożarnej.</description>
+      <pubDate>Sun, 28 Jun 2026 19:40:00 GMT</pubDate>
+      <guid isPermaLink="false">a5809b673cda</guid>
+      <source url="https://www.rmf24.pl/regiony/rzeszow/news-zaklikow-pozar-tartaku-kolo-stalowej-woli,nIdn,1007952">RMF24</source>
+    </item>
+    <item>
+      <title>Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/521f65d1725a</link>
+      <description>GPT-2-style LLM built from scratch in C/CUDA with hand-written backprop, BPE tokenizer, FlashAttention, pretraining, and SFT. - JustVugg/nanoeuler</description>
+      <pubDate>Sun, 28 Jun 2026 19:38:14 GMT</pubDate>
+      <guid isPermaLink="false">521f65d1725a</guid>
+      <source url="https://github.com/JustVugg/nanoeuler">Hacker News</source>
+    </item>
+    <item>
+      <title>TOP500 at ISC&apos;26: We Have a New Number 1 – By George Cozma</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/906d71574f2d</link>
+      <description>Hello you fine Internet folks,</description>
+      <pubDate>Sun, 28 Jun 2026 19:38:00 GMT</pubDate>
+      <guid isPermaLink="false">906d71574f2d</guid>
+      <source url="https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number">Hacker News</source>
+    </item>
+    <item>
       <title>W Polsce nadal kupisz bez problemu. Kolejne kraje wprowadzają zakaz</title>
       <link>https://lolsoftware.github.io/4-news/#/article/15b991e80986</link>
       <description>Ten barwnik znajdziesz w żelkach, napojach, deserach i dżemach. W Unii Europejskiej jest dozwolony, ale producenci muszą umieszczać na opakowaniu specjalne ostrzeżenie dotyczące możliwego wpływu na aktywność i koncentrację u dzieci.</description>
@@ -48,6 +96,14 @@
       <source url="https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>Czy w kampanii wyborczej próbowano otruć Karola Nawrockiego?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2d2e4a565235</link>
+      <description>Do sieci trafiły fragmenty książki, z których wynika, że prezydent w trakcie jednej z podróży bardzo źle się poczuł, zemdlał, miał drgawki i stracił przytomność. Pojawiły się sugestie, że próbowano otruć Karola Nawrockiego. Dlaczego o sprawie nie zawiadomiono prokuratury czy policji? Czy przeprowadzono badania toksykologiczne? Czy służby powinny zająć się tą sprawą? Gościem w Porannej rozmowie w RMF FM będzie Janusz Cieszyński, poseł PiS, były minister cyfryzacji i były wiceminister zdrowia.</description>
+      <pubDate>Sun, 28 Jun 2026 19:15:00 GMT</pubDate>
+      <guid isPermaLink="false">2d2e4a565235</guid>
+      <source url="https://www.rmf24.pl/rozmowy-sg/news-czy-w-kampanii-wyborczej-probowano-otruc-karola-nawrockiego,nIdn,1007950">RMF24</source>
+    </item>
+    <item>
       <title>Ford rehires ‘gray beard’ engineers after AI falls short</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1b13fe6ad15a</link>
       <description>&quot;Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”</description>
@@ -62,6 +118,14 @@
       <pubDate>Sun, 28 Jun 2026 19:05:00 GMT</pubDate>
       <guid isPermaLink="false">fa17d9c77d14</guid>
       <source url="https://www.youtube.com/watch?v=3JelezQY99s">RMF24</source>
+    </item>
+    <item>
+      <title>Poranna rozmowa RMF FM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7a8232bc4cf1</link>
+      <description>Do sieci trafiły fragmenty książki, z których wynika, że prezydent w trakcie jednej z podróży bardzo źle się poczuł, zemdlał, miał drgawki i stracił przytomność. Pojawiły się sugestie, że próbowano otruć Karola Nawrockiego. Dlaczego o sprawie nie zawiadomiono prokuratury czy policji? Czy przeprowadzono badania toksykologiczne? Czy służby powinny zająć się tą sprawą? Gościem w Porannej rozmowie w RMF FM będzie Janusz Cieszyński, poseł PiS, były minister cyfryzacji i były wiceminister zdrowia.</description>
+      <pubDate>Sun, 28 Jun 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="false">7a8232bc4cf1</guid>
+      <source url="https://www.rmf24.pl/na-zywo-sg/news-czy-w-kampanii-wyborczej-probowano-otruc-karola-nawrockiego,nIdn,1007950">RMF24</source>
     </item>
     <item>
       <title>Kortyzol obniżył się o 22 proc. Godzina wystarczyła</title>
@@ -128,6 +192,14 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Lex-szartalan-zakazy-dotyczace-alkoholu-siec-onkologiczna-1-3-lipca-kolejne-posiedzenie-Sejmu,285987,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Historical memory prices 1960-2026</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dc3cd2e98096</link>
+      <description>Historical and current prices for DRAM, HBM, and NAND flash.</description>
+      <pubDate>Sun, 28 Jun 2026 18:32:53 GMT</pubDate>
+      <guid isPermaLink="false">dc3cd2e98096</guid>
+      <source url="https://dam.stanford.edu/memory-prices.html">Hacker News</source>
+    </item>
+    <item>
       <title>The cost YAGNI was never about</title>
       <link>https://lolsoftware.github.io/4-news/#/article/db3c083f8084</link>
       <description>If you think YAGNI is about saving effort, cheap generation should retire it. It doesn&apos;t. Here&apos;s why.</description>
@@ -182,6 +254,14 @@
       <pubDate>Sun, 28 Jun 2026 17:55:00 GMT</pubDate>
       <guid isPermaLink="false">ecc9c08f02a1</guid>
       <source url="https://www.rmf24.pl/strona-glowna/news-miedzywodzie-mezczyzna-zginal-ratujac-dwoje-dzieci,nIdn,1007946">RMF24</source>
+    </item>
+    <item>
+      <title>GLM 5.2 beats Claude in our benchmarks</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/71e88a41716b</link>
+      <description>Among models given nothing but a prompt, the best open-weight option beat Claude Opus 4.8.</description>
+      <pubDate>Sun, 28 Jun 2026 17:50:47 GMT</pubDate>
+      <guid isPermaLink="false">71e88a41716b</guid>
+      <source url="https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/">Hacker News</source>
     </item>
     <item>
       <title>Blokuje odkładanie się tkanki tłuszczowej. 5 g wystarczyło</title>
@@ -326,86 +406,6 @@
       <pubDate>Sun, 28 Jun 2026 16:38:55 GMT</pubDate>
       <guid isPermaLink="false">68b1086f5bab</guid>
       <source url="https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Nowe święto w Polsce? Oto co ogłosił prezydent podczas obchodów Czerwca ’56</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/52a6c32d8c90</link>
-      <description>Karol Nawrocki podpisał inicjatywę ustawodawczą, aby 28 czerwca został Dniem Działaczy Opozycji Antykomunistycznej i Osób Represjonowanych z Powodów Politycznych. Poinformował o tym podczas dzisiejszych uroczystości w Poznaniu upamiętniających 70. rocznicę Czerwca ’56.</description>
-      <pubDate>Sun, 28 Jun 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="false">52a6c32d8c90</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-karol-nawrocki-proponuje-ustanowienie-28-czerwca-dniem-dzial,nIdn,1007941">RMF24</source>
-    </item>
-    <item>
-      <title>I used Claude Code to get a second opinion on my MRI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/795c64010bad</link>
-      <description>My experiencing trying to get a second opinion on my shoulder injury using Claude Code. It&apos;s a fascinating glimpse into the future but it&apos;s hard to have full confidence in the results just yet.</description>
-      <pubDate>Sun, 28 Jun 2026 16:35:19 GMT</pubDate>
-      <guid isPermaLink="false">795c64010bad</guid>
-      <source url="https://antoine.fi/mri-analysis-using-claude-code-opus">Hacker News</source>
-    </item>
-    <item>
-      <title>Kosiniak-Kamysz: NATO musi potwierdzić swoją jedność</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b499e0597607</link>
-      <description>Minister obrony narodowej, wicepremier Władysław Kosiniak-Kamysz ocenił, że zbliżający się szczyt NATO w Ankarze będzie &quot;wykonawczy dla decyzji sprzed roku&quot;. Jako cele wskazał potwierdzenie jedności Sojuszu, omówienie rozbudowy rurociągów NATO na wschodniej flance oraz rozwoju branży zbrojeniowej w Europie.</description>
-      <pubDate>Sun, 28 Jun 2026 16:32:46 GMT</pubDate>
-      <guid isPermaLink="false">b499e0597607</guid>
-      <source url="https://tvn24.pl/swiat/wladyslaw-kosiniak-kamysz-o-celach-polski-na-szczycie-nato-w-turcji-st9118706?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/71c53abdee00</link>
-      <description>Necessity being the mother of invention, this led to the creation of an ingenious solution: daisugi, the growing of additional trees, in effect, out of existing trees</description>
-      <pubDate>Sun, 28 Jun 2026 16:28:50 GMT</pubDate>
-      <guid isPermaLink="false">71c53abdee00</guid>
-      <source url="https://www.openculture.com/2020/10/daisugi.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Tokenmaxxing is dead, long live tokenmaxxing</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/238a9ab1358a</link>
-      <description>The birth and death and rebirth of *checks notes* spending tons of money for no reason</description>
-      <pubDate>Sun, 28 Jun 2026 16:24:10 GMT</pubDate>
-      <guid isPermaLink="false">238a9ab1358a</guid>
-      <source url="https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing">Hacker News</source>
-    </item>
-    <item>
-      <title>Reflections on Software Engineering in the Age of AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e6b76b88aede</link>
-      <description>For those of you who don’t know, when I’m not writing novels, I spend my days as a software engineer, writing code. The software industry these days relies heavily on artificial intelligence. Because it has studied trillions of lines of publicly accessible source code, because code solves problems with testable right and wrong solutions, and because code is structured specifically to be understood by computers, AI has gotten very good at writing code.</description>
-      <pubDate>Sun, 28 Jun 2026 16:17:38 GMT</pubDate>
-      <guid isPermaLink="false">e6b76b88aede</guid>
-      <source url="https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/">Hacker News</source>
-    </item>
-    <item>
-      <title>Examining circuit boards from the Space Shuttle&apos;s I/O Processor</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39221a396646</link>
-      <description>The Space Shuttle&apos;s five 1  general-purpose computers played a critical role in each flight: controlling the engines, monitoring thousands o...</description>
-      <pubDate>Sun, 28 Jun 2026 16:16:07 GMT</pubDate>
-      <guid isPermaLink="false">39221a396646</guid>
-      <source url="https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html">Hacker News</source>
-    </item>
-    <item>
-      <title>British man held in Ecuador after woman&apos;s body found in suitcase </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a8d51d2b9fca</link>
-      <description>Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was found dead in Colombia.</description>
-      <pubDate>Sun, 28 Jun 2026 16:07:44 GMT</pubDate>
-      <guid isPermaLink="false">a8d51d2b9fca</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: All eyes on Tesla FSD</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2ecad164504c</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.</description>
-      <pubDate>Sun, 28 Jun 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="false">2ecad164504c</guid>
-      <source url="https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Fourteen killed in Saudi Arabia helicopter crash </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/36ad6890d032</link>
-      <description>The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.</description>
-      <pubDate>Sun, 28 Jun 2026 15:42:01 GMT</pubDate>
-      <guid isPermaLink="false">36ad6890d032</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
