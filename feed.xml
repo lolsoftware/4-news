@@ -5,8 +5,32 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 01 Jul 2026 20:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:53:06 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aunt of Venezuelan boy pulled from rubble tells BBC she will give him &apos;mother&apos;s warmth&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2e582e8d453c</link>
+      <description>Kleiber Moran, 2, was rescued on Wednesday, six days after last week&apos;s deadly earthquakes.</description>
+      <pubDate>Wed, 01 Jul 2026 21:27:04 GMT</pubDate>
+      <guid isPermaLink="false">2e582e8d453c</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Ukraina: Zełenski o „niepokojących informacjach”, zmasowany atak Rosji, ogień w Kijowie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/59a08c6fbc01</link>
+      <description>W środę późnym wieczorem Kijów znalazł się pod rosyjskim atakiem powietrznym. Ukraińskie systemy obrony zdołały zestrzelić nadlatujące drony, jednak ich szczątki spadły w różnych częściach miasta, powodując pożar w centrum stolicy.</description>
+      <pubDate>Wed, 01 Jul 2026 21:27:00 GMT</pubDate>
+      <guid isPermaLink="false">59a08c6fbc01</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zmasowany-atak-na-ukraine-ogien-w-kijowie-zelenski-ostrzega,nIdn,1008404">RMF24</source>
+    </item>
+    <item>
+      <title>T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1a736c748026</link>
+      <description>T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.</description>
+      <pubDate>Wed, 01 Jul 2026 21:21:21 GMT</pubDate>
+      <guid isPermaLink="false">1a736c748026</guid>
+      <source url="https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/">Ars Technica</source>
+    </item>
     <item>
       <title>Polacy masowo składają wnioski w ZUS. Można zyskać więcej urlopu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/10ae9e806cc1</link>
@@ -14,6 +38,90 @@
       <pubDate>Wed, 01 Jul 2026 21:15:00 GMT</pubDate>
       <guid isPermaLink="false">10ae9e806cc1</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Polacy-masowo-skladaja-wnioski-w-ZUS-Mozna-zyskac-wiecej-urlopu,286148,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Rayner offers support to Burnham&apos;s &apos;vision&apos; to devolve power to communities</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d51d8bf6bbe6</link>
+      <description>Rayner argued the &quot;devolution revolution&quot; has already begun in England but more needs to be done.</description>
+      <pubDate>Wed, 01 Jul 2026 21:13:50 GMT</pubDate>
+      <guid isPermaLink="false">d51d8bf6bbe6</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c77yeykgxlpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Proliferate (YC S25) Is Hiring</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/db8dfd88c14e</link>
+      <description>About Proliferate
+
+Proliferate is the open, harness-agnostic platform for running coding agents- Claude Code, Codex, Gemini CLI, whatever
+comes next- in parallel, locally and in the cloud. We think the next decade of software gets built by engineers
+directing fleets of agents, and that layer shouldn&apos;t belong to any one model vendor. We&apos;re building it.
+
+We&apos;re backed by True Ventures, Pear VC, and 50+ YC founders, with plenty of money to keep building through rough
+patches. We work in person in SoMa, San Francisco.
+
+About me, the founder
+
+I&apos;m Pablo. I finished my master&apos;s in AI at 19, joined Onyx (YC W24) as engineer #1, spent a year building enterprise AI
+search, then started Proliferate. You&apos;d be hire #1- we&apos;d work side by side every day, and there is a lot of room to
+grow.
+
+How we work
+
+  - We ship unusually fast
+  - Tiny team, absurd ownership: you will build core pieces of product end to end.
+  - We take health extremely seriously: company-expensed Whoop, wellness stipend, all meals covered, top-tier insurance-
+    and a culture that treats sleep, training, and building a good life as tenets of a good company culture.
+
+Example work
+
+  - Build a new core workflow end to end across agent runtime, product UI, and cloud infrastructure.
+  - Design a new interface for human-agent collaboration made possible by a model capability that landed last week (or
+    earlier today).
+  - Turn a rough customer pain point into a polished product surface in days.
+  - Re-think how engineering teams review, redirect, and trust agent work before merge.
+
+You might be a great fit if
+
+  - You&apos;ve shipped products 0→1 and have strong opinions about software
+  - You use AI tools conscientiously- and have real takes about where they fail
+  - You want a role unusually dense in learning, ownership, and pace
+  - You care deeply about what you build and who you build it with
+
+Things we DON&apos;T care much about
+
+  - Experience with our stack (TypeScript, React, Rust, Postgres, AWS- you&apos;ll pick it up)
+  - AI/ML research background- we&apos;re looking for excellent software engineers
+  - Years of experience. New grads welcome; the work trial is the resume.
+
+Compensation
+
+For exceptional people, we&apos;re happy to be exceptional- especially on equity.
+
+Interview process
+
+1.  15-minute call with Pablo
+2.  30-minute technical conversation with a codebase open on your end
+3.  Paid work trial- 1-3 days, $1-3K
+4.  References + offer</description>
+      <pubDate>Wed, 01 Jul 2026 21:00:14 GMT</pubDate>
+      <guid isPermaLink="false">db8dfd88c14e</guid>
+      <source url="https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer">Hacker News</source>
+    </item>
+    <item>
+      <title>Wołodymyr Zełenski skraca wizytę w Irlandii. Powodem &quot;przygotowania do zmasowanego ataku&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6fe56628f8b3</link>
+      <description>Rosja przygotowuje się do kolejnego zmasowanego ataku przeciwko Ukrainie - przekazał prezydent Wołodymyr Zełenski. Jak poinformował, w związku z tym skraca swoją wizytę w Irlandii i wraca na Ukrainę.</description>
+      <pubDate>Wed, 01 Jul 2026 20:49:55 GMT</pubDate>
+      <guid isPermaLink="false">6fe56628f8b3</guid>
+      <source url="https://tvn24.pl/swiat/wojna-w-ukrainie-prezydent-wolodymyr-zelenski-skraca-wizyte-w-irlandii-st9124022?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Show HN: Searchable directory of 22k+ products from worker-owned co-ops</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4adc1cb92afb</link>
+      <description>Comments</description>
+      <pubDate>Wed, 01 Jul 2026 20:47:41 GMT</pubDate>
+      <guid isPermaLink="false">4adc1cb92afb</guid>
+      <source url="https://www.workerowned.info/">Hacker News</source>
     </item>
     <item>
       <title>Dramat tysięcy seniorów. Lipcowe emerytury poniżej 500 zł</title>
@@ -24,12 +132,68 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Dramat-tysiecy-seniorow-Lipcowe-emerytury-ponizej-500-zl,286136,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>One KW wind turbine without civil engineering</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56739dd2f754</link>
+      <description>Discover Wind To Watt, an innovative wind turbine for renewable, sustainable, and eco-friendly energy production. Advanced technology for a green future.</description>
+      <pubDate>Wed, 01 Jul 2026 20:43:47 GMT</pubDate>
+      <guid isPermaLink="false">56739dd2f754</guid>
+      <source url="https://www.windtowatt.com/index-en.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Awaryjne wodowanie amerykańskiego śmigłowca. Zaginął jeden z członków załogi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2ae2e4a3c94a</link>
+      <description>Śmigłowiec MH-60S Sea Hawk przeprowadził awaryjne wodowanie na Morzu Arabskim - przekazały siły morskie USA. Trwają poszukiwania jednego z członków załogi maszyny, który jest uznawany za zaginionego.</description>
+      <pubDate>Wed, 01 Jul 2026 20:42:37 GMT</pubDate>
+      <guid isPermaLink="false">2ae2e4a3c94a</guid>
+      <source url="https://tvn24.pl/swiat/amerykanski-smiglowiec-mh-60s-sea-hawk-wodowal-na-morzu-arabskim-zaginal-czlonek-zalogi-st9123971?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Genuine superstar Kane produces his biggest England moment </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/98f930915710</link>
+      <description>Harry Kane&apos;s England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.</description>
+      <pubDate>Wed, 01 Jul 2026 20:41:03 GMT</pubDate>
+      <guid isPermaLink="false">98f930915710</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Polska ofensywa w USA. Warszawa chce amerykańskich żołnierzy i to szybko</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/61c1c2ef2875</link>
+      <description>Prezydencki minister Marcin Przydacz potwierdził, że w środę spotka się z sekretarzem stanu USA Marco Rubio. Głównym tematem rozmów będzie przekształcenie obecności wojsk USA w Polsce z rotacyjnej na stałą. Tymczasem Charge d&apos;affaires ambasady RP w Waszyngtonie Bogdan Klich spotkał się z doradcą Departamentu Stanu USA Danem Hollerem, by rozmawiać o obecności wojsk amerykańskich w Polsce.</description>
+      <pubDate>Wed, 01 Jul 2026 20:38:00 GMT</pubDate>
+      <guid isPermaLink="false">61c1c2ef2875</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-przydacz-spotka-sie-z-rubio-ws-amerykanskich-baz-w-polsce,nIdn,1008403">RMF24</source>
+    </item>
+    <item>
+      <title>Rośnie bilans ofiar trzęsienia ziemi w Wenezueli. Już ponad dwa tysiące ofiar</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/11d42151eb8e</link>
+      <description>Przewodniczący wenezuelskiego parlamentu Jorge Rodriguez przekazał, że w trzęsieniu ziemi w Wenezueli zginęło już 2295 osób, a ponad 11 tysięcy jest rannych. W kraju ogłoszono siedmiodniową żałobę narodową.</description>
+      <pubDate>Wed, 01 Jul 2026 20:19:33 GMT</pubDate>
+      <guid isPermaLink="false">11d42151eb8e</guid>
+      <source url="https://tvn24.pl/swiat/wenezuela-rosnie-bilans-ofiar-trzesienia-ziemi-ponad-dwa-tysiace-ofiar-st9123957?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>NASA’s Chandra Examines Milky Way at Arms’ Length</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/578b14cafaf4</link>
+      <description>A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This</description>
+      <pubDate>Wed, 01 Jul 2026 20:17:20 GMT</pubDate>
+      <guid isPermaLink="false">578b14cafaf4</guid>
+      <source url="https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Halifax brand to be scrapped after 173 years</title>
       <link>https://lolsoftware.github.io/4-news/#/article/bb86a19224bc</link>
       <description>Lloyds says it remains committed to the town of Halifax and very little will change for customers.</description>
       <pubDate>Wed, 01 Jul 2026 20:09:05 GMT</pubDate>
       <guid isPermaLink="false">bb86a19224bc</guid>
       <source url="https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>All the angles of Kane&apos;s brilliant winner</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f60b05bb1b17</link>
+      <description>All the angles of Harry Kane&apos;s winning goal against DR Congo for England in their round of 32 game in Atlanta.</description>
+      <pubDate>Wed, 01 Jul 2026 20:04:00 GMT</pubDate>
+      <guid isPermaLink="false">f60b05bb1b17</guid>
+      <source url="https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>3 lipca mija termin.  Więzienia i areszty szukają do pracy: 6,7 tys. zł na start</title>
@@ -54,6 +218,14 @@
       <pubDate>Wed, 01 Jul 2026 19:52:01 GMT</pubDate>
       <guid isPermaLink="false">7cbe44c90c90</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/donald-trump-o-swoim-majatku-wszyscy-osiagaja-zyski-st9123994?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Trump skomentował dane dotyczące swojego majątku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c3bf05612400</link>
+      <description>Prezydent USA wypowiedział się na temat swoich finansów i dochodów, które osiągnął w 2025 roku. Donald Trump podkreślił, że nie rozmawia z funduszami, które zarządzają jego środkami.</description>
+      <pubDate>Wed, 01 Jul 2026 19:52:01 GMT</pubDate>
+      <guid isPermaLink="false">c3bf05612400</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/donald-trump-skomentowal-dane-dotyczace-swojego-majatku-st9123994?source=rss">TVN24</source>
     </item>
     <item>
       <title>725 tys. zł „innych osiągniętych dochodów” ministry zdrowia. Ujawniła szczegóły</title>
@@ -286,126 +458,6 @@
       <pubDate>Wed, 01 Jul 2026 18:29:14 GMT</pubDate>
       <guid isPermaLink="false">6f0f12fb121f</guid>
       <source url="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Naukowcy stworzyli komórkę od podstaw. Było sobie życie?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eeae51fb68d1</link>
-      <description>Zespół naukowców z Uniwersytetu Minnesoty ogłosił stworzenie pierwszej w historii komórki zbudowanej całkowicie od podstaw z nieożywionych składników chemicznych. Nowa komórka, nazwana SpudCell, potrafi jeść, rosnąć i dzielić się jak naturalny organizm. To przełomowe osiągnięcie może otworzyć drogę do powstawania organizmów na zamówienie, które będą działać jak żywe maszyny.</description>
-      <pubDate>Wed, 01 Jul 2026 18:29:00 GMT</pubDate>
-      <guid isPermaLink="false">eeae51fb68d1</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-naukowcy-stworzyli-pierwsza-syntetyczna-komorke-od-podstaw-p,nIdn,1008388">RMF24</source>
-    </item>
-    <item>
-      <title>Ukraina powołuje Panteon Narodowy. Deputowany: Nie jest wymierzony w nikogo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5fa652b309e6</link>
-      <description>Uchwalona w środę ustawa o Panteonie Narodowym Ukrainy nie jest wymierzona w jakikolwiek kraj, bo ma służyć przede wszystkim nam samym; o tym, czy znajdzie się tam Stepan Bandera, zdecyduje parlament i zatwierdzi swoim podpisem prezydent – powiedział PAP ukraiński deputowany Mykoła Kniażycki.</description>
-      <pubDate>Wed, 01 Jul 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="false">5fa652b309e6</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ukraina-powoluje-Panteon-Narodowy-Deputowany-Nie-jest-wymierzony-w-nikogo-9162217.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Dach z bloku częściowo zerwany przez żywioł. Gwałtowne burze na Lubelszczyźnie i Podkarpaciu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8a34fbbe7550</link>
-      <description>Niszczycielskie burze przechodzą przez Lubelszczyznę, służby apelują - zostańcie w domach, zabezpieczcie dobytek. Strażacy mają setki wezwań. Nawalne deszcze przeszły też przez Podkarpacie i Śląsk.</description>
-      <pubDate>Wed, 01 Jul 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="false">8a34fbbe7550</guid>
-      <source url="https://www.rmf24.pl/regiony/news-nawet-50-uszkodzonych-dachow-potezne-burze-na-lubelszczyznie,nIdn,1008392">RMF24</source>
-    </item>
-    <item>
-      <title>Kierownik pociągu przyznał się do winy, wyraził skruchę. 17-latek stracił w wypadku nogi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c6dfbd460e86</link>
-      <description>Prokurator zawiesił w obowiązkach kierownika pociągu, który odpowiadał za skład, gdy w lutym w Woli Bierwieckiej k. Radomia doszło do tragicznego wypadku, w którym potrącony został 17-letni licealista Dominik. Podejrzany przyznał się do winy i wyraził skruchę. Wobec mężczyzny zastosowano także dozór policyjny. Nastolatek w wypadku stracił nogi i część dłoni.</description>
-      <pubDate>Wed, 01 Jul 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="false">c6dfbd460e86</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-kierownik-pociagu-przyznal-sie-do-winy-wyrazil-skruche-w-wyp,nIdn,1008393">RMF24</source>
-    </item>
-    <item>
-      <title>A good little EV you won&apos;t be able to buy soon: The Volvo EX30 Cross Country</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f28a53c3f7cb</link>
-      <description>Tariffs and anti-China policies killed this little Volvo in the United States.</description>
-      <pubDate>Wed, 01 Jul 2026 18:24:04 GMT</pubDate>
-      <guid isPermaLink="false">f28a53c3f7cb</guid>
-      <source url="https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Lime begins life as a public company after years of uncertainty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b1d6f4053810</link>
-      <description>The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.</description>
-      <pubDate>Wed, 01 Jul 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="false">b1d6f4053810</guid>
-      <source url="https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Ukrainian charged in Germany over Nord Stream blasts</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/09ee30cf7c45</link>
-      <description>Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.</description>
-      <pubDate>Wed, 01 Jul 2026 18:19:32 GMT</pubDate>
-      <guid isPermaLink="false">09ee30cf7c45</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Zełenski utraci czeski Order Białego Lwa? Praga ucina spekulacje: „polityczny gest” </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f78a405bf849</link>
-      <description>Minister spraw zagranicznych Czech Petr Macinka ocenił w środę, że inicjatywa posłów ze współrządzącego ruchu Wolność i Demokracja Bezpośrednia (SPD), by odebrać najwyższe czeskie odznaczenie prezydentowi Ukrainy Wołodymyrowi Zełenskiemu, jest gestem politycznym.</description>
-      <pubDate>Wed, 01 Jul 2026 18:17:00 GMT</pubDate>
-      <guid isPermaLink="false">f78a405bf849</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zelenski-utraci-czeski-Order-Bialego-Lwa-Praga-ucina-spekulacje-polityczny-gest-9162216.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Steam Machine przetestowany w grach. Jedna decyzja i wydajność spada o 20%</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/141809be8db0</link>
-      <description>Decyzja Valve o wyposażeniu konsoli Steam Machine w pojedynczy moduł pamięci RAM wzbudziła spore kontrowersje w świecie technologii.</description>
-      <pubDate>Wed, 01 Jul 2026 18:15:23 GMT</pubDate>
-      <guid isPermaLink="false">141809be8db0</guid>
-      <source url="https://antyweb.pl/steam-machine-przetestowany-w-grach-wydajnosc-spada-nawet-o-20">Antyweb</source>
-    </item>
-    <item>
-      <title>Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/de1613c45904</link>
-      <description>Comments</description>
-      <pubDate>Wed, 01 Jul 2026 18:12:18 GMT</pubDate>
-      <guid isPermaLink="false">de1613c45904</guid>
-      <source url="https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch">Hacker News</source>
-    </item>
-    <item>
-      <title>Harry Kane ratuje Anglię. Niesamowity zwrot akcji w końcówce meczu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b16ce7ae9ee5</link>
-      <description>W 1/16 finału mistrzostw świata zmierzyły się Anglia z Demokratyczną Republiką Konga.</description>
-      <pubDate>Wed, 01 Jul 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="false">b16ce7ae9ee5</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-mundial-116-finalu-anglia-demokratyczna-republika-konga-21-z,nIdn,1008389">RMF24</source>
-    </item>
-    <item>
-      <title>Lions sneak through - but who had a nightmare start? Player ratings</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c00629050523</link>
-      <description>BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.</description>
-      <pubDate>Wed, 01 Jul 2026 18:00:16 GMT</pubDate>
-      <guid isPermaLink="false">c00629050523</guid>
-      <source url="https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>To jest sztos! Nowa oferta no limit do telefonu za 10 zł/msc</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ad258410451b</link>
-      <description>Zaprezentowane już pakiety komórkowe w VETO mobile to potwierdzają, najtańszy pakiet kosztuje zaledwie 10 zł miesięcznie.</description>
-      <pubDate>Wed, 01 Jul 2026 18:00:02 GMT</pubDate>
-      <guid isPermaLink="false">ad258410451b</guid>
-      <source url="https://antyweb.pl/veto-mobil-tania-oferta-do-telefonu">Antyweb</source>
-    </item>
-    <item>
-      <title>W tym mieście znikną parkomaty. Bez telefonu nie zapłacisz za postój</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b7a2e3164157</link>
-      <description>Wybierasz się do Budapesztu samochodem? Za parking zapłacisz tylko za pomocą telefonu – z ulic miasta znikną wszystkie parkomaty. Zmianom w systemie towarzyszą również podwyżki opłat za parkowanie w centrum.</description>
-      <pubDate>Wed, 01 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="false">b7a2e3164157</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-budapeszt-z-ulic-znikna-parkomaty-platnosci-tylko-bezgotowko,nIdn,1008390">RMF24</source>
-    </item>
-    <item>
-      <title>What to Learn to Be a Graphics Programmer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bd077134762a</link>
-      <description>I get asked fairly often what people need to know to be hireable as a graphics programmer. I figured it was time to make a page to link instead of re-typing it each time. We are in a strange time w…</description>
-      <pubDate>Wed, 01 Jul 2026 17:53:44 GMT</pubDate>
-      <guid isPermaLink="false">bd077134762a</guid>
-      <source url="https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/">Hacker News</source>
     </item>
   </channel>
 </rss>
