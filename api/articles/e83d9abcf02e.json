@@ -1,0 +1,13 @@
+{
+  "id": "e83d9abcf02e",
+  "title": "No LLM Code in Dependencies",
+  "originalTitle": "No LLM Code in Dependencies",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+  "publishedAt": "2026-07-02T14:17:23.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><article class=\"page\"> <section id=\"pagebody\" role=\"main\">\n<p>I've spent about 100 hours of work over the past month to make sure\ngit-annex can build without dependencies that contain LLM generated code.\nAt least so far.</p>\n\n<p><a href=\"https://git-annex.branchable.com/no_llm_code/\">https://git-annex.branchable.com/no_llm_code/</a></p>\n\n<p>Needing to review a program's whole dependency tree on an ongoing basis is\napparently what programming has come to?</p>\n\n<p>I've found some real stinkers. Large LLM generated changes being reverted\nin the next release without any explanation. An incoherent 1489 line\ncommit message with 10,000 lines of changes to a 26,000 LOC code base.\nA LLM prompt to copy code from another project that seems to have only\navoided being copyright infringement due to luck.</p>\n\n<p>I now have additional information about the quality of dependencies\nwhich will surely influence future decisions. As far as I\ncan see, that's the only positive benefit of this work.</p>\n\n<p>I realize that I am probably trying to hold back the tide at this point.\nThat appears to be why Software Freedom Conservancy\n<a href=\"https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html\">punted</a>,\nand I doubt that the FSF will do any better.</p>\n\n<p>As these dominos fall, I am reconsidering my participation in these\ncommunities. But I continue my work and support my users.</p>\n\n<p>It may seem easy to prompt a LLM with</p>\n\n<blockquote><p>Add fourmolu config and restyled</p>\n\n<p>neat</p>\n\n<p>format a module</p></blockquote>\n\n<p>And commit the result and call yourself a 10xer.\nBut please consider the broader impact of your actions.\n(In the above case, that project lost my further collaboration on it.)</p>\n\n</section> </article></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
