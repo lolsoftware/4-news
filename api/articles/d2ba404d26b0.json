@@ -1,0 +1,13 @@
+{
+  "id": "d2ba404d26b0",
+  "title": "Plein Air",
+  "originalTitle": "Plein Air",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://art.joonas.wtf/",
+  "publishedAt": "2026-07-04T16:55:29.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"about-overlay\" onclick=\"closeAbout(event)\"> <p>About</p> <h2><em>Plein Air</em> — A painting for right now, wherever you are</h2> <p><em>Plein air</em> — French for <em>in the open air</em> — was the discipline of painting outdoors, in front of the weather, the way Constable studied clouds in Suffolk meadows and Monet painted the same haystacks at every hour of every season. The painters took the canvas outside because the light couldn't be remembered later, only stood inside as you painted.</p> <p>Plein Air stands you next to one of those paintings. The sky over your head and the sky in the painting share the same kind of hour — the same long afternoon, the same threatening storm, the same fog clinging to the river. One painting, chosen for right now. Tap the title to see why it was picked.</p> <div> <p>Painting sources</p> <p><span>Curated set</span> <span id=\"about-curated-count\">Hand-picked public-domain paintings, used as the instant first pick.</span> </p> <p><span>The Metropolitan Museum of Art</span> <span>European Paintings, American Paintings, and Modern Art — queried by current weather and season.</span> </p> <p><span>The Art Institute of Chicago</span> <span>Strong on Impressionist and atmospheric work — Monet, Caillebotte, Hopper.</span> </p> <p><span>Cleveland Museum of Art</span> <span>European and American paintings, with rich curatorial descriptions on each work.</span> </p> <p><span>Wikimedia Commons</span> <span>Pulled by category — snow paintings, fog paintings, sunrise paintings — for weather-specific matches.</span> </p> <p>Conditions</p> <p><span>Weather</span> <span>Open-Meteo — free, no API key, updated hourly.</span> </p> <p><span>Geocoding</span> <span>Open-Meteo Geocoding + Nominatim for reverse lookup.</span> </p> </div> <p>Every painting shown is in the public domain. Each request hits a different source at random for variety, and you can tap the title to see exactly which museum it came from.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

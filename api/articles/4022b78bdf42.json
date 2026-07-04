@@ -1,0 +1,13 @@
+{
+  "id": "4022b78bdf42",
+  "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+  "originalTitle": "Google Books (or similar) all book scans – $200k bounty (2025)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+  "publishedAt": "2026-07-04T16:51:26.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"> <header></header>\n<div>\n<div data-broadcast-banner=\"\" data-testid=\"banner-broadcast-message\" role=\"alert\">\n<h2>Admin message</h2>\n<p>SIGN UP USING adguard-mail.com or mailinator.com for more reliable email delivery! -- Join our chat for devs &amp; translators on Matrix: #annas:archivecommunication.org.</p>\n</div>\n<div>\n<main id=\"content-body\" itemscope=\"\" itemtype=\"http://schema.org/SoftwareSourceCode\"> <div>\n<div>\nGoogle Books (or similar) all book scans — $200,000 bounty\n</div>\n<div>\nPlease read https://annas-archive.li/volunteering#bounties carefully before working on a bounty.\n\nGoogle Books has lots of scanned books, but which are only exposed through search, where it shows up as tiny snippets around the search results.\n\nIf you've found a method that you believe will scale up, then please contact us early on with your prototype, and we might be able to help you scale it up.\n\nIf you work at Google and have access to this data, then we realize that $200,000 means little to you, but you'd be hailed a legendary archivist if you're able to sneak out this data.\n\nThis bounty also applies to other similarly-sized collections, e.g. collected by AI companies, especially if the collection significantly captures rare books.\n</div> </div> </main>\n</div>\n</div> </div>",
+  "image": "images/bcfa709cdda9.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
