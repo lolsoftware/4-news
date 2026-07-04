@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 04 Jul 2026 19:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:16:05 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Google commercial imagines a Declaration of Independence written with help from AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8148c8e03297</link>
+      <description>Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?</description>
+      <pubDate>Sat, 04 Jul 2026 20:55:25 GMT</pubDate>
+      <guid isPermaLink="false">8148c8e03297</guid>
+      <source url="https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Samochód zjechał z drogi i uderzył w drzewo. Wśród rannych dzieci</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51b926860903</link>
+      <description>Doszło do wypadku w miejscowości Wnory-Wandy (woj. podlaskie). Samochód osobowy zjechał z drogi i uderzył w drzewo. Pojazdem kierowała kobieta. W środku znajdowało się dwoje dzieci. Cała trójka trafiła do szpitala.</description>
+      <pubDate>Sat, 04 Jul 2026 20:18:58 GMT</pubDate>
+      <guid isPermaLink="false">51b926860903</guid>
+      <source url="https://tvn24.pl/bialystok/wnory-wandy-samochod-zjechal-z-drogi-i-uderzyl-w-drzewo-wsrod-rannych-dzieci-st9128527?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Zasada 10-3-2-1-0. Banalnie prosty sposób na lepszy sen: zapamiętaj i stosuj</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cbb8f2d8c008</link>
@@ -14,6 +30,22 @@
       <pubDate>Sat, 04 Jul 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">cbb8f2d8c008</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Zasada-10-3-2-1-0-Banalnie-prosty-sposob-na-lepszy-sen-zapamietaj-i-stosuj,286216,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Papież z Ameryki napisał list do Amerykanów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22e047d9e486</link>
+      <description>Leon XIV złożył gratulacje Amerykanom z okazji 250 lat niepodległości. Przypomniał, że jedną z zasad, które kierowały rozwojem USA, jest godność każdego ludzkiego życia - także imigrantów.</description>
+      <pubDate>Sat, 04 Jul 2026 19:58:46 GMT</pubDate>
+      <guid isPermaLink="false">22e047d9e486</guid>
+      <source url="https://tvn24.pl/swiat/papiez-leon-xiv-napisal-list-do-ameryki-z-okazji-250-lat-niepodleglosci-st9128510?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/76478c455614</link>
+      <description>Command &amp; Conquer Generals: Zero Hour running natively on macOS, iPhone &amp; iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets in...</description>
+      <pubDate>Sat, 04 Jul 2026 19:41:10 GMT</pubDate>
+      <guid isPermaLink="false">76478c455614</guid>
+      <source url="https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main">Hacker News</source>
     </item>
     <item>
       <title>Police leadership needs &apos;ethical reset&apos;, Lord Blunkett tells BBC</title>
@@ -216,6 +248,15 @@
       <source url="https://www.eso.org/public/news/eso2607/">Hacker News</source>
     </item>
     <item>
+      <title>EndBASIC 0.14: Are we multimedia yet?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e1afa272e91e</link>
+      <description>Just a little over a month ago, I was announcing EndBASIC 0.13 with a brand new compiler and VM implementation. 0.13 was the result of six months of work and I had to “flush those out” to clear my mind. At the end of the day, however, 0.13 “just” improved performance. Yes, the wins were massive, but they didn’t do much to make EndBASIC any cooler for you.
+Today’s 0.14 is a different beast. This shiny release is a collection of new features all over the place with the special addition of basic sound support. Specifically because of the latter, 0.14 marks a major milestone because it unlocks the last frontier towards a possible 1.0. There are many more things I wanted to include in this release—and one feature I had to eventually give up on due to its difficulty—but at some point one has to stop and get the code out. So here we are!</description>
+      <pubDate>Sat, 04 Jul 2026 17:08:18 GMT</pubDate>
+      <guid isPermaLink="false">e1afa272e91e</guid>
+      <source url="https://www.endbasic.dev/2026/07/endbasic-0.14.html">Hacker News</source>
+    </item>
+    <item>
       <title>MOVA S7 kontra codzienny bałagan. Skuteczny odkurzacz pionowy za sensowne pieniądze</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7760054d3948</link>
       <description>S7 to niemal topowy odkurzacz w ofercie chińskiego producenta. Sprawdziłem, czy warto wydać za niego nieco ponad tysiąc złotych.</description>
@@ -320,6 +361,14 @@
       <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Glejak-neurochirurg-o-dlugosci-zycia-i-sposobach-leczenia,286301,1013.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Pożary pustoszą Portugalię. Są ranni, trwa walka z ogniem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d114538e529a</link>
+      <description>Portugalscy strażacy od czwartku walczą z pożarami lasów i łąk. Na skutek żywiołu kilkanaście osób zostało rannych. Służby medyczne określiły stan dwóch z nich jako bardzo ciężki.</description>
+      <pubDate>Sat, 04 Jul 2026 16:17:05 GMT</pubDate>
+      <guid isPermaLink="false">d114538e529a</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/pozary-pustosza-portugalie-sa-ranni-trwa-walka-z-ogniem-st9128327?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Markery nowotworowe, d-dimery, przeciwciała IgG. Które badania naprawdę warto wykonywać?</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f7a2650eddba</link>
       <description>Lepiej zapobiegać, niż leczyć, ale nie na wszystko medycyna ma już gotowe rozwiązania. Czy mamy już test z krwi na raka? Czy warto badać markery nowotworowe, jeśli nic nam nie dolega? Czy oznaczanie d-dimerów bez wskazań ma sens? Zapytaliśmy specjalistów, bo tego typu testy są w pakietach oferowanych przez wiele prywatnych placówek.</description>
@@ -358,54 +407,6 @@
       <pubDate>Sat, 04 Jul 2026 15:51:32 GMT</pubDate>
       <guid isPermaLink="false">337eef6fefd0</guid>
       <source url="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Ukraina zdecydowała o miejscu budowy Panteonu Narodowego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d0340600ef32</link>
-      <description>Panteon Narodowy Ukrainy powstanie na terenie Narodowego Rezerwatu Ławry Peczerskiej w Kijowie - poinformował Ukraiński Instytut Pamięci Narodowej. W połowie czerwca w kompleksie płonął klasztor po rosyjskim ataku.</description>
-      <pubDate>Sat, 04 Jul 2026 15:51:07 GMT</pubDate>
-      <guid isPermaLink="false">d0340600ef32</guid>
-      <source url="https://tvn24.pl/swiat/ukraincy-buduja-panteon-narodowy-jest-miejsce-budowy-i-nowe-szczegoly-st9128349?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Fruktoza i glukoza to nie to samo. Badanie pokazuje, co dzieje się z apetytem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/372ad832785e</link>
-      <description>Fruktoza i glukoza dostarczają tyle samo kalorii, ale mogą inaczej wpływać na sygnały głodu i preferencje żywieniowe. Nowe badanie opublikowane w czasopiśmie „Neuron” pokazało, że glukoza silniej hamowała aktywność neuronów pobudzających apetyt, a fruktoza dawała słabszy sygnał sytości.</description>
-      <pubDate>Sat, 04 Jul 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="false">372ad832785e</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Fruktoza-i-glukoza-to-nie-to-samo-Badanie-pokazuje-co-dzieje-sie-z-apetytem,286306,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Grube deszczowe chmury nadciągają nad Polskę. Prognoza pogody</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b03b74e419ef</link>
-      <description>W nadchodzących dniach pogoda będzie daleka od tej, jaką kojarzymy z wakacjami. Czeka nas dalsze ochłodzenie. Nie zabraknie też opadów deszczu.</description>
-      <pubDate>Sat, 04 Jul 2026 15:42:55 GMT</pubDate>
-      <guid isPermaLink="false">b03b74e419ef</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/idzie-ochlodzenia-a-ponadto-grube-deszczowe-chmury-nadciagaja-nad-polske-prognoza-pogody-na-5-9-07-st9128375?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Naukowcy stworzyli cyberkaralucha. Przeraża, ale ma robić bardzo istotne rzeczy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/23f86b463c56</link>
-      <description>Cyborgiczny karaluch z drukowanym skafandrem może działać pod wodą przez trzy godziny. Technologia celuje w ratownictwo i inspekcje.</description>
-      <pubDate>Sat, 04 Jul 2026 15:30:51 GMT</pubDate>
-      <guid isPermaLink="false">23f86b463c56</guid>
-      <source url="https://antyweb.pl/ntu-singapore-cyberkaraluch">Antyweb</source>
-    </item>
-    <item>
-      <title>Szpital leczy pacjentów bez kontraktu z NFZ. &quot;Zadłużamy się, bo chcemy ratować życie&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9c6fdea74178</link>
-      <description>Oddział kardiochirurgii w Wojewódzkim Szpitalu Specjalistycznym przy al. Kraśnickiej w Lublinie działa od grudnia 2024 roku. Przyjmuje pacjentów w stanach nagłych i wykonuje zabiegi ratujące życie. Problem w tym, że placówka bezskutecznie zabiega o kontrakt z NFZ. Fundusz odpowiada, że w regionie nie ma potrzeby finansowania kolejnego ośrodka kardiochirurgicznego.</description>
-      <pubDate>Sat, 04 Jul 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="false">9c6fdea74178</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Szpital-leczy-pacjentow-bez-kontraktu-z-NFZ-Zadluzamy-sie-bo-chcemy-ratowac-zycie,285982,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Jak sprawdzić, czy jajko jest świeże? Zrób ten prosty test, zanim zaczniesz gotować</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5054ca351c8a</link>
-      <description>Masz w lodówce jajka i nie pamiętasz, kiedy tam trafiły? Zamiast ryzykować zdrowiem, wykonaj prosty test z wodą, który zajmie Ci zaledwie kilka sekund. Dowiedz się, co oznacza pionowe ułożenie jajka i dlaczego sposób, w jaki wkładasz je do pojemnika, ma kluczowe znaczenie dla ich trwałości.</description>
-      <pubDate>Sat, 04 Jul 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="false">5054ca351c8a</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-jak-sprawdzic-czy-jajko-jest-swieze-poznaj-niezawodne-sposob,nIdn,1008624">RMF24</source>
     </item>
   </channel>
 </rss>
