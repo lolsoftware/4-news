@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 05 Jul 2026 19:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:21:41 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ten pyszny grzyb kryje pułapkę. Jeden błąd i zatrucie gotowe</title>
@@ -16,12 +16,52 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Ten-pyszny-grzyb-kryje-pulapke-Jeden-blad-i-zatrucie-gotowe,286271,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Hubert Hurkacz odpadł z Wimbledonu. Polak przegrał z kontuzją</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6361763b26f</link>
+      <description>Hubert Hurkacz skreczował w meczu z Niemcem Janem-Lennardem Struffem przy stanie 6:3, 7:6 (7-5), 6:7 (2-7), 5:7, 2:4 w 1/8 finału wielkoszlemowego Wimbledonu. Polski tenisista grał w Londynie po dwuletniej przerwie. W 2024 roku w spotkaniu drugiej rundy na tym samym korcie doznał kontuzji kolana.</description>
+      <pubDate>Sun, 05 Jul 2026 20:32:00 GMT</pubDate>
+      <guid isPermaLink="false">c6361763b26f</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wimbledon-nieudany-powrot-huberta-hurkacz-polak-przegral-z-k,nIdn,1008801">RMF24</source>
+    </item>
+    <item>
+      <title>Quansah set to start at right-back for England against Mexico</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3878fc8a2029</link>
+      <description>Jarell Quansah is set to start at right-back for England against Mexico in the World Cup last-16 tie at the Azteca stadium.</description>
+      <pubDate>Sun, 05 Jul 2026 20:31:31 GMT</pubDate>
+      <guid isPermaLink="false">3878fc8a2029</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Trump memecoin investors lost $3.8 billion, analysis finds</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/125b84978135</link>
+      <description>Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.</description>
+      <pubDate>Sun, 05 Jul 2026 20:29:05 GMT</pubDate>
+      <guid isPermaLink="false">125b84978135</guid>
+      <source url="https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/">TechCrunch</source>
+    </item>
+    <item>
       <title>Najgorsze siedlisko bakterii w domu. Nie jest to toaleta</title>
       <link>https://lolsoftware.github.io/4-news/#/article/618a95023cad</link>
       <description>Choć gąbka kuchenna służy do utrzymania czystości, może stać się jednym z największych siedlisk bakterii w domu. Jak rozpoznać, że czas ją wymienić? Oto najważniejsze przesłanki.</description>
       <pubDate>Sun, 05 Jul 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">618a95023cad</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Najgorsze-siedlisko-bakterii-w-domu-Nie-jest-to-toaleta,286220,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Francja. Dwie osoby w stanie krytycznym, tysiące ewakuowanych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6da1b5de5083</link>
+      <description>Co najmniej dwie osoby zostały poważnie ranne w pożarach, które trawią lasy we francuskim departamencie Pireneje Wschodnie. Według lokalnych mediów konieczna była ewakuacja ponad 10 tysięcy osób.</description>
+      <pubDate>Sun, 05 Jul 2026 19:56:22 GMT</pubDate>
+      <guid isPermaLink="false">6da1b5de5083</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/francja-dwie-osoby-w-stanie-krytycznym-tysiace-ewakuowanych-st9129554?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Claude po polsku - co to jest i jak go używać?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55f7ea790897</link>
+      <description>Claude potrafi właściwie to, co robi ChatGPT: czyli jest w stanie odpowiadać po polsku, analizować dokumenty, robić research (nawet lepszy, niż GPT) i pomagać w wielu rzeczach, ale nie oznacza to niestety, że jest tam typowy polski interfejs. Diabeł, niestety, tkwi w pewnych szczegółach.</description>
+      <pubDate>Sun, 05 Jul 2026 19:45:54 GMT</pubDate>
+      <guid isPermaLink="false">55f7ea790897</guid>
+      <source url="https://antyweb.pl/claude-po-polsku-co-to-jest">Antyweb</source>
     </item>
     <item>
       <title>Trump thanks Fifa after USA striker Balogun&apos;s ban suspended</title>
@@ -78,6 +118,14 @@
       <pubDate>Sun, 05 Jul 2026 19:10:00 GMT</pubDate>
       <guid isPermaLink="false">3935386b7fc4</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/354-tys-osob-przebadanych-Tak-kawa-dziala-na-watrobe,286202,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Small Penis Rule</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c0ea353f6c04</link>
+      <description>Comments</description>
+      <pubDate>Sun, 05 Jul 2026 19:08:38 GMT</pubDate>
+      <guid isPermaLink="false">c0ea353f6c04</guid>
+      <source url="https://en.wikipedia.org/wiki/Small_penis_rule">Hacker News</source>
     </item>
     <item>
       <title>New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]</title>
@@ -360,54 +408,6 @@ TL;DR: We&apos;ve allocated resources to maintain Flipper Zero firmware and supp
       <pubDate>Sun, 05 Jul 2026 16:04:23 GMT</pubDate>
       <guid isPermaLink="false">c28b11583cc3</guid>
       <source url="https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer">Hacker News</source>
-    </item>
-    <item>
-      <title>Nintendo jest teraz „tym dobrym”. Konkurencja sama się pogrąża</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a4bb40f5f7fc</link>
-      <description>Takiego przetasowania na rynku gier raczej nikt się nie spodziewał. Nagle to Nintendo jest postrzegane jako ta dobra, prokonsumencka, firma. Co się zmieniło?</description>
-      <pubDate>Sun, 05 Jul 2026 16:00:58 GMT</pubDate>
-      <guid isPermaLink="false">a4bb40f5f7fc</guid>
-      <source url="https://antyweb.pl/nintendo-jest-teraz-tym-dobrym-konkurencja-sama-sie-pograza">Antyweb</source>
-    </item>
-    <item>
-      <title>&quot;Takiego wydarzenia w najnowszej historii Iranu nie było&quot;. Iranistka o pogrzebie Alego Chameneiego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a04b518d4d38</link>
-      <description>W Iranie trwają uroczystości pogrzebowe Alego Chameneiego. Dlaczego odbywają się dopiero teraz? Które z zagranicznych delegacji wzięły w nich udział i dlaczego Modżtaba Chamenei wciąż nie pojawił się publicznie, nawet na pogrzebie swojego ojca? O tym w TVN24 mówiła iranistka i orientalistka Karolina Cieślik-Jakubiak.</description>
-      <pubDate>Sun, 05 Jul 2026 15:50:11 GMT</pubDate>
-      <guid isPermaLink="false">a04b518d4d38</guid>
-      <source url="https://tvn24.pl/swiat/iranistka-o-pogrzebie-alego-chameneiego-dlaczego-odbywa-sie-teraz-kto-bierze-udzial-st9129344?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Autonomous flying umbrella follows and shields users from rain and sunlight</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f7c0e3c3a99</link>
-      <description>john tse of I build stuff creates an autonomous flying umbrella that follows and shields the users from rain and sunlight.</description>
-      <pubDate>Sun, 05 Jul 2026 15:49:18 GMT</pubDate>
-      <guid isPermaLink="false">3f7c0e3c3a99</guid>
-      <source url="https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/">Hacker News</source>
-    </item>
-    <item>
-      <title>From &apos;a beautiful night&apos; to &apos;world&apos;s greatest hangover&apos;, guests react to Taylor and Travis&apos;s wedding</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2724304b309d</link>
-      <description>Some of the famous guests have been posting on social media about the big day in New York.</description>
-      <pubDate>Sun, 05 Jul 2026 15:48:20 GMT</pubDate>
-      <guid isPermaLink="false">2724304b309d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Siedlisko glist i pleśni. GIS apeluje: widzisz, zgłoś do najbliższego sanepidu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc5e4179dc34</link>
-      <description>Piaskownica może być miejscem, w którym kryją się niewidoczne zagrożenia dla dzieci. Wśród nich znajdują się m.in. pasożyty, takie jak glisty oraz różnego rodzaju pleśnie, które mogą stanowić ryzyko dla zdrowia najmłodszych.</description>
-      <pubDate>Sun, 05 Jul 2026 15:36:00 GMT</pubDate>
-      <guid isPermaLink="false">bc5e4179dc34</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Siedlisko-glist-i-plesni-GIS-apeluje-widzisz-zglos-do-najblizszego-sanepidu,286259,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>NFZ wydał w 2025 roku ponad 217 mld zł. Koszty rosły szybciej niż wpływy ze składki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/487cf749b6c7</link>
-      <description>Rada NFZ przyjęła roczne sprawozdanie z wykonania planu finansowego Funduszu za 2025 rok. Wynika z niego, że przychody ogółem wyniosły 214,75 mld zł, ale wpływy brutto ze składki zdrowotnej były o 2,59 mld zł niższe od planu. Jednocześnie koszty NFZ wzrosły rok do roku o 13,82 proc. i przekroczyły 217 mld zł.</description>
-      <pubDate>Sun, 05 Jul 2026 15:35:00 GMT</pubDate>
-      <guid isPermaLink="false">487cf749b6c7</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/NFZ-wydal-w-2025-roku-ponad-217-mld-zl-Koszty-rosly-szybciej-niz-wplywy-ze-skladki,286215,1.html">Rynek Zdrowia</source>
     </item>
   </channel>
 </rss>
