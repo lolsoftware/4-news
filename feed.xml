@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 05 Jul 2026 14:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 15:41:10 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ta rzadka choroba wymaga dożywotnich kontroli. Nowe terapie dają nadzieję, ale potrzebne są zmiany</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a6b9466f8af4</link>
+      <description>Neurofibromatoza typu 1 (NF1) to jedna z najczęstszych chorób rzadkich, która może prowadzić do przewlekłego bólu, niepełnosprawności i zwiększać ryzyko rozwoju nowotworów. Kluczowe znaczenie ma jej wczesne rozpoznanie oraz objęcie pacjentów kompleksową opieką specjalistyczną. – Gdy dochodzi do zaburzeń funkcjonowania szlaku RAS, wzrasta ryzyko wielu powikłań, w tym procesów nowotworowych, dlatego pacjenci wymagają stałego monitorowania – podkreśla prof. Katarzyna Życińska.</description>
+      <pubDate>Sun, 05 Jul 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="false">a6b9466f8af4</guid>
+      <source url="https://www.rynekzdrowia.pl/choroby-rzadkie/Ta-rzadka-choroba-wymaga-dozywotnich-kontroli-Nowe-terapie-daja-nadzieje-ale-potrzebne-sa-zmiany,286255,1024.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>NFZ próbuje się ratować. Ekspert: takie będą skutki dla pacjentów i szpitali</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7eda08954f8d</link>
+      <description>To naturalna konsekwencja sytuacji, w której każdy świadczeniodawca będzie kurczowo trzymał się limitów: wydłużą się kolejki – pisze Rafał Janiszewski, właściciel Kancelarii Doradczej, odnosząc się do planowanej przez NFZ zmiany trybu płacenia za nadwykonania.</description>
+      <pubDate>Sun, 05 Jul 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="false">7eda08954f8d</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/NFZ-probuje-sie-ratowac-Ekspert-takie-beda-skutki-dla-pacjentow-i-szpitali,286295,1.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Siedlisko glist i pleśni. GIS apeluje: widzisz, zgłoś do najbliższego sanepidu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/bc5e4179dc34</link>
@@ -24,6 +40,22 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/NFZ-wydal-w-2025-roku-ponad-217-mld-zl-Koszty-rosly-szybciej-niz-wplywy-ze-skladki,286215,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Kreml komentuje doniesienia o przygotowaniach do ataku na Polskę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25371fe0d29f</link>
+      <description>Rzecznik Kremla Dmitrij Pieskow określił artykuły brytyjskich i polskich mediów, dotyczące rzekomego zagrożenia rosyjskim atakiem na Polskę, mianem „straszaków”. Jego zdaniem publikacje te są elementem szeroko zakrojonej kampanii demonizowania Rosji na Zachodzie.</description>
+      <pubDate>Sun, 05 Jul 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="false">25371fe0d29f</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-pieskow-doniesienia-o-mozliwym-ataku-rosji-na-polske-to-stra,nIdn,1008788">RMF24</source>
+    </item>
+    <item>
+      <title>Awantura o głaz. Czy w polskim mieście jest miejsce na niemiecką przeszłość?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/50e7376a18ee</link>
+      <description>Czy XIX‑wieczny głaz może &quot;obrażać&quot; współczesnych mieszkańców miasta? W Szczecinie właśnie o to toczy się spór między politykami a pasjonatami historii. Miejscy radni Prawa i Sprawiedliwości chcą usunięcia 137‑letniego kamienia, który - jak przekonują - upamiętnia zwalczających polskość niemieckich cesarzy. Ci, którzy przewrócony głaz podnieśli z ziemi, uważają, że to nie jest polityka, lecz historia, której nie powinno się wymazywać.</description>
+      <pubDate>Sun, 05 Jul 2026 15:23:11 GMT</pubDate>
+      <guid isPermaLink="false">50e7376a18ee</guid>
+      <source url="https://tvn24.pl/szczecin/szczecin-awantura-o-glaz-czy-w-polskim-miescie-jest-miejsce-na-niemiecka-przeszlosc-st9125550?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>2,5-latka miała miesiączkę i rozwinięte piersi. Takie przypadki trafiają do Katowic</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1eb3ddf99197</link>
       <description>W Polsce narasta problem diagnostyki i leczenia schorzeń ginekologicznych u dzieci i nastolatek – alarmuje prof. Agnieszka Drosdzol-Cop. Wskazuje na niedobór specjalistów i zbyt małą liczbę ośrodków zapewniających kompleksową opiekę.</description>
@@ -32,12 +64,148 @@
       <source url="https://www.rynekzdrowia.pl/Serwis-Ginekologia-i-poloznictwo/2-5-latka-miala-miesiaczke-i-rozwiniete-piersi-Takie-przypadki-trafiaja-do-Katowic,286311,209.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Znalazłeś „lokatorów” w grzybach? Sprawdź, czy musisz wyrzucić cały koszyk</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/47f9e5004003</link>
+      <description>Powrót z lasu z pełnym koszykiem to powód do dumy, ale radość szybko może zamienić się w niepokój. Charakterystyczne dziurki w trzonach borowików czy drobne larwy w kapeluszach to widok, który odstrasza wielu grzybiarzy. Czy takie zbiory faktycznie zagrażają naszemu zdrowiu, czy może wystarczy prosta metoda, by uratować kolację? Wyjaśniamy, co mówią o tym eksperci.</description>
+      <pubDate>Sun, 05 Jul 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="false">47f9e5004003</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-czy-robaczywe-grzyby-nadaja-sie-do-jedzenia-ekspert-rozwiewa,nIdn,1008484">RMF24</source>
+    </item>
+    <item>
+      <title>Skąd wzięła się nazwa Afryka? Rzymianie wcale nie myśleli o całym kontynencie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8e46a885a3fc</link>
+      <description>Dziś to drugi co do wielkości kontynent świata, ale dawniej nazwa „Afryka” określała jedynie mały skrawek ziemi. Skąd wzięło się to słowo i dlaczego naukowcy wciąż kłócą się o jego prawdziwe znaczenie? Poznaj tajemnicę, która sięga czasów starożytnego Rzymu i berberyjskich jaskiń.</description>
+      <pubDate>Sun, 05 Jul 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="false">8e46a885a3fc</guid>
+      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-skad-pochodzi-nazwa-afryka-fascynujaca-historia-nazwy-kontyn,nIdn,1008490">RMF24</source>
+    </item>
+    <item>
+      <title>Train and run transformers directly on Apple&apos;s Neural Engine</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/21a6c2f8cc1d</link>
+      <description>Train and run transformers directly on Apple&apos;s Neural Engine in Swift bypass coreml entirely - christopherkarani/Espresso</description>
+      <pubDate>Sun, 05 Jul 2026 15:02:43 GMT</pubDate>
+      <guid isPermaLink="false">21a6c2f8cc1d</guid>
+      <source url="https://github.com/christopherkarani/Espresso">Hacker News</source>
+    </item>
+    <item>
+      <title>Jak daleko jest burza? Wystarczy 10 sekund, by to obliczyć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/793d8b991b60</link>
+      <description>Widzisz błyskawicę i zastanawiasz się, ile masz czasu na ucieczkę przed deszczem? Odległość od centrum nawałnicy możesz obliczyć w kilka sekund bez użycia żadnych aplikacji. Poznaj prosty wzór matematyczny, który pozwoli Ci precyzyjnie ocenić zagrożenie i podjąć decyzję o szukaniu schronienia, zanim nadejdzie najgorsze.</description>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">793d8b991b60</guid>
+      <source url="https://www.rmf24.pl/fakty/pogoda/news-jak-obliczyc-jak-daleko-jest-burza-prosty-sposob-na-sprawdze,nIdn,1008349">RMF24</source>
+    </item>
+    <item>
+      <title>To nie jest zwykły kleszcz. Hyalomma wyczuwa ofiarę z oddali i rusza w pościg</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6b48ba7f4b5f</link>
+      <description>Są znacznie większe od rodzimych gatunków i przenoszą patogeny, których w Polsce dotąd nie było, w tym wirusa gorączki krwotocznej. Eksperci ostrzegają: zmiany klimatu sprawiły, że afrykańskie kleszcze Hyalomma czują się u nas coraz lepiej. Sprawdź, jak skutecznie się przed nimi chronić.</description>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">6b48ba7f4b5f</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-afrykanskie-kleszcze-hyalomma-w-polsce-jak-sie-przed-nim-chr,nIdn,1008461">RMF24</source>
+    </item>
+    <item>
+      <title>5 desk gadgets that can make your workday better</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba435bff8b0c</link>
+      <description>The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.</description>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ba435bff8b0c</guid>
+      <source url="https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/">TechCrunch</source>
+    </item>
+    <item>
+      <title>System sam zapisze Cię na listę rezerwową do specjalisty. Zmiany w e-rejestracji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2e2646686559</link>
+      <description>W środę 1 lipca weszły w życie nowe przepisy Ministerstwa Zdrowia dotyczące e-rejestracji na wybrane zabiegi. Obowiązujące dotychczas pierwsze wolne terminy zastąpiono nowym wskaźnikiem, czyli Prognozowanym Czasem Oczekiwania na Udzielenie Świadczenia (PCUŚ).</description>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2e2646686559</guid>
+      <source url="https://www.bankier.pl/wiadomosc/System-sam-zapisze-Cie-na-liste-rezerwowa-do-specjalisty-Zmiany-w-e-rejestracji-9161961.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Polacy zwrócili już 1,5 miliarda butelek. Czas na rewolucję: kaucjomaty staną na osiedlach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/178eeb40c9f6</link>
+      <description>Od początku działania systemu kaucyjnego Polacy zwrócili już ponad 1,5 mld opakowań. Przed operatorami stoją jednak kolejne wyzwania - w tym roku muszą osiągnąć 77-proc. poziom zbiórki, a docelowo 90 proc. Jednym ze sposobów na zwiększenie liczby zwracanych opakowań jest rozwój punktów zwrotu poza sklepami, m.in. na osiedlach mieszkaniowych. Pierwszy taki pilotaż uruchomiono na warszawskich Młocinach.</description>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">178eeb40c9f6</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Polacy-zwrocili-juz-1-5-miliarda-butelek-Czas-na-rewolucje-kaucjomaty-stana-na-osiedlach-9162353.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Thousands welcome home Cape Verde footballers after stunning World Cup run</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/30f39a3936de</link>
+      <description>Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.</description>
+      <pubDate>Sun, 05 Jul 2026 14:59:10 GMT</pubDate>
+      <guid isPermaLink="false">30f39a3936de</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Recepty nie było, a pieniądze przepadały. Interwencja UOKiK wobec znanej platformy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/977033899e60</link>
       <description>Internetowe serwisy oferujące szybkie e-recepty i zwolnienia lekarskie trafiły na celownik Urzędu Ochrony Konkurencji i Konsumentów. Prezes UOKiK Tomasz Chróstny postawił poważne zarzuty operatorowi serwisów Receptomat.pl i l4.pl oraz aplikacji Receptomat, oskarżając go o wprowadzanie pacjentów w błąd i oferowanie fikcyjnych konsultacji medycznych.</description>
       <pubDate>Sun, 05 Jul 2026 14:50:00 GMT</pubDate>
       <guid isPermaLink="false">977033899e60</guid>
       <source url="https://www.rynekzdrowia.pl/E-zdrowie/Recepty-nie-bylo-a-pieniadze-przepadaly-Interwencja-UOKiK-wobec-znanej-platformy,286315,7.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Mexico fans fail in bid to wake up England players</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/86b624321457</link>
+      <description>England players feel little to no impact of Mexico fans attempting to disturb their sleep by letting off fireworks outside their hotel.</description>
+      <pubDate>Sun, 05 Jul 2026 14:47:25 GMT</pubDate>
+      <guid isPermaLink="false">86b624321457</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Efektowna chmura zawisła nad Zakopanem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca61745750e2</link>
+      <description>Chmura soczewkowata zawisła nad południową Polską. Niecodzienna formacja, widoczna nad Zakopanem, wzbudziła zainteresowanie internautów. W jakich warunkach powstaje to rzadkie zjawisko?</description>
+      <pubDate>Sun, 05 Jul 2026 14:40:21 GMT</pubDate>
+      <guid isPermaLink="false">ca61745750e2</guid>
+      <source url="https://tvn24.pl/tvnmeteo/ciekawostki/chmura-soczewkowata-efektowne-zjawisko-nad-zakopanem-st9129368?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Odeszła płk Urszula „Ala” Tauer. Walczyła w powstaniu warszawskim</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2d52332d49b1</link>
+      <description>Smutne wieści przekazało w niedzielę Muzeum Powstania Warszawskiego. W wieku 105 lat odeszła płk Urszula Tauer ps. „Ala”. Była oficerem Komendy Głównej Armii Krajowej - walczyła w powstaniu warszawskim.</description>
+      <pubDate>Sun, 05 Jul 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="false">2d52332d49b1</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-odeszla-plk-urszula-ala-tauer-miala-105-lat,nIdn,1008785">RMF24</source>
+    </item>
+    <item>
+      <title>Gdzie jest burza? Grzmi w czterech województwach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6d65b90cdbd4</link>
+      <description>Gdzie jest burza? W niedzielę 5.07 w części Polski grzmi i silnie wieje, a zjawiska przesuwają się dalej. Śledź aktualną sytuację pogodową w tvnmeteo.pl.</description>
+      <pubDate>Sun, 05 Jul 2026 14:33:00 GMT</pubDate>
+      <guid isPermaLink="false">6d65b90cdbd4</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-niedziele-5-07-radar-opadow-i-burz-na-zywo-st9129321?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Rosja próbuje skłócić Polskę i Ukrainę. Fala dezinformacji wokół Wołynia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9fc937df8369</link>
+      <description>Ukraińcy alarmują: rosyjska Federalna Służba Bezpieczeństwa (FSB) rozpoczęła aktywną operację dezinformacyjną, mającą na celu osłabienie strategicznego partnerstwa między Polską a Ukrainą. W sieci pojawiły się rzekome archiwalne dokumenty dotyczące wydarzeń na Wołyniu z czasów II wojny światowej. Ukraińskie władze ostrzegają przed rosyjską próbą manipulacji historycznymi traumami i podsycania napięć między oboma krajami.</description>
+      <pubDate>Sun, 05 Jul 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="false">9fc937df8369</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-rosyjska-fsb-probuje-sklocic-polske-i-ukraine-nowa-fala-dezi,nIdn,1008778">RMF24</source>
+    </item>
+    <item>
+      <title>Miał przyłożyć 15-latce broń do głowy. Powiedział, że to pomyłka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6800443729a1</link>
+      <description>W sobotę wieczorem policjanci z Zabrza weszli do mieszkania 22-latka. Zaledwie pół godziny wcześniej zostali zaalarmowani, że mężczyzna przystawił przedmiot przypominający broń do głowy 15-latki. Po chwili miał dziewczynę puścić i powiedzieć, że to pomyłka.</description>
+      <pubDate>Sun, 05 Jul 2026 14:19:24 GMT</pubDate>
+      <guid isPermaLink="false">6800443729a1</guid>
+      <source url="https://tvn24.pl/katowice/mial-przylozyc-15-latce-bron-do-glowy-powiedzial-ze-to-pomylka-st9129331?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Organic Maps</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f58f99d7aa7</link>
+      <description>Free, open-source, fast, privacy-focused, detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe/Maps.Me app founders</description>
+      <pubDate>Sun, 05 Jul 2026 14:14:30 GMT</pubDate>
+      <guid isPermaLink="false">3f58f99d7aa7</guid>
+      <source url="https://organicmaps.app/">Hacker News</source>
+    </item>
+    <item>
+      <title>Oszukują na klimatyzatorach. Policja ostrzega przed &quot;okazjami&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/738b7d58fd0e</link>
+      <description>Na fali upałów i zwiększonym zapotrzebowaniu na klimatyzatory oraz wiatraki próbują zarobić oszuści. Boleśnie przekonała się o tym mieszkanka powiatu lwóweckiego.</description>
+      <pubDate>Sun, 05 Jul 2026 14:12:18 GMT</pubDate>
+      <guid isPermaLink="false">738b7d58fd0e</guid>
+      <source url="https://tvn24.pl/wroclaw/lwowek-oszukuja-nawet-na-klimatyzatorach-uwaga-na-okazje-st9129298?source=rss">TVN24</source>
     </item>
     <item>
       <title>Niebezpieczny incydent w czasie rodeo. Spadochroniarz zahaczył o drzewo i spadł na namiot</title>
@@ -64,6 +232,14 @@
       <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/zmarla-urszula-tauer-pseudonim-ala-byla-oficerem-armii-krajowej-i-laczniczka-powstania-warszawskiego-st9129333?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Run Windows 2000 on a DEC Alpha with a new es40 fork</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a22f4c916885</link>
+      <description>As you might know, I&apos;m involved a bit in the OpenVMS community and the Alpha emulation side via AXPBox. AXPBox (github) is a fork of the es40 alpha emulator by Camiel Vanderhoeven (who is now Chief Architect at VSI, the company that makes OpenVMS, for x86 nowdays). There have been many forks of es40 in the past and recently a new one has popped up with some great new features. Like speedups via a JIT compiler, S3 graphics port from MAME and ARC support, resulting in the ability to run Windows 2000 for the DEC Alpha.</description>
+      <pubDate>Sun, 05 Jul 2026 13:47:44 GMT</pubDate>
+      <guid isPermaLink="false">a22f4c916885</guid>
+      <source url="https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html">Hacker News</source>
+    </item>
+    <item>
       <title>Burza wyrywała drzewa z korzeniami. Odwołane loty, problemy z promami</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a4db546c43e7</link>
       <description>W piątek burza tropikalna Maysak uderzyła w wyspę Hajnan na południu Chin. Silne porywy wiatru wyrywały drzewa z korzeniami. Na wyspie odwołano loty i przeprawy promowe.</description>
@@ -88,6 +264,14 @@
       <source url="https://www.rmf24.pl/fakty/polityka/news-rzecznik-praw-obywatelskich-interweniuje-ws-dziennikarza-les,nIdn,1008782">RMF24</source>
     </item>
     <item>
+      <title>Hi, I am a 10 years old kid and made a Cool app</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0dc7de4d5641</link>
+      <description>Comments</description>
+      <pubDate>Sun, 05 Jul 2026 13:43:06 GMT</pubDate>
+      <guid isPermaLink="false">0dc7de4d5641</guid>
+      <source url="https://yf-profitable-strats.streamlit.app/">Hacker News</source>
+    </item>
+    <item>
       <title>Na rynek ma trafić więcej ropy. Limit zostanie podniesiony</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a8a73bc4f835</link>
       <description>OPEC+ zgodził się na kolejne zwiększenie limitów wydobycia ropy od sierpnia. Decyzja zapadła w momencie, gdy ceny surowca spadają, a eksport przez cieśninę Ormuz stopniowo wraca do normy.</description>
@@ -110,6 +294,14 @@
       <pubDate>Sun, 05 Jul 2026 13:33:32 GMT</pubDate>
       <guid isPermaLink="false">0eff700ab9ef</guid>
       <source url="https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Szef MON Władysław Kosiniak-Kamysz o odtajnieniu donacji dla Ukrainy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ae10dcb1c160</link>
+      <description>Po konsultacji z premierem Donaldem Tuskiem zleciłem odtajnienie wszystkich donacji dla Ukrainy w latach 2022-2026 - poinformował szef MON Władysław Kosiniak-Kamysz. Polecił też zbadanie tego, kto &quot;dążył do ujawnienia tajemnic państwowych&quot;.</description>
+      <pubDate>Sun, 05 Jul 2026 13:31:28 GMT</pubDate>
+      <guid isPermaLink="false">ae10dcb1c160</guid>
+      <source url="https://tvn24.pl/polska/szef-mon-wladyslaw-kosiniak-kamysz-o-odtajnieniu-donacji-dla-ukrainy-st9129352?source=rss">TVN24</source>
     </item>
     <item>
       <title>Phosh 0.56.0</title>
@@ -176,6 +368,14 @@
       <source url="https://www.bankier.pl/wiadomosc/Szalenczy-wyczyn-w-Nowym-Jorku-Weszli-na-sam-szczyt-Empire-State-Building-9162186.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Zwrot o 180 stopni. Niechęć do Ukrainy w polskiej sieci staje się trwała</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c98769bbdce7</link>
+      <description>Obecnie średnio co piąty wpis w polskich mediach społecznościowych dotyczący Ukrainy jest wpisem krytycznym - wynika z raportu opublikowanego przez ośrodek analityczny Res Futura. Krytyka wobec Ukrainy rośnie w mediach społecznościowych nieprzerwanie od początku maja.</description>
+      <pubDate>Sun, 05 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">c98769bbdce7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zwrot-o-180-stopni-Niechec-do-Ukrainy-w-polskiej-sieci-staje-sie-trwala-9159880.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
       <title>Golf dachował, w środku było 5 młodych osób. Nowe ustalenia policji</title>
       <link>https://lolsoftware.github.io/4-news/#/article/636d7802fb13</link>
       <description>Policjanci wstępnie ustalili, kto siedział za kierownicą Volkswagena Golfa, który rano dachował w Wólce Żabnej w powiecie staszowskim (woj. świętokrzyskie). W wypadku zginął 22-latek, a czterech młodych ludzi jest rannych.</description>
@@ -206,209 +406,6 @@
       <pubDate>Sun, 05 Jul 2026 12:35:00 GMT</pubDate>
       <guid isPermaLink="false">7fe184328bfd</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Pies-asystujacy-to-nie-maskotka-Wyrzucaja-ich-ze-sklepow-i-przychodni-panstwo-rozklada-rece,286313,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Gdzie jest burza? Fronty atmosferyczne suną nad Polską</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c9dbc38737c</link>
-      <description>Gdzie jest burza? W niedzielę 5.07 w części Polski grzmi i silnie wieje, miejscami pada grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl.</description>
-      <pubDate>Sun, 05 Jul 2026 12:33:56 GMT</pubDate>
-      <guid isPermaLink="false">8c9dbc38737c</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-fronty-atmosferyczne-suna-nad-polska-st9129321?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Iran&apos;s supreme leader absent as senior officials attend ayatollah&apos;s funeral</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e6e87d4d96ab</link>
-      <description>Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.</description>
-      <pubDate>Sun, 05 Jul 2026 12:29:18 GMT</pubDate>
-      <guid isPermaLink="false">e6e87d4d96ab</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Tragedia w Beskidach. Zatrzymanie krążenia i śmierć turysty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/90c0a8ee8522</link>
-      <description>Turysta zmarł na Pilsku w Beskidach Żywiecko-Orawskich. Pomimo szybkiej akcji ratowniczej nie udało się go uratować.</description>
-      <pubDate>Sun, 05 Jul 2026 12:25:00 GMT</pubDate>
-      <guid isPermaLink="false">90c0a8ee8522</guid>
-      <source url="https://www.rmf24.pl/regiony/slaskie/news-tragedia-w-beskidach-turysta-zmarl-w-rejonie-pilska,nIdn,1008773">RMF24</source>
-    </item>
-    <item>
-      <title>Uchylony wyrok w sprawie zabójstwa na Nowym Świecie. Powodem &quot;nienależyta obsada sądu&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/018e8c475381</link>
-      <description>Sprawa zabójstwa na Nowym Świecie znów wróci na wokandę. Sąd Najwyższy uznał zasadność kasacji wniesionej przez obrońców Łukasza G. i Sebastiana W., skazanych na siedem lat więzienia za udział w bójce ze skutkiem śmiertelnym. Powodem było to, że w składzie sądu pierwszej instancji była neosędzia.</description>
-      <pubDate>Sun, 05 Jul 2026 12:24:55 GMT</pubDate>
-      <guid isPermaLink="false">018e8c475381</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-uniewazniony-wyrok-w-sprawie-zabojstwa-na-nowym-swiecie-st9128927?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Koniec zbiórek na ekstremalnie drogie leki? Rząd zmienia zasady finansowania terapii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/69c66e175ac2</link>
-      <description>Rząd przygotowuje zmiany w systemie finansowania terapii niestandardowych, w tym leczenia w trybie ratunkowym i tzw. compassionate use. Nowe przepisy mają uporządkować dostęp do bardzo drogich leków i zmienić zasady ich finansowania – także w sytuacjach, które dziś często wymagają zbiórek publicznych.</description>
-      <pubDate>Sun, 05 Jul 2026 12:10:00 GMT</pubDate>
-      <guid isPermaLink="false">69c66e175ac2</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Koniec-zbiorek-na-ekstremalnie-drogie-leki-Rzad-zmienia-zasady-finansowania-terapii,286209,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Show HN: KiCad in the Browser</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a640b868c489</link>
-      <description>Comments</description>
-      <pubDate>Sun, 05 Jul 2026 12:06:57 GMT</pubDate>
-      <guid isPermaLink="false">a640b868c489</guid>
-      <source url="https://demo.pcbjam.com/">Hacker News</source>
-    </item>
-    <item>
-      <title>Meta ma problemy. Zuckerberg przyznaje, że reorganizacja nie pomogła</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dd5eff28712c</link>
-      <description>Mark Zuckerberg przyznał, że rozwój agentów AI w Meta przebiega wolniej, niż zakładała firma. Podczas wewnętrznego spotkania szef koncernu mówił też o błędach przy reorganizacji, zwolnieniach i zmianach w zespołach odpowiedzialnych za sztuczną inteligencję.</description>
-      <pubDate>Sun, 05 Jul 2026 12:02:22 GMT</pubDate>
-      <guid isPermaLink="false">dd5eff28712c</guid>
-      <source url="https://tvn24.pl/biznes/tech/meta-zuckerberg-rozczarowany-ai-w-tle-zwolnienia-i-kontrowersyjny-program-st9129022?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Będzie okrągły stół ws. rzeki Bóbr. Tauron i resort klimatu reagują na tony śniętych ryb</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/34663fa6c404</link>
-      <description>Powołano radę społeczną ds. sytuacji na rzece Bóbr i Jeziorze Pilchowickim.</description>
-      <pubDate>Sun, 05 Jul 2026 12:02:00 GMT</pubDate>
-      <guid isPermaLink="false">34663fa6c404</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-trudna-sytuacja-na-bobrze-bedzie-okragly-stol-jest-nowy-komu,nIdn,1008769">RMF24</source>
-    </item>
-    <item>
-      <title>Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/26cbdfe4419b</link>
-      <description>Contact: Nicole Napoli, nnapoli@acc.org,</description>
-      <pubDate>Sun, 05 Jul 2026 11:59:27 GMT</pubDate>
-      <guid isPermaLink="false">26cbdfe4419b</guid>
-      <source url="https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk">Hacker News</source>
-    </item>
-    <item>
-      <title>Doniesienia o przekazaniu pocisków Patriot Ukrainie. „Potrzebny jest audyt”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7d85e5dcd1de</link>
-      <description>Potrzebny jest audyt w sprawie uzbrojenia, jakie Polska przekazała Ukrainie od początku rosyjskiej agresji - w ten sposób zarówno rządząca koalicja, jak i opozycja odnoszą się do dzisiejszego wpisu wicemarszałka Sejmu Krzysztofa Bosaka, który zdominował debatę publiczną o rzekomym przekazaniu przez rząd Ukrainie wiosną tego roku rakiet do systemów Patriot.</description>
-      <pubDate>Sun, 05 Jul 2026 11:55:00 GMT</pubDate>
-      <guid isPermaLink="false">7d85e5dcd1de</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-pociski-patriot-dla-ukrainy-dyskusja-po-wpisie-krzysztofa-bo,nIdn,1008770">RMF24</source>
-    </item>
-    <item>
-      <title>Introduction to Compilers and Language Design</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2f85eea631aa</link>
-      <description>This is a free online textbook: you are welcome to access the chapter PDFs
-directly below.  If you prefer to hold a real book, you can also purchase a hardcover or paperback below.
-The textbook and materials have been developed by Prof. Douglas Thain as part of the CSE 40243 compilers class at the University of Notre Dame.
-Join our mailing list to receive occasional announcements of new editions and other updates.</description>
-      <pubDate>Sun, 05 Jul 2026 11:54:16 GMT</pubDate>
-      <guid isPermaLink="false">2f85eea631aa</guid>
-      <source url="https://dthain.github.io/books/compiler/">Hacker News</source>
-    </item>
-    <item>
-      <title>Czołowe zderzenie, nie żyje 68-letni kierowca</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e37caab10c0c</link>
-      <description>68-letni kierowca Fiata zginął w wypadku w Podmiejskiej Woli. Z niewyjaśnionych przyczyn zjechał autem na przeciwległy pas ruchu i czołowo zderzył się z busem. Droga została zablokowana, a policja wyznaczyła objazdy.</description>
-      <pubDate>Sun, 05 Jul 2026 11:52:46 GMT</pubDate>
-      <guid isPermaLink="false">e37caab10c0c</guid>
-      <source url="https://tvn24.pl/krakow/podmiejska-wola-czolowe-zderzenie-nie-zyje-68-letni-kierowca-st9129143?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Grecja. Ewakuacja trzech miejscowości, aresztowano 76-latka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5d40a90f46fb</link>
-      <description>Niedaleko Salonik w sobotę wybuchł szybko rozprzestrzeniający się pożar lasu. Mieszkańcy trzech pobliskich miejscowości zostali ewakuowani. Aresztowano 76-letniego mężczyznę.</description>
-      <pubDate>Sun, 05 Jul 2026 11:50:17 GMT</pubDate>
-      <guid isPermaLink="false">5d40a90f46fb</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/pozary-w-grecji-ewakuacja-trzech-miejscowosci-aresztowano-76-latka-st9128996?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Moment grozy&quot; Karola Nawrockiego z kampanii prezydenckiej. &quot;Baśnie z mchu i paproci&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b701d5b13cd8</link>
-      <description>W tej historii usłyszeliśmy, że był zamach, potem, że była próba ośmieszenia, a potem, że był spisek - przypomniała w &quot;Kawie na ławę&quot; w TVN24 posłanka Lewicy Dorota Olko. Komentowała opisany przez Karola Nawrockiego &quot;moment grozy&quot; z czasów kampanii prezydenckiej. Zdaniem posła Centrum Mirosława Suchonia ta historia to &quot;baśnie z mchu i paproci&quot;. Poseł PiS Marcin Horała powiedział natomiast, dlaczego w tej sprawie od razu nie zawiadomiono służb.</description>
-      <pubDate>Sun, 05 Jul 2026 11:40:32 GMT</pubDate>
-      <guid isPermaLink="false">b701d5b13cd8</guid>
-      <source url="https://tvn24.pl/polska/moment-grozy-karola-nawrockiego-z-kampanii-prezydenckiej-komentarze-politykow-st9128816?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>England fighting history as well as Mexican nation in Azteca cauldron</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c83b85d99eef</link>
-      <description>England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.</description>
-      <pubDate>Sun, 05 Jul 2026 11:34:49 GMT</pubDate>
-      <guid isPermaLink="false">c83b85d99eef</guid>
-      <source url="https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Pogoda na 16 dni: Polska w czołówce najchłodniejszych państw</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6424253c086</link>
-      <description>Przed nami kilka dni nietypowo zimnej pogody jak na lipiec. Jak długo potrwa ochłodzenie i kiedy wróci gorące lato? Sprawdź autorską, 16-dniową długoterminową prognozę temperatury, przygotowaną przez Tomasza Wasilewskiego z tvnmeteo.pl.</description>
-      <pubDate>Sun, 05 Jul 2026 11:20:31 GMT</pubDate>
-      <guid isPermaLink="false">a6424253c086</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-dlugoterminowa-prognoza-na-lipiec-polska-w-czolowce-najchlodniejszych-panstw-kiedy-zrobi-sie-goraco-st9128873?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Upały windują ceny. Francuzi szturmują sklepy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/282719ab2c4e</link>
-      <description>Ze względu na upały we Francji, klimatyzatory i wiatraki są sprzedawane nawet trzy razy drożej - informuje dziennik &quot;Le Figaro&quot;. Wcześniej Francuzi szturmowali sklepy w poszukiwaniu sprzętu chłodzącego.</description>
-      <pubDate>Sun, 05 Jul 2026 11:12:45 GMT</pubDate>
-      <guid isPermaLink="false">282719ab2c4e</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/francja-upaly-winduja-ceny-klimatyzatory-drozsze-trzykrotnie-st9128923?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Kąpiel w Bałtyku zamiast prysznica. Nietypowa prośba do turystów z powodu deficytu wody</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f9080b2c5b2b</link>
-      <description>Na Gotlandii turyści zachęcani są przez lokalne władze do mycia się w Morzu Bałtyckim. Z powodu deficytu wody, z którym boryka się szwedzka wyspa, przedsiębiorstwo wodociągowe już wcześniej obniżyło ciśnienie w kranach. W niektórych hotelach rozdawane jest specjalne, przyjazne dla środowiska mydło, które zawiera miód i olej kokosowy.</description>
-      <pubDate>Sun, 05 Jul 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="false">f9080b2c5b2b</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-gotlandia-oszczedza-wode-wladze-apeluja-do-turystow-by-kapac,nIdn,1008765">RMF24</source>
-    </item>
-    <item>
-      <title>Chemical accidents rise as Trump administration proposes weakening safety rules</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/31ff357700db</link>
-      <description>Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.</description>
-      <pubDate>Sun, 05 Jul 2026 11:05:22 GMT</pubDate>
-      <guid isPermaLink="false">31ff357700db</guid>
-      <source url="https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Ponad 11 mln zł co roku dla jednej gminy? Samorządy zbiją fortunę na parkach narodowych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76cad017fa77</link>
-      <description>Kilometr nowego parku narodowego mógłby dać gminom średnio 44 tys. zł rocznie z nowej subwencji ekologicznej - wynika z raportu przygotowanego przez Greenpeace. Najwięcej pieniędzy mogłaby otrzymać gmina Ustrzyki Dolne - co roku blisko 11,5 miliona złotych.</description>
-      <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">76cad017fa77</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ponad-11-mln-zl-co-roku-dla-jednej-gminy-Samorzady-zbija-fortune-na-parkach-narodowych-9161558.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Udostępniasz Russia Today w internecie? TSUE wydał wyrok, który zmieni wszystko</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4e4e40d24cf2</link>
-      <description>Zakaz rozpowszechniania treści objętego unijnymi sankcjami kanału Russia Today (RT) dotyczy także internetu, w tym bezpłatnych i ogólnie dostępnych stron internetowych – orzekł Trybunał Sprawiedliwości Unii Europejskiej.</description>
-      <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">4e4e40d24cf2</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Udostepniasz-Russia-Today-w-internecie-TSUE-wydal-wyrok-ktory-zmieni-wszystko-9162519.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Nieprzespane noce przez letnie festiwale? Prawo chroni mieszkańców tylko w teorii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1bdacb364ffb</link>
-      <description>Koncerty, festiwale i imprezy plenerowe przyciągają tłumy, ale dla wielu osób oznaczają nieprzespane noce i wielogodzinny hałas. Problem od lat wywołuje spory między organizatorami wydarzeń a okolicznymi mieszkańcami. Prawnicy podkreślają, że polski system prawny zawiera instrumenty pozwalające reagować na problem hałasu, jednak ich skuteczność w odniesieniu do imprez masowych jest ograniczona - podaje Prawo.pl.</description>
-      <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">1bdacb364ffb</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nieprzespane-noce-przez-letnie-festiwale-Prawo-chroni-mieszkancow-tylko-w-teorii-9163234.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>The missing 500 million: Cosmic bombardment melted Earth&apos;s first crust</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46340a543fff</link>
-      <description>The heat of the Hadean may have come from impacts as well as the interior.</description>
-      <pubDate>Sun, 05 Jul 2026 10:55:02 GMT</pubDate>
-      <guid isPermaLink="false">46340a543fff</guid>
-      <source url="https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Pi square is nearly 10</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0830b7246208</link>
-      <description>It&apos;s tau day today, double the pi(e). So, let&apos;s see why pi square is nearly 10</description>
-      <pubDate>Sun, 05 Jul 2026 10:50:53 GMT</pubDate>
-      <guid isPermaLink="false">0830b7246208</guid>
-      <source url="https://mihai.page/pi-square-is-10/">Hacker News</source>
-    </item>
-    <item>
-      <title>Ćwierć miliona osób słuchało młodego artysty. Ten koncert przeszedł do historii Włoch</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3390fc6026d6</link>
-      <description>Ponad 250 tysięcy osób zgromadziło się na koncercie młodego włoskiego wokalisty Ultimo na terenie kampusu Uniwersytetu Tor Vergata na przedmieściach Rzymu. Bilety sprzedano w ciągu trzech godzin. „Przeszliśmy do historii” - mówił do swoich fanów Ultimo, czyli Niccolo Moriconi.</description>
-      <pubDate>Sun, 05 Jul 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="false">3390fc6026d6</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-rzym-ultimo-zgromadzil-ponad-250-tysiecy-widzow-na-biletowan,nIdn,1008764">RMF24</source>
     </item>
   </channel>
 </rss>
