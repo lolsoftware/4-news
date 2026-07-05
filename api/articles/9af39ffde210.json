@@ -1,0 +1,13 @@
+{
+  "id": "9af39ffde210",
+  "title": "A sociotechnical threat model for AI-driven smart home devices",
+  "originalTitle": "A sociotechnical threat model for AI-driven smart home devices",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2602.09239",
+  "publishedAt": "2026-07-05T17:05:57.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2602.09239\">View PDF</a> <a href=\"https://arxiv.org/html/2602.09239v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>The growing adoption of AI-driven smart home devices has introduced new privacy risks for domestic workers (DWs), who are frequently monitored in employers' homes while also using smart devices in their own households. We conducted semi-structured interviews with 18 UK-based DWs and performed a human-centered threat modeling analysis of their experiences through the lens of Communication Privacy Management (CPM). Our findings extend existing threat models beyond abstract adversaries and single-household contexts by showing how AI analytics, residual data logs, and cross-household data flows shaped the privacy risks faced by participants. In employer-controlled homes, AI-enabled features and opaque, agency-mediated employment arrangements intensified surveillance and constrained participants' ability to negotiate privacy boundaries. In their own homes, participants had greater control as device owners but still faced challenges, including gendered administrative roles, opaque AI functionalities, and uncertainty around data retention. We synthesize these insights into a sociotechnical threat model that identifies DW agencies as institutional adversaries and maps AI-driven privacy risks across interconnected households, and we outline social and practical implications for strengthening DW privacy and agency. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Shijing He [<a href=\"https://arxiv.org/show-email/8fc7fb22/2602.09239\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Mon, 9 Feb 2026 22:08:02 UTC (58 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
