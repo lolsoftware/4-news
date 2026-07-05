@@ -1,0 +1,13 @@
+{
+  "id": "7b9009340be8",
+  "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+  "originalTitle": "Mouse: Precision Editing Tools for AI Coding Agents",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://hic-ai.com/",
+  "publishedAt": "2026-07-05T05:01:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"main-content\"><div><p>HIC Mouse is the most powerful AI agent file-editing tool in the world. The patent-pending technology transforms everything about working with AI.</p><p>14-day free trial • No credit card required</p></div><div id=\"features\"><div><h2>AI File Editing Is Broken</h2><p>Most AI agents edit files today with one built-in tool — string replacement. They can't see proposed changes before saving or roll back changes cleanly.</p><p>Mouse fixes these problems through coordinate-based editing, staged changes with atomic rollback, and<!-- --> <a href=\"https://hic-ai.com/blog/tool-response-engineering\">tool-response engineering</a>.</p></div><div><div><div><h3>Coordinate-Based Editing</h3></div><p>Mouse provides AI agents with six declarative operations like INSERT, DELETE, and ADJUST, not just REPLACE, with a natural syntax for surgical accuracy.</p></div><div><div><h3>Staged Changes with Atomic Rollback</h3></div><p>Mouse stages all risky edits for approval or atomic rollback. Your agent can<!-- --> <strong>Save</strong>,<!-- --> <strong>Cancel</strong>,<!-- --> <strong>Inspect</strong>, or even <strong>Refine</strong> <!-- -->staged changes.</p></div><div><div><h3>Embedded Guidance in All Tool Responses</h3></div><p>Mouse provides contextual guidance, next-action suggestions, risk assessment, and viewport file structure to compensate for every AI agent's inherent limitations.</p></div></div></div><div><h2>Try HIC Mouse For Free</h2><p>HIC Mouse gives AI coding agents surgical accuracy and consistency. Get started by installing it today.</p><p>Learn more about Mouse's<!-- --> <a href=\"https://hic-ai.com/features\">features</a>, read the<!-- --> <a href=\"https://hic-ai.com/research\">technical report</a> <!-- -->and<!-- --> <a href=\"https://hic-ai.com/docs\">documentation</a>, visit our<!-- --> <a href=\"https://hic-ai.com/faq\">FAQs</a>, or read the<!-- --> <a href=\"https://hic-ai.com/blog\">blog</a> <!-- -->for more information.</p></div></div></div>",
+  "image": "images/3399e26075a4.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

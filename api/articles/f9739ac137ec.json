@@ -1,0 +1,13 @@
+{
+  "id": "f9739ac137ec",
+  "title": "Moby Dick Workout",
+  "originalTitle": "Moby Dick Workout",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+  "publishedAt": "2026-07-05T04:30:33.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <main> <time datetime=\"2022-04-12\">12 Apr 2022</time>\n\n<p>How many items should your todo list handle? Not the most pressing question in the world, but one that I sometimes wonder about.</p>\n<p>I think productivity apps should scale to “user generated” content. I don’t expect every app to load multi-gigabyte log files, but it should handle what I can write myself.</p>\n<p>I use “Moby Dick” to test that. I know it’s longer and uses bigger words than anything I’ll write. If the app works well with “Moby Dick” then that’s a good indication that it will handle my needs also.</p>\n<p>Here’s the test:</p>\n<ol>\n<li>Open “Moby Dick”. Fast?</li>\n<li>Scroll to end. Resize the window. Fast?</li>\n<li>Scroll to middle. Resize the window. Fast?</li>\n<li>Select all. Cut, Paste, Undo. Redo. App still standing?</li>\n<li>Edit some content near the middle. No typing lag? No scroll jumping?</li>\n<li>Repeat 2-5 until you get bored, then open macOS Activity Monitor and see if it’s using acceptable amount of Memory.</li>\n</ol>\n<p>Computers are really fast, Moby Dick is tiny compared to this fastness. If an app doesn’t pass this test that suggests to me that there might be problems. This is just a test–a good app for you might fail this test, a bad app for you might pass.</p>\n<p>Test Files:</p>\n<ul>\n<li><a href=\"https://github.com/jessegrosjean/mobydickworkout/raw/main/moby_dick.bike.zip\">MobyDick.bike</a>\n<ul>\n<li>This is what I use to test my app <a href=\"https://www.hogbaysoftware.com/bike/\">Bike Outliner</a></li>\n</ul>\n</li>\n<li><a href=\"https://github.com/jessegrosjean/mobydickworkout/raw/main/moby_dick.opml.zip\">MobyDick.opml</a>\n<ul>\n<li>This is OPML file useful for testing outliner apps</li>\n</ul>\n</li>\n<li><a href=\"https://github.com/jessegrosjean/mobydickworkout/raw/main/moby_dick.md.zip\">MobyDick.markdown</a>\n<ul>\n<li>This is a Markdown file useful for testing markdown apps</li>\n</ul>\n</li>\n</ul> <br> </main> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
