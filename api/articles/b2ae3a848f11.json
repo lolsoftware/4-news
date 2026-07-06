@@ -1,0 +1,13 @@
+{
+  "id": "b2ae3a848f11",
+  "title": "Microsoft przyznaje się do błędu. Tracisz przez z niego nawet 500 GB",
+  "originalTitle": "Microsoft przyznaje się do błędu. Tracisz przez z niego nawet 500 GB",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/microsoft-przyznaje-sie-do-bledu-tracisz-przez-z-niego-nawet-500-gb",
+  "publishedAt": "2026-07-06T10:15:11.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-26b40f5c=\"\"> <p data-v-26b40f5c=\"\">Windows 11 jest nękany wieloma problemami, jednak jeden z najpoważniejszych nie został nawet ogłoszony przez Microsoft. Chodzi i jeden z dzienników danych, który nagle rośnie do niebotycznych rozmiarów i zapycha całą pamięć.</p> <!----> <!----> </div><div data-v-26b40f5c=\"\"><p>Wyobraź sobie, że właśnie wyczyściłeś dysk, odinstalowałeś gry, którymi dawno się nie interesowałeś, a tu nagle Windows 11 znów pokazuje, że miejsce na dysku C magicznie wyparowało. Nie jesteś sam. Microsoft wreszcie, choć po cichu, przyznał, że za tym chaosem stoi plik, który potrafi urosnąć do kosmicznych rozmiarów.</p>  <h2>Windows 11 zjada ci pamięć. Możesz tracić nawet 500 GB</h2> <p>Źródłem całego zamieszania się CapabilityAccessManager.db-wal. Jest to z pozoru niewinny dziennik bazy danych, w którym system zapisuje, które aplikacje prosiły o dostęp do kamery, mikrofonu, lokalizacji czy przechwytywania ekranu. Teoretycznie powinien ważyć kilka megabajtów. W praktyce u niektórych użytkowników puchnie do 200 GB, 500 GB, a rekordziści widzieli nawet ponad pół terabajta i co gorsza, czasem nie przestaje rosnąć dopóki nie zabraknie miejsca.</p> <p>Problem jest podstępny, bo Windows nie pokazuje go wprost. W ustawieniach widzisz tylko tajemniczą pozycję „System i zarezerwowane”, która nagle zajmuje 89 GB, choć dopiero co stawiałeś system na czysto. Dopiero po odpaleniu narzędzi typu WizTree czy TreeSize orientujesz się, że winowajca siedzi głęboko w C:\\ProgramData\\Microsoft\\Windows\\CapabilityAccessManager. Microsoft oczywiście nie ogłosił tego na pierwszej stronie. W dokumencie opublikowanym 23 czerwca nie było ani słowa o bugu, a dopiero 29 czerwca cicho zaktualizowano notkę, obiecując poprawkę w łatce z 14 lipca 2026 roku.</p> <p>Rozwiązanie problemu jest proste, ale jednocześnie ryzykowne i należy się do niego posunąć wyłącznie w ostateczności. Jest nim zmiana nazwy pliku, by Windows stworzył nowy, który tym razem może być pozbawiony błędu.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/2c365e5d0f47.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
