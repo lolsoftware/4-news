@@ -1,0 +1,13 @@
+{
+  "id": "3b59a9d268ce",
+  "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+  "originalTitle": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2605.20049",
+  "publishedAt": "2026-07-05T23:03:55.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2605.20049\">View PDF</a> <a href=\"https://arxiv.org/html/2605.20049v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>As autonomous coding agents see rapid adoption, their evaluation has primarily focused on task completion rates holding the target codebase fixed. This leaves a critical question unanswered: does the structural and stylistic quality, or ``cleanliness'' of the underlying code affect an agent's ability to navigate and modify it? To isolate the effect of code cleanliness from agent capability, we introduce an evaluation protocol built around minimal pairs: repositories that match on architecture, dependencies, and external behaviour, but differ on static-analysis rule violations and cognitive complexity. The pairs are constructed in both directions, by agent pipelines that either degrade a clean repository or clean a messy one. We author 33 tasks across six such pairs, evaluated through hidden tests at the application's public surface. Across 660 trials with Claude Code, code cleanliness does not change the agent's pass rate. However, it substantially alters the agent's operational footprint: agents working on cleaner code use 7 to 8% fewer tokens and reduce file revisitations by 34%. Our findings suggest that traditional maintainability principles remain highly relevant in the era of AI-driven development, shaping the computational cost and navigational efficiency of coding agents. Code cleanliness joins model choice, harness, and prompting as a factor that materially affects agent behaviours. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Priyansh Trivedi [<a href=\"https://arxiv.org/show-email/e2ac6fbd/2605.20049\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Tue, 19 May 2026 16:06:26 UTC (1,094 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
