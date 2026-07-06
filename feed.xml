@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 06 Jul 2026 20:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:50:50 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Umowa Polski z NATO i USA. Co otrzymamy za przekazanie Patriotów Ukrainie?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1ff686bfa3ee</link>
+      <description>Polska „umówiła się” z sekretarzem generalnym NATO Markiem Rutte i USA ws. Patriotów – przekazał wiceszef MON Cezary Tomczyk w rozmowie z TVN24. Za przekazanie Ukrainie „kilku” pocisków rakietowych do systemu Patriot Polska miałaby otrzymać „dziesięć razy więcej tego typu rakiet i systemów w ciągu pierwszej doby zagrożenia”. W tle pojawił się spór o przepływ informacji między obozem prezydenckim a rządowym.</description>
+      <pubDate>Mon, 06 Jul 2026 21:43:00 GMT</pubDate>
+      <guid isPermaLink="false">1ff686bfa3ee</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-patrioty-dla-ukrainy-tomczyk-polska-umowila-sie-z-nato-i-usa,nIdn,1008949">RMF24</source>
+    </item>
+    <item>
+      <title>Learning to code is still worthwhile</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5e2093ad66d7</link>
+      <description>July 6, 2026</description>
+      <pubDate>Mon, 06 Jul 2026 20:59:54 GMT</pubDate>
+      <guid isPermaLink="false">5e2093ad66d7</guid>
+      <source url="https://stevekrouse.com/learn-to-code">Hacker News</source>
+    </item>
     <item>
       <title>Tylko 559 geriatrów na całą Polskę. Rzecznik Praw Obywatelskich pyta resort o działania</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e51bf1e9a14b</link>
@@ -22,6 +38,30 @@
       <pubDate>Mon, 06 Jul 2026 20:36:00 GMT</pubDate>
       <guid isPermaLink="false">75dbbb81235e</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Tanie-warzywo-jak-pigulka-z-witamina-C-Ale-nie-kazdy-moze-chrupac-ta-grupa-musi-uwazac,286346,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„Hiroszima w świecie AI”. Dramatyczne ostrzeżenie ws. sztucznej inteligencji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1aba8e938e0c</link>
+      <description>Ministra spraw zagranicznych Wielkiej Brytanii, Yvette Cooper, wezwała w poniedziałek do stworzenia globalnych regulacji w sprawie sztucznej inteligencji. Porównała to wyzwanie do budowy zasad bezpieczeństwa nuklearnego. Szefowa brytyjskiej dyplomacji ostrzegła, że nie można „pozwolić sobie na czekanie na odpowiednik Hiroshimy w świecie AI”.</description>
+      <pubDate>Mon, 06 Jul 2026 20:36:00 GMT</pubDate>
+      <guid isPermaLink="false">1aba8e938e0c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-sztuczna-inteligencja-yvette-cooper-nie-mozemy-czekac-na-hir,nIdn,1008948">RMF24</source>
+    </item>
+    <item>
+      <title>Mum who accused ex-partner of rape wins appeal against family court judge</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ce57898eab7</link>
+      <description>Family Court Judge Robin Tolson KC&apos;s decisions have been successfully appealed several times in the last six years.</description>
+      <pubDate>Mon, 06 Jul 2026 20:26:47 GMT</pubDate>
+      <guid isPermaLink="false">8ce57898eab7</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cr4779q56yeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>FA considering appeal after Quansah red card</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6bba153fbdce</link>
+      <description>The Football Association is considering whether to appeal after England defender Jarell Quansah&apos;s red card against Mexico.</description>
+      <pubDate>Mon, 06 Jul 2026 20:15:41 GMT</pubDate>
+      <guid isPermaLink="false">6bba153fbdce</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Britain&apos;s Arthur Fery reaches Wimbledon quarter-finals in history-making match</title>
@@ -94,6 +134,14 @@
       <pubDate>Mon, 06 Jul 2026 19:43:36 GMT</pubDate>
       <guid isPermaLink="false">019db585b1c9</guid>
       <source url="https://janilowski.pl/en/blog/2026/price-per-m-tokens/">Hacker News</source>
+    </item>
+    <item>
+      <title>Python 3.14 compiled to metal – no interpreter</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/254a198ea220</link>
+      <description>Python 3.14, compiled to metal — JIT &amp; AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython. - can1357/pon</description>
+      <pubDate>Mon, 06 Jul 2026 19:40:22 GMT</pubDate>
+      <guid isPermaLink="false">254a198ea220</guid>
+      <source url="https://github.com/can1357/pon">Hacker News</source>
     </item>
     <item>
       <title>Rusza słynny festiwal w Hiszpanii. Krwawa tradycja wywołuje duży sprzeciw</title>
@@ -358,54 +406,6 @@
       <pubDate>Mon, 06 Jul 2026 17:48:45 GMT</pubDate>
       <guid isPermaLink="false">163b46982437</guid>
       <source url="https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Kolejna kara dla Grzegorza Brauna. Decyzja Parlamentu Europejskiego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/33964609c020</link>
-      <description>Grzegorz Braun został ponownie ukarany przez Parlament Europejski. Tym razem za obraźliwe słowa, które skierował do szefowej unijnej dyplomacji Kai Kallas. Polityk utraci między innymi część diety europosła.</description>
-      <pubDate>Mon, 06 Jul 2026 17:44:23 GMT</pubDate>
-      <guid isPermaLink="false">33964609c020</guid>
-      <source url="https://tvn24.pl/swiat/grzegorz-braun-zostal-ukarany-przez-parlament-europejski-za-obrazenie-kai-kallas-st9131166?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>A global workspace in language models</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b36169a44d2e</link>
-      <description>Interpretability research on Claude&apos;s internal thoughts.</description>
-      <pubDate>Mon, 06 Jul 2026 17:44:08 GMT</pubDate>
-      <guid isPermaLink="false">b36169a44d2e</guid>
-      <source url="https://www.anthropic.com/research/global-workspace">Hacker News</source>
-    </item>
-    <item>
-      <title>Premier czeka na propozycje zmian w ochronie zdrowia. Rezydenci: potrzebne reformy, nie dymisje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/65abc69deba1</link>
-      <description>Szef Porozumienia Rezydentów &lt;b&gt;Sebastian Goncerz&lt;/b&gt; uważa, że dymisje w resorcie zdrowia mogą być zasadne jako kara za nieprawidłowości, ale same nie rozwiążą problemów systemu. Rezydenci wskazują na potrzebę realnych reform.</description>
-      <pubDate>Mon, 06 Jul 2026 17:41:55 GMT</pubDate>
-      <guid isPermaLink="false">65abc69deba1</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Premier-czeka-na-propozycje-zmian-w-ochronie-zdrowia-Rezydenci-potrzebne-reformy-nie-dymisje,286356,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Tajemnicze kule na australijskiej plaży. Skąd się tam wzięły</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/10e9cbacf98b</link>
-      <description>Duże, metalowe kule pojawiły się na australijskiej plaży, co wywołało spore poruszenie. Krajowa agencja kosmiczna podała w poniedziałek, że zidentyfikowała najbardziej prawdopodobne źródło tajemniczych obiektów.</description>
-      <pubDate>Mon, 06 Jul 2026 17:40:59 GMT</pubDate>
-      <guid isPermaLink="false">10e9cbacf98b</guid>
-      <source url="https://tvn24.pl/tvnmeteo/ciekawostki/australia-tajemnicze-kule-na-plazy-skad-sie-tam-wziely-st9131107?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Trump przyznał się: Tak, rozmawiałem z Infantino o czerwonej kartce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d5b25b90f34c</link>
-      <description>Prezydent USA Donald Trump przyznał, że rozmawiał z Giannim Infantino, szefem FIFA w sprawie czerwonej kartki dla reprezentanta USA Falorina Baloguna. „Nie mówiłem FIFA, co ma robić. Ale podjęto właściwą decyzję” – tak Trump skomentował decyzję o zawieszeniu kary dla amerykańskiego piłkarza. Duża część piłkarskiego środowiska przyjęła decyzję FIFA z oburzeniem, choć Infantino zapewnia, że „została ona podjęta w sposób niezależny przez organy sędziowskie”.</description>
-      <pubDate>Mon, 06 Jul 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">d5b25b90f34c</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-trump-przyznal-ze-rozmawial-z-infantino-o-czerwonej-kartce-b,nIdn,1008935">RMF24</source>
-    </item>
-    <item>
-      <title>Reece James expected to return for Norway quarter-final</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d0b2dbc12b78</link>
-      <description>England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final against Norway on Saturday.</description>
-      <pubDate>Mon, 06 Jul 2026 17:37:05 GMT</pubDate>
-      <guid isPermaLink="false">d0b2dbc12b78</guid>
-      <source url="https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
