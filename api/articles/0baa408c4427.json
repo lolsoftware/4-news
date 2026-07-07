@@ -1,0 +1,13 @@
+{
+  "id": "0baa408c4427",
+  "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+  "originalTitle": "Facing US export controls, China's DeepSeek plans to make its own chips",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+  "publishedAt": "2026-07-07T16:14:53.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>DeepSeek, the Chinese startup developing large language models that are competitive with those from US companies like OpenAI and Anthropic, is planning to enter the silicon business, according to <a href=\"https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/\">Reuters</a>.</p>\n<p>Citing three people familiar with the matter, Reuters writes that DeepSeek has been working on a move into silicon for about a year. It has been meeting with potential partners in the hardware and silicon space and has been hiring engineers for the project.</p>\n<p>The focus is on data center chips for inference, not training, and the goal is likely to reduce reliance on both Huawei and Nvidia.</p>\n<p>Nvidia is the chipmaker for most AI companies in North America and Europe, but a United States export ban has prevented the company from achieving a similar presence in China. Huawei controls about half of the data center chip market there, and DeepSeek isn’t the only one trying to enter; Chinese tech giants like Alibaba and Baidu have been making moves, too.</p>\n<p>While chip export controls in the US are a major reason this is an urgent concern for DeepSeek, US-based AI companies are making similar chip plans.</p>\n<p>For example, OpenAI and Broadcom jointly <a href=\"https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/\">announced Jalapeño</a>, the former’s first chip designed for inference at scale, just a couple of weeks ago. Anthropic, too, has been exploring custom chip design, though there have not been any publicly visible milestones yet.</p>\n<p>In OpenAI’s case, it’s partly a play to reduce its reliance on Nvidia, but it’s also a desire to have Apple-like control over the entire tech stack for its products. Further, getting in at the silicon and data center levels can be an advantage in a market where data center access is likely to remain constrained, with multiple companies competing for compute as they scale up their AI models and services.</p> </div></div>",
+  "image": "images/a9c088be66a5.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
