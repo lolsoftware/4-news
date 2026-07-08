@@ -1,0 +1,13 @@
+{
+  "id": "3d6e846281ff",
+  "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+  "originalTitle": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+  "publishedAt": "2026-07-08T16:39:48.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Code generation is emerging as one of the most popular applications for large language models (LLMs), but not all agents are equally good at all development tasks. Google created a benchmark earlier this year to evaluate how LLMs perform in Android app development, and <a href=\"https://developer.android.com/bench\">Android Bench</a> is getting a big update today. The leaderboard now includes a raft of new models, and Google has adopted a new framework that should be easier to use. Developers are invited to run their own tests and submit feedback that could shape the future of Android Bench.</p>\n<p>While they are popular coding tools, LLMs don’t get everything right. Separating the useful outputs from straight-up slop means choosing the right tool. Android Bench aims to demonstrate which AI agents do best on a suite of 100 Android development tasks. After launching Android Bench in March, Google has added metrics like cost and efficiency, as well as open-weight models.</p>\n<p>To keep Android Bench relevant, Google is <a href=\"https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html\">updating the test</a> with eight new models, including all the latest heavy-hitters: Claude Fable 5, Claude Sonnet 5, Claude Opus 4.8, GLM 5.2, Kimi K2.7 Code, MiniMax M3, Qwen 3.7 Plus, and Qwen 3.7 Max.</p>\n<p>Even the initial release of Android Bench didn’t have Google’s AI models at the top—OpenAI’s latest LLMs were slightly in the lead. The story is worse for Gemini now that Google has expanded the lineup. In the new leaderboard, Gemini 3.1 Pro is in fifth place, behind GPT 5.4, Claude Sonnet 5, and Claude Fable 5. In fact, Fable 5 lives up to the hype with a sizeable lead at 84.5 percent accuracy in the test.</p> </div></div>",
+  "image": "images/c160d73833d6.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
