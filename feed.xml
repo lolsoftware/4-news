@@ -5,8 +5,32 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 08 Jul 2026 19:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:33:22 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MenB vaccine offers men no protection from gonorrhoea, claims major study</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7fe230161159</link>
+      <description>The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say.</description>
+      <pubDate>Wed, 08 Jul 2026 21:06:53 GMT</pubDate>
+      <guid isPermaLink="false">7fe230161159</guid>
+      <source url="https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b834c08ad7ab</link>
+      <description>For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land that already holds a history of loss.</description>
+      <pubDate>Wed, 08 Jul 2026 21:04:14 GMT</pubDate>
+      <guid isPermaLink="false">b834c08ad7ab</guid>
+      <source url="https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>OpenAI no longer recommends SWE-Bench Pro</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a250149fce57</link>
+      <description>A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.</description>
+      <pubDate>Wed, 08 Jul 2026 21:03:51 GMT</pubDate>
+      <guid isPermaLink="false">a250149fce57</guid>
+      <source url="https://openai.com/index/separating-signal-from-noise-coding-evaluations/">Hacker News</source>
+    </item>
     <item>
       <title>Jawność wynagrodzeń i limit 240 zł za godzinę: ekspert ostrzega przed skutkami dla kolejek</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f0c94e9ac218</link>
@@ -22,6 +46,86 @@
       <pubDate>Wed, 08 Jul 2026 20:52:00 GMT</pubDate>
       <guid isPermaLink="false">e4d8b68dadc3</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Maria-Libura-o-planach-Ministerstwo-Zdrowia-to-nie-jest-reforma,286475,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Amerykanie znów zaatakowali Iran. „USA pociągają Teheran do odpowiedzialności”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4c9350fa1ee3</link>
+      <description>„Siły Stanów Zjednoczonych rozpoczęły dodatkowe ataki na Iran, w celu dalszego osłabienia jego zdolności do zagrażania swobodzie żeglugi w cieśninie Ormuz” – poinformowało w środę Centralne Dowództwo USA we wpisie na platformie X. Dzieje się to kilka godzin po tym, jak Donald Trump ogłosił, że tymczasowe porozumienie mające na celu zakończenie wojny z Iranem „przestało obowiązywać” – wskazała agencja Reutera.</description>
+      <pubDate>Wed, 08 Jul 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="false">4c9350fa1ee3</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-amerykanie-znow-zaatakowali-iran-usa-pociagaja-teheran-do-od,nIdn,1009261">RMF24</source>
+    </item>
+    <item>
+      <title>Fable is not a useful model</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/af236497e3cd</link>
+      <description>COMBINE-lab develops algorithms, data structures, and software for high-throughput genomics.</description>
+      <pubDate>Wed, 08 Jul 2026 20:41:33 GMT</pubDate>
+      <guid isPermaLink="false">af236497e3cd</guid>
+      <source url="https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Starmer gifted gun and ammunition by Turkish president at Nato</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/001fffc5411b</link>
+      <description>The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.</description>
+      <pubDate>Wed, 08 Jul 2026 20:40:11 GMT</pubDate>
+      <guid isPermaLink="false">001fffc5411b</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Turning a pile of documents into a searchable useable knowledge base</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d1e507fa3256</link>
+      <description>This does for Documents what repo-browser does for repos. A local AI powered Document search engine  - linuxrebel/DocuBrowser</description>
+      <pubDate>Wed, 08 Jul 2026 20:37:29 GMT</pubDate>
+      <guid isPermaLink="false">d1e507fa3256</guid>
+      <source url="https://github.com/linuxrebel/DocuBrowser">Hacker News</source>
+    </item>
+    <item>
+      <title>Google’s deepfake detector system used to debunk McConnell hoax pic</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fc75b9bd5d03</link>
+      <description>Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.</description>
+      <pubDate>Wed, 08 Jul 2026 20:37:03 GMT</pubDate>
+      <guid isPermaLink="false">fc75b9bd5d03</guid>
+      <source url="https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/">TechCrunch</source>
+    </item>
+    <item>
+      <title>UK heatwave spreads further north and west as temperatures continue to climb</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6da99c3ccb8e</link>
+      <description>This year&apos;s third heatwave is one of the longest lasting heatwaves since the infamous year of 1976.</description>
+      <pubDate>Wed, 08 Jul 2026 20:34:56 GMT</pubDate>
+      <guid isPermaLink="false">6da99c3ccb8e</guid>
+      <source url="https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>With EU backing, QuantumDiamonds aims to speed up chip manufacturing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/92ef10198812</link>
+      <description>Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.</description>
+      <pubDate>Wed, 08 Jul 2026 20:29:50 GMT</pubDate>
+      <guid isPermaLink="false">92ef10198812</guid>
+      <source url="https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Autonomous drone delivery startup Manna plots major US expansion</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9c13a3fabc13</link>
+      <description>Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.</description>
+      <pubDate>Wed, 08 Jul 2026 20:06:54 GMT</pubDate>
+      <guid isPermaLink="false">9c13a3fabc13</guid>
+      <source url="https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/">TechCrunch</source>
+    </item>
+    <item>
+      <title>FAANG Simulator</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/716f461301e6</link>
+      <description>A FAANG life sim. One tap = one quarter of your life. Layoffs, lifestyle creep, an AI named Kevin, and Milton the desk rat.</description>
+      <pubDate>Wed, 08 Jul 2026 20:05:42 GMT</pubDate>
+      <guid isPermaLink="false">716f461301e6</guid>
+      <source url="https://www.abeyk.com/escape-the-rat-race/">Hacker News</source>
+    </item>
+    <item>
+      <title>Bieber, Madonna, Shakira i inni. Wyjątkowy show uświetni finał mundialu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f4b0006e05db</link>
+      <description>Justin Bieber, Shakira, Madonna i zespół BTS to tylko kilka z długiej listy gwiazd, które wystąpią w wyjątkowym koncercie przygotowanym na finał piłkarskich mistrzostw świata. Wzorem amerykańskiego Super Bowl, widowisko odbędzie się w przerwie pomiędzy pierwszą i drugą połową spotkania.</description>
+      <pubDate>Wed, 08 Jul 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f4b0006e05db</guid>
+      <source url="https://www.rmf24.pl/fakty/kultura/news-bieber-madonna-shakira-i-inni-wyjatkowy-show-uswietni-final-,nIdn,1009259">RMF24</source>
     </item>
     <item>
       <title>Dramat w niemieckiej szkole. Padł strzał, potem 16-latek wyjął nóż</title>
@@ -94,6 +198,14 @@
       <pubDate>Wed, 08 Jul 2026 19:19:15 GMT</pubDate>
       <guid isPermaLink="false">87e79a974906</guid>
       <source url="https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Cloudflare Drop</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f186b41904f9</link>
+      <description>Comments</description>
+      <pubDate>Wed, 08 Jul 2026 19:18:26 GMT</pubDate>
+      <guid isPermaLink="false">f186b41904f9</guid>
+      <source url="https://www.cloudflare.com/drop/">Hacker News</source>
     </item>
     <item>
       <title>Jastrzębie podnoszą głowę. Część Fedu chciała podwyżki stóp procentowych w USA</title>
@@ -294,118 +406,6 @@
       <pubDate>Wed, 08 Jul 2026 18:04:33 GMT</pubDate>
       <guid isPermaLink="false">933753d5d95c</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/rosja-wprowadzono-zakaz-eksportu-oleju-napedowego-powodem-niedobory-paliwa-i-wzrost-cen-st9134454?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>TikTok users don&apos;t have as much agency over their FYPs as they think</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ca4f4b9bbce</link>
-      <description>The &quot;not interested&quot; feature is your friend, but users must intentionally and constantly curate their FYPs...</description>
-      <pubDate>Wed, 08 Jul 2026 18:00:49 GMT</pubDate>
-      <guid isPermaLink="false">1ca4f4b9bbce</guid>
-      <source url="https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Grok 4.5</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c5fe4e158440</link>
-      <description>Comments</description>
-      <pubDate>Wed, 08 Jul 2026 18:00:32 GMT</pubDate>
-      <guid isPermaLink="false">c5fe4e158440</guid>
-      <source url="https://x.ai/news/grok-4-5">Hacker News</source>
-    </item>
-    <item>
-      <title>Lecisz na wakacje? Sprawdź, jak korzystać z telefonu za granicą, by nie dostać rachunku grozy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76ff0964af08</link>
-      <description>T-Mobile przypomina o tym na samym początku sezonu urlopowego, startując z dedykowaną kampanią roamingową skierowaną do podróżujących.</description>
-      <pubDate>Wed, 08 Jul 2026 18:00:22 GMT</pubDate>
-      <guid isPermaLink="false">76ff0964af08</guid>
-      <source url="https://antyweb.pl/t-mobile-roaming-wakacje-2026">Antyweb</source>
-    </item>
-    <item>
-      <title>Polacy popędzili na zbiory. Wzmacnia naczynia, pozbywa się obrzęków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba4478e311c9</link>
-      <description>Niepozorna roślina z łąk i pól niespodziewanie stała się hitem internetu. Przytulia czepna zachwyca nie tylko tym, że może zastąpić kawę bez kofeiny, ale także bogactwem związków, którym przypisuje się liczne właściwości prozdrowotne.</description>
-      <pubDate>Wed, 08 Jul 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ba4478e311c9</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Polacy-popedzili-na-zbiory-Wzmacnia-naczynia-pozbywa-sie-obrzekow,286452,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Trump nagle pochwalił NATO. „Chcę pozostać z wami”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/706c1be97983</link>
-      <description>Mimo krytycznego i wielokrotnie powtarzanego stanowiska wobec NATO, prezydent Donald Trump kończy szczyt w Ankarze z pochwałą wobec sojuszników. Niespodziewanie przywódca USA ocenił, że członkowie Sojuszu odpowiedzieli na jego wezwanie i zwiększyli wydatki na obronę. Podkreślił też, że w tej sprawie „poczyniono wielkie postępy”. W kuluarach natowskiego szczytu mówi się, że Trump poza kamerami rozmawiał z partnerami w zupełnie innym tonie, niż zazwyczaj i nie stronił od pochwał oraz podziękowań.</description>
-      <pubDate>Wed, 08 Jul 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="false">706c1be97983</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-trump-nagle-pochwalil-nato-chce-pozostac-z-wami,nIdn,1009244">RMF24</source>
-    </item>
-    <item>
-      <title>Chiny. Tornado porwało mężczyznę z mieszkania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6b0e8f26f041</link>
-      <description>Tornado uderzyło w poniedziałek w chińską prowincję Hubei. Żywioł był tak silny, że wyssał 30-letniego mężczyznę razem z meblami z mieszkania na dwunastym piętrze. Trąba powietrzna zniszczyła wiele budynków w całej prowincji.</description>
-      <pubDate>Wed, 08 Jul 2026 17:51:35 GMT</pubDate>
-      <guid isPermaLink="false">6b0e8f26f041</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/chiny-tornado-porwalo-mezczyzne-z-mieszkania-st9133981?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Płonęło mieszkanie we Wrocławiu. Źle zaparkowane samochody utrudniły akcję strażaków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6cc66382f750</link>
-      <description>Strażacy jechali do pożaru mieszkania we Wrocławiu, ale na miejscu nie mogli rozstawić drabiny. Powodem były źle zaparkowane samochody. Musieli usunąć słupki i wjechać na chodnik.</description>
-      <pubDate>Wed, 08 Jul 2026 17:49:02 GMT</pubDate>
-      <guid isPermaLink="false">6cc66382f750</guid>
-      <source url="https://tvn24.pl/wroclaw/wroclaw-pozar-w-bloku-akcje-strazakow-utrudnily-zle-zaparkowane-samochody-st9134442?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Why this CEO thinks video games make better training data than the internet</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/759ff1091019</link>
-      <description>Watch as General Intuition CEO Pim de Witt joins TechCrunch&apos;s Equity podcast to explain how the startup&apos;s $320M round and gaming data are powering the next wave of physical AI and robotics.</description>
-      <pubDate>Wed, 08 Jul 2026 17:47:55 GMT</pubDate>
-      <guid isPermaLink="false">759ff1091019</guid>
-      <source url="https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Show HN: Microsoft releases Flint, a visualization language for AI agents</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/59471ccc5be0</link>
-      <description>Comments</description>
-      <pubDate>Wed, 08 Jul 2026 17:46:12 GMT</pubDate>
-      <guid isPermaLink="false">59471ccc5be0</guid>
-      <source url="https://microsoft.github.io/flint-chart/">Hacker News</source>
-    </item>
-    <item>
-      <title>Apple igra z ogniem. Szuka oszczędności nie tam gdzie trzeba?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ac4d623090f</link>
-      <description>Apple nie wycofało się z pomysłu korzystania z pamięci od ChangXin Memory Technologies. Wręcz przeciwnie. Wkrótce możemy mieć pierwsze efekty nowej współpracy.</description>
-      <pubDate>Wed, 08 Jul 2026 17:45:37 GMT</pubDate>
-      <guid isPermaLink="false">1ac4d623090f</guid>
-      <source url="https://antyweb.pl/apple-igra-z-ogniem-szuka-oszczednosci-nie-tam-gdzie-trzeba">Antyweb</source>
-    </item>
-    <item>
-      <title>Karol Nawrocki o przekazaniu pocisków do Patriotów: ta decyzja nie była moja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cf6891845291</link>
-      <description>Prezydent Karol Nawrocki oznajmił, że decyzja w sprawie przekazania Ukrainie rakiet do systemu Patriot należała do rządu. Ocenił, że dialogu z rządzącymi w tej sprawie &quot;w żaden sposób nie można nazwać konsultacją&quot;.</description>
-      <pubDate>Wed, 08 Jul 2026 17:45:18 GMT</pubDate>
-      <guid isPermaLink="false">cf6891845291</guid>
-      <source url="https://tvn24.pl/polska/spiecie-o-przekazanie-ukrainie-rakiet-do-systemu-patriot-karol-nawrocki-ta-decyzja-nie-byla-moja-st9134418?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9364e5e9c170</link>
-      <description>US military drone losses in Iran war spur Pentagon call for cheap replacements.</description>
-      <pubDate>Wed, 08 Jul 2026 17:44:54 GMT</pubDate>
-      <guid isPermaLink="false">9364e5e9c170</guid>
-      <source url="https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/">Ars Technica</source>
-    </item>
-    <item>
-      <title>What Do We Know About the Microplastics Inside Us?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/998192c4beaa</link>
-      <description>Pervasive plastic contamination and unreliable methods have clouded the science on microplastics in the human body. In an interview, Australian scientist Cassandra Rauert, who built a plastics-free lab to study human exposure, explores the challenges for researchers.</description>
-      <pubDate>Wed, 08 Jul 2026 17:43:37 GMT</pubDate>
-      <guid isPermaLink="false">998192c4beaa</guid>
-      <source url="https://e360.yale.edu/features/cassandra-rauert-interview">Hacker News</source>
-    </item>
-    <item>
-      <title>To on stworzył profesorka Nerwosolka i smoka Diplodoka. Nie żyje Tadeusz Baranowski</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0a83615d94ff</link>
-      <description>Tadeusz Baranowski - malarz, ilustrator, projektant, twórca komiksów – zmarł w wieku 81 lat. Stworzył on takie postaci jak Bąbelek i Kudłaczek, profesorek Nerwosolek czy smok Diplodok. Informację o śmierci legendy polskiego komiksu przekazali w środę organizatorzy Międzynarodowego Festiwalu Komiksu i Gier w Łodzi.</description>
-      <pubDate>Wed, 08 Jul 2026 17:43:00 GMT</pubDate>
-      <guid isPermaLink="false">0a83615d94ff</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-to-on-stworzyl-profesorka-nerwosolka-i-smoka-diplodoka-nie-z,nIdn,1009248">RMF24</source>
     </item>
   </channel>
 </rss>
