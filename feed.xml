@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 09 Jul 2026 20:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:48:43 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kulisy antyukraińskiego incydentu w Poznaniu. W tle zarzut o szpiegostwo?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a9f51d7774c3</link>
+      <description>Jeden z mężczyzn, którzy 3 lipca w Poznaniu chcieli wejść do ukraińskiej firmy i sprawdzić, czy właścicielka „wspiera Stepana Banderę”, to Jarosław K., który w marcu został zatrzymany przez ABW – nieoficjalnie ustaliła stacja TVN24. Usłyszał on wówczas zarzut szpiegostwa na rzecz Rosji. Za zajście z początku lipca, obaj podejrzani usłyszeli już zarzuty.</description>
+      <pubDate>Thu, 09 Jul 2026 21:12:00 GMT</pubDate>
+      <guid isPermaLink="false">a9f51d7774c3</guid>
+      <source url="https://www.rmf24.pl/regiony/poznan/news-kulisy-antyukrainskiego-incydentu-w-poznaniu-w-tle-zarzut-o-,nIdn,1009428">RMF24</source>
+    </item>
     <item>
       <title>Nie wpływają na mózg tak, jak sądzono. Zmarnowane pieniądze</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8b32318d3728</link>
@@ -14,6 +22,22 @@
       <pubDate>Thu, 09 Jul 2026 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">8b32318d3728</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Nie-wplywaja-na-mozg-tak-jak-sadzono-Zmarnowane-pieniadze,286494,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Były szef NIK z aktem oskarżenia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6c9855b09a6a</link>
+      <description>Prokuratura Regionalna w Białymstoku skierowała do sądu w Krakowie akt oskarżenia przeciwko trzem osobom, w tym Marianowi B., byłemu prezesowi Najwyższej Izby Kontroli. Zarzuty dotyczą między innymi nakłaniania do ujawnienia tajemnicy skarbowej.</description>
+      <pubDate>Thu, 09 Jul 2026 20:55:03 GMT</pubDate>
+      <guid isPermaLink="false">6c9855b09a6a</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/byly-prezes-nik-marian-b-oskarzony-za-naklanianie-do-ujawnienia-tajemnicy-skarbowej-st9136098?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Patch for Windows Defender 0-day could allow attackers to fill hard disk</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9ba5511d8dde</link>
+      <description>The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.</description>
+      <pubDate>Thu, 09 Jul 2026 20:52:55 GMT</pubDate>
+      <guid isPermaLink="false">9ba5511d8dde</guid>
+      <source url="https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/">Ars Technica</source>
     </item>
     <item>
       <title>Była wiceminister zdrowia w nowej roli. Wchodzi do Rady ds. Chorób Rzadkich</title>
@@ -24,12 +48,52 @@
       <source url="https://www.rynekzdrowia.pl/choroby-rzadkie/Byla-wiceminister-zdrowia-w-nowej-roli-Wchodzi-do-Rady-ds-Chorob-Rzadkich,286525,1024.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Ukrainian agent accused of murdering Monaco bomb suspect changes story</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5723c985ff87</link>
+      <description>Two men with links to Ukraine&apos;s security services are accused of killing Anastasiia Berezovska and dumping her body in woods.</description>
+      <pubDate>Thu, 09 Jul 2026 20:47:41 GMT</pubDate>
+      <guid isPermaLink="false">5723c985ff87</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Meghan not expected to appear at UK events during Harry visit</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f55a75d91af5</link>
+      <description>It is not known whether Meghan will still visit the UK for any private visits, following reports she may be coming with the children.</description>
+      <pubDate>Thu, 09 Jul 2026 20:30:55 GMT</pubDate>
+      <guid isPermaLink="false">f55a75d91af5</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c5yzd5lykv6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Oczyszcza jelita z gnijących resztek i złogów. Tak zadbasz o płaski brzuch</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7668fb763827</link>
       <description>Problemy z jelitami potrafią skutecznie utrudnić codzienne życie. Zamiast sięgać po modne &quot;detoksy&quot;, warto postawić na rozwiązania, które rzeczywiście wspierają pracę układu pokarmowego. Eksperci wskazują, że odpowiednia dieta, nawodnienie i produkty bogate w błonnik mogą pomóc zadbać o mikrobiotę jelitową i poprawić komfort trawienia.</description>
       <pubDate>Thu, 09 Jul 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">7668fb763827</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Oczyszcza-jelita-z-gnijacych-resztek-i-zlogow-Tak-zadbasz-o-plaski-brzuch,286486,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Allstate accuses Broadcom of auditing it because it quit VMware, CA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6d6e0db00fc</link>
+      <description>Broadcom accuses Allstate of dodging VMware audits.</description>
+      <pubDate>Thu, 09 Jul 2026 20:28:55 GMT</pubDate>
+      <guid isPermaLink="false">c6d6e0db00fc</guid>
+      <source url="https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Humanoid robots controlled by surgeons did world-first operation on live pigs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/50e8e53ce776</link>
+      <description>Preclinical trial is testing the feasibility of humanoid robots in surgery.</description>
+      <pubDate>Thu, 09 Jul 2026 20:12:03 GMT</pubDate>
+      <guid isPermaLink="false">50e8e53ce776</guid>
+      <source url="https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/">Ars Technica</source>
+    </item>
+    <item>
+      <title>NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0262c5528677</link>
+      <description>For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar</description>
+      <pubDate>Thu, 09 Jul 2026 20:08:35 GMT</pubDate>
+      <guid isPermaLink="false">0262c5528677</guid>
+      <source url="https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/">NASA Breaking News</source>
     </item>
     <item>
       <title>England defender Jarell Quansah banned for two games after Mexico red card</title>
@@ -134,6 +198,14 @@
       <pubDate>Thu, 09 Jul 2026 19:14:00 GMT</pubDate>
       <guid isPermaLink="false">db454711d737</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-efekt-odwrotny-od-zamierzonego-polityka-trumpa-obroci-sie-pr,nIdn,1009422">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Polska będzie wspierać Ukrainę&quot;. Władysław Kosiniak-Kamysz: to prezydent zdradził polski mundur</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2efaaaaa5742</link>
+      <description>Prezydent Karol Nawrocki zdradził polski mundur, nie podpisując SAFE-u - powiedział w &quot;Kropce nad i&quot; w TVN24 minister obrony narodowej Władysław Kosiniak-Kamysz. Oświadczył, że będzie bronił decyzji o przekazaniu Ukrainie rakiet Patriot. Jego zdaniem politycy PiS-u są hipokrytami w tej sprawie.</description>
+      <pubDate>Thu, 09 Jul 2026 19:13:57 GMT</pubDate>
+      <guid isPermaLink="false">2efaaaaa5742</guid>
+      <source url="https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-prezydent-karol-nawrocki-zdradzil-polski-mundur-nie-podpisujac-safe-u-st9136071?source=rss">TVN24</source>
     </item>
     <item>
       <title>Strzały w Houston. Dlaczego agenci ICE zabili niekaranego 52-latka?</title>
@@ -334,78 +406,6 @@
       <pubDate>Thu, 09 Jul 2026 18:22:39 GMT</pubDate>
       <guid isPermaLink="false">437c5d4ba0b1</guid>
       <source url="https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f756599f782</link>
-      <description>The reports add to the growing documentation on commercial data&apos;s contributions to Earth science research and applications.</description>
-      <pubDate>Thu, 09 Jul 2026 18:14:21 GMT</pubDate>
-      <guid isPermaLink="false">3f756599f782</guid>
-      <source url="https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>GPT 5.6 już jest! OpenAI zrzuca bombę na świat sztucznej inteligencji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1691c6f74537</link>
-      <description>OpenAI udostępnia GPT-5.6 w ChatGPT, Codexie i API. Sol, Terra i Luna stawiają na wydajność, agentów i ostrożniejszą kontrolę ryzyka.</description>
-      <pubDate>Thu, 09 Jul 2026 18:01:21 GMT</pubDate>
-      <guid isPermaLink="false">1691c6f74537</guid>
-      <source url="https://antyweb.pl/gpt-5-6-sol-terra-luna-chatgpt-work">Antyweb</source>
-    </item>
-    <item>
-      <title>Afera w Mogilnie. 26 tysięcy złotych za godzinę, umowa bez konkursu, w tle człowiek związany z rządami PiS</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e8b0e9861198</link>
-      <description>W ostatnich dniach głośno stało się o spółce Spine, założonej przez neurochirurgów, którzy potrafili w szpitalu powiatowym w Mogilnie zarobić nawet 26 tysięcy złotych w godzinę. Była dyrektorka podpisała umowę z nimi bez konkursu. Ci sami neurochirurdzy zasiadają w radzie fundacji, na której czele stoi Józef Aleszczyk, ekonomista, który pełnił różne funkcje w administracji za rządów PiS-u.</description>
-      <pubDate>Thu, 09 Jul 2026 18:00:34 GMT</pubDate>
-      <guid isPermaLink="false">e8b0e9861198</guid>
-      <source url="https://tvn24.pl/polska/afera-w-mogilnie-26-tysiecy-zlotych-za-godzine-umowa-bez-konkursu-w-tle-jozef-aleszczyk-zwiazany-z-pis-st9135901?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Co czwarty Polak wciąż stoi w kolejce do kasy na dworcach kolejowych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a4ba719e48c4</link>
-      <description>Internet i aplikacje mobilne stały się głównym kanałem sprzedaży, ale kasy biletowe wciąż bronią około jednej czwartej rynku</description>
-      <pubDate>Thu, 09 Jul 2026 18:00:03 GMT</pubDate>
-      <guid isPermaLink="false">a4ba719e48c4</guid>
-      <source url="https://antyweb.pl/bilety-kolejowe-gdzie-kupujemy">Antyweb</source>
-    </item>
-    <item>
-      <title>Trump doczekał się &quot;swojego&quot; lotniska. Pierwszy wylądował jego rodzinny odrzutowiec</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c3a475a0b538</link>
-      <description>Lotnisko w Palm Beach na Florydzie w czwartek oficjalnie zmieniło nazwę na Międzynarodowe Lotnisko im. Donalda J. Trumpa. Pierwszym samolotem, który wylądował na pasie startowym po zmianie nazwy był samolot Trumpów „Trump Force One”.</description>
-      <pubDate>Thu, 09 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="false">c3a475a0b538</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-doczekal-sie-swojego-lotniska-Pierwszy-wyladowal-jego-rodzinny-odrzutowiec-9166137.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>How to stop Meta’s AI image generator from using your Instagram photos</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73e5ca389ac8</link>
-      <description>Meta&apos;s new AI image generator is using your public Instagram photos unless you opt out. Here&apos;s how to do that.</description>
-      <pubDate>Thu, 09 Jul 2026 17:56:47 GMT</pubDate>
-      <guid isPermaLink="false">73e5ca389ac8</guid>
-      <source url="https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Większość lodów z nieprawidłowościami. Są wyniki kontroli</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba86b19e660c</link>
-      <description>W 12 z 20 skontrolowanych partii lodów wykryto nieprawidłowości - wynika z kontroli Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (IJHARS). Zastrzeżenia dotyczyły między innymi braku wykazu składników oraz używania nazw nieodpowiadających rzeczywistemu składowi produktów.</description>
-      <pubDate>Thu, 09 Jul 2026 17:52:51 GMT</pubDate>
-      <guid isPermaLink="false">ba86b19e660c</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/wiekszosc-lodow-z-nieprawidlowosciami-sa-wyniki-kontroli-ijhars-st9135961?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Maroko gra z Francją. Holandia wprowadza podwyższone środki bezpieczeństwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2673b0562c76</link>
-      <description>Rotterdam oraz inne duże miasta Holandii wprowadzą specjalne środki bezpieczeństwa przed ćwierćfinałem piłkarskich mistrzostw świata Maroko–Francja. Władze spodziewają się „spontanicznych zgromadzeń kibiców” i chcą zapobiec powtórce zamieszek, do których dochodziło po wcześniejszych meczach marokańskiej reprezentacji.</description>
-      <pubDate>Thu, 09 Jul 2026 17:43:00 GMT</pubDate>
-      <guid isPermaLink="false">2673b0562c76</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-maroko-gra-z-francja-holandia-wprowadza-podwyzszone-srodki-b,nIdn,1009410">RMF24</source>
-    </item>
-    <item>
-      <title>„Wrota do piekieł” otwierają się coraz szerzej. Syberyjski krater wciąż się powiększa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c08f5054f4d8</link>
-      <description>Krater Batagajka, zwany przez miejscowych „wrotami do piekieł”, nie przestaje zadziwiać naukowców. Najnowsze badania potwierdzają, że ta największa na świecie depresja na obszarze wieloletniej zmarzliny w północnej Jakucji powiększa się w błyskawicznym tempie. Zjawisko to nie tylko odsłania pradawne warstwy ziemi, ale także niesie ze sobą poważne konsekwencje dla środowiska i klimatu.</description>
-      <pubDate>Thu, 09 Jul 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="false">c08f5054f4d8</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-wrota-do-piekiel-otwieraja-sie-coraz-szerzej-syberyjski-krat,nIdn,1009411">RMF24</source>
     </item>
   </channel>
 </rss>
