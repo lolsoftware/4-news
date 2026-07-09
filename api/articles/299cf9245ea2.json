@@ -1,0 +1,13 @@
+{
+  "id": "299cf9245ea2",
+  "title": "Show HN: 18 Words",
+  "originalTitle": "Show HN: 18 Words",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://18words.com/",
+  "publishedAt": "2026-07-09T12:48:52.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"result\"> <!-- Stats row hidden for now (easy to re-enable later) <div id=\"resultStats\" class=\"result-stats reveal-item\"> <div class=\"stat-item\"> <div class=\"stat-value\" id=\"statDaysPlayed\">0</div> <div class=\"stat-label\">Days played</div> </div> <div class=\"stat-item\"> <div class=\"stat-value\" id=\"statStreak\">0</div> <div class=\"stat-label\">Daily streak</div> </div> <div class=\"stat-item\"> <div class=\"stat-value\" id=\"statAvg\">0</div> <div class=\"stat-label\">Average</div> </div> </div> --> <p id=\"feedbackLine\">Thanks for playing! You can <span role=\"button\" tabindex=\"0\" onclick=\"openFeedbackModal()\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();openFeedbackModal();}\">send me some feedback</span>.</p> </div></div>",
+  "image": "images/93e7a5933c9d.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
