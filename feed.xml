@@ -5,8 +5,180 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 10 Jul 2026 19:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:31:06 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2262fa067d17</link>
+      <description>Plenty in Westminster who knew her, whether they agreed with her or not, found her immensely likeable.</description>
+      <pubDate>Fri, 10 Jul 2026 21:27:28 GMT</pubDate>
+      <guid isPermaLink="false">2262fa067d17</guid>
+      <source url="https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Moss (YC F25) Is Hiring</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f63d27733ec</link>
+      <description>We built Moss because Voice AI breaks when retrieval is slow. Most retrieval infrastructure was not built for real-time reasoning. It adds latency, breaks context mid-conversation, and becomes the bottleneck just as an AI product needs to feel instant.
+
+Moss is the real-time semantic search layer for conversational AI. We deliver sub-10ms retrieval directly in the browser, at the edge, on-device, or in the cloud, without making teams stitch together a slow retrieval stack.
+
+We are backed by YC and run in production for teams building serious AI products. Moss is deployed across 100+ countries, serves 5M+ of real-time voice minutes, supports enterprises serving 3000+ of their own end customers, and has 380K+ package installs.
+
+The SDKs are how every one of those developers meets Moss. They are the first thing a team touches, the surface that has to feel instant on every platform, and the layer where our Rust engine becomes real code running inside someone else&apos;s product.
+
+We are looking for a Senior or Staff SDK Engineer to own how Moss ships across every developer surface: JavaScript/TypeScript, Python, Swift, Android, Elixir, C, and the Rust core they all bind to.
+
+This is not a greenfield role. You will work on live SDKs that customers depend on in production from day one: shrinking bundle size, lowering cold-start and query latency, tightening cross-platform parity, improving developer ergonomics, and making integration effortless across browsers, servers, mobile devices, edge runtimes, and embedded environments.
+
+When milliseconds and correctness are both part of the product, and your code runs inside someone else&apos;s application, your work defines whether teams trust Moss.
+
+What you&apos;ll do
+
+  - Own the architecture and evolution of Moss SDKs across multiple programming languages and platforms.
+  - Design and maintain safe, ergonomic bindings around our Rust core.
+  - Build and improve FFI layers, packaging systems, release pipelines, versioning strategies, and developer tooling.
+  - Ensure consistent APIs and behavior across all supported SDKs while respecting platform-specific constraints.
+  - Push performance boundaries across memory usage, startup latency, binary size, and runtime efficiency.
+  - Work directly with customers to debug production issues across diverse environments and operating systems.
+  - Establish engineering standards for testing, compatibility, benchmarking, observability, and long-term maintainability.
+  - Help shape how developers experience Moss from the first npm install to production deployment.
+
+What we&apos;re looking for
+
+  - Deep systems engineering experience with strong fundamentals in performance, memory management, concurrency, and low-level debugging.
+  - Significant experience in Rust and building production systems that interface with multiple programming languages.
+  - Proven track record shipping SDKs, libraries, runtimes, databases, or developer infrastructure at massive scale.
+  - Experience building products that have run on hundreds of millions to billions of devices, users, or installations.
+  - Comfortable moving across language ecosystems and technology stacks without being constrained to a single environment.
+  - Strong understanding of FFI, language bindings, package distribution, build systems, and cross-platform development.
+  - Experience with one or more of: JavaScript/TypeScript, Python, Swift, Kotlin/Android, C/C++, Elixir, or other systems languages.
+  - Ability to operate with high ownership in ambiguous environments and make pragmatic engineering tradeoffs.
+
+Bonus points
+
+  - Experience building mobile SDKs or embedded/on-device AI infrastructure.
+  - Experience with WebAssembly, native mobile runtimes, edge environments, or browser internals.
+  - Background in search, databases, AI infrastructure, compilers, or developer tooling.
+  - Experience maintaining highly adopted open-source libraries or SDKs.
+  - Prior experience as a Staff+ engineer responsible for platform or SDK strategy across an organization.
+
+What success looks like
+
+In your first 30 days
+
+  - Develop a deep understanding of Moss&apos;s architecture, retrieval engine, and SDK ecosystem.
+  - Become familiar with our Rust core, FFI boundaries, release pipelines, and supported platforms.
+  - Ship your first production improvements to one or more SDKs.
+  - Work directly with customers and internal teams to understand integration pain points and performance bottlenecks.
+
+In your first 60 days
+
+  - Own one or more SDK surfaces end-to-end.
+  - Improve developer experience, reliability, or performance in meaningful ways, such as reducing startup latency, binary size, or integration complexity.
+  - Propose and begin executing on a roadmap for cross-platform consistency and SDK architecture improvements.
+  - Establish stronger standards around testing, compatibility, benchmarking, and release engineering.
+
+In your first 90 days
+
+  - Become a technical owner for major portions of Moss&apos;s developer platform.
+  - Drive strategic initiatives around SDK architecture, cross-language bindings, packaging, and developer tooling.
+  - Deliver improvements that materially impact adoption, reliability, and production performance.
+  - Help define how Moss reaches browsers, servers, mobile devices, edge environments, and eventually billions of devices.
+  - Raise the engineering bar across systems design, developer experience, and operational excellence.
+
+Why this role matters
+
+Moss is becoming infrastructure that sits directly in the critical path of real-time AI systems. Every millisecond matters. Every platform matters.
+
+The SDK layer is what turns our retrieval engine into something developers can trust and deploy everywhere.
+
+You will not be maintaining wrappers around APIs.
+
+You will be defining how real-time retrieval infrastructure reaches millions of applications and, eventually, billions of devices.</description>
+      <pubDate>Fri, 10 Jul 2026 21:11:18 GMT</pubDate>
+      <guid isPermaLink="false">3f63d27733ec</guid>
+      <source url="https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk">Hacker News</source>
+    </item>
+    <item>
+      <title>Mundial: Hiszpania pokonała Belgię i awansowała do półfinału</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f9244fd7872e</link>
+      <description>Drużyna Hiszpanii pokonała Belgów na tegorocznym mundialu z wynikiem 2:1. Oznacza to, że zmierzy się z Francją w półfinale mistrzostw świata w piłce nożnej 2026.</description>
+      <pubDate>Fri, 10 Jul 2026 21:02:00 GMT</pubDate>
+      <guid isPermaLink="false">f9244fd7872e</guid>
+      <source url="https://www.rmf24.pl/pilka-nozna/news-mundial-hiszpania-pokonala-belgie-i-awansowala-do-polfinalu,nIdn,1009595">RMF24</source>
+    </item>
+    <item>
+      <title>Apple sues OpenAI over alleged trade secret theft</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3daaf068f42c</link>
+      <description>Apple alleges the misconduct was directed by OpenAi&apos;s senior leadership, including a long-time former employee.</description>
+      <pubDate>Fri, 10 Jul 2026 21:00:29 GMT</pubDate>
+      <guid isPermaLink="false">3daaf068f42c</guid>
+      <source url="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/">TechCrunch</source>
+    </item>
+    <item>
+      <title>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/24fd53f66cfc</link>
+      <description>GPT-5.6&apos;s new Sol, Terra, and Luna tiers go head-to-head with Grok 4.5, Claude, Meta&apos;s Muse Spark, and the open-weights crew on a raycaster, a Rubik&apos;s cube, a calculator, and Game of Life. Here&apos;s every build, with cost and latency.</description>
+      <pubDate>Fri, 10 Jul 2026 20:52:28 GMT</pubDate>
+      <guid isPermaLink="false">24fd53f66cfc</guid>
+      <source url="https://www.tryai.dev/blog/gpt-5.6-build-off-12-models">Hacker News</source>
+    </item>
+    <item>
+      <title>Pitbull fans set Guinness World Record at BST Hyde Park show</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ef49be15118a</link>
+      <description>Mr Worldwide&apos;s fans have set the Guinness World Record for the largest gathering of people wearing bald caps.</description>
+      <pubDate>Fri, 10 Jul 2026 20:35:05 GMT</pubDate>
+      <guid isPermaLink="false">ef49be15118a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cp8leyy42nvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Ocieplenie relacji w rodzinie królewskiej? Spotkanie z Karolem III po długiej przerwie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/13c8908fc190</link>
+      <description>Król Karol III spotkał się z synem Harrym, jego żoną Meghan oraz z wnukami Archiem i Lilibet – potwierdził w piątek Pałac Buckingham. Brytyjskie media postrzegają to jako ocieplenie relacji w rodzinie królewskiej.</description>
+      <pubDate>Fri, 10 Jul 2026 20:33:00 GMT</pubDate>
+      <guid isPermaLink="false">13c8908fc190</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-ocieplenie-relacji-w-rodzinie-krolewskiej-spotkanie-z-karole,nIdn,1009592">RMF24</source>
+    </item>
+    <item>
+      <title>Ruch statków wstrzymany. Rosja reaguje na ataki Ukrainy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e8cac8fa5b4</link>
+      <description>Rosja tymczasowo zawiesiła żeglugę na kanale łączącym rzekę Don z Morzem Azowskim, co poważnie utrudni eksport rosyjskiego zboża - przekazał Reuters. Krok ten nastąpił po piątkowym ataku Ukrainy na rosyjskie jednostki handlowe, w tym tankowce należące do tak zwanej floty cieni.</description>
+      <pubDate>Fri, 10 Jul 2026 20:18:40 GMT</pubDate>
+      <guid isPermaLink="false">7e8cac8fa5b4</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/rosja-zawiesza-zegluge-na-kanale-don-morze-azowskie-po-atakach-ukrainy-st9137695?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Anton du Beke &apos;devastated&apos; at death of Strictly co-star Ann Widdecombe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/695ba7904e1d</link>
+      <description>Kemi Badenoch said the Conservative Party was &quot;reeling&quot; as the former minister&apos;s death is investigated as murder.</description>
+      <pubDate>Fri, 10 Jul 2026 20:11:44 GMT</pubDate>
+      <guid isPermaLink="false">695ba7904e1d</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Don&apos;t discontinue Gemini 2.5 Flash</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f530ca46d4fb</link>
+      <description>Comments</description>
+      <pubDate>Fri, 10 Jul 2026 20:00:28 GMT</pubDate>
+      <guid isPermaLink="false">f530ca46d4fb</guid>
+      <source url="https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246">Hacker News</source>
+    </item>
+    <item>
+      <title>Śmiertelne potrącenie rowerzysty przez autokar w Warszawie </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aa9cf37960c5</link>
+      <description>Nie żyje rowerzysta potrącony przez autokar na warszawskiej Woli.</description>
+      <pubDate>Fri, 10 Jul 2026 19:59:39 GMT</pubDate>
+      <guid isPermaLink="false">aa9cf37960c5</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/wola/smiertelne-potracenie-rowerzysty-przez-autokar-w-warszawie-st9137718?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Check out the first images of Quest shipwreck</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/99d9279826ba</link>
+      <description>The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.</description>
+      <pubDate>Fri, 10 Jul 2026 19:59:31 GMT</pubDate>
+      <guid isPermaLink="false">99d9279826ba</guid>
+      <source url="https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/">Ars Technica</source>
+    </item>
     <item>
       <title>Bedford triple murder suspect arrested in South Africa</title>
       <link>https://lolsoftware.github.io/4-news/#/article/952a1eced8cd</link>
@@ -24,12 +196,28 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-wiekszosc-lub-wszystkie-ofiary-to-cudzoziemcy-tragiczny-poza,nIdn,1009590">RMF24</source>
     </item>
     <item>
+      <title>Ransomware negotiator hired to represent victims was working for the attackers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dbb53cd27a8b</link>
+      <description>Six years in prison for man who &quot;sold out the very victims he was hired to represent.&quot;</description>
+      <pubDate>Fri, 10 Jul 2026 19:40:11 GMT</pubDate>
+      <guid isPermaLink="false">dbb53cd27a8b</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/">Ars Technica</source>
+    </item>
+    <item>
       <title>Man arrested on suspicion of murder after death of Ann Widdecombe</title>
       <link>https://lolsoftware.github.io/4-news/#/article/68686235a297</link>
       <description>There was initially no suggestion of suspicious circumstances when her death was announced on Friday morning.</description>
       <pubDate>Fri, 10 Jul 2026 19:39:00 GMT</pubDate>
       <guid isPermaLink="false">68686235a297</guid>
       <source url="https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>An Update on the scraper situation</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/990b9963a2e2</link>
+      <description>Our article &apos;Fighting the AI scraper bot scourge&apos;, published in early 2025, discussed the probl [...]</description>
+      <pubDate>Fri, 10 Jul 2026 19:38:34 GMT</pubDate>
+      <guid isPermaLink="false">990b9963a2e2</guid>
+      <source url="https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/">Hacker News</source>
     </item>
     <item>
       <title>Football&apos;s best bromance: Why Bellingham and Haaland break the mould</title>
@@ -48,12 +236,52 @@
       <source url="https://www.rmf24.pl/fakty/polityka/news-byly-wiceminister-w-rzadzie-pis-przekazal-apteczki-rosyjskim,nIdn,1009589">RMF24</source>
     </item>
     <item>
+      <title>Eight charged over alleged conspiracy to attack White House UFC event</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e5169812fed</link>
+      <description>Thousands of people attended the event last month, including President Trump and Vice-President JD Vance.</description>
+      <pubDate>Fri, 10 Jul 2026 19:27:32 GMT</pubDate>
+      <guid isPermaLink="false">7e5169812fed</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cwy091zzgpdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Ukraińcy zaatakowali kilkanaście rosyjskich statków.  Płonęła rafineria i terminal naftowy </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6fa88bbe3f77</link>
+      <description>Ukraińska armia przeprowadziła skuteczny atak na 18 rosyjskich statków, z czego większość stanowiły tankowce floty cieni. Po raz kolejny płonęła rafineria w Kraju Krasnodarskim. Uderzono również w terminal naftowy w Taganrogu. Z kolei armia Putina po raz kolejny uderzyła w  infrastrukturę cywilną. W obwodzie donieckim zginęły co najmniej cztery osoby, a kilkanaście zostało rannych.</description>
+      <pubDate>Fri, 10 Jul 2026 19:26:48 GMT</pubDate>
+      <guid isPermaLink="false">6fa88bbe3f77</guid>
+      <source url="https://tvn24.pl/swiat/ukraincy-zaatakowali-kilkanascie-rosyjskich-statkow-plonela-rafineria-i-terminal-naftowy-st9137704?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/480ba011cc00</link>
+      <description>The children who get a combination shot are some of the most vulnerable.</description>
+      <pubDate>Fri, 10 Jul 2026 19:25:04 GMT</pubDate>
+      <guid isPermaLink="false">480ba011cc00</guid>
+      <source url="https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Early Career Faculty (ECF) 2025 Awards</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/394f258218b0</link>
+      <description>Back to ECF Home</description>
+      <pubDate>Fri, 10 Jul 2026 19:23:55 GMT</pubDate>
+      <guid isPermaLink="false">394f258218b0</guid>
+      <source url="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Polski zawodnik piłki ręcznej miał zostać pobity. Policja zaprzecza</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0132197fd311</link>
       <description>Polski Związek Piłki Ręcznej poinformował, że reprezentant Polski juniorów w tej dyscyplinie został pobity minionej nocy w Międzyzdrojach (woj. zachodniopomorskie). Jak jednak ustaliła reporterka RMF FM Anna Pałamar, policja zaprzecza tym doniesieniom.</description>
       <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
       <guid isPermaLink="false">0132197fd311</guid>
       <source url="https://www.rmf24.pl/regiony/szczecin/news-polski-zawodnik-pilki-recznej-mial-zostac-pobity-policja-zap,nIdn,1009587">RMF24</source>
+    </item>
+    <item>
+      <title>NASA Volunteers Help Zooniverse Reach 1 Billion Classifications</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7183fdb3b1fc</link>
+      <description>The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion</description>
+      <pubDate>Fri, 10 Jul 2026 19:00:53 GMT</pubDate>
+      <guid isPermaLink="false">7183fdb3b1fc</guid>
+      <source url="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/">NASA Breaking News</source>
     </item>
     <item>
       <title>Zakaz po groźnych zakażeniach. W Polsce nadal kupisz bez problemu</title>
@@ -104,7 +332,7 @@
       <source url="https://www.bbc.co.uk/news/articles/cj4g79exkzlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>How the Terrorist Group Boko Haram Uses Frontier AI</title>
+      <title>How the terrorist group Boko Haram uses frontier AI</title>
       <link>https://lolsoftware.github.io/4-news/#/article/47d40526e3a1</link>
       <description>Comments</description>
       <pubDate>Fri, 10 Jul 2026 18:49:26 GMT</pubDate>
@@ -184,6 +412,14 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-czy-zydzi-czuja-sie-bezpiecznie-w-usa-niektorzy-ze-strachu-z,nIdn,1009579">RMF24</source>
     </item>
     <item>
+      <title>Watch: What links a bomb in Monaco and a shooting in Ukraine?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/731df902abe1</link>
+      <description>A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.</description>
+      <pubDate>Fri, 10 Jul 2026 18:04:39 GMT</pubDate>
+      <guid isPermaLink="false">731df902abe1</guid>
+      <source url="https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Play kasuje popularną ofertę. Mamy alternatywę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a73c3eff339c</link>
       <description>W tej samej cenie 50 zł miesięcznie dostaniecie aż 500 GB transferu danych w ofercie na intrnet mobilny w Play.</description>
@@ -246,166 +482,6 @@
       <pubDate>Fri, 10 Jul 2026 17:42:04 GMT</pubDate>
       <guid isPermaLink="false">4506d415c250</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/niemcy-hulajnogi-elektryczne-pod-wieksza-kontrola-jest-decyzja-wladz-st9137552?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;W ochronie zdrowia konieczna jest decentralizacja&quot;. Szczecin dostał 500 mln zł z Funduszu Medycznego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7c2e3b3a6989</link>
-      <description>W szczecińskim szpitalu „Zdroje” za 200 mln zł powstanie nowy budynek psychiatrii dziecięcej, a w Zachodniopomorskim Centrum Onkologii za 375 mln zł m.in. blok operacyjny, radiologia zabiegowa i poradnie. Placówki, które otrzymały na inwestycje 500 mln zł z Funduszu Medycznego, odwiedziła w piątek ministra zdrowia.</description>
-      <pubDate>Fri, 10 Jul 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="false">7c2e3b3a6989</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/W-ochronie-zdrowia-konieczna-jest-decentralizacja-Szczecin-dostal-500-mln-zl-z-Funduszu-Medycznego,286573,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Grupa nastolatek w kajakach utknęła na Biebrzy. Dotarli do nich na poduszkowcu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ec5787cb0078</link>
-      <description>Strażacy przy wykorzystaniu poduszkowca ściągnęli na brzeg grupę nastolatek z opiekunem. Z powodu złych warunków pogodowych utknęli oni w kajakach na Biebrzy. Cztery dziewczyny trafiły do szpitala.</description>
-      <pubDate>Fri, 10 Jul 2026 17:40:41 GMT</pubDate>
-      <guid isPermaLink="false">ec5787cb0078</guid>
-      <source url="https://tvn24.pl/bialystok/kamienna-nowa-grupa-nastolatek-w-kajakach-utknela-na-biebrzy-st9137478?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Grzegorz Braun zakłócił obchody w Jedwabnem. „Polska brunatnieje”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1c6defec051f</link>
-      <description>Obchody 85. rocznicy mordu Żydów w Jedwabnem przebiegały w cieniu kontrowersji. Na sąsiedniej działce Grzegorz Braun wraz ze swoimi zwolennikami ustawił ponadpięciometrowy krzyż z tablicą zawierającą napis o &quot;rosyjsko-żydowskim sowietyzmie&quot;. Podczas wydarzenia polityk kwestionował także ustalenia dotyczące zbrodni oraz domagał się aresztowania naczelnego rabina Polski Michaela Schudricha.</description>
-      <pubDate>Fri, 10 Jul 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="false">1c6defec051f</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-grzegorz-braun-zaklocil-obchody-w-jedwabnem-polska-brunatnie,nIdn,1009580">RMF24</source>
-    </item>
-    <item>
-      <title>171 punktów na medycynę. Uczelnie publikują pierwsze listy rankingowe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d1e9fb07a443</link>
-      <description>Uniwersytet Medyczny w Białymstoku jako pierwszy opublikował listy rankingowe na kierunki medyczne: w tym te najbardziej wyczekiwane, czyli na kierunek lekarski i lekarsko-dentystyczny. Próg punktowy jest na obu identyczny jak w ubiegłym roku na starcie rekrutacji i wynosi 171 punktów.</description>
-      <pubDate>Fri, 10 Jul 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="false">d1e9fb07a443</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/171-punktow-na-medycyne-Uczelnie-publikuja-pierwsze-listy-rankingowe,286565,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Anthony Hopkins w roli kompozytora. Ukazał się pierwszy singiel </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da8d8dca3485</link>
-      <description>Anthony Hopkins rozpoczyna nowy rozdział w swojej karierze. Wybitny brytyjski aktor, zdobywca Oscarów wydał pierwszy singiel z własną muzyką. Wkrótce ukaże się cały album.</description>
-      <pubDate>Fri, 10 Jul 2026 17:30:01 GMT</pubDate>
-      <guid isPermaLink="false">da8d8dca3485</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/anthony-hopkins-skomponowal-utwor-wkrotce-premiera-debiutanckiego-albumu-aktora-st9137556?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Hacking worry for Argentine FA over World Cup emails</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c8452b0b895</link>
-      <description>Argentina&apos;s football association signals it may have suffered a cyber attack after emails from its accounts reportedly criticised refereeing in the dramatic win against Egypt at the World Cup.</description>
-      <pubDate>Fri, 10 Jul 2026 17:26:14 GMT</pubDate>
-      <guid isPermaLink="false">8c8452b0b895</guid>
-      <source url="https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Na niebezpiecznych wodach. Rosja wstrzymuje żeglugę przez kanał Don-Azow</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d5b521c8025</link>
-      <description>Po ostatnich atakach ukraińskich dronów na rosyjskie statki na Morzu Azowskim, Rosja tymczasowo wstrzymała ruch przez kanał Don-Azow – kluczowy szlak żeglugowy dla eksportu zboża. Decyzja może wpłynąć na niemal jedną czwartą rosyjskiego eksportu pszenicy.</description>
-      <pubDate>Fri, 10 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">9d5b521c8025</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-na-niebezpiecznych-wodach-rosja-wstrzymuje-zegluge-przez-kan,nIdn,1009576">RMF24</source>
-    </item>
-    <item>
-      <title>Turcja chce przehandlować rosyjskie systemy rakietowe na amerykańskie F-35</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f4ccd5633b29</link>
-      <description>Tureckie media donoszą o przełomowych negocjacjach Ankary z Rosją dotyczących odsprzedaży zaawansowanych systemów rakietowych S-400. Według nieoficjalnych informacji, Turcja już sprzedała rosyjskie zestawy, licząc na zniesienie amerykańskich sankcji i powrót do programu zakupu myśliwców F-35.</description>
-      <pubDate>Fri, 10 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">f4ccd5633b29</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-turcja-chce-przehandlowac-rosyjskie-systemy-rakietowe-na-ame,nIdn,1009578">RMF24</source>
-    </item>
-    <item>
-      <title>100 gołębi z lokalizatorami Bluetooth. Naukowcy badają groźną dla ludzi papuzicę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8a67d4dbb66a</link>
-      <description>Czy miejskie gołębie trzymają się jednego miejsca, czy przemieszczają się po całym mieście? Odpowiedzi na to pytanie szukają belgijscy naukowcy z Uniwersytetu Antwerpskiego. Około 100 ptaków otrzyma ultralekkie lokalizatory Bluetooth, które pozwolą prześledzić ich trasy i ocenić, jak mogą uczestniczyć w rozprzestrzenianiu chorób zakaźnych, w tym papuzicy.</description>
-      <pubDate>Fri, 10 Jul 2026 17:19:06 GMT</pubDate>
-      <guid isPermaLink="false">8a67d4dbb66a</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/100-golebi-z-lokalizatorami-Bluetooth-Naukowcy-badaja-grozna-dla-ludzi-papuzice,286575,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Watch: Police confirm 26 year-old suspect in custody</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cb6e1c7b54f6</link>
-      <description>A 26-year-old man has been arrested on suspicion of murder following the death of Ann Widdecombe, police say.</description>
-      <pubDate>Fri, 10 Jul 2026 17:18:02 GMT</pubDate>
-      <guid isPermaLink="false">cb6e1c7b54f6</guid>
-      <source url="https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Zderzenie podczas wyprzedzania, jedna osoba nie żyje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/84e476b43c51</link>
-      <description>Do tragedii doszło na krajowej &quot;60&quot; pod Płockiem. Podczas wyprzedzania zderzyły się dwa samochody osobowe. Trzy osoby trafiły do szpitala. Niestety jedna z nich zmarła.</description>
-      <pubDate>Fri, 10 Jul 2026 17:17:54 GMT</pubDate>
-      <guid isPermaLink="false">84e476b43c51</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/mokrzk-plock-dk60-zderzenie-podczas-wyprzedzana-jedna-osoba-nie-zyje-st9137569?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/215c84d847ed</link>
-      <description>The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.</description>
-      <pubDate>Fri, 10 Jul 2026 17:17:12 GMT</pubDate>
-      <guid isPermaLink="false">215c84d847ed</guid>
-      <source url="https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/">TechCrunch</source>
-    </item>
-    <item>
-      <title>A new app, HyperTexting, turns the open web into a scrollable social media-like feed</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b5e97f2173a0</link>
-      <description>HyperTexting&apos;s new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.</description>
-      <pubDate>Fri, 10 Jul 2026 17:11:51 GMT</pubDate>
-      <guid isPermaLink="false">b5e97f2173a0</guid>
-      <source url="https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Rząd szykuje szeroką nowelizację. Zmiany dla pacjentów, NFZ i przedsiębiorców</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8e7dc4c21388</link>
-      <description>Ministerstwo Zdrowia opublikowało założenia wielowątkowej ustawy m.in. o leczeniu transgranicznym, ośrodkach chorób rzadkich i rozliczaniu nadpłat składki zdrowotnej przedsiębiorców. Projekt ma trafić do rządu w III kwartale 2026 r.</description>
-      <pubDate>Fri, 10 Jul 2026 17:08:38 GMT</pubDate>
-      <guid isPermaLink="false">8e7dc4c21388</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Rzad-szykuje-szeroka-nowelizacje-Zmiany-dla-pacjentow-NFZ-i-przedsiebiorcow,286574,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Sam Fender and Olivia Dean make UK chart history with Rein Me In</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d3fd37dd06dc</link>
-      <description>They break the record for the longest-running number one single of all time by a British act.</description>
-      <pubDate>Fri, 10 Jul 2026 17:07:43 GMT</pubDate>
-      <guid isPermaLink="false">d3fd37dd06dc</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cn94rdz3e59o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Ann Widdecombe murder probe: What we know so far</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a7c88ba71008</link>
-      <description>Police say they are searching for a suspect in connection with the former MP&apos;s death at her home on Dartmoor.</description>
-      <pubDate>Fri, 10 Jul 2026 17:04:40 GMT</pubDate>
-      <guid isPermaLink="false">a7c88ba71008</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Gęsty kryminał i genialna obsada. Nowy serial mocno namiesza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/58e4455a1dc2</link>
-      <description>Apple TV nareszcie ujawniło pierwsze szczegóły jednego z najmocniejszych kryminalnych tytułów w swojej tegorocznej ofercie. &quot;Ukryte w ciemności&quot; to 10...</description>
-      <pubDate>Fri, 10 Jul 2026 17:00:53 GMT</pubDate>
-      <guid isPermaLink="false">58e4455a1dc2</guid>
-      <source url="https://antyweb.pl/gesty-kryminal-i-genialna-obsada-nowy-serial-mocno-namiesza">Antyweb</source>
-    </item>
-    <item>
-      <title>Anyone else get a vague GitHub shakedown notice?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c8a795835f50</link>
-      <description>Comments</description>
-      <pubDate>Fri, 10 Jul 2026 16:57:35 GMT</pubDate>
-      <guid isPermaLink="false">c8a795835f50</guid>
-      <source url="https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Ostrzeżenie ws. salmonelli. Chodzi o dwie partie popularnej herbaty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e36da143a69f</link>
-      <description>Główny Inspektorat Sanitarny ostrzega: producent popularnej herbaty ziołowej wycofał dwie partie swojego produktu, ze względu na wykrycie właścicielskich obecności Salmonella spp. „Produkt może stanowić zagrożenie dla zdrowia konsumentów” – ostrzeżono.</description>
-      <pubDate>Fri, 10 Jul 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="false">e36da143a69f</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-ostrzezenie-ws-salmonelli-chodzi-o-dwie-partie-popularnej-he,nIdn,1009575">RMF24</source>
-    </item>
-    <item>
-      <title>Valve&apos;s new Steam Machine verification system is silent on these Steam Deck-busters</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ae72c2af1633</link>
-      <description>Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.</description>
-      <pubDate>Fri, 10 Jul 2026 16:53:31 GMT</pubDate>
-      <guid isPermaLink="false">ae72c2af1633</guid>
-      <source url="https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/">Ars Technica</source>
     </item>
   </channel>
 </rss>
