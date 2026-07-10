@@ -1,0 +1,13 @@
+{
+  "id": "52ce544b752a",
+  "title": "War Atlas: An interactive cartography of every named war in human history",
+  "originalTitle": "War Atlas: An interactive cartography of every named war in human history",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://waratlas.org/",
+  "publishedAt": "2026-07-10T17:52:48.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><div><p>Loading 5,000 years of history...</p></div><div><div><h2><span>War</span><span>Atlas</span></h2><p><span>An interactive cartography of every named war in human history</span></p></div><div><p><span>0</span><span>mapped</span></p></div></div><div><div><p>3000<span>BCE</span></p></div><div><div role=\"slider\" aria-label=\"Timeline scrubber: select a year\" aria-valuemin=\"-3000\" aria-valuemax=\"2026\" aria-valuenow=\"-3000\" aria-valuetext=\"3000 BCE\" tabindex=\"0\"><div><p>CE</p></div><div><p>1000</p></div><div><p>1500</p></div><div><p>1800</p></div><div><p>1900</p></div><div><p>2000</p></div><div><svg width=\"6\" height=\"6\" viewBox=\"0 0 6 6\" style=\"position:absolute;left:-2px;top:-6px;color:var(--amber)\"><path d=\"M0 0 L6 0 L3 6 Z\" fill=\"currentColor\"></path></svg></div></div><div><p>3000<span>BCE</span></p></div></div></div><nav aria-label=\"Primary\"></nav></div></div>",
+  "image": "images/02ba41255aef.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
