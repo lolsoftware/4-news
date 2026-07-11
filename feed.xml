@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 11 Jul 2026 19:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:09:23 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>O. Rydzyk: Niektórzy politycy w Sejmie to „żuliki w eleganckich krawatach”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3e59c93676ed</link>
+      <description>O. Tadeusz Rydzyk, przemawiając pierwszego dnia 35. Pielgrzymki Rodziny Radia Maryja na Jasną Górę, nie gryzł się w język. „Żuliki nie z tej Ziemi (...) w krawatach eleganckich mówią, w koszulach” - w ten sposób określił część polskich parlamentarzystów.</description>
+      <pubDate>Sat, 11 Jul 2026 20:54:00 GMT</pubDate>
+      <guid isPermaLink="false">3e59c93676ed</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-o-rydzyk-niektorzy-politycy-w-sejmie-to-zuliki-w-eleganckich,nIdn,1009653">RMF24</source>
+    </item>
+    <item>
+      <title>Zmarzlik obronił w Malilli pozycję lidera żużlowej Grand Prix</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/97be888ef1b6</link>
+      <description>Bartosz Zmarzlik zajął trzecie miejsce w żużlowej Grand Prix w szwedzkiej Malilli. Dzięki temu zachował prowadzenie w klasyfikacji mistrzostw świata po sześciu turniejach. Sobotnie zawody w Szwecji  Wygrał Duńczyk Anders Thomsen, przed Brytyjczykiem Robertem Lambertem.</description>
+      <pubDate>Sat, 11 Jul 2026 20:33:00 GMT</pubDate>
+      <guid isPermaLink="false">97be888ef1b6</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-zmarzlik-obronil-w-malilli-pozycje-lidera-zuzlowej-grand-pri,nIdn,1009652">RMF24</source>
+    </item>
     <item>
       <title>11 godzin tygodniowo: sekret stulatków z Włoch. Zostali dokładnie przebadani</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c51259f30b14</link>
@@ -16,12 +32,44 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/11-godzin-tygodniowo-sekret-stulatkow-z-Wloch-Zostali-dokladnie-przebadani,286508,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Show HN: Ant – A JavaScript runtime and ecosystem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cef453d5d0ee</link>
+      <description>Comments</description>
+      <pubDate>Sat, 11 Jul 2026 20:07:18 GMT</pubDate>
+      <guid isPermaLink="false">cef453d5d0ee</guid>
+      <source url="https://antjs.org/">Hacker News</source>
+    </item>
+    <item>
       <title>To prawdziwy król warzywniaków. Dietetycy obalili największy mit</title>
       <link>https://lolsoftware.github.io/4-news/#/article/df999b1f93d0</link>
       <description>Ogórek od lat jest jednym z najchętniej wybieranych warzyw w polskiej kuchni. Trafia do sałatek, chłodników, kanapek i domowych przetworów. Wokół jego właściwości narosło jednak wiele mitów. Czy rzeczywiście nie powinno się go łączyć z pomidorem? Które ogórki są najzdrowsze i kto powinien zachować ostrożność przy ich jedzeniu?</description>
       <pubDate>Sat, 11 Jul 2026 20:02:00 GMT</pubDate>
       <guid isPermaLink="false">df999b1f93d0</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/To-prawdziwy-krol-warzywniakow-Dietetycy-obalili-najwiekszy-mit,286390,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>The Chinese Voice Actor Forced to Prove He&apos;s Human</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7aa9e5c1b264</link>
+      <description>AI has made Shen Anyu’s voice cheap to copy and nearly impossible to control, drawing him and his wife into a widening fight over income, identity and ownership.</description>
+      <pubDate>Sat, 11 Jul 2026 19:46:00 GMT</pubDate>
+      <guid isPermaLink="false">7aa9e5c1b264</guid>
+      <source url="https://www.sixthtone.com/news/1018753">Hacker News</source>
+    </item>
+    <item>
+      <title>Zdrowy jak Trump? Prezydent poprosił o kolejny test funkcji poznawczych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f88a061d843</link>
+      <description>Prezydent USA Donald Trump poinformował w sobotę, że „przeszedł perfekcyjnie” badania lekarskie, a teraz chce kolejnych badań funkcji poznawczych. Dr Sean Barbabella niedawno stwierdził, że prezydent Trump „pozostaje w doskonałym zdrowiu”, doświadcza tylko „lekkiego obrzęku podudzi” oraz ma „łagodne” siniaki na dłoniach. Zakończone badania Trump wykorzystał jako pretekst do ataku na dziennikarkę, która napisała o nim książkę.</description>
+      <pubDate>Sat, 11 Jul 2026 19:45:00 GMT</pubDate>
+      <guid isPermaLink="false">8f88a061d843</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zdrowy-jak-trump-prezydent-poprosil-o-kolejny-test-funkcji-p,nIdn,1009651">RMF24</source>
+    </item>
+    <item>
+      <title>Iran supreme leader calls for revenge for father&apos;s killing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dfa1670ec45a</link>
+      <description>Mojtaba Khamenei says vengeance is &quot;inevitable&quot; for the killing, which happened on the first day of the US-Israeli war on Iran.</description>
+      <pubDate>Sat, 11 Jul 2026 19:30:36 GMT</pubDate>
+      <guid isPermaLink="false">dfa1670ec45a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Ważne dla cukrzyków: tak trzeba jeść owoce. Koniec z wahaniami poziomu glukozy</title>
@@ -96,7 +144,7 @@
       <source url="https://tvn24.pl/polska/kulisy-podrozy-polskiej-delegacji-na-szczyt-nato-specjalny-odcinek-podcastu-politycznego-st9138631?source=rss">TVN24</source>
     </item>
     <item>
-      <title>How to Hide from Killer Drones</title>
+      <title>How to hide from killer drones</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f30282d1746b</link>
       <description>Comments</description>
       <pubDate>Sat, 11 Jul 2026 18:22:02 GMT</pubDate>
@@ -377,54 +425,6 @@ Who You Are
       <pubDate>Sat, 11 Jul 2026 15:58:18 GMT</pubDate>
       <guid isPermaLink="false">83b6b118406d</guid>
       <source url="https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Zapłakał czy nie? Decyzja ws. łez Ronaldo kosztowała miliony dolarów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c8da49e5bc3</link>
-      <description>Czy Cristiano Ronaldo zapłakał po przegranym meczu Portugalii z Hiszpanią na mundialu? To pytanie rozpaliło nie tylko kibiców, ale i osoby, które przed spotkaniem na tzw. platformie predykcyjnej postawiły miliony dolarów na to, że gwiazda futbolu po ostatnim gwizdku uroni albo nie uroni łez na oczach całego świata. Decyzja firmy rozstrzygającej zakład wywołała gorącą debatę.</description>
-      <pubDate>Sat, 11 Jul 2026 15:51:00 GMT</pubDate>
-      <guid isPermaLink="false">6c8da49e5bc3</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-zaplakal-czy-nie-decyzja-ws-lez-ronaldo-kosztowala-miliony-d,nIdn,1009638">RMF24</source>
-    </item>
-    <item>
-      <title>Ciemność, błoto i herbatniki. Ponad milion ludzi odciętych od świata</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8872e317b619</link>
-      <description>Powodzie i osuwiska wywołane ulewnymi deszczami monsunowymi zabiły co najmniej 44 osoby w południowo-wschodnim Bangladeszu i ponad milion osób odcięły od świata - poinformowały w sobotę władze tego kraju. Przerwy w dostawie prądu, uszkodzone drogi i zerwane połączenia komunikacyjne spowolniły działania ratownicze i pomocowe. „W naszym domu wciąż jest woda i nie mamy jak gotować. Skończyła się sucha żywność. Nie ma prądu” - relacjonują powodzianie.</description>
-      <pubDate>Sat, 11 Jul 2026 15:46:00 GMT</pubDate>
-      <guid isPermaLink="false">8872e317b619</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-ciemnosc-bloto-i-herbatniki-ponad-milion-ludzi-odcietych-od-,nIdn,1009637">RMF24</source>
-    </item>
-    <item>
-      <title>Ulubiona platforma kinomanów trafi pod skrzydła Netflixa? Użytkownicy są na NIE</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f765fbff0c1</link>
-      <description>W ostatnich dniach coraz więcej mówi się o potencjalnej sprzedaży jednej z najciekawszych platform społecznościowych dla kinomanów: Letterboxd. Wśród potencjalnych nabywców pojawia się m.in. Netflix - co niezbyt podoba się użytkownikom serwisu...</description>
-      <pubDate>Sat, 11 Jul 2026 15:45:36 GMT</pubDate>
-      <guid isPermaLink="false">9f765fbff0c1</guid>
-      <source url="https://antyweb.pl/ulubiona-platforma-kinomanow-trafi-pod-skrzydla-netflixa-uzytkownicy-sa-na-nie">Antyweb</source>
-    </item>
-    <item>
-      <title>Tropical forests facing increasing risks of exposure to critical temp thresholds</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dfdb20890501</link>
-      <description>Comments</description>
-      <pubDate>Sat, 11 Jul 2026 15:38:46 GMT</pubDate>
-      <guid isPermaLink="false">dfdb20890501</guid>
-      <source url="https://www.pnas.org/doi/10.1073/pnas.2528622123">Hacker News</source>
-    </item>
-    <item>
-      <title>Helikopter zahaczył o trakcję w Trzebiatowie. Doszło do pożaru</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/741f92b5fc00</link>
-      <description>W Trzebiatowie linia wysokiego napięcia została uszkodzona przez helikopter. Straż pożarna informuje, że w wyniku zdarzenia doszło do pożaru. Nikt nie został poszkodowany.</description>
-      <pubDate>Sat, 11 Jul 2026 15:32:46 GMT</pubDate>
-      <guid isPermaLink="false">741f92b5fc00</guid>
-      <source url="https://tvn24.pl/szczecin/trzebiatow-helikopter-zahaczyl-o-trakcje-st9138645?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>We scaled PgBouncer to 4x throughput</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6751349536e</link>
-      <description>PgBouncer is single-threaded, so a single process caps out at one CPU core no matter the box size. See how ClickHouse Managed Postgres runs a peered fleet of PgBouncer processes with so_reuseport to scale pooling across every core — with benchmarks showin</description>
-      <pubDate>Sat, 11 Jul 2026 15:28:02 GMT</pubDate>
-      <guid isPermaLink="false">b6751349536e</guid>
-      <source url="https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres">Hacker News</source>
     </item>
   </channel>
 </rss>
