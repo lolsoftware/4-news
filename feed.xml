@@ -5,483 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 10 Jul 2026 21:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:29:37 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2262fa067d17</link>
-      <description>Plenty in Westminster who knew her, whether they agreed with her or not, found her immensely likeable.</description>
-      <pubDate>Fri, 10 Jul 2026 21:27:28 GMT</pubDate>
-      <guid isPermaLink="false">2262fa067d17</guid>
-      <source url="https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>124 osoby nie żyją. Rządowe Centrum Bezpieczeństwa opublikowało raport</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f5fc4361442</link>
+      <description>Rządowe Centrum Bezpieczeństwa opublikowało najnowszy raport dobowy dotyczący utonięć w Polsce. Z opublikowanych danych wynika, że od 1 kwietnia do 10 lipca w Polsce utonęły już 124 osoby. Najwięcej tragicznych zdarzeń odnotowano w zbiornikach wodnych.</description>
+      <pubDate>Sat, 11 Jul 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="false">8f5fc4361442</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/124-osoby-nie-zyja-Rzadowe-Centrum-Bezpieczenstwa-opublikowalo-raport,286571,15.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Moss (YC F25) Is Hiring</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f63d27733ec</link>
-      <description>We built Moss because Voice AI breaks when retrieval is slow. Most retrieval infrastructure was not built for real-time reasoning. It adds latency, breaks context mid-conversation, and becomes the bottleneck just as an AI product needs to feel instant.
-
-Moss is the real-time semantic search layer for conversational AI. We deliver sub-10ms retrieval directly in the browser, at the edge, on-device, or in the cloud, without making teams stitch together a slow retrieval stack.
-
-We are backed by YC and run in production for teams building serious AI products. Moss is deployed across 100+ countries, serves 5M+ of real-time voice minutes, supports enterprises serving 3000+ of their own end customers, and has 380K+ package installs.
-
-The SDKs are how every one of those developers meets Moss. They are the first thing a team touches, the surface that has to feel instant on every platform, and the layer where our Rust engine becomes real code running inside someone else&apos;s product.
-
-We are looking for a Senior or Staff SDK Engineer to own how Moss ships across every developer surface: JavaScript/TypeScript, Python, Swift, Android, Elixir, C, and the Rust core they all bind to.
-
-This is not a greenfield role. You will work on live SDKs that customers depend on in production from day one: shrinking bundle size, lowering cold-start and query latency, tightening cross-platform parity, improving developer ergonomics, and making integration effortless across browsers, servers, mobile devices, edge runtimes, and embedded environments.
-
-When milliseconds and correctness are both part of the product, and your code runs inside someone else&apos;s application, your work defines whether teams trust Moss.
-
-What you&apos;ll do
-
-  - Own the architecture and evolution of Moss SDKs across multiple programming languages and platforms.
-  - Design and maintain safe, ergonomic bindings around our Rust core.
-  - Build and improve FFI layers, packaging systems, release pipelines, versioning strategies, and developer tooling.
-  - Ensure consistent APIs and behavior across all supported SDKs while respecting platform-specific constraints.
-  - Push performance boundaries across memory usage, startup latency, binary size, and runtime efficiency.
-  - Work directly with customers to debug production issues across diverse environments and operating systems.
-  - Establish engineering standards for testing, compatibility, benchmarking, observability, and long-term maintainability.
-  - Help shape how developers experience Moss from the first npm install to production deployment.
-
-What we&apos;re looking for
-
-  - Deep systems engineering experience with strong fundamentals in performance, memory management, concurrency, and low-level debugging.
-  - Significant experience in Rust and building production systems that interface with multiple programming languages.
-  - Proven track record shipping SDKs, libraries, runtimes, databases, or developer infrastructure at massive scale.
-  - Experience building products that have run on hundreds of millions to billions of devices, users, or installations.
-  - Comfortable moving across language ecosystems and technology stacks without being constrained to a single environment.
-  - Strong understanding of FFI, language bindings, package distribution, build systems, and cross-platform development.
-  - Experience with one or more of: JavaScript/TypeScript, Python, Swift, Kotlin/Android, C/C++, Elixir, or other systems languages.
-  - Ability to operate with high ownership in ambiguous environments and make pragmatic engineering tradeoffs.
-
-Bonus points
-
-  - Experience building mobile SDKs or embedded/on-device AI infrastructure.
-  - Experience with WebAssembly, native mobile runtimes, edge environments, or browser internals.
-  - Background in search, databases, AI infrastructure, compilers, or developer tooling.
-  - Experience maintaining highly adopted open-source libraries or SDKs.
-  - Prior experience as a Staff+ engineer responsible for platform or SDK strategy across an organization.
-
-What success looks like
-
-In your first 30 days
-
-  - Develop a deep understanding of Moss&apos;s architecture, retrieval engine, and SDK ecosystem.
-  - Become familiar with our Rust core, FFI boundaries, release pipelines, and supported platforms.
-  - Ship your first production improvements to one or more SDKs.
-  - Work directly with customers and internal teams to understand integration pain points and performance bottlenecks.
-
-In your first 60 days
-
-  - Own one or more SDK surfaces end-to-end.
-  - Improve developer experience, reliability, or performance in meaningful ways, such as reducing startup latency, binary size, or integration complexity.
-  - Propose and begin executing on a roadmap for cross-platform consistency and SDK architecture improvements.
-  - Establish stronger standards around testing, compatibility, benchmarking, and release engineering.
-
-In your first 90 days
-
-  - Become a technical owner for major portions of Moss&apos;s developer platform.
-  - Drive strategic initiatives around SDK architecture, cross-language bindings, packaging, and developer tooling.
-  - Deliver improvements that materially impact adoption, reliability, and production performance.
-  - Help define how Moss reaches browsers, servers, mobile devices, edge environments, and eventually billions of devices.
-  - Raise the engineering bar across systems design, developer experience, and operational excellence.
-
-Why this role matters
-
-Moss is becoming infrastructure that sits directly in the critical path of real-time AI systems. Every millisecond matters. Every platform matters.
-
-The SDK layer is what turns our retrieval engine into something developers can trust and deploy everywhere.
-
-You will not be maintaining wrappers around APIs.
-
-You will be defining how real-time retrieval infrastructure reaches millions of applications and, eventually, billions of devices.</description>
-      <pubDate>Fri, 10 Jul 2026 21:11:18 GMT</pubDate>
-      <guid isPermaLink="false">3f63d27733ec</guid>
-      <source url="https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk">Hacker News</source>
+      <title>Pilny komunikat GIF. Ważny lek wycofany z obrotu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/680b70a81dad</link>
+      <description>Główny Inspektor Farmaceutyczny wycofał z obrotu na terenie całego kraju dwie serie produktu leczniczego Docetaxel Accord, stosowanego w chemioterapii. Decyzję wydano po stwierdzeniu niezgodności jakościowych podczas badań stabilności. Nadano jej rygor natychmiastowej wykonalności.</description>
+      <pubDate>Sat, 11 Jul 2026 07:30:00 GMT</pubDate>
+      <guid isPermaLink="false">680b70a81dad</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/Pilny-komunikat-GIF-Wazny-lek-wycofany-z-obrotu,286570,6.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Mundial: Hiszpania pokonała Belgię i awansowała do półfinału</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f9244fd7872e</link>
-      <description>Drużyna Hiszpanii pokonała Belgów na tegorocznym mundialu z wynikiem 2:1. Oznacza to, że zmierzy się z Francją w półfinale mistrzostw świata w piłce nożnej 2026.</description>
-      <pubDate>Fri, 10 Jul 2026 21:02:00 GMT</pubDate>
-      <guid isPermaLink="false">f9244fd7872e</guid>
-      <source url="https://www.rmf24.pl/pilka-nozna/news-mundial-hiszpania-pokonala-belgie-i-awansowala-do-polfinalu,nIdn,1009595">RMF24</source>
+      <title>Tylko 1 proc. niebieskich kart od medyków. Jest apel: traktować przemoc jak chorobę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5bb2bd4905dd</link>
+      <description>Dziecko doświadczające przemocy należy traktować jak pacjenta z ciężką chorobą przewlekłą - przekonywał podczas konferencji poświęconej roli medyków w przeciwdziałaniu przemocy domowej pediatra dr Piotr Hartman. Eksperci zgodnie podkreślali, że ochrona zdrowia wciąż zbyt rzadko uruchamia procedury pomagające osobom krzywdzonym, choć to właśnie lekarze często jako pierwsi mają szansę dostrzec sygnały przemocy. Często nie wiedzą jednak, jak zapytać pacjenta lub obawiają się uciążliwych procedur.</description>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">5bb2bd4905dd</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Tylko-1-proc-niebieskich-kart-od-medykow-Jest-apel-traktowac-przemoc-jak-chorobe,286523,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Apple sues OpenAI over alleged trade secret theft</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3daaf068f42c</link>
-      <description>Apple alleges the misconduct was directed by OpenAi&apos;s senior leadership, including a long-time former employee.</description>
-      <pubDate>Fri, 10 Jul 2026 21:00:29 GMT</pubDate>
-      <guid isPermaLink="false">3daaf068f42c</guid>
-      <source url="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/">TechCrunch</source>
+      <title>&quot;1000 pocisków jest już załadowanych&quot;. Wpis Trumpa i groźba totalnej wojny z Iranem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d7561334fd75</link>
+      <description>Prezydent USA Donald Trump ostrzegł Iran, że wojsko USA wystrzeli tysiące rakiet i przez rok będzie niszczyć wszystkie jego obszary, jeśli władze tego kraju zrealizują swoje groźby i podejmą działania zmierzające do przeprowadzenia na niego zamachu.</description>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d7561334fd75</guid>
+      <source url="https://www.bankier.pl/wiadomosc/1000-pociskow-jest-juz-zaladowanych-Wpis-Trumpa-i-grozba-totalnej-wojny-z-Iranem-9166813.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/24fd53f66cfc</link>
-      <description>GPT-5.6&apos;s new Sol, Terra, and Luna tiers go head-to-head with Grok 4.5, Claude, Meta&apos;s Muse Spark, and the open-weights crew on a raycaster, a Rubik&apos;s cube, a calculator, and Game of Life. Here&apos;s every build, with cost and latency.</description>
-      <pubDate>Fri, 10 Jul 2026 20:52:28 GMT</pubDate>
-      <guid isPermaLink="false">24fd53f66cfc</guid>
-      <source url="https://www.tryai.dev/blog/gpt-5.6-build-off-12-models">Hacker News</source>
+      <title>Miasta zmieniają pierwsze litery na tablicach rejestracyjnych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba944948dcda</link>
+      <description>&quot;A&quot; jak Warszawa, &quot;M&quot; jak Poznań, &quot;X&quot; jak Gdańsk - nowe tablice rejestracyjne już na samochodach. Kierowcy, którzy zamawiają indywidualne blachy albo tak zwane zmniejszone już dostają tablice z innymi pierwszymi literami. Materiał z programu &quot;Polska i Świat&quot; Łukasza Wieczorka.</description>
+      <pubDate>Sat, 11 Jul 2026 06:21:07 GMT</pubDate>
+      <guid isPermaLink="false">ba944948dcda</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/tablice-rejestracyjne-z-nowymi-pierwszymi-literami-co-sie-zmienia-st9137760?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Pitbull fans set Guinness World Record at BST Hyde Park show</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef49be15118a</link>
-      <description>Mr Worldwide&apos;s fans have set the Guinness World Record for the largest gathering of people wearing bald caps.</description>
-      <pubDate>Fri, 10 Jul 2026 20:35:05 GMT</pubDate>
-      <guid isPermaLink="false">ef49be15118a</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cp8leyy42nvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Pamięć w dołach śmierci. „Tam leżą nasi krewni, osoby z tym samym DNA”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3a6bf938b5f0</link>
+      <description>Dziś obchodzimy Narodowy Dzień Pamięci Ofiar Zbrodni Wołyńskiej. 11 lipca 1943 oddziały UPA dokonały skoordynowanego ataku na 99 polskich miejscowości. Było to apogeum mordów prowadzonych od lutego 1943 roku do wiosny 1945 roku. Tylko niewielka część ofiar rzezi doczekała się godnego pochówku. Ekshumacje ich szczątków to wciąż pojedyncze przypadki.</description>
+      <pubDate>Sat, 11 Jul 2026 06:12:00 GMT</pubDate>
+      <guid isPermaLink="false">3a6bf938b5f0</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-pamiec-w-dolach-smierci-tam-leza-nasi-krewni-osoby-z-tym-sam,nIdn,1009487">RMF24</source>
     </item>
     <item>
-      <title>Ocieplenie relacji w rodzinie królewskiej? Spotkanie z Karolem III po długiej przerwie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/13c8908fc190</link>
-      <description>Król Karol III spotkał się z synem Harrym, jego żoną Meghan oraz z wnukami Archiem i Lilibet – potwierdził w piątek Pałac Buckingham. Brytyjskie media postrzegają to jako ocieplenie relacji w rodzinie królewskiej.</description>
-      <pubDate>Fri, 10 Jul 2026 20:33:00 GMT</pubDate>
-      <guid isPermaLink="false">13c8908fc190</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-ocieplenie-relacji-w-rodzinie-krolewskiej-spotkanie-z-karole,nIdn,1009592">RMF24</source>
+      <title>Bruksela może zwołać nadzwyczajne spotkanie ambasadorów UE ws. sankcji. Czas ucieka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/820ad29c5930</link>
+      <description>Możliwe jest nadzwyczajne posiedzenie ambasadorów państw UE w niedzielę. Jak ustaliła korespondentka RMF FM w Brukseli Katarzyna Szymańska-Borginon, to efekt fiaska piątkowych negocjacji w sprawie 21. pakietu sankcji wobec Rosji. Czasu jest niewiele, bo do 15 lipca Unia chce rozwiązać spór o limit cenowy na rosyjską ropę.</description>
+      <pubDate>Sat, 11 Jul 2026 06:05:00 GMT</pubDate>
+      <guid isPermaLink="false">820ad29c5930</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-bruksela-moze-zwolac-nadzwyczajne-spotkanie-ambasadorow-ue-w,nIdn,1009594">RMF24</source>
     </item>
     <item>
-      <title>Ruch statków wstrzymany. Rosja reaguje na ataki Ukrainy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7e8cac8fa5b4</link>
-      <description>Rosja tymczasowo zawiesiła żeglugę na kanale łączącym rzekę Don z Morzem Azowskim, co poważnie utrudni eksport rosyjskiego zboża - przekazał Reuters. Krok ten nastąpił po piątkowym ataku Ukrainy na rosyjskie jednostki handlowe, w tym tankowce należące do tak zwanej floty cieni.</description>
-      <pubDate>Fri, 10 Jul 2026 20:18:40 GMT</pubDate>
-      <guid isPermaLink="false">7e8cac8fa5b4</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/rosja-zawiesza-zegluge-na-kanale-don-morze-azowskie-po-atakach-ukrainy-st9137695?source=rss">TVN24</source>
+      <title>Kijów zaatakowany. Rosjanie najprawdopodobniej uderzyli Iskanderami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e83824546d0c</link>
+      <description>Co najmniej 10 osób zostało rannych w nocnym ataku Rosji na Kijów. Wszystko wskazuje na to, że do ataku na stolicę Rosji wykorzystano rakiety Iskander-M ub rakiety ziemia-ziemia S-300/S-400.</description>
+      <pubDate>Sat, 11 Jul 2026 06:02:00 GMT</pubDate>
+      <guid isPermaLink="false">e83824546d0c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-kijow-zaatakowany-rosjanie-najprawdopodobniej-uderzyli-iskan,nIdn,1009602">RMF24</source>
     </item>
     <item>
-      <title>Anton du Beke &apos;devastated&apos; at death of Strictly co-star Ann Widdecombe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/695ba7904e1d</link>
-      <description>Kemi Badenoch said the Conservative Party was &quot;reeling&quot; as the former minister&apos;s death is investigated as murder.</description>
-      <pubDate>Fri, 10 Jul 2026 20:11:44 GMT</pubDate>
-      <guid isPermaLink="false">695ba7904e1d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Znalazła torbę z tysiącami dolarów. Miasto chciało położyć rękę na pieniądzach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/20d27672655d</link>
+      <description>Sąd wydał wyrok w sprawie niecodziennego sporu we włoskiej Wenecji. Zarząd miasta nie chciał oddać 7 tysięcy dolarów pracownicy obsługi tramwaju wodnego, która znalazła te pieniądze w pozostawionej torbie. Właściciel znalezionej przed rokiem torby nie znalazł się, więc zgodnie z tamtejszym prawem pieniądze powinny trafić do kobiety.</description>
+      <pubDate>Sat, 11 Jul 2026 06:01:00 GMT</pubDate>
+      <guid isPermaLink="false">20d27672655d</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-znalazla-torbe-z-tysiacami-dolarow-miasto-chcialo-polozyc-re,nIdn,1009601">RMF24</source>
     </item>
     <item>
-      <title>Don&apos;t discontinue Gemini 2.5 Flash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f530ca46d4fb</link>
-      <description>Comments</description>
-      <pubDate>Fri, 10 Jul 2026 20:00:28 GMT</pubDate>
-      <guid isPermaLink="false">f530ca46d4fb</guid>
-      <source url="https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246">Hacker News</source>
+      <title>Fani Yellowstone będą zachwyceni. Ranczo Duttonów czeka ważna zmiana!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd71fc20283e</link>
+      <description>2. sezona Rancza Duttonów to raczej już pewniak. Po sukcesie najbardziej bezpośredniego sequelo-spin-offu Yellowstone, raczej nikt nie wyobrażał sobie innego obrotu spraw.</description>
+      <pubDate>Sat, 11 Jul 2026 06:00:37 GMT</pubDate>
+      <guid isPermaLink="false">bd71fc20283e</guid>
+      <source url="https://antyweb.pl/fani-yellowstone-beda-zachwyceni-ranczo-duttonow-czeka-wazna-zmiana">Antyweb</source>
     </item>
     <item>
-      <title>Śmiertelne potrącenie rowerzysty przez autokar w Warszawie </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa9cf37960c5</link>
-      <description>Nie żyje rowerzysta potrącony przez autokar na warszawskiej Woli.</description>
-      <pubDate>Fri, 10 Jul 2026 19:59:39 GMT</pubDate>
-      <guid isPermaLink="false">aa9cf37960c5</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wola/smiertelne-potracenie-rowerzysty-przez-autokar-w-warszawie-st9137718?source=rss">TVN24</source>
+      <title>Weekend z deszczem. Mapa i radar opadów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9bdfcd52a3fd</link>
+      <description>Weekend niesie kontynuację deszczowej aury - wszystko za sprawą niżu, w którego zasięgu wciąż znajduje się Polska. Nasi synoptycy wyjaśniają, kiedy i gdzie spodziewać się największych opadów.</description>
+      <pubDate>Sat, 11 Jul 2026 05:48:00 GMT</pubDate>
+      <guid isPermaLink="false">9bdfcd52a3fd</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/radar-opadow-gdzie-pada-i-bedzie-padac-st9137171?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Check out the first images of Quest shipwreck</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/99d9279826ba</link>
-      <description>The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.</description>
-      <pubDate>Fri, 10 Jul 2026 19:59:31 GMT</pubDate>
-      <guid isPermaLink="false">99d9279826ba</guid>
-      <source url="https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/">Ars Technica</source>
+      <title>Burmistrz Berlina się poddaje. Pogrążyły go nowe publikacje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c2bb8c995429</link>
+      <description>Burmistrz Berlina Kai Wegner nie będzie walczył o reelekcję w zaplanowanych na wrzesień lokalnych wyborach. Polityk zrezygnował ze startu. Media ujawniły, że kłamał on na temat swoich działań w trakcie styczniowego blackoutu na południu miasta.</description>
+      <pubDate>Sat, 11 Jul 2026 05:45:00 GMT</pubDate>
+      <guid isPermaLink="false">c2bb8c995429</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-burmistrz-berlina-sie-poddaje-pograzyly-go-nowe-publikacje,nIdn,1009600">RMF24</source>
     </item>
     <item>
-      <title>Bedford triple murder suspect arrested in South Africa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/952a1eced8cd</link>
-      <description>Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.</description>
-      <pubDate>Fri, 10 Jul 2026 19:50:03 GMT</pubDate>
-      <guid isPermaLink="false">952a1eced8cd</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>WHO: skala epidemii eboli może być znacznie większa niż oficjalne dane</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2f9c34a583b6</link>
+      <description>Wysoki rangą przedstawiciel WHO poinformował, że cztery na pięć nowych przypadków zakażenia wirusem ebola w niektórych rejonach Demokratycznej Republiki Konga nie ma stwierdzonego związku z wcześniej zdiagnozowanymi pacjentami. Ostrzegł przy tym, że rzeczywista skala epidemii może być od dwóch do czterech razy większa, niż wskazują na to oficjalne dane.</description>
+      <pubDate>Sat, 11 Jul 2026 05:40:23 GMT</pubDate>
+      <guid isPermaLink="false">2f9c34a583b6</guid>
+      <source url="https://tvn24.pl/swiat/epidemia-eboli-who-skala-moze-byc-znacznie-wieksza-niz-oficjalne-dane-st9137742?source=rss">TVN24</source>
     </item>
     <item>
-      <title>„Większość lub wszystkie ofiary to cudzoziemcy”. Tragiczny pożar w Hiszpanii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/34c30cd6ca0e</link>
-      <description>Większość z 12 ofiar śmiertelnych pożaru lasu w Los Gallardos w prowincji Almeria w południowo-wschodniej Hiszpanii to cudzoziemcy – poinformował w piątek Antonio Sanz, minister zdrowia w regionalnym rządzie Andaluzji, gdzie leży Almeria. Ogień pojawił się w czwartkowe popołudnie w wyniku awarii prywatnej linii energetycznej i strawił już ponad 3,2 tys. hektarów.</description>
-      <pubDate>Fri, 10 Jul 2026 19:49:00 GMT</pubDate>
-      <guid isPermaLink="false">34c30cd6ca0e</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-wiekszosc-lub-wszystkie-ofiary-to-cudzoziemcy-tragiczny-poza,nIdn,1009590">RMF24</source>
+      <title>IMGW wydał ostrzeżenia. Obejmują kilka województw</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/839153d1e64e</link>
+      <description>IMGW wydał ostrzeżenia I stopnia przed burzami dla czterech województw. Prognozuje się opady deszczu do 25 mm i porywy wiatru do 60 km/h.</description>
+      <pubDate>Sat, 11 Jul 2026 05:16:00 GMT</pubDate>
+      <guid isPermaLink="false">839153d1e64e</guid>
+      <source url="https://www.rmf24.pl/fakty/pogoda/news-imgw-wydal-ostrzezenia-obejmuja-kilka-wojewodztw,nIdn,1009598">RMF24</source>
     </item>
     <item>
-      <title>Ransomware negotiator hired to represent victims was working for the attackers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dbb53cd27a8b</link>
-      <description>Six years in prison for man who &quot;sold out the very victims he was hired to represent.&quot;</description>
-      <pubDate>Fri, 10 Jul 2026 19:40:11 GMT</pubDate>
-      <guid isPermaLink="false">dbb53cd27a8b</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/">Ars Technica</source>
+      <title>Iran odbudowuje obiekty jądrowe? Zdjęcia satelitarne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0980c985f574</link>
+      <description>Zdjęcia satelitarne, pozyskane i przeanalizowane przez CNN, wskazują, że Iran może podejmować próby odbudowy swoich obiektów nuklearnych. Może to oznaczać, że naruszył porozumienie zawarte z USA pod koniec czerwca.</description>
+      <pubDate>Sat, 11 Jul 2026 05:14:22 GMT</pubDate>
+      <guid isPermaLink="false">0980c985f574</guid>
+      <source url="https://tvn24.pl/swiat/iran-odbudowuje-obiekty-jadrowe-zdjecia-satelitarne-st9137759?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Man arrested on suspicion of murder after death of Ann Widdecombe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/68686235a297</link>
-      <description>There was initially no suggestion of suspicious circumstances when her death was announced on Friday morning.</description>
-      <pubDate>Fri, 10 Jul 2026 19:39:00 GMT</pubDate>
-      <guid isPermaLink="false">68686235a297</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>All the goals from England&apos;s 2026 World Cup campaign so far</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/664e457b9656</link>
+      <description>As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel&apos;s side there.</description>
+      <pubDate>Sat, 11 Jul 2026 05:13:35 GMT</pubDate>
+      <guid isPermaLink="false">664e457b9656</guid>
+      <source url="https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>An Update on the scraper situation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/990b9963a2e2</link>
-      <description>Our article &apos;Fighting the AI scraper bot scourge&apos;, published in early 2025, discussed the probl [...]</description>
-      <pubDate>Fri, 10 Jul 2026 19:38:34 GMT</pubDate>
-      <guid isPermaLink="false">990b9963a2e2</guid>
-      <source url="https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/">Hacker News</source>
+      <title>„Tysiąc pocisków wycelowanych”. Trump grozi Iranowi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4b5b799325b1</link>
+      <description>Donald Trump powtórzył groźby wobec Iran na wypadek, gdyby doszło do zamachu na niego. Prezydent USA ostrzegł, że amerykańskie wojsko w takiej sytuacji wystrzeli tysiące rakiet i przez rok będzie niszczyć cały Iran.</description>
+      <pubDate>Sat, 11 Jul 2026 05:11:00 GMT</pubDate>
+      <guid isPermaLink="false">4b5b799325b1</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-tysiac-pociskow-wycelowanych-trump-grozi-iranowi,nIdn,1009599">RMF24</source>
     </item>
     <item>
-      <title>Football&apos;s best bromance: Why Bellingham and Haaland break the mould</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8abf370f5531</link>
-      <description>The two players have won an army of admirers from social media clips and their honesty in interviews.</description>
-      <pubDate>Fri, 10 Jul 2026 19:34:40 GMT</pubDate>
-      <guid isPermaLink="false">8abf370f5531</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Policja zatrzymała podejrzanego o zabójstwo prawicowej polityczki Ann Widdecombe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/569e17b8c847</link>
+      <description>Brytyjska policja wypuściła z aresztu mężczyznę, którego zatrzymała w śledztwie dotyczącym zabójstwa Ann Widdecombe, byłej polityk Partii Konserwatywnej, Brexit Party, a ostatnio - Reform UK. Policja oceniła, że nie ma przesłanek, by zakładać, że zbrodnia miała podłoże polityczne.</description>
+      <pubDate>Sat, 11 Jul 2026 05:06:47 GMT</pubDate>
+      <guid isPermaLink="false">569e17b8c847</guid>
+      <source url="https://tvn24.pl/swiat/wielka-brytania-zabojstwo-prawicowej-polityczki-ann-widdecombe-st9137741?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Były wiceminister w rządzie PiS przekazał apteczki rosyjskim żołnierzom</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7dab2d38fbba</link>
-      <description>Były wiceminister w rządzie Jarosława Kaczyńskiego Krzysztof Tołwiński przekazał apteczki pierwszej pomocy rosyjskim żołnierzom walczącym w Ukrainie. Nagranie z Białorusi opublikował w mediach społecznościowych, zachęcając Polaków do wspierania Rosjan. O sprawę zapytaliśmy Prokuraturę Krajową.</description>
-      <pubDate>Fri, 10 Jul 2026 19:32:00 GMT</pubDate>
-      <guid isPermaLink="false">7dab2d38fbba</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-byly-wiceminister-w-rzadzie-pis-przekazal-apteczki-rosyjskim,nIdn,1009589">RMF24</source>
+      <title>Niezwykłe odkrycie dzieci w lesie. W słoiku ukryto skarb z tajemniczymi symbolami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/12af7d6993c6</link>
+      <description>Wyglądało to jak zwykły rodzinny spacer, a skończyło się odkryciem wartym fortunę. Podczas przechadzki w bawarskim lesie trójka dzieci wykopała słoik skrywający około 60 złotych pierścionków, bransoletki i naszyjniki, których wartość szacuje się nawet na 20 tysięcy euro. To jednak nie wycena materialna najbardziej zaskoczyła śledczych. Policja, próbując rozwikłać zagadkę ukrytego skarbu, trafiła na intrygujący trop – część biżuterii posiada grawerunki z początków XX wieku oraz tajemnicze symbole wolnomularskie, które stawiają przed mundurowymi więcej pytań niż odpowiedzi.</description>
+      <pubDate>Sat, 11 Jul 2026 05:05:00 GMT</pubDate>
+      <guid isPermaLink="false">12af7d6993c6</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-niezwykle-odkrycie-dzieci-w-lesie-w-sloiku-ukryto-skarb-z-ta,nIdn,1009174">RMF24</source>
     </item>
     <item>
-      <title>Eight charged over alleged conspiracy to attack White House UFC event</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7e5169812fed</link>
-      <description>Thousands of people attended the event last month, including President Trump and Vice-President JD Vance.</description>
-      <pubDate>Fri, 10 Jul 2026 19:27:32 GMT</pubDate>
-      <guid isPermaLink="false">7e5169812fed</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwy091zzgpdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Ten niepozorny grzyb może cię zaskoczyć. Poznaj leśny rarytas, który łatwo przeoczyć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/336d015ca6f6</link>
+      <description>Choć na pierwszy rzut oka przypomina nieapetyczną bulwę i łatwo ją przeoczyć podczas leśnych wędrówek, czasznica oczkowata to jeden z najbardziej zaskakujących grzybów jadalnych w polskich lasach. Jej niepozorny wygląd kryje w sobie delikatny, lekko orzechowy smak, który docenią nawet najbardziej wymagający smakosze. Sprawdź, jak rozpoznać ten niezwykły gatunek i dlaczego warto go poszukać podczas najbliższego grzybobrania.</description>
+      <pubDate>Sat, 11 Jul 2026 05:05:00 GMT</pubDate>
+      <guid isPermaLink="false">336d015ca6f6</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-ten-niepozorny-grzyb-moze-cie-zaskoczyc-poznaj-lesny-rarytas,nIdn,1009202">RMF24</source>
     </item>
     <item>
-      <title>Ukraińcy zaatakowali kilkanaście rosyjskich statków.  Płonęła rafineria i terminal naftowy </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6fa88bbe3f77</link>
-      <description>Ukraińska armia przeprowadziła skuteczny atak na 18 rosyjskich statków, z czego większość stanowiły tankowce floty cieni. Po raz kolejny płonęła rafineria w Kraju Krasnodarskim. Uderzono również w terminal naftowy w Taganrogu. Z kolei armia Putina po raz kolejny uderzyła w  infrastrukturę cywilną. W obwodzie donieckim zginęły co najmniej cztery osoby, a kilkanaście zostało rannych.</description>
-      <pubDate>Fri, 10 Jul 2026 19:26:48 GMT</pubDate>
-      <guid isPermaLink="false">6fa88bbe3f77</guid>
-      <source url="https://tvn24.pl/swiat/ukraincy-zaatakowali-kilkanascie-rosyjskich-statkow-plonela-rafineria-i-terminal-naftowy-st9137704?source=rss">TVN24</source>
+      <title>Włosi łapią się za głowy. To danie w Bolonii po prostu nie istnieje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/160236adbcfb</link>
+      <description>Planujesz wizytę w Bolonii? Uważaj, o co prosisz kelnera! Choć nazwa miasta kojarzy się ze słynnym spaghetti, mieszkańcy uważają to danie za błąd. Poznaj sekrety tradycyjnego ragù alla bolognese i dowiedz się, który makaron jest jedynym słusznym wyborem według włoskich ekspertów.</description>
+      <pubDate>Sat, 11 Jul 2026 05:04:00 GMT</pubDate>
+      <guid isPermaLink="false">160236adbcfb</guid>
+      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-wlosi-lapia-sie-za-glowy-to-danie-w-bolonii-po-prostu-nie-is,nIdn,1008897">RMF24</source>
     </item>
     <item>
-      <title>Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/480ba011cc00</link>
-      <description>The children who get a combination shot are some of the most vulnerable.</description>
-      <pubDate>Fri, 10 Jul 2026 19:25:04 GMT</pubDate>
-      <guid isPermaLink="false">480ba011cc00</guid>
-      <source url="https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/">Ars Technica</source>
+      <title>Wielkie zielone wiry na Bałtyku. To nie efekt filtrów, a groźne zjawisko</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7a583406a0cb</link>
+      <description>Satelity programu Copernicus zarejestrowały na Bałtyku gigantyczne, zielono-turkusowe wiry, które rozciągają się od Szwecji aż po Łotwę. To masowy zakwit toksycznych sinic, który w tym roku pojawił się wyjątkowo wcześnie. Eksperci nie mają złudzeń: to efekt ocieplenia klimatu, a tegoroczne zjawisko może być wyjątkowo długie i groźne dla zdrowia turystów oraz całego ekosystemu morskiego.</description>
+      <pubDate>Sat, 11 Jul 2026 05:03:00 GMT</pubDate>
+      <guid isPermaLink="false">7a583406a0cb</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-wielkie-zielone-wiry-na-baltyku-to-nie-efekt-filtrow-a-grozn,nIdn,1009042">RMF24</source>
     </item>
     <item>
-      <title>Early Career Faculty (ECF) 2025 Awards</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/394f258218b0</link>
-      <description>Back to ECF Home</description>
-      <pubDate>Fri, 10 Jul 2026 19:23:55 GMT</pubDate>
-      <guid isPermaLink="false">394f258218b0</guid>
-      <source url="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/">NASA Breaking News</source>
+      <title>Najpopularniejsza pizza w Polsce w 2026 roku. Ten jeden wariant bije konkurencję na głowę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/623ad396ed04</link>
+      <description>Tradycja wygrywa z kulinarną rewolucją. Eksperci aplikacji PanParagon przeanalizowali dane z 2026 roku i wyłonili najpopularniejsze pizze w Polsce. Choć na liście hitów meldują się kebab i kontrowersyjna pizza hawajska, niezmiennym liderem z ogromną przewagą pozostaje absolutny klasyk. Zobacz oficjalny ranking najchętniej zamawianych dań oraz kultowy dodatek, bez którego większość Polaków nie wyobraża sobie udanego posiłku.</description>
+      <pubDate>Sat, 11 Jul 2026 05:02:00 GMT</pubDate>
+      <guid isPermaLink="false">623ad396ed04</guid>
+      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-najpopularniejsza-pizza-w-polsce-w-2026-roku-ten-jeden-waria,nIdn,1009364">RMF24</source>
     </item>
     <item>
-      <title>Polski zawodnik piłki ręcznej miał zostać pobity. Policja zaprzecza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0132197fd311</link>
-      <description>Polski Związek Piłki Ręcznej poinformował, że reprezentant Polski juniorów w tej dyscyplinie został pobity minionej nocy w Międzyzdrojach (woj. zachodniopomorskie). Jak jednak ustaliła reporterka RMF FM Anna Pałamar, policja zaprzecza tym doniesieniom.</description>
-      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="false">0132197fd311</guid>
-      <source url="https://www.rmf24.pl/regiony/szczecin/news-polski-zawodnik-pilki-recznej-mial-zostac-pobity-policja-zap,nIdn,1009587">RMF24</source>
+      <title>Wielka akcja policji. Grupa „Orzeł” rozbiła gang złodziei samochodów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eb35222eab04</link>
+      <description>21 osób usłyszało 112 zarzutów za kradzieże z włamaniem, kradzieże i paserstwo – to efekt akcji grupy „Orzeł” z Wydziału do walki z Przestępczością Samochodową Komendy Stołecznej Policji. Jak podkreślili mundurowi, śledztwo trwające kilka lat, pozwoliło na zatrzymanie wszystkich członków grupy przestępczej i przedstawienie im zarzutów. 13 osób decyzją sądu zostało tymczasowo aresztowanych.</description>
+      <pubDate>Sat, 11 Jul 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="false">eb35222eab04</guid>
+      <source url="https://www.rmf24.pl/regiony/news-wielka-akcja-policji-grupa-orzel-rozbila-gang-zlodziei-samoc,nIdn,1009596">RMF24</source>
     </item>
     <item>
-      <title>NASA Volunteers Help Zooniverse Reach 1 Billion Classifications</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7183fdb3b1fc</link>
-      <description>The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion</description>
-      <pubDate>Fri, 10 Jul 2026 19:00:53 GMT</pubDate>
-      <guid isPermaLink="false">7183fdb3b1fc</guid>
-      <source url="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/">NASA Breaking News</source>
+      <title>Zdjęcia Google zupełnie zmieniają kierunek. Tego nikt się nie spodziewał!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a7e1835d3d02</link>
+      <description>Jak wynika z najnowszych śladów w kodzie Zdjęć Google, gigant przygotowuje coś, czego raczej nikt się po nim nie spodziewał.</description>
+      <pubDate>Sat, 11 Jul 2026 05:00:34 GMT</pubDate>
+      <guid isPermaLink="false">a7e1835d3d02</guid>
+      <source url="https://antyweb.pl/zdjecia-google-zupelnie-zmieniaja-kierunek-tego-nikt-sie-nie-spodziewal">Antyweb</source>
     </item>
     <item>
-      <title>Zakaz po groźnych zakażeniach. W Polsce nadal kupisz bez problemu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2fa499499935</link>
-      <description>Jedni uznali je za zbyt niebezpieczne, inni nadal sprzedają je legalnie. Surowe mleko od lat budzi ogromne emocje w Europie, a decyzje poszczególnych państw pokazują, jak różnie można oceniać ryzyko dla zdrowia. To, co w jednym kraju zostało zakazane, w Polsce wciąż jest dostępne.</description>
-      <pubDate>Fri, 10 Jul 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2fa499499935</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zakaz-po-groznych-zakazeniach-W-Polsce-nadal-kupisz-bez-problemu,286577,11.html">Rynek Zdrowia</source>
+      <title>NBP i Chiny wykorzystują przecenę złota, giełdowe kasyno w Korei i złoty w opałach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/337a1281b8af</link>
+      <description>Cześć, tu Inwestor Wojtek. Za nami kolejny tydzień pełen rynkowych i gospodarczych kontrastów. Na pewno ten tydzień należał do RPP, złota i konfliktu na Bliskim Wschodzie, który zdarzył wybuchnąć wymianą ciosów, by ponownie wejść w fazę negocjacji. Podsumujmy to, co najważniejsze, bo wykresy znów mają nam sporo do opowiedzenia.</description>
+      <pubDate>Sat, 11 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">337a1281b8af</guid>
+      <source url="https://www.bankier.pl/wiadomosc/NBP-i-Chiny-wykorzystuja-przecene-zlota-gieldowe-kasyno-w-Korei-i-zloty-w-opalach-9166343.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Czarzasty stawia sprawę jasno. „Jeśli tego nie zrobimy, to przegramy wybory”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/92c3a54d159d</link>
-      <description>Koalicja rządząca nie wszystko robi dobrze, i akurat temat ochrony zdrowia schrzaniła; musimy to naprawić, bo inaczej przegramy wybory – podkreślił w piątek marszałek Sejmu, lider Nowej Lewicy Włodzimierz Czarzasty. Jego zdaniem, propozycje zmian zostały przedstawione zbyt późno. Trzeba się za to wziąć – dodał.</description>
-      <pubDate>Fri, 10 Jul 2026 18:57:00 GMT</pubDate>
-      <guid isPermaLink="false">92c3a54d159d</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-czarzasty-stawia-sprawe-jasno-jesli-tego-nie-zrobimy-to-prze,nIdn,1009585">RMF24</source>
+      <title>HALO, w tym sektorze mogą czaić się zyski. Wall Street na tropie nowych okazji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0df986512529</link>
+      <description>Zawirowania wokół akcji producentów układów scalonych, ponowne napięcia na Bliskim Wschodzie oraz optymistyczne oceny analityków dotyczące spółki SpaceX, która zadebiutowała w składzie indeksu Nasdaq 100, zaprzątały w tym tygodniu głowy globalnych inwestorów. Eksperci wskazują, że na rynku wciąż można znaleźć branże z ogromnym potencjałem.</description>
+      <pubDate>Sat, 11 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0df986512529</guid>
+      <source url="https://www.bankier.pl/wiadomosc/HALO-w-tym-sektorze-moga-czaic-sie-zyski-Wall-Street-na-tropie-nowych-okazji-9166710.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Tadeusz Piotrowski (1940-1986) – wspomnienie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/115bf75bfeec</link>
-      <description>Był 8 lipca 1986 roku. Dwaj polscy wspinacze, Jerzy Kukuczka i Tadeusz Piotrowski, po ekstremalnie trudnej  wspinaczce nową drogą stanęli na szczycie K2, najtrudniejszej góry świata. Dla słynnego Kukuczki to był kolejny ośmiotysięcznik, który był mu potrzebny w wyścigu o palmę pierwszeństwa z Reinholdem Messnerem. Dla Piotrowskiego był to pierwszy w życiu ośmiotysięcznik i spełnienie jego marzeń. Niestety, 2 dni później w koszmarnej drodze powrotnej Tadeusz Piotrowski zginął w wypadku. 10 lipca br. minęła 40.Rocznica tego wydarzenia. O życiu i osiągnięciach górskich Tadeusza Piotrowskiego rozmawiam z jego żoną Danutą, siedząc tuż obok Symbolicznego Grobu himalaisty na Cmentarzu Centralnym w Szczecinie.</description>
-      <pubDate>Fri, 10 Jul 2026 18:57:00 GMT</pubDate>
-      <guid isPermaLink="false">115bf75bfeec</guid>
-      <source url="https://www.rmf24.pl/regiony/szczecin/news-tadeusz-piotrowski-1940-1986-wspomnienie,nIdn,1009586">RMF24</source>
+      <title>Firmy budowlane stawiają na cyfryzację. Nadal brakuje jednak kompetencji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a029da49cccc</link>
+      <description>Poziom dojrzałości cyfrowej w polskiej branży architektonicznej i budowlanej systematycznie rośnie. Przykładem może być wdrażanie metodyki BIM opartej na cyfrowym modelu na coraz szerszą skalę. Z raportów Autodesk...</description>
+      <pubDate>Sat, 11 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">a029da49cccc</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Firmy-budowlane-stawiaja-na-cyfryzacje-Nadal-brakuje-jednak-kompetencji-9165032.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>&apos;Really frightening, unbelievably quick&apos;: Witnesses describe fleeing deadly Spain wildfire</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dc2bf6c11087</link>
-      <description>Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.</description>
-      <pubDate>Fri, 10 Jul 2026 18:56:06 GMT</pubDate>
-      <guid isPermaLink="false">dc2bf6c11087</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Najtragiczniejsze miesiące dla ukraińskich cywilów. Rosja bierze na cel szpitale i ośrodki zdrowia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e05c3e689bed</link>
+      <description>Nasilone rosyjskie ataki rakietowe i dronowe powodują coraz większą liczbę ofiar wśród ludności cywilnej oraz utrudniają dostęp do opieki medycznej w Ukrainie. Według danych ONZ maj był najtragiczniejszym...</description>
+      <pubDate>Sat, 11 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">e05c3e689bed</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Najtragiczniejsze-miesiace-dla-ukrainskich-cywilow-Rosja-bierze-na-cel-szpitale-i-osrodki-zdrowia-9165027.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Koniec dużego i długiego procesu pseudokibiców. Sąd łagodzi kary</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c87ffa058ee3</link>
-      <description>Przyszli do sądu z torbami, z rzeczami potrzebnymi do odbycia kar więzienia. Poza jedną osobą, wrócili z nimi do domów. Sąd w Białymstoku wydał wyrok w sprawie grupy pseudokibiców. Większość kar bezwzględnego więzienia zamienił na kary w zawieszeniu. Wśród skazanych jest Tomasz P. ps. Dragon.</description>
-      <pubDate>Fri, 10 Jul 2026 18:51:10 GMT</pubDate>
-      <guid isPermaLink="false">c87ffa058ee3</guid>
-      <source url="https://tvn24.pl/bialystok/bialystok-koniec-glosnego-procesu-pseudokibicow-wyrok-st9136319?source=rss">TVN24</source>
+      <title>US wants Iran to pledge to stop shooting at ships in Strait of Hormuz</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4f0c60e47092</link>
+      <description>Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.</description>
+      <pubDate>Sat, 11 Jul 2026 04:56:33 GMT</pubDate>
+      <guid isPermaLink="false">4f0c60e47092</guid>
+      <source url="https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Harry visits King with Meghan and children for first time in four years</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/de4e116a5042</link>
-      <description>It is the first time the King has seen his grandchildren Archie, seven, and Lilibet, five, in person in more than four years.</description>
-      <pubDate>Fri, 10 Jul 2026 18:50:54 GMT</pubDate>
-      <guid isPermaLink="false">de4e116a5042</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cj4g79exkzlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Urodziny TVN24 w Bydgoszczy. &quot;Czekamy na państwa&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d78027177c10</link>
+      <description>Bydgoszcz jest kolejnym przystankiem na urodzinowej trasie TVN24 &quot;Jesteśmy stąd&quot;. Od rana na widzów czekają dziennikarze naszej stacji. Zobacz kulisy telewizji na żywo i weź w licznych wydarzeniach przygotowanych z okazji 25-lecia TVN24.</description>
+      <pubDate>Sat, 11 Jul 2026 04:53:57 GMT</pubDate>
+      <guid isPermaLink="false">d78027177c10</guid>
+      <source url="https://tvn24.pl/25-lat-TVN24/tvn24-w-bydgoszczy-11-lipca-spotykamy-sie-na-wyspie-mlynskiej-st9133624?source=rss">TVN24</source>
     </item>
     <item>
-      <title>How the terrorist group Boko Haram uses frontier AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/47d40526e3a1</link>
-      <description>Comments</description>
-      <pubDate>Fri, 10 Jul 2026 18:49:26 GMT</pubDate>
-      <guid isPermaLink="false">47d40526e3a1</guid>
-      <source url="https://casp.ac/reports/ai-enabled-terrorism">Hacker News</source>
+      <title>Narzędzia Parkside z Lidla to prawdziwy fenomen. Nie chodzi tylko o cenę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/828b12cfbf1b</link>
+      <description>Marka Parkside od lat przyciąga majsterkowiczów, działkowców i osoby robiące drobne remonty. Sprawdzamy, skąd wzięła się popularność elektronarzędzi z Lidla i dlaczego dla wielu osób są rozsądnym wyborem.</description>
+      <pubDate>Sat, 11 Jul 2026 04:45:33 GMT</pubDate>
+      <guid isPermaLink="false">828b12cfbf1b</guid>
+      <source url="https://antyweb.pl/elektronarzedzia-parkside-dlaczego-ludzie-tak-chetnie-je-wybieraja">Antyweb</source>
     </item>
     <item>
-      <title>&quot;Chłopie, jeżeli ty myślisz...&quot;. Włodzimierz Czarzasty o rezolucji PE w sprawie Ukrainy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6f2c0d4d7f62</link>
-      <description>Jeżeli Ukraina myśli, że wejdzie do Unii Europejskiej, chwaląc mordercę, to nie wejdzie - powiedział w &quot;Faktach po Faktach&quot; w TVN24 Włodzimierz Czarzasty. Marszałek Sejmu komentował rezolucję przyjętą przez Parlament Europejski. Jego zdaniem oznacza ona, że trzeba przyspieszyć akcesję Kijowa. Czarzasty komentował też zapowiadane reformy ochrony zdrowia.</description>
-      <pubDate>Fri, 10 Jul 2026 18:38:02 GMT</pubDate>
-      <guid isPermaLink="false">6f2c0d4d7f62</guid>
-      <source url="https://tvn24.pl/polska/wlodzimierz-czarzasty-o-akcesji-ukrainy-do-unii-europejskiej-chlopie-jezeli-ty-myslisz-st9137621?source=rss">TVN24</source>
+      <title>Władysław Kosiniak-Kamysz na Wołyniu. Odda hołd ofiarom zbrodni wołyńskiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/920d76cc4752</link>
+      <description>Wicepremier, szef MON Władysław Kosiniak-Kamysz odda dziś na Ukrainie hołd ofiarom zbrodni wołyńskiej w 83. rocznicę tak zwanej Krwawej Niedzieli. Od lat biskup łucki Witalij Skomarowski organizuje tam uroczystości żałobne - przypomniał szef MON.</description>
+      <pubDate>Sat, 11 Jul 2026 04:42:46 GMT</pubDate>
+      <guid isPermaLink="false">920d76cc4752</guid>
+      <source url="https://tvn24.pl/polska/ukraina-szef-mon-wladyslaw-kosiniak-kamysz-na-wolyniu-odda-hold-ofiarom-zbrodni-wolynskiej-st9137743?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Tragedia w Skarżysku-Kamiennej. Dwa ciała mężczyzn znalezione w mieszkaniu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4d9fc0a4bf82</link>
-      <description>Dwa ciała znaleziono w jednym z mieszkań w Skarżysku-Kamiennej (woj. świętokrzyskie). Służby zostały zaalarmowane przez zaniepokojoną sąsiadkę, która od około tygodnia nie widziała jednego z mężczyzn. Policja wstępnie wyklucza udział osób trzecich.</description>
-      <pubDate>Fri, 10 Jul 2026 18:35:00 GMT</pubDate>
-      <guid isPermaLink="false">4d9fc0a4bf82</guid>
-      <source url="https://www.rmf24.pl/regiony/kielce/news-tragedia-w-skarzysku-kamiennej-dwa-ciala-mezczyzn-znalezione,nIdn,1009584">RMF24</source>
+      <title>Sobota z burzami. IMGW ostrzega</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fbfb54004b66</link>
+      <description>Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. Synoptycy prognozują burze w czterech województwach. Sprawdź, gdzie można spodziewać się wyładowań.</description>
+      <pubDate>Sat, 11 Jul 2026 04:42:07 GMT</pubDate>
+      <guid isPermaLink="false">fbfb54004b66</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/burze-ostrzezenia-imgw-sobota-11-07-tu-spodziewane-sa-wyladowania-st9137764?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Teksas. Piorun uderzył w dom i raził nastolatka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d0dd8bf835da</link>
-      <description>Piorun poraził nastolatka wewnątrz jego domu. Do zdarzenia doszło w Teksasie podczas wtorkowej burzy. Jak podały władze, wyładowanie uderzyło w dach budynku, powodując spięcie w instalacji elektrycznej i rażąc chłopca.</description>
-      <pubDate>Fri, 10 Jul 2026 18:31:34 GMT</pubDate>
-      <guid isPermaLink="false">d0dd8bf835da</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/teksas-piorun-uderzyl-w-dom-i-razil-nastolatka-st9137536?source=rss">TVN24</source>
+      <title>&quot;To są te momenty, kiedy się zapadasz, kiedy tracisz sens...&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/566320e9bdc9</link>
+      <description>Często nie rozczarowania miłosne, długi czy utrata pracy stoją za decyzją o samobójstwie. Ludzie dokonują zamachu na własne życie z braku miłości. Albo - żebyśmy byli bardziej precyzyjni - z braku poczucia bycia kochanym. To bardzo subiektywne uczucie, które trudno zrozumieć. Bo nawet jeśli są otoczeni troską swoich bliskich, nie widzą sensu, tracą nadzieję.</description>
+      <pubDate>Sat, 11 Jul 2026 04:34:00 GMT</pubDate>
+      <guid isPermaLink="false">566320e9bdc9</guid>
+      <source url="https://tvn24.pl/zdrowie/audioserial-niepokochani-nie-tylko-o-samobojstwach-o-milosci-i-jej-braku-st9137317?source=rss">TVN24</source>
     </item>
     <item>
-      <title>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66bbdd7828c6</link>
-      <description>Comments</description>
-      <pubDate>Fri, 10 Jul 2026 18:29:19 GMT</pubDate>
-      <guid isPermaLink="false">66bbdd7828c6</guid>
-      <source url="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf">Hacker News</source>
+      <title>Listy z Auschwitz trafiły do sprzedawcy monet. Nie oddał ich nawet za 200 tysięcy złotych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/184cd7dbe8dc</link>
+      <description>Przypadkiem stał się właścicielem blisko stu listów i pocztówek po lekarzu więzionym przez nazistów. Za korespondencję Jana Nowaka oferowano mu nawet 200 tysięcy złotych. Właściciel krakowskiego salonu numizmatycznego nie sprzedał jednak zbioru. Postanowił przekazać kolekcję muzeom Auschwitz i na Majdanku. Dlaczego?</description>
+      <pubDate>Sat, 11 Jul 2026 04:26:48 GMT</pubDate>
+      <guid isPermaLink="false">184cd7dbe8dc</guid>
+      <source url="https://tvn24.pl/krakow/listy-jana-nowaka-z-auschwitz-i-majdanka-trafily-do-sprzedawcy-monet-mogl-je-sprzedac-odda-do-muzeum-st9131054?source=rss">TVN24</source>
     </item>
     <item>
-      <title>New York City to become first in US to ban deceptive subscription practices</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3bdd4de3beb1</link>
-      <description>Rule from Mamdani administration bans companies from trapping customers into paying recurring charges and also targets ‘junk fees’</description>
-      <pubDate>Fri, 10 Jul 2026 18:26:24 GMT</pubDate>
-      <guid isPermaLink="false">3bdd4de3beb1</guid>
-      <source url="https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban">Hacker News</source>
+      <title>Morderstwo prawicowej polityk w Wielkiej Brytanii. Policja zwolniła zatrzymanego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/340808328150</link>
+      <description>Nie ma przesłanek, by zakładać, że zbrodnia miała podłoże polityczne - tak brytyjska policja mówi o morderstwie Ann Widdecombe. 76-letnia była polityk Partii Konserwatywnej, Brexit Party, a ostatnio - Reform UK - została znaleziona martwa w czwartek rano. W piątek w związku ze zbrodnią został zatrzymany 26-latek.</description>
+      <pubDate>Sat, 11 Jul 2026 04:24:00 GMT</pubDate>
+      <guid isPermaLink="false">340808328150</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-morderstwo-prawicowej-polityk-w-wielkiej-brytanii-policja-zw,nIdn,1009597">RMF24</source>
     </item>
     <item>
-      <title>Donald Trump o &quot;planie zamachu&quot; na niego. &quot;Jestem na liście&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bcbf6a00a928</link>
-      <description>Byłem numerem jeden od długiego czasu i takie jest życie - powiedział w piątek Donald Trump w rozmowie z &quot;New York Post&quot;. Prezydent USA powtórzył w ten sposób przekonanie, że znajduje się na liście osób, które Iran chce &quot;wyeliminować&quot;. Zaprzeczył jednak, że to Izrael go przed tym ostrzegał.</description>
-      <pubDate>Fri, 10 Jul 2026 18:22:35 GMT</pubDate>
-      <guid isPermaLink="false">bcbf6a00a928</guid>
-      <source url="https://tvn24.pl/swiat/donald-trump-o-planie-zamachu-na-niego-jestem-na-liscie-iranu-st9137637?source=rss">TVN24</source>
+      <title>Burza po słowach Jarosława Kaczyńskiego, napaść na policjantów w Warszawie, ukraińskie ataki na rosyjskie rafinerie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22f36930001d</link>
+      <description>Prezes PiS Jarosław Kaczyński wywołał oburzenie swoim komentarzem na temat funkcjonariuszy policji. Ukraińska armia przeprowadziła nalot na rosyjskie tankowce floty cieni, rafinerię w Kraju Krasnodarskim i terminal naftowy w Taganrogu. W Warszawie zaatakowani zostali policjanci z Centralnego Biura Zwalczania Cyberprzestępczości. Oto pięć rzeczy, które warto wiedzieć w sobotę 11 lipca.</description>
+      <pubDate>Sat, 11 Jul 2026 04:22:03 GMT</pubDate>
+      <guid isPermaLink="false">22f36930001d</guid>
+      <source url="https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-sobote-11-lipca-najwazniejsze-informacje-st9137755">TVN24</source>
     </item>
     <item>
-      <title>Man pulls wheelies then throws electric motorbike off bridge after police chase</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f6c3e92fce3e</link>
-      <description>Owen Pendree was sentenced to 12 months and has been banned from driving after his &quot;stupid&quot; actions.</description>
-      <pubDate>Fri, 10 Jul 2026 18:17:47 GMT</pubDate>
-      <guid isPermaLink="false">f6c3e92fce3e</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cx2xd555levo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Spain battles to contain one of its deadliest wildfires as at least 12 killed</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/71aa08afbaa1</link>
+      <description>At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.</description>
+      <pubDate>Sat, 11 Jul 2026 04:06:56 GMT</pubDate>
+      <guid isPermaLink="false">71aa08afbaa1</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Pepco sfinalizowało sprzedaż Dealz Poland. Koniec z artykułami spożywczymi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b2ed654ca6b7</link>
-      <description>Pepco Group sfinalizowało wcześniej zapowiadaną sprzedaż Dealz Poland na rzecz Modella Acquisition Co 17 Limited, podmiotu powiązanego z Modella Capital - poinformowało Pepco Group w komunikacie. Finalizacja nastąpiła po uzyskaniu przez Modella Capital zgody antymonopolowej od UOKiK.</description>
-      <pubDate>Fri, 10 Jul 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="false">b2ed654ca6b7</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Pepco-Group-sfinalizowalo-sprzedaz-Dealz-Poland-na-rzecz-Modella-Capital-9166734.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Palenie kościołów i makabryczne mordy. Dziś rocznica „krwawej niedzieli”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/640708f238d8</link>
+      <description>11 lipca 1943 oddziały partyzanckie ukraińskich nacjonalistów wspierane przez część ludności cywilnej zaatakowały miejscowości na Wołyniu i zamordowały mieszkających tam Polaków. Tzw. krwawa niedziela była punktem kulminacyjnym zbrodni wołyńskiej. 11 lipca to Narodowy Dzień Pamięci Ofiar Ludobójstwa dokonanego przez ukraińskich nacjonalistów na obywatelach II Rzeczypospolitej Polskiej.</description>
+      <pubDate>Sat, 11 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">640708f238d8</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-palenie-kosciolow-i-makabryczne-mordy-dzis-rocznica-krwawej-,nIdn,1009468">RMF24</source>
     </item>
     <item>
-      <title>Czy Żydzi czują się bezpiecznie w USA? Niektórzy ze strachu zdejmują jarmułki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c83f1fdee05</link>
-      <description>Czy dorośli Żydzi żyjący w Stanach Zjednoczonych czują się bezpiecznie? Jak wynika z sondażu pracowni AP/NORC, tamtejsza diaspora jest wyraźnie podzielona w tej sprawie. Tamtejsza diaspora jest jednak względnie zgodna co do jednego – od czasu ataku Hamasu na Izrael w październiku 2023 r. ich bezpieczeństwo się pogorszyło. Tak zadeklarowało 62 proc. respondentów.</description>
-      <pubDate>Fri, 10 Jul 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="false">6c83f1fdee05</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-czy-zydzi-czuja-sie-bezpiecznie-w-usa-niektorzy-ze-strachu-z,nIdn,1009579">RMF24</source>
+      <title>Cooler for some this weekend but heatwave continues</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25b1542fb382</link>
+      <description>The sizzling heat continues into next week despite a drop in temperatures over the weekend.</description>
+      <pubDate>Sat, 11 Jul 2026 03:59:23 GMT</pubDate>
+      <guid isPermaLink="false">25b1542fb382</guid>
+      <source url="https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Watch: What links a bomb in Monaco and a shooting in Ukraine?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/731df902abe1</link>
-      <description>A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.</description>
-      <pubDate>Fri, 10 Jul 2026 18:04:39 GMT</pubDate>
-      <guid isPermaLink="false">731df902abe1</guid>
-      <source url="https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Google odpala petardę. Gemini Plus i Pro na trzy miesiące za grosze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8fb1da15e66e</link>
+      <description>Google rzuca promocjami na pakiety AI. Teraz Gemini Plus i Pro można wykupić na trzy miesiące za grosze.</description>
+      <pubDate>Sat, 11 Jul 2026 03:45:19 GMT</pubDate>
+      <guid isPermaLink="false">8fb1da15e66e</guid>
+      <source url="https://antyweb.pl/google-odpala-petarde-gemini-plus-i-pro-na-trzy-miesiace-za-grosze">Antyweb</source>
     </item>
     <item>
-      <title>Play kasuje popularną ofertę. Mamy alternatywę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a73c3eff339c</link>
-      <description>W tej samej cenie 50 zł miesięcznie dostaniecie aż 500 GB transferu danych w ofercie na intrnet mobilny w Play.</description>
-      <pubDate>Fri, 10 Jul 2026 18:00:05 GMT</pubDate>
-      <guid isPermaLink="false">a73c3eff339c</guid>
-      <source url="https://antyweb.pl/internet-mobilny-play-limity-2026">Antyweb</source>
+      <title>Meta pulls new AI image feature after days of backlash</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f69625ba9ee0</link>
+      <description>Meta&apos;s release this week of an AI feature that let people alter Instagram content drew swift blowback.</description>
+      <pubDate>Sat, 11 Jul 2026 01:45:59 GMT</pubDate>
+      <guid isPermaLink="false">f69625ba9ee0</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Trump wydał rozkazy. „Mam nadzieję, że będziesz tęsknić”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9067ba708047</link>
-      <description>Były prezydent USA Donald Trump ujawnił w rozmowie z „New York Post”, że polecił wojsku przygotować się na bezprecedensowy atak na Iran w przypadku zamachu na jego życie. Zaprzeczył jednocześnie doniesieniom o ostrzeżeniach ze strony Izraela dotyczących irańskich planów.</description>
-      <pubDate>Fri, 10 Jul 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">9067ba708047</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-trump-wydal-rozkazy-mam-nadzieje-ze-bedziesz-tesknic,nIdn,1009581">RMF24</source>
+      <title>US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/73e0328c839a</link>
+      <description>Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.</description>
+      <pubDate>Sat, 11 Jul 2026 01:01:28 GMT</pubDate>
+      <guid isPermaLink="false">73e0328c839a</guid>
+      <source url="https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/">TechCrunch</source>
     </item>
     <item>
-      <title>Badania wykazały, że cofa stłuszczenie wątroby. Obiecujący wynik</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bda7082db280</link>
-      <description>Od lat cieszy się opinią jednego z najcenniejszych ziół wspierających organizm. Badania pokazują, że ostropest plamisty może korzystnie wpływać nie tylko na pracę wątroby, ale także na wybrane parametry metaboliczne i trawienie. Choć nie zastępuje leczenia, naukowcy wciąż odkrywają kolejne właściwości tej niepozornej rośliny.</description>
-      <pubDate>Fri, 10 Jul 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bda7082db280</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Badania-wykazaly-ze-cofa-stluszczenie-watroby-Obiecujacy-wynik,286576,11.html">Rynek Zdrowia</source>
+      <title>Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a2602deab0f4</link>
+      <description>Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.</description>
+      <pubDate>Sat, 11 Jul 2026 00:29:25 GMT</pubDate>
+      <guid isPermaLink="false">a2602deab0f4</guid>
+      <source url="https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/">TechCrunch</source>
     </item>
     <item>
-      <title>Linia produkcyjna, sypialnie dla pracowników i milion nielegalnych papierosów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a39616dd3b55</link>
-      <description>Służby zlikwidowały nielegalną fabrykę tytoniu. Wewnątrz zastali milion papierosów i ponad 1,6 tony tytoniu. Gang zajmujący się handlem nielegalnymi papierosami został rozbity. Pięć osób wpadło na gorącym uczynku.</description>
-      <pubDate>Fri, 10 Jul 2026 17:52:56 GMT</pubDate>
-      <guid isPermaLink="false">a39616dd3b55</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/mlawa-nielegalna-fabryka-tytoniu-zlikwidowana-pieciu-zatrzymanych-na-goracym-uczynku-st9137554?source=rss">TVN24</source>
+      <title>See if you can spot an AI deepfake with our test</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/30b5c9d907a6</link>
+      <description>Researchers in Aberdeen have been finding out if you can train people to identify computer-generated facial images.</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:55 GMT</pubDate>
+      <guid isPermaLink="false">30b5c9d907a6</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c9d2wgvg55jo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>War Atlas: An interactive cartography of every named war in human history</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/52ce544b752a</link>
-      <description>Explore 5,000 years of conflict on an interactive world map. 10,584 wars, 427 empire borders with shifting frontiers, casualty estimates with sources.</description>
-      <pubDate>Fri, 10 Jul 2026 17:52:48 GMT</pubDate>
-      <guid isPermaLink="false">52ce544b752a</guid>
-      <source url="https://waratlas.org/">Hacker News</source>
+      <title>Meta removes controversial AI feature on Instagram after backlash</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5fdf7a2e04f4</link>
+      <description>&quot;Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,&quot; the company said in a blog post. &quot;We&apos;ve heard the feedback that this feature missed the mark, so it&apos;s no longer available.&quot;</description>
+      <pubDate>Fri, 10 Jul 2026 23:55:07 GMT</pubDate>
+      <guid isPermaLink="false">5fdf7a2e04f4</guid>
+      <source url="https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/">TechCrunch</source>
     </item>
     <item>
-      <title>Turcja chce odsprzedać rosyjski system rakietowy, by kupić F-35 od USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f36aea067c8</link>
-      <description>Tureckie media poinformowały w piątek, że władze w Ankarze prowadzą negocjacje z Rosją w sprawie odsprzedaży rosyjskich systemów rakietowych S-400. Dziennik „Hurriyet” napisał, że Turcja chce w ten sposób przekonać USA, by zdjęły sankcje nałożone na Ankarę i docelowo sprzedały jej myśliwce F-35.</description>
-      <pubDate>Fri, 10 Jul 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="false">9f36aea067c8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Turcja-chce-odsprzedac-rosyjski-system-rakietowy-by-kupic-F-35-od-USA-9166722.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Could Andy Burnham scrap stamp duty?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d2050cda2481</link>
+      <description>Andy Burnham has spoken about reforming stamp duty and council tax - what do experts think he might do when he becomes PM?</description>
+      <pubDate>Fri, 10 Jul 2026 23:49:49 GMT</pubDate>
+      <guid isPermaLink="false">d2050cda2481</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c621jzex0gyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9070922ea5dd</link>
-      <description>Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.</description>
-      <pubDate>Fri, 10 Jul 2026 17:42:36 GMT</pubDate>
-      <guid isPermaLink="false">9070922ea5dd</guid>
-      <source url="https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/">TechCrunch</source>
+      <title>Chaos and confusion reign as Harry loses media battle</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5e498b460106</link>
+      <description>Team Sussex has had a bumpy last seven days in the UK, which was meant to focus on the Invictus Games.</description>
+      <pubDate>Fri, 10 Jul 2026 23:36:03 GMT</pubDate>
+      <guid isPermaLink="false">5e498b460106</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Hulajnogi elektryczne pod większą kontrolą. Jest decyzja władz Niemiec</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4506d415c250</link>
-      <description>Nowe przepisy, przyjęte przez niemiecki parlament, nakładają na operatorów wypożyczalni hulajnóg elektrycznych odpowiedzialność za szkody powstałe w wypadkach, gdy nie da się ustalić sprawcy zdarzenia. Chodzi o ułatwienie poszkodowanym dochodzenia odszkodowań.</description>
-      <pubDate>Fri, 10 Jul 2026 17:42:04 GMT</pubDate>
-      <guid isPermaLink="false">4506d415c250</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/niemcy-hulajnogi-elektryczne-pod-wieksza-kontrola-jest-decyzja-wladz-st9137552?source=rss">TVN24</source>
+      <title>Merino the unlikely hero again - as Spain wait for Lamine Yamal show</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/11ccb91eebb3</link>
+      <description>Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.</description>
+      <pubDate>Fri, 10 Jul 2026 23:29:52 GMT</pubDate>
+      <guid isPermaLink="false">11ccb91eebb3</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
