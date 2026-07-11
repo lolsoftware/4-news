@@ -1,0 +1,13 @@
+{
+  "id": "e010cc8fc2cb",
+  "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+  "originalTitle": "Otary – Image and Geometry Python Library Now Has Tutorials",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://alexandrepoupeau.com/otary/learn/",
+  "publishedAt": "2026-07-08T11:30:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-md-component=\"container\"> <main data-md-component=\"main\"> <div data-md-component=\"content\"> <article> <p>This part of the documentation contains examples of what you one can do with Otary.</p>\n<p>Those examples are just meant to help you understand how to use Otary and not to be a complete reference.\nJust explore and have fun with all the possibilities that Otary has to offer.</p>\n<p>Table of content:</p>\n<ul>\n<li>General Example<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/introduction/#image-and-geometry-at-once\">Image and Geometry at once</a></li>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/introduction/#advanced-image-manipulation\">Advanced Image Manipulation</a></li>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/introduction/#crop-image-efficiently\">Crop image efficiently</a></li>\n</ul>\n</li>\n<li>Crop before Loading Image<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/crop-before-load-img/\">Crop before Loading Image</a></li>\n</ul>\n</li>\n<li>Linear Entities Processing<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/linear-entities/#basic-example\">Basic Example</a></li>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/linear-entities/#relative-positioning\">Relative Positioning</a></li>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/linear-entities/#cardinal-direction\">Cardinal Direction</a></li>\n</ul>\n</li>\n<li>Scoring<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/scoring/\">Score Geometry entities</a></li>\n</ul>\n</li>\n<li>Area Computation<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/area-computation/\">Area Computation</a></li>\n</ul>\n</li>\n<li>Intersection of Geometric Objects<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/intersection/\">Intersection Computation</a></li>\n</ul>\n</li>\n<li>OCR<ul>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/ocr/#instantiation\">Instantiate your OcrMultiOutput</a></li>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/ocr/#displaying\">Displaying</a></li>\n<li><a href=\"https://alexandrepoupeau.com/otary/learn/ocr/#analysis\">Analysis</a></li>\n</ul>\n</li>\n</ul> </article> </div> </main> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
