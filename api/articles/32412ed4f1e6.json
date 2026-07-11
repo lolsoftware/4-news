@@ -1,0 +1,13 @@
+{
+  "id": "32412ed4f1e6",
+  "title": "Book: RISC-V System-on-Chip Design",
+  "originalTitle": "Book: RISC-V System-on-Chip Design",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+  "publishedAt": "2026-07-09T05:28:42.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-expanded=\"false\"> <p><span>RISC-V Microprocessor System-On-Chip Design</span><span> is written to be accessible to an advanced undergraduate audience with limited background. It explains concepts from operating systems, VLSI, and memory systems as necessary, and High school mathematics is sufficient preparation for most of the book, although the floating point and division chapters will be primarily of interest to those with a curiosity about computer arithmetic. Like Harris and Harris’s Digital Design and Computer Architecture textbooks, this book will appeal to students with easy-to-read and complete explanations, sidebars, and occasional humor and cartoons.<p>It comes with an open-source implementation and will include end-of-chapter problems to extend the RISC-V processor in various ways. Ancillary materials include a GitHub repository with complete open-source SystemVerilog code, validation code in C and assembly language, and code for benchmarking and booting Linux.</p></span></p><ul><li><span><span>Covers detailed design for all components of a nontrivial microprocessor</span></span></li><li><span><span>Provides detailed explanations on the implementation of RISC-V microprocessors</span></span></li><li><span><span>Uses open-source SystemVerilog code and test cases for the entire processor, including single-issue and superscalar cores, multicore, all extensions (including multiplication/division, floating point, and atomic memory operations), and common peripherals</span></span></li><li><span><span>Enables users to build scripts to implement the processor on the open-source Skywater process</span></span></li></ul>  </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
