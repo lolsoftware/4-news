@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 12 Jul 2026 19:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:09:17 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>193 tys. zachorowań. Liczba zgonów większa niż rozpoznań</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a4c83e39f4de</link>
+      <description>Rak płuca pozostaje najgroźniejszym nowotworem pod względem liczby zgonów. Mimo że odpowiada za stosunkowo niewielki odsetek wszystkich zachorowań, jego śmiertelność jest wyjątkowo wysoka. O skali problemu i niepokojących prognozach mówi prof. Maciej Krzakowski.</description>
+      <pubDate>Sun, 12 Jul 2026 22:59:00 GMT</pubDate>
+      <guid isPermaLink="false">a4c83e39f4de</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/193-tys-zachorowan-Liczba-zgonow-wieksza-niz-rozpoznan,285604,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>21 badań potwierdziło. Uderza w jelitach i skraca drogę cukrzycy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4e4c793369a3</link>
+      <description>Analiza badań klinicznych pokazuje, że sztuczne słodziki pogarszają gospodarkę glukozą i wrażliwość na insulinę. Naukowcy podejrzewają, że pośredniczy w tym oddziaływanie na mikrobiom.</description>
+      <pubDate>Sun, 12 Jul 2026 21:40:00 GMT</pubDate>
+      <guid isPermaLink="false">4e4c793369a3</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/21-badan-potwierdzilo-Uderza-w-jelitach-i-skraca-droge-cukrzycy,286593,11.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>5000 zł jeśli nie otworzysz drzwi. Nowe przepisy dla lokatorów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a1c188a41da5</link>
@@ -14,6 +30,23 @@
       <pubDate>Sun, 12 Jul 2026 21:01:00 GMT</pubDate>
       <guid isPermaLink="false">a1c188a41da5</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/5000-zl-jesli-nie-otworzysz-drzwi-Nowe-przepisy-dla-lokatorow,286592,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Media: USA zaatakowały cele wojskowe w Iranie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5fa12f809a79</link>
+      <description>Siły zbrojne USA przeprowadziły w niedzielę kilka uderzeń na irańskie systemy rakietowe i obrony przeciwlotniczej, a także na niewielkie łodzie Korpusu Strażników Rewolucji Islamskiej w kilku lokalizacjach w rejonie cieśniny Ormuz - podał serwis Axios, powołując się na źródło we władzach USA. O kolejnych atakach donosi też „Wall Street Journal”.</description>
+      <pubDate>Sun, 12 Jul 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="false">5fa12f809a79</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-media-usa-zaatakowaly-cele-wojskowe-w-iranie,nIdn,1009712">RMF24</source>
+    </item>
+    <item>
+      <title>Lato to czas na odchudzanie? Ekspertka: skorzystaj z możliwości – nie daj się pokusom</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7a217507ee5e</link>
+      <description>Każdy specjalista powie, że najcenniejsza jest dieta na lata… a nie na lato. Niemniej jednak, to właśnie w czasie tych wakacji i tuż po nich – chcielibyśmy być w swojej najlepszej formie. Słoneczne dni z wysokimi temperaturami mogą nam to ułatwić – to więcej okazji do ruchu, a upały często odbierają nam apetyt. 
+Dr Anna Kościej  dietetyczka z Wojskowego Szpitala Klinicznego w Krakowie – która gościła w wakacyjnym wydaniu podcastu  Marek Łabno „Lekarz Dyżurny” – podkreśliła, że nie bez znaczenia jest także to, że właśnie teraz możemy dosłownie przebierać w sezonowych owocach i warzywach… ale niestety - kuszą nas także lody, desery z bitą śmietaną i słodkie napoje.</description>
+      <pubDate>Sun, 12 Jul 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="false">7a217507ee5e</guid>
+      <source url="https://www.rmf24.pl/dieta-twoje-zdrowie-fm/news-wakacje-na-talerzu-czy-lato-sprzyja-zdrowej-diecie,nIdn,1009713">RMF24</source>
     </item>
     <item>
       <title>Najlepsza godzina na zjedzenie kolacji. Kilogramy polecą w dół</title>
@@ -24,12 +57,122 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Najlepsza-godzina-na-zjedzenie-kolacji-Kilogramy-poleca-w-dol,286591,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Tiny Emulators</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ec00079b40e1</link>
+      <description>Visual 6502 Remix</description>
+      <pubDate>Sun, 12 Jul 2026 20:23:05 GMT</pubDate>
+      <guid isPermaLink="false">ec00079b40e1</guid>
+      <source url="https://floooh.github.io/tiny8bit-preview/index.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Arthur Fery invites Prince George and Princess Charlotte to play tennis</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cebda0cc0b5c</link>
+      <description>The Princess of Wales congratulated Arthur Fery on his run to the semi-finals and wished him a happy birthday.</description>
+      <pubDate>Sun, 12 Jul 2026 20:20:38 GMT</pubDate>
+      <guid isPermaLink="false">cebda0cc0b5c</guid>
+      <source url="https://www.bbc.co.uk/news/articles/ckg7mxj41lro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>&quot;Odczłowieczające słowa&quot; Tadeusza Rydzyka o in vitro. Komentarze po przemówieniu na Jasnej Górze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f28ff18e1bd3</link>
+      <description>Przez minutę pojawiło się tyle kwestii krzywdzących, bolesnych, niesprawiedliwych, deprecjonujących - komentował &quot;W kuluarach&quot; w TVN24 Radomir Wit. Dziennikarze mówili o słowach ojca Rydzyka o in vitro i LGBT, które padły na Jasnej Górze. Patryk Michalski ocenił, że redemptorysta odczłowiecza tych, o których mówi.</description>
+      <pubDate>Sun, 12 Jul 2026 20:17:18 GMT</pubDate>
+      <guid isPermaLink="false">f28ff18e1bd3</guid>
+      <source url="https://tvn24.pl/polska/ojciec-tadeusz-rydzyk-o-in-vitro-na-jasnej-gorze-komentarze-st9139639?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Irish datacenters now guzzle 23% of the country&apos;s electricity</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cad321884f17</link>
+      <description>Consumption rose another 10% while restrictions on most new grid connections remained around Dublin</description>
+      <pubDate>Sun, 12 Jul 2026 20:16:12 GMT</pubDate>
+      <guid isPermaLink="false">cad321884f17</guid>
+      <source url="https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013">Hacker News</source>
+    </item>
+    <item>
+      <title>At least 27 killed in Bangkok bar fire, Thai authorities say</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9c874374e648</link>
+      <description>Firefighters arrived at the scene to find patrons running through blasting flames to escape.</description>
+      <pubDate>Sun, 12 Jul 2026 20:13:14 GMT</pubDate>
+      <guid isPermaLink="false">9c874374e648</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Sinner holds off Zverev to defend Wimbledon title</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/959a485d8ecd</link>
+      <description>Jannik Sinner underlines why he is the world&apos;s best player by holding off Alexander Zverev to win back-to-back Wimbledon men&apos;s singles titles.</description>
+      <pubDate>Sun, 12 Jul 2026 20:10:20 GMT</pubDate>
+      <guid isPermaLink="false">959a485d8ecd</guid>
+      <source url="https://www.bbc.co.uk/sport/tennis/articles/c78y2eqq317o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Fermentuje w jelitach. To dlatego brzuch robi się wielki i twardy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/863601a463fd</link>
       <description>Wiele osób uznaje ziołowe napary dla zdrowszą alternatywę dla kawy i herbaty. Jednak popularne zioła nie każdemu służą. Zdaniem ekspertów niektóre z nich u części osób mogą powodować silne wzdęcia, bóle brzucha i inne dolegliwości ze strony układu pokarmowego.</description>
       <pubDate>Sun, 12 Jul 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">863601a463fd</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Fermentuje-w-jelitach-To-dlatego-brzuch-robi-sie-wielki-i-twardy,286501,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Wypadek w Małopolsce. Sześć osób rannych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c2570f6c553d</link>
+      <description>Dwa samochody osobowe zderzyły się w niedzielę wieczorem w miejscowości Krosna w powiecie limanowskim (woj. małopolskie). Sześć osób zostało rannych.</description>
+      <pubDate>Sun, 12 Jul 2026 19:57:00 GMT</pubDate>
+      <guid isPermaLink="false">c2570f6c553d</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-wypadek-w-malopolsce-szesc-osob-rannych,nIdn,1009711">RMF24</source>
+    </item>
+    <item>
+      <title>Defining new Jax types with hijax</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/abbb805fc084</link>
+      <description>JAX’s built-in currency is the array: functions you transform take arrays in
+and produce arrays out, and every intermediate the tracing machinery sees has
+an array type like f32[3,4]. When you want to work with aggregate data, the
+usual tool is a
+pytree: you
+bundle arrays into containers, and JAX transparently flattens the bundle
+into its array leaves at every boundary.</description>
+      <pubDate>Sun, 12 Jul 2026 19:54:30 GMT</pubDate>
+      <guid isPermaLink="false">abbb805fc084</guid>
+      <source url="https://docs.jax.dev/en/latest/hijax_types.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Tragiczny pożar pubu w stolicy Tajlandii </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2e45c0c4a45</link>
+      <description>27 osób zginęło w pożarze, który wybuchł w w pubie w Bangkoku - przekazała agencja AP. Są też ranni.</description>
+      <pubDate>Sun, 12 Jul 2026 19:53:44 GMT</pubDate>
+      <guid isPermaLink="false">f2e45c0c4a45</guid>
+      <source url="https://tvn24.pl/swiat/tajlandia-w-pubie-wybuchl-pozar-zginelo-blisko-30-osob-st9139640?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Neocities: Create your own free website</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3cbfab01310c</link>
+      <description>Create and surf awesome websites for free.</description>
+      <pubDate>Sun, 12 Jul 2026 19:49:53 GMT</pubDate>
+      <guid isPermaLink="false">3cbfab01310c</guid>
+      <source url="https://neocities.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Pożar pubu w Tajlandii. Jest wiele ofiar</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b7b3b7f663c4</link>
+      <description>Co najmniej 27 osób zginęło w pożarze, który wybuchł w niedzielę w pubie w Bangkoku, stolicy Tajlandii.</description>
+      <pubDate>Sun, 12 Jul 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="false">b7b3b7f663c4</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-pozar-pubu-w-tajlandii-jest-wiele-ofiar,nIdn,1009710">RMF24</source>
+    </item>
+    <item>
+      <title>Najpierw burze, potem powrót upału. Prognoza zagrożeń IMGW</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b7cedc38d18a</link>
+      <description>IMGW wydał prognozę zagrożeń na kolejne dni. Meteorolodzy przewidują, że początek tygodnia w niektórych regionach będzie burzowy. Na horyzoncie widać też upały.</description>
+      <pubDate>Sun, 12 Jul 2026 19:40:11 GMT</pubDate>
+      <guid isPermaLink="false">b7cedc38d18a</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-burze-upal-tu-kolejne-dni-moga-byc-niebezpieczne-st9139605?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Włoska robota w Londynie. Sinner pozbawił Zvereva złudzeń</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0e528e298a38</link>
+      <description>Lider rankingu tenisistów Jannik Sinner obronił tytuł Wimbledonie. W finale pokonał rozstawionego z numerem drugim triumfatora French Open Niemca Alexandra Zvereva 6:7 (7-9), 7:6 (7-2), 6:3, 6:4. To piąte trofeum Wielkiego Szlema w karierze Włocha.</description>
+      <pubDate>Sun, 12 Jul 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="false">0e528e298a38</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-wloska-robota-w-londynie-sinner-pozbawil-zvereva-zludzen,nIdn,1009709">RMF24</source>
     </item>
     <item>
       <title>Śmierć wpływowego senatora. Rosną spekulacje, FBI „udostępniło wszelkie niezbędne zasoby”</title>
@@ -136,6 +279,28 @@
       <source url="https://www.bbc.co.uk/sport/cricket/articles/cqx15e27v3eo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>The One-Step Trap (In AI Research)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/74ab8f0715de</link>
+      <description>The appeal of this mistake is that it contains a grain of truth:
+      if all one-step predictions can be made with perfect accuracy,
+      then they can be used to make all longer-term prediction with
+      perfect accuracy. However, if the one-step predictions are not
+      perfectly accurate, then all bets are off. In practice, iterating
+      one-step predictions usually produces poor results. The one-step
+      errors compound and accumulate into large errors in the long-term
+      predictions. In addition, computing long-term predictions from
+      one-step ones is prohibitively computationally complex. In a
+      stochastic world, or for a stochastic policy, the future is not a
+      single trajectory, but a tree of possibilities, each of which must
+      be imagined and weighted by its probability. As a result, the
+      computational complexity of computing a long-term prediction from
+      one-step predictions is exponential in the length of the
+      prediction, and thus generally infeasible.</description>
+      <pubDate>Sun, 12 Jul 2026 18:41:15 GMT</pubDate>
+      <guid isPermaLink="false">74ab8f0715de</guid>
+      <source url="http://incompleteideas.net/IncIdeas/OneStepTrap.html">Hacker News</source>
+    </item>
+    <item>
       <title>Ludzie rzucili się na ziemię, kobieta osłoniła dziewczynkę. Nagle rozległ się potężny huk</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e99b99eaabd8</link>
       <description>Nagranie z monitoringu kawiarni znajdującej się w Sumach pokazuje, jak z perspektywy mieszkańca wyglądał sobotni atak Rosjan, w którym zginęło 5 osób, a 30 zostało rannych. Kamery uwieczniły, jak słysząc i widząc zbliżające się zagrożenie, ludzie próbują się schronić, uciekają, a niektórzy zaczynają krzyczeć.</description>
@@ -158,6 +323,14 @@
       <pubDate>Sun, 12 Jul 2026 18:25:51 GMT</pubDate>
       <guid isPermaLink="false">398431a5f118</guid>
       <source url="https://systima.ai/blog/claude-code-vs-opencode-token-overhead">Hacker News</source>
+    </item>
+    <item>
+      <title>I Learned to Read Again</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e7863f308e78</link>
+      <description>On the journey from books to screens and back</description>
+      <pubDate>Sun, 12 Jul 2026 18:22:15 GMT</pubDate>
+      <guid isPermaLink="false">e7863f308e78</guid>
+      <source url="https://substack.magazinenongrata.com/p/how-i-learned-to-read-again">Hacker News</source>
     </item>
     <item>
       <title>&apos;We have another level we can reach&apos; - Kane defends frustrated Tuchel</title>
@@ -232,6 +405,14 @@
       <source url="https://antyweb.pl/nowa-aplikacja-chatgpt-opinie">Antyweb</source>
     </item>
     <item>
+      <title>Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6340c21e25cd</link>
+      <description>We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here&apos;s the migration guide we wish we&apos;d had.</description>
+      <pubDate>Sun, 12 Jul 2026 17:13:07 GMT</pubDate>
+      <guid isPermaLink="false">6340c21e25cd</guid>
+      <source url="https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6">Hacker News</source>
+    </item>
+    <item>
       <title>Major incident declared in Wales as firefighters tackle wildfires across UK</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c2c285e420ad</link>
       <description>Residents near the Conwy fire have been evacuated, with at least 10 other fires across the UK this weekend.</description>
@@ -246,170 +427,6 @@
       <pubDate>Sun, 12 Jul 2026 17:00:03 GMT</pubDate>
       <guid isPermaLink="false">db6e54ec154b</guid>
       <source url="https://antyweb.pl/boli-cie-glowa-po-powrocie-z-supermarketu-powod-jest-zupelnie-inny-niz-myslisz">Antyweb</source>
-    </item>
-    <item>
-      <title>Website is served from a 200KB binary</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/25677b79d2bc</link>
-      <description>No libc. No VM. No runtime. The numbers below are read out of the process that is
-answering you right now ? not written into a template by hand.</description>
-      <pubDate>Sun, 12 Jul 2026 16:59:37 GMT</pubDate>
-      <guid isPermaLink="false">25677b79d2bc</guid>
-      <source url="https://200kb.freelang.dev/">Hacker News</source>
-    </item>
-    <item>
-      <title>LARP – Revenue infrastructure for serious founders</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5a859e76426e</link>
-      <description>Send them $10,000. They send you $10,000. You&apos;ve both booked $10,000 in revenue. Cash never moves. Everybody&apos;s a rocketship. (Satire.)</description>
-      <pubDate>Sun, 12 Jul 2026 16:56:41 GMT</pubDate>
-      <guid isPermaLink="false">5a859e76426e</guid>
-      <source url="https://www.larp.website/">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: Shirei, cross-platform GUI framework in native Go</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ecb9907c4735</link>
-      <description>Go based GUI framework: practical, immediate mode, flexbox model - hasenj/go-shirei</description>
-      <pubDate>Sun, 12 Jul 2026 16:55:42 GMT</pubDate>
-      <guid isPermaLink="false">ecb9907c4735</guid>
-      <source url="https://github.com/hasenj/go-shirei/">Hacker News</source>
-    </item>
-    <item>
-      <title>Automation Without Understanding</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f56a5a53af11</link>
-      <description>Two developments are unfolding at once: artificial intelligence systems have begun to produce genuine research-level mathematics, and the United States is weakening the pipeline that produces humans capable of understanding what such systems are doing. This essay argues that, taken together, these developments amount to a strategic error. Mathematical capacity, which is the trained ability to verify, interpret, and challenge mathematical reasoning, is not a byproduct of theorem production but a form of infrastructure, built over generations by institutions that cannot be reconstituted on demand. Drawing on the May 2026 AI disproof of a longstanding Erdős conjecture on the planar unit distance problem and on recent disruptions to federal support for the mathematical sciences, the essay makes the case for treating mathematical capacity as a strategic asset on a par with semiconductor capability. It further proposes, among other measures, that AI systems performing consequential reasoning be required to expose their decision-critical claims in formal, machine-checkable form, converting part of AI reasoning from opaque persuasion into auditable structure.</description>
-      <pubDate>Sun, 12 Jul 2026 16:54:47 GMT</pubDate>
-      <guid isPermaLink="false">f56a5a53af11</guid>
-      <source url="https://arxiv.org/abs/2607.06377">Hacker News</source>
-    </item>
-    <item>
-      <title>Fiasko rozmów ambasadorów UE ws. sankcji na Rosję. Czasu jest coraz mniej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/114d08aeb592</link>
-      <description>Ambasadorom państw Unii Europejskiej nie udało się dziś uzgodnić 21. pakietu sankcji wobec Rosji. Jutro w Brukseli sprawą zajmą się ministrowie spraw zagranicznych, którzy mają nadać polityczny impuls negocjacjom. Czasu jest jednak bardzo mało. Już 15 lipca automatycznie zmieni się limit cenowy na rosyjską ropę, co w praktyce oznaczałoby złagodzenie jednego z najważniejszych elementów sankcji wobec Kremla.</description>
-      <pubDate>Sun, 12 Jul 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="false">114d08aeb592</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-fiasko-rozmow-ambasadorow-ue-ws-sankcji-na-rosje-czasu-jest-,nIdn,1009700">RMF24</source>
-    </item>
-    <item>
-      <title>UE szykuje nowe sankcje na Rosję w związku z więzieniem ukraińskich cywilów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/93e5c63ad36e</link>
-      <description>W poniedziałek szefowie dyplomacji państw Unii Europejskiej mają nałożyć nowe sankcje na Rosję. Jak przekazała irlandzka prezydencja w Radzie UE, decyzja ma związek z przetrzymywaniem przez Moskwę ukraińskich cywilów i jeńców wojennych.</description>
-      <pubDate>Sun, 12 Jul 2026 16:31:16 GMT</pubDate>
-      <guid isPermaLink="false">93e5c63ad36e</guid>
-      <source url="https://tvn24.pl/swiat/unia-europejska-szykuje-nowe-sankcje-na-rosje-w-zwiazku-z-wiezieniem-ukrainskich-cywilow-st9139565?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Jak piorun niszczy serce? Dlaczego buty wybuchają? Przełomowe badania po tragedii na Giewoncie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/346af7661235</link>
-      <description>Ubrania na ludziach się paliły, buty wybuchały, a wokoło jak pociski latały duże odłamki skał. Takie sceny miały miejsce na Giewoncie w sierpniu 2019 r., kiedy piorun poraził grupę osób. Polscy naukowcy zbadali, jak taki masowy wypadek odbija się na zdrowiu pacjentów. :Trafiło do nas ponad 100 osób rażonych tym samym piorunem, dysponowaliśmy więc unikatowymi w skali świata danymi” -  mówi lekarz i ratownik TOPR dr Sylweriusz Kosiński. Dzięki badaniom jego zespołu można przygotować nowe wytyczne dla SOR-ów i ratowników na całym świecie.</description>
-      <pubDate>Sun, 12 Jul 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">346af7661235</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-jak-piorun-niszczy-serce-dlaczego-buty-wybuchaja-przelomowe-,nIdn,1009699">RMF24</source>
-    </item>
-    <item>
-      <title>The European Oligarchy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b2cb4ef2ec43</link>
-      <description>This is the face of the European Oligarchy.
-Yes, Roberta Metsola is the face of the European Oligarchy.
-“Oligarchy” is one of the most feared words in the high circles of European institutions: oligarchs are in Russia, oligarchs are in the UAE, but oligarchs are also in Europe.
-In particular the leaders of the European Parliament, of the European Commission and of the Court of Justice: they are, as typical of oligarchs, a small number, with great unbalanced power that is used to bend the rules to their liking, in order to extract as much power and influence as possible.</description>
-      <pubDate>Sun, 12 Jul 2026 16:23:19 GMT</pubDate>
-      <guid isPermaLink="false">b2cb4ef2ec43</guid>
-      <source url="https://rocketup.pages.dev/posts/the-european-oligrachy/">Hacker News</source>
-    </item>
-    <item>
-      <title>Andrew Flintoff&apos;s Top Gear crash passenger sues BBC Studios</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/79ead8f87b3d</link>
-      <description>Expert driver Paul Rees is claiming personal injury, which BBC Studios is disputing.</description>
-      <pubDate>Sun, 12 Jul 2026 16:11:20 GMT</pubDate>
-      <guid isPermaLink="false">79ead8f87b3d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c4gy59p5gz6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: A robotaxi ultimatum</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/53d7e1ab3423</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.</description>
-      <pubDate>Sun, 12 Jul 2026 16:07:00 GMT</pubDate>
-      <guid isPermaLink="false">53d7e1ab3423</guid>
-      <source url="https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Theo de Raadt: &quot;You&apos;ve been smoking something mind altering&quot; (2007)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b57077029a6d</link>
-      <description>Comments</description>
-      <pubDate>Sun, 12 Jul 2026 16:05:29 GMT</pubDate>
-      <guid isPermaLink="false">b57077029a6d</guid>
-      <source url="https://marc.info/?l=openbsd-misc&amp;m=119318909016582">Hacker News</source>
-    </item>
-    <item>
-      <title>Ogień na chorwackim wybrzeżu. Ranni strażacy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc6300a33c77</link>
-      <description>Na chorwackiej wyspie Korczula trwa walka z dużym pożarem lasu. Do akcji skierowano ponad 200 strażaków oraz samoloty gaśnicze. Dwóch strażaków zostało rannych.</description>
-      <pubDate>Sun, 12 Jul 2026 16:00:16 GMT</pubDate>
-      <guid isPermaLink="false">bc6300a33c77</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/chorwacja-ogien-na-wybrzezu-ranni-strazacy-st9139548?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nie tylko Lightroom. Te programy też świetnie radzą sobie z RAW-ami</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/48b66213fd7e</link>
-      <description>Pliki RAW dają dużą swobodę obróbki, ale trzeba je „wywołać” w odpowiednim programie. Lightroom, Capture One, DxO PhotoLab, Affinity, Darktable, RawTherapee, Photoshop z Adobe Camera Raw i aplikacje producentów aparatów różnią się między sobą, ale jedno jest pewne – jest w czym wybierać i nie za wszystko trzeba płacić.</description>
-      <pubDate>Sun, 12 Jul 2026 16:00:07 GMT</pubDate>
-      <guid isPermaLink="false">48b66213fd7e</guid>
-      <source url="https://antyweb.pl/w-jakim-programie-edytowac-pliki-raw">Antyweb</source>
-    </item>
-    <item>
-      <title>Why study Diophantine equations?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fb6b5f50906f</link>
-      <description>February 10, 2026</description>
-      <pubDate>Sun, 12 Jul 2026 15:53:53 GMT</pubDate>
-      <guid isPermaLink="false">fb6b5f50906f</guid>
-      <source url="https://hidden-phenomena.com/articles/modular">Hacker News</source>
-    </item>
-    <item>
-      <title>How to Read More Books</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9db353967a4e</link>
-      <description>My method for reading more</description>
-      <pubDate>Sun, 12 Jul 2026 15:47:16 GMT</pubDate>
-      <guid isPermaLink="false">9db353967a4e</guid>
-      <source url="https://scotto.me/blog/2026-07-12-how-to-read-more-books/">Hacker News</source>
-    </item>
-    <item>
-      <title>Duży pożar na chorwackiej Korczuli. 200 strażaków i samoloty w akcji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dd03c7db84d8</link>
-      <description>Na niezwykle popularnej wśród turystów chorwackiej wyspie Korczula trwa walka z ogniem. Ponad 200 strażaków, wspieranych przez dziesiątki wozów oraz samoloty gaśnicze, od sobotniego popołudnia próbuje opanować rozległy pożar w okolicach miejscowości Blato i Smokvica -przekazał dziennik „Jutarnji list”. Władze apelują o ostrożność i zalecają unikanie niektórych tras.</description>
-      <pubDate>Sun, 12 Jul 2026 15:39:00 GMT</pubDate>
-      <guid isPermaLink="false">dd03c7db84d8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-duzy-pozar-na-chorwackiej-korczuli-200-strazakow-i-samoloty-,nIdn,1009698">RMF24</source>
-    </item>
-    <item>
-      <title>The power of collaboration: How we can reduce traffic congestion</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c5c1b5d6c5b2</link>
-      <description>Vehicle transportation underpins much of modern life, enabling the movement of goods and people, productivity, and economic growth. However, the costs are high: drivers spend an average of 2.6 years of their life on the road, and private cars and vans now account for around 10% of global CO2 emissions. Hence, the efficient use of transportation networks is of paramount importance. Can road traffic routing be managed system-wide the way aviation manages airspace or the internet routes data packets? While ground transportation has historically lacked a physical control tower, digital platforms offer a powerful glimpse into a more coordinated future.</description>
-      <pubDate>Sun, 12 Jul 2026 15:35:36 GMT</pubDate>
-      <guid isPermaLink="false">c5c1b5d6c5b2</guid>
-      <source url="https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/">Hacker News</source>
-    </item>
-    <item>
-      <title>The shingles vaccine may reduce the risk of dementia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/438670f373aa</link>
-      <description>Comments</description>
-      <pubDate>Sun, 12 Jul 2026 15:23:59 GMT</pubDate>
-      <guid isPermaLink="false">438670f373aa</guid>
-      <source url="https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain">Hacker News</source>
-    </item>
-    <item>
-      <title>David Willey, esteemed BBC Vatican correspondent, dies aged 93</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d1a5d46cbbb</link>
-      <description>One of the BBC&apos;s longest-serving foreign correspondents, he reported on five popes during his career.</description>
-      <pubDate>Sun, 12 Jul 2026 15:22:52 GMT</pubDate>
-      <guid isPermaLink="false">9d1a5d46cbbb</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Don&apos;t You Mean Extinct?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bdfb1ef18e23</link>
-      <description>Jul 10, 2026</description>
-      <pubDate>Sun, 12 Jul 2026 15:17:20 GMT</pubDate>
-      <guid isPermaLink="false">bdfb1ef18e23</guid>
-      <source url="https://fabiensanglard.net/extinct/index.html">Hacker News</source>
     </item>
   </channel>
 </rss>
