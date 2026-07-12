@@ -1,0 +1,13 @@
+{
+  "id": "25677b79d2bc",
+  "title": "Website is served from a 200KB binary",
+  "originalTitle": "Website is served from a 200KB binary",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://200kb.freelang.dev/",
+  "publishedAt": "2026-07-12T16:59:37.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<h2>This page was served from a native binary.</h2>\n<p>No libc. No VM. No runtime. The numbers below are read out of the process that is\nanswering you right now ? not written into a template by hand.</p>\n<table><tbody><tr><td>binary</td><td><code>190207 bytes</code></td></tr><tr><td>linked libraries</td><td><code>none</code></td></tr><tr><td>this worker (pid)</td><td><code>160258</code></td></tr><tr><td>heap high-water</td><td><code>67108696 bytes</code></td></tr><tr><td>uptime</td><td><code>6173s</code></td></tr></tbody></table>\n<p>Reload it. The pid changes: there are several worker processes, and the\nkernel hands the connection to whichever one is free.</p>\n<p>\"High-water\" is the honest word: the collector is non-moving, so it recycles\nmemory <em>below</em> that frontier through a free list rather than handing it back. The\nnumber stops climbing ? it does not fall. This server has served 20,000 requests with a\nflat footprint; before the collector was rewritten it died at 828.</p>\n\n<h2>What it is</h2>\n<p>An AOT systems language that lowers straight to x86-64. World failures are\n<em>data</em> you match on; broken invariants kill the program on the spot. There is no\nhidden recovery path, because there is no recovery path.</p>\n<p><a href=\"https://200kb.freelang.dev/chaos\">See a failure modelled as data ?</a></p>\n\n</div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
