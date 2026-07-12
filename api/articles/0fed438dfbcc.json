@@ -1,0 +1,13 @@
+{
+  "id": "0fed438dfbcc",
+  "title": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+  "originalTitle": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://satteri.bruits.org/",
+  "publishedAt": "2026-07-07T21:09:08.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><div><h2>A Markdown pipeline <span>forged in Rust</span> for the <span>JavaScript world</span>.</h2><p>Sätteri puts flexible JavaScript plugins on top of a fast Rust Markdown / MDX engine.<br>Best of both worlds.</p><div><p><a href=\"https://satteri.bruits.org/docs/quick-start/\">Get started</a><a href=\"https://github.com/bruits/satteri\">View on GitHub</a></p></div></div><div id=\"demo\"><div><div><h2>Try it.</h2><p>Live in your browser via WASM. Edit on the left, render on the right.</p></div><div id=\"demo-status\"><p>compiled in <span id=\"demo-stat\">—</span></p><p>≈ <span id=\"demo-docs-per-sec\">—</span> docs/sec on this machine</p></div></div><div><div><p><label for=\"demo-input\">Markdown</label></p><div><pre id=\"demo-highlight\"><code></code></pre></div></div><div><h3>Rendered HTML</h3></div></div><p>Plugins, MDX, and AST inspection in the <a href=\"https://satteri.bruits.org/playground/\">full playground</a>.</p></div></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
