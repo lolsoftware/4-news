@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 13 Jul 2026 18:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:52:31 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Darmowe remedium. Pobudza jelita do pracy</title>
@@ -32,12 +32,55 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/26-osob-na-jedno-miejsce-Kolejna-uczelnia-podala-prog-punktowy-na-medycyne,286631,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Agencja ONZ sprzeciwia się pomysłowi Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dc6f2d2f5791</link>
+      <description>Międzynarodowa Organizacja Morska (IMO) skrytykowała zapowiedź prezydenta USA Donalda Trumpa w sprawie cieśniny Ormuz.</description>
+      <pubDate>Mon, 13 Jul 2026 19:33:28 GMT</pubDate>
+      <guid isPermaLink="false">dc6f2d2f5791</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/agencja-onz-sprzeciwia-sie-pomyslowi-trumpa-st9141142?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Wspaniała promocja na Spotify. Do 5 miesięcy za darmo</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c493930bd92c</link>
+      <description>W bardzo łatwy sposób można zdobyć Spotify Premium za darmo. Oto, co należy zrobić.</description>
+      <pubDate>Mon, 13 Jul 2026 19:31:48 GMT</pubDate>
+      <guid isPermaLink="false">c493930bd92c</guid>
+      <source url="https://antyweb.pl/wspaniala-promocja-na-spotify-do-5-miesiecy-za-darmo">Antyweb</source>
+    </item>
+    <item>
+      <title>Przełom w badaniach dna oceanicznego. Naukowcy odkryli 73 podwodne wulkany</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8825f99df803</link>
+      <description>Pod powierzchnią oceanów kryją się nie tylko tajemnicze stworzenia, ale również potężne siły natury, o których istnieniu nie mieliśmy pojęcia. Zespół naukowców z Francji, wspomagany przez sztuczną inteligencję, odkrył aż 73 nieznane dotąd wulkaniczne kaldery na dnie oceanów. To przełomowe znalezisko może mieć ogromne znaczenie dla bezpieczeństwa ludzi na całym świecie.</description>
+      <pubDate>Mon, 13 Jul 2026 19:25:00 GMT</pubDate>
+      <guid isPermaLink="false">8825f99df803</guid>
+      <source url="https://www.rmf24.pl/fakty/nauka/news-przelom-w-badaniach-dna-oceanicznego-naukowcy-odkryli-73-pod,nIdn,1009846">RMF24</source>
+    </item>
+    <item>
       <title>&quot;Trzeba zrobić tak, żeby syfu nie było&quot;. Naczelna Izba Lekarska sprawdza lekarza ze Szpitala Południowego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0f5b41cf1d82</link>
       <description>Naczelna Izba Lekarska wszczęła czynności w sprawie patomorfologa z Warszawskiego Szpitala Południowego. Złożyła też w jego sprawie zawiadomienie do Naczelnego Rzecznika Odpowiedzialności Zawodowej - poinformowała rzeczniczka NIL Iwona Kania.</description>
       <pubDate>Mon, 13 Jul 2026 19:16:00 GMT</pubDate>
       <guid isPermaLink="false">0f5b41cf1d82</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Trzeba-zrobic-tak-zeby-syfu-nie-bylo-Naczelna-Izba-Lekarska-sprawdza-lekarza-ze-Szpitala-Poludniowego,286632,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Morska blokada Iranu: Amerykanie podali szczegóły</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a4427d790db6</link>
+      <description>Siły USA na Bliskim Wschodzie rozpoczną egzekwowanie ogłoszonej przez prezydenta Donalda Trumpa powtórnej blokady Iranu od godz. 22 czasu polskiego we wtorek. Taką informacje przekazało Dowództwo Centralne USA (CENTCOM). Blokada będzie dotyczyć statków wypływających i wpływających do irańskich portów. Wciąż nie wiadomo jednak, w jaki sposób Amerykanie chcą pobierać opłaty za tranzyt od statków, co również zapowiedział prezydent USA.</description>
+      <pubDate>Mon, 13 Jul 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="false">a4427d790db6</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-morska-blokada-iranu-amerykanie-podali-szczegoly,nIdn,1009845">RMF24</source>
+    </item>
+    <item>
+      <title>TFTP Honey Pot Results</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/404ddbe45e59</link>
+      <description>My TFTP honey pot
+has been running for over a month, continuously on my $5 a month VPS,
+and intermittently on my Dell R530 home server.
+It’s time to see what surprises it has captured.</description>
+      <pubDate>Mon, 13 Jul 2026 19:11:17 GMT</pubDate>
+      <guid isPermaLink="false">404ddbe45e59</guid>
+      <source url="https://bruceediger.com/posts/tftp-honeypot-results/">Hacker News</source>
     </item>
     <item>
       <title>Zmiany w przyznawaniu renty. Wejdą w życie od 2027 roku</title>
@@ -48,6 +91,54 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zmiany-w-przyznawaniu-renty-Wejda-w-zycie-od-2027-roku,286627,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Brakuje paliwa, prądu, łączności i turystów. Pokłosie ataków Ukrainy </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4f34af1dd161</link>
+      <description>Mieszkańcy Krymu skarżą się na braki paliwa, przerwy w dostawach prądu i łączności, a sezon turystyczny zamarł - pisze portal Radia Swoboda.</description>
+      <pubDate>Mon, 13 Jul 2026 19:05:31 GMT</pubDate>
+      <guid isPermaLink="false">4f34af1dd161</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/brakuje-paliwa-pradu-lacznosci-i-turystow-poklosie-atakow-ukrainy-st9141094?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Ponowny wniosek o ENA dla Ziobry? Przymusiński: może być złożony, gdyby zmieniły się okoliczności</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a703aeab664</link>
+      <description>Ponowny wniosek o Europejski Nakaz Aresztowania wobec Zbigniewa Ziobry może być złożony, gdyby zmieniły się okoliczności - ocenił w &quot;Faktach po Faktach&quot; w TVN24 Bartłomiej Przymusiński, prezes Stowarzyszenia Sędziów Polskich &quot;Iustitia&quot;.</description>
+      <pubDate>Mon, 13 Jul 2026 19:00:07 GMT</pubDate>
+      <guid isPermaLink="false">8a703aeab664</guid>
+      <source url="https://tvn24.pl/polska/ponowny-wniosek-o-ena-dla-zbigniewa-ziobry-bartlomiej-przymusinski-bez-zmiany-okolicznosci-moze-nie-spowodowac-zmiany-sytuacji-st9141091?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>US judge voids Donald Trump&apos;s $1.8bn settlement with IRS that gave him immunity from tax audits </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/71403ec9f4f6</link>
+      <description>The judge said the suit was brought for &apos;improper purposes&apos; and referred a Trump attorney for possible disciplinary action.</description>
+      <pubDate>Mon, 13 Jul 2026 18:52:46 GMT</pubDate>
+      <guid isPermaLink="false">71403ec9f4f6</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Węgierski parlament przyjął poprawkę do konstytucji. Ultimatum dla prezydenta</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/84c43486463c</link>
+      <description>Węgierski parlament przyjął poprawkę do konstytucji, która ma doprowadzić do usunięcia z funkcji prezydenta Tamasa Sulyoka. Jak zapowiadał premier Peter Magyar, jeżeli prezydent nie podpisze nowelizac</description>
+      <pubDate>Mon, 13 Jul 2026 18:46:36 GMT</pubDate>
+      <guid isPermaLink="false">84c43486463c</guid>
+      <source url="https://tvn24.pl/polska/wegierski-parlament-przyjal-poprawke-do-konstytucji-ultimatum-dla-prezydenta-st9141130?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Putin zapowiada: Będziemy zmuszeni odpowiedzieć z większą siłą</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dcba690a10fa</link>
+      <description>sfsffsf</description>
+      <pubDate>Mon, 13 Jul 2026 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">dcba690a10fa</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-putin-zapowiada-bedziemy-zmuszeni-odpowiedziec-z-wieksza-sil,nIdn,1009838">RMF24</source>
+    </item>
+    <item>
+      <title>Pies przeszedł 140 kilometrów po tatrzańskich szlakach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc15e12fc9e8</link>
+      <description>Bezpański pies wędrował po Tatrach Wysokich. Jak przekazały słowackie media, od końca czerwca zwierzę mogło przejść co najmniej 140 kilometrów. W górach może znajdować się jeszcze jeden pies.</description>
+      <pubDate>Mon, 13 Jul 2026 18:41:43 GMT</pubDate>
+      <guid isPermaLink="false">cc15e12fc9e8</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/slowacja-pies-wedrowal-140-kilometrow-po-tatrzanskich-szlakach-st9141092?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Referendum w ZUS: 97 proc. głosujących poparło strajk. Zakład uważa, że jest bezprzedmiotowe</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1064fb2bc28d</link>
       <description>Ponad 21 tys. osób, czyli ok. 97 proc. głosujących w referendum pracowników ZUS opowiedziało się za strajkiem - poinformował przewodniczący Związkowej Alternatywy Piotr Szumlewicz. Chodzi o postulowany wzrost wynagrodzeń zasadniczych o 1200 zł. - Referendum ws. strajku jest bezprzedmiotowe - ocenił rzecznik ZUS Karol Poznański.</description>
@@ -56,12 +147,92 @@
       <source url="https://www.bankier.pl/wiadomosc/Referendum-w-ZUS-97-proc-glosujacych-poparlo-strajk-Zaklad-uwaza-ze-jest-bezprzedmiotowe-9167577.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Thunderbird Desktop settings research: what we learned from your feedback</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8cd0dd2915f3</link>
+      <description>Quick overview of the insights gathered from interviewing 10 users about how they manage preferences and configurations in Thunderbird desktop.</description>
+      <pubDate>Mon, 13 Jul 2026 18:33:47 GMT</pubDate>
+      <guid isPermaLink="false">8cd0dd2915f3</guid>
+      <source url="https://blog.thunderbird.net/2026/07/desktopsettings/">Hacker News</source>
+    </item>
+    <item>
+      <title>The real prices of frontier models. Tokens * Price, right?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0506b502ea58</link>
+      <description>If you build with an AI coding agent, your workload is basically TypeScript - and that&apos;s exactly where the model tokenizer gap is widest. The same TypeScript file becomes 1,178 tokens on Claude&apos;s newest tokenizer versus 681 on GPT-5.x&apos;s o200k: 1.73x more, before a cent of price difference. We measured every frontier tokenizer to show why $/Mtok is not a comparable price.</description>
+      <pubDate>Mon, 13 Jul 2026 18:32:27 GMT</pubDate>
+      <guid isPermaLink="false">0506b502ea58</guid>
+      <source url="https://playcode.io/blog/real-price-of-frontier-models">Hacker News</source>
+    </item>
+    <item>
+      <title>Czy Michał Kobosko czuje się &quot;żulikiem&quot;? &quot;To już nasi widzowie muszą ocenić&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bb8f994b7eee</link>
+      <description>&quot;Żulikami&quot; ojciec Tadeusz Rydzyk chyba określa tych, którzy politycznie mu nie odpowiadają - ocenił w &quot;Faktach po Faktach&quot; w TVN24 europoseł Unii Centrum Michał Kobosko. Jak mówił, przykro mu, bo nie wie, w jakiej roli ojciec Rydzyk występuje na Jasnej Górze.</description>
+      <pubDate>Mon, 13 Jul 2026 18:30:43 GMT</pubDate>
+      <guid isPermaLink="false">bb8f994b7eee</guid>
+      <source url="https://tvn24.pl/polska/czy-michal-kobosko-czuje-sie-zulikiem-to-juz-nasi-widzowie-musza-ocenic-st9141099?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Ceny poszybowały. Przez El Nino</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/42dead89ec14</link>
+      <description>Ceny kawy na światowych rynkach rosną. Wpływa na nie między innymi zjawisko El Nino - wynika z danych International Coffee Organization (ICO).</description>
+      <pubDate>Mon, 13 Jul 2026 18:28:28 GMT</pubDate>
+      <guid isPermaLink="false">42dead89ec14</guid>
+      <source url="https://tvn24.pl/biznes/handel/ceny-kawy-nagly-zwrot-st9140707">TVN24</source>
+    </item>
+    <item>
+      <title>New Flagship Grok Voices</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fb328d59b08e</link>
+      <description>Comments</description>
+      <pubDate>Mon, 13 Jul 2026 18:28:13 GMT</pubDate>
+      <guid isPermaLink="false">fb328d59b08e</guid>
+      <source url="https://x.ai/news/new-flagship-voices">Hacker News</source>
+    </item>
+    <item>
+      <title>Building and Shipping Mac and iOS Apps Without Ever Opening Xcode</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ec874c15e3b</link>
+      <description>describe</description>
+      <pubDate>Mon, 13 Jul 2026 18:22:16 GMT</pubDate>
+      <guid isPermaLink="false">8ec874c15e3b</guid>
+      <source url="https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/">Hacker News</source>
+    </item>
+    <item>
+      <title>The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0c4f5217216f</link>
+      <description>Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.</description>
+      <pubDate>Mon, 13 Jul 2026 18:22:10 GMT</pubDate>
+      <guid isPermaLink="false">0c4f5217216f</guid>
+      <source url="https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a2e7dce97551</link>
+      <description>How wanting more is not always better</description>
+      <pubDate>Mon, 13 Jul 2026 18:18:25 GMT</pubDate>
+      <guid isPermaLink="false">a2e7dce97551</guid>
+      <source url="https://cakehonolulu.github.io/linux-on-32x/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b4e194bf0de5</link>
+      <description>Turn a Big Mouth Billy Bass into a real-time voice assistant powered by Strands BidiAgent + Amazon Nova 2 Sonic on a Raspberry Pi 5 - morganwilliscloud/billai-bass</description>
+      <pubDate>Mon, 13 Jul 2026 18:18:23 GMT</pubDate>
+      <guid isPermaLink="false">b4e194bf0de5</guid>
+      <source url="https://github.com/morganwilliscloud/billai-bass">Hacker News</source>
+    </item>
+    <item>
       <title>Gorsze niż komary. Atakują do skutku, tną skórę i pozostawiają rany</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c434f63a843d</link>
       <description>Mucha końska jest wyjątkowo uciążliwym owadem. Szczególnie aktywnym w okresie letnim. Niestety ukąszenia tej muchy są wyjątkowo bolesne i dla wielu może kończyć się dużymi obrzękami. Atakują nie tylko zwierzęta, ale i ludzi, bo można ją spotkać m.in. nad jeziorem, rzeką, przy basenach w pełnym słońcu.</description>
       <pubDate>Mon, 13 Jul 2026 18:17:00 GMT</pubDate>
       <guid isPermaLink="false">c434f63a843d</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Gorsze-niz-komary-Atakuja-do-skutku-tna-skore-i-pozostawiaja-rany,286503,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Chciał wygrać z Putinem, a potem wycofać wojsko z Ukrainy. Przyszli po niego policjanci</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/032b66ea9e1a</link>
+      <description>Rosyjski polityk Boris Nadieżdin został w poniedziałek zatrzymany przez policję. Postawiono mu zarzut „prezentowania symboli ekstremistycznych” – pretekstem był film zamieszczonych w mediach społecznościowych, na którym przez 10 sekund widoczny nieżyjący lider opozycji Aleksiej Nawalny. W 2024 r. Nadieżdin, zagorzały przeciwnik wojny z Ukrainą, chciał startować w wyborach prezydenckich, ale komisja wyborcza odmówiła zarejestrowania jego kandydatury.</description>
+      <pubDate>Mon, 13 Jul 2026 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">032b66ea9e1a</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-chcial-wygrac-z-putinem-a-potem-wycofac-wojsko-z-ukrainy-prz,nIdn,1009840">RMF24</source>
     </item>
     <item>
       <title>Dodaj do menu. Odchudzająca zupa to turbo wsparcie na diecie</title>
@@ -2825,6 +2996,14 @@ a(�t�PW�vo���W�k���А&quot;
       <source url="https://tvn24.pl/biznes/tech/maja-nieograniczony-dostep-do-naszych-dzieci-bruksela-szykuje-zmiany-st9140834?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Show HN: Super Dario</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/421926e92692</link>
+      <description>Comments</description>
+      <pubDate>Mon, 13 Jul 2026 17:53:52 GMT</pubDate>
+      <guid isPermaLink="false">421926e92692</guid>
+      <source url="https://superdario.pawb.de/">Hacker News</source>
+    </item>
+    <item>
       <title>Nawet 5 tys. zł kary za nieotwarcie drzwi. Rząd szykuje nowe przepisy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/60874e14cb77</link>
       <description>Rząd szykuje nowe obowiązki dla lokatorów. Jeśli przepisy wejdą w życie, sama odmowa otwarcia drzwi może już nie wystarczyć. W określonych przypadkach za utrudnianie kontroli lub usuwania awarii będzie mogła grozić grzywna nawet do 5 tys. zł.</description>
@@ -2839,6 +3018,14 @@ a(�t�PW�vo���W�k���А&quot;
       <pubDate>Mon, 13 Jul 2026 17:50:44 GMT</pubDate>
       <guid isPermaLink="false">13f6c11a231d</guid>
       <source url="https://tvn24.pl/tvnwarszawa/ursynow/warszawa-naczelna-izba-lekarska-wszczela-czynnosci-w-sprawie-patologa-ze-szpitala-poludniowego-st9141077?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Logseq 2.0 Beta (DB version) is here</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ed8abd2dceb</link>
+      <description>A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV - logseq/logseq</description>
+      <pubDate>Mon, 13 Jul 2026 17:49:49 GMT</pubDate>
+      <guid isPermaLink="false">0ed8abd2dceb</guid>
+      <source url="https://github.com/logseq/logseq/releases">Hacker News</source>
     </item>
     <item>
       <title>Witamina młodości zwiększa ryzyko zgonu. Naukowcy podnieśli alarm</title>
@@ -2919,238 +3106,6 @@ a(�t�PW�vo���W�k���А&quot;
       <pubDate>Mon, 13 Jul 2026 17:23:00 GMT</pubDate>
       <guid isPermaLink="false">ba2bd00f75da</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zapytali-szpitale-o-zarobki-lekarzy-Te-straty-wizerunkowe-bedzie-ciezko-odrobic,286630,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bffdbb0abe4b</link>
-      <description>The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.</description>
-      <pubDate>Mon, 13 Jul 2026 17:18:25 GMT</pubDate>
-      <guid isPermaLink="false">bffdbb0abe4b</guid>
-      <source url="https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/">Ars Technica</source>
-    </item>
-    <item>
-      <title>W Europie powołano Koalicję Antybalistyczną. Polski w niej nie ma</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bcf872b346ee</link>
-      <description>Dziesięć państw europejskich, w tym Ukraina, ogłosiło 13 lipca powstanie Antybalistycznej Koalicji. Celem inicjatywy jest stworzenie wspólnego potencjału obrony przed rakietami balistycznymi oraz rozwój nowoczesnych, tańszych systemów przeciwrakietowych dla Europy.</description>
-      <pubDate>Mon, 13 Jul 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="false">bcf872b346ee</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-w-europie-powolano-koalicje-antybalistyczna-polski-w-niej-ni,nIdn,1009831">RMF24</source>
-    </item>
-    <item>
-      <title>Over half of adults with learning disabilities do not live past 65, report says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d4dc954cf68f</link>
-      <description>The government says the findings are stark, while a campaign group says they should be &quot;headline news&quot;.</description>
-      <pubDate>Mon, 13 Jul 2026 17:14:08 GMT</pubDate>
-      <guid isPermaLink="false">d4dc954cf68f</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cnv949z75jmo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Dotkliwa porażka Magdy Linette. Polka przegrała z 202. rakietą świata</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/db70e3ac6ac7</link>
-      <description>Magda Linette, rozstawiona z numerem ósmym, przegrała z Japonką Maią Hontamą 4:6, 5:7 w pierwszej rundzie tenisowego turnieju WTA 250 na twardych kortach w Atenach. Pojedynek trwał niecałe dwie godziny.</description>
-      <pubDate>Mon, 13 Jul 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="false">db70e3ac6ac7</guid>
-      <source url="https://www.rmf24.pl/tenis/news-dotkliwa-porazka-magdy-linette-polka-przegrala-z-202-rakieta,nIdn,1009835">RMF24</source>
-    </item>
-    <item>
-      <title>Investors send General Fusion soaring in debut as first publicly traded fusion company</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e8c434209a29</link>
-      <description>General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.</description>
-      <pubDate>Mon, 13 Jul 2026 17:03:11 GMT</pubDate>
-      <guid isPermaLink="false">e8c434209a29</guid>
-      <source url="https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/">TechCrunch</source>
-    </item>
-    <item>
-      <title>PgDog (YC P25) Is Hiring a Founding Software Engineer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5dc01d6e068b</link>
-      <description>Hey! PgDog is a tiny database startup, based out of SF, with a global team. We’re scaling the world’s most popular database, PostgreSQL. PgDog is in production, used by dozens of companies, large and small. The problem is big, but so is the opportunity, and we’re hiring!
-
-About the role
-
-The jack of all trades. Rust, Postgres, a bit of infrastructure, networking, distributed systems, and so much more. You’ll build features that will go directly into our customers hands, the day you ship them.
-
-With great power comes great responsibility. You’re meticulous, detail-oriented and are not afraid to take calculated risks. You write tests because you want to make sure the thing works, not to check a box. You’re not afraid to run code in production, on real data; after all, that’s the only way to know something really works.
-
-Also, pretty important these days: you don’t let AI do the thinking for you; you’re comfortable with and without it.
-
-First week
-
-You’ll fix a bug or ship a cool feature. We’ll give it to one of our users or customers to try right away.
-
-First month
-
-You’ll get acquainted with pretty much all of our code. You’ll start coming up with your own bug fixes and features.
-
-Three months later
-
-You’re designing our roadmap. You’re contributing to everything we’re doing: coding, talking with customers, and even finding us more! Things we badly want to build:
-
-1.  Advanced OLAP query engine. People don’t like to rewrite their queries, so let’s make them just work with sharded Postgres! If you’re wondering how much work that is, check out the Postgres SQL reference. All of it has to work!
-2.  In-place data redistribution: let’s make Postgres scale like Cassandra/Elastic. Having the ability to dynamically shard would be super cool and make it a push-button op.
-
-If any of this sounds super hard…well, that’s because it is, but only on the surface. We’re splitting this up into small, achievable tasks, and shipping them straight to prod!
-
-Day to day
-
-Mostly digging through the Postgres manual and building a distributed database, from scratch, using first principles (and as many Wikipedia articles as you need). Everything is written in Rust, so that makes it easier. Type-safe, “fearless concurrency”, and an awesome open source ecosystem where you can find pretty much any library we’ll need… and if you can’t, you can build your own and contribute it back to the world.
-
-Time split is going to be something like 30% bug fixes, 60% new features, 10% infra glue.
-
-The backstory
-
-I did this at Instacart back in 2020. Grew the company 5x in a few months, just by making Postgres do things it wasn’t built for. If you make the database you already have just work, people love it; nobody wants to migrate to Dynamo.
-
-I’ve been coding in Rust for close to 10 years, even wrote my own web framework for fun. PgDog started as “something to do” while I was unemployed; one year later, it’s mission-critical infra for some pretty serious people, so that’s cool.
-
-Compensation
-
-  - 150k-225k / year
-  - 1-3% equity
-
-Perks
-
-  - Health &amp; dental, fully covered
-  - Unlimited PTO
-  - If you’re in SF Bay Area: coffee, dinner, hikes, bike rides, etc.; I’m always down to hang out! We can also walk my giant 90 pound dog (and now you know where the name “PgDog” comes from).</description>
-      <pubDate>Mon, 13 Jul 2026 17:00:54 GMT</pubDate>
-      <guid isPermaLink="false">5dc01d6e068b</guid>
-      <source url="https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer">Hacker News</source>
-    </item>
-    <item>
-      <title>12 states sue to block Paramount’s $110B Warner Bros. deal</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/577cc3a0cd7b</link>
-      <description>The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.</description>
-      <pubDate>Mon, 13 Jul 2026 17:00:14 GMT</pubDate>
-      <guid isPermaLink="false">577cc3a0cd7b</guid>
-      <source url="https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Nie poznacie gwiazdy Top Gun i Mission:Impossible. To będzie szalony film</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc5e0b1b5125</link>
-      <description>Tom Cruise wraca w zupełnie nieoczywistej odsłonie - nie wiem, czy poznacie go z początku w zwiastunie filmu.</description>
-      <pubDate>Mon, 13 Jul 2026 17:00:01 GMT</pubDate>
-      <guid isPermaLink="false">fc5e0b1b5125</guid>
-      <source url="https://antyweb.pl/nie-poznacie-gwiazdy-top-gun-i-missionimpossible-to-bedzie-szalony-film">Antyweb</source>
-    </item>
-    <item>
-      <title>Nie ma porozumienia w Europie, nie ma kolejnych sankcji na Rosję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b5bc2ff5e1d6</link>
-      <description>Kaja Kallas, szefowa dyplomacji Unii Europejskiej, ogłosiła, że ministrom spraw zagranicznych nie udało się porozumieć w sprawie 21. pakietu sankcji na Rosję. Prace nad zakazem wjazdu do UE osób walczących po stronie Kremla będą jednak kontynuowane. Największy sprzeciw wobec tego zapisu zgłaszały Francja i Włochy, które przyjmują najwięcej rosyjskich turystów.</description>
-      <pubDate>Mon, 13 Jul 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="false">b5bc2ff5e1d6</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-nie-ma-porozumienia-w-europie-nie-ma-kolejnych-sankcji-na-ro,nIdn,1009832">RMF24</source>
-    </item>
-    <item>
-      <title>Nowe fakty w sprawie śmierci Ann Widdecombe. „Ekstremalnie niepokojące” okoliczności</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bed10be9083c</link>
-      <description>Policja traktuje zabójstwo Ann Widdecombe - znanej brytyjskiej prawicowej polityczki - jako akt terroryzmu, a śledztwo przejął wydział antyterrorystyczny. Władze zapowiadają zmiany w ochronie byłych parlamentarzystów, a okoliczności tragedii określają jako „ekstremalnie niepokojące”.</description>
-      <pubDate>Mon, 13 Jul 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="false">bed10be9083c</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-nowe-fakty-w-sprawie-smierci-ann-widdecombe-ekstremalnie-nie,nIdn,1009833">RMF24</source>
-    </item>
-    <item>
-      <title>Colorado will decide whether a &quot;right to natural gas&quot; is added to state constitution</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f20bcc8667bc</link>
-      <description>The amendment would restrict building codes that promote electrification.</description>
-      <pubDate>Mon, 13 Jul 2026 16:49:35 GMT</pubDate>
-      <guid isPermaLink="false">f20bcc8667bc</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Po policyjnej interwencji 40-latek zmarł w szpitalu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fb8f553ddaec</link>
-      <description>Policjanci interweniowali wobec agresywnego 40-latka. Mężczyzna został obezwładniony i umieszczony w karetce. Zaczął tracić przytomność i trafił do szpitala, gdzie zmarł. Sprawę wyjaśnia prokuratura. Wewnętrzne postępowanie prowadzi też policja.</description>
-      <pubDate>Mon, 13 Jul 2026 16:46:37 GMT</pubDate>
-      <guid isPermaLink="false">fb8f553ddaec</guid>
-      <source url="https://tvn24.pl/katowice/zabrze-policjanci-wezwani-do-agresywnego-40-latka-mezczyzna-zmarl-po-interwencji-st9141026?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Wraca prawdziwie letnia pogoda. Będzie ciepło, ale i kapryśnie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/47c4c15f9504</link>
-      <description>Po pochmurnym i deszczowym weekendzie zza chmur wyjrzy słońce, jednak pochmurne niże nie powiedziały jeszcze ostatniego słowa. Na początku tygodnia władzą w pogodzie nad Polską podzielą się trzy układy baryczne. Stopniowo wróci do nas prawdziwie letnia aura, oczywiście w towarzystwie burz.</description>
-      <pubDate>Mon, 13 Jul 2026 16:41:30 GMT</pubDate>
-      <guid isPermaLink="false">47c4c15f9504</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/pogoda-na-5-dni-wraca-prawdziwie-letnia-pogoda-bedzie-cieplo-st9140994?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Pentagon szuka odpowiedzialnych za przecieki. Powstał specjalny zespół</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9938d4897192</link>
-      <description>Sekretarz wojny w USA Pete Hegseth ogłosił powstanie zespołu, który będzie ścigał osoby w jego departamencie odpowiedzialne za przecieki do mediów. Kroki podjęto po tym, gdy administracja Donalda Trumpa wszczęła śledztwo w sprawie przecieków dotyczących samolou Air Force One od Kataru.</description>
-      <pubDate>Mon, 13 Jul 2026 16:40:03 GMT</pubDate>
-      <guid isPermaLink="false">9938d4897192</guid>
-      <source url="https://tvn24.pl/swiat/pentagon-szuka-sprawcow-przeciekow-do-mediow-sekretarz-wojny-pete-hegseth-oglosil-powstanie-specjalnego-zespolu-st9141004?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Hackers quickly prove that Neo Geo Doom ports are not &quot;impossible&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/68c70fd10125</link>
-      <description>Clever coding and graphical compromises get a classic game on more classic hardware.</description>
-      <pubDate>Mon, 13 Jul 2026 16:37:14 GMT</pubDate>
-      <guid isPermaLink="false">68c70fd10125</guid>
-      <source url="https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Planowali „zakłócić” muzułmański festiwal. Zatrzymania w całej Anglii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2e7a14815c0d</link>
-      <description>Brytyjska policja poinformowała w poniedziałek o aresztowaniu 12 osób w związku z wykryciem możliwego zagrożenia dotyczącego wydarzenia islamskiego, które odbyło się w miniony weekend. Aresztowań dokonano w ramach śledztwa „związanego z terroryzmem o charakterze skrajnie prawicowym”.</description>
-      <pubDate>Mon, 13 Jul 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="false">2e7a14815c0d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-planowali-zaklocic-muzulmanski-festiwal-zatrzymania-w-calej-,nIdn,1009829">RMF24</source>
-    </item>
-    <item>
-      <title>Should AI help you get away with killing your spouse?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/735b5b3e2531</link>
-      <description>What does a world of total user-aligned AI actually look like?</description>
-      <pubDate>Mon, 13 Jul 2026 16:31:23 GMT</pubDate>
-      <guid isPermaLink="false">735b5b3e2531</guid>
-      <source url="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Multikino odpala hit. 10 biletów w promocyjnej cenie - jest sporo taniej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/25a5829120fa</link>
-      <description>Długo wyczekiwany karnet na bilety do kina w Multikinie jest dostępny w całej Polsce.</description>
-      <pubDate>Mon, 13 Jul 2026 16:30:36 GMT</pubDate>
-      <guid isPermaLink="false">25a5829120fa</guid>
-      <source url="https://antyweb.pl/multikino-odpala-hit-10-biletow-w-promocyjnej-cenie-jest-sporo-taniej">Antyweb</source>
-    </item>
-    <item>
-      <title>Po raz pierwszy użyli tej broni. Jest nagranie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fbd605628473</link>
-      <description>Podczas niedzielnych ataków na Iran po raz pierwszy w historii siły USA wykorzystały bojowo drony morskie Corsair - poinformowało w poniedziałek Dowództwo Centralne USA.</description>
-      <pubDate>Mon, 13 Jul 2026 16:29:23 GMT</pubDate>
-      <guid isPermaLink="false">fbd605628473</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/po-raz-pierwszy-uzyli-tej-broni-jest-nagranie-st9141002?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nowe rekordy na GPW w trudnym otoczeniu. Orlen pociągnął WIG20</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/422912cb66ac</link>
-      <description>Początek tygodnia przyniósł inwestorom na warszawskim parkiecie sporą dawkę nerwowości, wywołaną eskalacją konfliktu na Bliskim Wschodzie i dynamicznymi zmianami na rynku walutowym. Mimo niesprzyjającego otoczenia zewnętrznego, GPW pokazała się z niezłej strony. Krajowe indeksy nie tylko obroniły kluczowe poziomy, ale zdołały pobić kilka rekordów.</description>
-      <pubDate>Mon, 13 Jul 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="false">422912cb66ac</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nowe-rekordy-na-GPW-w-trudnym-otoczeniu-Orlen-pociagnal-WIG20-9167514.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Nowa inicjatywa obronna Europy. Dziewięć państw tworzy z Ukrainą koalicję antybalistyczną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7f22ae30d6b8</link>
-      <description>Dziewięć państw europejskich: Dania, Francja, Niemcy, Włochy, Norwegia, Hiszpania, Szwecja, W. Brytania, Holandia przekazały w poniedziałkowym oświadczeniu, wydanym przez Pałac Elizejski, że zawiążą z Ukrainą koalicję w celu rozwijania zdolności antybalistycznych w Europie. W Paryżu trwa szczyt koalicji chętnych.</description>
-      <pubDate>Mon, 13 Jul 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="false">7f22ae30d6b8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nowa-inicjatywa-obronna-Europy-Dziewiec-panstw-tworzy-z-Ukraina-koalicje-antybalistyczna-9167511.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Volkswagen planning to cut up to 100,000 jobs globally</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba8a3f0a1caf</link>
-      <description>The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.</description>
-      <pubDate>Mon, 13 Jul 2026 16:19:15 GMT</pubDate>
-      <guid isPermaLink="false">ba8a3f0a1caf</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Samochód wjechał w wejście do stacji metra w Madrycie. Są ranni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e3bac3174917</link>
-      <description>W wejście do stacji metra w Madrycie wjechał samochód. Dwie osoby zostały ranne, a stan jednej z nich jest ciężki.</description>
-      <pubDate>Mon, 13 Jul 2026 16:17:33 GMT</pubDate>
-      <guid isPermaLink="false">e3bac3174917</guid>
-      <source url="https://tvn24.pl/swiat/hiszpania-samochod-wjechal-w-wejscie-do-stacji-metra-w-madrycie-dwie-osoby-ranne-st9140713?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
