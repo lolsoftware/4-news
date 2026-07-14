@@ -1,0 +1,13 @@
+{
+  "id": "296b023501bb",
+  "title": "Coding agents think ahead of time",
+  "originalTitle": "Coding agents think ahead of time",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2607.05188",
+  "publishedAt": "2026-07-14T12:28:09.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2607.05188\">View PDF</a> <a href=\"https://arxiv.org/html/2607.05188v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>A coding agent solving a software-engineering task spends dozens of steps reasoning, editing code, and running tests, yet little is known about what the underlying language model internally represents about the program it is working on. We show that the residual streams of language models under coding agents linearly encode properties of the evolving program: a logistic-regression probe on hidden states is able to decode whether the current code parses, passes its test suite, reduces the number of failing tests, and introduces regressions, reaching AUC up to 0.83 for correctness across two models and two benchmarks. Our second finding is more surprising: these representations run ahead of the agent's own edits. Probes trained to predict the outcome of future edits (before they are materialized and written on disk) achieve performance above chance up to roughly 25 steps in advance. We call this the agent's latent programming horizon. As a proof of external validity, we show that the probes transfer across benchmarks without retraining. Our positive results open calls for more research in mechanistic interpretability of coding agents. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: André Silva [<a href=\"https://arxiv.org/show-email/af5df277/2607.05188\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Mon, 6 Jul 2026 15:08:26 UTC (653 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
