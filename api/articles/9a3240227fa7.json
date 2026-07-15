@@ -1,0 +1,13 @@
+{
+  "id": "9a3240227fa7",
+  "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+  "originalTitle": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://brainless.swerdlow.dev/",
+  "publishedAt": "2026-07-15T19:42:53.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div role=\"tabpanel\" aria-hidden=\"false\"><fieldset><legend>Claude Code <span>v2.1.206</span></legend><div><div><p>Fable 7 with xhigh effort · Claude Max</p><p>ben@freestyle.sh's Organization</p><p>~/acme-site</p></div><div><p>Tips for getting started</p><p>Ask Claude to create a new app or clone a repo</p><p>What's new</p><p>Added directory path suggestions to /cd</p><p>Added a /doctor check that proposes trims</p><p>/release-notes for more</p></div></div></fieldset><p><span>add the brainless pricing block to our landing page</span></p><details><summary><span><span><span>Bash</span><span>(</span><span>bunx shadcn add brainless/pricing</span><span>)</span></span></span><span><span><span>Added 1 block · 2 files</span></span></span></summary></details><div><p><span>Update</span><span><span>(</span><span>app/page.tsx</span><span>)</span></span></p><p><span>Updated app/page.tsx with 3 additions</span></p><pre><p><span>41</span><span> </span><span>  &lt;Features /&gt;</span></p><p><span>42</span><span>+</span><span><span>added: </span>  &lt;Pricing tiers={TIERS} /&gt;</span></p><p><span>43</span><span> </span><span>  &lt;Footer /&gt;</span></p></pre></div><div><p><span>Thinking<!-- -->…</span><span>(<!-- -->0<!-- -->s<!-- --> · ↑ 0 tokens<!-- --> · esc to interrupt)</span></p></div><div><p><span> <!-- -->xhigh · /effort</span></p><p><span>auto mode on</span><span> <!-- -->(shift+tab to cycle) · ← for agents</span></p></div></div></div>",
+  "image": "images/d550b0bd935b.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

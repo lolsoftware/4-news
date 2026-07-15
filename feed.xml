@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:18:21 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>&apos;The change didn&apos;t work&apos; - England player ratings</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/80f158857394</link>
+      <description>BBC Sport&apos;s England reporter Alex Howell rates the players after the Three Lions lost to Argentina in the World Cup semi-final.</description>
+      <pubDate>Wed, 15 Jul 2026 21:08:21 GMT</pubDate>
+      <guid isPermaLink="false">80f158857394</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cx2w3rqp6w1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Argentyna rywalem Hiszpanii w finale MŚ. Dramat Anglików w końcówce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d20c9d850020</link>
+      <description>Obrońcy trofeum pokonali w dramatycznych okolicznościach reprezentację Anglii 2:1 w półfinale mistrzostw świata, rozgrywanych w USA, Kanadzie i Meksyku. W finale obrońcy trofeum zagrają o złoto z Hiszpanią, która pokonała Francję 2:0.</description>
+      <pubDate>Wed, 15 Jul 2026 21:05:00 GMT</pubDate>
+      <guid isPermaLink="false">d20c9d850020</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-argentyna-rywalem-hiszpanii-w-finale-ms-dramat-anglikow-w-ko,nIdn,1010139">RMF24</source>
+    </item>
+    <item>
+      <title>„Mobilizujemy się”. Tusk spotkał się z parlamentarzystami Koalicji Obywatelskiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0cb065c12d91</link>
+      <description>Spotkanie motywacyjne, mobilizacja przed rokiem wyborczym i możliwość wypowiedzenia się posłów - tak uczestnicy środowego, blisko trzygodzinnego spotkania klubu Koalicji Obywatelskiej z premierem Donaldem Tuskiem podsumowywali je w rozmowach z dziennikarzami. Posłowie niechętnie relacjonowali przebieg spotkania z liderem partii rządzącej.</description>
+      <pubDate>Wed, 15 Jul 2026 20:39:00 GMT</pubDate>
+      <guid isPermaLink="false">0cb065c12d91</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-mobilizujemy-sie-tusk-spotkal-sie-z-parlamentarzystami-koali,nIdn,1010138">RMF24</source>
+    </item>
+    <item>
+      <title>Prace ekshumacyjne na Wołyniu. W Ostrówkach odnaleziono szczątki </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56272f90fa7a</link>
+      <description>Odnaleziono szczątki jednej osoby podczas prac ekshumacyjnych na terenie dawnych wsi Ostrówki i Wola Ostrowiecka na Wołyniu - poinformował Instytut Pamięci Narodowej. Ministra kultury Marta Cienkowska powiedziała w &quot;Tak jest&quot; w TVN24, że teren poszukiwań został sprawdzony przez saperów. - To są bardzo niebezpieczne wyjazdy - podkreśliła.</description>
+      <pubDate>Wed, 15 Jul 2026 20:30:57 GMT</pubDate>
+      <guid isPermaLink="false">56272f90fa7a</guid>
+      <source url="https://tvn24.pl/polska/prace-ekshumacyjne-na-wolyniu-ipn-odnaleziono-szczatki-jednej-osoby-w-ostrowkach-st9144510?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Nawet 38 kandydatów na miejsce. Kolejna uczelnia medyczna pokazała progi punktowe</title>
       <link>https://lolsoftware.github.io/4-news/#/article/2fa50dadb052</link>
@@ -14,6 +46,30 @@
       <pubDate>Wed, 15 Jul 2026 20:25:00 GMT</pubDate>
       <guid isPermaLink="false">2fa50dadb052</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Nawet-38-kandydatow-na-miejsce-Kolejna-uczelnia-medyczna-pokazala-progi-punktowe,286724,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Grok Build</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc7d258f82fc</link>
+      <description>SpaceXAI&apos;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible. - xai-org/grok-build</description>
+      <pubDate>Wed, 15 Jul 2026 20:24:58 GMT</pubDate>
+      <guid isPermaLink="false">cc7d258f82fc</guid>
+      <source url="https://github.com/xai-org/grok-build">Hacker News</source>
+    </item>
+    <item>
+      <title>Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/45e0bc3302ba</link>
+      <description>The safety board confirmed Tesla&apos;s account of the crash, which the company shared days after it happened last month.</description>
+      <pubDate>Wed, 15 Jul 2026 20:22:52 GMT</pubDate>
+      <guid isPermaLink="false">45e0bc3302ba</guid>
+      <source url="https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Chwile grozy polskich turystów w Chorwacji. Mogą mówić o sporym szczęściu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ce2582d97833</link>
+      <description>W pobliżu miasta Blace, koło Ploče, statek Zarządu Portu Ploče uratował czteroosobową polską rodzinę, której łódź zatonęła. Skoordynowana akcja ratunkowa w kierunku rozbitka została przeprowadzona w krótkim czasie ze względu na ograniczoną widoczność i ryzyko pogorszenia warunków pogodowych na morzu, poinformowało Ministerstwo Morza, Transportu i Infrastruktury.</description>
+      <pubDate>Wed, 15 Jul 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">ce2582d97833</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-chwile-grozy-polskich-turystow-w-chorwacji-moga-mowic-o-spor,nIdn,1010137">RMF24</source>
     </item>
     <item>
       <title>Jedli jedno awokado dziennie. Naukowcy zaskoczeni wynikami</title>
@@ -32,12 +88,88 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Uczestnictwo-w-kulturze-moze-byc-zdrowe-jak-sport-Nowe-dane,286706,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Windows 0-day drops the same day Microsoft releases record number of patches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f47b3a5e2ceb</link>
+      <description>HiveLegacy is a &quot;powerful primitive&quot; that&apos;s likely capable of other nefarious actions.</description>
+      <pubDate>Wed, 15 Jul 2026 19:59:48 GMT</pubDate>
+      <guid isPermaLink="false">f47b3a5e2ceb</guid>
+      <source url="https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Były szef KRRiT: Jestem na wolności, dziękuję za wsparcie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0d3b83484aca</link>
+      <description>„Jestem na wolności. Dziękuję wszystkim za wsparcie - to wzruszające, że jest tyle osób, które mnie rozumieją i wspierają.
+Ze względów procesowych nie będę komentować działań prokuratora. Dalszy ciąg informacji jutro” - napisał na platformie X Maciej Świrski. Byłym członkom zarządu polskiej Fundacji Narodowej Maciejowi Ś. oraz Cezaremu J. - jak określa ich rzecznik Ministra Koordynatora Służb Specjalnych Jacek Dobrzyński -</description>
+      <pubDate>Wed, 15 Jul 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="false">0d3b83484aca</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-byly-szef-krrit-jestem-na-wolnosci-dziekuje-za-wsparcie,nIdn,1010134">RMF24</source>
+    </item>
+    <item>
+      <title>Daniel Ek’s body-scanning startup Neko Health raises another $700M</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3581a245f48a</link>
+      <description>Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person&apos;s health.</description>
+      <pubDate>Wed, 15 Jul 2026 19:46:54 GMT</pubDate>
+      <guid isPermaLink="false">3581a245f48a</guid>
+      <source url="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Trump nakreślił scenariusz dla Polski? „Odzwierciedlenie zasłużonej pozycji Warszawy”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e3589a72e999</link>
+      <description>Prezydent USA Donald Trump zabiega o to, by Polska uzyskała stałe członkostwo w G20 i tego właśnie ta organizacja potrzebuje – ocenili eksperci konserwatywnego think tanku Hudson Institute, Peter Rough i Ulrich Speck, w artykule opublikowanym na łamach „Washington Post”.</description>
+      <pubDate>Wed, 15 Jul 2026 19:45:00 GMT</pubDate>
+      <guid isPermaLink="false">e3589a72e999</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-trump-nakreslil-scenariusz-dla-polski-odzwierciedlenie-zaslu,nIdn,1010136">RMF24</source>
+    </item>
+    <item>
+      <title>Brainless: Shadcn components that look like Claude Code, Codex and Grok</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9a3240227fa7</link>
+      <description>Claude Code, Codex, and Grok interfaces as shadcn components.</description>
+      <pubDate>Wed, 15 Jul 2026 19:42:53 GMT</pubDate>
+      <guid isPermaLink="false">9a3240227fa7</guid>
+      <source url="https://brainless.swerdlow.dev/">Hacker News</source>
+    </item>
+    <item>
+      <title>Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fe985779dfb7</link>
+      <description>OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.</description>
+      <pubDate>Wed, 15 Jul 2026 19:41:38 GMT</pubDate>
+      <guid isPermaLink="false">fe985779dfb7</guid>
+      <source url="https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Voxatron</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/039e5799eaf1</link>
+      <description>Voxatron is a  fantasy console and 
+				collection of games made entirely out of voxels (little colourful cubes, kind of).
+				The Alpha version comes with an arena shooter 
+				and action-adventure cartridges as well as powerful design tools to make your own voxelly games.</description>
+      <pubDate>Wed, 15 Jul 2026 19:40:23 GMT</pubDate>
+      <guid isPermaLink="false">039e5799eaf1</guid>
+      <source url="https://www.lexaloffle.com/voxatron.php">Hacker News</source>
+    </item>
+    <item>
       <title>Karierę Messiego mogła zatrzymać choroba. Prawda wyszła po latach</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3b1ea44103d5</link>
       <description>Dziś Lionel Messi jest ikoną światowego futbolu i jednym z najbardziej utytułowanych piłkarzy w historii. Niewiele osób pamięta jednak, że jako dziecko zmagał się z poważnym schorzeniem, które bez odpowiedniego leczenia mogło całkowicie zmienić przebieg jego kariery.</description>
       <pubDate>Wed, 15 Jul 2026 19:35:00 GMT</pubDate>
       <guid isPermaLink="false">3b1ea44103d5</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Kariere-Messiego-mogla-zatrzymac-choroba-Prawda-wyszla-po-latach,286662,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4c019e49418c</link>
+      <description>A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system.</description>
+      <pubDate>Wed, 15 Jul 2026 19:28:53 GMT</pubDate>
+      <guid isPermaLink="false">4c019e49418c</guid>
+      <source url="https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Duskers, the scary command line game, is getting a sequel</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cdbce078994e</link>
+      <description>Comments</description>
+      <pubDate>Wed, 15 Jul 2026 19:27:59 GMT</pubDate>
+      <guid isPermaLink="false">cdbce078994e</guid>
+      <source url="https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20">Hacker News</source>
     </item>
     <item>
       <title>Pentagon stawia na testosteron. Badania żołnierzy powyżej 30. roku życia</title>
@@ -128,12 +260,28 @@
       <source url="https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/">NASA Breaking News</source>
     </item>
     <item>
+      <title>Covid fraudsters spent thousands on cars and watches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b27a02838d17</link>
+      <description>The NCA says the group claimed they could supply millions of boxes of nitrile gloves.</description>
+      <pubDate>Wed, 15 Jul 2026 18:47:36 GMT</pubDate>
+      <guid isPermaLink="false">b27a02838d17</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c2k7jj59x20o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Microsoft patches bug in video game Age of Empires II</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cf99a2a2b055</link>
       <description>The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.</description>
       <pubDate>Wed, 15 Jul 2026 18:47:01 GMT</pubDate>
       <guid isPermaLink="false">cf99a2a2b055</guid>
       <source url="https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Salary information to be shown on job ads under new laws</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/94826cab869a</link>
+      <description>The government argues the move would help jobseekers and could reduce pay discrimination claims.</description>
+      <pubDate>Wed, 15 Jul 2026 18:46:26 GMT</pubDate>
+      <guid isPermaLink="false">94826cab869a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Why I Left Google DeepMind</title>
@@ -224,6 +372,14 @@
       <source url="https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/">TechCrunch</source>
     </item>
     <item>
+      <title>SpaceX falls to $135 IPO price ahead of Starship launch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e9d64ae09ee2</link>
+      <description>The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.</description>
+      <pubDate>Wed, 15 Jul 2026 18:06:05 GMT</pubDate>
+      <guid isPermaLink="false">e9d64ae09ee2</guid>
+      <source url="https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/">TechCrunch</source>
+    </item>
+    <item>
       <title>Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ec2b50b36620</link>
       <description>It&apos;s the company&apos;s first public proof point after a year and a half spent building AI infrastructure largely out of public view.</description>
@@ -254,158 +410,6 @@
       <pubDate>Wed, 15 Jul 2026 18:01:00 GMT</pubDate>
       <guid isPermaLink="false">a8fc5bb568bc</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Tyle-wynosi-niemiecka-emerytura-dla-Polakow-Sa-zmiany,286707,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Internet mobilny od T-Mobile: &quot;nie używasz – nie płacisz&quot;. Mamy coś lepszego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e2deeccf3364</link>
-      <description>Tego typu oferta sprawdza się przede wszystkim jako zapasowe (awaryjne) łącze w domu, internet mobilny na działce lub rozwiązanie na wyjazdy.</description>
-      <pubDate>Wed, 15 Jul 2026 18:00:18 GMT</pubDate>
-      <guid isPermaLink="false">e2deeccf3364</guid>
-      <source url="https://antyweb.pl/awaryjny-internet-mobilny">Antyweb</source>
-    </item>
-    <item>
-      <title>NASA’s Perseverance Rover Provides Sweeping View of Broom Point</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5cabf3e184a3</link>
-      <description>This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s</description>
-      <pubDate>Wed, 15 Jul 2026 17:59:50 GMT</pubDate>
-      <guid isPermaLink="false">5cabf3e184a3</guid>
-      <source url="https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Phone maker OnePlus reportedly plans to wind down US and Europe operations</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c496e6379667</link>
-      <description>OnePlus could also wind down its operations in India by 2027.</description>
-      <pubDate>Wed, 15 Jul 2026 17:53:32 GMT</pubDate>
-      <guid isPermaLink="false">c496e6379667</guid>
-      <source url="https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Pół miliarda złotych na walkę z rakiem, a Polki i Polacy omijają badania. Statystyki w dół</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc1c5c014ac4</link>
-      <description>Choć w 2025 roku na realizację Narodowej Strategii Onkologicznej przeznaczono aż 500 milionów złotych, z danych zaprezentowanych podczas posiedzenia sejmowej Komisji Zdrowia wynika, że na kluczowe badania przesiewowe zgłasza się zaledwie od kilku do trzydziestu procent uprawnionych pacjentów.</description>
-      <pubDate>Wed, 15 Jul 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="false">bc1c5c014ac4</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Pol-miliarda-zlotych-na-walke-z-rakiem-a-Polki-i-Polacy-omijaja-badania-Statystyki-w-dol,286721,1013.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Mateusz Morawiecki reaguje na uchwałę PiS</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8bdd5df2ead</link>
-      <description>Mateusz Morawiecki zabrał głos po przyjętej uchwale kierownictwa PiS. &quot;Mamy unikalną szansę zbudowania Wielkiej Polski, o jakiej marzyły pokolenia&quot; - napisał. Zapewnił, że &quot;taki jest i pozostanie&quot; cel działań Stowarzyszenia Rozwój Plus. Politycy PiS powiązani z organizacją byłego premiera komentują uchwałę w mediach społecznościowych. Na ich wpisy zareagował już rzecznik ugrupowania Rafał Bochenek.</description>
-      <pubDate>Wed, 15 Jul 2026 17:49:38 GMT</pubDate>
-      <guid isPermaLink="false">b8bdd5df2ead</guid>
-      <source url="https://tvn24.pl/polska/mateusz-morawiecki-reaguje-na-uchwale-pis-w-sprawie-stowarzyszen-st9144432?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Polska zbuduje wyjątkowy statek kosmiczny. Rusza projekt kosmicznego mechanika i strażnika satelitów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bca765ad6747</link>
-      <description>Premier Donald Tusk zapowiedział w poniedziałek budowę polskiego statku kosmicznego. Jak podało CIR, będzie to bezzałogowe urządzenie, którego głównymi zadaniami będą złożone manewry wokół innych satelitów, prowadzenie inspekcji wizualnych, transport oraz realizacja prac serwisowych.</description>
-      <pubDate>Wed, 15 Jul 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="false">bca765ad6747</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polska-zbuduje-wyjatkowy-statek-kosmiczny-Rusza-projekt-kosmicznego-mechanika-i-straznika-satelitow-9168787.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cdf88feeb614</link>
-      <description>Google&apos;s biggest solar and battery project stands in sharp contrast with xAI&apos;s nearby unpermitted power plant.</description>
-      <pubDate>Wed, 15 Jul 2026 17:39:54 GMT</pubDate>
-      <guid isPermaLink="false">cdf88feeb614</guid>
-      <source url="https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Wołodymyr Zełenski o kandydacie na premiera. &quot;Jest najlepiej przygotowaną osobą&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cbb3ada45146</link>
-      <description>Serhij Korecki jest prawdopodobnie najlepiej przygotowaną osobą do objęcia stanowiska premiera Ukrainy - oświadczył prezydent Ukrainy Wołodymyr Zełenski. Mówił też, co będzie priorytetem nowego szefa rządu. Korecki jest obecnie prezesem koncernu Naftohaz.</description>
-      <pubDate>Wed, 15 Jul 2026 17:39:47 GMT</pubDate>
-      <guid isPermaLink="false">cbb3ada45146</guid>
-      <source url="https://tvn24.pl/swiat/kto-bedzie-nowym-premierem-ukrainy-wolodymyr-zelenski-serhij-korecki-jest-najlepiej-przygotowana-osoba-st9144282?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Boy, 14, charged with offences linked to right-wing terror</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eb42ef44f2bb</link>
-      <description>The alleged offences are linked to &quot;extreme right-wing terrorism&quot; police say.</description>
-      <pubDate>Wed, 15 Jul 2026 17:35:59 GMT</pubDate>
-      <guid isPermaLink="false">eb42ef44f2bb</guid>
-      <source url="https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Gdzie są obiecani żołnierze? Republikanie żądają od Pentagonu konkretów w sprawie Polski</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ddedf2350d9</link>
-      <description>Kongresmen z Partii Republikańskiej Don Bacon wezwał w środę Pentagon do zaprezentowania planu, w jaki sposób resort obrony USA zamierza zrealizować polecenie prezydenta Donalda Trumpa o wysłaniu dodatkowych wojsk amerykańskich do Polski.</description>
-      <pubDate>Wed, 15 Jul 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="false">1ddedf2350d9</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Gdzie-sa-obiecani-zolnierze-Republikanie-zadaja-od-Pentagonu-konkretow-w-sprawie-Polski-9168783.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Bili go pałkami, ranili maczetami i nożami. Bo zwrócił uwagę jednemu z nich</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3655cf141dfd</link>
-      <description>Wyważyli drzwi i wtargnęli do mieszkania 40-latka w Częstochowie. Brutalnie go pobili. Cztery osoby staną przed sądem, dwie są oskarżone o usiłowanie zabójstwa. Motywem brutalnego ataku była - według śledczych - chęć ukarania 40-latka za to, że zwrócił on uwagę jednemu z nich na niewłaściwe zachowanie wobec żony.</description>
-      <pubDate>Wed, 15 Jul 2026 17:33:18 GMT</pubDate>
-      <guid isPermaLink="false">3655cf141dfd</guid>
-      <source url="https://tvn24.pl/katowice/czestochowa-usilowanie-zabojstwa-na-ulicy-drzymaly-jest-akt-oskarzenia-st9144384?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>French MPs approve assisted dying law with strict rules after years of argument</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/86f8a4f19a4d</link>
-      <description>The bill would allow assisted dying for terminally ill adults who meet strict criteria.</description>
-      <pubDate>Wed, 15 Jul 2026 17:29:26 GMT</pubDate>
-      <guid isPermaLink="false">86f8a4f19a4d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Perseverance’s Trip to ‘Broom Point’</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/24ef00db5852</link>
-      <description>This orbital map shows the path NASA’s Perseverance Mars rover took to get to a location the science team has dubbed the “Broom Point member,” a sequence of</description>
-      <pubDate>Wed, 15 Jul 2026 17:27:10 GMT</pubDate>
-      <guid isPermaLink="false">24ef00db5852</guid>
-      <source url="https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Austriackie veto i gazowy opór. Brak zgody na nowy pakiet sankcji wobec Rosji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/de1cfc17a7e3</link>
-      <description>Państwom członkowskim nie udało się w środę porozumieć w sprawie 21. pakietu sankcji na Rosję; by cena za rosyjską ropę nie skoczyła do góry, stolice zgodziły się zamrozić ją na obecnym poziomie do 23 lipca - poinformował korespondentów unijny dyplomata.</description>
-      <pubDate>Wed, 15 Jul 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="false">de1cfc17a7e3</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Austriackie-veto-i-gazowy-opor-Brak-zgody-na-nowy-pakiet-sankcji-wobec-Rosji-9168779.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ceny paliw w górę. Nawet 20 groszy w tydzień</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8a62362fbeeb</link>
-      <description>Benzyna 95-oktanowa i olej napędowy zdrożały w ciągu tygodnia o ponad 20 groszy - poinformował portal e-petrol.pl. Zdaniem analityków wzrost cen na stacjach został wywołany sytuacją na Bliskim Wschodzie.</description>
-      <pubDate>Wed, 15 Jul 2026 17:24:23 GMT</pubDate>
-      <guid isPermaLink="false">8a62362fbeeb</guid>
-      <source url="https://tvn24.pl/biznes/moto/ceny-paliw-na-stacjach-w-polsce-wzrost-nawet-o-20-groszy-w-tydzien-st9144364?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nawrocka uderza w rozłamowców. PiS stawia ultimatum i grozi wyrzuceniem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5801d561365c</link>
-      <description>Kierownictwo PiS podjęło w środę uchwałę, w której zobowiązało działaczy partii do wystąpienia ze stowarzyszeń „prowadzących działalność polityczną” w ramach ugrupowania; chodzi m.in. o „Rozwój Plus” Mateusza Morawieckiego i „Po pierwsze Polska” Jacka Sasina – przekazał rzecznik PiS Rafał Bochenek.</description>
-      <pubDate>Wed, 15 Jul 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="false">5801d561365c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nawrocka-uderza-w-rozlamowcow-PiS-stawia-ultimatum-i-grozi-wyrzuceniem-9168777.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Cracovia ogłasza nazwisko nowego prezesa. To on zastąpi Elżbietę Filipiak</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1788929a39ff</link>
-      <description>Na środowym posiedzeniu Rada Nadzorcza KS Cracovia SA podjęła decyzję o powołaniu na prezesa zarządu Murata Colaka - poinformował krakowski klub. Stanowisko to było nieobsadzone od 18 stycznia, gdy rezygnację złożyła Elżbieta Filipiak.</description>
-      <pubDate>Wed, 15 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">1788929a39ff</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-cracovia-oglasza-nazwisko-nowego-prezesa-to-on-zastapi-elzbi,nIdn,1010121">RMF24</source>
-    </item>
-    <item>
-      <title>Objazdy na S2 i nowe ekrany. Utrudnienia do końca września</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7713eb7d0902</link>
-      <description>Od środy drogowcy pracują na Południowej Obwodnicy Warszawy pomiędzy węzłami Wał Miedzeszyński i Patriotów. Do końca września zablokowany będzie prawy pas w kierunku Terespola. W godzinach szczytu oznacza to co najmniej kilkukilometrowe korki.</description>
-      <pubDate>Wed, 15 Jul 2026 17:13:41 GMT</pubDate>
-      <guid isPermaLink="false">7713eb7d0902</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wawer/warszawa-s2-do-konca-wrzesnia-prace-na-prawym-pasie-w-kierunku-terespola-st9144293?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e1e01336d26e</link>
-      <description>Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.</description>
-      <pubDate>Wed, 15 Jul 2026 17:13:06 GMT</pubDate>
-      <guid isPermaLink="false">e1e01336d26e</guid>
-      <source url="https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
