@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:19:09 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bffb9d1128b6</link>
+      <description>Comments</description>
+      <pubDate>Thu, 16 Jul 2026 20:24:02 GMT</pubDate>
+      <guid isPermaLink="false">bffb9d1128b6</guid>
+      <source url="https://www.science.org/doi/10.1126/science.aea9708">Hacker News</source>
+    </item>
+    <item>
+      <title>Szósta noc ataków USA na Iran. Rzeczniczka Białego Domu: rozmowy wciąż trwają</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5ffdc3019be5</link>
+      <description>Siły zbrojne USA poinformowały w czwartek o kolejnych uderzeniach na cele w Iranie. To już szósta noc ataków z rzędu. Rzeczniczka Białego Domu przekazała, że Iran wciąż prowadzi negocjacje z Amerykanami.</description>
+      <pubDate>Thu, 16 Jul 2026 20:18:41 GMT</pubDate>
+      <guid isPermaLink="false">5ffdc3019be5</guid>
+      <source url="https://tvn24.pl/swiat/szosta-noc-atakow-usa-na-iran-rzeczniczka-bialego-domu-karoline-leavitt-rozmowy-wciaz-trwaja-st9146080?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>LM Studio Bionic: the AI agent for open models</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e92da1656dac</link>
+      <description>The AI agent made for open models, built to get things done.</description>
+      <pubDate>Thu, 16 Jul 2026 20:18:15 GMT</pubDate>
+      <guid isPermaLink="false">e92da1656dac</guid>
+      <source url="https://lmstudio.ai/blog/introducing-lm-studio-bionic">Hacker News</source>
+    </item>
+    <item>
+      <title>The privacy problems hidden in your period tracker</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/45da8ee8c262</link>
+      <description>Some apps are sharing users&apos; health data. New research uncovers which apps lock down your privacy, and which don&apos;t.</description>
+      <pubDate>Thu, 16 Jul 2026 20:15:58 GMT</pubDate>
+      <guid isPermaLink="false">45da8ee8c262</guid>
+      <source url="https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details">Hacker News</source>
+    </item>
     <item>
       <title>Przepisy z 2007 roku idą do kosza. Wchodzi &quot;e-Sanepid&quot; dla tysięcy firm</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0191746c6595</link>
@@ -16,12 +48,68 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Przepisy-z-2007-roku-ida-do-kosza-Wchodzi-e-Sanepid-dla-tysiecy-firm,286761,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>&quot;Kara adekwatna do czynów&quot;. Biegły o wyroku w procesie Łukasza Żaka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/223f7699c7fd</link>
+      <description>Wielokrotnie było już mówione, że te wyroki i zakazy sądowe są nieskuteczne, bo kierowcy dalej jeżdżą, kolejne otrzymują - powiedział w &quot;Faktach po Faktach&quot; Wojciech Pasieczny, biegły sądowy do spraw rekonstrukcji wypadków drogowych, odnosząc się do wcześniejszych wyroków Łukasza Żaka, które były przez skazanego lekceważone. W czwartek Żak został skazany na 20 lat więzienia za spowodowanie wypadku na Trasie Łazienkowskiej.</description>
+      <pubDate>Thu, 16 Jul 2026 20:10:42 GMT</pubDate>
+      <guid isPermaLink="false">223f7699c7fd</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/kara-adekwatna-do-czynow-biegly-o-wyroku-w-procesie-lukasza-zaka-st9146077?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/49fce60a2ede</link>
+      <description>Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series &quot;Mafia,&quot; has joined the firm as a partner.</description>
+      <pubDate>Thu, 16 Jul 2026 20:07:14 GMT</pubDate>
+      <guid isPermaLink="false">49fce60a2ede</guid>
+      <source url="https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/">TechCrunch</source>
+    </item>
+    <item>
+      <title>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/61798edb52ca</link>
+      <description>We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.</description>
+      <pubDate>Thu, 16 Jul 2026 20:03:23 GMT</pubDate>
+      <guid isPermaLink="false">61798edb52ca</guid>
+      <source url="https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6">Hacker News</source>
+    </item>
+    <item>
       <title>Miód, ryby i jaja na zakazanej liście. Dietetycy wskazują, kto nie powinien ich jeść</title>
       <link>https://lolsoftware.github.io/4-news/#/article/92b862589455</link>
       <description>Rozszerzenie diety niemowląt bywa problematyczne dla rodziców. Według zaleceń w pierwszych 6 miesiącach życia dziecka zalecane jest karmienie piersią albo produktami mlekozastępczymi. Warto pamiętać, że na rozszerzanie diety nie ma jednego właściwego momentu, ale lepiej przestrzegać zasad dotyczących włączania poszczególnych produktów.</description>
       <pubDate>Thu, 16 Jul 2026 20:01:00 GMT</pubDate>
       <guid isPermaLink="false">92b862589455</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Miod-ryby-i-jaja-na-zakazanej-liscie-Dietetycy-wskazuja-kto-nie-powinien-ich-jesc,286650,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Ponad 800 pożarów. Trwa walka z ogniem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ac04bc5d4f92</link>
+      <description>W Kanadzie szaleje ponad 800 pożarów, z którymi walczy tysiące strażaków. W czwartek jakość powietrza w Toronto była fatalna.</description>
+      <pubDate>Thu, 16 Jul 2026 19:55:22 GMT</pubDate>
+      <guid isPermaLink="false">ac04bc5d4f92</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/pozary-w-kanadzie-ponad-800-pozarow-trwa-walka-z-ogniem-st9146071?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Kto kogo grilluje w PiS? Kaczyński mówi, czy dojdzie do rozłamu w partii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fbce34ee6781</link>
+      <description>„My nikogo nie wyrzucamy, my tylko domagamy się elemetarnej lojalności wobec partii” - powiedział w wywiadzie dla Kanału TAK! prezes PiS Jarosław Kaczyński. Dodał, że „przedsięwzięcia, które zostały podjęte przez stowarzyszenie, na czele którego stoi Mateusz Morawiecki, to są przedsięwzięcia, które mogą nas bardzo drogo kosztować” - dodał, wymieniając jako przykład grilla organizowanego 31 lipca przez stowarzyszenie „Rozwój Plus” Morawieckiego.</description>
+      <pubDate>Thu, 16 Jul 2026 19:55:00 GMT</pubDate>
+      <guid isPermaLink="false">fbce34ee6781</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-kto-kogo-grilluje-w-pis-kaczynski-mowi-czy-dojdzie-do-rozlam,nIdn,1010269">RMF24</source>
+    </item>
+    <item>
+      <title>Some England players disappointed at tactics as Tuchel questions team&apos;s DNA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d649911bc21b</link>
+      <description>BBC Sport understands that Thomas Tuchel&apos;s defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.</description>
+      <pubDate>Thu, 16 Jul 2026 19:54:48 GMT</pubDate>
+      <guid isPermaLink="false">d649911bc21b</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Wyroki TSUE w sprawie Polski. &quot;Przybliżają nas do przywracania praworządności&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3356d3398279</link>
+      <description>Kolejne decyzje Trybunału Sprawiedliwości Unii Europejskiej przybliżają nas do przywracania praworządności - ocenił minister sprawiedliwości Waldemar Żurek. Według niego &quot;już niedługo&quot; Sąd Najwyższy &quot;w końcu będzie Sądem Najwyższym&quot;. Komentował dwa wyroki oraz opinię rzeczniczki generalnej TSUE.</description>
+      <pubDate>Thu, 16 Jul 2026 19:40:00 GMT</pubDate>
+      <guid isPermaLink="false">3356d3398279</guid>
+      <source url="https://tvn24.pl/polska/tsue-wydal-dwa-wyroki-i-opinie-minister-waldemar-zurek-przyblizaja-nas-do-przywracania-praworzadnosci-st9146123?source=rss">TVN24</source>
     </item>
     <item>
       <title>Statek musiał mieć apteczkę, ale apteka nie mogła jej sprzedać. Koniec biurokratycznego absurdu</title>
@@ -72,6 +160,14 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Rosnie-pod-plotami-i-na-polach-Polacy-tylko-patrza-a-to-witaminowa-bomba,286747,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Argentyna oskarżyła Wielką Brytanię o &quot;wojskowe wtargnięcie&quot;. Tuż po meczu na mundialu </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9b6839375a26</link>
+      <description>Argentyna oskarżyła Wielką Brytanię o &quot;wojskowe wtargnięcie&quot; brytyjskiego okrętu na jej wody - wynika z komunikatu argentyńskiego resortu dyplomacji. Informację opublikowano tuż po wygranym meczu z Anglią w półfinale mundialu. Po zakończonej rozgrywce doszło też do incydentu na murawie. W tle jest trwający od lat spór o Falklandy.</description>
+      <pubDate>Thu, 16 Jul 2026 19:05:48 GMT</pubDate>
+      <guid isPermaLink="false">9b6839375a26</guid>
+      <source url="https://tvn24.pl/swiat/argentyna-oskarzyla-anglie-o-wojskowe-wtargniecie-chwile-po-wygranym-meczu-na-mundialu-st9146052?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Lech Poznań z Superpucharem Polski. „Kolejorz” nie dał szans Górnikowi Zabrze</title>
       <link>https://lolsoftware.github.io/4-news/#/article/abb596bdb5c7</link>
       <description>Od zdobycia Superpucharu Polski rozpoczęli sezon 2026/27 piłkarze mistrza Polski Lecha Poznań. „Kolejorz” choć przegrywał 0:1 z Górnikiem Zabrze, to ostatecznie pokonał rywali na własnym stadionie 3:1. To siódmy Superpuchar Polski w dorobku klubu z Wielkopolski. Lech jest pod tym względem rekordzistą w Polsce.</description>
@@ -86,6 +182,14 @@
       <pubDate>Thu, 16 Jul 2026 18:57:47 GMT</pubDate>
       <guid isPermaLink="false">83ae946b5ca4</guid>
       <source url="https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Zmiana przepisów wizowych. Obowiązywały od dekad</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c4a8afec1603</link>
+      <description>Od września studenci będą mogli przebywać w Stanach Zjednoczonych maksymalnie cztery lata, natomiast korespondenci do 240 dni - wynika z rozporządzenia opublikowanego w dzienniku urzędowym. Władze USA uzasadniają zmianę zasad, które obowiązywały od dekad, koniecznością wzmocnienia kontroli i bezpieczeństwa narodowego.</description>
+      <pubDate>Thu, 16 Jul 2026 18:57:29 GMT</pubDate>
+      <guid isPermaLink="false">c4a8afec1603</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/usa-zmieniaja-przepisy-wizowe-obowiazywaly-od-dekad-st9146068?source=rss">TVN24</source>
     </item>
     <item>
       <title>NYT: Rubio faktycznie rządzi Wenezuelą. USA kontrolują finanse i ropę</title>
@@ -110,6 +214,14 @@
       <pubDate>Thu, 16 Jul 2026 18:44:43 GMT</pubDate>
       <guid isPermaLink="false">e0315747468f</guid>
       <source url="https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>&quot;To najtrudniejsza sytuacja&quot; w PiS &quot;od wielu lat&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9ce0c5a3218a</link>
+      <description>Mateusz Morawiecki w PiS-ie jest już skończony - stwierdził w &quot;Faktach po Faktach&quot; poseł Lewicy Tomasz Trela. Poseł PiS Kazimierz Smoliński ocenił, że to &quot;najtrudniejsza sytuacja&quot; w jego partii &quot;od wielu lat&quot;. - Ale patrząc na bardzo długą naszą historię, jestem spokojny, że przetrwamy ten problem i tę burzę - dodał.</description>
+      <pubDate>Thu, 16 Jul 2026 18:42:48 GMT</pubDate>
+      <guid isPermaLink="false">9ce0c5a3218a</guid>
+      <source url="https://tvn24.pl/polska/uchwala-i-ultimatum-dla-czlonkow-pis-to-najtrudniejsza-sytuacja-od-wielu-lat-st9146038?source=rss">TVN24</source>
     </item>
     <item>
       <title>NASA Study Finds Near-Earth Asteroid Is Actually Comet</title>
@@ -144,12 +256,28 @@
       <source url="https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/">TechCrunch</source>
     </item>
     <item>
+      <title>Zmiany w rządzie Ukrainy. Wołodymyr Zełenski wskazał nowego ministra obrony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/75c1b3426310</link>
+      <description>Prezydent Wołodymyr Zełenski powierzył obowiązki ministra obrony szefowi Służby Bezpieczeństwa Ukrainy Jewhenijowi Chmarze. Wcześniej odwołany został dotychczasowy minister Mychajło Fedorow, co wywołało protesty tysięcy Ukraińców.</description>
+      <pubDate>Thu, 16 Jul 2026 18:29:11 GMT</pubDate>
+      <guid isPermaLink="false">75c1b3426310</guid>
+      <source url="https://tvn24.pl/swiat/ukraina-wolodymyr-zelenski-powierzyl-obowiazki-ministra-obrony-jewhenijowi-chmarze-st9146032?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Co mówią o nas te liczby? Nowe dane CBOS odsłaniają nieznane podziały</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4f8bbe7326f8</link>
       <description>47 proc. Polaków - w pierwszej połowie tego roku - uważało, że sytuacja w kraju zmierza w złym kierunku, a 31 proc. oceniało ją pozytywnie – wynika z badania CBOS. Największy poziom krytycyzmu i pesymizmu odnotowano w województwach wschodnich i południowo-wschodnich.</description>
       <pubDate>Thu, 16 Jul 2026 18:26:00 GMT</pubDate>
       <guid isPermaLink="false">4f8bbe7326f8</guid>
       <source url="https://www.rmf24.pl/fakty/polityka/news-co-mowia-o-nas-te-liczby-nowe-dane-cbos-odslaniaja-nieznane-,nIdn,1010262">RMF24</source>
+    </item>
+    <item>
+      <title>Pyton pod ubraniem. Pasażerka została zatrzymana na lotnisku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/09e7d5bcb2e9</link>
+      <description>Kanadyjka próbowała wnieść na pokład samolotu pytona królewskiego ukrytego w biustonoszu. Kobieta została zatrzymana podczas kontroli bezpieczeństwa na lotnisku Amsterdam-Schiphol, a jej wyjaśnienia dotyczące pochodzenia węża wzbudziły sceptycyzm holenderskich służb.</description>
+      <pubDate>Thu, 16 Jul 2026 18:24:34 GMT</pubDate>
+      <guid isPermaLink="false">09e7d5bcb2e9</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/holandia-pyton-pod-ubraniem-pasazerka-zostala-zatrzymana-na-lotnisku-st9145970?source=rss">TVN24</source>
     </item>
     <item>
       <title>Roblox launches an AI-powered game-creation feature in its mobile app</title>
@@ -190,6 +318,14 @@
       <pubDate>Thu, 16 Jul 2026 18:00:15 GMT</pubDate>
       <guid isPermaLink="false">fa6933da99cb</guid>
       <source url="https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Nawoływał do przestępstwa, będzie musiał opuścić Polskę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1c865e0e6502</link>
+      <description>Stołeczni policjanci zatrzymali 23-letniego obywatela Ukrainy. Młody mężczyzna opublikował w mediach społecznościowych nagranie, które zawierało nawoływanie do popełnienia przestępstwa oraz wulgarne treści skierowane do uczestników Marszu Pamięci o Ofiarach Rzezi Wołyńskiej.</description>
+      <pubDate>Thu, 16 Jul 2026 17:53:02 GMT</pubDate>
+      <guid isPermaLink="false">1c865e0e6502</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nawolywanie-do-popelnienia-przestepstwa-i-zniewazenia-uczestnikow-marszu-st9146001?source=rss">TVN24</source>
     </item>
     <item>
       <title>Zmiany w ukraińskim rządzie. Szef SBU przejmie resort obrony</title>
@@ -270,142 +406,6 @@
       <pubDate>Thu, 16 Jul 2026 17:20:47 GMT</pubDate>
       <guid isPermaLink="false">bd8005b7c053</guid>
       <source url="https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>USA zaostrzają zasady wiz studenckich i dla zagranicznych dziennikarzy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2747538db4c1</link>
-      <description>Ministerstwo Bezpieczeństwa Krajowego (DHS) opublikowało w czwartek nowe przepisy, które wprowadzą nowe restrykcje i skrócą dopuszczany czas pobytu na wizach studenckich F i J oraz dla dziennikarzy zagranicznych mediów - wynika z rozporządzenia w dzienniku urzędowym. To zmiana zasad obecnych od dekad.</description>
-      <pubDate>Thu, 16 Jul 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="false">2747538db4c1</guid>
-      <source url="https://www.bankier.pl/wiadomosc/USA-zaostrzaja-zasady-wiz-studenckich-i-dla-zagranicznych-dziennikarzy-9169339.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>PGZ zagospodarowuje hale po Rafako. Powstaną tam Jelcze, Rosomaki i system San</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ea227a4ed409</link>
-      <description>Jelcz i Rosomak podpisały umowę poddzierżawy jednej z hal po dawnym Rafako - podała w czwartek Polska Grupa Zbrojeniowa. PGZ potwierdziła realizację trzech wcześniej ogłoszonych projektów mających wykorzystywać infrastrukturę w Raciborzu: dotyczącą montażu Jelczy, spawania korpusów Rosomaków i programu San.</description>
-      <pubDate>Thu, 16 Jul 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="false">ea227a4ed409</guid>
-      <source url="https://www.bankier.pl/wiadomosc/PGZ-zagospodarowuje-hale-po-Rafako-Powstana-tam-Jelcze-Rosomaki-i-system-San-9169336.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Uber’s $14.8B Delivery Hero deal would nearly double its global footprint</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1e74384e6f7e</link>
-      <description>Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delivery platforms outside China.</description>
-      <pubDate>Thu, 16 Jul 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="false">1e74384e6f7e</guid>
-      <source url="https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Polacy wyrzucają, a można jeść na zdrowie. To prawdziwe superfoods</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ad738957854</link>
-      <description>Pestki arbuza najczęściej lądują w koszu, a to spory błąd. Są źródłem białka, cennych tłuszczów, witamin i minerałów, dlatego coraz częściej zalicza się je do produktów o wysokiej wartości odżywczej.</description>
-      <pubDate>Thu, 16 Jul 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="false">7ad738957854</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Polacy-wyrzucaja-a-mozna-jesc-na-zdrowie-To-prawdziwe-superfoods,286766,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Jest tymczasowy minister obrony Ukrainy. Zastąpi Mychajła Fedorowa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f3e2f28423de</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski powierzył obowiązki ministra obrony gen. Jewhenowi Chmarze, dotychczasowemu szefowi Służby Bezpieczeństwa Ukrainy. Decyzja zapadła po zatwierdzeniu przez parlament nowego rządu, w którym zabrakło miejsca dla dotychczasowego ministra Mychajła Fedorowa. Zmiany na szczytach władzy to efekt narastających konfliktów w ukraińskim kierownictwie wojskowym.</description>
-      <pubDate>Thu, 16 Jul 2026 17:09:00 GMT</pubDate>
-      <guid isPermaLink="false">f3e2f28423de</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-jest-tymczasowy-minister-obrony-ukrainy-zastapi-mychajla-fed,nIdn,1010258">RMF24</source>
-    </item>
-    <item>
-      <title>Spadł grad wielkości orzechów włoskich. Załamanie pogody w Turynie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/812f896028a5</link>
-      <description>We włoskiej prowincji Turyn doszło do załamania pogody. Przez region przeszła burza, podczas której sypał grad. Lokalne media podały, że lodowe kule były wielkości orzechów włoskich.</description>
-      <pubDate>Thu, 16 Jul 2026 17:07:08 GMT</pubDate>
-      <guid isPermaLink="false">812f896028a5</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/wlochy-zalamanie-pogody-gradobicie-w-turynie-nie-zyje-jedna-osoba-st9145622?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Burza w sprawie najmu. &quot;Najbardziej zadowolony może być biznes&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0b5e8634a3a0</link>
-      <description>To miała być pierwsza próba uregulowania nieuregulowanego. Zamiast tego wybuchła polityczna awantura o najem krótkoterminowy. W tle są znikające z rynku mieszkania, walka o coraz bardziej lukratywny biznes i pytanie, czy polskie miasta podzielą los europejskich metropolii, które padły ofiarą własnego sukcesu.</description>
-      <pubDate>Thu, 16 Jul 2026 17:06:36 GMT</pubDate>
-      <guid isPermaLink="false">0b5e8634a3a0</guid>
-      <source url="https://tvn24.pl/biznes/nieruchomosci/burza-w-sprawie-najmu-czy-to-lex-airbnb-najbardziej-zadowolony-moze-byc-biznes-st9145607?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Francuski parasol atomowy bliżej Niemiec? Pierwsze wspólne ćwiczenia lotnictwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b78182b78a4b</link>
-      <description>Niemcy i Francja ćwiczyły wspólnie w czwartek po raz pierwszy tankowanie w powietrzu myśliwców zdolnych do przenoszenia broni jądrowej - poinformowała agencja dpa. To pierwszy praktyczny krok uzgodnionej w marcu współpracy obu krajów w zakresie odstraszania nuklearnego.</description>
-      <pubDate>Thu, 16 Jul 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="false">b78182b78a4b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Francuski-parasol-atomowy-blizej-Niemiec-Pierwsze-wspolne-cwiczenia-lotnictwa-9169334.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Odeszła jedna z ostatnich mieszkanek Strefy Wykluczenia w Czarnobylu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b1bff5b1c148</link>
-      <description>W wieku 100 lat zmarła Maria Uljanowna Czała, najstarsza samosiołka z Czarnobyla. Samosiołka, czyli - z ukraińskiego - osoba, która po eksplozji reaktora jądrowego nr 4 w Czarnobylskiej Elektrowni Jądrowej, do której doszło w nocy z 25 na 26 kwietnia 1986 roku, samowolnie i wbrew zakazom wróciła na teren, gdzie wcześniej mieszkała, a który był już tak zwaną Strafą Zamkniętą czy inaczej Strefą Wykluczenia.</description>
-      <pubDate>Thu, 16 Jul 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="false">b1bff5b1c148</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-odeszla-jedna-z-ostatnich-mieszkanek-strefy-wykluczenia-w-cz,nIdn,1010249">RMF24</source>
-    </item>
-    <item>
-      <title>Adaptional (YC S25) Is Hiring</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/139749e6705c</link>
-      <description>Jobs at Adaptional</description>
-      <pubDate>Thu, 16 Jul 2026 17:00:55 GMT</pubDate>
-      <guid isPermaLink="false">139749e6705c</guid>
-      <source url="https://www.ycombinator.com/companies/adaptional/jobs">Hacker News</source>
-    </item>
-    <item>
-      <title>Kultowy sitcom powraca - no prawie. Wszyscy włączą HBO Max</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ebd361231b38</link>
-      <description>To będzie dobry czas dla fanów filmów i seriali - oto tytuły, które pojawią się jeszcze w lipcu na HBO Max.</description>
-      <pubDate>Thu, 16 Jul 2026 17:00:29 GMT</pubDate>
-      <guid isPermaLink="false">ebd361231b38</guid>
-      <source url="https://antyweb.pl/kultowy-sitcom-powraca-no-prawie-wszyscy-wlacza-hbo-max">Antyweb</source>
-    </item>
-    <item>
-      <title>Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8a6982f8130</link>
-      <description>Beehiiv is launching an AI Copilot to help publishers with user growth and analytics</description>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b8a6982f8130</guid>
-      <source url="https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Limit na pensje medyków, koniec z omijaniem kolejek. Te projekty mają uderzać w patologie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e5a538e1334f</link>
-      <description>Ministerstwo Zdrowia ruszyło z legislacyjną ofensywą rozwiązań mających powstrzymać patologie systemu. Do wykazu prac legislacyjnych MZ trafił pakiet projektów dotyczących tzw. saloników VIP, limitów wydatków na płace, pracy medyków w kilku miejscach jednocześnie, a także e-kolejki i e-rejestracji.</description>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e5a538e1334f</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Limit-na-pensje-medykow-koniec-z-omijaniem-kolejek-Te-projekty-maja-uderzac-w-patologie,286769,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Likwidacja gigantycznego laboratorium w Wielkopolsce. Spektakularna akcja służb</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/90239fc44db9</link>
-      <description>Dwie osoby zostały zatrzymane po zlikwidowaniu narkotykowego laboratorium w powiecie grodziskim w Wielkopolsce. To efekt kilkumiesięcznej pracy funkcjonariuszy z kilku województw. Policjanci zabezpieczyli narkotyki o czarnorynkowej wartości 14,5 miliona złotych.</description>
-      <pubDate>Thu, 16 Jul 2026 16:58:00 GMT</pubDate>
-      <guid isPermaLink="false">90239fc44db9</guid>
-      <source url="https://www.rmf24.pl/regiony/poznan/news-likwidacja-gigantycznego-laboratorium-w-wielkopolsce-spektak,nIdn,1010255">RMF24</source>
-    </item>
-    <item>
-      <title>Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/28d55e56193a</link>
-      <description>Hey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool https://github.com/traceforce/mcp-xray to detect vulnerable MCPs.</description>
-      <pubDate>Thu, 16 Jul 2026 16:52:16 GMT</pubDate>
-      <guid isPermaLink="false">28d55e56193a</guid>
-      <source url="https://news.ycombinator.com/item?id=48937020">Hacker News</source>
-    </item>
-    <item>
-      <title>Someone Used AI to Write an Unauthorized Biography of Me</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/395778cdf16d</link>
-      <description>Comments</description>
-      <pubDate>Thu, 16 Jul 2026 16:51:20 GMT</pubDate>
-      <guid isPermaLink="false">395778cdf16d</guid>
-      <source url="https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Dominik w wypadku stracił nogi. Remontują szkołę, by mógł do niej wrócić</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/813516aa89cb</link>
-      <description>Radomscy radni zdecydowali, że miasto pomoże w przystosowaniu szkoły dla 17-letniego Dominika, który w wyniku wypadku na peronie kolejowym w Woli Bierwieckiej stracił obie nogi i część dłoni.</description>
-      <pubDate>Thu, 16 Jul 2026 16:49:04 GMT</pubDate>
-      <guid isPermaLink="false">813516aa89cb</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/radom-dominik-stracil-nogi-w-wypadku-teraz-wroci-do-szkoly-miasto-pomoze-dostosowac-budynek-st9145947?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
