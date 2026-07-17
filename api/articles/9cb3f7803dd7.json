@@ -1,0 +1,13 @@
+{
+  "id": "9cb3f7803dd7",
+  "title": "The Little Book of Reinforcement Learning",
+  "originalTitle": "The Little Book of Reinforcement Learning",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/alxndrTL/little-book-rl/",
+  "publishedAt": "2026-07-16T22:27:22.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-hpc=\"true\" containertiming=\"hpc\"><article itemprop=\"text\">\n<p dir=\"auto\">This is the associated GitHub page of the Little Book of Reinforcement Learning.</p>\n<p dir=\"auto\">This book is a short introduction to Reinforcement Learning, from the basics to applied algorithms.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/alxndrTL/little-book-rl/blob/main/assets/poster_livre.png\"><img src=\"https://github.com/alxndrTL/little-book-rl/raw/main/assets/poster_livre.png\" alt=\"book\"></a></p>\n<p dir=\"auto\">In this repo, along with the book itself, you can find the supplementary material of the book.\nMore precisely:</p>\n<ul dir=\"auto\">\n<li>under the <code>algos/</code> folder, the Pytorch-based implementation of the different algorihms covered in the book, from MC to PPO.</li>\n<li>under the <code>supplementary/</code> folder, you can find detailed explanations and rigorous proofs for the dynamic programming algorithms briefly covered in the book. This is a document I wrote in 2021.</li>\n</ul>\n<p dir=\"auto\">More material is subject to be added along the way in this repo.</p>\n<p dir=\"auto\">You can print one for youself <a href=\"https://www.amazon.fr/Little-Book-Reinforcement-Learning/dp/B0H3W5PJH6/ref=sr_1_1?crid=3H05NR7B52374&amp;dib=eyJ2IjoiMSJ9.iKUkH6NQiRsFi6D8ARdAPQ.DYkU1dqtml5IBfMqGdpZBANbkpYtC4qDpIUYvxVtRJA&amp;dib_tag=se&amp;keywords=alexandre+torres+leguet&amp;qid=1783721422&amp;sprefix=alexandre+tor%2Caps%2C212&amp;sr=8-1\" rel=\"nofollow\">here</a>.</p>\n<p dir=\"auto\">Versions of the book :</p>\n<ul dir=\"auto\">\n<li>V1 (June 2026)</li>\n</ul>\n<p dir=\"auto\">The book is distributed under a non-commercial Creative Commons license (CC BY-SA 4.0).</p>\n</article></div></div>",
+  "image": "images/c9da3ae534fc.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
