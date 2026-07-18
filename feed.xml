@@ -5,8 +5,56 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 18 Jul 2026 19:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:08:44 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Polska siatkarska młodzież nie do zatrzymania. Mamy złoto mistrzostw Europy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4bfdc18a4b4b</link>
+      <description>Młodzi polscy siatkarze sięgnęli po złoto mistrzostw Europy do lat 18, pokonując w finale reprezentację Francji 3:1. Podopieczni Jacka Nawrockiego nie dali rywalom żadnych szans, a ich zwycięska seria robi wrażenie.</description>
+      <pubDate>Sat, 18 Jul 2026 20:26:00 GMT</pubDate>
+      <guid isPermaLink="false">4bfdc18a4b4b</guid>
+      <source url="https://www.rmf24.pl/siatkowka/news-polska-siatkarska-mlodziez-nie-do-zatrzymania-mamy-zloto-mis,nIdn,1010486">RMF24</source>
+    </item>
+    <item>
+      <title>Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8599161a342</link>
+      <description>A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”.</description>
+      <pubDate>Sat, 18 Jul 2026 20:15:26 GMT</pubDate>
+      <guid isPermaLink="false">b8599161a342</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Niemcy w stanie podwyższonej gotowości. Minister ostrzega</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1c3d47a1a26</link>
+      <description>Minister spraw wewnętrznych Alexander Dobrindt ogłosił, że stopień zagrożenia atakiem terrorystycznym w kraju został podniesiony do wysokiego. To efekt niepokojących informacji wywiadowczych i rosnącej liczby sygnałów ostrzegawczych.</description>
+      <pubDate>Sat, 18 Jul 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="false">b1c3d47a1a26</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-niemcy-w-stanie-podwyzszonej-gotowosci-minister-ostrzega,nIdn,1010485">RMF24</source>
+    </item>
+    <item>
+      <title>Iran zawiesił wykonywanie porozumienia pokojowego z USA. Głos zabrał najwyższy przywódca</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e57b56f1328b</link>
+      <description>Stany Zjednoczone &quot;dostaną lekcję nie do zapomnienia&quot; - irańskie media podały, że tak oświadczył najwyższy przywódca Iranu Modżtaba Chamenei. Przedtem wiceszef irańskiej dyplomacji Kazem Gharibabadi mówił, że z powodu amerykańskich ataków, wdrożenie porozumienia pokojowego zostało wstrzymane.</description>
+      <pubDate>Sat, 18 Jul 2026 19:54:11 GMT</pubDate>
+      <guid isPermaLink="false">e57b56f1328b</guid>
+      <source url="https://tvn24.pl/swiat/bliski-wschod-iran-zawiesil-wykonywanie-porozumienia-pokojowego-z-usa-glos-zabral-modztaba-chamenei-st9148660?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Dwóch żołnierzy USA nie żyje po ataku Iranu na bazę w Jordanii. Jeden wciąż zaginiony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/214eaa8cba3d</link>
+      <description>W wyniku irańskiego ataku rakietowego i dronowego na amerykańską bazę w Jordanii zginęło dwóch żołnierzy USA, a jeden jest uznawany za zaginionego – poinformowało Dowództwo Centralne Stanów Zjednoczonych.</description>
+      <pubDate>Sat, 18 Jul 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="false">214eaa8cba3d</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-dwoch-zolnierzy-usa-nie-zyje-po-ataku-iranu-na-baze-w-jordan,nIdn,1010483">RMF24</source>
+    </item>
+    <item>
+      <title>Typing Speed Test, but for Developers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc29e76dc0ce</link>
+      <description>Terminal command typing</description>
+      <pubDate>Sat, 18 Jul 2026 19:38:21 GMT</pubDate>
+      <guid isPermaLink="false">cc29e76dc0ce</guid>
+      <source url="https://haxxorwpm.0s.is/">Hacker News</source>
+    </item>
     <item>
       <title>Toksyczne i szkodliwe. Miliony Polaków ma w swojej kuchni</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5462fbac71c1</link>
@@ -358,54 +406,6 @@
       <pubDate>Sat, 18 Jul 2026 15:56:00 GMT</pubDate>
       <guid isPermaLink="false">a542a5db4692</guid>
       <source url="https://www.rmf24.pl/regiony/szczecin/news-prezydent-nawrocki-pod-ostrzalem-na-marszu-rownosci-nie-chce,nIdn,1010471">RMF24</source>
-    </item>
-    <item>
-      <title>Prezydent Nawrocki pod ostrzałem na marszu równości. „Deklarował, że jest gotów podpisać ustawę”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c9a3839e0a8e</link>
-      <description>Marsz Równości, w tym roku odbywający się pod hasłem „Płyniemy po swoje”, zgromadził w sobotę w centrum Szczecina ok. tysiąc osób. Uczestnicy nie kryli rozczarowania prezydenckim wetem do ustawy o statusie osoby najbliższej. „Pan prezydent deklarował, że jest gotów podpisać ustawę, która by regulowała najpoważniejsze i najpotrzebniejsze rzeczy. Tylko nie chce nam powiedzieć, cholera, co tam ma się znaleźć” – stwierdził przewodniczący stowarzyszenia Lambda Szczecin Andrzej Witczak.</description>
-      <pubDate>Sat, 18 Jul 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="false">c9a3839e0a8e</guid>
-      <source url="https://www.rmf24.pl/regiony/szczecin/news-prezydent-nawrocki-pod-ostrzalem-na-marszu-rownosci-deklarow,nIdn,1010471">RMF24</source>
-    </item>
-    <item>
-      <title>Wrocław rozbudowuje lotnisko. Powstanie nowy terminal</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b36d29a72d80</link>
-      <description>Władze Portu Lotniczego Wrocław podpisały umowę na budowę nowego terminalu, który będzie przeznaczony dla obsługi podróżnych spoza strefy Schengen. Będzie kosztować 15,4 mln zł i powstanie do końca kwietnia 2027 r. Inwestycja jest związana z rozbudową głównego terminalu, który jest projektowany.</description>
-      <pubDate>Sat, 18 Jul 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="false">b36d29a72d80</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Wroclaw-rozbudowuje-lotnisko-Powstanie-nowy-terminal-9168101.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Gwałtowny skok cen kawy. Pogodowe anomalie w Brazylii straszą światowe giełdy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cba080b32cbf</link>
-      <description>El Nino napędza ceny kawy na rynkach światowych - podaje International Coffee Organization, organizacja producentów kawy.</description>
-      <pubDate>Sat, 18 Jul 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="false">cba080b32cbf</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Gwaltowny-skok-cen-kawy-Pogodowe-anomalie-w-Brazylii-strasza-swiatowe-gieldy-9167229.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Federal employees can download TikTok on their work phones again</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2c2b396a2c3f</link>
-      <description>The Department of Justice says that federal employees can now download TikTok on their government devices.</description>
-      <pubDate>Sat, 18 Jul 2026 15:54:24 GMT</pubDate>
-      <guid isPermaLink="false">2c2b396a2c3f</guid>
-      <source url="https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Nigel Farage zmierzy się w wyborach z komikiem przebranym za kosmitę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f0f9530ff193</link>
-      <description>Count Binface, podający się za kosmitę człowiek w hełmie przypominającym kosz na śmieci, to najbardziej rozpoznawalny z ponad 30 kandydatów, z którymi 13 sierpnia w wyborach uzupełniających do Izby Gmin zmierzy się szef prawicowo-populistycznej partii Reform UK Nigel Farage.</description>
-      <pubDate>Sat, 18 Jul 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="false">f0f9530ff193</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nigel-Farage-zmierzy-sie-w-wyborach-z-komikiem-przebranym-za-kosmite-9170190.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Myślisz, że to urocze? Oto co naprawdę oznacza, gdy koty się liżą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e25f5fffdf78</link>
-      <description>Myślisz, że wzajemne lizanie się kotów to wyłącznie wyraz miłości i troski? Najnowsze badanie naukowców burzy ten mit. Za tym uroczym gestem może kryć się coś zupełnie innego, co zszokuje wielu właścicieli mruczków.</description>
-      <pubDate>Sat, 18 Jul 2026 15:52:00 GMT</pubDate>
-      <guid isPermaLink="false">e25f5fffdf78</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-myslisz-ze-to-urocze-oto-co-naprawde-oznacza-gdy-koty-sie-li,nIdn,1010046">RMF24</source>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,13 @@
+{
+  "id": "cc29e76dc0ce",
+  "title": "Typing Speed Test, but for Developers",
+  "originalTitle": "Typing Speed Test, but for Developers",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://haxxorwpm.0s.is/",
+  "publishedAt": "2026-07-18T19:38:21.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <header> <a href=\"https://haxxorwpm.0s.is/\" aria-label=\"HaxxorWPM home\"> <span>HaxxorWPM</span> </a> </header> <section aria-labelledby=\"testTitle\"> <div> <div> <p>Terminal command typing</p> </div> <p><span id=\"timeLeft\">60</span> <small>sec</small> </p> </div> <div aria-label=\"Test controls\"> <div> <p><span>Mode</span></p> </div> <div> <p><span>Time</span></p> </div> </div> <div aria-label=\"Live metrics\"> <p><span id=\"wpmValue\">0</span> <small>WPM</small> </p> <p><span id=\"accuracyValue\">100</span> <small>Accuracy</small> </p> <p><span id=\"commandValue\">0</span> <small>Commands</small> </p> <p><span id=\"mistakeValue\">0</span> <small>Mistakes</small> </p> </div> <label> <span> <span id=\"inputLabel\">Start typing to begin</span> <span aria-live=\"polite\"><span id=\"inlineTimeLeft\">60</span>s</span> </span> </label> </section> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
