@@ -1,0 +1,13 @@
+{
+  "id": "d1255b05e88d",
+  "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+  "originalTitle": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/openai/codex/pull/33972/files",
+  "publishedAt": "2026-07-19T07:54:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p> <strong>Have a question about this project?</strong> Sign up for a free GitHub account to open an issue and contact its maintainers and the community. </p> <div> <p><a href=\"https://github.com/signup?return_to=%2Fopenai%2Fcodex%2Fissues%2Fnew%2Fchoose\" data-view-component=\"true\"> Sign up for GitHub\n</a> </p></div> <p>By clicking “Sign up for GitHub”, you agree to our <a href=\"https://docs.github.com/terms\" target=\"_blank\">terms of service</a> and <a href=\"https://docs.github.com/privacy\" target=\"_blank\">privacy statement</a>. We’ll occasionally send you account related emails.</p> <p> Already on GitHub? <a data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;new issue modal&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/openai/codex/pull/33972/files&quot;,&quot;user_id&quot;:null}}\" data-hydro-click-hmac=\"66415afa6fc8ea2db1792379ec860f6f22d172fade1ae5016f91fa7ffcd20567\" href=\"https://github.com/login?return_to=%2Fopenai%2Fcodex%2Fissues%2Fnew%2Fchoose\">Sign in</a> to your account </p>\n</div></div>",
+  "image": "images/c5fefaec49e8.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
