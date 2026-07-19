@@ -1,0 +1,13 @@
+{
+  "id": "f6cac76f4300",
+  "title": "A Visual Catalog of Retro Macintosh Software",
+  "originalTitle": "A Visual Catalog of Retro Macintosh Software",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.marciot.com/mac68k-visual-catalog/",
+  "publishedAt": "2026-07-12T00:22:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\">\n\n<h2>A Visual Catalog of Retro Macintosh Software</h2>\n\n<p>\nA picture might be worth a thousands words, but <span id=\"totalIcons\"></span> icons are\na fun way to explore retro apps! Hover over any icon to see the file‘s name, the\ncountry of origin, and the name of the media; then go to <a href=\"https://www.marciot.com/mac68k-visual-catalog/about.html\">about page</a>\nto find links to the original media at the Macintosh Garden!\n</p>\n\n<p>\nFinder application and document icons are highlighted in <span>green</span>\nand hovering over them will reveal their file type and creator codes.\n</p>\n\n<infinite-icons numbered=\"\" populatecount=\"#totalIcons\" src=\"iconCollection\"></infinite-icons> </div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
