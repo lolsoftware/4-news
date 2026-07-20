@@ -1,0 +1,13 @@
+{
+  "id": "3b37fc49daf4",
+  "title": "Jelly UI: Soft-body physics for native HTML form controls",
+  "originalTitle": "Jelly UI: Soft-body physics for native HTML form controls",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://jelly-ui.com/",
+  "publishedAt": "2026-07-20T17:07:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2>It's okay to be<br>a little jelly</h2> <p> Jelly UI is a dependency-free Web Components library for soft, tactile product interfaces. Real form controls meet soft-body physics, with dark mode, right-to-left support and WCAG AA color tokens built in. </p> <p role=\"list\" aria-label=\"Library highlights\"> <jelly-badge role=\"listitem\" variant=\"white\" size=\"large\" outline=\"\">0 dependencies</jelly-badge> <jelly-badge role=\"listitem\" variant=\"white\" size=\"large\" outline=\"\" data-stat-count=\"\">40 custom elements</jelly-badge> <jelly-badge role=\"listitem\" variant=\"white\" size=\"large\" outline=\"\">1 script tag</jelly-badge> <jelly-badge role=\"listitem\" variant=\"white\" size=\"large\" outline=\"\">WCAG AA</jelly-badge> <jelly-badge role=\"listitem\" variant=\"white\" size=\"large\" outline=\"\">Dark mode</jelly-badge> <jelly-badge role=\"listitem\" variant=\"white\" size=\"large\" outline=\"\">RTL</jelly-badge> </p> <p> <jelly-button variant=\"mint\" size=\"large\" shape=\"square\" data-hero-scroll=\"\">Scroll the showcase ↓</jelly-button> <jelly-button size=\"large\" shape=\"square\" data-hero-api=\"\">Read the API reference →</jelly-button> </p> <div> <pre><code>&lt;script type=\"module\" src=\"https://jelly-ui.com/package.js\"&gt;&lt;/script&gt;\n\n&lt;jelly-theme mode=\"auto\"&gt; &lt;jelly-button variant=\"mint\"&gt;Publish&lt;/jelly-button&gt;\n&lt;/jelly-theme&gt;</code></pre> </div> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
