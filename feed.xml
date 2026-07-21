@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 21 Jul 2026 19:54:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:36:21 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Połączyli wątrobę pacjentki z narządem od dawcy. Niezwykły wyczyn lekarzy z Warszawy</title>
@@ -16,12 +16,108 @@
       <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Polaczyli-watrobe-pacjentki-z-narzadem-od-dawcy-Niezwykly-wyczyn-lekarzy-z-Warszawy,286931,1013.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>These are the countries moving to ban social media for children</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3a79b79b2c21</link>
+      <description>Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.</description>
+      <pubDate>Tue, 21 Jul 2026 20:57:35 GMT</pubDate>
+      <guid isPermaLink="false">3a79b79b2c21</guid>
+      <source url="https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Chelsea sign Morgan Rogers for British record transfer fee of £117m</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7fb2d75fd59e</link>
+      <description>Chelsea&apos;s £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?</description>
+      <pubDate>Tue, 21 Jul 2026 20:57:20 GMT</pubDate>
+      <guid isPermaLink="false">7fb2d75fd59e</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>OpenAI says Hugging Face was breached by its own pre-release models</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7ce03cf3bf62</link>
+      <description>OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.</description>
+      <pubDate>Tue, 21 Jul 2026 20:56:55 GMT</pubDate>
+      <guid isPermaLink="false">7ce03cf3bf62</guid>
+      <source url="https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Górnik poległ w Stambule. O wszystkim zadecyduje rewanż w Zabrzu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ed9cc6994d84</link>
+      <description>Górnik Zabrze przegrał na wyjeździe z tureckim Fenerbahce Stambuł 0:1 w pierwszym meczu drugiej rundy eliminacji Ligi Mistrzów. Bramkę na wagę zwycięstwa zdobył Talisca z rzutu wolnego. Skromne zwycięstwo Turków, daje jednak szansę wicemistrzom Polski na wywalczenie awansu do kolejnej rundy. O wszystkim zadecyduje rewanż w Polsce.</description>
+      <pubDate>Tue, 21 Jul 2026 20:50:00 GMT</pubDate>
+      <guid isPermaLink="false">ed9cc6994d84</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-gornik-polegl-w-stambule-o-wszystkim-zadecyduje-rewanz-w-zab,nIdn,1010847">RMF24</source>
+    </item>
+    <item>
       <title>Przejmą część obowiązków pielęgniarek. Szpital w Szczecinie kupił 7 robotów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1cca0f649ff2</link>
       <description>Siedem nowoczesnych robotów rozpoczęło pracę w Uniwersyteckim Szpitalu Klinicznym nr 2 w Szczecinie. Urządzenia wycenione na ponad 2,5 mln zł wyręczą personel medyczny w powtarzalnych zadaniach – od dezynfekcji sal i transportu materiałów, po kontrolę poziomu bólu pooperacyjnego czy pomoc w nauce chodzenia. Dzięki temu pielęgniarki i lekarze zyskają znacznie więcej czasu na bezpośrednią opiekę nad chorymi.</description>
       <pubDate>Tue, 21 Jul 2026 20:15:00 GMT</pubDate>
       <guid isPermaLink="false">1cca0f649ff2</guid>
       <source url="https://www.rynekzdrowia.pl/Aparatura-i-wyposazenie/Przejma-czesc-obowiazkow-pielegniarek-Szpital-w-Szczecinie-kupil-7-robotow,286947,5.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>OpenAI and Hugging Face address security incident during model evaluation</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/defb5561f788</link>
+      <description>OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.</description>
+      <pubDate>Tue, 21 Jul 2026 20:09:52 GMT</pubDate>
+      <guid isPermaLink="false">defb5561f788</guid>
+      <source url="https://openai.com/index/hugging-face-model-evaluation-security-incident/">Hacker News</source>
+    </item>
+    <item>
+      <title>NASA to Host Media Briefing on Roman Telescope, Launching Next Month</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/027f483820a5</link>
+      <description>The Roman telescope is managed at NASA Goddard with participation by the agency’s Jet Propulsion Laboratory in Southern California; Caltech/IPAC in Pasadena,</description>
+      <pubDate>Tue, 21 Jul 2026 20:07:59 GMT</pubDate>
+      <guid isPermaLink="false">027f483820a5</guid>
+      <source url="https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Lech Poznań o krok od awansu. „Kolejorz” rozbił duński Aarhus</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/df1c1de0d99b</link>
+      <description>W obecności niespełna 9,5 tysiąca widzów zgropmadzonych na stadionie w Randers mistrz Polski Lech Poznań wykonał pierwszy krok na drodze do historycznego awansu „Kolejorza” do elitarnej Champions League. Lechici w bardzo przekonywującym stylu pokonali duński Aarhus GF 4:1 i są niemal pewni awansu do kolejnej rundy kwalifikacji.</description>
+      <pubDate>Tue, 21 Jul 2026 19:53:00 GMT</pubDate>
+      <guid isPermaLink="false">df1c1de0d99b</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-lech-poznan-o-krok-od-awansu-kolejorz-rozbil-dunski-aarhus,nIdn,1010846">RMF24</source>
+    </item>
+    <item>
+      <title>Zełenski odwołał generała Syrskiego. Kto nowym głównodowodzącym armii?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/30eb4e1de635</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski odwołał generała Ołeksandra Syrskiego ze stanowiska głównodowodzącego Sił Zbrojnych Ukrainy. Jego miejsce zajmie generał Mychajło Drapatyj. Decyzja zapadła w kontekście napięć i konfliktów w ukraińskim dowództwie wojskowym.</description>
+      <pubDate>Tue, 21 Jul 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="false">30eb4e1de635</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zelenski-odwolal-generala-syrskiego-kto-nowym-glownodowodzac,nIdn,1010845">RMF24</source>
+    </item>
+    <item>
+      <title>300 milionów do wygrania w Eurojackpot</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/407e2c9effed</link>
+      <description>Nikt nie wytypował poprawnie wszystkich liczb we wtorkowym losowaniu Eurojackpot. Kumulacja rośnie do 300 milionów złotych. W Polsce najwyższe okazały się wygrane czwartego stopnia. Oto wyniki losowania z 21 lipca 2026 roku.</description>
+      <pubDate>Tue, 21 Jul 2026 19:47:59 GMT</pubDate>
+      <guid isPermaLink="false">407e2c9effed</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/eurojackpot-300-milionow-zlotych-do-wygrania-wyniki-z-21-lipca-2026-st9153047?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Wołodymyr Zełenski mianował nowego dowódcę ukraińskiej armii. Jest nim Mychajło Drapaty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f8172ab6f6f6</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski mianował Mychajła Drapatego nowym naczelnym dowódcą Sił Zbrojnych Ukrainy. Wojskowy cieszy się reputacją jednego z najbardziej szanowanych wyższych rangą dowódców na Ukrainie - napisał Kyiv Independent.</description>
+      <pubDate>Tue, 21 Jul 2026 19:47:09 GMT</pubDate>
+      <guid isPermaLink="false">f8172ab6f6f6</guid>
+      <source url="https://tvn24.pl/swiat/ukraina-mychajl-drapaty-nowym-dowodca-armii-st9153049?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Donald Tusk rozmawiał z nowym premierem Wielkiej Brytanii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/75008f8a9bcc</link>
+      <description>Donald Tusk i Andy Burnham rozmawiali we wtorek przez telefon. Szef polskiego rządu ocenił rozmowę jako &quot;przyjazną i obiecującą&quot;. Wyraził przekonanie, że oba kraje będą doskonale współpracować.</description>
+      <pubDate>Tue, 21 Jul 2026 19:44:35 GMT</pubDate>
+      <guid isPermaLink="false">75008f8a9bcc</guid>
+      <source url="https://tvn24.pl/polska/donald-tusk-i-andy-burnham-nowy-premier-wielkiej-brytanii-rozmawiali-telefonicznie-st9153042?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&apos;VPNs are lawful technical tools,&apos; says EU Court in landmark copyright ruling</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c8cfea0372b0</link>
+      <description>The Court of Justice of the European Union has ruled that publishers and VPN providers aren&apos;t liable for copyright infringement</description>
+      <pubDate>Tue, 21 Jul 2026 19:43:59 GMT</pubDate>
+      <guid isPermaLink="false">c8cfea0372b0</guid>
+      <source url="https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling">Hacker News</source>
     </item>
     <item>
       <title>Zelensky sacks Ukraine&apos;s top army commander after days of protests</title>
@@ -38,6 +134,14 @@
       <pubDate>Tue, 21 Jul 2026 19:43:41 GMT</pubDate>
       <guid isPermaLink="false">2d7014cf0589</guid>
       <source url="https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Orzeł po renowacji wylądował na Bramie Głównej UW</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/83529ceb516d</link>
+      <description>Po kilkumiesięcznych pracach konserwatorskich uniwersytecki orzeł ponownie zdobi Bramę Główną Uniwersytetu Warszawskiego. Renowacja pozwoliła oczyścić godło i odtworzyć jego historyczne barwy.</description>
+      <pubDate>Tue, 21 Jul 2026 19:41:38 GMT</pubDate>
+      <guid isPermaLink="false">83529ceb516d</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-orzel-z-bramy-glownej-uniwersytetu-warszawskiego-przeszedl-remont-st9153030?source=rss">TVN24</source>
     </item>
     <item>
       <title>AI and the rise of the universal entertainment app</title>
@@ -72,12 +176,28 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-wstrzasajace-nagranie-z-bolonii-po-smierci-fakira-wybuchly-z,nIdn,1010842">RMF24</source>
     </item>
     <item>
+      <title>Nowi ambasadorowie w Polsce. Prezydent przyjął listy uwierzytelniające</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2ead1cea1f2f</link>
+      <description>Prezydent Karol Nawrocki przyjął listy uwierzytelniające od sześciu nowych ambasadorów w Polsce. Procedura stanowi oficjalne potwierdzenie statusu dyplomaty jako przedstawiciela danego kraju w państwie przyjmującym.</description>
+      <pubDate>Tue, 21 Jul 2026 19:28:36 GMT</pubDate>
+      <guid isPermaLink="false">2ead1cea1f2f</guid>
+      <source url="https://tvn24.pl/polska/prezydent-karol-nawrocki-przyjal-listy-uwierzytelniajace-od-szesciu-ambasadorow-st9152997?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Rosja: Zatrzymano kota, który przemycał narkotyki do kolonii karnej</title>
       <link>https://lolsoftware.github.io/4-news/#/article/87abf317a5ef</link>
       <description>Kot kot</description>
       <pubDate>Tue, 21 Jul 2026 19:23:00 GMT</pubDate>
       <guid isPermaLink="false">87abf317a5ef</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-rosja-zatrzymano-kota-ktory-przemycal-narkotyki-do-kolonii-k,nIdn,1010836">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Pół Tuska&quot; ogłosiło otwarcie obwodnicy Pułtuska</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/77d139afd561</link>
+      <description>Premier Donald Tusk w dość nietypowy sposób ogłosił w mediach społecznościowych otwarcie obwodnicy Pułtuska. Ma ona długość prawie 20 kilometrów.</description>
+      <pubDate>Tue, 21 Jul 2026 19:20:47 GMT</pubDate>
+      <guid isPermaLink="false">77d139afd561</guid>
+      <source url="https://tvn24.pl/polska/donald-tusk-zabawnie-oglosil-otwarcie-obwodnicy-pultuska-st9152881?source=rss">TVN24</source>
     </item>
     <item>
       <title>USA: Wysłała męża po zakupy. Później zabiła trójkę swoich dzieci</title>
@@ -94,6 +214,30 @@
       <pubDate>Tue, 21 Jul 2026 19:09:19 GMT</pubDate>
       <guid isPermaLink="false">e82a0abf059d</guid>
       <source url="https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/">Ars Technica</source>
+    </item>
+    <item>
+      <title>&quot;Polski nie stać na tanie państwo&quot;. Związkowcy apelują do resortu finansów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/216f76c728c4</link>
+      <description>Nie ma bezpiecznego państwa bez sprawnej, dobrze opłacanej administracji publicznej - podkreśla przewodniczący Związku Zawodowego Związkowa Alternatywa Piotr Szumlewicz, domagając się od rządu podwyżek w sferze budżetowej.</description>
+      <pubDate>Tue, 21 Jul 2026 19:08:14 GMT</pubDate>
+      <guid isPermaLink="false">216f76c728c4</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/spor-o-wynagrodzenia-w-administracji-publicznej-apel-zwiazkowej-alternatywy-polski-nie-stac-na-tanie-panstwo-st9153011?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Piorun raził turystów. Jeden spadł 30 metrów w dół zbocza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e36821cd1da</link>
+      <description>Dwóch turystów z Węgier zostało w weekend rażonych piorunem. Do wypadku doszło na terenie pasma górskiego Rax w Alpach Wschodnich. Austriackie media podały, że trafili do szpitala.</description>
+      <pubDate>Tue, 21 Jul 2026 19:03:55 GMT</pubDate>
+      <guid isPermaLink="false">7e36821cd1da</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/austria-piorun-razil-turystow-w-alpach-jeden-spadl-30-metrow-ze-zbocza-st9152947?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Blok grozi zawaleniem, mieszkańcy w strachu. Decyzja uchylona, problemy zostały</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/48a57ecd42d9</link>
+      <description>Decyzja o zakazie użytkowania bloku przy ulicy Hirszfelda została uchylona. Sprawa wróci do ponownego rozpatrzenia przez Powiatowy Inspektorat Nadzoru Budowlanego. Mieszkańcy z niepokojem czekają na kolejne wieści o przyszłości budynku. Część z nich wyniosła się już do wynajętych mieszkań.</description>
+      <pubDate>Tue, 21 Jul 2026 19:01:25 GMT</pubDate>
+      <guid isPermaLink="false">48a57ecd42d9</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/ursynow/warszawa-blok-przy-hirszfelda-grozi-zawaleniem-st9150180?source=rss">TVN24</source>
     </item>
     <item>
       <title>Advertise in ChatGPT</title>
@@ -144,6 +288,14 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Pierwsze-listy-na-medycyne-w-Radomiu-Tyle-punktow-trzeba-bylo-miec-aby-sie-dostac,286949,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Polska &quot;dinozaurem&quot; Europy. Eksperci apelują w sprawie wieku emerytalnego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7203a0278e81</link>
+      <description>Wiek emerytalny nie powinien być w jakikolwiek sposób związany z rodzicielstwem - podkreśliła profesor Agnieszka Chłoń-Domińczak, dyrektorka Instytutu Statystyki i Demografii Szkoły Głównej Handlowej. Dodała, że w Europie dochodzi do jego wyrównywania, tymczasem Polska pozostaje &quot;dinozaurem&quot; na tle innych krajów. Z kolei Maciej Samcik z &quot;Subiektywnie o Finansach&quot; zaznaczył, że zrównanie wieku emerytalnego powinno być podstawą.</description>
+      <pubDate>Tue, 21 Jul 2026 18:41:32 GMT</pubDate>
+      <guid isPermaLink="false">7203a0278e81</guid>
+      <source url="https://tvn24.pl/biznes/dla-seniora/wiek-emerytalny-w-polsce-jesli-pracujecie-krocej-to-mniej-odkladacie-st9152969?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>FreeInk: Open ecosystem for e-readers</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e34a1c7cb7f4</link>
       <description>Comments</description>
@@ -184,6 +336,14 @@
       <source url="https://github.com/Kalcode/spaceprojectsim">Hacker News</source>
     </item>
     <item>
+      <title>&quot;To jest jeden ze scenariuszy&quot;. Radosław Sikorski o potencjalnych prowokacjach ze strony Rosji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c3b24495b0e0</link>
+      <description>Władimirowi Putinowi źle idzie, więc kombinuje, jak podzielić NATO - powiedział w &quot;Faktach po Faktach&quot; w TVN24 wicepremier, minister spraw zagranicznych Radosław Sikorski. Szef polskiej dyplomacji mówił o scenariuszach potencjalnych rosyjskich prowokacji wymierzonych w Polskę. Sikorski ocenił też politykę PiS wobec Ukrainy i słowa Przemysława Czarnka o wstrzymaniu pomocy dla Kijowa oraz skomentował sprawę ukrywającego się w USA Zbigniewa Ziobry.</description>
+      <pubDate>Tue, 21 Jul 2026 18:24:35 GMT</pubDate>
+      <guid isPermaLink="false">c3b24495b0e0</guid>
+      <source url="https://tvn24.pl/polska/to-jest-jeden-ze-scenariuszy-radoslaw-sikorski-o-potencjalnych-prowokacjach-ze-strony-rosji-st9152764?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Morawiecki zwrócił się do „intrygantów” w PiS. „Trzymam się kurczowo”</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e8199bd46409</link>
       <description>Mateusz Morawiecki, wiceprezes PiS i były premier, podczas spotkania z sympatykami w Małopolsce zadeklarował, że nie zamierza opuszczać Prawa i Sprawiedliwości. Jednocześnie przyznał, że w partii są osoby, które próbują wypchnąć jego środowisko ze struktur ugrupowania.</description>
@@ -208,6 +368,22 @@
       <source url="https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/">Ars Technica</source>
     </item>
     <item>
+      <title>Nie żyje ksiądz profesor Andrzej Szostek, były rektor KUL</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/12d75e77a798</link>
+      <description>Były rektor Katolickiego Uniwersytetu Lubelskiego, filozof, etyk ksiądz profesor Andrzej Szostek zmarł we wtorek w wieku 80 lat - poinformowała Archidiecezja Lubelska. Zdaniem obecnego rektora księdza profesora Mirosława Kalinowskiego, należał on do najwybitniejszych polskich etyków ostatnich dziesięcioleci.</description>
+      <pubDate>Tue, 21 Jul 2026 18:15:58 GMT</pubDate>
+      <guid isPermaLink="false">12d75e77a798</guid>
+      <source url="https://tvn24.pl/lublin/lublin-nie-zyje-ksiadz-profesor-andrzej-szostek-byly-rektor-kul-st9152972?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2616f4c67c63</link>
+      <description>As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in</description>
+      <pubDate>Tue, 21 Jul 2026 18:14:52 GMT</pubDate>
+      <guid isPermaLink="false">2616f4c67c63</guid>
+      <source url="https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Nie żyje ks. prof. Andrzej Szostek. Był rektorem KUL</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c6a73eaa239b</link>
       <description>Ks. prof. Andrzej Szostek, były rektor Katolickiego Uniwersytetu Lubelskiego, filozof i etyk, zmarł we wtorek w wieku 80 lat – poinformowała Archidiecezja Lubelska.</description>
@@ -230,182 +406,6 @@
       <pubDate>Tue, 21 Jul 2026 18:06:38 GMT</pubDate>
       <guid isPermaLink="false">881360e9e2d3</guid>
       <source url="https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ec8f52ae990c</link>
-      <description>The company didn&apos;t say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.</description>
-      <pubDate>Tue, 21 Jul 2026 18:05:10 GMT</pubDate>
-      <guid isPermaLink="false">ec8f52ae990c</guid>
-      <source url="https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Trump zaostrza retorykę wobec Iranu. Mówi o uderzeniu w zapasy uranu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/91ae98bd7d93</link>
-      <description>Prezydent USA Donald Trump ostrzegł we wtorek, że wojska amerykańskie „całkiem niedługo&quot; uderzą w miejsce, gdzie Iran może trzymać zapasy uranu. Ocenił, że po amerykańskich uderzeniach Iran będzie potrzebował 25 lat, by odbudować kraj. Zapowiedział też odpowiedź USA, jeśli rebelianci Huti zablokują Morze Czerwone.</description>
-      <pubDate>Tue, 21 Jul 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="false">91ae98bd7d93</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-trump-zaostrza-retoryke-wobec-iranu-mowi-o-uderzeniu-w-zapas,nIdn,1010833">RMF24</source>
-    </item>
-    <item>
-      <title>Microsoft stawia na Europę. Miliardowa umowa z francuskim Mistralem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/29837c457f28</link>
-      <description>Microsoft zawarł umowę opiewającą na kilka miliardów dolarów z francuską firmą AI Mistral na wykorzystywanie jej infrastruktury w Europie - poinformowała we wtorek agencja AFP, powołując się na komunikat, wydany po podpisaniu umowy.</description>
-      <pubDate>Tue, 21 Jul 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="false">29837c457f28</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Microsoft-stawia-na-Europe-Miliardowa-umowa-z-francuskim-Mistralem-9171373.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Nikt w Polsce nie słucha już radia FM? To zobaczcie te liczby – MILIONY</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba643f98dc48</link>
-      <description>W drugim kwartale 2026 roku tradycyjne stacje radiowe FM – pozostają codziennym towarzyszem ponad 60% dorosłych Polaków.</description>
-      <pubDate>Tue, 21 Jul 2026 18:00:31 GMT</pubDate>
-      <guid isPermaLink="false">ba643f98dc48</guid>
-      <source url="https://antyweb.pl/najpopularniejsze-stacje-radiowe-fm-2026">Antyweb</source>
-    </item>
-    <item>
-      <title>Apple Private Cloud Compute SoC 3 audit reports</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eeec73d1c3b1</link>
-      <description>Apple commissioned an independent examination of its controls over the Private Cloud Compute (PCC) Provisioning System; the SOC 3 report details the independent auditor’s examination of whether those controls operated effectively throughout the period.</description>
-      <pubDate>Tue, 21 Jul 2026 17:58:21 GMT</pubDate>
-      <guid isPermaLink="false">eeec73d1c3b1</guid>
-      <source url="https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web">Hacker News</source>
-    </item>
-    <item>
-      <title>Trump grozi Huti i Iranowi. Zapowiada zdecydowaną odpowiedź USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/efa85e03daa8</link>
-      <description>Prezydent USA Donald Trump ostrzegł we wtorek, że wojska amerykańskie uderzą „całkiem niedługo w miejsce, gdzie Iran może trzymać zapasy uranu oraz że po amerykańskich uderzeniach Iran będzie potrzebował 25 lat, by odbudować kraj. Zapowiedział też odpowiedź USA, jeśli rebelianci Huti zablokują Morze Czerwone.</description>
-      <pubDate>Tue, 21 Jul 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="false">efa85e03daa8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-grozi-Huti-i-Iranowi-Zapowiada-zdecydowana-odpowiedz-USA-9171372.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Naked mole-rat queens use a chemical signal to suppress fertility in rivals</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/992f8216ddb2</link>
-      <description>A single chemical made by mole-rat queens enforces the social order.</description>
-      <pubDate>Tue, 21 Jul 2026 17:51:52 GMT</pubDate>
-      <guid isPermaLink="false">992f8216ddb2</guid>
-      <source url="https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Masowe zwolnienia w Pyszne.pl? PIP i ZUS rozpoczynają kontrole</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/34c1c12c0cd7</link>
-      <description>Państwowa Inspekcja Pracy i Zakład Ubezpieczeń Społecznych rozpoczynają kontrole w Pyszne.pl - poinformowało we wtorek ministerstwo rodziny. Powodem są doniesienia, że dostawca planuje masowe zwolnienia, a pracownicy mają być ponownie zatrudniani na gorszych warunkach.</description>
-      <pubDate>Tue, 21 Jul 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="false">34c1c12c0cd7</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Masowe-zwolnienia-w-Pyszne-pl-PIP-i-ZUS-rozpoczynaja-kontrole-9171370.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>60 turystów „zatruło się” wodą z basenu na wybrzeżu Costa del Sol</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/27c8e1cb275f</link>
-      <description>Co najmniej 60 osób trafiło do szpitala po kąpieli w hotelowym basenie w hiszpańskiej miejscowości Benahavis niedaleko Marbelli na wybrzeżu Costa del Sol. Do zdarzenia doszło w niedzielę. Wśród poszkodowanych są m.in. Brytyjczycy - informuje hiszpański dziennik „Diario Sur”.</description>
-      <pubDate>Tue, 21 Jul 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="false">27c8e1cb275f</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-60-turystow-zatrulo-sie-woda-z-basenu-na-wybrzezu-costa-del-,nIdn,1010831">RMF24</source>
-    </item>
-    <item>
-      <title>Kanada odpowie na nowe cła USA. Carney: Rozważamy wszystkie opcje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/51b90b316be7</link>
-      <description>Kanada rozważy swoje opcje, jeśli amerykańskie cła wejdą w życie – zapowiedział we wtorek premier Mark Carney przed spotkaniem z premierami kanadyjskich prowincji i terytoriów. Dodał, że z prezydentem USA Donaldem Trumpem uzgodnili intensyfikację rozmów.</description>
-      <pubDate>Tue, 21 Jul 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="false">51b90b316be7</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kanada-odpowie-na-nowe-cla-USA-Carney-Rozwazamy-wszystkie-opcje-9171366.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>„Tak, żeby syfu nie było”. Patomorfolog stracił pracę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/11820e0e93ed</link>
-      <description>Patomorfolog, który przeprowadzał sekcję zwłok pacjenta zmarłego w toalecie Warszawskiego Szpitala Południowego, został zwolniony z pracy w Narodowym Instytucie Onkologii - poinformował poseł PiS Janusz Cieszyński.</description>
-      <pubDate>Tue, 21 Jul 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="false">11820e0e93ed</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-tak-zeby-syfu-nie-bylo-patomorfolog-stracil-prace,nIdn,1010830">RMF24</source>
-    </item>
-    <item>
-      <title>Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/878389a947a3</link>
-      <description>Anthropic blocks authors from opting out of $1.5B settlement at last minute.</description>
-      <pubDate>Tue, 21 Jul 2026 17:33:14 GMT</pubDate>
-      <guid isPermaLink="false">878389a947a3</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Kryzys w PiS. Tak Polacy oceniają konflikt w partii </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb3af38826f8</link>
-      <description>Mateusz Morawiecki byłby lepszym premierem od Przemysława Czarnka - wynika z najnowszego sondażu Opinia24 dla &quot;Faktów&quot; TVN i TVN24. Pracownia zapytała badanych także o przyczyny konfliktu w Prawie i Sprawiedliwości i przyszłość Morawieckiego w ugrupowaniu.</description>
-      <pubDate>Tue, 21 Jul 2026 17:30:57 GMT</pubDate>
-      <guid isPermaLink="false">bb3af38826f8</guid>
-      <source url="https://tvn24.pl/polska/jak-polacy-oceniaja-konflikt-w-pis-najnowszy-sondaz-st9152740?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e5b3469f947f</link>
-      <description>A lightweight but powerful alternative to Adobe Bridge for Mac - cristibaluta/Imagin-Raw</description>
-      <pubDate>Tue, 21 Jul 2026 17:30:01 GMT</pubDate>
-      <guid isPermaLink="false">e5b3469f947f</guid>
-      <source url="https://github.com/cristibaluta/Imagin-Raw">Hacker News</source>
-    </item>
-    <item>
-      <title>Burnham tells cabinet to tackle living costs at first meeting</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2bdef4c29bbc</link>
-      <description>The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.</description>
-      <pubDate>Tue, 21 Jul 2026 17:25:41 GMT</pubDate>
-      <guid isPermaLink="false">2bdef4c29bbc</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Już nie 10 tys. kroków. Naukowcy wskazali, po ilu mózg odczuje różnicę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e6a054b2112d</link>
-      <description>Nie musisz robić codziennie 10 tysięcy kroków, aby zadbać o zdrowie mózgu. Coraz więcej badań wskazuje, że nawet krótki spacer wykonywany regularnie może wspierać pamięć i spowalniać procesy związane z rozwojem choroby Alzheimera.</description>
-      <pubDate>Tue, 21 Jul 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="false">e6a054b2112d</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Juz-nie-10-tys-krokow-Naukowcy-wskazali-po-ilu-mozg-odczuje-roznice,286882,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Nie złożymy tych oświadczeń&quot;. Członek stowarzyszenia Mateusza Morawieckiego o ultimatum w PiS</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8cd2c8fb892</link>
-      <description>Członkowie stowarzyszenia Rozwój Plus potwierdzają, że nie złożyli oświadczeń i nie zamierzają tego robić - przekazał w &quot;Tak jest&quot; w TVN24 członek stowarzyszenia Mateusza Morawieckiego Krzysztof Szczucki. Zawieszony w prawach członka partii poseł klubu PiS powiedział, co jego zdaniem zdarzy się w czwartek, kiedy upłynie termin ultimatum wystosowanego przez kierownictwo partii.</description>
-      <pubDate>Tue, 21 Jul 2026 17:22:33 GMT</pubDate>
-      <guid isPermaLink="false">b8cd2c8fb892</guid>
-      <source url="https://tvn24.pl/polska/nie-zlozymy-tych-oswiadczen-czlonek-stowarzyszenia-mateusza-morawieckiego-o-ultimatum-w-pis-st9152754?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/690d7d247f17</link>
-      <description>Personal command vault for your terminal — inline fuzzy search, variables, workflows, MCP. ~2ms, zero deps. - matheuzgomes/decoreba</description>
-      <pubDate>Tue, 21 Jul 2026 17:22:17 GMT</pubDate>
-      <guid isPermaLink="false">690d7d247f17</guid>
-      <source url="https://github.com/matheuzgomes/decoreba">Hacker News</source>
-    </item>
-    <item>
-      <title>Stop &quot;spirali płacowej&quot; w szpitalach. Długa lista zmian w wykazie prac rządu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e3767a8b8c98</link>
-      <description>W wykazie prac rządu opublikowano właśnie założenia projektu Ministerstwa Zdrowia dotyczące maksymalnych stawek godzinowych i miesięcznych dla lekarzy i innych medyków. Według resortu rozwiązania zatrzymają &quot;spiralę płacową&quot; w publicznym systemie ochrony zdrowia. Opisujemy ich szczegóły.</description>
-      <pubDate>Tue, 21 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">e3767a8b8c98</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Stop-spirali-placowej-w-szpitalach-Dluga-lista-zmian-w-wykazie-prac-rzadu,286946,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Sąd nie aresztował drogowego pirata. &quot;Oświadczył, że zrozumiał swój błąd&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3236a2c8a3f1</link>
-      <description>Mężczyzna, który potrącił w piątek nastolatka w Skrzeszewie (Mazowieckie), jest odpowiedzialny za spowodowanie dwóch innych poważnych zdarzeń drogowych. Kilka miesięcy temu 55-latek miał zatrzymane prawo jazdy. Sąd nie przychylił się do wniosku o areszt dla mężczyzny. Przyznał, że podejrzany ignorował cofnięcie uprawnień, ale tym razem &quot;oświadczył, że zrozumiał swój błąd i nie dopuści się ponownie przestępstwa&quot;.</description>
-      <pubDate>Tue, 21 Jul 2026 17:16:33 GMT</pubDate>
-      <guid isPermaLink="false">3236a2c8a3f1</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/legionowo-potracil-nastolatka-spowodowal-dwa-inne-wypadki-sad-go-nie-aresztowal-st9152806?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Google odpala petardę. Nowe Gemini ma zawstydzić konkurencję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2fe0c92d1b28</link>
-      <description>Walka na najlepszą sztuczną inteligencję trwa w najlepsze. Google właśnie zaprezentowało Gemini 3.6 Flash i podgrzewa atmosferę przed premierą Gemini 3.5 Pro.</description>
-      <pubDate>Tue, 21 Jul 2026 17:15:45 GMT</pubDate>
-      <guid isPermaLink="false">2fe0c92d1b28</guid>
-      <source url="https://antyweb.pl/google-odpala-petarde-nowe-gemini-ma-zawstydzic-konkurencje">Antyweb</source>
-    </item>
-    <item>
-      <title>Sackings, cabinet surprises and policies: Burnham&apos;s first 24 hours as PM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/54aafde645f5</link>
-      <description>The new prime minister enters Number 10 in a flurry of activity - but he is still facing calls for a snap election.</description>
-      <pubDate>Tue, 21 Jul 2026 17:14:44 GMT</pubDate>
-      <guid isPermaLink="false">54aafde645f5</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c4gjz907pppo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
