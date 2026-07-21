@@ -1,0 +1,13 @@
+{
+  "id": "7815af49999e",
+  "title": "Windows 11 zablokuje robienie zrzutów dokumentów. Jest jeden haczyk",
+  "originalTitle": "Windows 11 zablokuje robienie zrzutów dokumentów. Jest jeden haczyk",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/windows-11-zablokuje-robienie-zrzutow-dokumentow-jest-jeden-haczyk",
+  "publishedAt": "2026-07-21T07:30:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Microsoft, chcąc zadbać o bezpieczeństwo użytkowników i ich pracodawców, wprowadza pewne ograniczenia. Od sierpnia możesz nie móc dłużej robić zrzutów ekranu dokumentów.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Microsoft często zachowuje się jak ten nadopiekuńczy rodzic, który nie pozwoli nam wejść na drabinki, byśmy nie spadli i nie uderzyli się w głowę. Chcąc trzymać nas pod kloszem, firma blokuje jedną z podstawowych funkcji Windowsa 11, ale spokojnie, tylko w niektórych sytuacjach. Chodzi tu o możliwość robienia zrzutów ekranu. Nadal będziesz mógł zescreenować interesującą grafikę znalezioną w odmętach Internetu. Gorzej z dokumentami PDF.</p>  <h2>Windows 11 zablokuje zrzuty ekranu. Ale tylko dokumentów PDF i tylko w EDGE</h2> <p>Nowa funkcja będzie mocno ograniczona. To nie jest tak, że nasz system magicznie wyłączy globalnie klawisz Print Screen. Cała magia dzieje się wyłącznie wewnątrz Microsoft Edge, gdy otwierasz PDF przez przeglądarkową wbudowaną przeglądarkę OneDrive. Jeśli myślisz: „a to po prostu pobiorę plik na pulpit i zrobię zrzut lokalnie”, to sprytnie, ale administratorzy będą mogli całkowicie wyłączyć opcję pobierania. Zostajesz więc z dokumentem-widmo, którego nie da się ani uwiecznić zrzutem, ani zapisać na dysku. A przynajmniej dopóki nie sięgniesz po telefon i nie zrobisz zdjęcia, ale to już jest problem nie do obejścia.</p> <p>Dlaczego funkcja działa wyłącznie w Edge? Microsoft tłumaczy, że w obecnej chwili tylko ich przeglądarka może na razie zagwarantować spójne egzekwowanie blokad. Ma to sens wyłącznie w środowisku firmowym, gdzie Edge często jest wymuszany politykami IT.</p> <p>Funkcja aktywuje się automatycznie, gdy organizacja włączy zasadę „Do Not Allow Screen Capture in OneDrive and SharePoint” w ramach Microsoft Purview Information Protection. Według planów ma być ogólnie dostępna pod koniec sierpnia 2026 roku.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/6f6141277475.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
