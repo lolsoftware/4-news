@@ -1,0 +1,13 @@
+{
+  "id": "89dbcb754705",
+  "title": "Incremental – A library for incremental computations",
+  "originalTitle": "Incremental – A library for incremental computations",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/janestreet/incremental",
+  "publishedAt": "2026-07-21T03:50:53.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-hpc=\"true\" containertiming=\"hpc\"><article itemprop=\"text\"><p dir=\"auto\">Incremental is a library that gives you a way of building complex computations that can update efficiently in response to their inputs changing, inspired by the work of <a href=\"http://www.umut-acar.org/self-adjusting-computation\" rel=\"nofollow\">Umut Acar et. al.</a> on self-adjusting computations. Incremental can be useful in a number of applications, including:</p>\n<ul dir=\"auto\"> <li>Building large calculations (of the kind you might build into a spreadsheet) that can react efficiently to changing data.</li> <li>Constructing views in GUI applications that can incorporate new data efficiently.</li> <li>Computing derived data while guaranteeing that the derived data stays in sync with the source data, for instance filtering or inversing a mapping.</li>\n</ul>\n<p dir=\"auto\">You can find detailed documentation of the library and how to use it in <a href=\"https://github.com/janestreet/incremental/blob/master/src/incremental_intf.ml\">incremental/src/incremental_intf.ml</a>.  You can also find an informal introduction to the library in this <a href=\"https://blog.janestreet.com/introducing-incremental\" rel=\"nofollow\">blog post</a> and <a href=\"https://www.youtube.com/watch?v=G6a5G5i4gQU\" rel=\"nofollow\">this video</a>.</p>\n</article></div></div>",
+  "image": "images/349289281fcf.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
