@@ -5,8 +5,72 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:38:42 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Malleable Computing, Emacs, and You</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f70c19d3008e</link>
+      <description>It all started with a routine task. I use GitHub issues for all of my public-facing projects but my preference is keeping track of things in Org Agenda. To reconcile the two, I would manually...</description>
+      <pubDate>Wed, 22 Jul 2026 21:15:26 GMT</pubDate>
+      <guid isPermaLink="false">f70c19d3008e</guid>
+      <source url="http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Groźny wypadek na kolei. Lokomotywa wypadła z torów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e612d492536a</link>
+      <description>Lokomotywa pociągu towarowego wykoleiła się w środę na stacji Zagnańsk w województwie świętokrzyskim. „Na miejscu wypadku działają służby kolejowe. Wagonami przewożone było kruszywo” - przekazał RMF FM Tomasz Łatowski z zespołu prasowego PKP PLK. Nikt nie został poszkodowany, ruch pociągów odbywa się bez zakłóceń.</description>
+      <pubDate>Wed, 22 Jul 2026 21:12:00 GMT</pubDate>
+      <guid isPermaLink="false">e612d492536a</guid>
+      <source url="https://www.rmf24.pl/regiony/kielce/news-grozny-wypadek-na-kolei-lokomotywa-wypadla-z-torow,nIdn,1011029">RMF24</source>
+    </item>
+    <item>
+      <title>Safari Technology Preview 248 Released</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bc571d12f546</link>
+      <description>Safari Technology Preview Release 248 is now available for download for macOS Golden Gate and macOS Tahoe.</description>
+      <pubDate>Wed, 22 Jul 2026 21:00:26 GMT</pubDate>
+      <guid isPermaLink="false">bc571d12f546</guid>
+      <source url="https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/">Hacker News</source>
+    </item>
+    <item>
+      <title>Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2cf6a7ead623</link>
+      <description>Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic&apos;s Fable model to develop Kimi K3.</description>
+      <pubDate>Wed, 22 Jul 2026 20:49:03 GMT</pubDate>
+      <guid isPermaLink="false">2cf6a7ead623</guid>
+      <source url="https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a16e14be8693</link>
+      <description>Tesla&apos;s 26% boost in revenue wasn&apos;t enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.</description>
+      <pubDate>Wed, 22 Jul 2026 20:43:38 GMT</pubDate>
+      <guid isPermaLink="false">a16e14be8693</guid>
+      <source url="https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Social media addiction lawsuit against Meta is dropped</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1431fc7ecf3c</link>
+      <description>A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.</description>
+      <pubDate>Wed, 22 Jul 2026 20:36:41 GMT</pubDate>
+      <guid isPermaLink="false">1431fc7ecf3c</guid>
+      <source url="https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Microsoft brings original Xbox backward compatibility to Windows PCs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56850d674306</link>
+      <description>First four compatible titles can be run with an 11-year-old graphics card.</description>
+      <pubDate>Wed, 22 Jul 2026 20:36:19 GMT</pubDate>
+      <guid isPermaLink="false">56850d674306</guid>
+      <source url="https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/">Ars Technica</source>
+    </item>
+    <item>
+      <title>I Inspected My Take-Home Interview Project. It Was a Whole Operation</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/adff176fe238</link>
+      <description>Appaji, a Computer Science graduate from IIT Patna and former intern at Arista Networks, is a Software Engineer at Infinite Reality. Passionate about building innovative web experiences, with a strong interest in sustainable and customer-focused startups.</description>
+      <pubDate>Wed, 22 Jul 2026 20:33:44 GMT</pubDate>
+      <guid isPermaLink="false">adff176fe238</guid>
+      <source url="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/">Hacker News</source>
+    </item>
     <item>
       <title>Szpital Południowy: wyczerpujące relacje lekarzy. Prokurator mówi o skonfliktowaniu, nie zmowie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3c57d4514193</link>
@@ -16,12 +80,68 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Szpital-Poludniowy-wyczerpujace-relacje-lekarzy-Prokurator-mowi-o-skonfliktowaniu-nie-zmowie,287003,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Ta katastrofa zmieniła lotnictwo. Odnaleziono wrak samolotu Pan Am</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/057a25526344</link>
+      <description>Poszukiwacze odnaleźli na dnie morza niedaleko Portoryko wrak amerykańskiego samolotu, który zatonął tam w 1952 roku. Katastrofa ta przeszła do historii, gdyż pasażerowie przeżyli wodowanie, ale nie byli w stanie bezpiecznie opuścić maszyny. Większość utonęła.</description>
+      <pubDate>Wed, 22 Jul 2026 20:21:19 GMT</pubDate>
+      <guid isPermaLink="false">057a25526344</guid>
+      <source url="https://tvn24.pl/swiat/kolo-portoryko-odnaleziono-wrak-samolotu-pan-am-ktory-zatonal-11-kwietnia-1952-roku-st9154689?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>ISPs&apos; long nightmare of having to list all the fees they charge is finally over</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/15f05035fd50</link>
+      <description>FCC lets ISPs stop listing all fees after companies complained it was too hard.</description>
+      <pubDate>Wed, 22 Jul 2026 20:17:18 GMT</pubDate>
+      <guid isPermaLink="false">15f05035fd50</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Fairphone 6 wide camera experimental Linux support</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c287b6212b9c</link>
+      <description>Published 21 Jul 2026</description>
+      <pubDate>Wed, 22 Jul 2026 20:16:01 GMT</pubDate>
+      <guid isPermaLink="false">c287b6212b9c</guid>
+      <source url="https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/">Hacker News</source>
+    </item>
+    <item>
+      <title>Ulica pod wodą w Szczecinie. &quot;Mamy taką sadzawkę&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1f5ca9e395d1</link>
+      <description>Intensywne opady dały się we znaki mieszkańcom Szczecina. Pod wodą znalazła się ulica Derdowskiego. To kolejne zalanie w tym miejscu.</description>
+      <pubDate>Wed, 22 Jul 2026 20:05:22 GMT</pubDate>
+      <guid isPermaLink="false">1f5ca9e395d1</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/zalana-ulica-derdowskiego-w-szczecinie-przy-kazdym-wiekszym-deszczu-mamy-taka-sadzawke-st9154773?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Co się wydarzy na spotkaniu prezesa PiS i Mateusza Morawieckiego? Znamy &quot;podstawowy argument&quot; </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/76adc9a4e4af</link>
+      <description>Po pierwsze chcą zwiększyć swój udział we władzach partii - to według Arlety Zalewskiej główne żądanie obozu Mateusza Morawieckiego, z jakim były premier pójdzie na czwartkowe spotkanie z Jarosławem Kaczyńskim. W programie &quot;W kuluarach&quot; w TVN24 dziennikarka wskazała też &quot;granicę nie do przejścia&quot; dla prezesa PiS. Agata Adamek mówiła o grupie działaczy w otoczeniu byłego premiera, których zdaniem &quot;nie warto już walczyć&quot;. Z kolei Radomir Wit przedstawił, jak konflikt w opozycji postrzega koalicja rządząca.</description>
+      <pubDate>Wed, 22 Jul 2026 19:55:03 GMT</pubDate>
+      <guid isPermaLink="false">76adc9a4e4af</guid>
+      <source url="https://tvn24.pl/polska/spotkanie-jaroslawa-kaczynskiego-i-mateusza-morawieckiego-jakie-argumenty-wysunie-kazda-ze-stron-st9154615?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Pęknięte okno w samolocie. NTSB podważa wersję Ryanaira</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/13607d7ad1c4</link>
+      <description>Amerykańska Narodowa Rada Bezpieczeństwa Transportu (NTSB) poinformowała w środę, że nie wyklucza, iż wiek lub stan techniczny samolotu był przyczyną niedawnego incydentu, w którym pasażer został częściowo wyssany przez pęknięte okno Boeinga 737 należącego do linii Ryanair. Tym samym NTSB zakwestionowała stanowisko prezesa linii lotniczych.</description>
+      <pubDate>Wed, 22 Jul 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="false">13607d7ad1c4</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-pekniete-okno-w-samolocie-ntsb-podwaza-wersje-ryanaira,nIdn,1011025">RMF24</source>
+    </item>
+    <item>
       <title>SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0d2f719e9d46</link>
       <description>SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.</description>
       <pubDate>Wed, 22 Jul 2026 19:42:56 GMT</pubDate>
       <guid isPermaLink="false">0d2f719e9d46</guid>
       <source url="https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Ewakuacja 160 osób w Jeleniej Górze. Powodem znaleziony niewybuch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f37812fc4299</link>
+      <description>160 osób ewakuowano z dworca PKS oraz galerii handlowej w Jeleniej Górze w województwie śląskim. „Powodem była informacja o znalezienie niewybuchu” - przekazała RMF FM rzeczniczka prasowa policji w Jeleniej Górze Edyta Bagrowska.</description>
+      <pubDate>Wed, 22 Jul 2026 19:41:00 GMT</pubDate>
+      <guid isPermaLink="false">f37812fc4299</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-ewakuacja-160-osob-w-jeleniej-gorze-powodem-znaleziony-niewy,nIdn,1011027">RMF24</source>
     </item>
     <item>
       <title>Ustawa o „śmierci obywatelskiej” przegłosowana. Nowe restrykcje Kremla</title>
@@ -48,12 +168,37 @@
       <source url="https://tvn24.pl/biznes/z-kraju/nie-zyje-profesor-stanislaw-gomulka-ekonomista-mial-85-lat-st9154713?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Nie żyje profesor Stanisław Gomułka. Ekonomista i były wiceminister finansów miał 85 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a38c2ff61d93</link>
+      <description>W wieku 85 lat zmarł profesor Stanisław Gomułka. Ekonomista, specjalista z zakresu teorii wzrostu gospodarczego i makroekonomii, był współtwórcą programu reform w przełomowym okresie polskiej transformacji.</description>
+      <pubDate>Wed, 22 Jul 2026 19:25:20 GMT</pubDate>
+      <guid isPermaLink="false">a38c2ff61d93</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/nie-zyje-profesor-stanislaw-gomulka-ekonomista-i-byly-wiceminister-finansow-mial-85-lat-st9154713?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Polak Jan K. poszukiwany w Argentynie. Miał zabić kobietę w Kordobie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/329fedab5e47</link>
       <description>Argentyńska prokuratura wydała międzynarodowy list gończy za 45-letnim obywatelem Polski, podejrzanym o zabójstwo swojej partnerki w mieście Cordoba. W sprawę zaangażowany jest Interpol, a dramatyczne okoliczności śmierci 38-letniej Luciany Ojedy wstrząsnęły lokalną społecznością.</description>
       <pubDate>Wed, 22 Jul 2026 19:25:00 GMT</pubDate>
       <guid isPermaLink="false">329fedab5e47</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-polak-jan-k-poszukiwany-w-argentynie-mial-zabic-kobiete-w-ko,nIdn,1011022">RMF24</source>
+    </item>
+    <item>
+      <title>John C. Dvorak has died</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8cb4c71ae3ec</link>
+      <description>It is with great sadness that we announce the passing of John C. Dvorak, our beloved husband, father, and cherished host of the No Agenda Show at the age of 74.
+More to follow.</description>
+      <pubDate>Wed, 22 Jul 2026 19:22:19 GMT</pubDate>
+      <guid isPermaLink="false">8cb4c71ae3ec</guid>
+      <source url="https://twitter.com/NA_Announce/status/2079952538040672302">Hacker News</source>
+    </item>
+    <item>
+      <title>Clayface trailer leans into the body horror</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5e90748b66d6</link>
+      <description>The people I trusted betrayed me. The justice system failed me.&quot;</description>
+      <pubDate>Wed, 22 Jul 2026 19:18:17 GMT</pubDate>
+      <guid isPermaLink="false">5e90748b66d6</guid>
+      <source url="https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/">Ars Technica</source>
     </item>
     <item>
       <title>Jest decyzja w sprawie Rzecznika Praw Obywatelskich</title>
@@ -262,154 +407,6 @@
       <pubDate>Wed, 22 Jul 2026 17:49:34 GMT</pubDate>
       <guid isPermaLink="false">751974420eb6</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Przesluchaja-lekarzy-pielegniarki-recepcjonistki-Kacprzyk-i-Trzaskowski-czekaja,287003,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Everyone Should Know SIMD</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/edb9884c0bcf</link>
-      <description>SIMD
-has a reputation for being complex. I&apos;ve met many very good software engineers
-who dismiss it as something too complex to learn or a niche optimization
-meant for only the highest-performance software, not useful in everyday
-programming.</description>
-      <pubDate>Wed, 22 Jul 2026 17:48:18 GMT</pubDate>
-      <guid isPermaLink="false">edb9884c0bcf</guid>
-      <source url="https://mitchellh.com/writing/everyone-should-know-simd">Hacker News</source>
-    </item>
-    <item>
-      <title>Klasyka z XBOXa na PC. Microsoft wyciąga rękę do graczy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e54b2e6ff3bb</link>
-      <description>Microsoft chce nam udowodnić, że ochrona dziedzictwa gier wideo oraz budowanie spójnego ekosystemu to dla niego absolutne priorytety.</description>
-      <pubDate>Wed, 22 Jul 2026 17:45:49 GMT</pubDate>
-      <guid isPermaLink="false">e54b2e6ff3bb</guid>
-      <source url="https://antyweb.pl/klasyka-z-xboxa-na-pc-microsoft-wyciaga-reke-do-graczy">Antyweb</source>
-    </item>
-    <item>
-      <title>Szpital w Tychach otrzymał blisko 300 tys. zł. Skorzystają pacjenci lekarzy rodzinnych, przychodni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/251d34649e35</link>
-      <description>Szpital Megrez w Tychach pozyskał 298,2 tys. zł w projekcie grantowym realizowanym na podstawie umowy z NFZ. Dofinansowanie ma wesprzeć POZ: zakup sprzętu diagnostycznego, doposażenie gabinetów oraz telemedycynę.</description>
-      <pubDate>Wed, 22 Jul 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">251d34649e35</guid>
-      <source url="https://www.rynekzdrowia.pl/Inwestycje/Szpital-w-Tychach-otrzymal-blisko-300-tys-zl-Skorzystaja-pacjenci-lekarzy-rodzinnych-przychodni,286988,3.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Macedonia Północna. Nawałnica nad stolicą. Zerwany dach spadł tuż obok auta</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/370cbc7b9b27</link>
-      <description>Silne burze przeszły we wtorek nad Macedonią Północną. Ponad 30 osób odniosło obrażenia. Najbardziej ucierpiała stolica kraju - Skopje. Porywisty wiatr uszkodził wiele budynków i samochodów.</description>
-      <pubDate>Wed, 22 Jul 2026 17:42:03 GMT</pubDate>
-      <guid isPermaLink="false">370cbc7b9b27</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/macedonia-polnocna-nawalnica-nad-stolica-zerwany-dach-spadl-tuz-obok-auta-st9154217?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Wieczorem dostali zgłoszenie o siedmiu osobach tonących w morzu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fb4ad302b5f6</link>
-      <description>We wtorek chwilę przed godziną 21 ratownicy w Dziwnowie (Zachodniopomorskie) dostali zgłoszenie o siedmiu osobach tonących w morzu. Wszystkich uratowano. Mężczyzna potrzebował pomocy medycznej, trafił do szpitala.</description>
-      <pubDate>Wed, 22 Jul 2026 17:40:23 GMT</pubDate>
-      <guid isPermaLink="false">fb4ad302b5f6</guid>
-      <source url="https://tvn24.pl/szczecin/dziwnow-dostali-zgloszenie-o-siedmiu-osobach-tonacych-w-morzu-st9154631?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ogromny pożar w Chorzowie. Kłęby czarnego dymu widoczne z kilku kilometrów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/856637817d86</link>
-      <description>W Chorzowie w województwie śląskim doszło do pożaru. Jak podają lokalne media, prawdopodobnie palą się Apartamenty Królewskie. Daniel Beger, prezydent Świętochłowic, poinformował, że kłęby czarnego dymu widoczne są z kilku kilometrów. Mieszkańcy Chorzowa i okolic powinni zamknąć okna i ograniczyć wieczorną aktywność fizyczną.</description>
-      <pubDate>Wed, 22 Jul 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="false">856637817d86</guid>
-      <source url="https://www.rmf24.pl/regiony/slaskie/news-ogromny-pozar-w-chorzowie-kleby-czarnego-dymu-widoczne-z-kil,nIdn,1011011">RMF24</source>
-    </item>
-    <item>
-      <title>Wielki pożar w centrum Chorzowa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c0650e4025d7</link>
-      <description>Wielki słup dymu w centrum Chorzowa. Płonie remontowany budynek. Trwa akcja gaśnicza. Nie ma informacji o poszkodowanych.</description>
-      <pubDate>Wed, 22 Jul 2026 17:34:22 GMT</pubDate>
-      <guid isPermaLink="false">c0650e4025d7</guid>
-      <source url="https://tvn24.pl/katowice/chorzow-wielki-pozar-w-centrum-pali-sie-remontowany-budynek-st9154621?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Natalie Fleet leaves &apos;triggering&apos; safeguarding minister role</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b14c6ab23ac9</link>
-      <description>The MP for Bolsover has spoken about how she was groomed and raped as a teenager.</description>
-      <pubDate>Wed, 22 Jul 2026 17:33:56 GMT</pubDate>
-      <guid isPermaLink="false">b14c6ab23ac9</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cq56g2n083do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Afera ściekowa na Wyspach. Miał na tym zarobić miliony funtów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6dfb2809c4d2</link>
-      <description>Były szef brytyjskiej spółki wodociągowej Southern Water Matthew Wright usłyszał zarzuty zmowy w celu manipulowania wynikami badań jakości ścieków - doniosły w środę brytyjskie media. Miało to pozwolić na uniknięcie kar finansowych rzędu kilkudziesięciu milionów funtów.</description>
-      <pubDate>Wed, 22 Jul 2026 17:32:00 GMT</pubDate>
-      <guid isPermaLink="false">6dfb2809c4d2</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-afera-sciekowa-na-wyspach-mial-na-tym-zarobic-miliony-funtow,nIdn,1011013">RMF24</source>
-    </item>
-    <item>
-      <title>Terrence Tao&apos;s ChatGPT Conversation about the Jacobian Conjecture Counterexample</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c187b67b93c</link>
-      <description>ChatGPT helps you get answers, find inspiration, and be more productive.</description>
-      <pubDate>Wed, 22 Jul 2026 17:30:40 GMT</pubDate>
-      <guid isPermaLink="false">3c187b67b93c</guid>
-      <source url="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56">Hacker News</source>
-    </item>
-    <item>
-      <title>Kanibale z Gran Dolina. Nowe odkrycia w Atapuerca</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a5dc1937075</link>
-      <description>OMNONOM</description>
-      <pubDate>Wed, 22 Jul 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="false">7a5dc1937075</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-kanibale-z-gran-dolina-nowe-odkrycia-w-atapuerca,nIdn,1011003">RMF24</source>
-    </item>
-    <item>
-      <title>Nagły zwrot w sprawie sędziego Patyry. Prezydent podjął decyzję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a643c7beecd6</link>
-      <description>We wtorek, 28 lipca, prezydent Karol Nawrocki przyjmie ślubowanie od prof. Sławomira Patyry, wybranego przez Sejm na sędziego Trybunału Konstytucyjnego. Informację przekazał szef Kancelarii Prezydenta Zbigniew Bogucki. Tego samego dnia głowa państwa wręczy powołania nowym sędziom Sądu Najwyższego oraz asesorom sądów rejonowych i administracyjnych.</description>
-      <pubDate>Wed, 22 Jul 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="false">a643c7beecd6</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-nagly-zwrot-w-sprawie-sedziego-patyry-prezydent-podjal-decyz,nIdn,1011010">RMF24</source>
-    </item>
-    <item>
-      <title>GigaToken: ~1000x faster Language model tokenization</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/520cf72deab7</link>
-      <description>Language model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.</description>
-      <pubDate>Wed, 22 Jul 2026 17:20:38 GMT</pubDate>
-      <guid isPermaLink="false">520cf72deab7</guid>
-      <source url="https://github.com/marcelroed/gigatoken/">Hacker News</source>
-    </item>
-    <item>
-      <title>Are AI Labs Pelicanmaxxing?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2f44a69f2a49</link>
-      <description>I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.</description>
-      <pubDate>Wed, 22 Jul 2026 17:17:54 GMT</pubDate>
-      <guid isPermaLink="false">2f44a69f2a49</guid>
-      <source url="https://dylancastillo.co/posts/pelicanmaxxing.html">Hacker News</source>
-    </item>
-    <item>
-      <title>NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1e0545a310ae</link>
-      <description>NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International</description>
-      <pubDate>Wed, 22 Jul 2026 17:17:43 GMT</pubDate>
-      <guid isPermaLink="false">1e0545a310ae</guid>
-      <source url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Garmin kupił nowe zabawki. Dostaniemy je w cenie subskrypcji?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/140b96af9c92</link>
-      <description>Garmin oficjalnie ogłosił sfinalizowanie zakupu dwóch niezwykle popularnych i cenionych platform treningowych – TrainingPeaks oraz TrainHeroic.</description>
-      <pubDate>Wed, 22 Jul 2026 17:15:41 GMT</pubDate>
-      <guid isPermaLink="false">140b96af9c92</guid>
-      <source url="https://antyweb.pl/garmin-kupil-nowe-zabawki-dostaniemy-je-w-cenie-subskrypcji">Antyweb</source>
-    </item>
-    <item>
-      <title>Pożar u strażaków. Stracili remizę i wóz, zbierają na nowy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dff4c5a71364</link>
-      <description>Zwykle to oni niosą pomoc. Teraz sami jej potrzebują. Strażakom z OSP Witnica spłonęła remiza i wóz strażacki. Dzięki pomocy kolegów mogą znów jeździć na akcję i zbierają środki na odkupienie tego, co pochłonął ogień.</description>
-      <pubDate>Wed, 22 Jul 2026 17:15:28 GMT</pubDate>
-      <guid isPermaLink="false">dff4c5a71364</guid>
-      <source url="https://tvn24.pl/szczecin/witnica-pozar-u-strazakow-stracili-remize-i-woz-zbieraja-na-nowy-st9154609?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Google is making it easier to switch from iPhone to Android</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/83ae46ed2531</link>
-      <description>The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.</description>
-      <pubDate>Wed, 22 Jul 2026 17:08:03 GMT</pubDate>
-      <guid isPermaLink="false">83ae46ed2531</guid>
-      <source url="https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/">TechCrunch</source>
     </item>
   </channel>
 </rss>
