@@ -1,0 +1,13 @@
+{
+  "id": "8079455599c0",
+  "title": "Late.sh – a command-line Clubhouse for computer people",
+  "originalTitle": "Late.sh – a command-line Clubhouse for computer people",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://late.sh/",
+  "publishedAt": "2026-07-22T02:32:30.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div x-data=\"{ copied: null, copy(text) { navigator.clipboard.writeText(text); this.copied = text; setTimeout(() => this.copied = null, 2000); } }\"> <div> <p>a cozy command-line clubhouse for computer people</p> </div> <div> <p><span>├─</span> chill radio, classical, and guest stations</p> <p><span>├─</span> the arcade <span>(2048, sudoku, nonograms, solitaire)</span></p> <p><span>├─</span> collaborative artboard</p> <p><span>├─</span> daily challenges &amp; streaks</p> <p><span>├─</span> live chat</p> <p><span>├─</span> share &amp; discuss news</p> <p><span>└─</span> multiplayer games <span>(coming soon)</span></p> </div> <div> <p><span>#</span> artboard</p> <p>a shared <span>ASCII canvas</span>. paint, erase, sign your work.</p> <p>each cell remembers who placed it.</p> <p>snapshots are saved daily and monthly,</p> <p>so the history sticks around as the board keeps changing.</p> </div> <div> <p><span>#</span> work</p> <p>who's around, what they build, who's <span>open to gigs</span>.</p> <p>one profile per person, posted from the TUI.</p> <p>headline, status, skills, links — plus an</p> <p>optional bio, late.fetch readout, and showcase.</p> <p>to post yours, <span>ssh late.sh</span>, open the work room, press <span>i</span>.</p> </div> <div> <p><span>#</span> play</p> <p>a <span>read-only peek</span> at the TUI in your browser.</p> <p>tab around, see what's inside.</p> <p>no typing, no chat, no games — just a window</p> <p>into a shared demo session.</p> <p>for the real thing, <span>ssh late.sh</span>.</p> </div> <div> <p><span>#</span> identity</p> <p>no passwords. no OAuth. no accounts.</p> <p>your <span>ssh key</span> is your identity.</p> <p>chats, scores, and streaks are tied to your</p> <p>public key fingerprint. same key, same data.</p> </div> <div> <p><span>#</span> privacy</p> <p>we store your key <span>fingerprint</span>, not the full public key.</p> <p>no IP logging. no tracking. no analytics.</p> <p>chat messages and game scores are stored in</p> <p>postgres, tied only to your fingerprint.</p> <p>don't trust us? use a throwaway key:</p> </div> </div></div>",
+  "image": "images/7939faded993.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
