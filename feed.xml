@@ -5,408 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 22 Jul 2026 21:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:43:19 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Malleable Computing, Emacs, and You</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f70c19d3008e</link>
-      <description>It all started with a routine task. I use GitHub issues for all of my public-facing projects but my preference is keeping track of things in Org Agenda. To reconcile the two, I would manually...</description>
-      <pubDate>Wed, 22 Jul 2026 21:15:26 GMT</pubDate>
-      <guid isPermaLink="false">f70c19d3008e</guid>
-      <source url="http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html">Hacker News</source>
+      <title>Pilny komunikat GIF. Całe serie dwóch leków wycofane</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1b7c736f5177</link>
+      <description>Główny Inspektor Farmaceutyczny (GIF) wycofał z obrotu w całej Polsce wybrane serie dwóch leków - Libtayo stosowanego w leczeniu niektórych nowotworów i Bromiduo do nebulizacji. Fiolki pierwszego miały wadliwe zamknięcia, drugi - nie spełniał wymagań dotyczących masy dawki.</description>
+      <pubDate>Thu, 23 Jul 2026 08:28:00 GMT</pubDate>
+      <guid isPermaLink="false">1b7c736f5177</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/Pilny-komunikat-GIF-Cale-serie-dwoch-lekow-wycofane,287020,6.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Groźny wypadek na kolei. Lokomotywa wypadła z torów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e612d492536a</link>
-      <description>Lokomotywa pociągu towarowego wykoleiła się w środę na stacji Zagnańsk w województwie świętokrzyskim. „Na miejscu wypadku działają służby kolejowe. Wagonami przewożone było kruszywo” - przekazał RMF FM Tomasz Łatowski z zespołu prasowego PKP PLK. Nikt nie został poszkodowany, ruch pociągów odbywa się bez zakłóceń.</description>
-      <pubDate>Wed, 22 Jul 2026 21:12:00 GMT</pubDate>
-      <guid isPermaLink="false">e612d492536a</guid>
-      <source url="https://www.rmf24.pl/regiony/kielce/news-grozny-wypadek-na-kolei-lokomotywa-wypadla-z-torow,nIdn,1011029">RMF24</source>
+      <title>12 800 osób i 8 lat badań. Naukowcy orzekli: rujnują mózg, pogarszają pamięć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2239a7009377</link>
+      <description>Duże badanie obserwacyjne powiązało wyższe spożycie kilku sztucznych słodzików z szybszym pogorszeniem funkcji poznawczych, w tym pamięci. Wyniki opublikowano w „Neurology”, piśmie Amerykańskiej Akademii Neurologii.</description>
+      <pubDate>Thu, 23 Jul 2026 08:02:00 GMT</pubDate>
+      <guid isPermaLink="false">2239a7009377</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/12-800-osob-i-8-lat-badan-Naukowcy-orzekli-rujnuja-mozg-pogarszaja-pamiec,287017,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Safari Technology Preview 248 Released</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc571d12f546</link>
-      <description>Safari Technology Preview Release 248 is now available for download for macOS Golden Gate and macOS Tahoe.</description>
-      <pubDate>Wed, 22 Jul 2026 21:00:26 GMT</pubDate>
-      <guid isPermaLink="false">bc571d12f546</guid>
-      <source url="https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/">Hacker News</source>
+      <title>Ważna zmiana dla byłych i obecnych palaczy. Badania wykryją bardzo małe zmiany w płucach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3c3999f54ad8</link>
+      <description>Wchodzą w życie przepisy umożliwiające uruchomienie ogólnopolskiego programu badań przesiewowych raka płuca z wykorzystaniem niskodawkowej tomografii komputerowej. Program ma być realnie dostępny od 1 października i obejmie przede wszystkim długoletnich palaczy oraz osoby z dodatkowymi czynnikami ryzyka.</description>
+      <pubDate>Thu, 23 Jul 2026 07:45:00 GMT</pubDate>
+      <guid isPermaLink="false">3c3999f54ad8</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Choroby-Pluc/Wazna-zmiana-dla-bylych-i-obecnych-palaczy-Badania-wykryja-bardzo-male-zmiany-w-plucach,287016,1022.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2cf6a7ead623</link>
-      <description>Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic&apos;s Fable model to develop Kimi K3.</description>
-      <pubDate>Wed, 22 Jul 2026 20:49:03 GMT</pubDate>
-      <guid isPermaLink="false">2cf6a7ead623</guid>
-      <source url="https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/">TechCrunch</source>
+      <title>Nie tylko dla pasjonatów rynku. Invest Cuffs w nowej, festiwalowej formule</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d90f5d860afa</link>
+      <description>5-6 października 2026 roku Międzynarodowe Targi Poznańskie staną się na dwa dni centrum spotkań wokół finansów osobistych w Polsce. Invest Cuffs, znane dotąd jako jedna z czołowych konferencji inwestorskich w kraju, wchodzi w nową, festiwalową odsłonę – jeszcze szerszą i otwartą na osoby pragnące świadomie zarządzać swoimi finansami, niezależnie od tego, czy już inwestują, czy dopiero rozpoczynają swoją rynkową przygodę. Bankier.pl jest patronem wydarzenia.</description>
+      <pubDate>Thu, 23 Jul 2026 07:22:00 GMT</pubDate>
+      <guid isPermaLink="false">d90f5d860afa</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nie-tylko-dla-pasjonatow-rynku-Invest-Cuffs-w-nowej-festiwalowej-formule-9172044.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a16e14be8693</link>
-      <description>Tesla&apos;s 26% boost in revenue wasn&apos;t enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.</description>
-      <pubDate>Wed, 22 Jul 2026 20:43:38 GMT</pubDate>
-      <guid isPermaLink="false">a16e14be8693</guid>
-      <source url="https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/">TechCrunch</source>
+      <title>Przepalane miliardy na AI i roboty. Tesla poświęca wyniki wizjom Muska</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/17d824b95ad0</link>
+      <description>Rekordowa liczba dostarczonych aut i solidny wzrost przychodów nie wystarczyły, by zadowolić inwestorów. Tesla zaprezentowała mieszane wyniki za drugi kwartał 2026 roku, ujawniając znaczący spadek wskaźnika zysków na akcję oraz ujemne wolne przepływy pieniężne. Wall Street zaczyna niepokoić również tempo wydatków na sztuczną inteligencję, robotykę i projekt Robotaxi, na które Elon Musk planuje przeznaczyć w tym roku ponad 25 mld dolarów.</description>
+      <pubDate>Thu, 23 Jul 2026 07:03:00 GMT</pubDate>
+      <guid isPermaLink="false">17d824b95ad0</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Przepalane-miliardy-i-gotowka-na-minusie-Elon-Musk-stawia-wszystko-na-AI-9172127.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Social media addiction lawsuit against Meta is dropped</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1431fc7ecf3c</link>
-      <description>A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.</description>
-      <pubDate>Wed, 22 Jul 2026 20:36:41 GMT</pubDate>
-      <guid isPermaLink="false">1431fc7ecf3c</guid>
-      <source url="https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/">TechCrunch</source>
+      <title>Od lipca nowe zasady rozliczania nadwykonań w poradniach. NFZ wskazał wyjątki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7bfc49e969e6</link>
+      <description>Zamiast co kwartał, nadwykonania w poradniach specjalistycznych będą rozliczane po zakończeniu okresu rozliczeniowego. Jest zarządzenie prezesa Narodowego Funduszu Zdrowia w tej sprawie. Od zasady będą jednak wyjątki.</description>
+      <pubDate>Thu, 23 Jul 2026 06:50:00 GMT</pubDate>
+      <guid isPermaLink="false">7bfc49e969e6</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Od-lipca-nowe-zasady-rozliczania-nadwykonan-w-poradniach-NFZ-wskazal-wyjatki,287004,2.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Microsoft brings original Xbox backward compatibility to Windows PCs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/56850d674306</link>
-      <description>First four compatible titles can be run with an 11-year-old graphics card.</description>
-      <pubDate>Wed, 22 Jul 2026 20:36:19 GMT</pubDate>
-      <guid isPermaLink="false">56850d674306</guid>
-      <source url="https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/">Ars Technica</source>
+      <title>Nielegalne kopie płyt na Vinted. Łatwiej je sprzedać niż zgłosić</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f0cc32ea772d</link>
+      <description>Na Vinted można kupić nieautoryzowane kopie kultowych płyt i kaset - część sprzedawców sama pisze, że oferuje „przegrywki. Zgłoszenie takiej oferty platforma uznała za niebędące „jednoznacznym naruszeniem. Ogłoszenia zniknęły dopiero po pytaniach redakcji do biura prasowego.</description>
+      <pubDate>Thu, 23 Jul 2026 06:41:00 GMT</pubDate>
+      <guid isPermaLink="false">f0cc32ea772d</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nielegalne-kopie-plyt-na-Vinted-Latwiej-je-sprzedac-niz-zglosic-9172134.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>I Inspected My Take-Home Interview Project. It Was a Whole Operation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/adff176fe238</link>
-      <description>Appaji, a Computer Science graduate from IIT Patna and former intern at Arista Networks, is a Software Engineer at Infinite Reality. Passionate about building innovative web experiences, with a strong interest in sustainable and customer-focused startups.</description>
-      <pubDate>Wed, 22 Jul 2026 20:33:44 GMT</pubDate>
-      <guid isPermaLink="false">adff176fe238</guid>
-      <source url="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/">Hacker News</source>
+      <title>Ekonomista Investment Institute w UniCredit: Gdyby nie kryzys irański, ceny ropy mogłyby spaść poniżej 60 USD za baryłkę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cf819c969ebf</link>
+      <description>Do końca lata zostanie osiągnięte choć częściowe porozumienie pokojowe. W efekcie spodziewamy się, że ceny ropy Brent wyniosą średnio około 80 USD za baryłkę do końca III kwartału 2026 roku, po czym będą stopniowo spadać w kierunku 70 USD do połowy 2027 roku - mówi w rozmowie z Bankier.pl Edoardo Campanella, founding director and chief editor of the Investment Institute by UniCredit.</description>
+      <pubDate>Thu, 23 Jul 2026 06:40:00 GMT</pubDate>
+      <guid isPermaLink="false">cf819c969ebf</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ekonomista-Investment-Institute-w-UniCredit-Gdyby-nie-kryzys-iranski-ceny-ropy-moglyby-spasc-ponizej-60-USD-za-barylke-9172133.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Szpital Południowy: wyczerpujące relacje lekarzy. Prokurator mówi o skonfliktowaniu, nie zmowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c57d4514193</link>
-      <description>W sprawie Warszawskiego Szpitala Południowego prokuratura planuje przesłuchać ok. 200 świadków; dotąd czynności wykonano wobec blisko 40 osób. Rzecznik Prokuratury Okręgowej w Warszawie tłumaczy, że środowisko lekarzy jest skonfliktowane - a nie w zmowie. Złożyli obszerne wyjaśnienia. Przesłuchiwane są też pielęgniarki, recepcjonistki.</description>
-      <pubDate>Wed, 22 Jul 2026 20:30:00 GMT</pubDate>
-      <guid isPermaLink="false">3c57d4514193</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Szpital-Poludniowy-wyczerpujace-relacje-lekarzy-Prokurator-mowi-o-skonfliktowaniu-nie-zmowie,287003,2.html">Rynek Zdrowia</source>
+      <title>Dietetycy wskazali najlepsze pieczywo. Bonusy: niższe ciśnienie i mniejszy obwód talii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/872b20a3c727</link>
+      <description>Wysokie ciśnienie krwi wymaga zmiany codziennych nawyków, a jednym z nich może być wybór odpowiedniego pieczywa. Okazuje się, że zamiana jednego bochenka na inny może pomóc zadbać o serce i kontrolować poziom sodu w diecie.</description>
+      <pubDate>Thu, 23 Jul 2026 06:31:00 GMT</pubDate>
+      <guid isPermaLink="false">872b20a3c727</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Dietetycy-wskazali-najlepsze-pieczywo-Bonusy-nizsze-cisnienie-i-mniejszy-obwod-talii,286886,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Ta katastrofa zmieniła lotnictwo. Odnaleziono wrak samolotu Pan Am</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/057a25526344</link>
-      <description>Poszukiwacze odnaleźli na dnie morza niedaleko Portoryko wrak amerykańskiego samolotu, który zatonął tam w 1952 roku. Katastrofa ta przeszła do historii, gdyż pasażerowie przeżyli wodowanie, ale nie byli w stanie bezpiecznie opuścić maszyny. Większość utonęła.</description>
-      <pubDate>Wed, 22 Jul 2026 20:21:19 GMT</pubDate>
-      <guid isPermaLink="false">057a25526344</guid>
-      <source url="https://tvn24.pl/swiat/kolo-portoryko-odnaleziono-wrak-samolotu-pan-am-ktory-zatonal-11-kwietnia-1952-roku-st9154689?source=rss">TVN24</source>
+      <title>MacBook Neo 2 bez tajemnic. Wszystko co wiemy już dziś o nowym, tanim, Maku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3220fbebd1e0</link>
+      <description>Apple pracuje nad drugą generacją MacBooka Neo, której sercem ma zostać układ A19 Pro. Ponadto komputer ma dostać więcej pamięci RAM i doczekać się nowych wersji kolorystycznych. Na tę chwilę mówi się, że premiera sprzętu jest planowana na 2027 rok. To oznacza, że tani MacBook Apple może dostać nie tylko solidny wzrost wydajności, ale też lepsze wsparcie dla funkcji AI.</description>
+      <pubDate>Thu, 23 Jul 2026 06:30:34 GMT</pubDate>
+      <guid isPermaLink="false">3220fbebd1e0</guid>
+      <source url="https://antyweb.pl/macbook-neo-2-bez-tajemnic-wszystko-co-wiemy-juz-dzis-o-nowym-tanim-maku">Antyweb</source>
     </item>
     <item>
-      <title>ISPs&apos; long nightmare of having to list all the fees they charge is finally over</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15f05035fd50</link>
-      <description>FCC lets ISPs stop listing all fees after companies complained it was too hard.</description>
-      <pubDate>Wed, 22 Jul 2026 20:17:18 GMT</pubDate>
-      <guid isPermaLink="false">15f05035fd50</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/">Ars Technica</source>
+      <title>„ChatGPT kazał mu odpoczywać”. Były pastor zaufał AI i niemal stracił życie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9d2bb9551129</link>
+      <description>Mieszkaniec Florydy twierdzi, że przez zalecenia ChatGPT niemal stracił życie. Wczoraj  do Sądu Najwyższego hrabstwa San Francisco wpłynął pozew Wintersa przeciwko OpenAI – firmie, która stworzyła chatbota.</description>
+      <pubDate>Thu, 23 Jul 2026 06:29:00 GMT</pubDate>
+      <guid isPermaLink="false">9d2bb9551129</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-chatgpt-kazal-mu-odpoczywac-byly-pastor-zaufal-ai-i-niemal-s,nIdn,1011050">RMF24</source>
     </item>
     <item>
-      <title>Fairphone 6 wide camera experimental Linux support</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c287b6212b9c</link>
-      <description>Published 21 Jul 2026</description>
-      <pubDate>Wed, 22 Jul 2026 20:16:01 GMT</pubDate>
-      <guid isPermaLink="false">c287b6212b9c</guid>
-      <source url="https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/">Hacker News</source>
+      <title>Ktoś rozłożył i potłukł duże tafle szkła na placu zabaw. Apel służb</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ef964d8dd813</link>
+      <description>Na jednym z placów zabaw w Świeciu ktoś rozłożył i potłukł duże tafle szkła. Najprawdopodobniej było to celowe działanie. Służby zaapelowały do mieszkańców o pomoc w ustaleniu sprawcy.</description>
+      <pubDate>Thu, 23 Jul 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="false">ef964d8dd813</guid>
+      <source url="https://tvn24.pl/kujawsko-pomorskie/swiecie-ktos-rozlozyl-i-potlukl-duze-tafle-szkla-na-placu-zabaw-apel-sluzb-st9154960?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Ulica pod wodą w Szczecinie. &quot;Mamy taką sadzawkę&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1f5ca9e395d1</link>
-      <description>Intensywne opady dały się we znaki mieszkańcom Szczecina. Pod wodą znalazła się ulica Derdowskiego. To kolejne zalanie w tym miejscu.</description>
-      <pubDate>Wed, 22 Jul 2026 20:05:22 GMT</pubDate>
-      <guid isPermaLink="false">1f5ca9e395d1</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/zalana-ulica-derdowskiego-w-szczecinie-przy-kazdym-wiekszym-deszczu-mamy-taka-sadzawke-st9154773?source=rss">TVN24</source>
+      <title>Nowy scenariusz dla górnictwa? Daty zamykania kopalń zapewne trzeba będzie zmienić</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/77b7000cd3e5</link>
+      <description>Spadek zapotrzebowania na węgiel prawdopodobnie wymusi wcześniejsze zakończenie wydobycia, niż wynika to z umowy społecznej dla górnictwa węgla kamiennego, a obecne regiony węglowe potrzebują zróżnicowanej pomocy - to część wniosków raportu Fundacji Instrat przygotowanego w projekcie koordynowanym przez Główny Instytut Górnictwa PIB.</description>
+      <pubDate>Thu, 23 Jul 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="false">77b7000cd3e5</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nowy-scenariusz-dla-gornictwa-Daty-zamykania-kopaln-zapewne-trzeba-bedzie-zmienic-9172034.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Co się wydarzy na spotkaniu prezesa PiS i Mateusza Morawieckiego? Znamy &quot;podstawowy argument&quot; </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76adc9a4e4af</link>
-      <description>Po pierwsze chcą zwiększyć swój udział we władzach partii - to według Arlety Zalewskiej główne żądanie obozu Mateusza Morawieckiego, z jakim były premier pójdzie na czwartkowe spotkanie z Jarosławem Kaczyńskim. W programie &quot;W kuluarach&quot; w TVN24 dziennikarka wskazała też &quot;granicę nie do przejścia&quot; dla prezesa PiS. Agata Adamek mówiła o grupie działaczy w otoczeniu byłego premiera, których zdaniem &quot;nie warto już walczyć&quot;. Z kolei Radomir Wit przedstawił, jak konflikt w opozycji postrzega koalicja rządząca.</description>
-      <pubDate>Wed, 22 Jul 2026 19:55:03 GMT</pubDate>
-      <guid isPermaLink="false">76adc9a4e4af</guid>
-      <source url="https://tvn24.pl/polska/spotkanie-jaroslawa-kaczynskiego-i-mateusza-morawieckiego-jakie-argumenty-wysunie-kazda-ze-stron-st9154615?source=rss">TVN24</source>
+      <title>Zidane przejmie reprezentację Francji? Media wskazały termin</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0a100a3d96e1</link>
+      <description>Zinedine Zidane, ikona światowego futbolu i bohater francuskich kibiców, ma wkrótce objąć stanowisko selekcjonera reprezentacji Francji. Jak sugeruję media, zostanie oficjalnie zaprezentowany już 28 lipca, a jego czteroletni kontrakt ma obowiązywać do mistrzostw świata w 2030 roku.</description>
+      <pubDate>Thu, 23 Jul 2026 06:19:00 GMT</pubDate>
+      <guid isPermaLink="false">0a100a3d96e1</guid>
+      <source url="https://www.rmf24.pl/pilka-nozna/news-zidane-przejmie-reprezentacje-francji-media-wskazaly-termin,nIdn,1011051">RMF24</source>
     </item>
     <item>
-      <title>Pęknięte okno w samolocie. NTSB podważa wersję Ryanaira</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/13607d7ad1c4</link>
-      <description>Amerykańska Narodowa Rada Bezpieczeństwa Transportu (NTSB) poinformowała w środę, że nie wyklucza, iż wiek lub stan techniczny samolotu był przyczyną niedawnego incydentu, w którym pasażer został częściowo wyssany przez pęknięte okno Boeinga 737 należącego do linii Ryanair. Tym samym NTSB zakwestionowała stanowisko prezesa linii lotniczych.</description>
-      <pubDate>Wed, 22 Jul 2026 19:44:00 GMT</pubDate>
-      <guid isPermaLink="false">13607d7ad1c4</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-pekniete-okno-w-samolocie-ntsb-podwaza-wersje-ryanaira,nIdn,1011025">RMF24</source>
+      <title>Demografia wycina polskie szkoły. Puste podstawówki zamykane na potęgę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b42e96892d91</link>
+      <description>Obecny rok szkolny zakończyło 4,9 mln uczniów, to 700 tys. mniej niż kilkanaście lat temu - informuje „Dziennik Gazeta Prawna”. Efekt jest taki, że „podstawówki i przedszkola są likwidowane na potęgę”, a proces ten ma tylko postępować.</description>
+      <pubDate>Thu, 23 Jul 2026 06:19:00 GMT</pubDate>
+      <guid isPermaLink="false">b42e96892d91</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Demografia-wycina-polskie-szkoly-Puste-podstawowki-zamykane-na-potege-9172126.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0d2f719e9d46</link>
-      <description>SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.</description>
-      <pubDate>Wed, 22 Jul 2026 19:42:56 GMT</pubDate>
-      <guid isPermaLink="false">0d2f719e9d46</guid>
-      <source url="https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/">TechCrunch</source>
+      <title>Firm hacked by rogue OpenAI models says it is &apos;a wake up call&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/adbda6d4ae55</link>
+      <description>A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the &quot;game has changed&quot;.</description>
+      <pubDate>Thu, 23 Jul 2026 06:18:37 GMT</pubDate>
+      <guid isPermaLink="false">adbda6d4ae55</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Ewakuacja 160 osób w Jeleniej Górze. Powodem znaleziony niewybuch</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f37812fc4299</link>
-      <description>160 osób ewakuowano z dworca PKS oraz galerii handlowej w Jeleniej Górze w województwie śląskim. „Powodem była informacja o znalezienie niewybuchu” - przekazała RMF FM rzeczniczka prasowa policji w Jeleniej Górze Edyta Bagrowska.</description>
-      <pubDate>Wed, 22 Jul 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="false">f37812fc4299</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-ewakuacja-160-osob-w-jeleniej-gorze-powodem-znaleziony-niewy,nIdn,1011027">RMF24</source>
+      <title>Zmarł prof. Stanisław Gomułka, ekonomista i były wiceminister finansów </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/84f60d25e420</link>
+      <description>W wieku 85 lat zmarł prof. Stanisław Gomułka, ekonomista, współtwórca programu reform w czasie polskiej transformacji, były wiceminister finansów i b. doradca prezesa Narodowego Banku Polskiego - poinformował w środę Business Centre Club.</description>
+      <pubDate>Thu, 23 Jul 2026 06:17:00 GMT</pubDate>
+      <guid isPermaLink="false">84f60d25e420</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zmarl-prof-Stanislaw-Gomulka-ekonomista-i-byly-wiceminister-finansow-9172021.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Ustawa o „śmierci obywatelskiej” przegłosowana. Nowe restrykcje Kremla</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c0b6ef36b5b</link>
-      <description>Rosyjska Duma Państwowa, której kadencja kończy się we wrześniu tego roku, jednogłośnie przyjęła dzisiaj ostatnią ustawę o „śmierci obywatelskiej”. Wprowadza ona daleko idące ograniczenia dla Rosjan przebywających za granicą, którym zarzuca się „niesubordynację” i „polityczną emigrację”.</description>
-      <pubDate>Wed, 22 Jul 2026 19:40:00 GMT</pubDate>
-      <guid isPermaLink="false">6c0b6ef36b5b</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-ustawa-o-smierci-obywatelskiej-przeglosowana-nowe-restrykcje,nIdn,1011024">RMF24</source>
+      <title>„Może niech zorganizuje jakiś kurs”. Szefowie szpitali z ironią o planach ministerstwa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/849031cbd878</link>
+      <description>Kluczem do poprawy stanu finansów systemu jest powrót do rozmowy o corocznych podwyżkach medyków. A tu nabrano wody w usta - uważa dyrektor Specjalistycznego Szpitala w Tarnowie Marcin Kuta. Szefowie lecznic oceniają proponowane przez rządzących zmiany jako &quot;bardzo populistyczne podejście do problemów ochrony zdrowia&quot;.</description>
+      <pubDate>Thu, 23 Jul 2026 06:15:00 GMT</pubDate>
+      <guid isPermaLink="false">849031cbd878</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Moze-niech-zorganizuje-jakis-kurs-Szefowie-szpitali-z-ironia-o-planach-ministerstwa,286998,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Senat poparł kandydaturę Gregorczyk-Abram na Rzecznika Praw Obywatelskich</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c096e3aa29e7</link>
-      <description>Senat RP wyraził w środę zgodę na powołanie adw. Sylwii Gregorczyk-Abram na stanowisko Rzecznika Praw Obywatelskich. Po pięciu latach zastąpi ona na tym stanowisku prof. Marcina Wiącka.</description>
-      <pubDate>Wed, 22 Jul 2026 19:39:00 GMT</pubDate>
-      <guid isPermaLink="false">c096e3aa29e7</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-senat-poparl-kandydature-gregorczyk-abram-na-rzecznika-praw-,nIdn,1011026">RMF24</source>
+      <title>Airport drop-off fees up by a third - here are the priciest</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0a1cf6b057b7</link>
+      <description>The cost of parking closest to the terminal has hit £10 at two of the UK&apos;s airports.</description>
+      <pubDate>Thu, 23 Jul 2026 06:14:49 GMT</pubDate>
+      <guid isPermaLink="false">0a1cf6b057b7</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Nie żyje profesor Stanisław Gomułka. Ekonomista miał 85 lat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1a0beb408c05</link>
-      <description>W wieku 85 lat zmarł profesor Stanisław Gomułka. Ekonomista, specjalista z zakresu teorii wzrostu gospodarczego i makroekonomii, był współtwórcą programu reform w przełomowym okresie polskiej transformacji.</description>
-      <pubDate>Wed, 22 Jul 2026 19:25:20 GMT</pubDate>
-      <guid isPermaLink="false">1a0beb408c05</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/nie-zyje-profesor-stanislaw-gomulka-ekonomista-mial-85-lat-st9154713?source=rss">TVN24</source>
+      <title>Wygląda jak stos gigantycznych głazów. W Europie powstaje „nowy cud świata”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4d7cae9bce9c</link>
+      <description>Rotterdam przygotowuje się do budowy niezwykłego obiektu, który ma być europejskim „nowym cudem świata”. Wyjątkowy projekt „Rotterdam Rocks” wyceniany na 240 milionów euro przypomina gigantyczny stos skał ułożonych jedna na drugiej. Poza surrealistyczną formą megakonstrukcja zaoferuje coś jeszcze – leśną fasadę, która stanie się tętniącym życiem, pionowym ekosystemem w samym sercu miasta.</description>
+      <pubDate>Thu, 23 Jul 2026 06:10:00 GMT</pubDate>
+      <guid isPermaLink="false">4d7cae9bce9c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wyglada-jak-stos-gigantycznych-glazow-w-europie-powstaje-now,nIdn,1011048">RMF24</source>
     </item>
     <item>
-      <title>Nie żyje profesor Stanisław Gomułka. Ekonomista i były wiceminister finansów miał 85 lat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a38c2ff61d93</link>
-      <description>W wieku 85 lat zmarł profesor Stanisław Gomułka. Ekonomista, specjalista z zakresu teorii wzrostu gospodarczego i makroekonomii, był współtwórcą programu reform w przełomowym okresie polskiej transformacji.</description>
-      <pubDate>Wed, 22 Jul 2026 19:25:20 GMT</pubDate>
-      <guid isPermaLink="false">a38c2ff61d93</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/nie-zyje-profesor-stanislaw-gomulka-ekonomista-i-byly-wiceminister-finansow-mial-85-lat-st9154713?source=rss">TVN24</source>
+      <title>ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/982001cc2d7c</link>
+      <description>ServiceNow&apos;s investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.</description>
+      <pubDate>Thu, 23 Jul 2026 06:09:13 GMT</pubDate>
+      <guid isPermaLink="false">982001cc2d7c</guid>
+      <source url="https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/">TechCrunch</source>
     </item>
     <item>
-      <title>Polak Jan K. poszukiwany w Argentynie. Miał zabić kobietę w Kordobie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/329fedab5e47</link>
-      <description>Argentyńska prokuratura wydała międzynarodowy list gończy za 45-letnim obywatelem Polski, podejrzanym o zabójstwo swojej partnerki w mieście Cordoba. W sprawę zaangażowany jest Interpol, a dramatyczne okoliczności śmierci 38-letniej Luciany Ojedy wstrząsnęły lokalną społecznością.</description>
-      <pubDate>Wed, 22 Jul 2026 19:25:00 GMT</pubDate>
-      <guid isPermaLink="false">329fedab5e47</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-polak-jan-k-poszukiwany-w-argentynie-mial-zabic-kobiete-w-ko,nIdn,1011022">RMF24</source>
+      <title>O tego zależy wysokość emerytury. Wiele osób popełnia błąd, który kosztuje tysiące złotych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d649153f35c4</link>
+      <description>Wysoka pensja wcale nie oznacza dobrej emerytury. Eksperci zwracają uwagę, że przyszłe świadczenie zależy od zupełnie innych czynników, a dwa często popełniane błędy mogą sprawić, że z ZUS co miesiąc będzie wpływać znacznie mniej pieniędzy.</description>
+      <pubDate>Thu, 23 Jul 2026 06:09:00 GMT</pubDate>
+      <guid isPermaLink="false">d649153f35c4</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/O-tego-zalezy-wysokosc-emerytury-Wiele-osob-popelnia-blad-ktory-kosztuje-tysiace-zlotych,286876,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>John C. Dvorak has died</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8cb4c71ae3ec</link>
-      <description>It is with great sadness that we announce the passing of John C. Dvorak, our beloved husband, father, and cherished host of the No Agenda Show at the age of 74.
-More to follow.</description>
-      <pubDate>Wed, 22 Jul 2026 19:22:19 GMT</pubDate>
-      <guid isPermaLink="false">8cb4c71ae3ec</guid>
-      <source url="https://twitter.com/NA_Announce/status/2079952538040672302">Hacker News</source>
+      <title>Google Meet z ważną zmianą. Użytkownicy czekali latami - i mają to!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f11ae7132959</link>
+      <description>Google Meet od teraz rozpoczyna porządkowanie notatek, transkrypcji i nagrań w nowym folderze Google Meet na Dysku Google. Taki krok znacząco ułatwi odnajdywanie materiałów po spotkaniach. Każde spotkanie dostanie własny folder, a cykliczne spotkania będą grupowane razem, co oznacza... koniec z chaosem w plikach: no nareszcie!</description>
+      <pubDate>Thu, 23 Jul 2026 06:00:20 GMT</pubDate>
+      <guid isPermaLink="false">f11ae7132959</guid>
+      <source url="https://antyweb.pl/google-meet-z-wazna-zmiana-uzytkownicy-czekali-latami-i-maja-to">Antyweb</source>
     </item>
     <item>
-      <title>Clayface trailer leans into the body horror</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5e90748b66d6</link>
-      <description>The people I trusted betrayed me. The justice system failed me.&quot;</description>
-      <pubDate>Wed, 22 Jul 2026 19:18:17 GMT</pubDate>
-      <guid isPermaLink="false">5e90748b66d6</guid>
-      <source url="https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/">Ars Technica</source>
+      <title>Znany aktor nie zapomina o swoich polskich korzeniach. Paul Wesley kończy 44 lata</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/41c84958a9e3</link>
+      <description>23 lipca urodziny obchodzi Paul Wesley, amerykański aktor, reżyser i producent, który przyszedł na świat w 1982 roku jako Paweł Tomasz Wasilewski. Choć urodził się w New Brunswick w stanie New Jersey, jego rodzice – Agnieszka i Tomasz Wasilewscy – pochodzą z Polski. Aktor wielokrotnie podkreślał swoje przywiązanie do rodzinnych korzeni.</description>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="false">41c84958a9e3</guid>
+      <source url="https://www.rmf24.pl/fakty/kultura/news-znany-aktor-nie-zapomina-o-swoich-polskich-korzeniach-paul-w,nIdn,1010881">RMF24</source>
     </item>
     <item>
-      <title>Jest decyzja w sprawie Rzecznika Praw Obywatelskich</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/018403040f6f</link>
-      <description>Senat wyraził w środę zgodę na powołanie Sylwii Gregorczyk-Abram na Rzeczniczkę Praw Obywatelskich. Po pięciu latach zastąpi ona na tym stanowisku prof. Marcina Wiącka.</description>
-      <pubDate>Wed, 22 Jul 2026 19:14:42 GMT</pubDate>
-      <guid isPermaLink="false">018403040f6f</guid>
-      <source url="https://tvn24.pl/polska/jest-decyzja-w-sprawie-rzecznika-praw-obywatelskich-kandydatura-sylwii-gregorczyk-abram-przeglosowana-st9154723?source=rss">TVN24</source>
+      <title>82. Rajd Polski już w ten weekend! Śląsk areną wielkiego powrotu asfaltowych zmagań</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e4e4bbe6d918</link>
+      <description>Wielkie święto motorsportu powraca na Śląsk. Przed nami 82. Rajd Polski – czwarta runda mistrzostw Europy ERC, która po ponad 20 latach ponownie zostanie rozegrana na asfaltowych odcinkach specjalnych. Na liście startowej znalazło się aż 148 załóg, a emocje sięgną zenitu już od pierwszych metrów.</description>
+      <pubDate>Thu, 23 Jul 2026 05:56:00 GMT</pubDate>
+      <guid isPermaLink="false">e4e4bbe6d918</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-82-rajd-polski-juz-w-ten-weekend-slask-arena-wielkiego-powro,nIdn,1011047">RMF24</source>
     </item>
     <item>
-      <title>How OpenAI’s human mistake led to the AI-powered hack on Hugging Face</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a342f8494308</link>
-      <description>OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.</description>
-      <pubDate>Wed, 22 Jul 2026 19:11:46 GMT</pubDate>
-      <guid isPermaLink="false">a342f8494308</guid>
-      <source url="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/">TechCrunch</source>
+      <title>Rewolucja na giełdzie i lokatach od 2027 r. Ustawa o OKI mija ostatnią przeszkodę w parlamencie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/df6a5fb7283a</link>
+      <description>Senat w środę nie zaproponował poprawek do ustawy o Osobistych Kontach Inwestycyjnych; teraz trafi ona na biurko prezydenta. Nowe przepisy zakładają, że aktywa inwestycyjne na koncie będą zwolnione z tzw. podatku Belki do kwoty 100 tys. zł, a oszczędnościowe - do 25 tys. zł.</description>
+      <pubDate>Thu, 23 Jul 2026 05:52:00 GMT</pubDate>
+      <guid isPermaLink="false">df6a5fb7283a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Nowa, darmowa funkcja w mObywatelu. Skorzystają uczniowie, rodzice i nauczyciele</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3721539e0756</link>
-      <description>To ważna wiadomość dla uczniów, rodziców i nauczycieli: Rada Ministrów przyjęła projekt o ustawy zmianie ustawy Prawo oświatowe oraz ustawy o systemie informacji oświatowej. Umożliwi to stworzenie bezpłatnego e-Dziennika dla szkół, a pilotaż rusza od września.</description>
-      <pubDate>Wed, 22 Jul 2026 19:10:00 GMT</pubDate>
-      <guid isPermaLink="false">3721539e0756</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Nowa-darmowa-funkcja-w-mObywatelu-Skorzystaja-uczniowie-rodzice-i-nauczyciele,286984,9.html">Rynek Zdrowia</source>
+      <title>&quot;Szybki spadek&quot;. Zamykanie kopalń może przyspieszyć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5392c1679b24</link>
+      <description>Szybkie odchodzenie od węgla może zmusić kopalnie do wcześniejszego zakończenia wydobycia - wynika z raportu Fundacji Instrat. Skutki tego procesu będą odczuwalne w różnym stopniu w poszczególnych regionach kraju.</description>
+      <pubDate>Thu, 23 Jul 2026 05:51:54 GMT</pubDate>
+      <guid isPermaLink="false">5392c1679b24</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/szybki-spadek-zamykanie-kopaln-moze-przyspieszyc-st9154869?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Police formally investigate woman, 70, after Brit stabbed to death in French village</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/34dfc16fe111</link>
-      <description>Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.</description>
-      <pubDate>Wed, 22 Jul 2026 19:03:08 GMT</pubDate>
-      <guid isPermaLink="false">34dfc16fe111</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Tu opady będą największe. Mapa i radar</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3fc40914495e</link>
+      <description>W czwartek przez Polskę przetoczy się fala burz i opadów deszczu. Lokalnie może spaść nawet kilkadziesiąt litrów na metr kwadratowy. Niewykluczone są też opady gradu.</description>
+      <pubDate>Thu, 23 Jul 2026 05:51:42 GMT</pubDate>
+      <guid isPermaLink="false">3fc40914495e</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/pogoda-radar-i-mapa-opadow-na-zywo-burze-deszcz-w-polsce-w-srode-23-07-st9154502?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Trump ma rozważać kolejną operację zbrojną. Celem grupa powiązana z Al-Kaidą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cece195598c8</link>
-      <description>„Administracja prezydenta USA Donalda Trumpa rozważa kolejną zagraniczną operację zbrojną - w Mali” - informuje dziś dziennik „Washington Post”, powołując się na swoje źródła. Celem tych działań miałaby być grupa dżihadystów powiązana z Al-Kaidą, znana jako JNIM.</description>
-      <pubDate>Wed, 22 Jul 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="false">cece195598c8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-trump-ma-rozwazac-kolejna-operacje-zbrojna-celem-grupa-powia,nIdn,1011020">RMF24</source>
+      <title>Gigantyczna fabryka narkotyków odkryta pod Sokołowem Podlaskim</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c5668ad40313</link>
+      <description>Policjanci z Komendy Powiatowej w Sokołowie Podlaskim ( Mazowickie) dokonali spektakularnego odkrycia. W miejscowości Lebiedzie, w gminie Sterdyń, funkcjonariusze natrafili na profesjonalnie zorganizowaną fabrykę narkotyków. Znaleziono tam aż 163 kilogramy klofedronu oraz 388 litrów narkotyku w postaci płynnej. To jedno z największych tego typu znalezisk w regionie.</description>
+      <pubDate>Thu, 23 Jul 2026 05:48:00 GMT</pubDate>
+      <guid isPermaLink="false">c5668ad40313</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-gigantyczna-fabryka-narkotykow-odkryta-pod-sokolowem-podlask,nIdn,1011049">RMF24</source>
     </item>
     <item>
-      <title>Travis Kalanick’s robotics company raises $1.7B, led by a16z</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ff4f84009e2</link>
-      <description>Uber is also investing in Travis Kalanick&apos;s company Atoms, which has made gauzy claims about using industrial AI to modernize the world.</description>
-      <pubDate>Wed, 22 Jul 2026 18:50:44 GMT</pubDate>
-      <guid isPermaLink="false">7ff4f84009e2</guid>
-      <source url="https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/">TechCrunch</source>
+      <title>Ann Widdecombe public memorial to be held later this year, family says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0463c56fd79f</link>
+      <description>It will follow a private funeral for family and close friends, which will be held in the coming weeks.</description>
+      <pubDate>Thu, 23 Jul 2026 05:46:48 GMT</pubDate>
+      <guid isPermaLink="false">0463c56fd79f</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cddj9edj76eo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Francja walczy z pożarami. Setki ewakuowanych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/56a973496cbc</link>
-      <description>Od początku tygodnia Francja zmaga się z falą pożarów, podsycanych przez suszę i wysoką temperaturę. W rejonie Var ogień strawił 2,5 tysiąca hektarów, a 500 osób zostało ewakuowanych z własnych domów. To kolejny epizod trudnego sezonu pożarowego dla Francji.</description>
-      <pubDate>Wed, 22 Jul 2026 18:48:58 GMT</pubDate>
-      <guid isPermaLink="false">56a973496cbc</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/francja-walczy-z-pozarami-setki-ewakuowanych-st9154424?source=rss">TVN24</source>
+      <title>76 tys. zł za dwa etaty. Prawnik: lekarze mogą pójść do dyrektorów po podwyżki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7f158b3807f6</link>
+      <description>Pensja lekarza w publicznym systemie ma wynieść maksymalnie 76,8 tys. zł na miesiąc. Będą mogli na nią liczyć zarabiający na godzinę 240 zł, o ile w ciągu miesiąca wypracują &quot;dwa etaty&quot;.  - Na większości oddziałów pediatrycznych, internistycznych, geriatrycznych takich stawek nie ma - mówi mec. Radosław Tymiński.</description>
+      <pubDate>Thu, 23 Jul 2026 05:45:00 GMT</pubDate>
+      <guid isPermaLink="false">7f158b3807f6</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/76-tys-zl-za-dwa-etaty-Prawnik-lekarze-moga-pojsc-do-dyrektorow-po-podwyzki,286995,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Włosi powiedzieli: basta. Wprowadzili kontrowersyjny zakaz na plaży</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/60bd1fa11bf8</link>
-      <description>Złe wieści dla turystów, którzy planowali umilić sobie czas spędzony we włoskim Riva del Garda przy grze w siatkówkę czy piłkę nożną na plaży. Jak informuje dziennik „Bild” władze tego popularnego kurortu postanowiły zmienić obowiązujące w tym miejscu wypoczynkowym przepisy i wprowadzić zakaz gier z użyciem piłki.</description>
-      <pubDate>Wed, 22 Jul 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="false">60bd1fa11bf8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-wlosi-powiedzieli-basta-wprowadzili-kontrowersyjny-zakaz-na-,nIdn,1011019">RMF24</source>
+      <title>Był poszukiwany za oszustwa. Wpadł podczas kradzieży alkoholu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/998854c1e1f5</link>
+      <description>Zaczęło się od kradzieży sklepowej, a skończyło na doprowadzeniu do zakładu karnego. Poszukiwany między innymi za oszustwa mężczyzna wpadł, gdy kradł alkohol w Górze Kalwarii (Mazowieckie). Na miejscu interweniował najpierw policjant po służbie, który pomógł ochronie sklepu w zatrzymaniu sprawcy.</description>
+      <pubDate>Thu, 23 Jul 2026 05:38:19 GMT</pubDate>
+      <guid isPermaLink="false">998854c1e1f5</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/gora-kalwaria-poszukiwany-za-oszustwa-wpadl-podczas-kradziezy-alkoholu-st9154614?source=rss">TVN24</source>
     </item>
     <item>
-      <title>NASA to Showcase Agency’s Newest Wind Tunnel in Virginia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d9efe0edb99</link>
-      <description>Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the</description>
-      <pubDate>Wed, 22 Jul 2026 18:47:05 GMT</pubDate>
-      <guid isPermaLink="false">8d9efe0edb99</guid>
-      <source url="https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/">NASA Breaking News</source>
+      <title>WhatsApp odpala petardę. 3 nowe funkcje właśnie trafiają do komunikatora</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6d0b2ee136f3</link>
+      <description>WhatsApp właśnie rozwija skrzydła na iPadzie, w samochodach i w kwestii obsługi plików. Jakby tego było mało, platforma pozwala szybciej dzielić się muzyką w Statusie! To zestaw zmian, który wyraźnie pokazują, że komunikator ma działać płynnie nie tylko na telefonie, ale też tam, gdzie faktycznie korzystamy z niego na co dzień.</description>
+      <pubDate>Thu, 23 Jul 2026 05:30:18 GMT</pubDate>
+      <guid isPermaLink="false">6d0b2ee136f3</guid>
+      <source url="https://antyweb.pl/whatsapp-odpala-petarde-3-nowe-funkcje-wlasnie-trafiaja-do-komunikatora">Antyweb</source>
     </item>
     <item>
-      <title>Paramount krok bliżej przejęcia Warner Bros. Jest warunkowa zgoda Komisji Europejskiej </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8be0f4e85ed4</link>
-      <description>Komisja Europejska zgodziła się w środę warunkowo na przejęcie amerykańskiego przedsiębiorstwa mediowego Warner Bros. Discovery przez koncern Paramount Skydance. Zatwierdzenie jest uzależnione od wywiązania się z zobowiązań złożonych przez Paramount, a które dotyczą dystrybucji filmów - zaznaczyła KE.</description>
-      <pubDate>Wed, 22 Jul 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="false">8be0f4e85ed4</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Paramount-krok-blizej-przejecia-Warner-Bros-Jest-warunkowa-zgoda-Komisji-Europejskiej-9171982.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Oferowali w internecie usługi ataku DDoS. Najmłodszy miał 12 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a964ab3bd8ca</link>
+      <description>Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości przeprowadzili czynności procesowe w sprawie dotyczącej przestępstw związanych z wykorzystywaniem systemów i sieci teleinformatycznych. W ramach działań ustalili 9 nieletnich, którzy w internecie oferowali przeprowadzenie ataków typu DDoS.</description>
+      <pubDate>Thu, 23 Jul 2026 05:30:00 GMT</pubDate>
+      <guid isPermaLink="false">a964ab3bd8ca</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-oferowali-w-internecie-uslugi-ataku-ddos-najmlodszy-mial-12-,nIdn,1011015">RMF24</source>
     </item>
     <item>
-      <title>Messi z Mbappe i Vozinhą w drużynie marzeń. Oto cała jedenastka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb078b319c4b</link>
-      <description>Kibice z całego świata wybrali jedenastkę marzeń zakończonych właśnie mistrzostw świata. Wśród wyróżnionych znaleźli się przedstawiciele aż sześciu federacji, a najwięcej głosów na pozycji bramkarza zdobył Vozinha z Republiki Zielonego Przylądka.</description>
-      <pubDate>Wed, 22 Jul 2026 18:28:00 GMT</pubDate>
-      <guid isPermaLink="false">bb078b319c4b</guid>
-      <source url="https://www.rmf24.pl/pilka-nozna/news-messi-z-mbappe-i-vozinha-w-druzynie-marzen-oto-cala-jedenast,nIdn,1011017">RMF24</source>
+      <title>40-latek z Bemowa zatrzymany. Usłyszał 106 zarzutów za wyłudzenia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/01b1374baee1</link>
+      <description>Policjanci z Bemowa zatrzymali oszusta, który w ciągu tygodnia wyłudził od mieszkańców Warszawy ponad 160 tysięcy złotych. 40-latek usłyszał aż 106 zarzutów i trafił do aresztu. Jak działał przestępca i jak nie dać się nabrać na podobne sztuczki?</description>
+      <pubDate>Thu, 23 Jul 2026 05:28:00 GMT</pubDate>
+      <guid isPermaLink="false">01b1374baee1</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-40-latek-z-bemowa-zatrzymany-uslyszal-106-zarzutow-za-wyludz,nIdn,1011043">RMF24</source>
     </item>
     <item>
-      <title>Prof. Orłowski: minister finansów nie jest w stanie zablokować presji politycznej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/909d247afd9e</link>
-      <description>Polityk musi powiedzieć, że są pieniądze na wszystko - skomentował w &quot;Faktach po Faktach&quot; w TVN24 profesor Witold Orłowski. Ekonomista w rozmowie z Piotrem Kraśką mówił o wyborczej obietnicy podniesienia kwoty wolnej od podatku oraz o tym, kiedy rząd może przywrócić swój program Ceny Paliwa Niżej.</description>
-      <pubDate>Wed, 22 Jul 2026 18:24:04 GMT</pubDate>
-      <guid isPermaLink="false">909d247afd9e</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/kwota-wolna-od-podatku-prof-witold-orlowski-minister-finansow-nie-jest-w-stanie-zablokowac-presji-politycznej-st9154656?source=rss">TVN24</source>
+      <title>Burmistrz i dziennikarz nie żyją. Dwie egzekucje w Meksyku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6128d4ce78c0</link>
+      <description>W Meksyku doszło do zabójstwa dwóch znanych lokalnie postaci. W mieście Temoac w ratuszu zastrzelono burmistrza Valentia Lavina Romero. Z kolei w stanie Oaxaca znaleziono zwłoki dziennikarza Francisco Leyvy.</description>
+      <pubDate>Thu, 23 Jul 2026 05:27:00 GMT</pubDate>
+      <guid isPermaLink="false">6128d4ce78c0</guid>
+      <source url="https://www.rmf24.pl/news-burmistrz-i-dziennikarz-nie-zyja-dwie-egzekucje-w-meksyku,nIdn,1011041">RMF24</source>
     </item>
     <item>
-      <title>Straty USA w wojnie z Iranem rosną. Trump: Powrót ciał to dla mnie jeden z najtrudniejszych momentów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/86457796ef9a</link>
-      <description>Prezydent USA Donald Trump w środę wziął udział w ceremonii powrotu do kraju ciał czworga amerykańskich żołnierzy, którzy zginęli w miniony weekend na Bliskim Wschodzie. Przyznał, że to dla niego jedna z najtrudniejszych chwil jako prezydenta.</description>
-      <pubDate>Wed, 22 Jul 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="false">86457796ef9a</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Straty-USA-w-wojnie-z-Iranem-rosna-Trump-Powrot-cial-to-dla-mnie-jeden-z-najtrudniejszych-momentow-9171974.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Ponad pół godziny za zamkniętymi drzwiami. O czym Rubio i Ławrow rozmawiali w Manili?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/47dfe0b19a95</link>
+      <description>W Manili, stolicy Filipin, zakończyły się rozmowy rosyjskiego ministra spraw zagranicznych Siergieja Ławrowa z amerykańskim sekretarzem stanu Marco Rubio. Spotkanie, które odbyło się w Philippine International Convention Center, trwało ponad pół godziny – informuje rosyjska agencja TASS.</description>
+      <pubDate>Thu, 23 Jul 2026 05:27:00 GMT</pubDate>
+      <guid isPermaLink="false">47dfe0b19a95</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-ponad-pol-godziny-za-zamknietymi-drzwiami-o-czym-rubio-i-law,nIdn,1011042">RMF24</source>
     </item>
     <item>
-      <title>Hyundai claims humanoid robot plan is not part of talks with striking workers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f47324c41d60</link>
-      <description>Union previously warned automaker that any robot deployment must be negotiated.</description>
-      <pubDate>Wed, 22 Jul 2026 18:18:12 GMT</pubDate>
-      <guid isPermaLink="false">f47324c41d60</guid>
-      <source url="https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/">Ars Technica</source>
+      <title>Burze, ulewy i grad. Ostrzeżenia IMGW dla niemal całej Polski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d1d2ea9846d8</link>
+      <description>Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego stopnia przed burzami dla 14 województw oraz alerty I stopnia przed silnym deszczem z burzami dla dwóch województw na północy kraju.</description>
+      <pubDate>Thu, 23 Jul 2026 05:27:00 GMT</pubDate>
+      <guid isPermaLink="false">d1d2ea9846d8</guid>
+      <source url="https://www.rmf24.pl/fakty/pogoda/news-burze-ulewy-i-grad-ostrzezenia-imgw-dla-niemal-calej-polski,nIdn,1011044">RMF24</source>
     </item>
     <item>
-      <title>Science Corporation’s vision-restoring chip wins EU approval</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/09ba753bc010</link>
-      <description>&quot;The thing that the space needs is a company making $100 million a year of revenue,&quot; Science Corp. CEO Max Hodak said.</description>
-      <pubDate>Wed, 22 Jul 2026 18:18:02 GMT</pubDate>
-      <guid isPermaLink="false">09ba753bc010</guid>
-      <source url="https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/">TechCrunch</source>
+      <title>Parlament Nikaragui reaguje po zapowiedzi prezydenta. Kolejny krok w stronę dyktatury</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6b46260af0ad</link>
+      <description>Parlament Nikaragui rozpoczął pracę nad reformą konstytucji, która uniemożliwiać będzie kandydatom opozycji start w wyborach. Wcześniej zapowiedział to prezydent Daniel Ortega, który rządzi w kraju ponad 20 lat.</description>
+      <pubDate>Thu, 23 Jul 2026 05:25:34 GMT</pubDate>
+      <guid isPermaLink="false">6b46260af0ad</guid>
+      <source url="https://tvn24.pl/swiat/nikaragua-parlament-zmienia-konstytucje-po-zapowiedzi-prezydenta-o-likwidacji-wyborow-st9154825?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Yope raises $12.3M to build a private social network without algorithms or ads</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4a7ad69ccd11</link>
-      <description>Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.</description>
-      <pubDate>Wed, 22 Jul 2026 18:13:58 GMT</pubDate>
-      <guid isPermaLink="false">4a7ad69ccd11</guid>
-      <source url="https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/">TechCrunch</source>
+      <title>Powodzie błyskawiczne i Gwardia Narodowa na ulicach. „Woda po prostu nie ma gdzie odpłynąć”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0d2cc701a44e</link>
+      <description>Stan klęski żywiołowej ogłoszono w Wirginii Zachodniej w USA po gwałtownych powodziach błyskawicznych. Na ulice do akcji skierowano setki żołnierzy Gwardii Narodowej. Jak przekazała agencja Associated Press, trwają poszukiwania osób, których los pozostaje nieznany.</description>
+      <pubDate>Thu, 23 Jul 2026 05:15:00 GMT</pubDate>
+      <guid isPermaLink="false">0d2cc701a44e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-powodzie-blyskawiczne-i-gwardia-narodowa-na-ulicach-woda-po-,nIdn,1011039">RMF24</source>
     </item>
     <item>
-      <title>Kończy się ultimatum w PiS. Jarosław Kaczyński &quot;miota się od ściany do ściany&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/db402ff33f4c</link>
-      <description>Obecna sytuacja w PiS to konsekwentna polityka Jarosława Kaczyńskiego - powiedział w &quot;Faktach po Faktach&quot; w TVN24 Marcin Mastalerek, były szef gabinetu prezydenta Andrzeja Dudy. Jego zdaniem prezes PiS &quot;wszedł na pole&quot; Konfederacji, czego skutkiem jest &quot;wypychanie Mateusza Morawieckiego i jego ludzi&quot;.</description>
-      <pubDate>Wed, 22 Jul 2026 18:10:53 GMT</pubDate>
-      <guid isPermaLink="false">db402ff33f4c</guid>
-      <source url="https://tvn24.pl/polska/konczy-sie-ultimatum-w-pis-jaroslaw-kaczynski-miota-sie-od-sciany-do-sciany-st9154620?source=rss">TVN24</source>
+      <title>Police officer was violent rapist who attacked women over 14 years, BBC reveals</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/affadefb9278</link>
+      <description>The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated.</description>
+      <pubDate>Thu, 23 Jul 2026 05:12:30 GMT</pubDate>
+      <guid isPermaLink="false">affadefb9278</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Robotic Servicing Mission Launches with NASA Support</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0a2cf0278483</link>
-      <description>Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic</description>
-      <pubDate>Wed, 22 Jul 2026 18:04:15 GMT</pubDate>
-      <guid isPermaLink="false">0a2cf0278483</guid>
-      <source url="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/">NASA Breaking News</source>
+      <title>Dramatyczna akcja ratunkowa na plaży w Dziwnowie: Siedem osób tonęło w Bałtyku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a0b491d0294d</link>
+      <description>Siedem osób tonie na plaży w Dziwnowie– takie zgłoszenie dostały we wtorek służby ratunkowe. Na szczęście wszystkich udało się uratować.</description>
+      <pubDate>Thu, 23 Jul 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="false">a0b491d0294d</guid>
+      <source url="https://www.rmf24.pl/regiony/szczecin/news-dramatyczna-akcja-ratunkowa-na-plazy-w-dziwnowie-siedem-osob,nIdn,1011038">RMF24</source>
     </item>
     <item>
-      <title>Paramount przejmuje Warner Bros. Bruksela mówi „tak”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d926213fae2</link>
-      <description>Komisja Europejska zgodziła się warunkowo na przejęcie amerykańskiego przedsiębiorstwa mediowego Warner Bros. Discovery przez koncern Paramount Skydance. Zatwierdzenie jest uzależnione od wywiązania się z zobowiązań złożonych przez Paramount, a które dotyczą dystrybucji filmów - zaznaczyła KE.</description>
-      <pubDate>Wed, 22 Jul 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="false">8d926213fae2</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-paramount-przejmuje-warner-bros-bruksela-mowi-tak,nIdn,1011016">RMF24</source>
+      <title>Zdjęcia Google rozpieszczają użytkowników. Platforma z turbodoładowaniem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/57f74a3f7551</link>
+      <description>Nie wszystkie zmiany w Zdjęciach Google cieszą użytkowników. Tym razem nadchodzą naprawdę dobre zmiany.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:05 GMT</pubDate>
+      <guid isPermaLink="false">57f74a3f7551</guid>
+      <source url="https://antyweb.pl/zdjecia-google-rozpieszczaja-uzytkownikow-platforma-z-turbodoladowaniem">Antyweb</source>
     </item>
     <item>
-      <title>Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d91ccf88facf</link>
-      <description>Watch as Menlo&apos;s Matt Murphy joins Equity to discuss backing Anthropic early, AI startup growth, and more.</description>
-      <pubDate>Wed, 22 Jul 2026 18:02:57 GMT</pubDate>
-      <guid isPermaLink="false">d91ccf88facf</guid>
-      <source url="https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/">TechCrunch</source>
+      <title>Nowy podatek zamaskowany pod inną nazwą? Takie haczyki kryją się w ustawie o OKI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/14bc56f2b8ce</link>
+      <description>Osobiste Konta Inwestycyjne kuszą uwolnieniem od podatku Belki, ale w zamian narzucają nowy haracz na zgromadzony tam kapitał. Procedowana właśnie w Senacie ustawa zawiera w sobie jednak więcej haczyków, o których każdy inwestor powinien wiedzieć.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">14bc56f2b8ce</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nie-wszystkie-kruczki-i-haczyki-Osobistych-Kont-Emerytalnych-9171664.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Play bez umowy: te oferty naprawdę się opłacają (i kosztują najmniej)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc854b3bb5a0</link>
-      <description>Wszytskie najtańsze oferty do telefonu bez umowy (lub bez zobowiązania), działające w zasięgu sieci komórkowej Play.</description>
-      <pubDate>Wed, 22 Jul 2026 18:00:46 GMT</pubDate>
-      <guid isPermaLink="false">fc854b3bb5a0</guid>
-      <source url="https://antyweb.pl/oferty-do-telefonu-play">Antyweb</source>
+      <title>Zwrot na rynku mieszkań. Dynamika cen przyspiesza, ale po obniżki potrzebna wycieczka do mniejszych miast</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/69b4349bf8b4</link>
+      <description>Choć to we Włocławku, Tarnowie, Kaliszu czy Olsztynie a nie w Warszawie, Krakowie czy Wrocławiu oczekiwania sprzedających mieszkania na rynku wtórnym wzrosły w ciągu ostatniego roku najmocniej, to z drugiej strony właśnie w mniejszych miastach można znaleźć obniżki serwowane przez sprzedających – wynika z danych Otodom Analytics.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">69b4349bf8b4</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ceny-mieszkan-na-rynku-wtornym-dynamika-rosnie-spadki-tylko-w-mniejszych-miastach-9171688.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Wrze w PiS. &quot;Silna karta przetargowa&quot; na ostatniej prostej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/16d106e2b2de</link>
-      <description>&quot;Dobry punkt wyjściowy&quot; i &quot;silna karta przetargowa&quot;. Tak eksperci oceniają w rozmowie z TVN24+ sondaż wyborczy uwzględniający Rozwój Plus Mateusza Morawieckiego. W badaniu na zlecenie &quot;Faktów&quot; TVN i TVN24 stowarzyszenie byłego premiera przekracza próg wyborczy. Czy może być realną siłą polityczną? Co byłoby &quot;przekroczeniem politycznego Rubikonu&quot;?</description>
-      <pubDate>Wed, 22 Jul 2026 17:58:13 GMT</pubDate>
-      <guid isPermaLink="false">16d106e2b2de</guid>
-      <source url="https://tvn24.pl/polska/mateusz-morawiecki-sondaz-wyborczy-uwzgledniajacy-rozwoj-plus-komentarze-st9153408?source=rss">TVN24</source>
+      <title>Cyfrowa alchemia XXI wieku - czy złoto na blockchainie to bezpieczna przystań?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/24ab71b72e7a</link>
+      <description>Notowania złota balansują w okolicy 4000 USD za uncję i pewnie znajdzie się niemało inwestorów, myślących po nocach, czy to dogodny moment, by wskoczyć do tego pociągu. Okazuje się, że obok sztabek i papierowego złota jest też trzecia droga na uzyskanie ekspozycji na ten rynek. Ostatnio, przekopując się przez nowinki, trafiłem na intrygujący temat: złoto na blockchainie. Stablecoiny oparte na fizycznym kruszcu. Postanowiłem rozłożyć ten mechanizm na czynniki pierwsze i sprawdzić, czy taka cyfrowa alchemia nie jest aby równie skuteczna co średniowieczna.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">24ab71b72e7a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Cyfrowa-alchemia-XXI-wieku-czy-zloto-na-blockchainie-to-bezpieczna-przystan-9170152.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Tajne rozmowy i licencja na Patrioty. Kluczowe spotkania w Kijowie ws. zakończenia wojny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f6ff57df6a0</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski rozmawiał z wysłannikami prezydenta USA Donalda Trumpa, Steve&apos;em Witkoffem i Jaredem Kushnerem - poinformował w środę portal Axios, powołując się na źródło. Omówiono pomysły dotyczące tego, jak wznowić działania dyplomatyczne, by zakończyć wojnę z Rosją.</description>
-      <pubDate>Wed, 22 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="false">3f6ff57df6a0</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Tajne-rozmowy-i-licencja-na-Patrioty-Kluczowe-spotkania-w-Kijowie-ws-zakonczenia-wojny-9171965.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>System kaucji pod ostrzałem. Coraz więcej skarg i wniosków o interwencje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/67462806ae4b</link>
+      <description>Wielu konsumentów ma już dość systemu kaucyjnego. Irytują ich m.in. awarie automatów, odmowy ręcznego przyjmowania opakowań i rozliczania kaucji przez pracowników sklepów i problemy z bonami. Główny Inspektorat Ochrony Środowiska (GIOŚ) do tej pory otrzymał ponad sto skarg na działanie systemu.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">67462806ae4b</guid>
+      <source url="https://www.bankier.pl/wiadomosc/System-kaucyjny-pod-ostrzalem-konsumentow-Coraz-wiecej-skarg-i-wnioskow-o-interwencje-9171819.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Monday.com lays off hundreds to focus on AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c7dd43a3f894</link>
-      <description>The company said it is reducing its headcount by 20%, or about 630 staff, to &quot;support a leaner, more focused operating model&quot; as it focuses on its AI Work Platform.</description>
-      <pubDate>Wed, 22 Jul 2026 17:54:14 GMT</pubDate>
-      <guid isPermaLink="false">c7dd43a3f894</guid>
-      <source url="https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/">TechCrunch</source>
+      <title>Rzucili etaty i zmienili zawód. „To była najlepsza decyzja w życiu”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/475fbf937807</link>
+      <description>Olga porzuciła pracę głównej księgowej i dziś jest terapeutką, Marika zamieniła księgowość na projektowanie wnętrz, a Monika odeszła z banku, by uczyć w przedszkolu. Choć ich zawodowe drogi potoczyły się inaczej, wszystkie doszły do tego samego wniosku – większą wartość niż stabilny etat mają dziś satysfakcja z pracy i poczucie sensu. Jak podkreślają eksperci, takich historii będzie przybywać, bo przebranżowienie staje się jednym z najważniejszych trendów na współczesnym rynku pracy.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">475fbf937807</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Porzucili-pewna-prace-i-zaczeli-od-nowa-Dzis-nie-zaluja-swojej-decyzji-9171962.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Portugalia wyrusza na poszukiwania podwodnych skarbów. Marynarka wojenna wysłała specjalny okręt</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c0301227d4d3</link>
-      <description>Marynarka wojenna Portugalii wysłała na Ocean Atlantycki jednostkę hydrograficzną poszukującą cennych przedmiotów, które zaginęły po zatopieniu okrętów, które je transportowały - przekazało portugalskie ministerstwo obrony.</description>
-      <pubDate>Wed, 22 Jul 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="false">c0301227d4d3</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Portugalia-wyrusza-na-poszukiwania-podwodnych-skarbow-Marynarka-wojenna-wyslala-specjalny-okret-9171963.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Urlop od składek ZUS. Wniosek trzeba złożyć miesiąc wcześniej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a14b403ceedc</link>
+      <description>Przedsiębiorcy mogą raz w roku zrobić sobie „wakacje od ZUS” i za wybrany miesiąc nie płacić składek na ubezpieczenia społeczne. W 2026 r. ulga może przynieść nawet 1926,76 zł oszczędności, choć składka zdrowotna nadal pozostaje obowiązkowa.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">a14b403ceedc</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Miesiac-bez-skladek-ZUS-Przedsiebiorcy-moga-zaoszczedzic-prawie-2-tys-zl-9171680.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Przesłuchają lekarzy, pielęgniarki, recepcjonistki. Kacprzyk i Trzaskowski czekają</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/751974420eb6</link>
-      <description>W sprawie Warszawskiego Szpitala Południowego prokuratura planuje przesłuchać ok. 200 świadków; dotąd czynności wykonano wobec blisko 40 osób. Rzecznik Prokuratury Okręgowej w Warszawie wyjaśnia, czemu na razie nie przesłuchano Dawida Kacprzyka. Tłumaczy też, co z wezwaniem Rafała Trzaskowskiego.</description>
-      <pubDate>Wed, 22 Jul 2026 17:49:34 GMT</pubDate>
-      <guid isPermaLink="false">751974420eb6</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Przesluchaja-lekarzy-pielegniarki-recepcjonistki-Kacprzyk-i-Trzaskowski-czekaja,287003,2.html">Rynek Zdrowia</source>
+      <title>4200 zł dla przedsiębiorców i dwa lata bez opłat. Promocja potrwa przez całe wakacje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8d8b4ca683c</link>
+      <description>W ING Banku Śląskim przedsiębiorcy mogą cały czas skorzystać z promocji „Łatwiejszy pierwszy rok”, w której nowi przedsiębiorcy mogą otrzymać nawet 4200 zł premii za korzystanie z konta firmowego. Dodatkowo bank nadal oferuje dwa lata bez opłat za prowadzenie rachunku i wybrane przelewy. Największą część bonusu stanowi zwrot za płatności kartą, ale o wypłacie premii decyduje kilka warunków, które trzeba spełniać przez cały rok.</description>
+      <pubDate>Thu, 23 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">b8d8b4ca683c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/4200-zl-dla-przedsiebiorcow-i-dwa-lata-bez-oplat-Promocja-potrwa-przez-cale-wakacje-9171538.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
