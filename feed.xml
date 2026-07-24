@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 24 Jul 2026 14:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 15:47:43 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>20 proc. Polaków pije codziennie. Otyłość, cukrzyca i chore serce w pakiecie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d760f03673b5</link>
+      <description>Słodzone napoje są jak tykająca bomba dla organizmu. Lekarze alarmują o niekorzystnym wpływie na zdrowie. Z badań wynika, że po takie napoje sięga większość Polaków, a co piąty robi to codziennie.</description>
+      <pubDate>Fri, 24 Jul 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="false">d760f03673b5</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/20-proc-Polakow-pije-codziennie-Otylosc-cukrzyca-i-chore-serce-w-pakiecie,287076,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Medycyna podbija nawet politechniki. Kolejne uczelnie podały progi punktowe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5c3203c07583</link>
+      <description>Medycyna bije rekordy w tegorocznej rekrutacji także na uczelniach niemedycznych. W Uniwersytecie Warmińsko-Mazurskim o jedno miejsce rywalizowało 16 kandydatów, w Uniwersytecie Radomskim 15, a w Politechnice Wrocławskiej ponad 10. To nieco więcej nawet niż na informatyce czy automatyce i robotyce.</description>
+      <pubDate>Fri, 24 Jul 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="false">5c3203c07583</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Medycyna-podbija-nawet-politechniki-Kolejne-uczelnie-podaly-progi-punktowe,287073,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Negatywny sentyment zaczerwienił WIG20. Wciąż czekamy na rekord</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ec06f262d6b7</link>
+      <description>Uwagę zwracała słabość szerokiego rynku, relatywnie niskie obroty i coraz liczniejsze grono walorów ustanawiających przynajmniej roczne minimum.</description>
+      <pubDate>Fri, 24 Jul 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">ec06f262d6b7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Negatywny-sentyment-zaczerwienil-WIG20-Wciaz-czekamy-na-rekord-9173073.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Trump wraca do clenia. Niemcy: Oczekujemy przestrzegania porozumienia z UE</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/42973090f76a</link>
+      <description>Berlin zakłada, że postanowienia porozumienia celnego między Unią Europejską a USA będą przestrzegane – powiedział w piątek rzecznik niemieckiego rządu, komentując ogłoszenie przez władze USA nowych ceł.</description>
+      <pubDate>Fri, 24 Jul 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="false">42973090f76a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Trump-wraca-do-clenia-Niemcy-Oczekujemy-przestrzegania-porozumienia-z-UE-9173069.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
     <item>
       <title>Weszli do dużych sklepów i na targowiska. Tak oszukują producenci miodu, wędlin i serów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/45858413b8e2</link>
@@ -14,6 +46,14 @@
       <pubDate>Fri, 24 Jul 2026 15:36:00 GMT</pubDate>
       <guid isPermaLink="false">45858413b8e2</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Weszli-do-duzych-sklepow-i-na-targowiska-Tak-oszukuja-producenci-miodu-wedlin-i-serow,287079,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>You need to let the AI cook</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0107619168ab</link>
+      <description>AI coding works when the stack is right and the developer has the experience to trust the output. Most of the elaborate workflows being shared are people getting in their own way.</description>
+      <pubDate>Fri, 24 Jul 2026 15:30:18 GMT</pubDate>
+      <guid isPermaLink="false">0107619168ab</guid>
+      <source url="https://www.ivan.codes/blog/let-it-cook">Hacker News</source>
     </item>
     <item>
       <title>Elektroniczna karta pacjenta w onkologii i złagodzenie wymagań dla szpitali. Prezydent podpisał ustawę</title>
@@ -32,12 +72,132 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Nowelizacja-ustawy-o-przeciwdzialaniu-narkomanii-podpisana-Beda-zmiany-w-leczeniu-uzaleznionych,287083,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Deptak zamiast parkingu, nie wszyscy wjadą. Metamorfoza Złotej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f45cec0c3f0</link>
+      <description>Z betonowego parkingu zmieniła się w zielony deptak - taką metamorfozę zdaniem urzędników przeszła ulica Złota w centrum. Prace są już na finiszu, a już w sierpniu uruchomiona zostanie tam docelowa organizacja ruchu. Drogowcy zaczęli wydawanie identyfikatorów dla mieszkańców, którzy będą chcieli dojeżdżać do swoich posesji w tym rejonie.</description>
+      <pubDate>Fri, 24 Jul 2026 15:19:37 GMT</pubDate>
+      <guid isPermaLink="false">8f45cec0c3f0</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-metamorfoza-ulicy-zlotej-i-zmiany-w-organizacji-ruchu-st9157844?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Bereszyński: Chcę, żeby moje dzieci jeszcze zobaczyły mnie z orzełkiem na piersi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/efedcd1ac547</link>
+      <description>vvvv</description>
+      <pubDate>Fri, 24 Jul 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="false">efedcd1ac547</guid>
+      <source url="https://www.rmf24.pl/pilka-nozna/news-bereszynski-chce-zeby-moje-dzieci-jeszcze-zobaczyly-mnie-z-o,nIdn,1011295">RMF24</source>
+    </item>
+    <item>
+      <title>Rivian sues the US government for ‘full refund’ of Trump tariffs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/81cdca881c2b</link>
+      <description>The carmaker has said it&apos;s owed a refund in the &quot;tens of millions of dollars.&quot;</description>
+      <pubDate>Fri, 24 Jul 2026 15:16:31 GMT</pubDate>
+      <guid isPermaLink="false">81cdca881c2b</guid>
+      <source url="https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/">TechCrunch</source>
+    </item>
+    <item>
       <title>NIK: profilaktyka w POZ obejmuje zbyt mało dzieci. Część placówek nie robi żadnych testów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f3470fd66d2e</link>
       <description>W latach 2022-2024 badaniami profilaktycznymi w podstawowej opiece zdrowotnej, pomimo tego, że są one gwarantowane i bezpłatne, objęto niewielką część dzieci i młodzieży. Ich realizacja kształtowała się na poziomie od 16,9 proc. do 42,3 proc. – wynika z kontroli NIK. Jedna trzecia ze skontrolowanych placówek POZ nie wykonała żadnego testu przesiewowego.</description>
       <pubDate>Fri, 24 Jul 2026 15:15:00 GMT</pubDate>
       <guid isPermaLink="false">f3470fd66d2e</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/NIK-profilaktyka-w-POZ-obejmuje-zbyt-malo-dzieci-Czesc-placowek-nie-robi-zadnych-testow,287081,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a0788dccce86</link>
+      <description>Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.</description>
+      <pubDate>Fri, 24 Jul 2026 15:13:57 GMT</pubDate>
+      <guid isPermaLink="false">a0788dccce86</guid>
+      <source url="https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Kreml odgraża się Drapatemu po głośnym wywiadzie. „Odpowie za swoje słowa”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fae8d83ec116</link>
+      <description>Rzecznik Kremla Dmitrij Pieskow zapowiedział, że nowy głównodowodzący Sił Zbrojnych Ukrainy, generał Michaił Drapatyj, poniesie konsekwencje za swoje „ekstremistyczne wypowiedzi” pod adresem Rosjan. Wypowiedzi generała spotkały się z ostrą reakcją rosyjskich władz i zapowiedzią prawnej oceny ze strony rosyjskiego wymiaru sprawiedliwości.</description>
+      <pubDate>Fri, 24 Jul 2026 15:13:00 GMT</pubDate>
+      <guid isPermaLink="false">fae8d83ec116</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-kreml-odgraza-sie-drapatemu-po-glosnym-wywiadzie-odpowie-za-,nIdn,1011290">RMF24</source>
+    </item>
+    <item>
+      <title>Ten killed in Russian attack on drone exhibition near Kyiv</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/63572c6c73eb</link>
+      <description>The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.</description>
+      <pubDate>Fri, 24 Jul 2026 15:12:11 GMT</pubDate>
+      <guid isPermaLink="false">63572c6c73eb</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Kiełbasa skażona bakterią. Ostrzeżenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/20fd45b7cef6</link>
+      <description>Główny Inspektorat Sanitarny poinformował o wycofaniu ze sklepów kilku partii dwóch rodzajów surowej kiełbasy. Jej spożycie grozi poważnymi konsekwencjami.</description>
+      <pubDate>Fri, 24 Jul 2026 15:10:27 GMT</pubDate>
+      <guid isPermaLink="false">20fd45b7cef6</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/kielbasa-surowa-skazona-bakteria-ostrzezenie-gis-przed-spozyciem-st9157558?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Irlandzka policja przechwyciła „duży ładunek wybuchowy”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ed2ba1f0a519</link>
+      <description>Irlandzka policja udaremniła potencjalnie tragiczny w skutkach zamach, przechwytując samochód z dużą ilością materiałów wybuchowych zaledwie kilka kilometrów od granicy z Irlandią Północną. Zatrzymano dwie osoby.</description>
+      <pubDate>Fri, 24 Jul 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="false">ed2ba1f0a519</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-irlandzka-policja-przechwycila-duzy-ladunek-wybuchowy,nIdn,1011297">RMF24</source>
+    </item>
+    <item>
+      <title>Midjourney acquired the astrology app Co-Star</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1facf45ae59e</link>
+      <description>The AI lab Midjourney continues to expand its purview beyond image and video generation.</description>
+      <pubDate>Fri, 24 Jul 2026 15:09:55 GMT</pubDate>
+      <guid isPermaLink="false">1facf45ae59e</guid>
+      <source url="https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Seks dobry do bólu? &quot;Kobiety często wstydzą się o tym powiedzieć&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c5dc9b832888</link>
+      <description>Nie każdy jęk w sypialni jest jękiem rozkoszy. Ból podczas zbliżenia może dotyczyć nawet co piątej kobiety, a wiele z nich długo o nim milczy. - Bliskość nie powinna boleć - podkreśla ginekolog i seksuolog dr Dorota Prządka-Rabaniuk. Jak rozpoznać przyczynę bólu i znów czerpać z seksu przyjemność?</description>
+      <pubDate>Fri, 24 Jul 2026 15:07:24 GMT</pubDate>
+      <guid isPermaLink="false">c5dc9b832888</guid>
+      <source url="https://tvn24.pl/zdrowie/bol-przy-wspolzyciu-dlaczego-seks-boli-i-kiedy-isc-do-lekarza-st9156152?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>„Wygraliśmy”. Bąkiewicz nie kryje radości po decyzji sądu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7116944093e6</link>
+      <description>Sąd Okręgowy w Warszawie uchylił decyzję wojewody, który odmówił przyznania statusu cykliczności tegorocznemu Marszowi Powstania Warszawskiego. Występowało o to stowarzyszenie Roty Marszu Niepodległości, z którym związany jest Robert Bąkiewicz, który w przeszłości był zaangażowany także w organizację m.in. Marszu Niepodległości. „Wygraliśmy. Marsz Powstania Warszawskie jest bezpieczny!„ - napisał w serwisie X, komentując decyzję sądu okręgowego.</description>
+      <pubDate>Fri, 24 Jul 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="false">7116944093e6</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-wygralismy-bakiewicz-nie-kryje-radosci-po-decyzji-sadu,nIdn,1011294">RMF24</source>
+    </item>
+    <item>
+      <title>TikTok pod lupą Komisji Europejskiej. Chodzi o bezpieczeństwo dzieci</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/406160943c59</link>
+      <description>Komisja Europejska zarzuciła TikTokowi naruszenie unijnych przepisów dotyczących bezpieczeństwa dzieci w internecie. Platformie może grozić wysoka kara finansowa.</description>
+      <pubDate>Fri, 24 Jul 2026 15:02:18 GMT</pubDate>
+      <guid isPermaLink="false">406160943c59</guid>
+      <source url="https://tvn24.pl/biznes/tech/komisja-europejska-stawia-zarzuty-tiktokowi-mozliwa-wysoka-kara-st9157690?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Uczeni odkryli nową drogę odpływu cieczy wodnistej z oka. Może to pomóc w leczeniu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ba26454c4e5</link>
+      <description>Zespół badaczy z Toronto, kierowany przez Yeni Yücel i Neeru Guptę, od kilkunastu lat dowodzi, że istotną rolę w odpływie płynu z oka odgrywają także naczynia limfatyczne. Wcześniej opisali taką drogę w przedniej części oka. W najnowszej publikacji uczeni opisali odrębną drogę w tylnym odcinku gałki ocznej, nazwaną POLO (posterior ocular lymphatic outflow).</description>
+      <pubDate>Fri, 24 Jul 2026 15:00:49 GMT</pubDate>
+      <guid isPermaLink="false">8ba26454c4e5</guid>
+      <source url="https://kopalniawiedzy.pl/oko-plyn-ciecz-wodnista-jaskra,38823">KopalniaWiedzy.pl</source>
+    </item>
+    <item>
+      <title>Airbus przetestował samolot zmieniający podróże między kontynentami. Wnętrze jest niezwykłe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/93f03c255556</link>
+      <description>Osiemdziesiąt lat po lotach dwóch wschodów słońca Australia znów chce lecieć na drugi koniec świata bez lądowania po drodze. Pierwsze testy zakończono sukcesem.</description>
+      <pubDate>Fri, 24 Jul 2026 15:00:41 GMT</pubDate>
+      <guid isPermaLink="false">93f03c255556</guid>
+      <source url="https://antyweb.pl/airbus-przetestowal-samolot-zmieniajacy-podroze-miedzy-kontynentami-wnetrze-jest-niezwykle">Antyweb</source>
+    </item>
+    <item>
+      <title>Czarzasty: ochrona zdrowia może zdecydować o wyniku wyborów 2027 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/be5dafec9398</link>
+      <description>Marszałek Sejmu Włodzimierz Czarzasty w rozmowie z „Super Expressem” ocenił, że jeśli w ciągu 1,5 roku nie uda się rozwiązać problemów ochrony zdrowia, może to znacząco zwiększyć ryzyko porażki koalicji w wyborach w 2027 roku.</description>
+      <pubDate>Fri, 24 Jul 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="false">be5dafec9398</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Czarzasty-ochrona-zdrowia-moze-zdecydowac-o-wyniku-wyborow-2027-roku,287054,14.html">Rynek Zdrowia</source>
     </item>
     <item>
       <title>Eksperymentalna immunoterapia daje nadzieję dzieciom z agresywnymi guzami mózgu</title>
@@ -64,6 +224,46 @@
       <source url="https://www.bankier.pl/wiadomosc/Inwestycja-za-240-mln-zl-gotowa-W-poniedzialek-otwarcie-Gdanskiego-Agro-Terminala-9173029.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Ponad dwa tysiące pamiątek po jednym z dowódców walk na Powiślu trafiło do muzeum</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/54f4a45b43d7</link>
+      <description>Do zbiorów Muzeum Powstania Warszawskiego trafiło ponad 2300 materiałów dotyczących kapitana Cypriana Odorkiewicza pseudonim Krybar. &quot;To wyjątkowe świadectwo życia i działalności jednego z najważniejszych dowódców oddziałów Armii Krajowej walczących na Powiślu&quot; - podało muzeum.</description>
+      <pubDate>Fri, 24 Jul 2026 14:45:58 GMT</pubDate>
+      <guid isPermaLink="false">54f4a45b43d7</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/wola/warszawa-pamiatki-po-krybarze-trafily-do-muzeum-st9157737?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b421806248ee</link>
+      <description>Government orders GitHub to remove Bluetooth app Bitchat over security risks amid internet restrictions during protests, says Jack Dorsey.</description>
+      <pubDate>Fri, 24 Jul 2026 14:41:59 GMT</pubDate>
+      <guid isPermaLink="false">b421806248ee</guid>
+      <source url="https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece">Hacker News</source>
+    </item>
+    <item>
+      <title>&quot;Ludzie nie mogą wydostać się ze swoich domów&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7471e5a2c932</link>
+      <description>Przez Chile przetoczyły się burze i ulewy, które doprowadziły do rozległych powodzi. Do redakcji Kontaktu24 zgłosił się Polak, który od 2024 roku mieszka w Chile i opowiedział o skutkach żywiołu.</description>
+      <pubDate>Fri, 24 Jul 2026 14:40:25 GMT</pubDate>
+      <guid isPermaLink="false">7471e5a2c932</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/powodzie-w-chile-ludzie-nie-moga-wydostac-sie-ze-swoich-domow-st9157165?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Przerażająca zbrodnia w USA. 16-latek w rękach policji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1ebf495d5a1e</link>
+      <description>Amerykańska policja zatrzymała nastolatka podejrzewanego o zastrzelenie 15-letniej dziewczyny i jej 9-letniego brata. Śledczy są przerażeni zbrodnią.</description>
+      <pubDate>Fri, 24 Jul 2026 14:38:00 GMT</pubDate>
+      <guid isPermaLink="false">1ebf495d5a1e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-przerazajaca-zbrodnia-w-usa-16-latek-w-rekach-policji,nIdn,1011291">RMF24</source>
+    </item>
+    <item>
+      <title>Siadł za kierownicę mimo zakazu prowadzenia. Zginęła piesza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e15df2283666</link>
+      <description>Prokuratura przedstawiła zarzuty kierującemu, który śmiertelnie potrącił 75-letnią kobietę w Józefowie koło Radomia. 26-latek w ogóle nie powinien siedzieć za kierownicą. Od czerwca miał aktywny zakaz prowadzenia wszelkich pojazdów. Śledczy zarzucili mu także posiadanie mefedronu.</description>
+      <pubDate>Fri, 24 Jul 2026 14:34:47 GMT</pubDate>
+      <guid isPermaLink="false">e15df2283666</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/jozefow-mial-sadowy-zakaz-prowadzenia-smiertelnie-potracil-piesza-zarzuty-st9157709?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Pilny komunikat GIS. Listeria w wędlinach znanego producenta</title>
       <link>https://lolsoftware.github.io/4-news/#/article/868230b43bc9</link>
       <description>W partiach dwóch rodzajów metki zostały wykryte bakterie Listeria monocytogenes. Główny Inspektor Sanitarny wydał ostrzeżenia, a wędliny są wycofywane z rynku.</description>
@@ -72,12 +272,100 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Pilny-komunikat-GIS-Listeria-w-wedlinach-znanego-producenta,287080,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Co-Opting Linux Processes for High-Performance Network Simulation (2022)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3125c7b2a6d0</link>
+      <description>Comments</description>
+      <pubDate>Fri, 24 Jul 2026 14:28:38 GMT</pubDate>
+      <guid isPermaLink="false">3125c7b2a6d0</guid>
+      <source url="https://www.usenix.org/conference/atc22/presentation/jansen">Hacker News</source>
+    </item>
+    <item>
+      <title>&quot;Z hegemona PiS staje się średniakiem, &quot;obie strony nie miały innego wyjścia&quot;. Reakcje na rozłam</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6415067d9adf</link>
+      <description>Każdy podział w Prawie i Sprawiedliwości mnie osobiście cieszy - powiedział szef MSWiA Marcin Kierwiński. Według wicemarszałka Sejmu Piotra Zgorzelskiego (PSL) &quot;z hegemona PiS staje się średniakiem politycznym&quot;. Zdaniem jednego z liderów Konfederacji Sławomia Mentzena &quot;obie strony nie miały innego wyjścia&quot;.</description>
+      <pubDate>Fri, 24 Jul 2026 14:27:58 GMT</pubDate>
+      <guid isPermaLink="false">6415067d9adf</guid>
+      <source url="https://tvn24.pl/polska/reakcje-politykow-na-rozlam-w-pis-z-hegemona-staje-sie-sredniakiem-obie-strony-nie-mialy-innego-wyjscia-st9157584?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>How Jimothy the raccoon became the internet&apos;s latest animal obsession</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6ed5b9856e6d</link>
+      <description>It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.</description>
+      <pubDate>Fri, 24 Jul 2026 14:27:46 GMT</pubDate>
+      <guid isPermaLink="false">6ed5b9856e6d</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>3GPP Version 19</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cbfe86bbe065</link>
+      <description>With the availability of fully implementable specifications at the end of December 2025, on-schedule completion of 3GPP Rel-19 has concluded work on the second 5G-Advanced release.</description>
+      <pubDate>Fri, 24 Jul 2026 14:23:39 GMT</pubDate>
+      <guid isPermaLink="false">cbfe86bbe065</guid>
+      <source url="https://www.3gpp.org/specifications-technologies/releases/release-19">Hacker News</source>
+    </item>
+    <item>
+      <title>Ściana ognia zbliża się do Madrytu. Hiszpania i Francja proszą o pomoc</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/10cf938a40fa</link>
+      <description>Istnieje zagrożenie, że trzy duże pożary pod Madrytem połączą się w jeden ogromny. W regionie ewakuowano już ponad 20 tys. osób. Równie zła sytuacja jest na południowym zachodzie Francji – tam swoje domy musiały opuścić 43 tys. mieszkańców. Hiszpania i Francja zwróciły się do UE o uruchomienie mechanizmu ochrony ludności.</description>
+      <pubDate>Fri, 24 Jul 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="false">10cf938a40fa</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-sciana-ognia-zbliza-sie-do-madrytu-hiszpania-i-francja-prosz,nIdn,1011288">RMF24</source>
+    </item>
+    <item>
       <title>Banki zapowiadają prace serwisowe. Szczyt utrudnień przypada w sobotę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/08a56129127e</link>
       <description>Najbliższa sobota upłynie pod znakiem intensywnych prac serwisowych w bankach. Wyłączenia obejmą przede wszystkim bankowość internetową i mobilną, jednak w jednej z instytucji utrudnienia dotkną także płatności kartami.</description>
       <pubDate>Fri, 24 Jul 2026 14:11:00 GMT</pubDate>
       <guid isPermaLink="false">08a56129127e</guid>
       <source url="https://www.bankier.pl/wiadomosc/Banki-zapowiadaja-prace-serwisowe-Szczyt-utrudnien-przypada-w-sobote-9173006.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>&quot;Prezydent Nawrocki zablokował kolejne cztery miliardy złotych dla budżetu Polski&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/78146e757691</link>
+      <description>Prezydent Karol Nawrocki skierował do Trybunału Konstytucyjnego ustawę o podatku od nadzwyczajnych zysków firm paliwowych. Decyzję tę skrytykował minister finansów Andrzej Domański.</description>
+      <pubDate>Fri, 24 Jul 2026 14:05:56 GMT</pubDate>
+      <guid isPermaLink="false">78146e757691</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/prezydent-nawrocki-zablokowal-kolejne-cztery-miliardy-zlotych-dla-budzetu-polski-st9157720?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Faisal Islam: The UK&apos;s Trump trade deal no longer looks world-beating</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1372595ade66</link>
+      <description>While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.</description>
+      <pubDate>Fri, 24 Jul 2026 14:02:26 GMT</pubDate>
+      <guid isPermaLink="false">1372595ade66</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Wandal w Kalwarii Zebrzydowskiej. Szukają go</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bec99f728a75</link>
+      <description>Na zabytkowych kapliczkach w Kalwarii Zebrzydowskiej ktoś w maju umieścił obraźliwe i satanistyczne napisy. Śledczy przesłuchują świadków, sprawca pozostaje nieznany. Za uszkodzenie mienia o szczególnym znaczeniu dla kultury grozi do 10 lat więzienia.</description>
+      <pubDate>Fri, 24 Jul 2026 14:01:29 GMT</pubDate>
+      <guid isPermaLink="false">bec99f728a75</guid>
+      <source url="https://tvn24.pl/krakow/kalwaria-zebrzydowska-szukaja-sprawcy-uszkodzenia-kapliczek-st9157721?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Urodziny TVN24 w Kielcach. Jaka będzie pogoda</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3e907cb60594</link>
+      <description>Urodzinowa trasa tym razem zatrzyma się w Kielcach. Na sobotnie świętowanie 25-lecia TVN24 przygotowanych jest wiele atrakcji, ale czy pogoda na ten dzień dopisze?</description>
+      <pubDate>Fri, 24 Jul 2026 14:01:26 GMT</pubDate>
+      <guid isPermaLink="false">3e907cb60594</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/urodziny-tvn24-w-kielcach-jaka-bedzie-pogoda-st9157688?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&quot;Dziesiątka dla wątroby&quot;. Lekarz radzi, jak dbać o ten ważny narząd</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1d15ae528d17</link>
+      <description>Chora wątroba może długo nie powodować żadnych dolegliwości. Co sprzyja jej długowieczności i dobremu funkcjonowaniu? Hepatolog dr Paweł Rajewski sformułował &quot;10 dla wątroby&quot;. Przestrzega między innymi przed suplementami i nieodpowiedzialnym stosowaniem leków. Poleca natomiast picie kawy.</description>
+      <pubDate>Fri, 24 Jul 2026 13:59:59 GMT</pubDate>
+      <guid isPermaLink="false">1d15ae528d17</guid>
+      <source url="https://tvn24.pl/zdrowie/10-zasad-dla-zdrowej-watroby-lekarz-radzi-jak-dbac-o-ten-wazny-narzad-uwaga-na-suplementy-st9156226?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Białoruś ostrzegła Polskę przed zamachem. Szef MSZ: weryfikujemy  </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5eddcf794791</link>
+      <description>Każde ostrzeżenie przed terroryzmem traktujemy poważnie - oświadczył wicepremier, minister spraw zagranicznych Radosław Sikorski, pytany o komunikat białoruskiego resortu dyplomacji. Polska miała otrzymać informacje o możliwym zamachu terrorystycznym na terenie naszego kraju.</description>
+      <pubDate>Fri, 24 Jul 2026 13:59:23 GMT</pubDate>
+      <guid isPermaLink="false">5eddcf794791</guid>
+      <source url="https://tvn24.pl/polska/komunikat-msz-bialorusi-o-planowanym-w-polsce-zamachu-radoslaw-sikorski-traktujemy-powaznie-i-weryfikujemy-st9157727?source=rss">TVN24</source>
     </item>
     <item>
       <title>&apos;Extremely significant&apos; bomb in car intercepted on way to NI, Irish police say</title>
@@ -96,6 +384,14 @@
       <source url="https://www.bbc.co.uk/news/articles/c3w01e37v9vo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>Plants vs. Zombies for PlayStation 2</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0553ca2b3e04</link>
+      <description>Contribute to OptiJuegos/pvz-ps2 development by creating an account on GitHub.</description>
+      <pubDate>Fri, 24 Jul 2026 13:57:22 GMT</pubDate>
+      <guid isPermaLink="false">0553ca2b3e04</guid>
+      <source url="https://github.com/OptiJuegos/pvz-ps2">Hacker News</source>
+    </item>
+    <item>
       <title>Generał i granatnik. Kijów poinformował Warszawę o trudnościach ws. postępowania</title>
       <link>https://lolsoftware.github.io/4-news/#/article/08c2af7f32b8</link>
       <description>Nie ma szans na szybkie zakończenie śledztwa w sprawie incydentu z granatnikiem w gabinecie komendanta głównego policji. Jarosław Szymczyk ma w postępowaniu status poszkodowanego. Jak dowiedział się reporter RMF FM Krzysztof Zasada, Ukraina poinformowała polskich śledczych, że nie zrealizuje na razie ich wniosków o pomoc prawną.</description>
@@ -104,308 +400,12 @@
       <source url="https://www.rmf24.pl/fakty/polska/news-general-i-granatnik-kijow-poinformowal-warszawe-o-trudnoscia,nIdn,1011285">RMF24</source>
     </item>
     <item>
-      <title>Strzelanina na Malcie. Otoczony teren, snajperzy na dachach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/939499acd353</link>
-      <description>Dwóch policjantów zostało rannych w wyniku strzelaniny, do której doszło w piątek rano na placu budowy w dzielnicy Ta’ Giorni w San Gwann na Malcie. Sprawca został zatrzymany po wielogodzinnej operacji policyjnej.</description>
-      <pubDate>Fri, 24 Jul 2026 13:48:00 GMT</pubDate>
-      <guid isPermaLink="false">939499acd353</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-strzelanina-na-malcie-otoczony-teren-snajperzy-na-dachach,nIdn,1011287">RMF24</source>
-    </item>
-    <item>
-      <title>Podatek od nadzwyczajnych zysków nie tak prędko. Prezydent kieruje ustawę do TK</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bcfa2a708b10</link>
-      <description>Prezydent Karol Nawrocki kieruje do Trybunału Konstytucyjnego ustawę o podatku od nadzwyczajnych zysków osiągniętych w okresie od marca do grudnia 2026 r. ze zbycia paliw ciekłych - poinformowała kancelaria prezydenta.</description>
-      <pubDate>Fri, 24 Jul 2026 13:48:00 GMT</pubDate>
-      <guid isPermaLink="false">bcfa2a708b10</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Prezydent-kieruje-do-TK-ustawe-o-tzw-windfall-tax-od-spolek-paliwowych-9172984.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Kaizen #4: Overhauled Homelab</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2e10b028a0ac</link>
-      <description>It&apos;s been two years since I revamped my homelab, this time I&apos;m overhauling it.</description>
-      <pubDate>Fri, 24 Jul 2026 13:46:40 GMT</pubDate>
-      <guid isPermaLink="false">2e10b028a0ac</guid>
-      <source url="https://timharek.no/blog/kaizen-4/">Hacker News</source>
-    </item>
-    <item>
-      <title>Scientists discover a compound that could supercharge aging muscle repair</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b806a3017c50</link>
-      <description>A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.</description>
-      <pubDate>Fri, 24 Jul 2026 13:37:50 GMT</pubDate>
-      <guid isPermaLink="false">b806a3017c50</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/07/260724061432.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Rosjanie uderzyli w poligon koło Kijowa. Mnóstwo zabitych i rannych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ee0f433a1291</link>
-      <description>Co najmniej 10 zabitych i około 100 rannych - to bilans rosyjskiego ataku na obwód kijowski. Okazuje się, że celem Rosjan był poligon, na którym odbywała się wystawa uzbrojenia.</description>
-      <pubDate>Fri, 24 Jul 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="false">ee0f433a1291</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-rosjanie-uderzyli-w-poligon-kolo-kijowa-mnostwo-zabitych-i-r,nIdn,1011283">RMF24</source>
-    </item>
-    <item>
-      <title>OpenAI’s new voice mode makes it to the ChatGPT desktop app</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/397330e7a328</link>
-      <description>ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.</description>
-      <pubDate>Fri, 24 Jul 2026 13:36:42 GMT</pubDate>
-      <guid isPermaLink="false">397330e7a328</guid>
-      <source url="https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/">TechCrunch</source>
-    </item>
-    <item>
-      <title>270 mln euro za rumuńskiego producenta leków. Polpharma rośnie w regionie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b03ddd3d8b6d</link>
-      <description>Grupa Polpharma zakończyła przejęcie spółki Biofarm, jednego z większych producentów leków w Rumunii. Wartość transakcji wyniosła około 270 mln euro.</description>
-      <pubDate>Fri, 24 Jul 2026 13:35:00 GMT</pubDate>
-      <guid isPermaLink="false">b03ddd3d8b6d</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/270-mln-euro-za-rumunskiego-producenta-lekow-Polpharma-rosnie-w-regionie,287072,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Oracle fires 21,000 employees to fund AI spending</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f309df3f37e5</link>
-      <description>Oracle laid off ~13% of its staff to fund a $300B computing deal with OpenAI. Now, a credit downgrade and $7B in required power grid guarantees put the massive project in jeopardy.</description>
-      <pubDate>Fri, 24 Jul 2026 13:33:12 GMT</pubDate>
-      <guid isPermaLink="false">f309df3f37e5</guid>
-      <source url="https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442">Hacker News</source>
-    </item>
-    <item>
-      <title>Skłodowska-Curie na banknotach euro? EBC pokazał propozycje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ae94ec7de5a6</link>
-      <description>Wielka rewolucja w strefie euro staje się faktem. Europejski Bank Centralny pokazał finałowe projekty nowych banknotów, a wśród propozycji znalazła się... Maria Skłodowska-Curie. To pierwsza tak gigantyczna zmiana w wyglądzie europejskiej waluty od ponad dwóch dekad.</description>
-      <pubDate>Fri, 24 Jul 2026 13:31:00 GMT</pubDate>
-      <guid isPermaLink="false">ae94ec7de5a6</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-sklodowska-curie-na-banknotach-euro-ebc-pokazal-propozycje,nIdn,1011279">RMF24</source>
-    </item>
-    <item>
-      <title>Chcesz mieć lepszą pamięć? Odłóż telefon i nie rób tej jednej rzeczy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0f5c4fdd9656</link>
-      <description>Cyfrowe przypomnienia pomagają osiągnąć cel, lecz nowe badanie wskazuje, że po ich wyłączeniu pamięć może działać gorzej. Jak to odwrócić?</description>
-      <pubDate>Fri, 24 Jul 2026 13:30:30 GMT</pubDate>
-      <guid isPermaLink="false">0f5c4fdd9656</guid>
-      <source url="https://antyweb.pl/ludzka-pamiec-przypomnienia-wplyw">Antyweb</source>
-    </item>
-    <item>
-      <title>A new antiviral could stop measles before an outbreak takes off</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a3dc73278764</link>
-      <description>An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.</description>
-      <pubDate>Fri, 24 Jul 2026 13:27:10 GMT</pubDate>
-      <guid isPermaLink="false">a3dc73278764</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/07/260724061431.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Zmiany w Sejmie po rozłamie w PiS. „Pewnie powstanie nowy klub”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46a6aec188bf</link>
-      <description>„Chcę Was zapewnić o pełnym wsparciu rządu i moim osobistym, gdy musicie podjąć kontrowersyjną decyzję” - napisał Donald Tusk na platformie X po tym, jak Jarosław Kaczyński poinformował w piątek o rozłamie w PiS. Podczas piątkowej konferencji prasowej w Sejmie Morawiecki powiedział, jest z nim „40 posłów, senator oraz trzech europarlamentarzystów”. „Mamy bardzo mocną reprezentację” - stwierdził.</description>
-      <pubDate>Fri, 24 Jul 2026 13:26:00 GMT</pubDate>
-      <guid isPermaLink="false">46a6aec188bf</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-zmiany-w-sejmie-po-rozlamie-w-pis-pewnie-powstanie-nowy-klub,nIdn,1011280">RMF24</source>
-    </item>
-    <item>
-      <title>Morawiecki i 40 posłów odrzuca ultimatum Kaczyńskiego. &quot;Mamy bardzo mocną reprezentację&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d65fb309c07f</link>
-      <description>Lider Stowarzyszenia „Rozwój Plus” Mateusz Morawiecki poinformował w piątek, że jego środowisko liczy obecnie czterdziestu posłów, jednego senatora i trzech europosłów. Przekonywał, że do samego końca chciał działać w ramach PiS i w oparciu o strategię „dwóch płuc” partii.</description>
-      <pubDate>Fri, 24 Jul 2026 13:21:00 GMT</pubDate>
-      <guid isPermaLink="false">d65fb309c07f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Morawiecki-i-40-poslow-odrzuca-ultimatum-Kaczynskiego-Mamy-bardzo-mocna-reprezentacje-9172962.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Rosyjska gospodarka pod presją. Ukraińskie ataki biją w ceny i wzrost PKB</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66c9ef4a59e8</link>
-      <description>Bank centralny Rosji obniżył w piątek prognozę wzrostu PKB z 0,5-1,5 proc. do 0-1 proc. oraz referencyjną stopę procentową z 14,25 proc. do 14 proc. Podniósł też wskaźnik inflacji prognozowanej w 2026 r. z 4,5-5,5 proc. do 6-7 proc. - przekazała agencja Reutera.</description>
-      <pubDate>Fri, 24 Jul 2026 13:18:00 GMT</pubDate>
-      <guid isPermaLink="false">66c9ef4a59e8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rosyjska-gospodarka-pod-presja-Ukrainskie-ataki-bija-w-ceny-i-wzrost-PKB-9172958.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Four men dead after car crashes into lamp-post </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a30235fd59ee</link>
-      <description>The car left the road and crashed on Liverpool Road in Huyton just before 02:00 BST.</description>
-      <pubDate>Fri, 24 Jul 2026 13:05:51 GMT</pubDate>
-      <guid isPermaLink="false">a30235fd59ee</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwymj9jmnm0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Tragedia w Puławach. Ciała dwojga młodych ludzi w mieszkaniu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3ebd7775b07d</link>
-      <description>Ciała dwojga młodych ludzi znaleziono w mieszkaniu w jednym z bloków w Puławach na Lubelszczyźnie. Sprawę bada prokuratura, na razie wszystko wskazuje na to, że mąż zabił żonę, a później siebie – informuje reporter RMF FM Dominik Smaga.</description>
-      <pubDate>Fri, 24 Jul 2026 13:05:00 GMT</pubDate>
-      <guid isPermaLink="false">3ebd7775b07d</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-tragedia-w-pulawach-ciala-dwojga-mlodych-ludzi-w-mieszkaniu,nIdn,1011282">RMF24</source>
-    </item>
-    <item>
-      <title>Andy Burnham&apos;s first week pledges – how much do they add up to?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c9d5dc63fff</link>
-      <description>BBC Verify has looked at how much Burnham&apos;s new spending commitments cost and how they will be paid for</description>
-      <pubDate>Fri, 24 Jul 2026 13:04:47 GMT</pubDate>
-      <guid isPermaLink="false">3c9d5dc63fff</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Lidl kokietuje majsterkowiczów. Sprzęt Parkside na mocnych przecenach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/913168989d92</link>
-      <description>Lidl regularnie stawia na Parkside i droższą serię Performance. Produkty pojawiają się nie tylko na półkach sklepowych, ale również stronie internetowej. To właśnie tam teraz trwają aktualne przeceny na elektronarzędzia popularnej marki.</description>
-      <pubDate>Fri, 24 Jul 2026 13:00:03 GMT</pubDate>
-      <guid isPermaLink="false">913168989d92</guid>
-      <source url="https://antyweb.pl/lidl-kokietuje-majsterkowiczow-sprzet-parkside-na-mocnych-przecenach">Antyweb</source>
-    </item>
-    <item>
-      <title>Problemy z zatłaczaniem gazu do magazynów mogą wpłynąć na rynek ciepła zimą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/60e48a3024b5</link>
-      <description>Europejskie magazyny gazu mogą nie być zapełnione przed zimą nawet w 80 proc. - ostrzega dr Andrzej Sikora, prezes Instytutu Studiów Energetycznych, wskazując, że Norwegowie już dziś sygnalizują, że nie są w stanie zwiększyć wydobycia i dostarczyć na kontynent więcej surowca.</description>
-      <pubDate>Fri, 24 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">60e48a3024b5</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Wysokie-ceny-blekitnego-paliwa-i-problemy-z-jego-dostepnoscia-moga-zaburzyc-rynek-ciepla-zima-9172444.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Chris Mason: What Burnham&apos;s first week in power tells us about his agenda</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ba2cecf4b3e</link>
-      <description>The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC&apos;s political editor Chris Mason explains.</description>
-      <pubDate>Fri, 24 Jul 2026 12:58:58 GMT</pubDate>
-      <guid isPermaLink="false">1ba2cecf4b3e</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Czekają na ratunek, są ich tysiące. Ormuz pułapką dla marynarzy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/039fd76e9c73</link>
-      <description>Wysoki Komisarz ONZ ds. Praw Człowieka Volker Türk zaapelował w piątek o pilną pomoc dla około 6 tys. marynarzy, którzy pozostają uwięzieni na blisko 400 statkach w rejonie cieśniny Ormuz. Z powodu trwającego konfliktu między Stanami Zjednoczonymi a Iranem jednostki nie mogą bezpiecznie opuścić tego obszaru.</description>
-      <pubDate>Fri, 24 Jul 2026 12:57:00 GMT</pubDate>
-      <guid isPermaLink="false">039fd76e9c73</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-czekaja-na-ratunek-sa-ich-tysiace-ormuz-pulapka-dla-marynarz,nIdn,1011277">RMF24</source>
-    </item>
-    <item>
-      <title>Prezydent Nawrocki podpisał 5 ustaw, w tym „łańcuchową”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3a33ad7c94d0</link>
-      <description>Prezydent Karol Nawrocki zatwierdził pięć nowych ustaw, w tym tzw. ustawę łańcuchową. Jedną ustawę prezydent skierował do Trybunału Konstytucyjnego w trybie kontroli prewencyjnej.</description>
-      <pubDate>Fri, 24 Jul 2026 12:54:00 GMT</pubDate>
-      <guid isPermaLink="false">3a33ad7c94d0</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-prezydent-nawrocki-podpisal-5-ustaw-w-tym-lancuchowa,nIdn,1011278">RMF24</source>
-    </item>
-    <item>
-      <title>Chcą więcej mięsa i ziemniaków. Ministerstwo Zdrowia odpowiedziało</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8587676e97a9</link>
-      <description>Do Ministerstwa Zdrowia trafiła petycja przeciwko zmianom w żywieniu dzieci, które mają zwiększyć udział produktów roślinnych i ograniczyć spożycie czerwonego mięsa. Autorzy dokumentu obawiają się wypierania tradycyjnej kuchni i promowania jednego modelu żywienia. Resort odpowiada, że nowe zasady nie wykluczają mięsa.</description>
-      <pubDate>Fri, 24 Jul 2026 12:53:00 GMT</pubDate>
-      <guid isPermaLink="false">8587676e97a9</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Chca-wiecej-miesa-i-ziemniakow-Ministerstwo-Zdrowia-odpowiedzialo,287063,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Facebook launches a dedicated Marketplace app for sellers, adds a free verification system</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/776e4f38aec2</link>
-      <description>Seller is a dedicated Marketplace app for people who list and sell items frequently.</description>
-      <pubDate>Fri, 24 Jul 2026 12:47:15 GMT</pubDate>
-      <guid isPermaLink="false">776e4f38aec2</guid>
-      <source url="https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Miało być pay to win, a zrobili świetne RPG dla pojedynczego gracza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/42b1ad7e7d55</link>
-      <description>Dynamicznie zmieniające się realia rynku gier zmuszają twórców do rewizji swoich planów. To spotkało koreańskie studio Hound13, które pierwotnie pracowało nad grą free to play, a finalnie wypuściło na rynek bardzo udane jRPG bez nawet grama mikropłatności.</description>
-      <pubDate>Fri, 24 Jul 2026 12:45:43 GMT</pubDate>
-      <guid isPermaLink="false">42b1ad7e7d55</guid>
-      <source url="https://antyweb.pl/mialo-byc-pay-to-win-a-zrobili-swietne-rpg-dla-pojedynczego-gracza">Antyweb</source>
-    </item>
-    <item>
-      <title>Em dashes are fucking amazing</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fa8e13f92056</link>
-      <description>Comments</description>
-      <pubDate>Fri, 24 Jul 2026 12:40:27 GMT</pubDate>
-      <guid isPermaLink="false">fa8e13f92056</guid>
-      <source url="https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing">Hacker News</source>
-    </item>
-    <item>
-      <title>Programming language file extensions that match ISO 3166-1 alpha-2 country code</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/08037436ec64</link>
-      <description>Why does this article even exist?</description>
-      <pubDate>Fri, 24 Jul 2026 12:34:28 GMT</pubDate>
-      <guid isPermaLink="false">08037436ec64</guid>
-      <source url="https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/">Hacker News</source>
-    </item>
-    <item>
-      <title>Rozłam w PiS. Morawiecki: Jest nas 40 posłów, senator oraz 3 europarlamentarzystów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c8dcf1ac6f7</link>
-      <description>Rozłam w Prawie i Sprawiedliwości. Grupa 44 polityków, w tym 40 posłów, senator oraz 3 europarlamentarzystów opuszcza ugrupowanie w związku z konfliktem dotyczącym wizji partii. Na konferencji prasowej w Sejmie Mateusz Morawiecki zapowiedział, że skupieni wokół niego działacze spróbują dotrzeć do szerokiej grupy wyborców na prawicy.</description>
-      <pubDate>Fri, 24 Jul 2026 12:27:00 GMT</pubDate>
-      <guid isPermaLink="false">3c8dcf1ac6f7</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-rozlam-w-pis-morawiecki-jest-nas-40-poslow-senator-oraz-3-eu,nIdn,1011274">RMF24</source>
-    </item>
-    <item>
-      <title>Limity wynagrodzeń nie uratują zadłużonych szpitali. „Chcemy normalnie płacić za leki”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8bdde375cd94</link>
-      <description>Choć cele projektowanych regulacji są słuszne, menadżerom szpitali powiatowych i samorządowcom trudno nazwać je reformą. - Nie chcemy wciąż mechanizmów przypominających metodę kija i marchewki. Chcemy normalnie płacić dostawcom za leki - komentuje Marta Nowacka, prezeska Związku Szpitali Powiatowych Województwa Śląskiego.</description>
-      <pubDate>Fri, 24 Jul 2026 12:25:00 GMT</pubDate>
-      <guid isPermaLink="false">8bdde375cd94</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Limity-wynagrodzen-nie-uratuja-zadluzonych-szpitali-Chcemy-normalnie-placic-za-leki,287071,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Lipcowy atak zimy w Tatrach. IMGW wydał ostrzeżenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/34cb97747bd6</link>
-      <description>Tegoroczny lipiec nie rozpieszcza turystów w Tatrach. Wysoko w górach po raz drugi od początku miesiąca spadł śnieg. Ratownicy TOPR odradzają wszelkie wyjścia na szlaki, podkreślając, że warunki są wyjątkowo trudne jak na środek lata.</description>
-      <pubDate>Fri, 24 Jul 2026 12:22:00 GMT</pubDate>
-      <guid isPermaLink="false">34cb97747bd6</guid>
-      <source url="https://www.rmf24.pl/fakty/pogoda/news-lipcowy-atak-zimy-w-tatrach-imgw-wydal-ostrzezenia,nIdn,1011271">RMF24</source>
-    </item>
-    <item>
-      <title>Spadek dzietności to uniwersalny wzorzec. Przyczyna jest prostsza, niż można by sądzić</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1613f5bc92b1</link>
-      <description>Demografowie od dawna opisują transformację demograficzną jako proces, w którym modernizacja najpierw obniża śmiertelność, a następnie płodność. Schemat ten, wywiedziony głównie z obserwacji krajów zachodnich, uchodził za uniwersalny, choć nigdy nie sprawdzono go w skali globalnej. Nowe badanie Kenjiego Itao z Uniwersytetu Tohoku, opublikowane w Evolutionary Human Sciences, wypełnia tę lukę i odsłania strukturę prostszą, niż można się było spodziewać.</description>
-      <pubDate>Fri, 24 Jul 2026 12:17:09 GMT</pubDate>
-      <guid isPermaLink="false">1613f5bc92b1</guid>
-      <source url="https://kopalniawiedzy.pl/dzietnosc-spadek-przyczyna,38821">KopalniaWiedzy.pl</source>
-    </item>
-    <item>
-      <title>Why is programming so captivating, yet so agonizing?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66aa3e8b8590</link>
-      <description>May you cross the tar pit and still find joy in creation.</description>
-      <pubDate>Fri, 24 Jul 2026 12:15:11 GMT</pubDate>
-      <guid isPermaLink="false">66aa3e8b8590</guid>
-      <source url="https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing">Hacker News</source>
-    </item>
-    <item>
-      <title>Wypowiedział wojnę śmierci, a teraz stworzył swojego &quot;klona&quot;. Czy Bryan Johnson oszalał?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/537110236270</link>
-      <description>Bryan Johnson, to ten człowiek, który ogłosił, że zrobi wszystko, aby nie umrzeć i wydaje na to nawet do 3 milionów dolarów rocznie. Teraz, niedługo po ujawnieniu nieuleczalnej choroby autoimmunologicznej, ogłosił, że stworzył swojego &quot;klona&quot;. Choć Johnsonowi do tej pory szczerze kibicowałem, tak teraz zaczynam sądzić, iż jego działania zmierzają w... dziwną stronę.</description>
-      <pubDate>Fri, 24 Jul 2026 12:13:24 GMT</pubDate>
-      <guid isPermaLink="false">537110236270</guid>
-      <source url="https://antyweb.pl/bryan-johnson-komorki-macierzyste-klonowanie">Antyweb</source>
-    </item>
-    <item>
-      <title>Sikorski do młodzieży polonijnej: Zwiążcie swoją przyszłość z Polską</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8263bde6e5fe</link>
-      <description>Coraz więcej młodych Polaków mieszkających za granicą rozważa powrót do ojczyzny. O tych przemianach, sukcesach Polski i szansach na przyszłość mówił w Warszawie szef MSZ i wicepremier Radosław Sikorski podczas Polonia Camp 2026. Podczas spotkania zwrócił się do młodzieży polonijnej, podkreślając, że Polska jest dziś krajem dynamicznie rozwijającym się, a powroty rodaków są „materialnym świadectwem sukcesu”.</description>
-      <pubDate>Fri, 24 Jul 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="false">8263bde6e5fe</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-sikorski-do-mlodziezy-polonijnej-zwiazcie-swoja-przyszlosc-z,nIdn,1011273">RMF24</source>
-    </item>
-    <item>
-      <title>Takie banknoty tracą ważność. W sklepie mogą odmówić przyjęcia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/def66847046c</link>
-      <description>Uszkodzona gotówka? To może oznaczać problemy. Nie każdy banknot i moneta zostaną zaakceptowane przy kasie, a sposób postępowania w takich sytuacjach określają przepisy Narodowego Banku Polskiego. Od stopnia zniszczenia zależy, czy odzyskamy wartość pieniędzy.</description>
-      <pubDate>Fri, 24 Jul 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="false">def66847046c</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Takie-banknoty-traca-waznosc-W-sklepie-moga-odmowic-przyjecia,286324,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Rosjanie niezwykle rzadko atakują w ten sposób. Sześć osób nie żyje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/69a58c81ada5</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski poinformował w piątek na portalu X o rosyjskim ataku na obwód kijowski, w wyniku którego zginęło sześć osób, a kilkadziesiąt zostało rannych.</description>
-      <pubDate>Fri, 24 Jul 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="false">69a58c81ada5</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-rosjanie-niezwykle-rzadko-atakuja-w-ten-sposob-szesc-osob-ni,nIdn,1011270">RMF24</source>
-    </item>
-    <item>
-      <title>Kłótnia o pensje: 240 zł dla lekarza i 80 zł dla pielęgniarki. Medycy zapominają o jednym szczególe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/78863e2a7c67</link>
-      <description>Rząd chce ukrócić &quot;spiralę płacową&quot; w ochronie zdrowia, a na linii lekarze-pielęgniarki iskrzy. Ogólnopolski Związek Zawodowy Lekarzy (OZZL) uważa, że zestawianie stawek z kontraktów i etatów to błąd. Twarde dane pokazują jednak, że większość specjalistów unika etatów jak ognia. Czy zatem oburzenie lekarzy na słowa szefowej związku pielęgniarek jest uzasadnione?</description>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">78863e2a7c67</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Klotnia-o-pensje-240-zl-dla-lekarza-i-80-zl-dla-pielegniarki-Medycy-zapominaja-o-jednym-szczegole,287064,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Gigant zawinął do Gdyni. Historyczny moment dla polskiego portu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ade8bda97120</link>
-      <description>Port Gdynia przyjął w piątek największą jednostkę w swojej historii. To mierzący 399 metrów kontenerowiec MSC Venice.</description>
-      <pubDate>Fri, 24 Jul 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="false">ade8bda97120</guid>
-      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-gigant-zawinal-do-gdyni-historyczny-moment-dla-polskiego-por,nIdn,1011261">RMF24</source>
+      <title>Powtórka z historii. To ma być &quot;kolejny etap operacji&quot; po rozłamie w PiS</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5b60f34aedc6</link>
+      <description>To największy podział w historii Prawa i Sprawiedliwości. Jak w tej sytuacji zachowa się Jarosław Kaczyński? Joanna Kluzik-Rostkowska i Jacek Włosowicz, politycy, którzy sami mają za sobą głośne rozwody z partią, wskazują w rozmowie z TVN24+, co będzie &quot;kolejnym etapem operacji&quot; i co jest &quot;najbardziej widocznym znakiem osłabienia&quot; prezesa.</description>
+      <pubDate>Fri, 24 Jul 2026 13:54:30 GMT</pubDate>
+      <guid isPermaLink="false">5b60f34aedc6</guid>
+      <source url="https://tvn24.pl/polska/rozlam-w-pis-co-zrobi-kaczynski-to-ma-byc-kolejny-etap-operacji-w-sprawie-morawieckiego-st9156906?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
