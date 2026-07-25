@@ -5,8 +5,56 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 25 Jul 2026 17:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:38:12 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Naukowcy odkryli, jak odmłodzić komórki. Jedna zmiana opóźnia starzenie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/70d243102739</link>
+      <description>Nie potrzeba lat, by organizm zaczął starzeć się szybciej. Według naukowców wystarczy nawet niewielka ilość dodanego cukru spożywana każdego dnia, by w komórkach pojawiły się zmiany związane z biologicznym starzeniem. Badanie pokazuje też, że ten proces może być częściowo odwracalny.</description>
+      <pubDate>Sat, 25 Jul 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">70d243102739</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Naukowcy-odkryli-jak-odmlodzic-komorki-Jedna-zmiana-opoznia-starzenie,286981,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„To się musi skończyć”. Sojusznik Putina z bezprecedensowym apelem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2e0efcfb1eba</link>
+      <description>Prezydent Kazachstanu Kasym-Żomart Tokajew wystosował bezprecedensowy apel do Władimira Putina o zamrożenie wojny w Ukrainie i powrót do rozmów pokojowych. Przywódcy spotkali się na forum regionalnym w Omsku w Rosji.</description>
+      <pubDate>Sat, 25 Jul 2026 19:25:00 GMT</pubDate>
+      <guid isPermaLink="false">2e0efcfb1eba</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-to-sie-musi-skonczyc-sojusznik-putina-z-bezprecedensowym-ape,nIdn,1011373">RMF24</source>
+    </item>
+    <item>
+      <title>Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1fa0f6aa9169</link>
+      <description>Elon Musk&apos;s tunneling startup is reportedly in talks for a major new funding round.</description>
+      <pubDate>Sat, 25 Jul 2026 19:23:32 GMT</pubDate>
+      <guid isPermaLink="false">1fa0f6aa9169</guid>
+      <source url="https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Za nami kolejny etap Rajdu Polski. Kto na prowadzeniu?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a19a53179455</link>
+      <description>Rajd Polski po raz pierwszy od ponad dwóch dekad przeniósł się na asfaltowe odcinki specjalne na Śląsku. Sobota przyniosła nie tylko sportowe emocje, ale także dwa poważne wypadki, które wymusiły interwencję służb medycznych. Liderem po pierwszym etapie został Fin Teemu Suninen.</description>
+      <pubDate>Sat, 25 Jul 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="false">a19a53179455</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-za-nami-kolejny-etap-rajdu-polski-kto-na-prowadzeniu,nIdn,1011372">RMF24</source>
+    </item>
+    <item>
+      <title>Waldemar Buda: ja nie wiem, co się z panem rzecznikiem PiS dzieje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5cc9ded4e0e5</link>
+      <description>Rafał Bochenek schodzi na takie pułapy narracyjne, które czynią go człowiekiem mało poważnym - ocenił w &quot;Faktach po Faktach&quot; TVN24 poseł PiS Waldemar Buda, członek frakcji Mateusza Morawieckiego. Przekonywał też, że w PiS-ie toczyły się rozmowy o strategii dotarcia do wyborców centrowych, a nie o podziale partii. Mówił też o kulisach ostatniego spotkania Jarosława Kaczyńskiego z Mateuszem Morawieckim i pewnym &quot;zaskoczeniu&quot;.</description>
+      <pubDate>Sat, 25 Jul 2026 19:08:10 GMT</pubDate>
+      <guid isPermaLink="false">5cc9ded4e0e5</guid>
+      <source url="https://tvn24.pl/polska/waldemar-buda-ja-nie-wiem-co-sie-z-panem-rzecznikiem-pis-rafalem-bochenkiem-dzieje-st9159044?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Show HN: Bribes.fyi – Know before you go. New feature added</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4859d54bf3e0</link>
+      <description>See how much people pay in bribes, by department and city.</description>
+      <pubDate>Sat, 25 Jul 2026 19:06:45 GMT</pubDate>
+      <guid isPermaLink="false">4859d54bf3e0</guid>
+      <source url="https://bribes.fyi/before-you-go">Hacker News</source>
+    </item>
     <item>
       <title>Dodawany na potęgę. Konsekwencje: włóknienie i zapalenie wątroby</title>
       <link>https://lolsoftware.github.io/4-news/#/article/47beaf60045b</link>
@@ -16,12 +64,124 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Dodawany-na-potege-Konsekwencje-wloknienie-i-zapalenie-watroby,287009,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Ten zamek przejdzie duże zmiany. Turyści wrócą dopiero w przyszłym roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/47dca6f58b89</link>
+      <description>Tylko do końca tygodnia można zwiedzać zamek w Czchowie w woj. małopolskim. Po weekendzie zostanie on zamknięty w związku z remontem baszty zamkowej oraz jej nadbudową o 6 metrów. Turyści do zamku będą mogli wrócić dopiero w przyszłym roku.</description>
+      <pubDate>Sat, 25 Jul 2026 18:55:00 GMT</pubDate>
+      <guid isPermaLink="false">47dca6f58b89</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-ten-zamek-przejdzie-duze-zmiany-turysci-wroca-dopiero-w-przy,nIdn,1011371">RMF24</source>
+    </item>
+    <item>
+      <title>Man charged over intercepted bomb in car</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6498e0d76ad1</link>
+      <description>The man in his 40s is due to appear at the Criminal Courts of Justice on Saturday.</description>
+      <pubDate>Sat, 25 Jul 2026 18:33:04 GMT</pubDate>
+      <guid isPermaLink="false">6498e0d76ad1</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Eksplozja zysków w S&amp;P 500. Aż 86 proc. spółek przebija oczekiwania analityków</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9cbd53c2e4d3</link>
+      <description>Po ponad 1/4 sezonu wyników za drugi kwartał spółki z indeksu S&amp;P 500 raportują imponujące wyniki finansowe, nawet jeśli pominąć nietypowo wysoki zysk na akcję (EPS) Alphabet - poinformował FactSet. Zarówno zyski, jak i przychody są wyraźnie wyższe od oczekiwań analityków i historycznych średnich.</description>
+      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">9cbd53c2e4d3</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Eksplozja-zyskow-w-S-P-500-Az-86-proc-spolek-przebija-oczekiwania-analitykow-9173316.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>4,5 miliona Węgrów stawia na Magyara. Tisza z rekordowym poparciem 74%</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/36a1e14d793a</link>
+      <description>Wśród osób deklarujących udział w wyborach i chęć oddania głosu na konkretną partię, Tisza cieszy się poparciem na poziomie 74 proc. - wynika z opublikowanego w czwartek sondażu ośrodka Zavecz. Jego autorzy dodali, że nigdy w ciągu ostatnich 36 lat żadna partia na Węgrzech nie miała poparcia 4,5 mln wyborców.</description>
+      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">36a1e14d793a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/4-5-miliona-Wegrow-stawia-na-Magyara-Tisza-z-rekordowym-poparciem-74-9172572.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Ukraińcy &quot;zakręcili&quot; kurek z paliwem nawet na Syberii. Moskwa przedłuża zakaz eksportu benzyny </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4f41539621c5</link>
+      <description>Wicepremier Rosji Aleksandr Nowak zapowiedział w sobotę, że zakaz eksportu benzyny zostanie przedłużony do końca roku - przekazała agencja Reutera. Nowak przyznał też, że w niektórych regionach Rosji wciąż brakuje paliwa. Ukraina od tygodni prowadzi ataki na rosyjski sektor naftowy.</description>
+      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">4f41539621c5</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ukraincy-zakrecili-kurek-z-paliwem-nawet-na-Syberii-Moskwa-przedluza-zakaz-eksportu-benzyny-9173329.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Eksperci: Wojnę z Iranem zakończy prawdopodobnie dopiero następca Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dbe27a529461</link>
+      <description>Wojnę z Iranem zakończy zapewne dopiero następca Donalda Trumpa. Gdy rozpoczęte przez nich wojny wkraczają w fazę klinczu, prezydenci USA rzadko znajdują wyjście z impasu. Trump ma małe szanse. Może jednak ogłosić zwycięstwo i dać sobie spokój - oceniają eksperci think tanku Defense Priorities.</description>
+      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">dbe27a529461</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Eksperci-Wojne-z-Iranem-zakonczy-prawdopodobnie-dopiero-nastepca-Trumpa-9171360.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Ukraina wejdzie do UE i rozsadzi budżet? Były szef unijnej dyrekcji wyjaśnia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cfd8838d87d6</link>
+      <description>Bez reformy Wspólnej Polityki Rolnej trudno sobie wyobrazić wejście Ukrainy do Unii, ale jej akcesja nie rozsadzi budżetu UE - ocenił w rozmowie z PAP były dyrektor generalny Dyrekcji Rolnictwa Komisji Europejskiej Jerzy Plewa.</description>
+      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">cfd8838d87d6</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ukraina-wejdzie-do-UE-i-rozsadzi-budzet-Byly-szef-unijnej-dyrekcji-wyjasnia-9170119.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Krew będzie droższa. Ministerstwo Zdrowia przedstawiło nowe stawki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ebb2cfc1d9dd</link>
+      <description>Ministerstwo Zdrowia chce podnieść opłaty za krew i jej składniki o 5,65 proc. w 2027 r. Projekt rozporządzenia w tej sprawie skierowano do konsultacji społecznych. Zmiany mają wejść w życie od stycznia.</description>
+      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">ebb2cfc1d9dd</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Krew-bedzie-drozsza-Ministerstwo-Zdrowia-przedstawilo-nowe-stawki-9171902.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Tile&apos;s security is so bad it&apos;s a feature for stalkers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/793e991b1af8</link>
+      <description>Comments</description>
+      <pubDate>Sat, 25 Jul 2026 18:18:42 GMT</pubDate>
+      <guid isPermaLink="false">793e991b1af8</guid>
+      <source url="https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/">Hacker News</source>
+    </item>
+    <item>
+      <title>Kim Dzong Un na pomoc Putinowi: Kolejni żołnierze z Korei Płn. trafią na front?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/78480d721466</link>
+      <description>Rosja chce sprowadzić 30 tys. żołnierzy z Korei Północnej – powiedział w sobotę prezydent Ukrainy Wołodymyr Zełenski. Jak wskazał, wojskowi ci mieliby wziąć udział w wojnie przeciwko Ukrainie. Rosja już przygotowuje się na ich przyjęcie – wskazał Zełenski.</description>
+      <pubDate>Sat, 25 Jul 2026 18:13:00 GMT</pubDate>
+      <guid isPermaLink="false">78480d721466</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-kim-dzong-un-na-pomoc-putinowi-kolejni-zolnierze-z-korei-pln,nIdn,1011370">RMF24</source>
+    </item>
+    <item>
+      <title>Dwójka dzieci zginęła w wypadku na drodze krajowej 74 pod Paradyżem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c759d28e75b7</link>
+      <description>Dwoje dzieci w wieku 9 i 11 lat zginęło w wypadku na drodze krajowej numer 74 w miejscowości Wójcin (Łódzkie) pod Paradyżem. Pięć osób zostało rannych.</description>
+      <pubDate>Sat, 25 Jul 2026 18:07:08 GMT</pubDate>
+      <guid isPermaLink="false">c759d28e75b7</guid>
+      <source url="https://tvn24.pl/lodz/lodzkie-tragiczny-wypadek-na-dk-74-nie-zyje-dwoje-dzieci-st9159048?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Pobudza wzrost torbieli w nerkach. Narażona jest też wątroba</title>
       <link>https://lolsoftware.github.io/4-news/#/article/318694462d40</link>
       <description>To odkrycie może zmienić sposób myślenia o jednej z najczęstszych dziedzicznych chorób nerek. Naukowcy wykazali, że glukoza może napędzać wzrost torbieli, ale jednocześnie wskazali sposób, który potencjalnie pozwala ten proces zatrzymać. Wyniki otwierają drogę do nowych metod leczenia milionów pacjentów.</description>
       <pubDate>Sat, 25 Jul 2026 18:03:00 GMT</pubDate>
       <guid isPermaLink="false">318694462d40</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Pobudza-wzrost-torbieli-w-nerkach-Narazona-jest-tez-watroba,286993,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>SpaceX eyes tower catch for next Starship after auspicious end to 13th flight</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5d935b88b695</link>
+      <description>SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.</description>
+      <pubDate>Sat, 25 Jul 2026 17:47:22 GMT</pubDate>
+      <guid isPermaLink="false">5d935b88b695</guid>
+      <source url="https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/">Ars Technica</source>
+    </item>
+    <item>
+      <title>India&apos;s &apos;cockroach&apos; protest called off after education minister quits</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/91748d939317</link>
+      <description>The CJP protest has been the most visible expression of public anger against PM Narendra Modi&apos;s government in recent years.</description>
+      <pubDate>Sat, 25 Jul 2026 17:44:46 GMT</pubDate>
+      <guid isPermaLink="false">91748d939317</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Tragiczny wypadek w Łódzkiem. Dwoje dzieci nie żyje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca372040d07e</link>
+      <description>Tragiczny wypadek na drodze krajowej nr 74 w miejscowości Wójcin (woj. łódzkie). Po zderzeniu trzech samochodów osobowych trasa została całkowicie zablokowana. Wśród poszkodowanych są dzieci, które w stanie ciężkim trafiły pod opiekę ratowników.</description>
+      <pubDate>Sat, 25 Jul 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="false">ca372040d07e</guid>
+      <source url="https://www.rmf24.pl/regiony/lodz/news-tragiczny-wypadek-w-lodzkiem-dwoje-dzieci-nie-zyje,nIdn,1011369">RMF24</source>
     </item>
     <item>
       <title>Dzięki testom wielogenowym chore na raka piersi mogą uniknąć chemioterapii. Czekają na pilotaż</title>
@@ -168,6 +328,14 @@
       <source url="https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/">Hacker News</source>
     </item>
     <item>
+      <title>The Dark Night of Mathematics</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1969cd7e76c</link>
+      <description>Comments</description>
+      <pubDate>Sat, 25 Jul 2026 15:54:59 GMT</pubDate>
+      <guid isPermaLink="false">b1969cd7e76c</guid>
+      <source url="https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics">Hacker News</source>
+    </item>
+    <item>
       <title>Jak uporządkować rynek usług lekarskich w Polsce? Diagnoza problemów i pięć propozycji zmian</title>
       <link>https://lolsoftware.github.io/4-news/#/article/886c9e383512</link>
       <description>Debata o wynagrodzeniach lekarzy nie powinna sprowadzać się do pytania: ile lekarz może zarabiać? Ważniejsze jest to, jakie reguły tworzą popyt na pracę lekarzy, jak mierzymy ich pracę i czy pacjent potrafi porównać zakres oraz cenę usług. Zamiast administracyjnych limitów płac potrzebny jest spójny zestaw pięciu działań, które zwiększą przejrzystość i efektywność systemu - twierdzi Adam Kozierkiewicz.</description>
@@ -240,174 +408,6 @@ For a while I thought the people repeating these lines were behind. Then we intr
       <pubDate>Sat, 25 Jul 2026 15:04:30 GMT</pubDate>
       <guid isPermaLink="false">fe9d45d95ab5</guid>
       <source url="https://tvn24.pl/katowice/zory-uderzyl-autem-tak-mocno-ze-wyrwal-drzewo-z-korzeniami-st9158950?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>ZUS rozdaje po 300 zł. Nie ma kryterium dochodowego, ale potrzebny jest wniosek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5ffcdfe72d4c</link>
-      <description>Już blisko 1,4 mln wniosków o wyprawkę szkolną Dobry Start trafiło do ZUS. Na konta rodzin przelano prawie 173 mln zł. Wnioski o świadczenie można składać do końca listopada.</description>
-      <pubDate>Sat, 25 Jul 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="false">5ffcdfe72d4c</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-rozdaje-po-300-zl-Nie-ma-kryterium-dochodowego-ale-potrzebny-jest-wniosek,286959,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Fronty będą wędrować nad Polską. Nadchodzą burze z ulewami</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d481510a1ff0</link>
-      <description>Nadchodzące dni przyniosą zmianę aury. Po słonecznych i upalnych chwilach zrobi się chłodniej. Przez kraj wędrować będą fronty, niosące deszcz i burze. Co jeszcze nas czeka? Sprawdź.</description>
-      <pubDate>Sat, 25 Jul 2026 15:02:59 GMT</pubDate>
-      <guid isPermaLink="false">d481510a1ff0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-fronty-beda-wedrowac-nad-polska-nadchodza-burze-z-ulewami-st9158925?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Te ryby są najzdrowsze dla serca. Dietetyczka wskazała: 4 razy po 150 g</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/11f2baf8b606</link>
-      <description>Regularne spożywanie ryb może wspierać profilaktykę chorób sercowo-naczyniowych. Najwięcej korzyści przynoszą tłuste gatunki bogate w kwasy omega-3, takie jak łosoś, makrela, śledź czy sardynki.</description>
-      <pubDate>Sat, 25 Jul 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="false">11f2baf8b606</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Te-ryby-sa-najzdrowsze-dla-serca-Dietetyczka-wskazala-4-razy-po-150-g,287026,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Open-weight AI is having its Kubernetes moment. Let&apos;s not ruin it</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2ab711a0f92f</link>
-      <description>Comments</description>
-      <pubDate>Sat, 25 Jul 2026 14:49:49 GMT</pubDate>
-      <guid isPermaLink="false">2ab711a0f92f</guid>
-      <source url="https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/">Hacker News</source>
-    </item>
-    <item>
-      <title>Polak zażartował na lotnisku. Wieczór kawalerski zakończył jeszcze przed startem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6711ee9765af</link>
-      <description>Nietypowy przebieg miał początek wieczoru kawalerskiego grupy Polaków, którzy wybierali się do Albanii. Jeden z uczestników, żartując o posiadaniu materiałów wybuchowych, wywołał alarm na lotnisku Poznań-Ławica. Interweniowała Straż Graniczna, a finał tej historii okazał się bardzo kosztowny dla żartownisia.</description>
-      <pubDate>Sat, 25 Jul 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="false">6711ee9765af</guid>
-      <source url="https://www.rmf24.pl/regiony/poznan/news-polak-zazartowal-na-lotnisku-wieczor-kawalerski-zakonczyl-je,nIdn,1011359">RMF24</source>
-    </item>
-    <item>
-      <title>Nowe obowiązki dla centrów zdrowia psychicznego. Eksperci chcą odrzucenia projektu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6dfe23ccecb5</link>
-      <description>Ministerstwo Zdrowia przygotowało projekt rozporządzenia określający nowe zasady funkcjonowania centrów zdrowia psychicznego. Każde CZP ma zapewnić m.in. określoną liczbę psychiatrów, psychologów, psychoterapeutów i koordynatorów opieki, prowadzić punkt zgłoszeniowo-koordynacyjny oraz oferować opiekę dzienną. Eksperci związani z Kongresem Zdrowia Psychicznego oceniają jednak, że projekt jest wadliwy legislacyjnie i może zagrozić reformie psychiatrii środowiskowej.</description>
-      <pubDate>Sat, 25 Jul 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="false">6dfe23ccecb5</guid>
-      <source url="https://www.rynekzdrowia.pl/Psychiatria/Nowe-obowiazki-dla-centrow-zdrowia-psychicznego-Eksperci-chca-odrzucenia-projektu,287091,16.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Które twarze są najbardziej atrakcyjne? Margot Robbie blisko ideału</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1f22c492f3da</link>
-      <description>Czy piękno to naprawdę kwestia gustu? Naukowcy postanowili to sprawdzić i za pomocą technologii 3D rozszyfrowali geometrię atrakcyjności. Wyniki są jednoznaczne, a idealnymi dowodami na poparcie tych tez stali się Margot Robbie oraz David Gandy. Sprawdź, jakie cechy twarzy decydują o tym, że nie można oderwać od nas wzroku.</description>
-      <pubDate>Sat, 25 Jul 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="false">1f22c492f3da</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-ktore-twarze-sa-najbardziej-atrakcyjne-margot-robbie-blisko-,nIdn,1010796">RMF24</source>
-    </item>
-    <item>
-      <title>To jeden z najpiękniejszych budynków Warszawy. Rozpoczął się jego remont</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/acf93e29ed14</link>
-      <description>Rozpoczął się remont elewacji Kamienicy pod Gigantami, jednego z najcenniejszych zabytków klasycystycznych w Warszawie. Front budynku zostanie oczyszczony, a ubytki w tynkach uzupełnione. Zmieni się też jego kolor.</description>
-      <pubDate>Sat, 25 Jul 2026 14:27:21 GMT</pubDate>
-      <guid isPermaLink="false">acf93e29ed14</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-kamienica-pod-gigantami-to-jeden-z-najpiekniejszych-budynkow-stolicy-rozpoczal-sie-jego-remont-st9158834?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Największy taki schron na świecie jest w Polsce. Ukrywał Hitlera, potem hodowano tu... pieczarki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1056dfbb875a</link>
-      <description>Szukasz niezwykłych miejsc na mapie Polski? W niewielkiej Stępinie na Podkarpaciu znajdziesz unikalny zabytek militarny, który imponuje rozmachem na skalę globalną. Ten potężny, liczący niemal 400 metrów schron kolejowy powstał, by chronić pociągi sztabowe najwyższych władz III Rzeszy. Dziś ten tajemniczy obiekt przyciąga rzesze turystów, oferując fascynującą podróż w czasie do czasów II wojny światowej.</description>
-      <pubDate>Sat, 25 Jul 2026 14:22:00 GMT</pubDate>
-      <guid isPermaLink="false">1056dfbb875a</guid>
-      <source url="https://www.rmf24.pl/regiony/rzeszow/news-najwiekszy-taki-schron-na-swiecie-jest-w-polsce-ukrywal-hitl,nIdn,1010776">RMF24</source>
-    </item>
-    <item>
-      <title>Bocian zwisał z gniazda nad linią energetyczną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0ca6e2efa77d</link>
-      <description>Kierowcy przejeżdżający przez Nowe Grudze koło Łyszkowic (Łódzkie) zauważyli bociana zwisającego z gniazda tuż nad linią energetyczną. Ptak zaplątał się w sznurek i nie mógł się uwolnić.</description>
-      <pubDate>Sat, 25 Jul 2026 14:07:25 GMT</pubDate>
-      <guid isPermaLink="false">0ca6e2efa77d</guid>
-      <source url="https://tvn24.pl/lodz/nowe-grudze-powiat-lowicki-bocian-zwisal-nad-linia-energetyczna-dramatyczna-akcja-st9158864?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Amerykańskie miasto na krawędzi katastrofy. Woda jest tu na wagę złota</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aed6f91df4fc</link>
-      <description>Corpus Christi miasto na wybrzeżu Teksasu, stoi dziś w obliczu bezprecedensowego kryzysu. Ponad 300 tysięcy mieszkańców może wkrótce doświadczyć sytuacji, która dotąd wydawała się niemożliwa w tak rozwiniętym kraju – całkowitego braku wody. To efekt wieloletnich zaniedbań, gwałtownego rozwoju przemysłu i zmian klimatycznych, które razem doprowadziły miasto na skraj katastrofy - informuje ScienceAlert.</description>
-      <pubDate>Sat, 25 Jul 2026 14:07:00 GMT</pubDate>
-      <guid isPermaLink="false">aed6f91df4fc</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-amerykanskie-miasto-na-krawedzi-katastrofy-woda-jest-tu-na-w,nIdn,1011357">RMF24</source>
-    </item>
-    <item>
-      <title>Partia Karaluchów triumfuje. Minister podał się do dymisji, rząd poszedł na ustępstwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d5ad12efa4ad</link>
-      <description>Indyjska Partia Karaluchów Janta ogłosiła zakończenie masowych protestów. To efekt spełnienia przez rząd głównych postulatów formacji oraz dymisji ministra edukacji Dharmendry Pradhana. Ugrupowanie było główną siłą demonstracji młodzieży, które wybuchły po skandalu z wyciekiem pytań na egzaminy wstępne na studia.</description>
-      <pubDate>Sat, 25 Jul 2026 14:06:00 GMT</pubDate>
-      <guid isPermaLink="false">d5ad12efa4ad</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-partia-karaluchow-triumfuje-minister-podal-sie-do-dymisji-rz,nIdn,1011358">RMF24</source>
-    </item>
-    <item>
-      <title>Pierwszy łuczniczy puchar TVN24. Trzy dziennikarki trafiły w dziesiątkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cdb6167e285f</link>
-      <description>W Kielcach naszym urodzinowym wyzwaniem był turniej łuczniczy dla dziennikarzy TVN24. Najlepszą celnością wykazały się panie, z których aż trzy trafiły w sam środek tarczy, zajmując pierwsze miejsce ex aequo: Marta Klos, Basia Sobska i Arleta Zalewska.</description>
-      <pubDate>Sat, 25 Jul 2026 14:05:07 GMT</pubDate>
-      <guid isPermaLink="false">cdb6167e285f</guid>
-      <source url="https://tvn24.pl/25-lat-TVN24/urodziny-tvn24-w-kielcach-trzy-dziennikarki-trafily-w-dziesiatke-na-turnieju-luczniczym-st9158907?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Świetna funkcja w ChatGPT omija nas szerokim łukiem. Szkoda, bo jest genialna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0468a99f01a4</link>
-      <description>ChatGPT Health łączy dane z Apple Health i dokumentacji medycznej, analizuje wyniki oraz dane dot. zdrowia. My musimy się obejść smakiem.</description>
-      <pubDate>Sat, 25 Jul 2026 14:00:39 GMT</pubDate>
-      <guid isPermaLink="false">0468a99f01a4</guid>
-      <source url="https://antyweb.pl/chatgpt-health-oficjalna-premiera-polska-dostepnosc">Antyweb</source>
-    </item>
-    <item>
-      <title>Scientists put the “recycling is a distraction” claim to the test</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f2062bf1714a</link>
-      <description>Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.</description>
-      <pubDate>Sat, 25 Jul 2026 14:00:35 GMT</pubDate>
-      <guid isPermaLink="false">f2062bf1714a</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/07/260724061437.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Mateusz Morawiecki nie proponował podziału PiS? &quot;Po prostu kłamstwa&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77267b4264c6</link>
-      <description>Nie proponowałem żadnego podziału partii - mówi dziś Mateusz Morawiecki i dodaje, że były takie rozmowy, ale nie było propozycji. - W tej wypowiedzi jest co najmniej kilka nieścisłości, żeby nie powiedzieć ostrzej: po prostu kłamstw - komentowała nasza dziennikarka Arleta Zalewska. W specjalnym wydaniu programu &quot;W kuluarach&quot; dziennikarze TVN24 wymienili też trzy granice Kaczyńskiego, które przekroczył Morawiecki.</description>
-      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
-      <guid isPermaLink="false">77267b4264c6</guid>
-      <source url="https://tvn24.pl/polska/rozlam-w-pis-mateusz-morawiecki-nie-proponowal-podzialu-po-prostu-klamstwa-st9158680?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Tourists tell BBC how their holiday turned into race to escape fires</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a3967dd56c5c</link>
-      <description>Families visiting France have told the BBC how their holidays have become evacuation missions.</description>
-      <pubDate>Sat, 25 Jul 2026 13:49:52 GMT</pubDate>
-      <guid isPermaLink="false">a3967dd56c5c</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>The Silurian Hypothesis (2020)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c341e0767411</link>
-      <description>Comments</description>
-      <pubDate>Sat, 25 Jul 2026 13:48:11 GMT</pubDate>
-      <guid isPermaLink="false">c341e0767411</guid>
-      <source url="https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/">Hacker News</source>
-    </item>
-    <item>
-      <title>Planowali zamach na synagogę, w samochodzie mieli karabin. Zatrzymano sześć osób</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/02e8e7a615df</link>
-      <description>Sześć osób zostało zatrzymanych przez francuskie służby w związku z udaremnionym atakiem na synagogę w podparyskim Sarcelles – poinformował w sobotę francuski prokurator ds. terroryzmu, na którego powołała się agencja Reutera. Zatrzymani za niedoszły zamach z 11 lipca najprawdopodobniej usłyszą zarzuty.</description>
-      <pubDate>Sat, 25 Jul 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="false">02e8e7a615df</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-planowali-zamach-na-synagoge-w-samochodzie-mieli-karabin-zat,nIdn,1011356">RMF24</source>
-    </item>
-    <item>
-      <title>Ważna zmiana w smartfonach Samsungach. Bezlitosna dla zapominalskich</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb0f9459c03d</link>
-      <description>Samsung chce zapewnić użytkownikom swoich smartfonów lepszą ochronę ekranu blokady. W jaki sposób?</description>
-      <pubDate>Sat, 25 Jul 2026 13:45:41 GMT</pubDate>
-      <guid isPermaLink="false">bb0f9459c03d</guid>
-      <source url="https://antyweb.pl/wazna-zmiana-w-smartfonach-samsungach-bezlitosna-dla-zapominalskich">Antyweb</source>
-    </item>
-    <item>
-      <title>Zlikwidowana &quot;dziupla&quot; samochodowa i cztery zatrzymania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2eaecc9aaaba</link>
-      <description>Policjanci z Łodzi zlikwidowali samochodową &quot;dziuplę&quot; w województwie kujawsko-pomorskim. Zatrzymano cztery osoby, które kradły auta z systemem bezkluczykowym. Grozi im od 5 do 10 lat więzienia.</description>
-      <pubDate>Sat, 25 Jul 2026 13:40:22 GMT</pubDate>
-      <guid isPermaLink="false">2eaecc9aaaba</guid>
-      <source url="https://tvn24.pl/lodz/lodz-kujawsko-pomorskie-kradli-auta-z-systemem-bezkluczykowym-dziupla-zlikwidowana-st9158649?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
