@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 25 Jul 2026 14:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:31:03 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dzięki testom wielogenowym chore na raka piersi mogą uniknąć chemioterapii. Czekają na pilotaż</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/159f0b872dc7</link>
+      <description>Testy wielogenowe dają odpowiedź na pytanie, czy zastosowanie chemioterapii u konkretnej chorej z wczesnym, hormonozależnym, HER2-ujemnym rakiem piersi przyniesie korzyść kliniczną. Wdrożenie tej diagnostyki pozwoliłoby wielu pacjentkom na uniknięcie niepotrzebnych obciążeń związanych z tym leczeniem.</description>
+      <pubDate>Sat, 25 Jul 2026 17:20:00 GMT</pubDate>
+      <guid isPermaLink="false">159f0b872dc7</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Dzieki-testom-wielogenowym-chore-na-raka-piersi-moga-uniknac-chemioterapii-Czekaja-na-pilotaz,286986,1013.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Jak uporządkować rynek usług lekarskich w Polsce? Diagnoza problemów i pięć propozycji zmian</title>
       <link>https://lolsoftware.github.io/4-news/#/article/886c9e383512</link>
@@ -14,6 +22,38 @@
       <pubDate>Sat, 25 Jul 2026 15:53:00 GMT</pubDate>
       <guid isPermaLink="false">886c9e383512</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Jak-uporzadkowac-rynek-uslug-lekarskich-w-Polsce-Diagnoza-problemow-i-piec-propozycji-zmian,286687,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>USA chcą wpłynąć na zagraniczne wybory? Startuje w nich sojusznik Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f788577c787f</link>
+      <description>Brazylia odmówiła wydania wiz dwóm urzędnikom administracji prezydenta USA Donalda Trumpa – przekazała agencja Reutera. Amerykańscy oficjele mieli udać się do Brazylii, aby próbować podważyć uczciwość tamtejszego systemu wyborczego przed zaplanowanymi na październik wyborami prezydenckimi.</description>
+      <pubDate>Sat, 25 Jul 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="false">f788577c787f</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-usa-chca-wplynac-na-zagraniczne-wybory-startuje-w-nich-sojus,nIdn,1011361">RMF24</source>
+    </item>
+    <item>
+      <title>A single dose reversed autism-like symptoms in adult mice within hours</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca79a97dc865</link>
+      <description>Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.</description>
+      <pubDate>Sat, 25 Jul 2026 15:09:37 GMT</pubDate>
+      <guid isPermaLink="false">ca79a97dc865</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/07/260724061436.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Jesteś „sową” i jesz wieczorem? Sprawdź, co dzieje się z Twoim ciałem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/992e2d024340</link>
+      <description>Chodzisz spać późno i nie masz apetytu o poranku? Twój organizm może właśnie magazynować tłuszcz brzuszny. Naukowcy odkryli, dlaczego popularne „sowy” znacznie częściej chorują na hiperlipidemię i cukrzycę. Na szczęście istnieje prosty sposób, by odwrócić ten niebezpieczny proces.</description>
+      <pubDate>Sat, 25 Jul 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="false">992e2d024340</guid>
+      <source url="https://www.rmf24.pl/fakty/nauka/news-jestes-sowa-i-jesz-wieczorem-sprawdz-co-dzieje-sie-z-twoim-c,nIdn,1010641">RMF24</source>
+    </item>
+    <item>
+      <title>Uderzył tak mocno, że wyrwał drzewo</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fe9d45d95ab5</link>
+      <description>54-latek został przewieziony do szpitala po tym, jak wjechał w drzewo przy jednej z ulic w Żorach. Siła uderzenia była tak duża, że drzewo zostało wyrwane z korzeniami.</description>
+      <pubDate>Sat, 25 Jul 2026 15:04:30 GMT</pubDate>
+      <guid isPermaLink="false">fe9d45d95ab5</guid>
+      <source url="https://tvn24.pl/katowice/zory-uderzyl-autem-tak-mocno-ze-wyrwal-drzewo-z-korzeniami-st9158950?source=rss">TVN24</source>
     </item>
     <item>
       <title>ZUS rozdaje po 300 zł. Nie ma kryterium dochodowego, ale potrzebny jest wniosek</title>
@@ -24,12 +64,28 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-rozdaje-po-300-zl-Nie-ma-kryterium-dochodowego-ale-potrzebny-jest-wniosek,286959,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Fronty będą wędrować nad Polską. Nadchodzą burze z ulewami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d481510a1ff0</link>
+      <description>Nadchodzące dni przyniosą zmianę aury. Po słonecznych i upalnych chwilach zrobi się chłodniej. Przez kraj wędrować będą fronty, niosące deszcz i burze. Co jeszcze nas czeka? Sprawdź.</description>
+      <pubDate>Sat, 25 Jul 2026 15:02:59 GMT</pubDate>
+      <guid isPermaLink="false">d481510a1ff0</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-fronty-beda-wedrowac-nad-polska-nadchodza-burze-z-ulewami-st9158925?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Te ryby są najzdrowsze dla serca. Dietetyczka wskazała: 4 razy po 150 g</title>
       <link>https://lolsoftware.github.io/4-news/#/article/11f2baf8b606</link>
       <description>Regularne spożywanie ryb może wspierać profilaktykę chorób sercowo-naczyniowych. Najwięcej korzyści przynoszą tłuste gatunki bogate w kwasy omega-3, takie jak łosoś, makrela, śledź czy sardynki.</description>
       <pubDate>Sat, 25 Jul 2026 14:56:00 GMT</pubDate>
       <guid isPermaLink="false">11f2baf8b606</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Te-ryby-sa-najzdrowsze-dla-serca-Dietetyczka-wskazala-4-razy-po-150-g,287026,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Polak zażartował na lotnisku. Wieczór kawalerski zakończył jeszcze przed startem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6711ee9765af</link>
+      <description>Nietypowy przebieg miał początek wieczoru kawalerskiego grupy Polaków, którzy wybierali się do Albanii. Jeden z uczestników, żartując o posiadaniu materiałów wybuchowych, wywołał alarm na lotnisku Poznań-Ławica. Interweniowała Straż Graniczna, a finał tej historii okazał się bardzo kosztowny dla żartownisia.</description>
+      <pubDate>Sat, 25 Jul 2026 14:47:00 GMT</pubDate>
+      <guid isPermaLink="false">6711ee9765af</guid>
+      <source url="https://www.rmf24.pl/regiony/poznan/news-polak-zazartowal-na-lotnisku-wieczor-kawalerski-zakonczyl-je,nIdn,1011359">RMF24</source>
     </item>
     <item>
       <title>Nowe obowiązki dla centrów zdrowia psychicznego. Eksperci chcą odrzucenia projektu</title>
@@ -40,6 +96,62 @@
       <source url="https://www.rynekzdrowia.pl/Psychiatria/Nowe-obowiazki-dla-centrow-zdrowia-psychicznego-Eksperci-chca-odrzucenia-projektu,287091,16.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Które twarze są najbardziej atrakcyjne? Margot Robbie blisko ideału</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1f22c492f3da</link>
+      <description>Czy piękno to naprawdę kwestia gustu? Naukowcy postanowili to sprawdzić i za pomocą technologii 3D rozszyfrowali geometrię atrakcyjności. Wyniki są jednoznaczne, a idealnymi dowodami na poparcie tych tez stali się Margot Robbie oraz David Gandy. Sprawdź, jakie cechy twarzy decydują o tym, że nie można oderwać od nas wzroku.</description>
+      <pubDate>Sat, 25 Jul 2026 14:35:00 GMT</pubDate>
+      <guid isPermaLink="false">1f22c492f3da</guid>
+      <source url="https://www.rmf24.pl/fakty/nauka/news-ktore-twarze-sa-najbardziej-atrakcyjne-margot-robbie-blisko-,nIdn,1010796">RMF24</source>
+    </item>
+    <item>
+      <title>To jeden z najpiękniejszych budynków Warszawy. Rozpoczął się jego remont</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/acf93e29ed14</link>
+      <description>Rozpoczął się remont elewacji Kamienicy pod Gigantami, jednego z najcenniejszych zabytków klasycystycznych w Warszawie. Front budynku zostanie oczyszczony, a ubytki w tynkach uzupełnione. Zmieni się też jego kolor.</description>
+      <pubDate>Sat, 25 Jul 2026 14:27:21 GMT</pubDate>
+      <guid isPermaLink="false">acf93e29ed14</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-kamienica-pod-gigantami-to-jeden-z-najpiekniejszych-budynkow-stolicy-rozpoczal-sie-jego-remont-st9158834?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Największy taki schron na świecie jest w Polsce. Ukrywał Hitlera, potem hodowano tu... pieczarki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1056dfbb875a</link>
+      <description>Szukasz niezwykłych miejsc na mapie Polski? W niewielkiej Stępinie na Podkarpaciu znajdziesz unikalny zabytek militarny, który imponuje rozmachem na skalę globalną. Ten potężny, liczący niemal 400 metrów schron kolejowy powstał, by chronić pociągi sztabowe najwyższych władz III Rzeszy. Dziś ten tajemniczy obiekt przyciąga rzesze turystów, oferując fascynującą podróż w czasie do czasów II wojny światowej.</description>
+      <pubDate>Sat, 25 Jul 2026 14:22:00 GMT</pubDate>
+      <guid isPermaLink="false">1056dfbb875a</guid>
+      <source url="https://www.rmf24.pl/regiony/rzeszow/news-najwiekszy-taki-schron-na-swiecie-jest-w-polsce-ukrywal-hitl,nIdn,1010776">RMF24</source>
+    </item>
+    <item>
+      <title>Bocian zwisał z gniazda nad linią energetyczną</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ca6e2efa77d</link>
+      <description>Kierowcy przejeżdżający przez Nowe Grudze koło Łyszkowic (Łódzkie) zauważyli bociana zwisającego z gniazda tuż nad linią energetyczną. Ptak zaplątał się w sznurek i nie mógł się uwolnić.</description>
+      <pubDate>Sat, 25 Jul 2026 14:07:25 GMT</pubDate>
+      <guid isPermaLink="false">0ca6e2efa77d</guid>
+      <source url="https://tvn24.pl/lodz/nowe-grudze-powiat-lowicki-bocian-zwisal-nad-linia-energetyczna-dramatyczna-akcja-st9158864?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Amerykańskie miasto na krawędzi katastrofy. Woda jest tu na wagę złota</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aed6f91df4fc</link>
+      <description>Corpus Christi miasto na wybrzeżu Teksasu, stoi dziś w obliczu bezprecedensowego kryzysu. Ponad 300 tysięcy mieszkańców może wkrótce doświadczyć sytuacji, która dotąd wydawała się niemożliwa w tak rozwiniętym kraju – całkowitego braku wody. To efekt wieloletnich zaniedbań, gwałtownego rozwoju przemysłu i zmian klimatycznych, które razem doprowadziły miasto na skraj katastrofy - informuje ScienceAlert.</description>
+      <pubDate>Sat, 25 Jul 2026 14:07:00 GMT</pubDate>
+      <guid isPermaLink="false">aed6f91df4fc</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-amerykanskie-miasto-na-krawedzi-katastrofy-woda-jest-tu-na-w,nIdn,1011357">RMF24</source>
+    </item>
+    <item>
+      <title>Partia Karaluchów triumfuje. Minister podał się do dymisji, rząd poszedł na ustępstwa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5ad12efa4ad</link>
+      <description>Indyjska Partia Karaluchów Janta ogłosiła zakończenie masowych protestów. To efekt spełnienia przez rząd głównych postulatów formacji oraz dymisji ministra edukacji Dharmendry Pradhana. Ugrupowanie było główną siłą demonstracji młodzieży, które wybuchły po skandalu z wyciekiem pytań na egzaminy wstępne na studia.</description>
+      <pubDate>Sat, 25 Jul 2026 14:06:00 GMT</pubDate>
+      <guid isPermaLink="false">d5ad12efa4ad</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-partia-karaluchow-triumfuje-minister-podal-sie-do-dymisji-rz,nIdn,1011358">RMF24</source>
+    </item>
+    <item>
+      <title>Pierwszy łuczniczy puchar TVN24. Trzy dziennikarki trafiły w dziesiątkę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cdb6167e285f</link>
+      <description>W Kielcach naszym urodzinowym wyzwaniem był turniej łuczniczy dla dziennikarzy TVN24. Najlepszą celnością wykazały się panie, z których aż trzy trafiły w sam środek tarczy, zajmując pierwsze miejsce ex aequo: Marta Klos, Basia Sobska i Arleta Zalewska.</description>
+      <pubDate>Sat, 25 Jul 2026 14:05:07 GMT</pubDate>
+      <guid isPermaLink="false">cdb6167e285f</guid>
+      <source url="https://tvn24.pl/25-lat-TVN24/urodziny-tvn24-w-kielcach-trzy-dziennikarki-trafily-w-dziesiatke-na-turnieju-luczniczym-st9158907?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Świetna funkcja w ChatGPT omija nas szerokim łukiem. Szkoda, bo jest genialna</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0468a99f01a4</link>
       <description>ChatGPT Health łączy dane z Apple Health i dokumentacji medycznej, analizuje wyniki oraz dane dot. zdrowia. My musimy się obejść smakiem.</description>
@@ -48,12 +160,36 @@
       <source url="https://antyweb.pl/chatgpt-health-oficjalna-premiera-polska-dostepnosc">Antyweb</source>
     </item>
     <item>
+      <title>Scientists put the “recycling is a distraction” claim to the test</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2062bf1714a</link>
+      <description>Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.</description>
+      <pubDate>Sat, 25 Jul 2026 14:00:35 GMT</pubDate>
+      <guid isPermaLink="false">f2062bf1714a</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/07/260724061437.htm">ScienceDaily</source>
+    </item>
+    <item>
+      <title>Mateusz Morawiecki nie proponował podziału PiS? &quot;Po prostu kłamstwa&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/77267b4264c6</link>
+      <description>Nie proponowałem żadnego podziału partii - mówi dziś Mateusz Morawiecki i dodaje, że były takie rozmowy, ale nie było propozycji. - W tej wypowiedzi jest co najmniej kilka nieścisłości, żeby nie powiedzieć ostrzej: po prostu kłamstw - komentowała nasza dziennikarka Arleta Zalewska. W specjalnym wydaniu programu &quot;W kuluarach&quot; dziennikarze TVN24 wymienili też trzy granice Kaczyńskiego, które przekroczył Morawiecki.</description>
+      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
+      <guid isPermaLink="false">77267b4264c6</guid>
+      <source url="https://tvn24.pl/polska/rozlam-w-pis-mateusz-morawiecki-nie-proponowal-podzialu-po-prostu-klamstwa-st9158680?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Tourists tell BBC how their holiday turned into race to escape fires</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a3967dd56c5c</link>
       <description>Families visiting France have told the BBC how their holidays have become evacuation missions.</description>
       <pubDate>Sat, 25 Jul 2026 13:49:52 GMT</pubDate>
       <guid isPermaLink="false">a3967dd56c5c</guid>
       <source url="https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>The Silurian Hypothesis (2020)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c341e0767411</link>
+      <description>Comments</description>
+      <pubDate>Sat, 25 Jul 2026 13:48:11 GMT</pubDate>
+      <guid isPermaLink="false">c341e0767411</guid>
+      <source url="https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/">Hacker News</source>
     </item>
     <item>
       <title>Planowali zamach na synagogę, w samochodzie mieli karabin. Zatrzymano sześć osób</title>
@@ -72,12 +208,44 @@
       <source url="https://antyweb.pl/wazna-zmiana-w-smartfonach-samsungach-bezlitosna-dla-zapominalskich">Antyweb</source>
     </item>
     <item>
+      <title>Zlikwidowana &quot;dziupla&quot; samochodowa i cztery zatrzymania</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2eaecc9aaaba</link>
+      <description>Policjanci z Łodzi zlikwidowali samochodową &quot;dziuplę&quot; w województwie kujawsko-pomorskim. Zatrzymano cztery osoby, które kradły auta z systemem bezkluczykowym. Grozi im od 5 do 10 lat więzienia.</description>
+      <pubDate>Sat, 25 Jul 2026 13:40:22 GMT</pubDate>
+      <guid isPermaLink="false">2eaecc9aaaba</guid>
+      <source url="https://tvn24.pl/lodz/lodz-kujawsko-pomorskie-kradli-auta-z-systemem-bezkluczykowym-dziupla-zlikwidowana-st9158649?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Ten kraj &quot;dokona skoku&quot;. Ogromna umowa w branży AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/69460c694f0e</link>
+      <description>Południowokoreańskie koncerny Samsung i SK Hynix podpisały pięcioletnie umowy z amerykańskimi firmami technologicznymi o łącznej wartości 950 miliardów dolarów. Kontrakty dotyczą dostaw półprzewodników wykorzystywanych w rozwoju sztucznej inteligencji - poinformowała w sobotę kancelaria prezydenta Korei Południowej.</description>
+      <pubDate>Sat, 25 Jul 2026 13:38:49 GMT</pubDate>
+      <guid isPermaLink="false">69460c694f0e</guid>
+      <source url="https://tvn24.pl/biznes/tech/korea-poludniowa-ogromne-umowy-samsunga-i-sk-hynix-z-amerykanskimi-firmami-w-branzy-ai-st9158896?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Bitchat Is Now on Radicle</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8efbc95d8012</link>
+      <description>Comments</description>
+      <pubDate>Sat, 25 Jul 2026 13:18:49 GMT</pubDate>
+      <guid isPermaLink="false">8efbc95d8012</guid>
+      <source url="https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6">Hacker News</source>
+    </item>
+    <item>
       <title>Historyczny sukces polskiej szpadzistki. Barbara Brych z brązem mistrzostw świata</title>
       <link>https://lolsoftware.github.io/4-news/#/article/80208bff5567</link>
       <description>Barbara Brych zdobyła brązowy medal podczas mistrzostw świata w szermierce w Hongkongu. To największy sukces w karierze 25-letniej zawodniczki z Krakowa, która do tej pory nie odnosiła znaczących triumfów na arenie międzynarodowej. Jej osiągnięcie to już 91. medal w historii występów polskich szermierzy na światowych czempionatach.</description>
       <pubDate>Sat, 25 Jul 2026 13:18:00 GMT</pubDate>
       <guid isPermaLink="false">80208bff5567</guid>
       <source url="https://www.rmf24.pl/fakty/sport/news-historyczny-sukces-polskiej-szpadzistki-barbara-brych-z-braz,nIdn,1011355">RMF24</source>
+    </item>
+    <item>
+      <title>The Universe can outrun light without breaking Einstein’s rules</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a2c2f04e31c</link>
+      <description>Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.</description>
+      <pubDate>Sat, 25 Jul 2026 13:17:03 GMT</pubDate>
+      <guid isPermaLink="false">2a2c2f04e31c</guid>
+      <source url="https://www.sciencedaily.com/releases/2026/07/260724061444.htm">ScienceDaily</source>
     </item>
     <item>
       <title>Twenty firefighters taken to hospital after explosion in Essex</title>
@@ -152,12 +320,28 @@
       <source url="https://antyweb.pl/microsoft-ma-spory-problem-uzytkownicy-windowsa-nie-chca-przechodzic-na-jedenastke">Antyweb</source>
     </item>
     <item>
+      <title>Upał w Polsce. Ostrzeżenia IMGW w 12 województwach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5949fd5078d5</link>
+      <description>Niedziela zrobi się upalna. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego stopnia. Alarmy dotyczą kilkunastu województw. Sprawdź, jakiej temperatury się spodziewać.</description>
+      <pubDate>Sat, 25 Jul 2026 12:59:21 GMT</pubDate>
+      <guid isPermaLink="false">5949fd5078d5</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przed-upalem-st9158847?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>League of Legends designer shares game design field manual</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7a529b0fd1f0</link>
       <description>Players learn what you value from your systems, not your words. The argument for everything that follows.</description>
       <pubDate>Sat, 25 Jul 2026 12:51:48 GMT</pubDate>
       <guid isPermaLink="false">7a529b0fd1f0</guid>
       <source url="https://areadenial.games/design/preface">Hacker News</source>
+    </item>
+    <item>
+      <title>Norweski fenomen. Jedyny taki kraj na świecie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02348455d463</link>
+      <description>W Norwegii niemal każde nowe auto to elektryk. To jedyny taki kraj na świecie. - Rząd postawił na zachęty, a nie na przymus - uważa Piotr Pawlak, ekspert branży motoryzacyjnej związany z tamtejszym rynkiem. Obok marchewki był jednak finansowy kij.</description>
+      <pubDate>Sat, 25 Jul 2026 12:51:06 GMT</pubDate>
+      <guid isPermaLink="false">02348455d463</guid>
+      <source url="https://tvn24.pl/biznes/moto/norweski-fenomen-auta-elektryczne-jedyny-taki-kraj-na-swiecie-st9154987?source=rss">TVN24</source>
     </item>
     <item>
       <title>Kobieta wpadła do studni. Tragedia w Małopolsce</title>
@@ -174,6 +358,14 @@
       <pubDate>Sat, 25 Jul 2026 12:40:55 GMT</pubDate>
       <guid isPermaLink="false">f6367ea9d3e9</guid>
       <source url="https://www.bbc.co.uk/news/articles/cly5j8dwwpeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Siedem ulic do remontu. Drogowcy zapowiadają poprawę bezpieczeństwa w trzech dzielnicach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/164551d11ae0</link>
+      <description>Zarząd Dróg Miejskich otworzył oferty w trzecim tegorocznym przetargu na remonty stołecznych ulic. Większość mieści się w budżecie.</description>
+      <pubDate>Sat, 25 Jul 2026 12:37:23 GMT</pubDate>
+      <guid isPermaLink="false">164551d11ae0</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/ulice/siedem-ulic-do-remontu-drogowcy-zapowiadaja-poprawe-bezpieczenstwa-w-trzech-dzielnicach-st9158521?source=rss">TVN24</source>
     </item>
     <item>
       <title>Sean McCann, Madeleine&apos;s brother, makes Commonwealths final</title>
@@ -208,294 +400,12 @@
       <source url="https://www.bankier.pl/wiadomosc/Prezes-Kaczynski-ograniczonym-komputerem-Horala-Kartel-dostepu-do-ucha-prezesa-znieksztalca-obraz-9173298.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Kyber (YC W23) Is Hiring a Head of Engineering</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f27ceaaa7ca4</link>
-      <description>At Kyber, we&apos;re building the next-generation document platform for enterprises. Today, our AI-native solution transforms regulatory document workflows, enabling insurance claims organizations to consolidate 80% of their templates, spend 65% less time drafting, and compress overall communication cycle times by 5x. Our vision is for every enterprise to seamlessly leverage AI templates to generate every document.
-
-Over the past 18 months, we’ve:
-
-  - &gt;40x’d revenue and are profitable.
-  - Landed multiple six and seven figure, multi-year contracts with leading insurance enterprises.
-  - Launched strategic partnerships with industry leading software partners like Guidewire, Majesco, and Twilio Sendgrid.
-
-Kyber is backed by top Silicon Valley VCs, including Y Combinator and Fellows Fund.
-
-We&apos;re seeking a hands-on Head of Engineering with a clear line of sight to CTO. This role is ideal for someone who is already operating as a 10x engineer, thrives in early stage environments, and is excited to design and scale mission-critical AI systems from first principles.
-
-
-
-Responsibilities:
-
-  - Be the Technical Owner of the Product
-      - Own end-to-end technical decisions across backend, frontend, data, infra.
-      - Ship features personally while keeping the team unblocked.
-  - Prioritize an Aggressive Product Roadmap
-      - Lead sprint/weekly planning and keep priorities tight
-      - Protect focus: decisively manage tradeoffs, push back when needed
-  - Unlock Leverage to Boost Engineering Capacity
-      - Scale adoption of Agentic AI coding tools (Cursor, Claude Code, Greptile) into large scale engineering and product workflows to accelerate time to market.
-      - Establish reusable patterns and interfaces so engineers and agents aren’t reinventing everything.
-  - Champion Reliability, Security, and Customer Trust
-      - Own uptime, performance, and incident response.
-      - Implement monitoring/alerts + fast debugging workflows.
-  - Mentor &amp; Raise the Engineering Bar
-      - Set expectations for quality and ownership.
-      - Help recruit and evaluate future hires.
-
-
-
-What We’re Looking For in You:
-
-  - 10x Engineer with a love of building
-      - Your raw coding ability should be unmatched and only deeply amplified by AI.
-      - You love to build and relish seeing customers delighted by your work.
-  - Ship first, optimize and harden later
-      - You get something out as quickly as possible, prove it was the right thing to build, and then optimize and harden it.
-  - System Design Mastery
-      - You&apos;ve architected large scale data-driven applications and have a full E2E understanding of what tradeoffs to make when.
-  - Systems-first thinking
-      - Not just in architecture, but also for how an AI-native engineering team will operate as we continue to grow.
-  - Accountability
-      - You&apos;re prepared and have been in roles before where you&apos;ve had to hold other engineers accountable for their deliverables.
-  - Security and Compliance
-      - You&apos;ve dealt with enterprise software compliance requirements (SOC 2, HIPAA, ISO, etc) and are comfortable incorporating those requirements in tandem with product build out.
-
-
-
-Our Values
-
-  - Possible Until Proven Otherwise
-      - Challenge assumptions with evidence. If it’s impossible, show us why.
-  - LOVE Your Customer
-      - Put customers at the heart of everything. Earn trust, deliver value, grow together.
-  - Take Pride In Your Craft
-      - Creating something from nothing is a privilege—embrace the process and perfect the details.
-  - Live Up To Your Expectations
-      - Set your standards high and let’s exceed them together—because no one should expect more of you than yourself.
-  - Have Fun &amp; Nurture Those Around You
-      - The joy of building is amplified when shared. Remember to support, uplift, and celebrate each other as we grow.
-
-
-
-Benefits
-
-  - Competitive salary
-  - Generous stock package
-  - 100% employer-covered medical, dental, and vision insurance
-
-
-
-Why Kyber?
-
-Join us in building and scaling a game-changing enterprise product powered by state-of-the-art AI. At Kyber, your contributions will directly impact how businesses handle some of their most critical workflows and customer interactions.
-
-If you’re obsessed with building, AI, and transforming enterprise workflows, we’d love to hear from you!
-
-How To Stand Out
-
-We want to hear from extraordinary individuals who are ready to shape the future of enterprise documents. To stand out, ask someone you’ve worked with to send your resume or LinkedIn profile, along with a brief 2-3 sentence endorsement, directly to arvind [at] askkyber.com.
-
-Referrals matter. They help us understand the impact you’ve already had and the kind of teammate you’ll be. A strong referee can elevate your application, so choose someone who knows your skills and character well.
-
-Apply today and help us bring enterprise documents into the AI-native age.</description>
-      <pubDate>Sat, 25 Jul 2026 12:00:04 GMT</pubDate>
-      <guid isPermaLink="false">f27ceaaa7ca4</guid>
-      <source url="https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering">Hacker News</source>
-    </item>
-    <item>
-      <title>Spór psychologów o centra leczenia traumy. MZ broni pilotażu wartego dziesiątki milionów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/12ad00d857d9</link>
-      <description>Czy do leczenia pacjentów po traumie potrzebne są odrębne, wyspecjalizowane ośrodki? O przyszłość wydłużonego do czerwca 2027 r. pilotażu spierali się w Sejmie przedstawiciele Ministerstwa Zdrowia i części środowiska psychologów. Resort zapowiada włączenie nowego świadczenia do koszyka, ale wcześniej jego skuteczność oceni AOTMiT.</description>
-      <pubDate>Sat, 25 Jul 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="false">12ad00d857d9</guid>
-      <source url="https://www.rynekzdrowia.pl/Psychiatria/Spor-psychologow-o-centra-leczenia-traumy-MZ-broni-pilotazu-wartego-dziesiatki-milionow,287001,16.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Flota PLL LOT rośnie w siłę. Kolejny Boeing 737 MAX 8 wylądował w Polsce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d362f027d312</link>
-      <description>Kolejny z zamówionych przez Polskie Linie Lotnicze LOT samolotów Boeing 737 MAX 8 przyleciał w do Polski. Jak poinformował w sobotę PAP rzecznik LOT-u Krzysztof Moczulski, to 11 z 13 zamówionych przez LOT samolotów tego typu.</description>
-      <pubDate>Sat, 25 Jul 2026 11:35:00 GMT</pubDate>
-      <guid isPermaLink="false">d362f027d312</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Flota-PLL-LOT-rosnie-w-sile-Kolejny-Boeing-737-MAX-8-wyladowal-w-Polsce-9173289.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Odwet Kijowa: Rafinerie, logistyka i okręt na Morzu Kaspijskim pod ostrzałem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6ca5b20af8c3</link>
-      <description>Siły Obrony Ukrainy zaatakowały w nocy z piątku na sobotę zakład w Kirowie, rafinerię w Tiumeniu, obiekt logistyczny w Jekaterynburgu w Rosji oraz statki wykorzystywane do transportu ładunków wojskowych z Iranu i okręt wojenny na Morzu Kaspijskim - przekazał w sobotę prezydent Ukrainy Wołodymyr Zełenski.</description>
-      <pubDate>Sat, 25 Jul 2026 11:35:00 GMT</pubDate>
-      <guid isPermaLink="false">6ca5b20af8c3</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Odwet-Kijowa-Rafinerie-logistyka-i-okret-na-Morzu-Kaspijskim-pod-ostrzalem-9173288.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Od poniedziałku rusza remont na S7 w kierunku Gdańska. Gdzie będą utrudnienia?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac72bde20c4e</link>
-      <description>Od poniedziałku kierowcy podróżujący drogą ekspresową S7 w kierunku Gdańska muszą przygotować się na poważne zmiany w organizacji ruchu. Olsztyński oddział GDDKiA zapowiada dwustopniowy remont nawierzchni pomiędzy węzłami Rączki i Waplewo. Prace mają potrwać do połowy września 2026 roku.</description>
-      <pubDate>Sat, 25 Jul 2026 11:34:00 GMT</pubDate>
-      <guid isPermaLink="false">ac72bde20c4e</guid>
-      <source url="https://www.rmf24.pl/regiony/olsztyn/news-od-poniedzialku-rusza-remont-na-s7-w-kierunku-gdanska-gdzie-,nIdn,1011348">RMF24</source>
-    </item>
-    <item>
-      <title>Upał w Polsce. 40 stopni na mapach IMGW. &quot;Modele wysyłają sygnał&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/05c0ecaadee0</link>
-      <description>Czy 40-stopniowy upał wróci do Polski? Tak wynika z aktualnych wyliczeń modeli meteorologicznych, co widać na mapach opublikowanych przez IMGW. Jak będzie rozwijać się sytuacja baryczna w Europie i kiedy możemy spodziewać się ekstremalnych wartości na termometrach? Sprawdziła to nasza synoptyk.</description>
-      <pubDate>Sat, 25 Jul 2026 11:17:04 GMT</pubDate>
-      <guid isPermaLink="false">05c0ecaadee0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/upal-w-polsce-40-stopni-na-mapach-imgw-modele-wysylaja-sygnal-st9158515?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Walka o miejsce w prezydium Sejmu. „Chcemy mieć swojego wicemarszałka”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4433493f92c8</link>
-      <description>„Chcemy mieć swojego wicemarszałka Sejmu i będziemy o to zabiegać” - deklarują politycy Unii Centrum. Jednocześnie coraz głośniej mówi się o nowym klubie parlamentarnym, który miałby powstać po rozłamie w Prawie i Sprawiedliwości i ewentualnym kandydacie na wicemarszałka Sejmu wyznaczonego przez Mateusza Morawieckiego. „Każdy klub ma mieć swojego marszałka, więc w tym kontekście mówimy tak” - podkreślają politycy koalicji rządzącej.</description>
-      <pubDate>Sat, 25 Jul 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="false">4433493f92c8</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-walka-o-miejsce-w-prezydium-sejmu-chcemy-miec-swojego-wicema,nIdn,1011347">RMF24</source>
-    </item>
-    <item>
-      <title>The Fedora 45 Sausage Factory</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/235a8763bc79</link>
-      <description>This is a walkthrough of how Fedora turns source code and packages into the
-artifacts you download and install. It follows the a package from a packager’s
-git push to a composed release: ISOs, cloud images, container images, and OSTree
-deployments.</description>
-      <pubDate>Sat, 25 Jul 2026 11:04:57 GMT</pubDate>
-      <guid isPermaLink="false">235a8763bc79</guid>
-      <source url="https://supakeen.com/weblog/the-fedora-45-sausage-factory/">Hacker News</source>
-    </item>
-    <item>
-      <title>With help from data, art museums are reframing the visitor experience</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ed768cbb6e3f</link>
-      <description>Museums are embracing data-driven curation and a shifting technology landscape.</description>
-      <pubDate>Sat, 25 Jul 2026 11:00:32 GMT</pubDate>
-      <guid isPermaLink="false">ed768cbb6e3f</guid>
-      <source url="https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Do trzech razy sztuka. Starship poleciał i zamienił się w... łódź</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/08fa03e50a6d</link>
-      <description>Mówi się, że do trzech razy sztuka, i w przypadku trzynastego lotu testowego Starshipa to powiedzenie sprawdziło się niemal w stu procentach.</description>
-      <pubDate>Sat, 25 Jul 2026 11:00:27 GMT</pubDate>
-      <guid isPermaLink="false">08fa03e50a6d</guid>
-      <source url="https://antyweb.pl/do-trzech-razy-sztuka-starship-polecial-i-zamienil-sie-w-lodz">Antyweb</source>
-    </item>
-    <item>
-      <title>Międzynarodowy sukces polskiego filmu, &quot;Deadpool&quot; wróci na wielki ekran, słynna impreza straciła miliony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5fbf4ecb0f0d</link>
-      <description>&quot;Dziki, dziki wschód&quot; Jana Holoubka powalczy o nagrody na festiwalu w Toronto. Ryan Reynolds zadeklarował, że &quot;Deadpool&quot; wróci na wielki ekran. Komisja Europejska wycofała dotacje na Biennale Sztuki w Wenecji. W czwartek startuje festiwal Pol&apos;and&apos;Rock.</description>
-      <pubDate>Sat, 25 Jul 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="false">5fbf4ecb0f0d</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/najciekawsze-nowosci-na-duzym-i-malym-ekranie-co-warto-obejrzec-kadr-na-kino-w-tvn24-st6430598?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Były bilioner&quot;. Trudny tydzień Elona Muska</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c555005edce</link>
-      <description>Akcje Tesli spadły w ciągu tygodnia o 18 procent, notując najgorszy wynik od 2022 roku - poinformował portal stacji CNBC. Spadki objęły również SpaceX, którego akcje straciły 7,2 procent i zakończyły tydzień na najniższym poziomie od debiutu giełdowego.</description>
-      <pubDate>Sat, 25 Jul 2026 10:49:28 GMT</pubDate>
-      <guid isPermaLink="false">3c555005edce</guid>
-      <source url="https://tvn24.pl/biznes/tech/byly-bilioner-trudny-tydzien-elona-muska-akcje-tesli-i-spacex-zanurkowaly-st9158529?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Big Tech accused of stonewalling European social media researchers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/63f01cd80ac6</link>
-      <description>Researchers say TikTok, X, and Meta aren&apos;t providing data they&apos;re legally required to.</description>
-      <pubDate>Sat, 25 Jul 2026 10:45:32 GMT</pubDate>
-      <guid isPermaLink="false">63f01cd80ac6</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Ludzie Mateusza Morawieckiego o rozłamie w PiS. Mówią o &quot;kartelu dostępu do ucha prezesa&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/871ab7894b5f</link>
-      <description>Przytłaczająca większość posłów Prawa i Sprawiedliwości nienależących do naszego środowiska milczy w sprawie rozłamu - zauważył poseł PiS Marcin Horała. Jego zdaniem ci, którzy milczą, myślą tak, jak środowisko Mateusza Morawieckiego. Horała ocenił, że w PiS &quot;pewien kartel dostępu do ucha prezesa zaczął funkcjonować jako wyraziciel całej partii&quot;.</description>
-      <pubDate>Sat, 25 Jul 2026 10:31:27 GMT</pubDate>
-      <guid isPermaLink="false">871ab7894b5f</guid>
-      <source url="https://tvn24.pl/polska/ludzie-mateusza-morawieckiego-o-rozlamie-w-pis-mowia-o-kartelu-dostepu-do-ucha-jaroslawa-kaczynskiego-st9158491?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Jeździł i typował auta do kradzieży. Wpadł podczas jednej z takich wypraw</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5d33f97247ef</link>
-      <description>Jeździł po warszawskich dzielnicach i typował samochody do kradzieży. 49-letni mieszkaniec Wołomina wpadł podczas jednej z takich wypraw. Usłyszał zarzuty i został tymczasowo aresztowany.</description>
-      <pubDate>Sat, 25 Jul 2026 10:31:14 GMT</pubDate>
-      <guid isPermaLink="false">5d33f97247ef</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-jezdzil-i-typowal-auta-do-kradziezy-wpadl-podczas-jednej-z-takich-wypraw-st9157984?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zabytkowe kino niemal gotowe po remoncie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a01adda37785</link>
-      <description>Remont zabytkowego kina Tęcza na Żoliborzu właśnie się kończy. Prace modernizacyjne trwały dwa lata. Otwarcie obiektu zaplanowano na listopad.</description>
-      <pubDate>Sat, 25 Jul 2026 10:24:58 GMT</pubDate>
-      <guid isPermaLink="false">a01adda37785</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/zoliborz/zabytkowe-kino-niemal-gotowe-po-remoncie-st9158297?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dwa wypadki na Rajdzie Polski. Przerwane odcinki specjalne</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/96ec936a980d</link>
-      <description>Organizator Rajdu Polski poinformował o dwóch wypadkach na trasie. Jak ustaliliśmy, cztery osoby przewieziono do szpitala. Rzecznik imprezy Andrzej Borowski powiedział, że życiu członków załóg nic nie zagraża. Przerwano odcinki specjalne w Ochabach i w Jastrzębiu-Zdroju.</description>
-      <pubDate>Sat, 25 Jul 2026 10:23:00 GMT</pubDate>
-      <guid isPermaLink="false">96ec936a980d</guid>
-      <source url="https://tvn24.pl/katowice/jastrzebie-dwa-wypadki-na-rajdzie-polski-przerwane-odcinki-specjalne-st9158427?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Morawiecki: Zostaliśmy brutalnie wypchnięci. Jedno zdrowe płuco zostało amputowane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3bff104bbd52</link>
-      <description>„Zostaliśmy brutalnie wypchnięci. Jedno zdrowe płuco zostało amputowane. To tak, jakby amputować zdrową nogę (…). Tak się oczywiście nie robi (...). W kwietniu wyszliśmy razem z panem prezesem i powiedzieliśmy o strategii dwóch skrzydeł czy dwóch płuc” - powiedział Mateusz Morawiecki w samo południe w TV Republika. „Wiem, jak zwyciężać z Donaldem Tuskiem i właśnie po to stowarzyszenie &apos;Rozwój Plus&apos; powstało” - dodał, podkreślając, że „do ostatniej chwili walczył o jedność” w Prawie i Sprawiedliwości.</description>
-      <pubDate>Sat, 25 Jul 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="false">3bff104bbd52</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-morawiecki-zostalismy-brutalnie-wypchnieci-jedno-zdrowe-pluc,nIdn,1011344">RMF24</source>
-    </item>
-    <item>
-      <title>Zalążek trąby powietrznej w Małopolsce. Nagranie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2bc01998e20f</link>
-      <description>W piątek wieczorem w powiecie bocheńskim w Małopolsce można było zaobserwować zawirowanie u podstawy chmur. Nasza synoptyk wyjaśniła, czym było to zjawisko.</description>
-      <pubDate>Sat, 25 Jul 2026 10:01:26 GMT</pubDate>
-      <guid isPermaLink="false">2bc01998e20f</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/lipnica-murowana-powiat-bochenski-zalazek-traby-powietrznej-w-malopolsce-nagranie-st9158336?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Darmowa perełka obok której nie można przejść obojętnie. Warto się pospieszyć, by nie przegapić</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2aca10d0e7a9</link>
-      <description>Co w tym tygodniu dla graczy przygotował sklep Epic Games Store? Jest skromnie, ale tej darmowej gry przegapić nie można.</description>
-      <pubDate>Sat, 25 Jul 2026 10:00:51 GMT</pubDate>
-      <guid isPermaLink="false">2aca10d0e7a9</guid>
-      <source url="https://antyweb.pl/darmowa-perelka-obok-ktorej-nie-mozna-przejsc-obojetnie-warto-sie-pospieszyc-by-nie-przegapic">Antyweb</source>
-    </item>
-    <item>
-      <title>Kulisy rozmów na szczycie PiS. Kaczyński: Morawiecki powiedział mi, że chce przejąć partię</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f1d19f894620</link>
-      <description>Gdyby Mateusz Morawiecki rozwiązał swoje stowarzyszenie, byłby teraz więcej niż bardzo ważnym politykiem w naszej partii - powiedział w piątek Jarosław Kaczyński. Prezes PiS dodał, że na sugestię, iż Morawiecki mógłby jeszcze kiedyś zostać premierem, ten powiedział, że chce przejąć partię.</description>
-      <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f1d19f894620</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kulisy-rozmow-na-szczycie-PiS-Kaczynski-Morawiecki-powiedzial-mi-ze-chce-przejac-partie-9173194.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>SpaceX krok bliżej od powrotu na Księżyc? Przełomowy test Starshipa zaliczony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f88756a86918</link>
-      <description>Statek kosmiczny Starship firmy SpaceX odbył w piątek udanie 13. lot testowy, wynosząc w przestrzeń suborbitalną 20 zmodernizowanych satelitów Starlink - poinformowała firma Elona Muska.</description>
-      <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f88756a86918</guid>
-      <source url="https://www.bankier.pl/wiadomosc/SpaceX-krok-blizej-od-powrotu-na-Ksiezyc-Przelomowy-test-Starshipa-zaliczony-9173211.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Zmasowany uderzenie rakietowe i nowa mobilizacja w Rosji. &quot;Nastąpi w ciągu 48 godzin&quot; </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3640f79501bc</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski oświadczył w piątek, że według danych wywiadowczych Rosja przygotowuje zmasowany atak rakietowy na Ukrainę i może on nastąpić w ciągu najbliższych 48 godzin. Dodał, że liczy na pomoc partnerów i podkreślił, że obrona powietrzna to główny priorytet.</description>
-      <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">3640f79501bc</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zmasowany-uderzenie-rakietowe-i-nowa-mobilizacja-w-Rosji-Nastapi-w-ciagu-48-godzin-9173184.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Grecja zakazuje korzystania z hulajnóg elektrycznych młodzieży poniżej 17 lat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ee37ec179484</link>
-      <description>Grecki parlament przyjął ustawę zaostrzającą zasady korzystania z hulajnóg elektronicznych. Wprowadzono m.in. zakaz korzystania z tych pojazdów osobom poniżej 17 roku życia, obowiązek posiadania ubezpieczenia OC czy podwyższenie kar za jazdę bez kasku lub ze słuchawkami.</description>
-      <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ee37ec179484</guid>
-      <source url="https://www.bankier.pl/moto/wiadomosc/Grecja-zakazuje-korzystania-z-hulajnog-elektrycznych-mlodziezy-ponizej-17-lat-9171611.html">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Każdy stopień temperatury powyżej 30 st. C to spadek produktywności pracy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/358eaf950487</link>
-      <description>Po przekroczeniu progu ok. 30 st. C, każdy dodatkowy stopień temperatury może obniżać produktywność pracy o około 3 proc. średniej wartości dodanej na godzinę, jednocześnie zwiększając zużycie energii o ok. 1,2 proc. - wskazują eksperci Allianz Trade.</description>
-      <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">358eaf950487</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kazdy-stopien-temperatury-powyzej-30-st-C-to-spadek-produktywnosci-pracy-9170272.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Setki fok na plaży w Mikoszewie. &quot;To niecodzienny widok&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d02d9cda58d7</link>
+      <description>W piątek na plaży w Mikoszewie w województwie pomorskim pojawiły się setki fok. Ogromną liczbę zwierząt wygrzewającą się na plaży udało się uchwycić na nagraniu.</description>
+      <pubDate>Sat, 25 Jul 2026 12:15:11 GMT</pubDate>
+      <guid isPermaLink="false">d02d9cda58d7</guid>
+      <source url="https://tvn24.pl/tvnmeteo/polska/setki-fok-na-plazy-w-mikoszewie-to-niecodzienny-widok-st9158664?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
