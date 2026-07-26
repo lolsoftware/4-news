@@ -1,0 +1,13 @@
+{
+  "id": "baaca6b0543a",
+  "title": "Using ThinkPad T480 as a mobile phone",
+  "originalTitle": "Using ThinkPad T480 as a mobile phone",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://grego.site/blog/thinkphone",
+  "publishedAt": "2026-07-26T16:56:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><article>\n<header>\n\n26/07/2026\n</header>\n\n<p>ThinkPad T480 can be used as a fully featured mobile phone, supporting calls, SMS and mobile data.\nHere is a video of me receiving a phone call on mine (with the 25 year edition keyboard):</p>\n\n<p>This laptop already has a SIM card slot for LTE modems. However, the PCM pins for audio transmission are not connected.</p>\n<p>Luckily, thanks to an bug in Intel Management Engine, we can flash <a href=\"https://libreboot.org/\">Libreboot</a>\ninstead of the stock firmware. This removes the whitelist for wireless cards and lets us choose our own modem.\nA good choice is Quectel EG25-G, since it was used in PinePhone and received some scrutiny.\nIn particular, inside is an ARM core running Android (most Android phones have a separate Android system\nrunning in the modem). There is a\n<a href=\"https://github.com/the-modem-distro/pinephone_modem_sdk\">custom firmware</a> available with free software userspace.\nYou set this firmware to register the modem as a USB audio interface and get the audio for phone calls. SMS and mobile data\nwork out of the box.</p>\n<p><img src=\"https://grego.site/img/blog/quectel.jpg\" alt=\"Quectel EG25-G modem\"></p>\n<p>M.2 versions of Quectel EG25-G (suitable for the T480) are quite rare and don’t have compatible antenna connectors.\nI needed conversion cables for the antennas, which were really finicky. But it can be done.</p>\n<p>Therefore, you can now throw away your mobile phone and use a laptop only! You can even use Android apps natively with\n<a href=\"https://waydro.id/\">Waydroid</a>.</p>\n\n</article></div>",
+  "image": "images/4828938ba397.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
