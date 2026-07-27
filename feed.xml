@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 27 Jul 2026 20:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:33:24 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>„To dezinformacja”. Warszawa stanowczo reaguje na słowa prezydenta Rosji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b50c77289d7d</link>
+      <description>Polskie Ministerstwo Spraw Zagranicznych stanowczo zaprzeczyło słowom Władimira Putina, podkreślając, że Polska nigdy nie zgłaszała, nie zgłasza obecnie i nie planuje zgłaszać żadnych roszczeń terytorialnych wobec Ukrainy.</description>
+      <pubDate>Mon, 27 Jul 2026 21:23:00 GMT</pubDate>
+      <guid isPermaLink="false">b50c77289d7d</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-to-dezinformacja-warszawa-stanowczo-reaguje-na-slowa-prezyde,nIdn,1011577">RMF24</source>
+    </item>
+    <item>
+      <title>Satya Nadella says companies that trust one AI for everything may not survive</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9a5f660e760e</link>
+      <description>Businesses that rely wholly on the major AI labs ultimately won&apos;t survive, Microsoft CEO Satya Nadella predicts.</description>
+      <pubDate>Mon, 27 Jul 2026 21:17:11 GMT</pubDate>
+      <guid isPermaLink="false">9a5f660e760e</guid>
+      <source url="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Polska wesprze Hiszpanię w gaszeniu pożarów. Ogień spustoszył już duży obszar</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ddadc47f36de</link>
+      <description>Polska wesprze Hiszpanię w walce z rozległymi pożarami lasów. Jak poinformował wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz, do akcji zostaną skierowani polscy strażacy wraz ze sprzętem, a transport zapewnią wojskowe samoloty CASA.</description>
+      <pubDate>Mon, 27 Jul 2026 20:53:00 GMT</pubDate>
+      <guid isPermaLink="false">ddadc47f36de</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-polska-wesprze-hiszpanie-w-gaszeniu-pozarow-ogien-spustoszyl,nIdn,1011576">RMF24</source>
+    </item>
+    <item>
+      <title>Thea Energy lands $20M federal grant to build its magnets for fusion reactors</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9183ec221b3f</link>
+      <description>Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.</description>
+      <pubDate>Mon, 27 Jul 2026 20:40:12 GMT</pubDate>
+      <guid isPermaLink="false">9183ec221b3f</guid>
+      <source url="https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/">TechCrunch</source>
+    </item>
+    <item>
+      <title>As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b99de45973be</link>
+      <description>The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.</description>
+      <pubDate>Mon, 27 Jul 2026 20:40:00 GMT</pubDate>
+      <guid isPermaLink="false">b99de45973be</guid>
+      <source url="https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Morawiecki zapowiada ważny polityczny krok. Decyzja we wtorek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ea7bf2aa9234</link>
+      <description>Były premier Mateusz Morawiecki zapowiedział, że jeśli członkowie stowarzyszenia „Rozwój Plus” zostaną usunięci z Prawa i Sprawiedliwości, utworzą własny klub parlamentarny. Jak przyznał, taki scenariusz jest „wysoce prawdopodobny”, a nowy klub najpewniej przyjmie roboczą nazwę „Rozwój Plus”.</description>
+      <pubDate>Mon, 27 Jul 2026 20:21:00 GMT</pubDate>
+      <guid isPermaLink="false">ea7bf2aa9234</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-morawiecki-zapowiada-wazny-polityczny-krok-decyzja-we-wtorek,nIdn,1011575">RMF24</source>
+    </item>
+    <item>
+      <title>PSA: Your Claude shared chats and Artifacts may have ended up on Google</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bb239ee05f73</link>
+      <description>The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.</description>
+      <pubDate>Mon, 27 Jul 2026 20:19:42 GMT</pubDate>
+      <guid isPermaLink="false">bb239ee05f73</guid>
+      <source url="https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/">TechCrunch</source>
+    </item>
     <item>
       <title>Kawa i awokado nie dla każdego . Możliwe reakcje krzyżowe</title>
       <link>https://lolsoftware.github.io/4-news/#/article/958ed4beae44</link>
@@ -14,6 +70,31 @@
       <pubDate>Mon, 27 Jul 2026 20:03:00 GMT</pubDate>
       <guid isPermaLink="false">958ed4beae44</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Kawa-i-awokado-nie-dla-kazdego-Mozliwe-reakcje-krzyzowe,287141,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Minister spraw zagranicznych Ukrainy z apelem &quot;do niektórych polskich polityków&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/537843f7530c</link>
+      <description>Andrij Sybiha, szef ukraińskiej dyplomacji, apeluje do &quot;niektórych polskich polityków&quot;, aby nie podsycali wrogości do Ukraińców. &quot;Potrzebujemy dialogu i wzajemnego szacunku, a nie szukania powodów do nienawiści&quot; - wskazał.</description>
+      <pubDate>Mon, 27 Jul 2026 20:00:17 GMT</pubDate>
+      <guid isPermaLink="false">537843f7530c</guid>
+      <source url="https://tvn24.pl/swiat/andrij-sybiha-minister-spraw-zagranicznych-ukrainy-z-apelem-do-niektorych-polskich-politykow-st9161518?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25fef77033b7</link>
+      <description>Unlocking resilience
+for the chemical industry</description>
+      <pubDate>Mon, 27 Jul 2026 19:58:22 GMT</pubDate>
+      <guid isPermaLink="false">25fef77033b7</guid>
+      <source url="https://www.rise-reforming.com/">Hacker News</source>
+    </item>
+    <item>
+      <title>&apos;Do the right thing&apos;: Savannah Guthrie makes another plea to mother&apos;s kidnappers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55e6c59a01cf</link>
+      <description>The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.</description>
+      <pubDate>Mon, 27 Jul 2026 19:54:24 GMT</pubDate>
+      <guid isPermaLink="false">55e6c59a01cf</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Infantino: Gdy oni świętowali, wy byliście zajęci sianiem ziaren nienawiści</title>
@@ -104,6 +185,14 @@
       <source url="https://tvn24.pl/biznes/ze-swiata/najlepszy-start-w-historii-rzadu-bialy-dom-oglasza-sukces-st9161481">TVN24</source>
     </item>
     <item>
+      <title>&quot;Najlepszy start w historii rządu&quot;. Biały Dom ogłasza sukces</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2dd22730852d</link>
+      <description>Do Trump Accounts zapisano już siedem milionów dzieci. Te urodzone w USA w latach 2025-2028 mają otrzymać od państwa po tysiąc dolarów. Biały Dom już ogłasza sukces programu.</description>
+      <pubDate>Mon, 27 Jul 2026 19:20:56 GMT</pubDate>
+      <guid isPermaLink="false">2dd22730852d</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/najlepszy-start-w-historii-rzadu-bialy-dom-oglasza-sukces-st9161481?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Trump: Powinniśmy mieć najniższe stopy procentowe na świecie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c56c358b5859</link>
       <description>W USA powinny obowiązywać najniższe stopy procentowe na świecie - oświadczył w poniedziałek prezydent tego kraju Donald Trump. W środę Fed ma ogłosić decyzję w sprawie wysokości stawek.</description>
@@ -166,6 +255,14 @@
       <pubDate>Mon, 27 Jul 2026 18:53:45 GMT</pubDate>
       <guid isPermaLink="false">3e365eeafec6</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/nawet-12-razy-wiecej-rosja-wprowadza-nowe-przepisy-dla-cudzoziemcow-st9161434">TVN24</source>
+    </item>
+    <item>
+      <title>Nawet 12 razy więcej. Rosja wprowadza nowe przepisy dla cudzoziemców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/604f89e5bdc6</link>
+      <description>Rosja podnosi opłaty dla imigrantów. Uzyskanie obywatelstwa czy prawa stałego pobytu znacznie podrożeje. A to nie koniec podwyżek.</description>
+      <pubDate>Mon, 27 Jul 2026 18:53:45 GMT</pubDate>
+      <guid isPermaLink="false">604f89e5bdc6</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/nawet-12-razy-wiecej-rosja-wprowadza-nowe-przepisy-dla-cudzoziemcow-st9161434?source=rss">TVN24</source>
     </item>
     <item>
       <title>NASA Astronaut Chris Williams to Discuss Space Station Mission</title>
@@ -315,102 +412,6 @@ are statically linked.</description>
       <pubDate>Mon, 27 Jul 2026 18:08:29 GMT</pubDate>
       <guid isPermaLink="false">22cdbedd34b9</guid>
       <source url="https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/">TechCrunch</source>
-    </item>
-    <item>
-      <title>&quot;Ekstremalny wybór&quot;. Pierwszy taki przypadek w historii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/21f498af83e6</link>
-      <description>Po raz pierwszy w historii wyprodukowano oliwę z drzewek oliwnych rosnących w Wielkiej Brytanii - przekazał francuski portal RFI.</description>
-      <pubDate>Mon, 27 Jul 2026 18:01:55 GMT</pubDate>
-      <guid isPermaLink="false">21f498af83e6</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/ekstremalny-wybor-pierwszy-taki-przypadek-w-historii-st9161361?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>NASA Science Soars During August Total Solar Eclipse</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/55d9678599b0</link>
-      <description>Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona</description>
-      <pubDate>Mon, 27 Jul 2026 18:01:14 GMT</pubDate>
-      <guid isPermaLink="false">55d9678599b0</guid>
-      <source url="https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Wildfire now nine miles away from French city of Bordeaux, mayor warns</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d96ed8356c3d</link>
-      <description>Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation &quot;catastrophic&quot;.</description>
-      <pubDate>Mon, 27 Jul 2026 17:50:42 GMT</pubDate>
-      <guid isPermaLink="false">d96ed8356c3d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Antares raises $470M to build nuclear reactors for the U.S. military</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d9efe81937b</link>
-      <description>Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.</description>
-      <pubDate>Mon, 27 Jul 2026 17:49:28 GMT</pubDate>
-      <guid isPermaLink="false">9d9efe81937b</guid>
-      <source url="https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Spędził 241 dni w kosmosie, dwa razy wyszedł na spacer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4b416962b1ed</link>
-      <description>26 lipca na Ziemi wylądowała kapsuła z trzema astronautami powracającymi z Międzynarodowej Stacji Kosmicznej. Jednym z nich był naukowiec NASA Chris Williams, który w trakcie swojego pobytu w kosmosie prowadził szereg badań z wielu dziedzin, od medycyny po technologie komputerowe.</description>
-      <pubDate>Mon, 27 Jul 2026 17:48:26 GMT</pubDate>
-      <guid isPermaLink="false">4b416962b1ed</guid>
-      <source url="https://tvn24.pl/tvnmeteo/nauka/astronauta-chris-williams-spedzil-241-dni-w-kosmosie-wlasnie-wrocil-na-ziemie-st9161208?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>„Dowiemy się. Zapytam o to Putina”. Trump o możliwym wsparciu Iranu przez Rosję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8dcbce178fde</link>
-      <description>Donald Trump zapowiedział, że zamierza zapytać Władimira Putina o ewentualne przekazywanie Iranowi zdjęć satelitarnych, które mogłyby być wykorzystywane do ataków na amerykańskie bazy. Prezydent USA ujawnił również, że Teheran poprosił o spotkanie z przedstawicielami Stanów Zjednoczonych, a także zagroził powrotem do działań militarnych.</description>
-      <pubDate>Mon, 27 Jul 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="false">8dcbce178fde</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-dowiemy-sie-zapytam-o-to-putina-trump-o-mozliwym-wsparciu-ir,nIdn,1011564">RMF24</source>
-    </item>
-    <item>
-      <title>Jak zachowają się lokalni politycy PiS? Socjolog o rozłamie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d1711c017c31</link>
-      <description>O czym w obecnej sytuacji myślą powiatowi radni Prawa i Sprawiedliwości? - zastanawiał się w &quot;Tak jest&quot; w TVN24 profesor Jarosław Flis. Zdaniem socjologa to, co zrobią lokalni politycy jest &quot;kluczowe&quot; wobec rozłamu w partii. Wskazał też na ich rolę podczas przyszłorocznych wyborów parlamentarnych i opisał wpływ rozpadu PiS na sondaże.</description>
-      <pubDate>Mon, 27 Jul 2026 17:47:37 GMT</pubDate>
-      <guid isPermaLink="false">d1711c017c31</guid>
-      <source url="https://tvn24.pl/polska/jaroslaw-flis-o-lokalnych-politykach-pis-i-sondazach-po-rozlamie-st9161357?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Przemówienie Putina w Dumie: Przygotowują Rosjan na najgorsze</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/848f4807baea</link>
-      <description>Prezydent Rosji Władimir Putin podczas spotkania z deputowanymi Dumy Państwowej podsumował ostatnie pięć lat jako jeden z najważniejszych okresów w historii kraju.</description>
-      <pubDate>Mon, 27 Jul 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">848f4807baea</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-przemowienie-putina-w-dumie-przygotowuja-rosjan-na-najgorsze,nIdn,1011552">RMF24</source>
-    </item>
-    <item>
-      <title>300 zł prywatnie, a można mieć za darmo &quot;na NFZ&quot;. Polacy płacą, bo nie wiedzą</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ff5163340625</link>
-      <description>Konsultacja dietetyka kosztuje prywatnie nawet 300 zł. Nie każdy wie, że można ją mieć za darmo: w ramach Centrum Dietetycznego Online, które oferuje NFZ. Pacjenci są zachwyceni: &quot;wybiera się w termin, włącza rozmowę i już&quot;.</description>
-      <pubDate>Mon, 27 Jul 2026 17:43:00 GMT</pubDate>
-      <guid isPermaLink="false">ff5163340625</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/300-zl-prywatnie-a-mozna-miec-za-darmo-na-NFZ-Polacy-placa-bo-nie-wiedza,287136,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Będzie polskie śledztwo ws. zamachu w Berlinie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0c6cce2d6bb8</link>
-      <description>Prokuratura Krajowa poinformowała o wszczęciu śledztwa w sprawie sobotniego zamachu terrorystycznego w Berlinie, w którym zginęła 61-letnia Polka. Postępowanie prowadzi Mazowiecki Wydział Zamiejscowy PK. Zamachowiec, 21-letni Niemiec libańskiego pochodzenia, został zastrzelony.</description>
-      <pubDate>Mon, 27 Jul 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="false">0c6cce2d6bb8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-bedzie-polskie-sledztwo-ws-zamachu-w-berlinie,nIdn,1011560">RMF24</source>
-    </item>
-    <item>
-      <title>OpenAI’s Hugging Face breach has reignited the debate over alignment and control</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a0ef9ae849bd</link>
-      <description>OpenAI&apos;s Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.</description>
-      <pubDate>Mon, 27 Jul 2026 17:28:42 GMT</pubDate>
-      <guid isPermaLink="false">a0ef9ae849bd</guid>
-      <source url="https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/">TechCrunch</source>
-    </item>
-    <item>
-      <title>What you need to know if you&apos;re travelling to France or Spain</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/714ee2d46fe7</link>
-      <description>The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.</description>
-      <pubDate>Mon, 27 Jul 2026 17:20:27 GMT</pubDate>
-      <guid isPermaLink="false">714ee2d46fe7</guid>
-      <source url="https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
