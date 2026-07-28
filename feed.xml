@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:35:30 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bot-detection startup Spur nabs $200M from Insight</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c7d6cf696f32</link>
+      <description>Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.</description>
+      <pubDate>Tue, 28 Jul 2026 21:29:34 GMT</pubDate>
+      <guid isPermaLink="false">c7d6cf696f32</guid>
+      <source url="https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Bystander video shows teen lifeguard&apos;s dramatic ocean rescue</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/93969fb755af</link>
+      <description>The 16-year-old lifeguard rescued a 10-year-old boy from a beach in Santa Cruz, California after the boy had been swept offshore.</description>
+      <pubDate>Tue, 28 Jul 2026 21:09:21 GMT</pubDate>
+      <guid isPermaLink="false">93969fb755af</guid>
+      <source url="https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f780d8750024</link>
+      <description>The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.</description>
+      <pubDate>Tue, 28 Jul 2026 20:57:29 GMT</pubDate>
+      <guid isPermaLink="false">f780d8750024</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Dwie egzekucje jednego dnia. Floryda robi to pierwszy raz od 60 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/830b86d46137</link>
+      <description>Dwa wyroki śmierci mają zostać wykonane we wtorek na Florydzie. W tym stanie jest to pierwsza taka sytuacja od 60 lat.</description>
+      <pubDate>Tue, 28 Jul 2026 20:53:00 GMT</pubDate>
+      <guid isPermaLink="false">830b86d46137</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-dwie-egzekucje-jednego-dnia-floryda-robi-to-pierwszy-raz-od-,nIdn,1011738">RMF24</source>
+    </item>
+    <item>
+      <title>OpenAI just open-sourced Codex Security</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/328a7b2dd544</link>
+      <description>SDKs and CLI for Codex Security. Contribute to openai/codex-security development by creating an account on GitHub.</description>
+      <pubDate>Tue, 28 Jul 2026 20:52:55 GMT</pubDate>
+      <guid isPermaLink="false">328a7b2dd544</guid>
+      <source url="https://github.com/openai/codex-security">Hacker News</source>
+    </item>
     <item>
       <title>Cofa zwłóknienie wątroby. Dietetycy: najlepiej pić codziennie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e839abaa0ec2</link>
@@ -14,6 +54,38 @@
       <pubDate>Tue, 28 Jul 2026 20:46:00 GMT</pubDate>
       <guid isPermaLink="false">e839abaa0ec2</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Cofa-zwloknienie-watroby-Dietetycy-najlepiej-pic-codziennie,287166,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>MCP startup Runlayer accuses Rippling of stealing its product idea</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/50ed5a8b7d1a</link>
+      <description>Runlayer is suing Rippling after Rippling evaluated the startup&apos;s MCP gateway product and then opted to build one itself.</description>
+      <pubDate>Tue, 28 Jul 2026 20:45:12 GMT</pubDate>
+      <guid isPermaLink="false">50ed5a8b7d1a</guid>
+      <source url="https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Recursion is lying to you</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ff3244a0841</link>
+      <description>Tail-recursive code in JavaScript still risks stack overflow in real-world runtimes. Learn when recursion is safe and when to switch to iterative patterns.</description>
+      <pubDate>Tue, 28 Jul 2026 20:20:51 GMT</pubDate>
+      <guid isPermaLink="false">0ff3244a0841</guid>
+      <source url="https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/">Hacker News</source>
+    </item>
+    <item>
+      <title>Sam Altman is ready to decelerate</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/426917ef4f43</link>
+      <description>His change of position comes after &quot;the first security incident that I have felt very viscerally.&quot;</description>
+      <pubDate>Tue, 28 Jul 2026 20:17:08 GMT</pubDate>
+      <guid isPermaLink="false">426917ef4f43</guid>
+      <source url="https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Kurski ma milczeć. Kulisy burzliwego spotkania na szczycie w PiS</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d9f976daedcf</link>
+      <description>Władze PiS nałożyły na Jacka Kurskiego, byłego prezesa  TVP, zakaz wystąpień medialnych. To efekt występu Kurskiego w Telewizji Republika, gdzie bezpardonowo atakował Mateusza Morawieckiego. „Sprawa została skierowana do partyjnej Komisji Etyki” - przekazał rzecznik PiS Rafał Bochenek.</description>
+      <pubDate>Tue, 28 Jul 2026 20:06:00 GMT</pubDate>
+      <guid isPermaLink="false">d9f976daedcf</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-kurski-ma-milczec-kulisy-burzliwego-spotkania-na-szczycie-w-,nIdn,1011737">RMF24</source>
     </item>
     <item>
       <title>Ma rekordową ilość witaminy C. &quot;Cytryna Północy&quot; rośnie w Polsce</title>
@@ -136,6 +208,14 @@
       <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-bocianow-nie-bylo-tu-od-ponad-600-lat-teraz-wrocily,nIdn,1011731">RMF24</source>
     </item>
     <item>
+      <title>New airliner sets record flying 24 hrs nonstop from Australia to France</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/789a430363de</link>
+      <description>Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.</description>
+      <pubDate>Tue, 28 Jul 2026 18:43:36 GMT</pubDate>
+      <guid isPermaLink="false">789a430363de</guid>
+      <source url="https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/">Ars Technica</source>
+    </item>
+    <item>
       <title>PiS zdecydowało w sprawie Jacka Kurskiego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/bed9055adb86</link>
       <description>Jacek Kurski otrzymał zakaz wystąpień medialnych - poinformował we wtorek rzecznik PiS Rafał Bochenek. Jak dodał, ma to związek z jego ostatnim wystąpieniem. Były prezes propagandowej TVP krytykował w prawicowej stacji Mateusza Morawieckiego.</description>
@@ -152,12 +232,28 @@
       <source url="https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/">TechCrunch</source>
     </item>
     <item>
+      <title>MCP 2026-07-28 Specification: transport going stateless</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3bef6a91327c</link>
+      <description>The 2026-07-28 Model Context Protocol specification is out, bringing a stateless protocol core, Multi Round-Trip Requests, header-based routing, cacheable list results, authorization hardening, a formal extensions framework, and updated Tier 1 SDKs.</description>
+      <pubDate>Tue, 28 Jul 2026 18:35:11 GMT</pubDate>
+      <guid isPermaLink="false">3bef6a91327c</guid>
+      <source url="https://blog.modelcontextprotocol.io/posts/2026-07-28/">Hacker News</source>
+    </item>
+    <item>
       <title>„Odbieram to jako próbę przeciągania tego serialu”. Morawiecki komentuje posiedzenie PiS</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8d0556303621</link>
       <description>„To co zostało ogłoszone po komitecie politycznym (PiS) odbieram jako próbę przeciągania tego serialu” – tak Mateusz Morawiecki skomentował to, co zostało ogłoszone po spotkaniu posłów w siedzibie Prawa i Sprawiedliwości.</description>
       <pubDate>Tue, 28 Jul 2026 18:35:00 GMT</pubDate>
       <guid isPermaLink="false">8d0556303621</guid>
       <source url="https://www.rmf24.pl/fakty/polityka/news-odbieram-to-jako-probe-przeciagania-tego-serialu-morawiecki-,nIdn,1011730">RMF24</source>
+    </item>
+    <item>
+      <title>Judge blocks first state law that would have banned prediction markets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4d1e57718034</link>
+      <description>Judge may allow Minnesota to ban some types of bets, but not all of them.</description>
+      <pubDate>Tue, 28 Jul 2026 18:31:13 GMT</pubDate>
+      <guid isPermaLink="false">4d1e57718034</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/">Ars Technica</source>
     </item>
     <item>
       <title>Mateusz Morawiecki komentuje decyzję Komitetu Politycznego PiS. &quot;Próba przeciągania serialu&quot;</title>
@@ -280,6 +376,14 @@
       <source url="https://www.rmf24.pl/pilka-nozna/news-uefa-wsciekla-na-decyzje-fifa-dusza-futbolu-nie-jest-na-sprz,nIdn,1011723">RMF24</source>
     </item>
     <item>
+      <title>The iPhone Upgrade Program is being replaced by Apple Upgrade</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fa1abb0278ce</link>
+      <description>Get a new iPhone every year, and the protection of AppleCare+ with the iPhone Upgrade Program. Buy now or visit an Apple Store today.</description>
+      <pubDate>Tue, 28 Jul 2026 17:37:12 GMT</pubDate>
+      <guid isPermaLink="false">fa1abb0278ce</guid>
+      <source url="https://www.apple.com/shop/iphone/iphone-upgrade-program">Hacker News</source>
+    </item>
+    <item>
       <title>Michał Wójcik: sprawa frakcji Mateusza Morawieckiego zostanie skierowana do rzecznika dyscyplinarnego PiS</title>
       <link>https://lolsoftware.github.io/4-news/#/article/585b26864378</link>
       <description>Poseł PiS Michał Wójcik poinformował na antenie TVN24, że sprawa członków Stowarzyszenia Rozwój Plus Mateusza Morawieckiego zostanie skierowana do rzecznika dyscyplinarnego partii, którym jest Karol Karski. Później informację tę potwierdził rzecznik PiS. - &quot;Lojalki&quot; nie podpisał, a w PiS cały czas jest - skomentował sytuację w PiS poseł Lewicy Tomasz Trela.</description>
@@ -302,110 +406,6 @@
       <pubDate>Tue, 28 Jul 2026 17:34:00 GMT</pubDate>
       <guid isPermaLink="false">c4a2ebf2509f</guid>
       <source url="https://www.bankier.pl/wiadomosc/Kwota-wolna-na-poziomie-60-tys-zl-pochlonie-miliardy-Czy-budzet-to-udzwignie-9174549.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Saudi prince buys 5% stake in Lucid Motors</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7e44c5f3ab48</link>
-      <description>The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.</description>
-      <pubDate>Tue, 28 Jul 2026 17:33:51 GMT</pubDate>
-      <guid isPermaLink="false">7e44c5f3ab48</guid>
-      <source url="https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Bułgaria. Statek wycieczkowy na mieliźnie. Pasażerów ewakuowała straż graniczna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e43ce264cfbc</link>
-      <description>Statek wycieczkowy ugrzązł na mieliźnie na Dunaju w Bułgarii. Na pokładzie zabrakło żywności i wody pitnej, przez co konieczna była ewakuacja pasażerów. Niski stan wody w rzece daje się we znaki także w innych krajach.</description>
-      <pubDate>Tue, 28 Jul 2026 17:33:40 GMT</pubDate>
-      <guid isPermaLink="false">e43ce264cfbc</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/bulgaria-statek-wycieczkowy-na-mieliznie-pasazerow-ewakuowala-straz-graniczna-st9162997?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Bojkot prezesa NBP nie zatrzyma wniosku o Trybunał Stanu. Powstanie bez jego zeznań</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6d2189b6e59f</link>
-      <description>Sejmowa Komisja Odpowiedzialności Konstytucyjnej chce przedstawić sprawozdanie ws. wstępnego wniosku o pociągnięcie do odpowiedzialności przed Trybunałem Stanu (TS) prezesa NBP Adama Glapińskiego do końca bieżącej kadencji Sejmu - poinformował przewodniczący Komisji Zdzisław Gawlik z KO.</description>
-      <pubDate>Tue, 28 Jul 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="false">6d2189b6e59f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Bojkot-prezesa-NBP-nie-zatrzyma-wniosku-o-Trybunal-Stanu-Powstanie-bez-jego-zeznan-9174548.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Some parents on benefits to get up to £4,500 for child starting apprenticeship</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39357355e6b0</link>
-      <description>Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.</description>
-      <pubDate>Tue, 28 Jul 2026 17:32:56 GMT</pubDate>
-      <guid isPermaLink="false">39357355e6b0</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Brutalnie pobito prokuratora w Radomiu. Dwóch mężczyzn z zarzutami</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/348dad7739d2</link>
-      <description>Dwaj mieszkańcy Radomia usłyszeli zarzuty brutalnego pobicia prokuratora oraz narażenia go na ciężki uszczerbek na zdrowiu. Do zdarzenia doszło w nocy z 25 na 26 lipca w jednej z radomskich restauracji. Prokurator, będący poza służbą, podjął interwencję po tym, jak napastnicy zaatakowali kobietę.</description>
-      <pubDate>Tue, 28 Jul 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="false">348dad7739d2</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-brutalnie-pobito-prokuratora-w-radomiu-dwoch-mezczyzn-z-zarz,nIdn,1011720">RMF24</source>
-    </item>
-    <item>
-      <title>Discovering Cryptographic Weaknesses with Claude</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f83f5347c32</link>
-      <description>Anthropic researchers find weaknesses in cryptographic algorithms with Claude Mythos Preview</description>
-      <pubDate>Tue, 28 Jul 2026 17:22:16 GMT</pubDate>
-      <guid isPermaLink="false">5f83f5347c32</guid>
-      <source url="https://www.anthropic.com/research/discovering-cryptographic-weaknesses">Hacker News</source>
-    </item>
-    <item>
-      <title>Koszt obniżenia podatków. Resort finansów podał kwoty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3b9cf5ad7bee</link>
-      <description>Ministerstwo Finansów oszacowało, ile kosztowałoby nasz budżet zmiany podatkowe. Chodzi o podwyższenie kwoty wolnej od podatku oraz podniesienie drugiego progu podatkowego.</description>
-      <pubDate>Tue, 28 Jul 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="false">3b9cf5ad7bee</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-koszt-obnizenia-podatkow-resort-finansow-podal-kwoty,nIdn,1011721">RMF24</source>
-    </item>
-    <item>
-      <title>Morawiecki już nie jest przewodniczącym europejskiej partii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8fb7fa0c5ae5</link>
-      <description>Mateusz Morawiecki nie jest już przewodniczącym Europejskich Konserwatystów i Reformatorów (EKR). Były premier Polski zrezygnował z tej funkcji zgodnie z wcześniejszymi zapowiedziami, po tym jak został wykluczony z Prawa i Sprawiedliwości. O decyzji Morawieckiego poinformował we wtorek wieczorem europoseł Piotr Müller.</description>
-      <pubDate>Tue, 28 Jul 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="false">8fb7fa0c5ae5</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-morawiecki-juz-nie-jest-przewodniczacym-europejskiej-partii,nIdn,1011722">RMF24</source>
-    </item>
-    <item>
-      <title>Scientific computing in the age of agentic AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7afa5cf938df</link>
-      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
-      <pubDate>Tue, 28 Jul 2026 17:13:15 GMT</pubDate>
-      <guid isPermaLink="false">7afa5cf938df</guid>
-      <source url="https://openai.com/index/scientific-computing-agentic-ai/">Hacker News</source>
-    </item>
-    <item>
-      <title>Steel Bank Common Lisp version 2.6.7</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d910a0c72855</link>
-      <description>Comments</description>
-      <pubDate>Tue, 28 Jul 2026 17:11:54 GMT</pubDate>
-      <guid isPermaLink="false">d910a0c72855</guid>
-      <source url="https://sbcl.org/all-news.html?2.6.7">Hacker News</source>
-    </item>
-    <item>
-      <title>Mateusz Morawiecki zrezygnował z szefostwa we frakcji Europejskich Konserwatystów i Reformatorów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9a57244264a0</link>
-      <description>Mateusz Morawiecki złożył rezygnację z funkcji przewodniczącego Europejskich Konserwatystów i Reformatorów (ECR) w Parlamencie Europejskim. Piotr Mueller podał w serwisie X, że ma to związek z wykluczeniem byłego premiera z Prawa i Sprawiedliwości. Rzecznik PiS zapowiedział, że Jarosław Kaczyński zarekomenduje nowego kandydata na to stanowisko.</description>
-      <pubDate>Tue, 28 Jul 2026 17:08:38 GMT</pubDate>
-      <guid isPermaLink="false">9a57244264a0</guid>
-      <source url="https://tvn24.pl/polska/mateusz-morawiecki-zrezygnowal-z-szefostwa-we-frakcji-europejskich-konserwatystow-i-reformatorow-st9163050?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Niemcy przyjeżdżają do Polski i kupują masowo. Oszczędność: 35 euro na kartonie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7c8352744d17</link>
-      <description>Mieszkańcy niemieckiego pogranicza chętnie robią zakupy w Polsce. Jak opisuje regionalny dziennik „Nordkurier&quot;, największe oszczędności przynoszą papierosy, paliwo i podstawowe produkty spożywcze. Gazeta zwraca jednak uwagę, że nie wszystko po wschodniej stronie Odry jest tańsze.</description>
-      <pubDate>Tue, 28 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="false">7c8352744d17</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Niemcy-przyjezdzaja-do-Polski-i-kupuja-masowo-Oszczednosc-35-euro-na-kartonie,287117,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>WOFF 1.0: a milestone on W3C&apos;s journey of fonts on the web</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f2efcede044a</link>
-      <description>Comments</description>
-      <pubDate>Tue, 28 Jul 2026 17:05:51 GMT</pubDate>
-      <guid isPermaLink="false">f2efcede044a</guid>
-      <source url="https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/">Hacker News</source>
     </item>
   </channel>
 </rss>

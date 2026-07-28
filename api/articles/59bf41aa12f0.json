@@ -1,0 +1,13 @@
+{
+  "id": "59bf41aa12f0",
+  "title": "Show HN: How far do I have to go to run into 100k people?",
+  "originalTitle": "Show HN: How far do I have to go to run into 100k people?",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://imjasonh.github.io/playground/population-rays/",
+  "publishedAt": "2026-07-23T21:33:28.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div aria-label=\"Controls\"> <header> <p> From the pin, a filled 5° slice in every direction. Petal length = distance to <strong id=\"lede-n\">100k</strong> people. </p> </header> <section aria-label=\"Location search\"> <form id=\"place-search-form\" autocomplete=\"off\"> <label for=\"place-search\">Search US place</label> </form> </section> <section aria-label=\"Target\"> <label> <span> <span>People to hit</span> <strong id=\"target-pop-readout\">100k</strong> </span> </label> </section> <section aria-live=\"polite\"> <p><span>This slice</span> <strong id=\"hero-value\">—</strong> <small id=\"hero-detail\">Hover the map to inspect a direction.</small> </p> </section> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
