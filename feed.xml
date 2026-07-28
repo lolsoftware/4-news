@@ -5,413 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 27 Jul 2026 21:33:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:44:58 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>„To dezinformacja”. Warszawa stanowczo reaguje na słowa prezydenta Rosji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b50c77289d7d</link>
-      <description>Polskie Ministerstwo Spraw Zagranicznych stanowczo zaprzeczyło słowom Władimira Putina, podkreślając, że Polska nigdy nie zgłaszała, nie zgłasza obecnie i nie planuje zgłaszać żadnych roszczeń terytorialnych wobec Ukrainy.</description>
-      <pubDate>Mon, 27 Jul 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="false">b50c77289d7d</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-to-dezinformacja-warszawa-stanowczo-reaguje-na-slowa-prezyde,nIdn,1011577">RMF24</source>
+      <title>Ołów i arszenik w pakiecie. Te odkrycia wstrząsnęły fanami czekolady</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f285bb0e8ae</link>
+      <description>Niektóre produkty z kakao, w tym te organiczne, zawierają niebezpiecznie wysokie poziomy metali ciężkich - wskazały badania. W kakao wykryto m.in. arszenik, kadm i ołów.</description>
+      <pubDate>Tue, 28 Jul 2026 07:56:00 GMT</pubDate>
+      <guid isPermaLink="false">8f285bb0e8ae</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Olow-i-arszenik-w-pakiecie-Te-odkrycia-wstrzasnely-fanami-czekolady,287113,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Satya Nadella says companies that trust one AI for everything may not survive</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9a5f660e760e</link>
-      <description>Businesses that rely wholly on the major AI labs ultimately won&apos;t survive, Microsoft CEO Satya Nadella predicts.</description>
-      <pubDate>Mon, 27 Jul 2026 21:17:11 GMT</pubDate>
-      <guid isPermaLink="false">9a5f660e760e</guid>
-      <source url="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/">TechCrunch</source>
+      <title>Za krótkie terminy, nadmiarowe dane, wygórowane sankcje. Lekarze o projektach wprowadzających reformę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/11743129fa45</link>
+      <description>Zbyt krótki termin na dostosowanie się do wprowadzanych zmian, w niektórych przypadkach „rażąco wygórowane sankcje”, zbieranie danych, które już w systemie są – to niektóre zastrzeżeń Naczelnej Rady Lekarskiej wobec projektów resortu zdrowia wprowadzających zmiany zapowiedziane po ultimatum premiera. Co jednak istotne, samorząd nie kwestionuje ich celowości.</description>
+      <pubDate>Tue, 28 Jul 2026 07:35:00 GMT</pubDate>
+      <guid isPermaLink="false">11743129fa45</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Za-krotkie-terminy-nadmiarowe-dane-wygorowane-sankcje-Lekarze-o-projektach-wprowadzajacych-reforme,287142,2.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Polska wesprze Hiszpanię w gaszeniu pożarów. Ogień spustoszył już duży obszar</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ddadc47f36de</link>
-      <description>Polska wesprze Hiszpanię w walce z rozległymi pożarami lasów. Jak poinformował wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz, do akcji zostaną skierowani polscy strażacy wraz ze sprzętem, a transport zapewnią wojskowe samoloty CASA.</description>
-      <pubDate>Mon, 27 Jul 2026 20:53:00 GMT</pubDate>
-      <guid isPermaLink="false">ddadc47f36de</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-polska-wesprze-hiszpanie-w-gaszeniu-pozarow-ogien-spustoszyl,nIdn,1011576">RMF24</source>
+      <title>ZUS nie odda wszystkich nadpłat. Rząd szykuje zmiany w składce zdrowotnej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd0ddd8e2d94</link>
+      <description>Rząd jest o krok bliżej zmian w rozliczaniu składki zdrowotnej przedsiębiorców. Po pracach Stałego Komitetu Rady Ministrów projekt został częściowo poprawiony, ale jego główne założenia pozostały bez zmian. Przedsiębiorcy nie otrzymają zwrotu niewielkich nadpłat – ZUS zaliczy je na poczet przyszłych składek.</description>
+      <pubDate>Tue, 28 Jul 2026 07:31:00 GMT</pubDate>
+      <guid isPermaLink="false">cd0ddd8e2d94</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-nie-odda-wszystkich-nadplat-Rzad-szykuje-zmiany-w-skladce-zdrowotnej,287145,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Thea Energy lands $20M federal grant to build its magnets for fusion reactors</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9183ec221b3f</link>
-      <description>Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.</description>
-      <pubDate>Mon, 27 Jul 2026 20:40:12 GMT</pubDate>
-      <guid isPermaLink="false">9183ec221b3f</guid>
-      <source url="https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/">TechCrunch</source>
+      <title>Odrodzenie luksusu. LVMH wraca na ścieżkę wzrostu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c478a9b4cf6a</link>
+      <description>Po okresie pełnym wyzwań dla rynku dóbr luksusowych, francuski gigant LVMH ma wreszcie powody do zadowolenia. Ostatnie wyniki finansowe grupy pokazują, że konsumenci znów otwierają portfele.</description>
+      <pubDate>Tue, 28 Jul 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="false">c478a9b4cf6a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Odrodzenie-luksusu-LVMH-wraca-na-sciezke-wzrostu-9174141.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b99de45973be</link>
-      <description>The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.</description>
-      <pubDate>Mon, 27 Jul 2026 20:40:00 GMT</pubDate>
-      <guid isPermaLink="false">b99de45973be</guid>
-      <source url="https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/">TechCrunch</source>
+      <title>Kiedy portfel 60/40 już nie działa. Jak na nowo podzielić swoje inwestycje?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2f4c5487d79c</link>
+      <description>Akcje czy obligacje? Odpowiedź brzmi: to już nie wystarczy. O tym, jak dziś mądrze podejść do rynku, na czym dziś polega dywersyfikacja i jak portfele tworzą profesjonalni doradcy inwestycyjni, opowiada Michał Krajczewski z Biura Maklerskiego Banku BNP Paribas.</description>
+      <pubDate>Tue, 28 Jul 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="false">2f4c5487d79c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Kiedy-portfel-60-40-juz-nie-dziala-Jak-na-nowo-podzielic-swoje-inwestycje-9174119.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Morawiecki zapowiada ważny polityczny krok. Decyzja we wtorek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ea7bf2aa9234</link>
-      <description>Były premier Mateusz Morawiecki zapowiedział, że jeśli członkowie stowarzyszenia „Rozwój Plus” zostaną usunięci z Prawa i Sprawiedliwości, utworzą własny klub parlamentarny. Jak przyznał, taki scenariusz jest „wysoce prawdopodobny”, a nowy klub najpewniej przyjmie roboczą nazwę „Rozwój Plus”.</description>
-      <pubDate>Mon, 27 Jul 2026 20:21:00 GMT</pubDate>
-      <guid isPermaLink="false">ea7bf2aa9234</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-morawiecki-zapowiada-wazny-polityczny-krok-decyzja-we-wtorek,nIdn,1011575">RMF24</source>
+      <title>Nawet miliard paczek mniej. Cła i brak zwrotów uderzyły w zakupy z Chin</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/77535c6452a9</link>
+      <description>Trzy euro od przesyłki z Chin, naliczane od każdej pozycji towarowej, nie wróci do kupującego, jeśli postanowi on odesłać produkty - czytamy we wtorkowej „Rzeczpospolitej”. Dlatego nie dziwi dwucyfrowy spadek liczby paczek z Chin.</description>
+      <pubDate>Tue, 28 Jul 2026 07:06:00 GMT</pubDate>
+      <guid isPermaLink="false">77535c6452a9</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nawet-miliard-paczek-mniej-Cla-i-brak-zwrotow-uderzyly-w-zakupy-z-Chin-9174131.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>PSA: Your Claude shared chats and Artifacts may have ended up on Google</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb239ee05f73</link>
-      <description>The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.</description>
-      <pubDate>Mon, 27 Jul 2026 20:19:42 GMT</pubDate>
-      <guid isPermaLink="false">bb239ee05f73</guid>
-      <source url="https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/">TechCrunch</source>
+      <title>Brazylia idzie na wojnę handlową z USA. Brazylia zaskarżyła cła do WTO</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b94442c8abea</link>
+      <description>Ministerstwo spraw zagranicznych Brazylii poinformowało, że rząd złożył do Światowej Organizacji Handlu (WTO) skargę dotyczącą ceł nałożonych przez prezydenta USA Donalda Trumpa na brazylijskie towary eksportowane do Stanów Zjednoczonych - podał we wtorek brazylijski portal G1.</description>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">b94442c8abea</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Brazylia-idzie-na-wojne-handlowa-z-USA-Brazylia-zaskarzyla-cla-do-WTO-9174128.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Kawa i awokado nie dla każdego . Możliwe reakcje krzyżowe</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/958ed4beae44</link>
-      <description>Osoby wrażliwe na popularne leki zawierające salicylany powinny unikać nie tylko konkretnych farmaceutyków, ale też części produktów spożywczych. Na zakazanej liście jest większość owoców, ale też kawa czy zioła. Rozwiązanie to &quot;dieta aspirynowa&quot;.</description>
-      <pubDate>Mon, 27 Jul 2026 20:03:00 GMT</pubDate>
-      <guid isPermaLink="false">958ed4beae44</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Kawa-i-awokado-nie-dla-kazdego-Mozliwe-reakcje-krzyzowe,287141,9.html">Rynek Zdrowia</source>
+      <title>Ukraina reaguje na brutalny atak na swoich obywateli we Wrocławiu. Stanowczy głos z Kijowa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1ae975ce0cd3</link>
+      <description>„Oczekujemy pełnego, obiektywnego i bezstronnego śledztwa (...). Dziękuję władzom Polskim, organom ścigania oraz Prezydentowi Wrocławia Jackowi Sutrykowi za szybką, zdecydowaną i natychmiastową reakcję. Po raz kolejny apeluję do niektórych polskich polityków o zaprzestanie podsycania wrogości, która ostatecznie przekształca się w konkretne akty przemocy na ulicach (...)” - napisał na platformie X minister spraw zagranicznych Ukrainy Andrij Sybiha.</description>
+      <pubDate>Tue, 28 Jul 2026 06:33:00 GMT</pubDate>
+      <guid isPermaLink="false">1ae975ce0cd3</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-ukraina-reaguje-na-brutalny-atak-na-swoich-obywateli-we-wroc,nIdn,1011592">RMF24</source>
     </item>
     <item>
-      <title>Minister spraw zagranicznych Ukrainy z apelem &quot;do niektórych polskich polityków&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/537843f7530c</link>
-      <description>Andrij Sybiha, szef ukraińskiej dyplomacji, apeluje do &quot;niektórych polskich polityków&quot;, aby nie podsycali wrogości do Ukraińców. &quot;Potrzebujemy dialogu i wzajemnego szacunku, a nie szukania powodów do nienawiści&quot; - wskazał.</description>
-      <pubDate>Mon, 27 Jul 2026 20:00:17 GMT</pubDate>
-      <guid isPermaLink="false">537843f7530c</guid>
-      <source url="https://tvn24.pl/swiat/andrij-sybiha-minister-spraw-zagranicznych-ukrainy-z-apelem-do-niektorych-polskich-politykow-st9161518?source=rss">TVN24</source>
+      <title>Rozmawiasz z AI? Twoje prywatne czaty właśnie trafiły do Google</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad36ebd75f0b</link>
+      <description>Użytkownicy AI mają powody do obaw. Okazuje się, że niektóre prywatne konwersacje z Claude trafiły do sieci i każdy użytkownik Google może je odczytać. To by było na tyle ze skutecznej ochrony danych...</description>
+      <pubDate>Tue, 28 Jul 2026 06:30:28 GMT</pubDate>
+      <guid isPermaLink="false">ad36ebd75f0b</guid>
+      <source url="https://antyweb.pl/uwaga-na-to-co-piszesz-do-ai-twoje-wiadomosci-widac-w-google">Antyweb</source>
     </item>
     <item>
-      <title>Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/25fef77033b7</link>
-      <description>Unlocking resilience
-for the chemical industry</description>
-      <pubDate>Mon, 27 Jul 2026 19:58:22 GMT</pubDate>
-      <guid isPermaLink="false">25fef77033b7</guid>
-      <source url="https://www.rise-reforming.com/">Hacker News</source>
+      <title>Blik zablokuje transakcje. Wielkie zmiany w systemie już od 1 września</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f27af421919e</link>
+      <description>Blik wprowadzi mechanizm blokujący transakcje związane z domenami wpisanymi do rejestru serwisów hazardowych działających niezgodnie z polskim prawem. Nowe rozwiązanie ma zostać wdrożone 1 września br.</description>
+      <pubDate>Tue, 28 Jul 2026 06:28:00 GMT</pubDate>
+      <guid isPermaLink="false">f27af421919e</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Blik-zablokuje-transakcje-Wielkie-zmiany-w-systemie-juz-od-1-wrzesnia,287143,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>&apos;Do the right thing&apos;: Savannah Guthrie makes another plea to mother&apos;s kidnappers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/55e6c59a01cf</link>
-      <description>The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.</description>
-      <pubDate>Mon, 27 Jul 2026 19:54:24 GMT</pubDate>
-      <guid isPermaLink="false">55e6c59a01cf</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Magiczny skok Partyki. A olimpijskie złoto i tak przeszło koło nosa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ad66ede963b</link>
+      <description>Emocji dostarczyli w nadmiarze - i kibicom, i sobie. Artur Partyka do Atlanty w 1996 roku wybrał się po olimpijskie złoto, Charles Austin plany miał jeszcze ambitniejsze. Jak tamten finał skoku wzwyż sprzed 30 lat, do dziś w historii igrzysk na poziomie najwyższym, wspominają jego bohaterowie?</description>
+      <pubDate>Tue, 28 Jul 2026 06:24:25 GMT</pubDate>
+      <guid isPermaLink="false">8ad66ede963b</guid>
+      <source url="https://tvn24.pl/swiat/artur-partyka-po-30-latach-wraca-do-finalu-olimpijskiego-w-atlancie-jak-on-i-charles-austin-wspominaja-konkurs-st9155915?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Infantino: Gdy oni świętowali, wy byliście zajęci sianiem ziaren nienawiści</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/211c54bb891d</link>
-      <description>Prezydent FIFA Gianni Infantino ostro odpowiedział krytykom ostatnich mistrzostw świata, zarzucając im, że skupili się na negatywnych aspektach turnieju i nie dostrzegli radości oraz atmosfery jedności, jaką – jego zdaniem – mundial przyniósł kibicom na całym świecie.</description>
-      <pubDate>Mon, 27 Jul 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="false">211c54bb891d</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-infantino-gdy-oni-swietowali-wy-byliscie-zajeci-sianiem-ziar,nIdn,1011574">RMF24</source>
+      <title>Koniec załamania nastrojów w USA? Nowy sondaż pokazuje wyraźne odbicie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6104bf1ffe75</link>
+      <description>Nastroje gospodarcze w Stanach Zjednoczonych poprawiły się po majowym spadku do najniższego poziomu od lat. Większość Amerykanów wciąż jednak ocenia sytuację pesymistycznie, głównie z powodu rosnących cen energii związanych z konfliktem zbrojnym z udziałem Iranu.</description>
+      <pubDate>Tue, 28 Jul 2026 06:22:00 GMT</pubDate>
+      <guid isPermaLink="false">6104bf1ffe75</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Koniec-zalamania-nastrojow-w-USA-Nowy-sondaz-pokazuje-wyrazne-odbicie-9174083.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Rumunia. Rekordowo niski poziom w Dunaju. Reaktor jądrowy zostanie wyłączony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a7d9499a3240</link>
-      <description>Rumunia zmaga się ze skutkami suszy. Z powodu rekordowo niskiego poziomu wody w Dunaju prewencyjnie zostanie wyłączony jeden z reaktorów elektrowni atomowej.</description>
-      <pubDate>Mon, 27 Jul 2026 19:48:40 GMT</pubDate>
-      <guid isPermaLink="false">a7d9499a3240</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/rumunia-rekordowo-niski-poziom-w-dunaju-reaktor-jadrowy-zostanie-wylaczony-st9161510?source=rss">TVN24</source>
+      <title>Z boiska na ekran. Cristiano Ronaldo producentem i aktorem w nowym serialu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/05638d632dcb</link>
+      <description>Cristiano Ronaldo nie zwalnia tempa – po mundialu czas na serial. Według brytyjskiego dziennika „The Sun” legendarny piłkarz nie tylko zostanie producentem, ale ma również pojawić się na ekranie w nowej produkcji „Day 1s”. W obsadzie także Damian Lewis, Thierry Henry i raper Dave.</description>
+      <pubDate>Tue, 28 Jul 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="false">05638d632dcb</guid>
+      <source url="https://www.rmf24.pl/fakty/kultura/news-z-boiska-na-ekran-cristiano-ronaldo-producentem-i-aktorem-w-,nIdn,1011600">RMF24</source>
     </item>
     <item>
-      <title>Zamiast referendum – niszczarki. Koniec próby odwołania władz Radomia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aca8cbf5eb8c</link>
-      <description>Nie będzie referendum ws. odwołania Rady Miejskiej i prezydenta Radomia Radosława Witkowskiego. Inicjatorom referendum nie udało się zebrać wymaganej liczby 15 035 podpisów pod wnioskiem. Prezydent skomentował, że nie traktuje tej informacji jako powodu do triumfu.</description>
-      <pubDate>Mon, 27 Jul 2026 19:45:00 GMT</pubDate>
-      <guid isPermaLink="false">aca8cbf5eb8c</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-zamiast-referendum-niszczarki-koniec-proby-odwolania-wladz-r,nIdn,1011573">RMF24</source>
+      <title>To oni pobili ukraińską parę we Wrocławiu. Wśród zatrzymanych zawodnik MMA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/94e5f19c4cf7</link>
+      <description>Zatrzymani w sprawie pobicia we Wrocławiu ukraińskiej pary to Adam C. ps. Cycu, gangster z więzienną przeszłością, bokser walczący na gołe pięści oraz pseudokibic, walczący w MMA - napisała we wtorek „Gazeta Wyborcza”.</description>
+      <pubDate>Tue, 28 Jul 2026 06:19:00 GMT</pubDate>
+      <guid isPermaLink="false">94e5f19c4cf7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/To-oni-pobili-ukrainska-pare-we-Wroclawiu-Wsrod-zatrzymanych-zawodnik-MMA-9174064.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Trump: nie powinno tak być</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/718d2ba6ac36</link>
-      <description>W środę amerykańska Rezerwa Federalna ogłosi decyzję w sprawie stóp procentowych. Donald Trump już wywiera presję na decydentów, czyli Radę Gubernatorów i nowego prezesa Kevina Warsha.</description>
-      <pubDate>Mon, 27 Jul 2026 19:37:42 GMT</pubDate>
-      <guid isPermaLink="false">718d2ba6ac36</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/trump-nie-powinno-tak-byc-st9161500?source=rss">TVN24</source>
+      <title>Kulisy inwestycji BYD na Węgrzech. Rząd miał zaoferować wysokie dopłaty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/646a44342e7a</link>
+      <description>Rząd byłego premiera Węgier Viktora Orbana obiecał chińskiej firmie BYD produkującej samochody wsparcie finansowe oraz wyraził zgodę na sprowadzenie do kraju ok. 10 tys. pracowników zagranicznych – poinformował w poniedziałek w nagraniu opublikowanym na Facebooku sekretarz stanu w węgierskim MSZ, Gyorgy Laszlo Velkey.</description>
+      <pubDate>Tue, 28 Jul 2026 06:15:00 GMT</pubDate>
+      <guid isPermaLink="false">646a44342e7a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Kulisy-inwestycji-BYD-na-Wegrzech-Rzad-mial-zaoferowac-wysokie-doplaty-9174059.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Nowe fakty ws. strzelaniny w Seattle. Zatrzymano 15-latka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/670a1f753327</link>
-      <description>Trzy osoby nie żyją, a cztery zostały ranne, w tym dwuletni chłopiec – to najnowszy, tragiczny bilans niedzielnej strzelaniny w Seattle, która miała miejsce podczas festiwalu kulinarnego. Policja zatrzymała 15-latka podejrzanego o udział w ataku, drugi sprawca wciąż jest poszukiwany.</description>
-      <pubDate>Mon, 27 Jul 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="false">670a1f753327</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-nowe-fakty-ws-strzelaniny-w-seattle-zatrzymano-15-latka,nIdn,1011572">RMF24</source>
+      <title>„Polskie Monte Carlo”. Nad Bałtykiem szykuje się nowy rekord</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/abd7e4707ecf</link>
+      <description>Polskie wybrzeże cieszy się coraz większą popularnością wśród turystów z Czech. Nasi południowi sąsiedzi chwalą szerokie plaże, dobrą kuchnię czy możliwość aktywnego wypoczynku. Wśród kurortów cenionych przez Czechów znalazł się m.in. Sopot, który bywa określany mianem „polskiego Monte Carlo”. Sezon 2026 może się okazać rekordowy pod względem liczby czeskich turystów nad Bałtykiem.</description>
+      <pubDate>Tue, 28 Jul 2026 06:11:00 GMT</pubDate>
+      <guid isPermaLink="false">abd7e4707ecf</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-polskie-monte-carlo-nad-baltykiem-szykuje-sie-nowy-rekord,nIdn,1011598">RMF24</source>
     </item>
     <item>
-      <title>Wildfires &apos;stark reminder&apos; of extreme climate challenge, says William </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a17f4cb397c</link>
-      <description>The prince&apos;s warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat.</description>
-      <pubDate>Mon, 27 Jul 2026 19:30:25 GMT</pubDate>
-      <guid isPermaLink="false">7a17f4cb397c</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>145 miliardów złotych już pracuje w Polsce. Rząd szykuje dwa ostatnie wnioski </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/83db704d57e0</link>
+      <description>Łącznie w ramach Krajowego Planu Odbudowy w Polsce pracuje już 145 mld zł. Z części grantowej spłynęło dotąd 61 mld zł, natomiast z części pożyczkowej – 84 mld zł - poinformował w rozmowie z „Dziennikiem Gazetą Prawną wiceminister funduszy i polityki regionalnej Jan Szyszko.</description>
+      <pubDate>Tue, 28 Jul 2026 06:11:00 GMT</pubDate>
+      <guid isPermaLink="false">83db704d57e0</guid>
+      <source url="https://www.bankier.pl/wiadomosc/145-miliardow-zlotych-juz-pracuje-w-Polsce-Rzad-szykuje-dwa-ostatnie-wnioski-9174065.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Polska Grupa Górnicza zachęca do wcześniejszego zakupu węgla</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d1b60410ee8c</link>
-      <description>Polska Grupa Górnicza poinformowała, że w jej sklepie internetowym najbliższe terminy realizacji nowych zamówień węgla przypadają obecnie na wrzesień. Spółka zachęca klientów, aby nie odkładali zakupu opału na ostatnią chwilę, ponieważ wcześniejsze zamówienie gwarantuje rezerwację wybranego produktu i dostawę zgodnie z harmonogramem.</description>
-      <pubDate>Mon, 27 Jul 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="false">d1b60410ee8c</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-polska-grupa-gornicza-zacheca-do-wczesniejszego-zakupu-wegla,nIdn,1011561">RMF24</source>
+      <title>Kto liderem prawicy po rozłamie w PiS? To on depcze Kaczyńskiemu po piętach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b64fc98b9252</link>
+      <description>Czy Jarosław Kaczyński utrzyma pozycję lidera prawicy? Nowy sondaż Instytutu Badań Pollster dla „Super Expressu” pokazuje, jak Polacy widzą przyszłość polityczną po możliwym rozłamie w Prawie i Sprawiedliwości.</description>
+      <pubDate>Tue, 28 Jul 2026 06:09:00 GMT</pubDate>
+      <guid isPermaLink="false">b64fc98b9252</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-kto-liderem-prawicy-po-rozlamie-w-pis-to-on-depcze-kaczynski,nIdn,1011599">RMF24</source>
     </item>
     <item>
-      <title>Afera na samej górze w MSZ. Dyplomaci przywłaszczyli miliony na obronę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/11d12924e20e</link>
-      <description>Ukraińskie organy antykorupcyjne wykryły grupę przestępczą, która przywłaszczyła równowartość ponad 1,2 mln dolarów, przekazanych przez zagranicznych darczyńców na obronę Ukrainy przed Rosją. Na czele grupy stał wysoki urzędnik MSZ w Kijowie, a jej uczestnikami są ukraińscy dyplomaci.</description>
-      <pubDate>Mon, 27 Jul 2026 19:27:00 GMT</pubDate>
-      <guid isPermaLink="false">11d12924e20e</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Afera-na-samej-gorze-w-MSZ-Dyplomaci-przywlaszczyli-miliony-na-obrone-9174016.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Krzysztof Gawkowski: nie wierzę w żadne szczere intencje Jarosława Kaczyńskiego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f8d1b5fe06de</link>
+      <description>Mamy do czynienia z agonią PiS-u - ocenił w &quot;Jeden na jeden&quot; wicepremier i minister cyfryzacji Krzysztof Gawkowski (Lewica). Komentował też słowa Jacka Kurskiego, który w zbliżonej do PiS telewizji atakował byłego premiera.</description>
+      <pubDate>Tue, 28 Jul 2026 06:07:36 GMT</pubDate>
+      <guid isPermaLink="false">f8d1b5fe06de</guid>
+      <source url="https://tvn24.pl/polska/krzysztof-gawkowski-nie-wierze-w-zadne-szczere-intencje-jaroslawa-kaczynskiego-st9161628?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Reform UK reporting Green leader Zack Polanski to police over Instagram post</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9dbc0a45b910</link>
-      <description>The post included a photo of a man wearing a top featuring the name &quot;Nigel&quot; alongside an image of a guillotine.</description>
-      <pubDate>Mon, 27 Jul 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="false">9dbc0a45b910</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Tragedia na pasach, kierowca uciekł. Apel policji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/94e9f49fa18c</link>
+      <description>Śmiertelny wypadek na przejściu dla pieszych w Suwałkach. Mężczyzna został potrącony przez samochód osobowy. Kierowca uciekł, szuka go policja.</description>
+      <pubDate>Tue, 28 Jul 2026 06:06:28 GMT</pubDate>
+      <guid isPermaLink="false">94e9f49fa18c</guid>
+      <source url="https://tvn24.pl/bialystok/suwalki-tragedia-na-pasach-kierowca-uciekl-apel-policji-st9161618?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Były prezydent Ukrainy zmienił nazwisko i opływa w luksusy w Soczi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/94cc7973532d</link>
-      <description>Według śledztwa dziennikarskiego, były prezydent Ukrainy, Wiktor Janukowycz, od lat posługuje się nową tożsamością – znany jest obecnie jako Oleg Leonow. Mieszka w ogromnej rezydencji w Soczi, a jego rodzina posiada znaczący majątek w samej Rosji.</description>
-      <pubDate>Mon, 27 Jul 2026 19:25:00 GMT</pubDate>
-      <guid isPermaLink="false">94cc7973532d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-byly-prezydent-ukrainy-zmienil-nazwisko-i-oplywa-w-luksusy-w,nIdn,1011569">RMF24</source>
+      <title>8 369 zł bez studiów i specjalizacji. W sierpniu wyższe wypłaty dla pielęgniarek i opiekunów medycznych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d414e6b05601</link>
+      <description>Zgodnie z ustawą o wynagrodzeniach w ochronie zdrowia w drugiej połowie roku wzrosły minimalne płace medyków. A to oznacza, że w sierpniu na konta m. in. pielęgniarek, położnych i opiekunów medycznych trafią wypłaty pierwszych wyższych pensji. W przypadku pielęgniarek i położnych pensja zależy od zaszeregowania do jednej z trzech grup w tabeli płac. Część personelu może liczyć nawet na 931 zł podwyżki.</description>
+      <pubDate>Tue, 28 Jul 2026 06:03:00 GMT</pubDate>
+      <guid isPermaLink="false">d414e6b05601</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/8-369-zl-bez-studiow-i-specjalizacji-W-sierpniu-wyzsze-wyplaty-dla-pielegniarek-i-opiekunow-medycznych,287129,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Biały Dom ogłasza sukces. &quot;Najlepszy start w historii rządu&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0555c82e10d9</link>
-      <description>Do Trump Accounts zapisano już siedem milionów dzieci. Te urodzone w USA w latach 2025-2028 mają otrzymać od państwa po tysiąc dolarów. Biały Dom już ogłasza sukces programu.</description>
-      <pubDate>Mon, 27 Jul 2026 19:20:56 GMT</pubDate>
-      <guid isPermaLink="false">0555c82e10d9</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/najlepszy-start-w-historii-rzadu-bialy-dom-oglasza-sukces-st9161481">TVN24</source>
+      <title>Sejm zagłosuje ws. wicemarszałka z PiS? Czarzasty: Nie planuję wprowadzenia zmian</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5e1299824540</link>
+      <description>Które ugrupowanie powinno obsadzić stanowisko wicemarszałka Sejmu? Czy ta funkcja powinna trafić do polityka nowego ugrupowania Mateusza Morawieckiego? A może wicemarszałkiem Sejmu powinien zostać przedstawiciel Unii Centrum? Kandydatem PiS na to stanowisko został Marcin Ociepa. Kiedy odbędzie się głosowanie w tej sprawie?  Gościem Porannej rozmowy w RMF FM będzie Włodzimierz Czarzasty, marszałek Sejmu i przewodniczący Nowej Lewicy.</description>
+      <pubDate>Tue, 28 Jul 2026 06:02:00 GMT</pubDate>
+      <guid isPermaLink="false">5e1299824540</guid>
+      <source url="https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-sejm-zaglosuje-ws-wicemarszalka-z-pis-czarzasty-nie-planuje-,nIdn,1011535">RMF24</source>
     </item>
     <item>
-      <title>&quot;Najlepszy start w historii rządu&quot;. Biały Dom ogłasza sukces</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2dd22730852d</link>
-      <description>Do Trump Accounts zapisano już siedem milionów dzieci. Te urodzone w USA w latach 2025-2028 mają otrzymać od państwa po tysiąc dolarów. Biały Dom już ogłasza sukces programu.</description>
-      <pubDate>Mon, 27 Jul 2026 19:20:56 GMT</pubDate>
-      <guid isPermaLink="false">2dd22730852d</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/najlepszy-start-w-historii-rzadu-bialy-dom-oglasza-sukces-st9161481?source=rss">TVN24</source>
+      <title>Konflikt wokół Iranu uderza w nastroje Amerykanów. Rosną obawy o gospodarkę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ede56fec5230</link>
+      <description>Po majowym załamaniu nastroje gospodarcze w USA odbiły, jednak większość Amerykanów wciąż negatywnie ocenia stan gospodarki. Na obawy wpływają przede wszystkim wyższe ceny energii związane z konfliktem wokół Iranu.</description>
+      <pubDate>Tue, 28 Jul 2026 06:00:41 GMT</pubDate>
+      <guid isPermaLink="false">ede56fec5230</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/usa-wiekszosc-obywateli-nadal-negatywnie-ocenia-sytuacje-gospodarcza-st9161600?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Trump: Powinniśmy mieć najniższe stopy procentowe na świecie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c56c358b5859</link>
-      <description>W USA powinny obowiązywać najniższe stopy procentowe na świecie - oświadczył w poniedziałek prezydent tego kraju Donald Trump. W środę Fed ma ogłosić decyzję w sprawie wysokości stawek.</description>
-      <pubDate>Mon, 27 Jul 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="false">c56c358b5859</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-powinnismy-miec-najnizsze-stopy-procentowe-na-swiecie-9174014.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>MacBook Ultra: wszystko co wiemy o nowym, najmocniejszym, laptopie Apple</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/63a5004bf369</link>
+      <description>Apple ma w pocie czoła pracować nad nowym rozdziałem w historii MacBooków. Co już teraz wiadomo na temat MacBooka Ultra?</description>
+      <pubDate>Tue, 28 Jul 2026 06:00:41 GMT</pubDate>
+      <guid isPermaLink="false">63a5004bf369</guid>
+      <source url="https://antyweb.pl/macbook-ultra-wszystko-co-wiemy-o-nowym-najmocniejszym-laptopie-apple">Antyweb</source>
     </item>
     <item>
-      <title>5th Circuit blocks Texas law requiring websites to filter &quot;harmful&quot; speech</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0b831b7e35ba</link>
-      <description>Age verification is okay, but filtering is preempted by Section 230, judges find.</description>
-      <pubDate>Mon, 27 Jul 2026 19:18:02 GMT</pubDate>
-      <guid isPermaLink="false">0b831b7e35ba</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/">Ars Technica</source>
+      <title>Sądny wtorek na Nowogrodzkiej. Morawiecki: Jeżeli zostaniemy wyrzuceni, założymy własny klub</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bdd902e6b399</link>
+      <description>Mateusz Morawiecki zapowiedział, że we wtorek wieczorem - po posiedzeniu Komitetu Politycznego PiS - odbędzie się spotkanie stowarzyszenia „Rozwój Plus”. Zadeklarował, że w przypadku usunięcia członków stowarzyszenia z PiS, założą oni klub parlamentarny.</description>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bdd902e6b399</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Sadny-wtorek-na-Nowogrodzkiej-Morawiecki-Jezeli-zostaniemy-wyrzuceni-zalozymy-wlasny-klub-9174035.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Nadchodzi największy rywal Starlinka. Amazon ujawnia kosmiczny plan</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d302020a7ee</link>
-      <description>Amazon szykuje &quot;kosmiczną&quot; ofensywę, która ma zagrozić dominacji Starlinka nad naszymi głowami.</description>
-      <pubDate>Mon, 27 Jul 2026 19:15:19 GMT</pubDate>
-      <guid isPermaLink="false">1d302020a7ee</guid>
-      <source url="https://antyweb.pl/nadchodzi-najwiekszy-rywal-starlinka-amazon-ujawnia-kosmiczny-plan">Antyweb</source>
+      <title>Nowy klub, nowe pokoje, nowe układy. Sejm gotowy na polityczne przemeblowanie?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b13276dedbb3</link>
+      <description>Dwa akty prawne są niezbędne, by Kancelaria Sejmu zajęła się zreorganizowaniem funkcjonowania parlamentu po tym, jak doszło do rozłamu w PiS-ie. Prawdopodobne jest, że już niedługo powstanie nowy klub parlamentarny, dla którego trzeba będzie wygospodarować m.in. pomieszczenia sejmowe czy miejsca w komisjach.</description>
+      <pubDate>Tue, 28 Jul 2026 05:59:00 GMT</pubDate>
+      <guid isPermaLink="false">b13276dedbb3</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-nowy-klub-nowe-pokoje-nowe-uklady-sejm-gotowy-na-polityczne-,nIdn,1011546">RMF24</source>
     </item>
     <item>
-      <title>Była wiceminister zdrowia Anna Knysok nie żyje     </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e6bc2372c1a2</link>
-      <description>Anna Knysok, była posłanka i wiceminister zdrowia w rządzie Jerzego Buzka, zmarła w wieku 75 lat.  Była współautorką reformy ochrony zdrowia wprowadzającej kasy chorych.</description>
-      <pubDate>Mon, 27 Jul 2026 19:09:32 GMT</pubDate>
-      <guid isPermaLink="false">e6bc2372c1a2</guid>
-      <source url="https://tvn24.pl/polska/anna-knysok-nie-zyje-byla-wiceminister-zdrowia-miala-75-lat-st9161497?source=rss">TVN24</source>
+      <title>Działki budowlane za pół ceny. Wyjątkowy program dla osób przed 40-tką</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d1da4d9e1944</link>
+      <description>Suwałki ruszają do walki z odpływem młodych mieszkańców i oferują działki budowlane za pół ceny. We wrześniu pod młotek trafią atrakcyjne parcele przy ulicy Zastawie. Z 50-procentowej bonifikaty skorzystają single i małżeństwa przed czterdziestką. Poznaj nowe zasady programu i dowiedz się, jak wziąć udział w licytacji.</description>
+      <pubDate>Tue, 28 Jul 2026 05:58:00 GMT</pubDate>
+      <guid isPermaLink="false">d1da4d9e1944</guid>
+      <source url="https://www.rmf24.pl/regiony/bialystok/news-dzialki-budowlane-za-pol-ceny-wyjatkowy-program-dla-osob-prz,nIdn,1011597">RMF24</source>
     </item>
     <item>
-      <title>Kolejny parlamentarzysta ulega ultimatum. „Przekona się, że to był błąd”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/516dae8bf85d</link>
-      <description>Związany z inicjatywą „Rozwój Plus” poseł Grzegorz Lorek odszedł ze stowarzyszenia Mateusza Morawieckiego i podpisał deklarację wymaganą przez kierownictwo PiS. Nie będziemy krytykować kolegi – mówią PAP politycy ze stowarzyszenia.</description>
-      <pubDate>Mon, 27 Jul 2026 19:09:00 GMT</pubDate>
-      <guid isPermaLink="false">516dae8bf85d</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kolejny-parlamentarzysta-ulega-ultimatum-Przekona-sie-ze-to-byl-blad-9174010.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Tak mówili w PiS o Mateuszu Morawieckim. &quot;Jakby był trochę inaczej skonstruowany&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/945a9bb7340f</link>
+      <description>Mateusz Morawiecki był wicepremierem, a potem przez lata premierem wskazanym i wspieranym przez Jarosława Kaczyńskiego - jest także wiceprzewodniczącym Prawa i Sprawiedliwości. Jak to się stało, że był tak dobry, by robić w partii karierę, a teraz stał się tak zły? Materiał Łukasza Wieczorka z magazynu &quot;Polska i Świat&quot;.</description>
+      <pubDate>Tue, 28 Jul 2026 05:55:25 GMT</pubDate>
+      <guid isPermaLink="false">945a9bb7340f</guid>
+      <source url="https://tvn24.pl/polska/tak-mowili-w-pis-o-mateuszu-morawieckim-jakby-byl-troche-inaczej-skonstruowany-st9161563?source=rss">TVN24</source>
     </item>
     <item>
-      <title>To najzdrowsza kawa dla serca. Kardiolodzy wskazali: nawet 5 filiżanek dziennie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bd4c0a2bab16</link>
-      <description>Do pięciu filiżanek kawy dziennie może być bezpieczne dla większości zdrowych dorosłych – wynika z nowego stanowiska American Heart Association. Eksperci wskazują, że regularne picie czarnej kawy wiąże się z niższym ryzykiem niektórych chorób sercowo-naczyniowych, ale zaznaczają, że nie dotyczy to wszystkich napojów zawierających kofeinę.</description>
-      <pubDate>Mon, 27 Jul 2026 19:03:00 GMT</pubDate>
-      <guid isPermaLink="false">bd4c0a2bab16</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/To-najzdrowsza-kawa-dla-serca-Kardiolodzy-wskazali-nawet-5-filizanek-dziennie,287120,9.html">Rynek Zdrowia</source>
+      <title>„Dramatyczny finał”. Ryszard Terlecki o kulisach rozpadu PiS</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/756ab9eceb52</link>
+      <description>Konflikt wewnątrz Prawa i Sprawiedliwości nasilał się od jesieni zeszłego roku – napisał w Kurierze Krakowskim Ryszard Terlecki . Wieloletni bliski współpracownik prezesa PiS, obecnie związany ze stowarzyszeniem „Rozwój Plus” Mateusza Morawieckiego znalazł się wśród posłów PiS, którzy nie podpisali tzw. „lojalki”. Teraz ujawnił, jak doszło do rozpadu partii.</description>
+      <pubDate>Tue, 28 Jul 2026 05:53:00 GMT</pubDate>
+      <guid isPermaLink="false">756ab9eceb52</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-dramatyczny-final-ryszard-terlecki-o-kulisach-rozpadu-pis,nIdn,1011591">RMF24</source>
     </item>
     <item>
-      <title>„Ktoś wrzucił na X cały film &apos;Odyseja&apos;”. Miliony obejrzały nielegalną kopię</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da32cb2335c9</link>
-      <description>W sieci pojawiła się wysokiej jakości nielegalna kopia filmu „Odyseja” w reżyserii Christophear Nolan. W ciągu kilku godzin od publikacji na platformie X obejrzały ją miliony internautów, zanim została usunięta. Studio Universal Pictures zapowiada zdecydowaną walkę z piractwem.</description>
-      <pubDate>Mon, 27 Jul 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="false">da32cb2335c9</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-ktos-wrzucil-na-x-caly-film-odyseja-miliony-obejrzaly-nieleg,nIdn,1011566">RMF24</source>
+      <title>Schools to offer technical subjects to pupils from age 14, Burnham says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/74f532f6cbdd</link>
+      <description>The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.</description>
+      <pubDate>Tue, 28 Jul 2026 05:52:51 GMT</pubDate>
+      <guid isPermaLink="false">74f532f6cbdd</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Rosja uderza w migrantów. Nawet 12 razy drożej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3e365eeafec6</link>
-      <description>Rosja podnosi opłaty dla imigrantów. Uzyskanie obywatelstwa czy prawa stałego pobytu znacznie podrożeje. A to nie koniec podwyżek.</description>
-      <pubDate>Mon, 27 Jul 2026 18:53:45 GMT</pubDate>
-      <guid isPermaLink="false">3e365eeafec6</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/nawet-12-razy-wiecej-rosja-wprowadza-nowe-przepisy-dla-cudzoziemcow-st9161434">TVN24</source>
+      <title>Nie żyje legenda Solidarności. Zdzisław Maszkiewicz odszedł w wieku 75 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9548ad460f3e</link>
+      <description>Nie żyje Zdzisław Maszkiewicz, wieloletni przewodniczący „Solidarności” Ziemi Radomskiej oraz były senator. Ostatnie pożegnanie zasłużonego działacza odbędzie się w czwartek, 30 lipca, w Pionkach koło Radomia. Maszkiewicz miał 75 lat.</description>
+      <pubDate>Tue, 28 Jul 2026 05:50:00 GMT</pubDate>
+      <guid isPermaLink="false">9548ad460f3e</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-nie-zyje-legenda-solidarnosci-zdzislaw-maszkiewicz-odszedl-w,nIdn,1011596">RMF24</source>
     </item>
     <item>
-      <title>Nawet 12 razy więcej. Rosja wprowadza nowe przepisy dla cudzoziemców</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/604f89e5bdc6</link>
-      <description>Rosja podnosi opłaty dla imigrantów. Uzyskanie obywatelstwa czy prawa stałego pobytu znacznie podrożeje. A to nie koniec podwyżek.</description>
-      <pubDate>Mon, 27 Jul 2026 18:53:45 GMT</pubDate>
-      <guid isPermaLink="false">604f89e5bdc6</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/nawet-12-razy-wiecej-rosja-wprowadza-nowe-przepisy-dla-cudzoziemcow-st9161434?source=rss">TVN24</source>
+      <title>Kontroler NFZ przyjdzie bez uprzedzenia. Fundusz chce zatrudniać lekarzy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/84b3f10d012d</link>
+      <description>Szeregi kontrolerów NFZ mają zasilić lekarze. Teraz ich brakuje, a nadzór nad budżetem przekraczającym 200 mld zł jest niewystarczający. To ma się zmienić. Fundusz chce zatrudnić około 480 dodatkowych osób, z czego aż 432 zasilić mają pion kontrolny. Nowością jest to, że kontroler będzie mógł przyjść bez uprzedzenia.</description>
+      <pubDate>Tue, 28 Jul 2026 05:47:00 GMT</pubDate>
+      <guid isPermaLink="false">84b3f10d012d</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Kontroler-NFZ-przyjdzie-bez-uprzedzenia-Fundusz-chce-zatrudniac-lekarzy,287135,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>NASA Astronaut Chris Williams to Discuss Space Station Mission</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8a3349fd25d</link>
-      <description>NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT</description>
-      <pubDate>Mon, 27 Jul 2026 18:49:20 GMT</pubDate>
-      <guid isPermaLink="false">b8a3349fd25d</guid>
-      <source url="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/">NASA Breaking News</source>
+      <title>Czworo dzieci na desce, bez kamizelek, setki metrów od brzegu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3944c136c53b</link>
+      <description>Czworo dzieci wypłynęło na wody Zatoki Gdańskiej na desce SUP. Nie miały kamizelek ratunkowych. Dryfowały w kierunku toru podejściowego do portu. Interweniowali strażnicy miejscy.</description>
+      <pubDate>Tue, 28 Jul 2026 05:45:26 GMT</pubDate>
+      <guid isPermaLink="false">3944c136c53b</guid>
+      <source url="https://tvn24.pl/trojmiasto/zatoka-gdanska-dzieci-dryfowaly-na-desce-sup-st9161396?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Verizon touts $1B dark fiber deal for Google data centers as first of many</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/54a90216ab33</link>
-      <description>Telecom expects AI revenue from dark fiber deals and retrofitted data centers.</description>
-      <pubDate>Mon, 27 Jul 2026 18:48:41 GMT</pubDate>
-      <guid isPermaLink="false">54a90216ab33</guid>
-      <source url="https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/">Ars Technica</source>
+      <title>Jednego szuka już policja. Współoskarżeni z Żakiem nie stawili się do aresztu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d1c57b710e51</link>
+      <description>Dwóch współoskarżonych z Łukaszem Żakiem w głośnej sprawie śmiertelnego wypadku na Trasie Łazienkowskiej w Warszawie nie stawiło się do aresztu. Jednego z nich poszukuje policja, status drugiego z mężczyzn jest weryfikowany.</description>
+      <pubDate>Tue, 28 Jul 2026 05:40:00 GMT</pubDate>
+      <guid isPermaLink="false">d1c57b710e51</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-jednego-szuka-juz-policja-wspoloskarzeni-z-zakiem-nie-stawil,nIdn,1011593">RMF24</source>
     </item>
     <item>
-      <title>Co zobaczymy na tegorocznej defiladzie? Święto Wojska Polskiego już wkrótce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9b4a6436dc9d</link>
-      <description>Ministerstwo Obrony Narodowej opublikowało plan wydarzeń na 15 sierpnia – Święto Wojska Polskiego. Nie zabraknie m.in. defilady wojskowej, która kolejny raz przejedzie ulicami Warszawy.</description>
-      <pubDate>Mon, 27 Jul 2026 18:47:00 GMT</pubDate>
-      <guid isPermaLink="false">9b4a6436dc9d</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-co-zobaczymy-na-tegorocznej-defiladzie-swieto-wojska-polskie,nIdn,1011568">RMF24</source>
+      <title>Rozłam w PiS. Spory polityków mogą doprowadzić do podziałów w regionach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/daadcc96673f</link>
+      <description>W Warszawie konflikt w zenicie - w regionach również próbują odnaleźć się w nowej, rozłamowej rzeczywistości Prawa i Sprawiedliwości. Najtrudniej jest w Krakowie, bo to tamtejsze struktury, z kandydatem Michałem Drewnickim na czele, walczą o prezydenturę miasta.</description>
+      <pubDate>Tue, 28 Jul 2026 05:38:23 GMT</pubDate>
+      <guid isPermaLink="false">daadcc96673f</guid>
+      <source url="https://tvn24.pl/krakow/wplyw-rozlamu-w-pis-na-struktury-regionalne-komentarze-politykow-st9161572?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Rząd chce kontrolować stan zdrowia dzieci. Inaczej zasiłek przepadnie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c3a96c6c2f64</link>
-      <description>Wypłata zasiłku rodzinnego na dziecko do 3. roku życia ma zostać uzależniona od objęcia go regularną opieką medyczną. Taką zmianę przewiduje projekt nowelizacji ustawy o przeciwdziałaniu przemocy domowej, który trafił do konsultacji.</description>
-      <pubDate>Mon, 27 Jul 2026 18:45:00 GMT</pubDate>
-      <guid isPermaLink="false">c3a96c6c2f64</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Rzad-chce-kontrolowac-stan-zdrowia-dzieci-Inaczej-zasilek-przepadnie,287137,2.html">Rynek Zdrowia</source>
+      <title>Powrót upału na mapach IMGW. Gdzie będzie najcieplej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ac1cb99605c3</link>
+      <description>Do Polski zbliża się kolejna w tym roku fala ekstremalnych upałów. Według prognoz Instytutu Meteorologii i Gospodarki Wodnej temperatura w części kraju może sięgnąć 37 stopni Celsjusza. Sprawdź szczegóły.</description>
+      <pubDate>Tue, 28 Jul 2026 05:31:51 GMT</pubDate>
+      <guid isPermaLink="false">ac1cb99605c3</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-powrot-upalu-na-mapach-imgw-gdzie-bedzie-najcieplej-mapy-st9158515?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Self-contained highly-portable Python distributions</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/650ade3611f8</link>
-      <description>This project produces self-contained, highly-portable Python
-distributions. These Python distributions contain a fully-usable,
-full-featured Python installation: most extension modules from
-the Python standard library are present and their library
-dependencies are either distributed with the distribution or
-are statically linked.</description>
-      <pubDate>Mon, 27 Jul 2026 18:43:31 GMT</pubDate>
-      <guid isPermaLink="false">650ade3611f8</guid>
-      <source url="https://gregoryszorc.com/docs/python-build-standalone/main/">Hacker News</source>
+      <title>Zbrodnia, która wstrząsnęła Michigan. Cała rodzina nie żyje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d51f3de188e5</link>
+      <description>Wstrząsające wydarzenia w Grand Haven w stanie Michigan. 47-letni Kristopher Karolkiewicz zabił swoją żonę i sześcioro dzieci, a następnie podpalił dom i odebrał sobie życie. Policja wciąż bada motywy tej niewyobrażalnej tragedii.</description>
+      <pubDate>Tue, 28 Jul 2026 05:31:00 GMT</pubDate>
+      <guid isPermaLink="false">d51f3de188e5</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zbrodnia-ktora-wstrzasnela-michigan-cala-rodzina-nie-zyje,nIdn,1011590">RMF24</source>
     </item>
     <item>
-      <title>W sierpniu Netflix odpala prawdziwą bombę. Wraca hit, na który czekały miliony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9514df45b8cf</link>
-      <description>Jakie nowe filmy i seriale pojawią się na Netflix w sierpniu? Mamy pełną listę!</description>
-      <pubDate>Mon, 27 Jul 2026 18:41:50 GMT</pubDate>
-      <guid isPermaLink="false">9514df45b8cf</guid>
-      <source url="https://antyweb.pl/w-sierpniu-netflix-odpala-prawdziwa-bombe-wraca-hit-na-ktory-czekaly-miliony">Antyweb</source>
+      <title>Android Auto blokuje działanie popularnych funkcji. Kierowcy mają problem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5a4a8aafc131</link>
+      <description>Kolejny dzień, kolejne problemy z Android Auto. Tym razem kierowcy napotkali zupełnie nowy problem - i czekają na jego szybkie rozwiązanie.</description>
+      <pubDate>Tue, 28 Jul 2026 05:30:10 GMT</pubDate>
+      <guid isPermaLink="false">5a4a8aafc131</guid>
+      <source url="https://antyweb.pl/android-auto-blokuje-dzialanie-popularnych-funkcji-kierowcy-maja-problem">Antyweb</source>
     </item>
     <item>
-      <title>Bili bez litości parę Ukraińców. Złapali ich wrocławscy policjanci</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2f1879efce89</link>
-      <description>Policjanci zatrzymali dwóch mężczyzn podejrzewanych o udział w brutalnym pobiciu obywateli Ukrainy. „Mężczyźni byli notowani” – poinformował szef MSWiA Marcin Kierwiński. Do pobicia 20-latki i rok od niej starszego mężczyzny doszło w niedzielę na ul. Okulickiego we Wrocławiu.</description>
-      <pubDate>Mon, 27 Jul 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="false">2f1879efce89</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-bili-bez-litosci-pare-ukraincow-zlapali-ich-wroclawscy-polic,nIdn,1011567">RMF24</source>
+      <title>Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33d1bfea6f83</link>
+      <description>First English translations of historical Hebrew and Latin works in astronomy, cosmology, and natural philosophy.</description>
+      <pubDate>Tue, 28 Jul 2026 05:25:34 GMT</pubDate>
+      <guid isPermaLink="false">33d1bfea6f83</guid>
+      <source url="https://arsastronomica.com/">Hacker News</source>
     </item>
     <item>
-      <title>Experts warn current Starship heat shield tech is a &quot;dead end&quot; for rapid reuse</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba19c9ca7371</link>
-      <description>NASA has not made substantial investments in thermal protection research for decades.</description>
-      <pubDate>Mon, 27 Jul 2026 18:34:40 GMT</pubDate>
-      <guid isPermaLink="false">ba19c9ca7371</guid>
-      <source url="https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/">Ars Technica</source>
+      <title>Dwulatek zaginął w polu kukurydzy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f61322e4720b</link>
+      <description>2-letni chłopiec oddalił się od opiekunów i wbiegł w pobliskie pole kukurydzy. Rodzice próbowali odnaleźć chłopca na własną rękę, sprawdzając okoliczny teren. Kiedy nie udało się odnaleźć dziecka, o jego zaginięciu powiadomili służby ratunkowe. Do tej niebezpiecznej sytuacji, której finał na szczęście był pozytywny, doszło w gminie Jerzmanowa leży w województwie dolnośląskim.</description>
+      <pubDate>Tue, 28 Jul 2026 05:20:00 GMT</pubDate>
+      <guid isPermaLink="false">f61322e4720b</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-dwulatek-zaginal-w-polu-kukurydzy,nIdn,1011587">RMF24</source>
     </item>
     <item>
-      <title>Człowiek Morawieckiego: Nie wierzę, że Kurski poszedł tam sam. To, co się wydarzyło, obciąża PiS</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d8483b23e99a</link>
-      <description>Nie chodzi się do ważnych programów bez rekomendacji biura prasowego, więc nie wierzę, że Jacek Kurski poszedł tam sam - powiedział w &quot;Faktach po Faktach&quot; w TVN24 członek stowarzyszenia Rozwój Plus Mateusza Morawieckiego Krzysztof Szczucki. Tak skomentował słowa Kurskiego, który w  zbliżonej do PiS telewizji atakował byłego premiera.</description>
-      <pubDate>Mon, 27 Jul 2026 18:33:00 GMT</pubDate>
-      <guid isPermaLink="false">d8483b23e99a</guid>
-      <source url="https://tvn24.pl/polska/krzysztof-szczucki-komentuje-wywiad-jacka-kurskiego-nie-wierze-ze-poszedl-tam-sam-to-co-sie-wydarzylo-obciaza-pis-st9161468?source=rss">TVN24</source>
+      <title>14-latka jechała hulajnogą bez kasku, za to z koleżanką. Przewróciły się i trafiły do szpitala</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/79f01466ee74</link>
+      <description>W Myszyńcu niedaleko Ostrołęki doszło do wypadku z udziałem 14-latek jadących na jednej hulajnodze elektrycznej. Nie miały założonych kasków, trafiły do szpitala.</description>
+      <pubDate>Tue, 28 Jul 2026 05:14:00 GMT</pubDate>
+      <guid isPermaLink="false">79f01466ee74</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/ostroleka-jechala-hulajnoga-bez-kasku-przewrocila-sie-14-latka-i-jej-pasazerka-w-szpitalu-st9161438?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Tesla wygrała ważny spór. &quot;Roszczenia pozbawione podstaw&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f8d8231351f</link>
-      <description>Tesla wygrała w Wielkiej Brytanii spór dotyczący licencji na patenty 5G. Sprawa ma wrócić do sądu w Londynie.</description>
-      <pubDate>Mon, 27 Jul 2026 18:32:22 GMT</pubDate>
-      <guid isPermaLink="false">3f8d8231351f</guid>
-      <source url="https://tvn24.pl/biznes/tech/tesla-wygrala-wazny-spor-roszczenia-pozbawione-podstaw-st9161238?source=rss">TVN24</source>
+      <title>Chińczycy sprowadzą migrantów do Węgier. Zgodę wydał Orban</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b182d51f9a70</link>
+      <description>Rząd Viktora Orbana zobowiązał się do przekazania chińskiej firmie BYD ogromnego wsparcia finansowego oraz umożliwił sprowadzenie około 10 tysięcy pracowników zagranicznych do nowej fabryki samochodów w Segedynie. Informacje w tej sprawie przekazał w poniedziałek w nagraniu opublikowanym na Facebooku sekretarz stanu w węgierskim MSZ, Gyorgy Laszlo Velkey.</description>
+      <pubDate>Tue, 28 Jul 2026 05:14:00 GMT</pubDate>
+      <guid isPermaLink="false">b182d51f9a70</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-chinczycy-sprowadza-migrantow-do-wegier-zgode-wydal-orban,nIdn,1011588">RMF24</source>
     </item>
     <item>
-      <title>Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dd98f963f3b2</link>
-      <description>Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.</description>
-      <pubDate>Mon, 27 Jul 2026 18:32:11 GMT</pubDate>
-      <guid isPermaLink="false">dd98f963f3b2</guid>
-      <source url="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/">TechCrunch</source>
+      <title>On the front line of Ecuador&apos;s drugs war, police fight gangs, guns and corruption</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dc5e605ac35e</link>
+      <description>The BBC goes on patrol with Ecuador&apos;s police, who are grappling with a huge surge in drug crime.</description>
+      <pubDate>Tue, 28 Jul 2026 05:01:19 GMT</pubDate>
+      <guid isPermaLink="false">dc5e605ac35e</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Polacy biorą &quot;na wszelki wypadek&quot;. Lekarz: obrywa wątroba, są historie z uszkodzeniem nerek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7f936881866d</link>
-      <description>Odrobaczanie &quot;na wszelki wypadek&quot;? To błąd, który może kosztować zdrowie. Pediatra dr Łukasz Durajski w rozmowie z Rynkiem Zdrowia ostrzega: może prowadzić nawet do uszkodzenia wątroby.</description>
-      <pubDate>Mon, 27 Jul 2026 18:31:00 GMT</pubDate>
-      <guid isPermaLink="false">7f936881866d</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Polacy-biora-na-wszelki-wypadek-Lekarz-obrywa-watroba-sa-historie-z-uszkodzeniem-nerek,287139,6.html">Rynek Zdrowia</source>
+      <title>Samsung Galaxy S27 z ważną zmianą. Wielu przekona do zakupu nowego smartfona</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4268459577ad</link>
+      <description>Wygląda na to, że Samsung nareszcie wprowadzi zmiany, na które użytkownicy czekają od lat.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:03 GMT</pubDate>
+      <guid isPermaLink="false">4268459577ad</guid>
+      <source url="https://antyweb.pl/samsung-galaxy-s27-z-wazna-zmiana-wielu-przekona-do-zakupu-nowego-smartfona">Antyweb</source>
     </item>
     <item>
-      <title>Apple sued after alleged App Store crypto scam cost users $1.8M</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/59dbd8db3f85</link>
-      <description>Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.</description>
-      <pubDate>Mon, 27 Jul 2026 18:28:15 GMT</pubDate>
-      <guid isPermaLink="false">59dbd8db3f85</guid>
-      <source url="https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/">TechCrunch</source>
+      <title>Jeden ETF na 20 lat i wolność finansowa? “Najczęściej kupujemy po prostu historię”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d01ab9f4d9c7</link>
+      <description>Fundusze ETF rozpychają się w portfelach Polaków, kusząc wizją taniego i prostego inwestowania. Internetowi guru obiecują, że wystarczy jeden instrument, by po latach cieszyć się wolnością finansową, ale czy to naprawdę tak proste i który instrument wybrać? O największych mitach pasywnego inwestowania, ukrytych ryzykach i giełdowym pechu rozmawiamy z Arturem Wiśniewskim, założycielem portalu Stockbroker.pl.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d01ab9f4d9c7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Jeden-ETF-na-20-lat-i-wolnosc-finansowa-Najczesciej-kupujemy-po-prostu-historie-9172892.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>PiS w odwrocie, Morawiecki buduje własną siłę. Jest najnowszy sondaż</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a9cebaa7c3c3</link>
-      <description>Gdyby były premier Mateusz Morawiecki zdecydował się na utworzenie własnego ugrupowania Rozwój Plus, mógłby liczyć na 7,4 proc. poparcia w wyborach parlamentarnych – wynika z najnowszego sondażu IBRiS dla „Rzeczpospolitej”. Największe straty odnotowuje Prawo i Sprawiedliwość, natomiast Koalicja Obywatelska umacnia swoją pozycję lidera.</description>
-      <pubDate>Mon, 27 Jul 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="false">a9cebaa7c3c3</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-pis-w-odwrocie-morawiecki-buduje-wlasna-sile-jest-najnowszy-,nIdn,1011565">RMF24</source>
+      <title>Nowa fala zwolnień grupowych. Te regiony znalazły się w centrum redukcji etatów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25802eb711c5</link>
+      <description>Od ochrony zdrowia po finanse i przemysł – w czerwcu 2026 r. pracodawcy w większości województw zgłaszali do urzędów pracy zamiary przeprowadzenia zwolnień grupowych. W jednym przypadku procedura może objąć ponad 1,1 tys. pracowników. Sprawdziliśmy, w jakich regionach redukcje mają być największe.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">25802eb711c5</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zwolnienia-grupowe-w-Polsce-Wiadomo-gdzie-zaplanowano-najwieksze-redukcje-9173834.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Bytecode-to-Source Mapping</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d8790a693ebc</link>
-      <description>Compressing source-line metadata while preserving efficient bytecode lookups</description>
-      <pubDate>Mon, 27 Jul 2026 18:25:21 GMT</pubDate>
-      <guid isPermaLink="false">d8790a693ebc</guid>
-      <source url="https://tidefield.dev/bytecode-to-source-mapping/">Hacker News</source>
+      <title>Jak będzie wyglądał inwestor za 15 lat? Technologia zmieni rynek, ale nie podstawy inwestowania</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2187be44b6e7</link>
+      <description>Rozwój technologii, zmiana pokoleniowa oraz rosnące tempo życia bezpowrotnie zmieniają krajobraz rynków kapitałowych. Sebastian Zadora z Domu Maklerskiego BOŚ mówi o tym, jak będzie wyglądał profil inwestora za 10–15 lat oraz jak do tych zmian muszą dostosować się instytucje finansowe.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2187be44b6e7</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Jak-bedzie-wygladal-inwestor-za-15-lat-Technologia-zmieni-rynek-ale-nie-podstawy-inwestowania-9173759.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Mężczyźni podejrzewani o pobicie Ukraińców we Wrocławiu zatrzymani</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6180bc59ff5</link>
-      <description>Policja we Wrocławiu zatrzymała dwóch mężczyzn, którzy w niedzielę na ulicy Okulickiego we Wrocławiu mieli brutalnie pobić obywateli Ukrainy. Poszkodowani to 20-letnia Anastazja i 21-letni Maksym.</description>
-      <pubDate>Mon, 27 Jul 2026 18:19:13 GMT</pubDate>
-      <guid isPermaLink="false">b6180bc59ff5</guid>
-      <source url="https://tvn24.pl/wroclaw/wroclaw-mezczyzni-podejrzewani-o-pobicie-ukraincow-zatrzymani-st9161482?source=rss">TVN24</source>
+      <title>Kaucje: ile przeciętnie w ciągu roku Polak traci, jeśli nie zwraca pustych butelek?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/989c199658d3</link>
+      <description>System kaucyjny się rozwija, w sklepach i poza nimi stawianych jest coraz więcej butelkomatów. Jednak nie każdy ma ochotę przynosić do nich puste opakowania. Ile na takim zaniechaniu może stracić w ciągu roku? Eksperci wyliczyli konkretne kwoty.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">989c199658d3</guid>
+      <source url="https://www.bankier.pl/wiadomosc/System-kaucyjny-ile-przecietnie-w-ciagu-roku-Polak-traci-jesli-nie-zwraca-pustych-butelek-i-puszek-9173842.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Judge Rejects Google&apos;s Attempt to DMCA Its Way Out of Being Scraped</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f37839a72ca1</link>
-      <description>Back in December we called out Google for filing a DMCA 1201 lawsuit over companies scraping Google’s results. Almost everything about the lawsuit seemed problematic, not the least of which i…</description>
-      <pubDate>Mon, 27 Jul 2026 18:15:35 GMT</pubDate>
-      <guid isPermaLink="false">f37839a72ca1</guid>
-      <source url="https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/">Hacker News</source>
+      <title>Ranking lokat rocznych. Lider podnosi stawkę, konkurencja z obniżkami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e70201e6bdc1</link>
+      <description>Lipcowy ranking lokat rocznych przynosi umocnienie pozycji dotychczasowego lidera. Po podwyższeniu stawki przez Inbank najwyższe oprocentowanie depozytów 12-miesięcznych wzrosło do 4,15 proc. w skali roku. Oferty przebijające granicę 4 proc. w skali roku pozostają jednak rynkową rzadkością.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">e70201e6bdc1</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-12-miesieczne-lipiec-2026-r-Najlepsze-oferty-placa-do-4-15-9173810.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/22cdbedd34b9</link>
-      <description>Amazon is expanding its plans for providing satellite connectivity to mobile phones.</description>
-      <pubDate>Mon, 27 Jul 2026 18:08:29 GMT</pubDate>
-      <guid isPermaLink="false">22cdbedd34b9</guid>
-      <source url="https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/">TechCrunch</source>
+      <title>Policjant dzwoni z kamerą. Mundur ma uwiarygodnić oszustwo. Nowy scam!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3ade85702aa1</link>
+      <description>Oszuści podszywający się pod policjantów i pracowników banków sięgnęli po wideorozmowy. Pokazują mundur, straszą utratą oszczędności i namawiają do przelewu na „bezpieczne konto. Policja i FinCERT.pl przypominają: obraz z kamery nie potwierdza, kim naprawdę jest rozmówca.</description>
+      <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3ade85702aa1</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Policjant-dzwoni-z-kamera-Mundur-ma-uwiarygodnic-oszustwo-Nowy-scam-9173798.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
