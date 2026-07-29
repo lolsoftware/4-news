@@ -1,0 +1,13 @@
+{
+  "id": "e905aeca81dc",
+  "title": "OpenAI says its rogue AI tried to hack other companies",
+  "originalTitle": "OpenAI says its rogue AI tried to hack other companies",
+  "source": "BBC",
+  "category": "Świat",
+  "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-07-29T08:49:27.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"rich-text\" data-block=\"text\"><p><b>OpenAI has revealed a cyber-attack carried out by rogue ChatGPT agents went further than just one company.</b></p><p>Hugging Face was thought to be the only victim of the unprecedented hack - but OpenAI now admits its bot attacked several \"publicly-available services\". </p><p>The out-of-control AI found four logins online which allowed it to access four separate, unnamed services.</p><p>Meanwhile, in an emergency briefing with hundreds of cyber security professionals, Hugging Face has described what it was like to be on the receiving end of the world's first fully autonomous AI hack.</p><p>The firm described how the AI worked at superhuman speed but also made strange decisions and mistakes that no human hacker would have made.</p><p>Hugging Face, which is like an app store for AI tools, said the hacking agents worked relentlessly with thousands of different methods trialled simultaneously.</p><p>The company first revealed that <a href=\"https://huggingface.co/blog/security-incident-july-2026\">it had been hacked<span>, <!-- -->external</span></a> by someone using powerful autonomous AI on 16 July and reported it to police.</p><p>Nearly a week later, OpenAI <a href=\"https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o\">admitted it was its AI</a> that had escaped a closed environment and attacked Hugging Face on its own during a test. </p><p>It was trying to find the answers to a hacking exam it had been set by OpenAI, and targeted Hugging Face.</p><p>On Wednesday OpenAI updated its statement to include the extra detail that the hack went further than first thought. </p><p>\"The models identified and used publicly exposed credentials at the account-level on other publicly-available services. This includes four accounts on four services as part of the Hugging Face incident,\" the company said.</p><p>OpenAI did not respond to a request for clarity on whether \"publicly-available services\" means companies.</p></div></div>",
+  "image": "images/cce05a554d51.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
