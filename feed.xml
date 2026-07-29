@@ -5,8 +5,130 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:15:22 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uwagi od producentów rolnych, konieczność notyfikacji. Wyboista droga do ograniczenia dostępności alkoholu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b795cb69aaa0</link>
+      <description>Blisko rok prac nie wystarczył, żeby osiągnąć kompromis w sprawie przepisów ograniczających dostęp do alkoholu. Choć podkomisja rozpatrująca poselskie projekty w tej sprawie zakończyła prace i przedstawiła sprawozdanie, resort rolnictwa zgłosił wiele uwag do proponowanych przepisów. A znaczące zmiany powodują konieczność kolejnych notyfikacji przez Komisję Europejską.</description>
+      <pubDate>Wed, 29 Jul 2026 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">b795cb69aaa0</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Uwagi-od-producentow-rolnych-koniecznosc-notyfikacji-Wyboista-droga-do-ograniczenia-dostepnosci-alkoholu,287221,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd3a9a73777f</link>
+      <description>Weng previously served as the VP of AI Safety Research at OpenAI.</description>
+      <pubDate>Wed, 29 Jul 2026 21:07:48 GMT</pubDate>
+      <guid isPermaLink="false">cd3a9a73777f</guid>
+      <source url="https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/">TechCrunch</source>
+    </item>
+    <item>
+      <title>NASA Awards 2026 Innovative Technology Concepts</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a8e6a6eab58</link>
+      <description>The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging</description>
+      <pubDate>Wed, 29 Jul 2026 21:04:20 GMT</pubDate>
+      <guid isPermaLink="false">2a8e6a6eab58</guid>
+      <source url="https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Winamp aims for a comeback with a new music player powered by Deezer</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/85b682e18025</link>
+      <description>Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.</description>
+      <pubDate>Wed, 29 Jul 2026 21:02:12 GMT</pubDate>
+      <guid isPermaLink="false">85b682e18025</guid>
+      <source url="https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/">TechCrunch</source>
+    </item>
+    <item>
+      <title>SalesPatriot (YC W25) Is Hiring FDEs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fd85f85620f5</link>
+      <description>The Mission
+
+America&apos;s industrial base runs on systems built in the 1980s.
+
+Billions of dollars in critical components (F-35 parts, industrial assemblies, electronics, bolts, and hoses) still move through email threads, excel sheets, and disconnected ERPs.
+
+We&apos;re replacing that with an AI-native platform that makes aerospace, electronics, industrial, and defense supply-chain operations nearly autonomous. Faster quoting. Faster procurement. Full visibility. Real operational intelligence for the companies our nation depends on. 
+
+Quick Facts
+
+  - YC W25 company. Top 5% growth in batch
+  - Raised $10M+ from investors including Paul Graham, SV Angel, Pear VC, and CRV
+  - Team of 20 co-live in our Warsaw &amp; SF Hacker Houses
+  - 7 figure ARR transacting ~$50M a week through our system
+
+The Job
+
+1.  Go. Fly out and plant yourself inside the customer&apos;s operation. Weekdays are onsite (Wisconsin, New York, Miami, Los Angeles); weekends we regroup at the SF HQ to debrief and keep building.
+2.  Understand. Map how the company actually operates, from sales and supply chain teams to executives and CEOs. Learn the breakpoints choking their growth and speed.
+3.  Implement. Configure automations within SP Studio tooling so the platform accurately reflects the customer&apos;s needs. Build trust and confidence in SalesPatriot.
+4.  Iterate. Take full ownership of the customer&apos;s outcome. Keep finding and killing their most pressing problems, leading org-wide scaling, until SalesPatriot is the operating system their business runs on.
+
+What We’re Looking For
+
+  - Ready to relocate full-time to San Francisco. This is not a remote role.
+  - Absolute grinder. Interested in co-living (though not required).
+  - Comfortable with ambiguity and rapid change.
+  - Track record of shipping fast.
+  - Full-stack beyond code: comfortable jumping between frontend, backend, and organizational politics — earning trust with procurement specialists while navigating executive priorities and IT constraints.
+  - Motivated by taking an unknown problem, sinking your teeth in, and coming up with a plan of attack.
+  - Proficiency in TypeScript, JavaScript, and at least one frontend library (React, Svelte, Next etc).
+  - Be ready to show us at least one full-stack project you&apos;ve shipped (GitHub repo / web app / Loom demo video).
+  - Knowledge of SQL databases, preferably Postgres.
+  - Personable: clients trust you, like you, and look forward to your updates. You handle the conversation and the code.
+  - Low ego, curiosity, and intellectual honesty — focused on outcomes, not &quot;being right.&quot;
+
+The Process
+
+Call with engineer → 1hr technical test → Call with founder → fly out to SF HQ (on us) → offer.</description>
+      <pubDate>Wed, 29 Jul 2026 21:01:01 GMT</pubDate>
+      <guid isPermaLink="false">fd85f85620f5</guid>
+      <source url="https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer">Hacker News</source>
+    </item>
+    <item>
+      <title>Donald Trump zapowiada atak na Iran. &quot;Oni wiedzą, że to nadchodzi&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ca29e2ea8677</link>
+      <description>Teraz jest nasza kolej i zobaczymy, czy w pewnym momencie dojdziemy do porozumienia - powiedział prezydent USA Donald Trump, zapowiadając &quot;bardzo mocne&quot; ataki na Iran. Słowa te padły w związku z atakiem dronowym na statek magazynujący gaz w Egipcie.</description>
+      <pubDate>Wed, 29 Jul 2026 20:55:13 GMT</pubDate>
+      <guid isPermaLink="false">ca29e2ea8677</guid>
+      <source url="https://tvn24.pl/swiat/donald-trump-zapowiada-atak-na-iran-oni-wiedza-ze-to-nadchodzi-st9164940?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Zełenski: Rosja może dokonać potężnego uderzenia na Ukrainę tej nocy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/760c4970741d</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski ostrzegł, że w nocy ze środy na czwartek istnieje duże ryzyko przeprowadzenia przez Rosję zmasowanego ataku na Ukrainę. Jak przekazał, takie informacje otrzymał od dowódcy ukraińskich Sił Powietrznych, generała Anatolija Krywonożki.</description>
+      <pubDate>Wed, 29 Jul 2026 20:51:00 GMT</pubDate>
+      <guid isPermaLink="false">760c4970741d</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zelenski-rosja-moze-dokonac-poteznego-uderzenia-na-ukraine-t,nIdn,1011889">RMF24</source>
+    </item>
+    <item>
+      <title>The coolest use for the Vision Pro</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b3e3999914a1</link>
+      <description>One day there will hopefully be a house on this land
+
+
+Over the last year, I admittedly haven’t used my Vision Pro a ton, but fairly recently I discovered a super handy use that it’s absolutely incredible at, provided you have the right tools.
+After years of apartment life my girlfriend and I have recently begun the process of building our (first! exciting!) home, which is an absolute whirlwind of choices and decisions. Maybe it’s where we’re both programmers, but particularly for me, my software-oriented brain feels almost incompatible with this world of designing a home (she’s the main one keeping this project moving forward).</description>
+      <pubDate>Wed, 29 Jul 2026 20:39:40 GMT</pubDate>
+      <guid isPermaLink="false">b3e3999914a1</guid>
+      <source url="https://christianselig.com/2026/07/vision-pro-house/">Hacker News</source>
+    </item>
+    <item>
+      <title>&quot;Potencjalnie szpieg Nowogrodzkiej&quot;. Teorie są różne, dlaczego Piotr Uściński wybrał Mateusza Morawieckiego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/679149df4317</link>
+      <description>Poseł PiS Piotr Uściński dołączył do Stowarzyszenia Rozwój Plus Mateusza Morawieckiego. Nasz dziennikarz Dawid Rydzek usłyszał od dwóch osób, że mógł to zrobić jako &quot;potencjalny szpieg Nowogrodzkiej&quot;. O kulisach rozłamu w PiS rozmawiano w środowym wydaniu programu &quot;W kuluarach&quot; w TVN24.</description>
+      <pubDate>Wed, 29 Jul 2026 20:37:09 GMT</pubDate>
+      <guid isPermaLink="false">679149df4317</guid>
+      <source url="https://tvn24.pl/polska/dlaczego-piotr-uscinski-przeszedl-do-rozwoju-plus-potencjalnie-szpieg-nowogrodzkiej-teorie-sa-rozne-st9164886?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Górnik Zabrze remisuje i odpada. Liga Mistrzów nie w tym roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8005fa8b59ea</link>
+      <description>Górnik Zabrze zremisował u siebie w środę z Fenerbahce Stambuł 1:1 w rewanżowym meczu 2. rundy kwalifikacji piłkarskiej Ligi Mistrzów. Polska drużyna odpadła z rozgrywek, ponieważ w pierwszym starciu górą byli Turcy. Wygrali wówczas 1:0.</description>
+      <pubDate>Wed, 29 Jul 2026 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">8005fa8b59ea</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-gornik-zabrze-remisuje-i-odpada-liga-mistrzow-nie-w-tym-roku,nIdn,1011888">RMF24</source>
+    </item>
     <item>
       <title>Tanie warzywo jak balsam dla wątroby. Modne „detoksy” i herbatki oczyszczające są zbędne</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9ebf7c888c45</link>
@@ -14,6 +136,30 @@
       <pubDate>Wed, 29 Jul 2026 20:23:00 GMT</pubDate>
       <guid isPermaLink="false">9ebf7c888c45</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Tanie-warzywo-jak-balsam-dla-watroby-Modne-detoksy-i-herbatki-oczyszczajace-sa-zbedne,287202,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Zendaya at Spider-Man premiere: Working with husband Tom Holland &apos;easy when you&apos;re best friends&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fdfa721ba8ef</link>
+      <description>The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.</description>
+      <pubDate>Wed, 29 Jul 2026 20:21:46 GMT</pubDate>
+      <guid isPermaLink="false">fdfa721ba8ef</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>A Trampoline</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/39102878e2f4</link>
+      <description>I didn’t want to buy a trampoline. It wasn’t the money.</description>
+      <pubDate>Wed, 29 Jul 2026 20:14:36 GMT</pubDate>
+      <guid isPermaLink="false">39102878e2f4</guid>
+      <source url="https://dogdogfish.com/blog/2026/07/29/a-trampoline/">Hacker News</source>
+    </item>
+    <item>
+      <title>Katastrofa myśliwca F-16. Pilot katapultował się</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f14c79743bfe</link>
+      <description>Ukraiński myśliwiec F-16 rozbił się w czasie wykonywania misji bojowej - poinformowały Siły Powietrzne Ukrainy. W wyniku &quot;sytuacji awaryjnej&quot; pilot maszyny musiał się katapultować i jest bezpieczny. Przekazano, że w katastrofie nikt nie został ranny.</description>
+      <pubDate>Wed, 29 Jul 2026 20:12:24 GMT</pubDate>
+      <guid isPermaLink="false">f14c79743bfe</guid>
+      <source url="https://tvn24.pl/swiat/wojna-w-ukrainie-katastrofa-mysliwca-f-16-pilot-katapultowal-sie-st9164916?source=rss">TVN24</source>
     </item>
     <item>
       <title>Ta bakteria wciąż jest wyzwaniem. Latem zagrożenie wzrasta</title>
@@ -24,6 +170,22 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Ta-bakteria-wciaz-jest-wyzwaniem-Latem-zagrozenie-wzrasta,287220,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Who wins and who loses after US bans foreign robots?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/40a9f933c8df</link>
+      <description>Government ban on foreign-made robots may hinder instead of help US robotics.</description>
+      <pubDate>Wed, 29 Jul 2026 20:03:42 GMT</pubDate>
+      <guid isPermaLink="false">40a9f933c8df</guid>
+      <source url="https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Limiting sugar before age two linked to better brain health</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/702e447b9636</link>
+      <description>Study suggests less sugar in early life is good for long-term brain health, but the evidence is not conclusive.</description>
+      <pubDate>Wed, 29 Jul 2026 20:02:45 GMT</pubDate>
+      <guid isPermaLink="false">702e447b9636</guid>
+      <source url="https://www.bbc.co.uk/news/articles/clyx85z1ld5o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Gniją i fermentują w jelitach, a gazy stają się nie do wytrzymania. Lepiej unikać</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f02a7539f357</link>
       <description>Procesy gnilne w jelitach są naturalnym zjawiskiem, ale niewłaściwa dieta może je nasilać. Efekt? Więcej gazów, nieprzyjemny zapach i bolesne wzdęcia, które potrafią skutecznie uprzykrzyć codzienne życie.</description>
@@ -32,12 +194,44 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Gnija-i-fermentuja-w-jelitach-a-gazy-staja-sie-nie-do-wytrzymania-Lepiej-unikac,287207,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Tramwaje wracają na Grójecką i w Aleje Jerozolimskie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2dfe7a269422</link>
+      <description>Od poniedziałku, 3 sierpnia tramwaje wrócą na ulicę Grójecką i Aleje Jerozolimskie. Na Moście Poniatowskiego nadal pozostanie autobusowa komunikacja zastępcza. Tramwajarze informują o zmianach w kursowaniu niektórych linii.</description>
+      <pubDate>Wed, 29 Jul 2026 19:57:13 GMT</pubDate>
+      <guid isPermaLink="false">2dfe7a269422</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-kiedy-tramwaje-wroca-w-aleje-jerozolimskie-termin-st9164827?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Klęska Lecha Poznań. Koniec marzeń o Lidze Mistrzów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bc40c94c4d7f</link>
+      <description>Lech Poznań przegrał w środę z Aarhus GF w drugiej rundzie kwalifikacji do Ligi Mistrzów. Mecz w stolicy Wielkopolski był dużym zaskoczeniem, bowiem Duńczycy zdołali odrobić wysoką stratę z pierwszego spotkania i koniec końców, odprawili Kolejorza w rzutach karnych.</description>
+      <pubDate>Wed, 29 Jul 2026 19:53:00 GMT</pubDate>
+      <guid isPermaLink="false">bc40c94c4d7f</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-kleska-lecha-poznan-koniec-marzen-o-lidze-mistrzow,nIdn,1011887">RMF24</source>
+    </item>
+    <item>
+      <title>Kuba otwiera gospodarkę. Historyczny zwrot na wyspie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4e3ff9eec5de</link>
+      <description>Kolejne sektory kubańskiej gospodarki zostały otwarte dla prywatnych firm - przekazały państwowe media. Wśród nich są między innymi usługi farmaceutyczne, obiekty portowe czy energetyka odnawialna. Decyzja stanowi część programu reform przyjętego przez rząd Kuby, który ma zwiększyć rolę sektora prywatnego w pogrążonej w poważnym kryzysie gospodarce kraju.</description>
+      <pubDate>Wed, 29 Jul 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="false">4e3ff9eec5de</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/kuba-otwiera-gospodarke-na-sektor-prywatny-historyczny-zwrot-na-wyspie-st9164909?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>The Hugging Face AI break-in, as told through an increasingly committed bear metaphor</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6321a130900e</link>
       <description>Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)</description>
       <pubDate>Wed, 29 Jul 2026 19:44:49 GMT</pubDate>
       <guid isPermaLink="false">6321a130900e</guid>
       <source url="https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Comcast store punished low sales by smashing pies in workers&apos; faces, lawsuit claims</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3cfc3a424030</link>
+      <description>Comcast, accused of negligence, says lawsuit mischaracterized alleged events.</description>
+      <pubDate>Wed, 29 Jul 2026 19:33:55 GMT</pubDate>
+      <guid isPermaLink="false">3cfc3a424030</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/">Ars Technica</source>
     </item>
     <item>
       <title>Ukraina straciła F-16 w trakcie misji bojowej</title>
@@ -70,6 +264,14 @@
       <pubDate>Wed, 29 Jul 2026 19:25:33 GMT</pubDate>
       <guid isPermaLink="false">841775c77ab6</guid>
       <source url="https://www.kimi.com/code/docs/en/kimi-code/models">Hacker News</source>
+    </item>
+    <item>
+      <title>Customize Ars your way with an Ars Pro subscription</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/74417597d67d</link>
+      <description>Ars Pro subscribers get customizable layouts along with no ads and no trackers.</description>
+      <pubDate>Wed, 29 Jul 2026 19:23:27 GMT</pubDate>
+      <guid isPermaLink="false">74417597d67d</guid>
+      <source url="https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/">Ars Technica</source>
     </item>
     <item>
       <title>ONZ chce zjednoczenia Cypru. Turcja musi ustąpić?</title>
@@ -118,6 +320,14 @@
       <pubDate>Wed, 29 Jul 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="false">a24200059815</guid>
       <source url="https://www.bankier.pl/wiadomosc/Nieoczywiste-posiedzenie-FOMC-Stopy-w-Ameryce-jednak-bez-zmian-9174826.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6562438525d4</link>
+      <description>Circular AI deals aren&apos;t just bubble behavior: they mirror how commodity industries finance capital-intensive infrastructure. When circular deals are healthy — and when they hide risk.</description>
+      <pubDate>Wed, 29 Jul 2026 18:57:10 GMT</pubDate>
+      <guid isPermaLink="false">6562438525d4</guid>
+      <source url="https://www.emergingtrajectories.com/lh/commodification-and-circularity/">Hacker News</source>
     </item>
     <item>
       <title>Grzywna za użycie sztucznej inteligencji. Sąd ukarał adwokata</title>
@@ -249,174 +459,6 @@ That said&amp;hellip; if you&amp;rsquo;re not afraid of a bit of jank: read onwa
       <pubDate>Wed, 29 Jul 2026 18:12:00 GMT</pubDate>
       <guid isPermaLink="false">791a5ed3a2b9</guid>
       <source url="https://www.bankier.pl/wiadomosc/Sprzedaz-Biedronki-wyhamowuje-Zysk-Jeronimo-Martins-lekko-w-dol-ale-mimo-to-szykuja-sie-ogromne-inwestycje-9175138.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Google begins global rollout of age verification API in Google Play</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a7f23a67dc32</link>
-      <description>Google&apos;s new API relies on parents to set age ranges in Family Link.</description>
-      <pubDate>Wed, 29 Jul 2026 18:08:22 GMT</pubDate>
-      <guid isPermaLink="false">a7f23a67dc32</guid>
-      <source url="https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Fed podjął decyzję w sprawie stóp procentowych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/69100f9e8e13</link>
-      <description>Stopy procentowe w USA zostały utrzymane na tym samym poziomie 3,50-3,75 procent. Taką decyzję podjął w środę Federalny Komitet do Spraw Operacji Otwartego Rynku (FOMC). - Pozwólcie państwo, że powtórzę: nie ma mowy o elastycznym celu inflacyjnym. Nie ma tu żadnego ukrytego, elastycznego celu. Nie na straży tego komitetu - powiedział prezes Fed Kevin Warsh.</description>
-      <pubDate>Wed, 29 Jul 2026 18:04:22 GMT</pubDate>
-      <guid isPermaLink="false">69100f9e8e13</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/usa-stopy-procentowe-rezerwa-federalna-podjela-decyzje-st9164596?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dewastuje wątrobę szybciej niż alkohol. Bezpieczny limit: 4 g na dobę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa73dd91a00f</link>
-      <description>Wątroba potrafi się regenerować, ale nie jest niezniszczalna. Choć większość z nas wie, że nadmiar alkoholu jej szkodzi, nie jest to jedyne zagrożenie. Eksperci ostrzegają przed niewłaściwym stosowaniem jednego z najpopularniejszych leków przeciwbólowych.</description>
-      <pubDate>Wed, 29 Jul 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="false">aa73dd91a00f</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Dewastuje-watrobe-szybciej-niz-alkohol-Bezpieczny-limit-4-g-na-dobe,287195,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Samsung wspiera polskich strażaków. Chodzi o nasze bezpieczeństwo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a9bc9c6dfb86</link>
-      <description>Samsung z działaniami, które pomagają w akcjach ratowniczych, poszukiwawczych oraz innych interwencjach prowadzonych przez jednostki OSP</description>
-      <pubDate>Wed, 29 Jul 2026 18:00:28 GMT</pubDate>
-      <guid isPermaLink="false">a9bc9c6dfb86</guid>
-      <source url="https://antyweb.pl/samsung-strazacy">Antyweb</source>
-    </item>
-    <item>
-      <title>Elon Musk’s xAI is trying to sue its way out of a Grok reckoning</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f574fec13ba4</link>
-      <description>Musk defends Grok, says Minnesota&apos;s nudifying app ban is unconstitutional.</description>
-      <pubDate>Wed, 29 Jul 2026 17:58:24 GMT</pubDate>
-      <guid isPermaLink="false">f574fec13ba4</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Kuba z historycznym zwrotem w gospodarce. Mniej państwa, więcej inicjatywy prywatnej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b9c1b8f154af</link>
-      <description>Władze Kuby zdecydowały o poszerzeniu zakresu działalności, którą mogą prowadzić prywatne firmy. Jak poinformowały państwowe media, przedsiębiorcy uzyskają dostęp do nowych branż, takich jak apteki, infrastruktura portowa czy odnawialne źródła energii. To element szerszych reform, których celem jest zwiększenie udziału sektora prywatnego w gospodarce pogrążonej w kryzysie.</description>
-      <pubDate>Wed, 29 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="false">b9c1b8f154af</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-kuba-z-historycznym-zwrotem-w-gospodarce-mniej-panstwa-wiece,nIdn,1011874">RMF24</source>
-    </item>
-    <item>
-      <title>Sorry, haters. Ferrari’s first EV is doing just fine</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8ebf1a8e3a0b</link>
-      <description>To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.</description>
-      <pubDate>Wed, 29 Jul 2026 17:57:45 GMT</pubDate>
-      <guid isPermaLink="false">8ebf1a8e3a0b</guid>
-      <source url="https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Waymo robotaxis are starting to return to freeways</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c6983a305406</link>
-      <description>Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.</description>
-      <pubDate>Wed, 29 Jul 2026 17:50:57 GMT</pubDate>
-      <guid isPermaLink="false">c6983a305406</guid>
-      <source url="https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Obrażali nastoletniego Ukraińca, zostali usunięci z pociągu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/914202f6a1be</link>
-      <description>To nie pierwszy atak na tle narodowościowym, do którego doszło w okolicach Warszawy. Ale ważna była szybka reakcja świadków. W pociągu relacji Warszawa-Tłuszcz dwóch mężczyzn obrażało nastolatka. Musieli jednak wysiąść i zapłacą też mandaty.</description>
-      <pubDate>Wed, 29 Jul 2026 17:47:40 GMT</pubDate>
-      <guid isPermaLink="false">914202f6a1be</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/warszawa-obrazali-nastoletniego-ukrainca-zostali-usunieci-z-pociagu-st9164671?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>JSW walczy o przetrwanie. &quot;Jesteśmy w sytuacji bardzo trudnej&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/914edc9136b1</link>
-      <description>Jastrzębska Spółka Węglowa kontynuuje działania celem zachowania płynności - poinformował prezes Bogusław Oleksy. Dodał jednak, że do końca roku konieczne jest zasilenie spółki pożyczką w wysokości dwóch miliardów złotych. - Bez tego domknięcie finansowania jest niemożliwe - ocenił.</description>
-      <pubDate>Wed, 29 Jul 2026 17:45:49 GMT</pubDate>
-      <guid isPermaLink="false">914edc9136b1</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/jastrzebska-spolka-weglowa-walczy-o-przetrwanie-boguslaw-oleksy-jestesmy-w-bardzo-trudnej-sytuacji-st9164767?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Elbląg: miejska sieć defibrylatorów zostanie rozbudowana o 10 urządzeń</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/499389ae65a4</link>
-      <description>W Elblągu zostanie zamontowanych kolejnych 10 defibrylatorów AED, które zwiększają szanse przeżycia w przypadku nagłego zatrzymania krążenia - podał w środę elbląski magistrat. Ogólnodostępne urządzenia pojawią się w miejscach o dużym natężeniu ruchu mieszkańców.</description>
-      <pubDate>Wed, 29 Jul 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">499389ae65a4</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Elblag-miejska-siec-defibrylatorow-zostanie-rozbudowana-o-10-urzadzen,287214,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Siedem ciał w domu. Na ścianie napis: „Wilki są aktywne”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b41759154cc2</link>
-      <description>W jednym z domów na południu Ekwadoru znaleziono siedem zwęglonych ciał - informuje lokalna policja. Na ścianach budynku pozostawiono napisy o wilkach, wskazujące na działalność gangu Los Lobos.</description>
-      <pubDate>Wed, 29 Jul 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">b41759154cc2</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-siedem-cial-w-domu-na-scianie-napis-wilki-sa-aktywne,nIdn,1011873">RMF24</source>
-    </item>
-    <item>
-      <title>US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/67c80c19917c</link>
-      <description>The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.</description>
-      <pubDate>Wed, 29 Jul 2026 17:41:09 GMT</pubDate>
-      <guid isPermaLink="false">67c80c19917c</guid>
-      <source url="https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Yet more qubit tech: New quantum dot options, diamond vacancies </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7c0717908d0f</link>
-      <description>Companies are making sure we have a surplus of options for building qubits.</description>
-      <pubDate>Wed, 29 Jul 2026 17:37:47 GMT</pubDate>
-      <guid isPermaLink="false">7c0717908d0f</guid>
-      <source url="https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Łuszczycy nie da się wyłączyć jak filtra. Rusza kolejna odsłona kampanii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/47201e23bb64</link>
-      <description>Osoby dotknięte łuszczycą chcą być powszechnie rozumiane, a nie ukrywać się „pod filtrem” z powodu zmian skórnych. Rusza IV edycja ogólnopolskiej kampanii „Daj Się Odkryć”, która edukuje o łuszczycy i walczy ze stereotypami. Motyw „kultury filtrów” ma pokazać, że choroby nie da się ukryć jednym kliknięciem; ambasadorem został Michał Wiśniewski.</description>
-      <pubDate>Wed, 29 Jul 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">47201e23bb64</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Luszczycy-nie-da-sie-wylaczyc-jak-filtra-Rusza-kolejna-odslona-kampanii,287208,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Polacy lecą walczyć z żywiołem. Strażacy dołączą do ratowania Francji i Hiszpanii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/86d8a26b76d5</link>
-      <description>Polska od soboty dołączy do międzynarodowej akcji wspierającej Francję i Hiszpanię, które zmagają się z rozległymi pożarami – poinformowała w środę przewodnicząca Komisji Europejskiej Ursula von der Leyen. Dodała, że Rumunia i Grecja zdecydowały o przedłużeniu swoich misji.</description>
-      <pubDate>Wed, 29 Jul 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="false">86d8a26b76d5</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polacy-leca-walczyc-z-zywiolem-Strazacy-dolacza-do-ratowania-Francji-i-Hiszpanii-9175126.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Actually, Starliner might fly into space this year</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa23b326a60c</link>
-      <description>We&apos;re feeling pretty good about that,&quot; Boeing CEO Kelly Ortberg said.</description>
-      <pubDate>Wed, 29 Jul 2026 17:24:41 GMT</pubDate>
-      <guid isPermaLink="false">aa23b326a60c</guid>
-      <source url="https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Fifa opens disciplinary proceedings against Argentina</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/29ac1f59c271</link>
-      <description>Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.</description>
-      <pubDate>Wed, 29 Jul 2026 17:21:57 GMT</pubDate>
-      <guid isPermaLink="false">29ac1f59c271</guid>
-      <source url="https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Peppa Pig owners win copyright battle against &apos;impostor&apos; Wolfoo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f4a050a7f40</link>
-      <description>A judge orders all videos featuring the popular animated wolf to be removed from YouTube.</description>
-      <pubDate>Wed, 29 Jul 2026 17:19:54 GMT</pubDate>
-      <guid isPermaLink="false">9f4a050a7f40</guid>
-      <source url="https://www.bbc.co.uk/news/articles/clyx8lreydno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Konar spadł na ciągnik rolniczy. Nie żyje młody kierowca</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d4e2eced2b00</link>
-      <description>Tragedia w Świętokrzyskiem. Na jadący ciągnik rolniczy spadł konar drzewa, zabijając 28-letniego kierowcę.</description>
-      <pubDate>Wed, 29 Jul 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="false">d4e2eced2b00</guid>
-      <source url="https://www.rmf24.pl/regiony/kielce/news-konar-spadl-na-ciagnik-rolniczy-nie-zyje-mlody-kierowca,nIdn,1011872">RMF24</source>
-    </item>
-    <item>
-      <title>Premiera hitowego RPG na PlayStation 5 już niebawem. Może nie dostać wersji na płycie...</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/adb843e7939e</link>
-      <description>Jedna z najbardziej wyczekiwanych gier na PlayStation 5, która trafi na rynek w przyszłym roku, może nie doczekać się fizycznego wydania....</description>
-      <pubDate>Wed, 29 Jul 2026 17:15:40 GMT</pubDate>
-      <guid isPermaLink="false">adb843e7939e</guid>
-      <source url="https://antyweb.pl/premiera-hitowego-rpg-na-playstation-5-juz-niebawem-moze-nie-dostac-wersji-na-plycie">Antyweb</source>
     </item>
   </channel>
 </rss>
