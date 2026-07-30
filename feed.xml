@@ -5,8 +5,32 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:35:27 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Andy Burnham to give regional mayors share of income tax</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a1062c6b350</link>
+      <description>The prime minister says the move will give power to &quot;every postcode&quot; but critics say the plans lack detail.</description>
+      <pubDate>Thu, 30 Jul 2026 21:32:09 GMT</pubDate>
+      <guid isPermaLink="false">2a1062c6b350</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Powiększyło się grono przeciwników planów FIFA. Chodzi o sprzedaż praw do mundialu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/06543838e265</link>
+      <description>Konfederacja Piłkarska Ameryki Północnej, Środkowej i Karaibów (CONCACAF) wraz ze wszystkimi 41 zrzeszonymi federacjami sprzeciwiła się planom FIFA, która zamierza przekazać część praw do swoich najważniejszych rozgrywek prywatnym inwestorom. Wcześniej zdecydowany protest w tej sprawie zgłosiła także UEFA.</description>
+      <pubDate>Thu, 30 Jul 2026 20:52:00 GMT</pubDate>
+      <guid isPermaLink="false">06543838e265</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-powiekszylo-sie-grono-przeciwnikow-planow-fifa-chodzi-o-sprz,nIdn,1012025">RMF24</source>
+    </item>
+    <item>
+      <title>Man seeks millions after being shot by police in game-related swatting incident</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fcde56034665</link>
+      <description>Comments</description>
+      <pubDate>Thu, 30 Jul 2026 20:44:13 GMT</pubDate>
+      <guid isPermaLink="false">fcde56034665</guid>
+      <source url="https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/">Hacker News</source>
+    </item>
     <item>
       <title>Zapycha tętnice i prowadzi do udaru. Polacy się zajadają, a potem płacą</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7d84b723f8e8</link>
@@ -24,6 +48,22 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Dyspozytornie-medyczne-na-granicy-wydolnosci-zgloszenia-kraza-W-krytycznych-dniach-obsada-wynosi-zero,287275,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Szczęśliwy wieczór GKS-u Katowice. Zostają w grze o Ligę Konferencji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6506a0dff78c</link>
+      <description>Piłkarze GKS Katowice pokonali u siebie MSK Żilina 3:1 (0:0) w rewanżowym meczu 2. rundy eliminacji Ligi Konferencji i awansowali do kolejnej rundy. Pierwsze spotkanie wygrał słowacki zespół 2:1.</description>
+      <pubDate>Thu, 30 Jul 2026 20:38:00 GMT</pubDate>
+      <guid isPermaLink="false">6506a0dff78c</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-szczesliwy-wieczor-gks-u-katowice-zostaja-w-grze-o-lige-konf,nIdn,1012026">RMF24</source>
+    </item>
+    <item>
+      <title>Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c5b1dff496d9</link>
+      <description>A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government&apos;s ban on its AI technology.</description>
+      <pubDate>Thu, 30 Jul 2026 20:26:38 GMT</pubDate>
+      <guid isPermaLink="false">c5b1dff496d9</guid>
+      <source url="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/">TechCrunch</source>
+    </item>
+    <item>
       <title>Japończycy piją zamiast wody. Bez grama kofeiny i teiny</title>
       <link>https://lolsoftware.github.io/4-news/#/article/60a7f58f4ab3</link>
       <description>Japończycy piją ją codziennie zamiast wody i herbaty. Sobacha nie zawiera kofeiny, ma delikatny orzechowy smak i coraz częściej przyciąga uwagę naukowców. Badania pokazują, że podczas parzenia do naparu przenikają cenne przeciwutleniacze.</description>
@@ -32,12 +72,36 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Japonczycy-pija-zamiast-wody-Bez-grama-kofeiny-i-teiny,287254,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>CareCloud begins to notify hundreds of thousands after hackers stole medical records</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4aa8c86ee103</link>
+      <description>The health tech data giant, which handles vast amounts of patients&apos; medical data, said hackers struck one of its protected health data stores.</description>
+      <pubDate>Thu, 30 Jul 2026 20:13:12 GMT</pubDate>
+      <guid isPermaLink="false">4aa8c86ee103</guid>
+      <source url="https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/">TechCrunch</source>
+    </item>
+    <item>
       <title>Potężna dawka witaminy A w małym kęsie. W nadmiarze może rozsadzić wątrobę</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ff44b922b61f</link>
       <description>Ma nawet osiem razy więcej witaminy A niż marchewka. Dietetycy podkreślają jednak, że z tym przysmakiem nie warto przesadzać. Nadmiar witaminy A może być bardzo szkodliwy.</description>
       <pubDate>Thu, 30 Jul 2026 20:03:00 GMT</pubDate>
       <guid isPermaLink="false">ff44b922b61f</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Potezna-dawka-witaminy-A-w-malym-kesie-W-nadmiarze-moze-rozsadzic-watrobe,287247,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Malta zdobyta! Raków urządził pokaz strzelecki i gra dalej o Ligę Konferencji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/996a968b9731</link>
+      <description>Raków Częstochowa z awansem do kolejnej rundy eliminacji piłkarskiej Ligi Konferencji. „Medaliki” pokonały na wyjeździe maltański zespół Valetta FC 4:0 (2:0) w rewanżowym meczu 2. rundy eliminacji.</description>
+      <pubDate>Thu, 30 Jul 2026 19:55:00 GMT</pubDate>
+      <guid isPermaLink="false">996a968b9731</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-malta-zdobyta-rakow-urzadzil-pokaz-strzelecki-i-gra-dalej-o-,nIdn,1012024">RMF24</source>
+    </item>
+    <item>
+      <title>Musk znów po stronie Trumpa. Szykuje pieniądze na kampanię </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/647d6a8c84f8</link>
+      <description>Elon Musk reaktywuje komitet America PAC, który ma wesprzeć Republikanów przed listopadowymi wyborami do Kongresu - informuje Axios. W 2024 roku miliarder wydał ponad ćwierć biliona dolarów na kampanię prezydencką Donalda Trumpa.</description>
+      <pubDate>Thu, 30 Jul 2026 19:52:26 GMT</pubDate>
+      <guid isPermaLink="false">647d6a8c84f8</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/usa-elon-musk-znow-po-stronie-donalda-trumpa-szykuje-ogromne-wsparcie-finansowe-dla-republikanow-st9166795?source=rss">TVN24</source>
     </item>
     <item>
       <title>Do Hanoi bez przesiadek. LOT uruchomi bezpośrednie połączenie</title>
@@ -78,6 +142,14 @@
       <pubDate>Thu, 30 Jul 2026 19:44:00 GMT</pubDate>
       <guid isPermaLink="false">46bee78f4644</guid>
       <source url="https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Agent Skill to Force Docs in ASD-STE100 Simplified Technical English</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3c5c702b7955</link>
+      <description>Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop - AminBlg/SimpleEnglish</description>
+      <pubDate>Thu, 30 Jul 2026 19:34:27 GMT</pubDate>
+      <guid isPermaLink="false">3c5c702b7955</guid>
+      <source url="https://github.com/AminBlg/SimpleEnglish">Hacker News</source>
     </item>
     <item>
       <title>Mniej za godzinę, mniej chętnych do pracy. Ryzyko nowych limitów płac</title>
@@ -144,6 +216,14 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Asystencja-osobista-nowe-przepisy-najwczesniej-w-2028-roku,287274,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Rozłam w PiS. Zapowiedź z Nowogrodzkiej, spotkanie na Konopnickiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/06e994334715</link>
+      <description>Jedni grillują, inni pracują i między innymi właśnie 6 sierpnia będzie jedna z pierwszych naszych wakacyjnych inicjatyw - powiedział po naradzie na Nowogrodzkiej rzecznik PiS Rafał Bochenek. W czwartek odbyło się też spotkanie członków nowego klubu parlamentarnego Mateusza Morawieckiego.</description>
+      <pubDate>Thu, 30 Jul 2026 18:58:07 GMT</pubDate>
+      <guid isPermaLink="false">06e994334715</guid>
+      <source url="https://tvn24.pl/temat/rozlam-w-pis/rozlam-w-pis-zapowiedz-z-nowogrodzkiej-spotkanie-na-konopnickiej-st9166751?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5911ea1a730a</link>
       <description>As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.</description>
@@ -166,6 +246,14 @@
       <pubDate>Thu, 30 Jul 2026 18:43:00 GMT</pubDate>
       <guid isPermaLink="false">36f56c73ed6b</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Limity-nie-dla-wszystkich-lekarzy-Radiolodzy-moga-zachowac-dotychczasowy-model-pracy,287237,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>UEFA and its national associations will not participate in FIFA competitions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/090c7c831e70</link>
+      <description>Comments</description>
+      <pubDate>Thu, 30 Jul 2026 18:40:52 GMT</pubDate>
+      <guid isPermaLink="false">090c7c831e70</guid>
+      <source url="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">Hacker News</source>
     </item>
     <item>
       <title>Making Postgres queues scale</title>
@@ -318,94 +406,6 @@
       <pubDate>Thu, 30 Jul 2026 17:55:24 GMT</pubDate>
       <guid isPermaLink="false">7608d2fecb00</guid>
       <source url="https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Wybuch na Lubelszczyźnie. Mieczysław Bieniek: procedury zadziałały</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/289f01efc222</link>
-      <description>Polska strona zrobiła wszystko, co należało zrobić - ocenił w &quot;Tak jest&quot; w TVN24 generał Mieczysław Bieniek, komentując upadek rakiety manewrującej w Polsce. Mówił też o systemie powiadamiania ludności, który według niego &quot;nie został do końca dopracowany&quot;.</description>
-      <pubDate>Thu, 30 Jul 2026 17:55:05 GMT</pubDate>
-      <guid isPermaLink="false">289f01efc222</guid>
-      <source url="https://tvn24.pl/polska/wybuch-rakiety-na-lubelszczyznie-mieczyslaw-bieniek-system-komunikacji-nie-zostal-do-konca-dopracowany-st9166696?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>CodePen 2.0</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/92ca892e0c7d</link>
-      <description>Noting perhaps my largest personal career accomplishment, which is launching CodePen 2.0. Far more work, believe it or not, than the entire creation of the original CodePen. This isn’t the pl…</description>
-      <pubDate>Thu, 30 Jul 2026 17:52:51 GMT</pubDate>
-      <guid isPermaLink="false">92ca892e0c7d</guid>
-      <source url="https://chriscoyier.net/2026/07/30/codepen-2-0/">Hacker News</source>
-    </item>
-    <item>
-      <title>Miliony Polaków skorzystają na zmianach. Od 1 sierpnia łatwiej umówić pierwszą wizytę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d10b05cc9b1</link>
-      <description>1 sierpnia wchodzi w życie ważna zmiana: dostępne wizyty w całym kraju będzie można sprawdzić w jednym systemie i wygodnie umówić przez Internetowe Konto Pacjenta lub aplikację mojeIKP. To oznacza, że pacjenci ze skierowaniem do specjalisty chorób płuc i oskrzeli, ale też innych specjalistów, nie będą już musieli godzinami dzwonić do kolejnych poradni w poszukiwaniu wolnych terminów.</description>
-      <pubDate>Thu, 30 Jul 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="false">3d10b05cc9b1</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Choroby-Pluc/Miliony-Polakow-skorzystaja-na-zmianach-Od-1-sierpnia-latwiej-umowic-pierwsza-wizyte,287184,1022.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6f13ec3b080f</link>
-      <description>Add another member to the fast-and-furious AI unicorn club: Simile</description>
-      <pubDate>Thu, 30 Jul 2026 17:50:11 GMT</pubDate>
-      <guid isPermaLink="false">6f13ec3b080f</guid>
-      <source url="https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Spotify launches ‘User notes’ to let users add memories to songs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e3008c4962c4</link>
-      <description>Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it</description>
-      <pubDate>Thu, 30 Jul 2026 17:41:25 GMT</pubDate>
-      <guid isPermaLink="false">e3008c4962c4</guid>
-      <source url="https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Wysłannicy Trumpa wreszcie dotrą do Kijowa? Podano wstępną datę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1fb788298997</link>
-      <description>Steve Witkoff i Jared Kushner, wysłannicy prezydenta USA Donalda Trumpa, mają w drugiej połowie sierpnia przyjechać do Kijowa - podało w czwartek z Waszyngtonu Radio Wolna Europa. Według tych informacji ich wizyta ma być związana m.in. z obchodami 35. rocznicy niepodległości Ukrainy.</description>
-      <pubDate>Thu, 30 Jul 2026 17:39:00 GMT</pubDate>
-      <guid isPermaLink="false">1fb788298997</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-wyslannicy-trumpa-wreszcie-dotra-do-kijowa-podano-wstepna-da,nIdn,1012013">RMF24</source>
-    </item>
-    <item>
-      <title>British Airways flight called mayday on approach to Heathrow</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6afe11176868</link>
-      <description>The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.</description>
-      <pubDate>Thu, 30 Jul 2026 17:34:26 GMT</pubDate>
-      <guid isPermaLink="false">6afe11176868</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0688993bfb00</link>
-      <description>If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?</description>
-      <pubDate>Thu, 30 Jul 2026 17:31:07 GMT</pubDate>
-      <guid isPermaLink="false">0688993bfb00</guid>
-      <source url="https://www.bottlenecklabs.com/blog/autonomously-run-businesses">Hacker News</source>
-    </item>
-    <item>
-      <title>Rekord abstynencji w Polsce: 23 proc. niepijących. CBOS o zmianie preferencji Polaków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fb042bf0dbd5</link>
-      <description>Polacy coraz rzadziej sięgają po alkohol – wynika z najnowszego badania CBOS. Odsetek osób deklarujących całkowitą abstynencję osiągnął rekordowe 23 proc. Od 2019 roku wzrósł aż o 7 punktów procentowych. Główny powód rezygnacji z alkoholu to troska o zdrowie.</description>
-      <pubDate>Thu, 30 Jul 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="false">fb042bf0dbd5</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Rekord-abstynencji-w-Polsce-23-proc-niepijacych-CBOS-o-zmianie-preferencji-Polakow,287270,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Użytkownicy GPT 5.6 nie będą zadowoleni. Wracają znienawidzone limity</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76856e42ab98</link>
-      <description>GPT-5.6 Sol szybko wyczerpywał limity w Codex i ChatGPT Work. OpenAI zresetowało liczniki, lecz problem rozliczania agentów pozostał.</description>
-      <pubDate>Thu, 30 Jul 2026 17:30:10 GMT</pubDate>
-      <guid isPermaLink="false">76856e42ab98</guid>
-      <source url="https://antyweb.pl/gpt-56-work-codex-limity">Antyweb</source>
-    </item>
-    <item>
-      <title>&quot;Proponujemy zmiany&quot;. Gigant chce likwidować kilkaset miejsc pracy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/090079b153e4</link>
-      <description>BP zamierza zlikwidować około 700 stanowisk biurowych na całym świecie - podał Reuters, powołując się na źródła zaznajomione ze sprawą. Koncern naftowy chce w ten sposób uprościć swoją działalność, ograniczyć zadłużenie i zwiększyć zyski.</description>
-      <pubDate>Thu, 30 Jul 2026 17:28:11 GMT</pubDate>
-      <guid isPermaLink="false">090079b153e4</guid>
-      <source url="https://tvn24.pl/biznes/moto/bp-planuje-likwidacje-kilkuset-miejsc-pracy-st9166634?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
