@@ -1,0 +1,13 @@
+{
+  "id": "056c6ee764af",
+  "title": "Chrome may get faster updates with no restart required",
+  "originalTitle": "Chrome may get faster updates with no restart required",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+  "publishedAt": "2026-07-30T19:26:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>However, not everyone updates Chrome as soon as new versions are available. While Chrome will download and stage updates promptly, it relies on users to restart their browsers to complete installation. Google is looking at several ways to streamline that process.</p>\n<p>In Chrome 150, Google implemented a new update mechanism that takes advantage of the way macOS handles applications. Apps typically continue to run in the background even if their foreground windows are closed. If you close Chrome 150 on macOS without quitting, Chrome can take advantage of that state to update the browser install with what Google calls a “zero window restart.” When you next open a Chrome window, you’ll see the update has been taken care of.</p> <p>Google is also working on a technique it calls “dynamic patching.” The intent is to improve Chrome’s security model to allow for patches to be installed automatically without a browser restart. Google says it’s still “investing” in dynamic patching, but it hopes to have more to share on this in the future.</p>\n<p>So, looking ahead, you should see more frequent Chrome updates, and they could be installed more smoothly on macOS. If dynamic patching works out, there will be even more updates you never notice.</p> </div></div>",
+  "image": "images/29c871b09420.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
