@@ -1,0 +1,13 @@
+{
+  "id": "99c7667d0b7f",
+  "title": "Arch Linux disables AUR package adoption",
+  "originalTitle": "Arch Linux disables AUR package adoption",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://lwn.net/Articles/1086489/",
+  "publishedAt": "2026-07-31T13:57:35.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><main>\n<p>The Arch Linux DevOps team has <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/DRDEU3JUSC72CB265XHXPFA3DFSLXPBP/\">announced</a>\nthat adoption of orphaned packages in the Arch User Repository (AUR)\nhas been disabled due to \"<q>the current influx of malicious package\nadoptions and follow-up commits made via the AUR</q>\". Michael Taggart\nhas posted <a href=\"https://discourse.ifin.network/t/new-aur-attack-prompts-adoption-lock/698?\">a brief analysis</a> of the malware being added to a <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/P4WIRHTFNH2YZWQHGBAKQWX5YOAFIDLY/\">long\nlist of packages</a> in this round of attacks. The payload <a href=\"https://gist.github.com/ysf/57850cdee152da066ac51c07a452e883\">appears\nto be</a> an remote-access trojan (RAT) that takes commands over the\nTor network and attempts to upload a wide range of user data.</p>\n\n<p>The project had <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/4JRS73YVTE7JUYHHE3ZDUIHXYHXZ3YQQ/\">suspended\nnew account registration</a> in June. That followed <a href=\"https://lwn.net/Articles/1077619/\">a campaign</a> in which an\nattacker or attackers created new accounts to adopt orphaned packages\nand push malicious updates to them that would install malware on user\nsystems. AUR registration was <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/TT3OCFFNM6SBMUBKIVTHTKA6UZJNMXIJ/\">reopened</a>\non July&nbsp;13 after the DevOps team added some minor, and apparently\nineffective, restrictions on creating new accounts.</p>\n\n<br clear=\"all\"><hr> </main></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
