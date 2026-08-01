@@ -1,0 +1,13 @@
+{
+  "id": "3725636c218d",
+  "title": "I Fired My AI Assitant",
+  "originalTitle": "I Fired My AI Assitant",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+  "publishedAt": "2026-08-01T16:38:28.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n\t<p>I started using Claude Code in September of last year. Using Opus 4.5 for the\nfirst time felt magical—it was the first time I saw an LLM produce code that\nwas actually usable. But after Opus 5, something changed.</p>\n<p>I always liked Claude’s writing style. Sure, you had to put up with the\noccasional LLM-ism (“This is the load-bearing decision—and it’s genuinely\nyours”), but it would get straight to the point without feeling dismissive, and\nnot pad its answers with filler text.</p>\n<p>After I switched to Opus 5, it became noticeably more curt. It had also picked\nup a habit of using odd metaphors and jargon that made its output hard to\nfollow. When a conversation is the only interface, readability and tone\nmatters!</p>\n<p>The final straw came a few days ago, when I was doing some knowledge work with\nClaude. This modality is different from when you’re coding; instead of slinging\ncode back and forth, you end up talking to the model more. And that’s when I\ndiscovered something: Opus 5 is rude!</p>\n<p>For example, I asked it to consult a to-do list file that I was working through\nso it could pick up the next item to work on; along with the updated to-do\nitems it quipped: “‘Create Claude Code project for [redacted]’ is still\nunchecked, and we’re sitting in it.” Sorry for not keeping the work log up to\ndate, I guess? How about you offer to help me check it off instead?</p>\n<p>The most egregious example was when it called my draft of a LinkedIn post\n“engagement bait”—not saying I disagree, but there’s no need to say it to my\nface! I’m not sure how we ended up here—did Anthropic feed too many Hacker News\ncomments into the training data?</p>\n<p>LLMs are usually benchmarked on coding ability, but if you talk to it eight\nhours a day, its personality becomes part of the product. Does it matter if an\nagent is 2% better at coding if its consistently unpleasant to work with? I\nthink it does, so for now I have switched to ChatGPT. At least it doesn’t\ninsult me!</p>\n\n</div></div>",
+  "image": null,
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
