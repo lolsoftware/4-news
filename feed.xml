@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 02 Aug 2026 19:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:13:40 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Wątroba w rozsypce, ryzyko stłuszczenia rośnie o 60 proc. Szkodzą nawet te dietetyczne</title>
@@ -16,12 +16,92 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Watroba-w-rozsypce-ryzyko-stluszczenia-rosnie-o-60-proc-Szkodza-nawet-te-dietetyczne,287298,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Ariana Grande pulls out of musical for break from &apos;endless&apos; scrutiny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/52fd4faf7c3a</link>
+      <description>The US singer, 33, will &quot;step back from visibility&quot; at the end of her world tour, her representative says.</description>
+      <pubDate>Sun, 02 Aug 2026 21:02:29 GMT</pubDate>
+      <guid isPermaLink="false">52fd4faf7c3a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Sam Altman and AI’s decel debate</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ea4a184687ae</link>
+      <description>On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to &quot;pace the rate of AI development.&quot;</description>
+      <pubDate>Sun, 02 Aug 2026 20:54:22 GMT</pubDate>
+      <guid isPermaLink="false">ea4a184687ae</guid>
+      <source url="https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e385864b71dc</link>
+      <description>Contribute to 0xchasercat/draco development by creating an account on GitHub.</description>
+      <pubDate>Sun, 02 Aug 2026 20:48:45 GMT</pubDate>
+      <guid isPermaLink="false">e385864b71dc</guid>
+      <source url="https://github.com/0xchasercat/draco/">Hacker News</source>
+    </item>
+    <item>
+      <title>AI Mania: From Tulips to Tokens</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/148fa51bad44</link>
+      <description>Michael Pollan has written about everything from mushrooms to apples and corn, but his coevolutionary story of how tulips and humans shaped each other may ha...</description>
+      <pubDate>Sun, 02 Aug 2026 20:48:28 GMT</pubDate>
+      <guid isPermaLink="false">148fa51bad44</guid>
+      <source url="https://seanhelvey.com/tools-and-their-tools/">Hacker News</source>
+    </item>
+    <item>
+      <title>Two crew killed after firefighting helicopters collide in Greece, as British pilot survives</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bfb6b58bfc3c</link>
+      <description>One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.</description>
+      <pubDate>Sun, 02 Aug 2026 20:36:37 GMT</pubDate>
+      <guid isPermaLink="false">bfb6b58bfc3c</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Fever Dream: Claude&apos;s package that stole real keys</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5d1f09c17ba1</link>
+      <description>Anthropic disclosed an agent that pushed real malware to PyPI. We think we found the package, and every mistake in it points back to the AI.</description>
+      <pubDate>Sun, 02 Aug 2026 20:36:21 GMT</pubDate>
+      <guid isPermaLink="false">5d1f09c17ba1</guid>
+      <source url="https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys">Hacker News</source>
+    </item>
+    <item>
+      <title>Let the Machines In</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2bc644a704c9</link>
+      <description>“From each art practiced in its time I derive a knowledge which compensates me in part for pleasures lost. I have supposed, and in my better moments think so still, that it would be possible in this manner to participate in the existence of everyone; such sympathy would be one of the least revocable kinds of immortality.” Marguerite Yourcenar, Memories of Hadrian</description>
+      <pubDate>Sun, 02 Aug 2026 20:17:16 GMT</pubDate>
+      <guid isPermaLink="false">2bc644a704c9</guid>
+      <source url="https://blog.semenzin.com/let-the-machines-in/">Hacker News</source>
+    </item>
+    <item>
       <title>1000 toksycznych substancji. Powszechny błąd rujnuje zdrowie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4d1ab8c87b68</link>
       <description>Co najmniej 1000 substancji może wykazywać właściwości zaburzające funkcjonowanie układu hormonalnego. Są powszechnie stosowane, a badania wskazują jasno: niektóre chemikalia mogą zakłócać rozwój układu nerwowego płodu.</description>
       <pubDate>Sun, 02 Aug 2026 20:16:00 GMT</pubDate>
       <guid isPermaLink="false">4d1ab8c87b68</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/1000-toksycznych-substancji-Powszechny-blad-rujnuje-zdrowie,287334,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Czołowe zderzenie kampera z autobusem. &quot;Scena jak z wojny”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1c8c4f52d34</link>
+      <description>Tragiczny wypadek drogowy we Włoszech. W niedzielne popołudnie na drodze krajowej nr 79 w Ternanie, na granicy regionów Lacjum i Umbrii w pobliżu jeziora Ventina, doszło do czołowego zderzenia kampera z autobusem. W wyniku zdarzenia śmierć poniosło sześć osób, a 26 zostało rannych, w tym trzy ciężko.</description>
+      <pubDate>Sun, 02 Aug 2026 20:07:00 GMT</pubDate>
+      <guid isPermaLink="false">b1c8c4f52d34</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-czolowe-zderzenie-kampera-z-autobusem-scena-jak-z-wojny,nIdn,1012265">RMF24</source>
+    </item>
+    <item>
+      <title>My personal AI benchmark: &quot;Generate an SVG of a frog with a Habsburg jaw.&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6bb183499112</link>
+      <description>One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.</description>
+      <pubDate>Sun, 02 Aug 2026 19:42:08 GMT</pubDate>
+      <guid isPermaLink="false">6bb183499112</guid>
+      <source url="https://frogs.vaguespac.es/">Hacker News</source>
+    </item>
+    <item>
+      <title>Alarm w Pentagonie. Amerykański generał ostrzega przed brakiem okrętów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9a9176c5bba5</link>
+      <description>Amerykańskiej marynarce wojennej zaczyna brakować niszczycieli, a wielomiesięczna wojna z Iranem doprowadziła do poważnego wyczerpania zasobów uzbrojenia i sprzętu. Jak donosi „The Washington Post”, najwyższy dowódca sił USA w Europie, generał Alexus Grynkewich, skierował do Pentagonu ostrzeżenie. Wskazał w nim, że jeśli flota nie otrzyma pilnego wsparcia w postaci nowych okrętów, zostanie zmuszony do podjęcia decyzji: wyboru pomiędzy obroną terytorium Stanów Zjednoczonych a dalszym wspieraniem obrony Izraela.</description>
+      <pubDate>Sun, 02 Aug 2026 19:40:00 GMT</pubDate>
+      <guid isPermaLink="false">9a9176c5bba5</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-alarm-w-pentagonie-amerykanski-general-ostrzega-przed-brakie,nIdn,1012264">RMF24</source>
     </item>
     <item>
       <title>Bartłomiej Kubkowski przepłynął Bałtyk wpław. Ważna dedykacja rekordzisty</title>
@@ -70,6 +150,14 @@
       <pubDate>Sun, 02 Aug 2026 18:52:22 GMT</pubDate>
       <guid isPermaLink="false">0651b9953801</guid>
       <source url="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros">Hacker News</source>
+    </item>
+    <item>
+      <title>How ransom notes could help catch Nancy Guthrie&apos;s kidnapper</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/03cb48f0df5e</link>
+      <description>A forensic linguist told the BBC it&apos;s possible to glean crucial information about a person from just a few sentences.</description>
+      <pubDate>Sun, 02 Aug 2026 18:40:22 GMT</pubDate>
+      <guid isPermaLink="false">03cb48f0df5e</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c2dkng21dg2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Ukraińskie drony zniszczyły kolejne centrum logistyczne Wildberries w Rosji</title>
@@ -318,94 +406,6 @@
       <pubDate>Sun, 02 Aug 2026 16:03:00 GMT</pubDate>
       <guid isPermaLink="false">f80e9b721f90</guid>
       <source url="https://www.rmf24.pl/regiony/slaskie/news-downhillowa-formula-1-w-szczyrku-za-nami-kto-okazal-sie-najl,nIdn,1012251">RMF24</source>
-    </item>
-    <item>
-      <title>Kąpiel metr od przepaści. Tak wygląda najniebezpieczniejszy basen świata</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f6cb0a6a7944</link>
-      <description>Tuż za skalną krawędzią znajduje się ponad stumetrowa przepaść. „Diabelski Basen&quot; w Zambii został okrzyknięty przez wielu jednym z najniebezpieczniejszych akwenów świata. Mimo to od lat przyciąga setki turystów gotowych przeżyć dreszczyk emocji w rajskiej scenerii.</description>
-      <pubDate>Sun, 02 Aug 2026 15:51:00 GMT</pubDate>
-      <guid isPermaLink="false">f6cb0a6a7944</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-kapiel-metr-od-przepasci-tak-wyglada-najniebezpieczniejszy-b,nIdn,1012100">RMF24</source>
-    </item>
-    <item>
-      <title>At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6ce9d1acb681</link>
-      <description>Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.</description>
-      <pubDate>Sun, 02 Aug 2026 15:50:59 GMT</pubDate>
-      <guid isPermaLink="false">6ce9d1acb681</guid>
-      <source url="https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77f6de25f623</link>
-      <description>Russia&apos;s military says it attacked Ukraine&apos;s ports and vessels in the Black Sea overnight.</description>
-      <pubDate>Sun, 02 Aug 2026 15:48:00 GMT</pubDate>
-      <guid isPermaLink="false">77f6de25f623</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>How the words we teach English language learners changed</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4f7f0a562ddd</link>
-      <description>Differences between “essential vocabulary” lists, 1953 vs. 2023</description>
-      <pubDate>Sun, 02 Aug 2026 15:41:08 GMT</pubDate>
-      <guid isPermaLink="false">4f7f0a562ddd</guid>
-      <source url="https://pudding.cool/2026/07/essential-words/">Hacker News</source>
-    </item>
-    <item>
-      <title>Zmasowany atak ukraińskich dronów. Rosja donosi o rekordowych zestrzeleniach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da8e329f4ea8</link>
-      <description>W nocy z 1 na 2 sierpnia ukraińskie Siły Obronne przeprowadziły szeroko zakrojony atak z użyciem bezzałogowców na rosyjskie obiekty wojskowe, przemysłowe i logistyczne. Celem uderzeń stały się m.in. rafineria w Saratowie, lotnisko strategiczne w Engelsie oraz skład ropy w obwodzie kałużskim. Rosyjskie Ministerstwo Obrony twierdzi z kolei, że w ciągu minionej doby zestrzeliło rekordowe ponad 1100 ukraińskich dronów.</description>
-      <pubDate>Sun, 02 Aug 2026 15:34:00 GMT</pubDate>
-      <guid isPermaLink="false">da8e329f4ea8</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zmasowany-atak-ukrainskich-dronow-rosja-donosi-o-rekordowych,nIdn,1012249">RMF24</source>
-    </item>
-    <item>
-      <title>Rabat się nie naliczył? Żabka tłumaczy niedzielny błąd w swoich sklepach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2d7e84ad889e</link>
-      <description>W niedzielę występują błędy przy naliczeniu rabatów na produkty w sklepach Żabka - poinformowała w niedzielę spółka. Jak podkreślono, problem został rozwiązany w blisko 90 proc. sklepów, a prace w pozostałych placówkach są kontynuowane.</description>
-      <pubDate>Sun, 02 Aug 2026 15:34:00 GMT</pubDate>
-      <guid isPermaLink="false">2d7e84ad889e</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Zrezygnuj z tego przed 2. urodzinami dziecka. Wyniki nowych badań</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/36c47d2e5a0a</link>
-      <description>Chcesz chronić mózg swojego dziecka w dorosłości? Kluczem może być to, co podajesz mu do jedzenia przed ukończeniem 2. roku życia. Nowe badanie brytyjskiej populacji pokazuje, że mniejsze spożycie cukru we wczesnym dzieciństwie drastycznie obniża ryzyko groźnych chorób neurodegeneracyjnych wiele dekad później.</description>
-      <pubDate>Sun, 02 Aug 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="false">36c47d2e5a0a</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-zrezygnuj-z-tego-przed-2-urodzinami-dziecka-wyniki-nowych-ba,nIdn,1011972">RMF24</source>
-    </item>
-    <item>
-      <title>Troje pacjentów wykluczonych z programu lekowego. Sprawa dotarła do Sejmu: &quot;zespół i tak podchodzi liberalnie&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6a4341d0197f</link>
-      <description>Troje pacjentów z chorobą Pompego zostało ostatnio wykluczonych z programu lekowego, alarmują rodziny chorych. Byli w tej sprawie w Sejmie. Trzeba zmienić zapis całego programu, powiedział doktor habilitowany Dariusz Rokicki.</description>
-      <pubDate>Sun, 02 Aug 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">6a4341d0197f</guid>
-      <source url="https://www.rynekzdrowia.pl/choroby-rzadkie/Troje-pacjentow-wykluczonych-z-programu-lekowego-Sprawa-dotarla-do-Sejmu-zespol-i-tak-podchodzi-liberalnie,287252,1024.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Emma Finucane wins four gold medals in Commonwealth Games first</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f4666fbab2f</link>
-      <description>Welsh star Emma Finucane creates history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games.</description>
-      <pubDate>Sun, 02 Aug 2026 15:27:52 GMT</pubDate>
-      <guid isPermaLink="false">9f4666fbab2f</guid>
-      <source url="https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Post przerywany działa nie tylko na boczki. Zaskakujące wyniki badań nad mózgiem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a0d7aab267c</link>
-      <description>Zaskakujące wyniki eksperymentu amerykańskich naukowców. Badanie zaprezentowane na konferencji „Nutrition 2026” wykazało, że popularny intermittent fasting przynosi niespodziewane efekty dla zdrowia psychicznego. Kobiety, które zamykały swoje okno żywieniowe w 9 godzinach, zaczęły popełniać znacznie mniej błędów w testach pamięciowych. Co dokładnie dzieje się z mózgiem, gdy rezygnujemy z jedzenia przed snem?</description>
-      <pubDate>Sun, 02 Aug 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="false">2a0d7aab267c</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-post-przerywany-dziala-nie-tylko-na-boczki-zaskakujace-wynik,nIdn,1011839">RMF24</source>
-    </item>
-    <item>
-      <title>Top of the Top Sopot Festival 2026. Małgorzata Ostrowska o swoim występie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/789b8df492d7</link>
-      <description>Jeszcze prawie miesiąc, ale już się szykujemy - powiedziała w TVN24 piosenkarka Małgorzata Ostrowska, która za kilka tygodni wystąpi na tegorocznym Top of the Top Sopot Festival. Podzieliła się szczegółami swoich przygotowań.</description>
-      <pubDate>Sun, 02 Aug 2026 15:26:38 GMT</pubDate>
-      <guid isPermaLink="false">789b8df492d7</guid>
-      <source url="https://tvn24.pl/polska/top-of-the-top-sopot-festival-2026-malgorzata-ostrowska-o-swoim-wystepie-st9170460?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
