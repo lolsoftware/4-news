@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 02 Aug 2026 10:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:37:29 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>288 leków na liście antywywozowej. Ministerstwo Zdrowia tłumaczy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c04845e85101</link>
+      <description>Ministerstwo Zdrowia nie planuje zmieniać zasad tworzenia listy antywywozowej. Jak podkreśla Mateusz Oczkowski, dyrektor Departamentu Polityki Lekowej i Farmacji MZ, jest to narzędzie prewencyjne, a nie wykaz leków, których brakuje w obrocie. Obecnie znajduje się na niej 288 produktów, czyli 1,6 proc. wszystkich pozwoleń na dopuszczenie do obrotu w Polsce.</description>
+      <pubDate>Sun, 02 Aug 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="false">c04845e85101</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/288-lekow-na-liscie-antywywozowej-Ministerstwo-Zdrowia-tlumaczy,287294,6.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>ZUS potrąci zaległe składki z emerytury. Rząd pracuje nad zmianą</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3cb0c31dcd09</link>
@@ -14,6 +22,22 @@
       <pubDate>Sun, 02 Aug 2026 11:53:00 GMT</pubDate>
       <guid isPermaLink="false">3cb0c31dcd09</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-potraci-zalegle-skladki-z-emerytury-Rzad-pracuje-nad-zmiana,287146,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Termometry wskazały 42,5 st. C. W tym kraju padł historyczny rekord</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1a391429d740</link>
+      <description>42,5 stopnia Celsjusza odnotowano w niedzielę w mieście Yangsan w Korei Południowej – przekazała Koreańska Administracja Meteorologiczna. To najwyższy w historii pomiar od 1904 roku. Upały przynoszą w tym kraju ofiary śmiertelne. Władze zalecają wstrzymanie wszelkiej aktywności na zewnątrz.</description>
+      <pubDate>Sun, 02 Aug 2026 11:24:00 GMT</pubDate>
+      <guid isPermaLink="false">1a391429d740</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-termometry-wskazaly-425-st-c-w-tym-kraju-padl-historyczny-re,nIdn,1012232">RMF24</source>
+    </item>
+    <item>
+      <title>Awaria wyszukiwarki Google. Kluczowa funkcja nie działa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/426dd8984d41</link>
+      <description>Wyszukiwarka Google ma problem. Jedno z najpopularniejszych narzędzie przestało działać. Na szczęście znaleziono sposób, jak to obejść.</description>
+      <pubDate>Sun, 02 Aug 2026 11:15:32 GMT</pubDate>
+      <guid isPermaLink="false">426dd8984d41</guid>
+      <source url="https://antyweb.pl/awaria-wyszukiwarki-google-kluczowa-funkcja-nie-dziala">Antyweb</source>
     </item>
     <item>
       <title>Numer 1 na stan zapalny. Letni owoc poprawia też sen i wzmacnia stawy</title>
@@ -24,12 +48,100 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Numer-1-na-stan-zapalny-Letni-owoc-poprawia-tez-sen-i-wzmacnia-stawy,287307,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Tramwaj zderzył się z busem. Groźny wypadek we Wrocławiu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6f698a4b1ea</link>
+      <description>Groźny wypadek we Wrocławiu. Na skrzyżowaniu Toruńskiej i Brucknera tramwaj zderzył się z busem. Są ranni.</description>
+      <pubDate>Sun, 02 Aug 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="false">c6f698a4b1ea</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-tramwaj-zderzyl-sie-z-busem-grozny-wypadek-we-wroclawiu,nIdn,1012230">RMF24</source>
+    </item>
+    <item>
+      <title>Google Pay przestało działać na chińskich smartfonach. To nie jest awaria</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7f34a63863b3</link>
+      <description>Wraz z najnowszą aktualizacją usług Google Play Services, amerykański gigant technologiczny wprowadził zmianę, która dla wielu osób oznaczać będzie spore niedogodności podczas codziennych zakupów. Osoby korzystające ze smartfonów sprowadzanych bezpośrednio z Chin straciły możliwość wygodnego płacenia zbliżeniowo za pomocą aplikacji Portfel Google.</description>
+      <pubDate>Sun, 02 Aug 2026 11:00:19 GMT</pubDate>
+      <guid isPermaLink="false">7f34a63863b3</guid>
+      <source url="https://antyweb.pl/google-pay-przestalo-dzialac-na-chinskich-smartfonach-to-nie-jest-awaria">Antyweb</source>
+    </item>
+    <item>
+      <title>Pożegnanie z PRL-owskim reliktem. Rząd w końcu likwiduje adres zameldowania</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f30d3be3391c</link>
+      <description>Szykują się duże zmiany. Adres zamieszkania ma bowiem zastąpić adres zameldowania. Rządowe plany mogą mieć spore nieruchomościowe znaczenie.</description>
+      <pubDate>Sun, 02 Aug 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f30d3be3391c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Pozegnanie-z-PRL-owskim-reliktem-Rzad-w-koncu-likwiduje-adres-zameldowania-9174872.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>&quot;Szariat light&quot;. Bogaci Arabowie znaleźli sposób na ominięcie prawa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/44b33249cb52</link>
+      <description>Bogaci Saudyjczycy i inne rody z rejonu Zatoki Perskiej znaleźli sprytny sposób na testamenty, które obchodzą prawo szariatu, a co za tym idzie - pozwalają dziedziczyć części majątku wszystkim dzieciom. Uciekają z ostatnią wolną na Wyspy Brytyjskie, a tym samym - podlegają pod angielskie prawo.</description>
+      <pubDate>Sun, 02 Aug 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">44b33249cb52</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Szariat-light-Bogaci-Arabowie-znalezli-sposob-na-ominiecie-prawa-9175586.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>It was about the adventure, says fastest runner to cross the Alps</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/65cb2d9e1f5b</link>
+      <description>Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.</description>
+      <pubDate>Sun, 02 Aug 2026 10:59:55 GMT</pubDate>
+      <guid isPermaLink="false">65cb2d9e1f5b</guid>
+      <source url="https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Five dead, 41 missing, after Indonesia ferry catches fire</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5de587695429</link>
+      <description>The vessel with at least 250 people on board caught fire off Madura island.</description>
+      <pubDate>Sun, 02 Aug 2026 10:46:47 GMT</pubDate>
+      <guid isPermaLink="false">5de587695429</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Is the Industrial Revolution a good precedent for explosive growth today?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/18102c4ff063</link>
+      <description>One line of evidence that AI might lead to explosive economic growth is the precedent set by the Industrial Revolution. For hundreds of years — 1252 to 1652, to be precise — the compound annual growth rate of per capita real GDP in the UK was around 0.07%. It then began to accelerate, settling into a new compound rate of around 1.02% per year by 1850, which it held until 1913. In other words, growth accelerated by roughly 15 times before; the argument goes that this should make us humble about predicting it can’t happen again, and perhaps we should be open to accelerations of 10 times or more today.</description>
+      <pubDate>Sun, 02 Aug 2026 10:25:25 GMT</pubDate>
+      <guid isPermaLink="false">18102c4ff063</guid>
+      <source url="https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4aaa826d3d82</link>
+      <description>Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.</description>
+      <pubDate>Sun, 02 Aug 2026 10:18:24 GMT</pubDate>
+      <guid isPermaLink="false">4aaa826d3d82</guid>
+      <source url="https://publicdomainreview.org/essay/ars-notoria/">Hacker News</source>
+    </item>
+    <item>
+      <title>Ukraińskie drony w rękach Rosjan: Tak Kreml ma szykować się do prowokacji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1d7c21af5ab</link>
+      <description>Rosja najpewniej zaczęła wykorzystywać przejęte ukraińskie drony do prowokacyjnych ataków, o których uprzedzano wcześniej w Polsce – donosi ukraiński portal wojskowy Militarny. O takiej możliwości alarmował jeszcze pod koniec lipca szef MON Władysław Kosiniak-Kamysz.</description>
+      <pubDate>Sun, 02 Aug 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="false">f1d7c21af5ab</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-ukrainskie-drony-w-rekach-rosjan-tak-kreml-ma-szykowac-sie-d,nIdn,1012228">RMF24</source>
+    </item>
+    <item>
+      <title>Polska ma nadzór nad sztuczną inteligencją. KRiBSI rusza w listopadzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9966260a75af</link>
+      <description>Sztuczna inteligencja jest nie tylko przyjaznym towarzyszem rozmowy i pomocą w pracy. Jest problemem. I to takim, który trzeba kontrolować. Dlatego też Polska powołuje ważną funkcję nadzorczą.</description>
+      <pubDate>Sun, 02 Aug 2026 10:15:28 GMT</pubDate>
+      <guid isPermaLink="false">9966260a75af</guid>
+      <source url="https://antyweb.pl/polska-ma-nadzor-nad-sztuczna-inteligencja-kribsi-rusza-w-listopadzie">Antyweb</source>
+    </item>
+    <item>
       <title>Korea Południowa. Padł historyczny rekord gorąca. Czwarty dzień z rzędu</title>
       <link>https://lolsoftware.github.io/4-news/#/article/e5dbee8f62f2</link>
       <description>Rekord temperatury został pobity w niedzielę w Korei Południowej. Termometry w mieście Yangsan pokazały 42,5 stopnia Celsjusza, najwyższą wartość w historii obserwacji. W kraju obowiązują ostrzeżenia przed skwarem, lokalnie najwyższego stopnia.</description>
       <pubDate>Sun, 02 Aug 2026 10:03:45 GMT</pubDate>
       <guid isPermaLink="false">e5dbee8f62f2</guid>
       <source url="https://tvn24.pl/tvnmeteo/swiat/korea-poludniowa-padl-historyczny-rekord-goraca-czwarty-dzien-z-rzedu-st9169918?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>PlayStation nie ugnie się przed graczami i nie cofnie kontrowersyjnej decyzji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8c8079d795ac</link>
+      <description>Antyweb to blog o technologiach takich jak smartfony, komputery czy internet. Odwiedź też nasz kanał na YouTube! Dodaj nas do RSS!</description>
+      <pubDate>Sun, 02 Aug 2026 10:00:13 GMT</pubDate>
+      <guid isPermaLink="false">8c8079d795ac</guid>
+      <source url="https://antyweb.pl/playstation-nie-ugnie-sie-przed-graczami-i-nie-cofnie-kontrowersyjnej-decyzji">Antyweb</source>
     </item>
     <item>
       <title>Zamknięcie szlaku do malowniczej przełęczy w Tatrach. Konieczny jest remont</title>
@@ -62,6 +174,14 @@
       <pubDate>Sun, 02 Aug 2026 09:49:11 GMT</pubDate>
       <guid isPermaLink="false">56ddfac71901</guid>
       <source url="https://tvn24.pl/lodz/pedzil-hulajnoga-80-km-h-w-terenie-zabudowanym-stanie-przed-sadem-st9170010?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd522fbdb53c</link>
+      <description>Offline-first SQL sync with Typescript and Rust cores - syncular/syncular</description>
+      <pubDate>Sun, 02 Aug 2026 09:48:08 GMT</pubDate>
+      <guid isPermaLink="false">bd522fbdb53c</guid>
+      <source url="https://github.com/syncular/syncular">Hacker News</source>
     </item>
     <item>
       <title>Usłyszeli wybuch, potem zobaczyli ogień na jeziorze. Łódź stanęła w płomieniach</title>
@@ -118,6 +238,15 @@
       <pubDate>Sun, 02 Aug 2026 09:13:39 GMT</pubDate>
       <guid isPermaLink="false">4fdfa582a612</guid>
       <source url="https://tvn24.pl/biznes/ze-swiata/wielka-awaria-pradu-na-kubie-jedna-trzecia-kraju-w-ciemnosciach-st9169874?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Show HN: Bor – Open-source policy management for Linux desktops</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/202abc4f35e1</link>
+      <description>Bor v0.8.0 is out. This release adds three new policy types — Thunderbird, Microsoft Edge for Business, and Firewalld zones — alongside a full web UI overhaul, finer-grained RBAC, and a dedicated security hardening pass. The complete changelog is on the GitHub release page.
+Thunderbird policy type Mozilla Thunderbird can now be managed on enrolled desktops with the same mechanism used for Firefox ESR. The agent writes the managed policies.json that Thunderbird expects, merged from all bound policies, and removing the last policy restores the original file.</description>
+      <pubDate>Sun, 02 Aug 2026 09:06:33 GMT</pubDate>
+      <guid isPermaLink="false">202abc4f35e1</guid>
+      <source url="https://getbor.dev/blog/2026-08-02-bor-v080-release/">Hacker News</source>
     </item>
     <item>
       <title>Gra o biliony i giełdowy wyścig zbrojeń o odchudzanie. Kolejne leki już na horyzoncie</title>
@@ -232,6 +361,14 @@
       <source url="https://antyweb.pl/czy-saturator-pozwala-zaoszczedzic-pieniadze">Antyweb</source>
     </item>
     <item>
+      <title>Cyberscript</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9ac7e8f7bfa5</link>
+      <description>Cyber is a fast and concurrent scripting language.</description>
+      <pubDate>Sun, 02 Aug 2026 07:58:30 GMT</pubDate>
+      <guid isPermaLink="false">9ac7e8f7bfa5</guid>
+      <source url="https://cyberscript.dev/">Hacker News</source>
+    </item>
+    <item>
       <title>Spadł z peronu pod pociąg. Jego życia nie udało się uratować</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f14edfc3b7a1</link>
       <description>Wypadek na stacji kolejowej w Tłuszczu (Mazowsze). Mężczyzna spadł z peronu na torowisko i został potrącony przez pociąg. Jego życia nie udało się uratować.</description>
@@ -270,142 +407,6 @@
       <pubDate>Sun, 02 Aug 2026 07:09:38 GMT</pubDate>
       <guid isPermaLink="false">f7389b34d857</guid>
       <source url="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/">Hacker News</source>
-    </item>
-    <item>
-      <title>Wyjątkowy dzień dla katolików. Dotyczy każdego wiernego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3557f8f5a2e1</link>
-      <description>W Kościele katolickim, w przypadające 2 sierpnia święto Matki Bożej Anielskiej, każdy wierny może uzyskać odpust zupełny, tzw. Porcjunkuli. Aby tego dostąpić, trzeba odwiedzić jakikolwiek kościół, jednocześnie spełniając zwykłe warunki konieczne do uzyskania odpustu. Przywilej ten sięga czasów św. Franciszka z Asyżu.</description>
-      <pubDate>Sun, 02 Aug 2026 07:02:00 GMT</pubDate>
-      <guid isPermaLink="false">3557f8f5a2e1</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-wyjatkowy-dzien-dla-katolikow-dotyczy-kazdego-wiernego,nIdn,1012219">RMF24</source>
-    </item>
-    <item>
-      <title>Wystarczy niewielki wydatek, a Twoje zdjęcia zyskają nową jakość!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ada7596386ad</link>
-      <description>Czasami by dodać zdjęciu magii nie potrzeba wcale nowego obiektywu, lepszego aparatu czy też bajeranckiego zestawu świateł. Wystarczy po prostu... filtr, który ożywi scenę i sprawi, że całość nabierze mocy!</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:06 GMT</pubDate>
-      <guid isPermaLink="false">ada7596386ad</guid>
-      <source url="https://antyweb.pl/filtry-walking-way-gwiazdki-smugi-rainbow-opinia-test">Antyweb</source>
-    </item>
-    <item>
-      <title>Urlopowe ubóstwo w Europie rośnie. Zobacz, na którym miejscu jest Polska</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3109c7d2fa95</link>
-      <description>W 2025 r. 27,5 proc. mieszkańców Unii Europejskiej w wieku 16 lat i więcej nie mogło pozwolić sobie finansowo na tygodniowy urlop poza miejscem zamieszkania. Oznacza to wzrost o 0,5 pkt proc. w porównaniu z 2024 r. - wynika z danych Eurostatu.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">3109c7d2fa95</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Urlopowe-ubostwo-w-Europie-rosnie-Zobacz-na-ktorym-miejscu-jest-Polska-9175515.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Polski hit eksportowy słabnie. Przegrywamy z Chinami, Ukrainą i Wietnamem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a4a943dbb3e9</link>
-      <description>Pogłębia się spadek produkcji sprzedanej sektora meblarskiego - ocenia w analizie sektorowej Polski Fundusz Rozwoju.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">a4a943dbb3e9</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polski-hit-eksportowy-slabnie-Przegrywamy-z-Chinami-Ukraina-i-Wietnamem-9173748.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Miliarder chce odebrać prawo głosu biednym i emerytom. Sobie przyzna więcej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0fd838daed53</link>
-      <description>Kanadyjskie media ze zdumieniem opisują propozycję odebrania prawa głosu najbiedniejszym i emerytom oraz rozszerzenia prawa głosu najbogatszych, o której w mediach społecznościowych dyskutował m.in. właściciel jednej z największych kanadyjskich firm, Shopify.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0fd838daed53</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Miliarder-chce-odebrac-prawo-glosu-biednym-i-emerytom-Sobie-przyzna-wiecej-9175288.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Wielka obława w słynnym &quot;mieście-widmie&quot;. Wpadło ponad 300 oszustów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/83806fe8c077</link>
-      <description>Malezyjska policja poinformowała we wtorek o aresztowaniu ponad 300 osób, w tym blisko 200 obcokrajowców w przeprowadzonej w połowie lipca, a zakrojonej na szeroką skalę akcji wymierzonej w centra scamu, czyli oszustw polegających na wyłudzaniu pieniędzy lub wrażliwych danych.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">83806fe8c077</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Wielka-oblawa-w-slynnym-miescie-widmie-Wpadlo-ponad-300-oszustow-9174367.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ogień trawi Europę, a samoloty gaśnicze są uziemione. Druzgocąca diagnoza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/353baef34ab6</link>
-      <description>Francuski dziennik „Le Monde” podkreśla, że skrajne zjawiska klimatyczne, jak upały i pożary powtarzają się we Francji i wymagają nowej odpowiedzi, we Francji i w skali Unii Europejskiej. Ostrzega, że unijny mechanizm obrony ludności może w przyszłości osiągnąć kres swoich możliwości.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">353baef34ab6</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ogien-trawi-Europe-a-samoloty-gasnicze-sa-uziemione-Druzgocaca-diagnoza-9173680.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Dolina Trzech Stawów po remoncie. Naprawiono szkody górnicze za 3,9 mln zł</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e0f7ae1c1aa3</link>
-      <description>Fragment znanej w Katowicach alei rekreacyjnej w Dolinie Trzech Stawów, który wskutek szkód górniczych bywał zalewany wodami opadowymi lub roztopowymi, został naprawiony - wynika z piątkowej informacji miasta. Przy współpracy z PGG obniżony teren podniesiono, a infrastrukturę odbudowano.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e0f7ae1c1aa3</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Dolina-Trzech-Stawow-po-remoncie-Naprawiono-szkody-gornicze-za-3-9-mln-zl-9176342.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Chwila ulgi po upale. Co czeka nas dziś w pogodzie?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b3c7c5d38462</link>
-      <description>Po kilku wyjątkowo upalnych dniach i burzowej sobocie niedziela przyniesie nam odrobinę oddechu. Jak informuje Instytut Meteorologii i Gospodarki Wodnej, najcieplej będzie na południowym wschodzie kraju - tam na termometrach możemy zobaczyć do 30 stopni.</description>
-      <pubDate>Sun, 02 Aug 2026 06:47:00 GMT</pubDate>
-      <guid isPermaLink="false">b3c7c5d38462</guid>
-      <source url="https://www.rmf24.pl/fakty/pogoda/news-chwila-ulgi-po-upale-co-czeka-nas-dzis-w-pogodzie,nIdn,1012218">RMF24</source>
-    </item>
-    <item>
-      <title>Gest króla Maroka. Nadał imię Donalda Trumpa autostradzie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a449aad0e95</link>
-      <description>Autostrada Donalda J. Trumpa - to nowa oficjalna nazwa trasy łączącej południe Maroka z Saharą Zachodnią. Imię amerykańskiego przywódcy nadał tej drodze król Muhammad VI. To podziękowanie za uznanie przez USA zwierzchnictwa Maroka nad spornym terytorium.</description>
-      <pubDate>Sun, 02 Aug 2026 06:43:52 GMT</pubDate>
-      <guid isPermaLink="false">2a449aad0e95</guid>
-      <source url="https://tvn24.pl/swiat/maroko-krol-nadal-autostradzie-imie-donalda-trumpa-st9169714?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Szczęśliwa sobota w Lotto. Takiego wyniku dawno nie było</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46ebe6b594a7</link>
-      <description>W sobotnim losowaniu Lotto aż trzem graczom udało się poprawnie wytypować wszystkie sześć liczb. W Lotto Plus również padła wygrana pierwszego stopnia, choć tylko dla jednej osoby. Oto wyniki losowania z 1 sierpnia 2026 roku.</description>
-      <pubDate>Sun, 02 Aug 2026 06:35:08 GMT</pubDate>
-      <guid isPermaLink="false">46ebe6b594a7</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/wysyp-szostek-w-lotto-wyniki-losowania-z-1-sierpnia-2026-st9169765?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ten test zastąpił tradycyjną cytologię. Jest znacznie skuteczniejszy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39066ee984d3</link>
-      <description>Wykrywa przyczynę zamiast skutku i jest bardziej czuły od tradycyjnego badania - od 1 sierpnia test HPV HR zastąpił klasyczną cytologię. I jest finansowany przez NFZ. Dzięki temu profilaktyka raka szyjki macicy ma być skuteczniejsza niż do tej pory. Materiał Adrianny Otręby z &quot;Faktów&quot; TVN.</description>
-      <pubDate>Sun, 02 Aug 2026 06:31:40 GMT</pubDate>
-      <guid isPermaLink="false">39066ee984d3</guid>
-      <source url="https://tvn24.pl/zdrowie/test-hpv-hr-zastapil-tradycyjna-cytologie-jest-znacznie-skuteczniejszy-st9169706?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Włochy. Pachniało dymem, ale nic nie płonęło. Zagadkowy swąd we Florencji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ee26e165ffed</link>
-      <description>W sobotę Florencja pachniała dymem z pożarów, chociaż w mieście i okolicach nie było widać ognia. Lokalnym władzom udało się ustalić, dlaczego nad prowincją unosił się swąd sadzy - jak się okazało, pochodził on z bardzo daleka.</description>
-      <pubDate>Sun, 02 Aug 2026 06:31:38 GMT</pubDate>
-      <guid isPermaLink="false">ee26e165ffed</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/wlochy-pachnialo-dymem-ale-nic-nie-plonelo-zagadkowy-swad-we-florencji-st9169753?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Trump says he is cancelling strikes on Iran subject to deal being made &apos;rapidly&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b1dbe2b7430b</link>
-      <description>The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the &quot;perimeters&quot; of a deal had been agreed.</description>
-      <pubDate>Sun, 02 Aug 2026 06:24:01 GMT</pubDate>
-      <guid isPermaLink="false">b1dbe2b7430b</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Katastrofa samolotu w Peru. Zginęli turyści z Europy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/859bf13e0321</link>
-      <description>13 osób zginęło w katastrofie samolotu niedaleko miasta Nazca w Peru. 11 ofiar to turyści z Włoch, Niemiec i Hiszpanii.</description>
-      <pubDate>Sun, 02 Aug 2026 06:13:23 GMT</pubDate>
-      <guid isPermaLink="false">859bf13e0321</guid>
-      <source url="https://tvn24.pl/swiat/peru-katastrofa-samolotu-z-turystami-z-europy-wszyscy-zgineli-st9169716?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Finlandia zamyka „przejścia graniczne” dla dzikich zwierząt. Wszystko przez groźnego wirusa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/16f2f8a6706f</link>
-      <description>Przejścia dla dzikiej zwierzyny na części granicy fińsko-rosyjskiej zostały zamknięte z początkiem sierpnia – poinformował w sobotę wydział ds. sytuacji nadzwyczajnych fińskiej straży granicznej. Finowie obawiają się ryzyka rozprzestrzenienia się wirusa afrykańskiego pomoru świń (ASF).</description>
-      <pubDate>Sun, 02 Aug 2026 06:13:00 GMT</pubDate>
-      <guid isPermaLink="false">16f2f8a6706f</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-finlandia-zamyka-przejscia-graniczne-dla-dzikich-zwierzat-ws,nIdn,1012216">RMF24</source>
-    </item>
-    <item>
-      <title>„Zgodziłem się, dla dobra świata”. Trump wstrzymał atak na Iran</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a30149338a29</link>
-      <description>Prezydent USA Donald Trump ogłosił, że zgodził się wstrzymać uderzenie na Iran. Amerykański przywódca postawił jednak warunek – prezydent oczekuje, że Waszyngton i Teheran „będą w stanie szybko zawrzeć porozumienie”. W jego zakres miałoby wejść przede wszystkim otwarcie cieśniny Ormuz.</description>
-      <pubDate>Sun, 02 Aug 2026 05:33:00 GMT</pubDate>
-      <guid isPermaLink="false">a30149338a29</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zgodzilem-sie-dla-dobra-swiata-trump-wstrzymal-atak-na-iran,nIdn,1012215">RMF24</source>
     </item>
   </channel>
 </rss>
