@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 03 Aug 2026 20:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 21:33:23 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LLMs reward expertise</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/87da4fd2d88c</link>
+      <description>In the 2010s, if you had technical gaps (say, you couldn’t write CSS), you had to either rely on a skilled colleague or just hope that the answer to your exact problem was out there on the internet. Today, everyone can write sort-of-okay CSS by delegating the task to an LLM. LLMs make everybody into a generalist.</description>
+      <pubDate>Mon, 03 Aug 2026 21:13:53 GMT</pubDate>
+      <guid isPermaLink="false">87da4fd2d88c</guid>
+      <source url="https://www.seangoedecke.com/llms-reward-expertise/">Hacker News</source>
+    </item>
+    <item>
+      <title>Nie możesz się oderwać od pracy na wakacjach? Naukowcy mają na to sposób!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/edafda1e200f</link>
+      <description>Długie godziny spędzane w biurze, gotowość do odbierania służbowych telefonów po pracy czy wykonywanie obowiązków w czasie urlopu bywają postrzegane jako dowód ambicji i profesjonalizmu. Intensywne zaangażowanie się w pracę nie zawsze jednak oznacza to samo. Za podobnymi zachowaniami może kryć się zupełnie odmienna motywacja i konsekwencje dla zdrowia oraz jakości życia - wynika z publikacji psycholożek UJ.</description>
+      <pubDate>Mon, 03 Aug 2026 21:13:00 GMT</pubDate>
+      <guid isPermaLink="false">edafda1e200f</guid>
+      <source url="https://www.rmf24.pl/psychika-twoje-zdrowie-fm/news-naukowcy-maja-sposob-na-pracoholizm-w-wakacje,nIdn,1012387">RMF24</source>
+    </item>
+    <item>
+      <title>Jay Clayton stanął na czele amerykańskiej wspólnoty wywiadowczej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1428f523905c</link>
+      <description>Jay Clayton objął w poniedziałek stanowisko Dyrektora Wywiadu Narodowego USA. Będzie koordynował pracę 18 federalnych agencji i jednostek wywiadowczych. Jego nominację, zgłoszoną przez prezydenta Donalda Trumpa, Senat zatwierdził w ubiegłym tygodniu głosami republikanów.</description>
+      <pubDate>Mon, 03 Aug 2026 20:56:00 GMT</pubDate>
+      <guid isPermaLink="false">1428f523905c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-jay-clayton-stanal-na-czele-amerykanskiej-wspolnoty-wywiadow,nIdn,1012386">RMF24</source>
+    </item>
+    <item>
+      <title>Złe wieści dla Trumpa i republikanów. Takiego sondażu nie było od 2017 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/955b2274107f</link>
+      <description>Rosnące ceny paliw i niepewność gospodarcza odbijają się na notowaniach Donalda Trumpa oraz Partii Republikańskiej - wynika z najnowszego sondażu Reuters/Ipsos. Po raz pierwszy od blisko dekady więcej Amerykanów wskazało demokratów niż republikanów jako formację lepiej przygotowaną do zarządzania gospodarką.</description>
+      <pubDate>Mon, 03 Aug 2026 20:41:00 GMT</pubDate>
+      <guid isPermaLink="false">955b2274107f</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zle-wiesci-dla-trumpa-i-republikanow-takiego-sondazu-nie-byl,nIdn,1012384">RMF24</source>
+    </item>
+    <item>
+      <title>Zawał nie zawsze wygląda tak samo. 7 nieoczywistych objawów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e8d9a452b5b1</link>
+      <description>Upalne dni to dla organizmu duże wyzwanie. Wysoka temperatura może nie tylko powodować zmęczenie i osłabienie, ale także zwiększać obciążenie układu krążenia. Szczególnie narażone są osoby z chorobami serca, nadciśnieniem tętniczym, cukrzycą oraz innymi czynnikami ryzyka.</description>
+      <pubDate>Mon, 03 Aug 2026 20:31:00 GMT</pubDate>
+      <guid isPermaLink="false">e8d9a452b5b1</guid>
+      <source url="https://www.rmf24.pl/serce-cialo-twoje-zdrowie-fm/news-najbardziej-nieoczywiste-objawy-ataku-serca,nIdn,1012385">RMF24</source>
+    </item>
+    <item>
+      <title>Research roundup: 6 cool science stories we almost missed</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4a8a71a1ed41</link>
+      <description>Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse&apos;s companion star.</description>
+      <pubDate>Mon, 03 Aug 2026 20:13:37 GMT</pubDate>
+      <guid isPermaLink="false">4a8a71a1ed41</guid>
+      <source url="https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/">Ars Technica</source>
+    </item>
+    <item>
+      <title>AI&apos;s debt binge can&apos;t last, hidden borrowing reaches $1.65T</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/797928adfa91</link>
+      <description>“At some point, the rivers of capital financing private and government debt issuance will flow less freely.”</description>
+      <pubDate>Mon, 03 Aug 2026 20:02:21 GMT</pubDate>
+      <guid isPermaLink="false">797928adfa91</guid>
+      <source url="https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/">Hacker News</source>
+    </item>
     <item>
       <title>Zbija cholesterol nawet o 15 proc. Wystarczy 150 g dziennie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/29f88be3c1b8</link>
@@ -46,6 +102,14 @@
       <pubDate>Mon, 03 Aug 2026 19:43:13 GMT</pubDate>
       <guid isPermaLink="false">f2cb6b7c08ef</guid>
       <source url="https://tvn24.pl/biznes/rynki/ceny-ropy-w-dol-po-rezygnacji-z-ataku-na-iran-tankowce-zmieniaja-trasy-st9172210?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>The Dunning-Kruger effect may just be a data artefact (2020)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c76e6ce00f7f</link>
+      <description>I want the Dunning-Kruger effect to be real. First described in a seminal 1999 paper by David Dunning and Justin Kruger, this effect has been the darling of journalists who want to explain why dumb people don’t know they’re dumb. There’s even video of a fantastic pastiche of Turandot’s famous aria, Nessun dorma, explaining the Dunning-Kruger effect. “They don’t know,” the opera singer belts out at the climax, “that they don’t know.” I was planning on writing a very short article about the Dunning-Kruger effect and it felt like shooting fish in a barrel. Here’s the effect, how it was discovered, what it means. End of story. But as I double-checked the academic literature, doubt started to creep in. While trying to understand the criticism that had been leveled at the original study, I fell down a rabbit hole, spoke to a few statistics-minded people, corresponded with Dr. Dunning himself, and tried to understand if our brain really was biased to overstate our competence in activities at which we suck... or if the celebrated effect was just a mirage brought about by the peculiar way in which we can play with numbers. Have we been overstating our confidence in the Dunning-Kruger effect? A misunderstood effect The most important mistake people make about the Dunning-Kruger effect, according to Dr. Dunning, has to do with who falls victim to it. “The effect is about us, not them,” he wrote to me. “The lesson of the effect was always about how we should be humble and cautious about ourselves.” The Dunning-Kruger effect is not about dumb people. It’s mostly about all of us when it comes to things we are not very competent at. In a nutshell, the Dunning-Kruger effect was originally defined as a bias in our thinking. If I am terrible at English grammar and am told to answer a quiz testing my knowledge of English grammar, this bias in my thinking would lead me, according to the theory, to believe I would get a higher score than I actually would. And if I excel at English grammar, the effect dictates I would be likely to slightly underestimate how well I would do. I might predict I would get a 70% score while my actual score would be 90%. But if my actual score was 15% (because I’m terrible at grammar), I might think more highly of myself and predict a score of 60%. This discrepancy is the effect, and it is thought to be due to a specific problem with our brain’s ability to assess its skills. This is what student participants went through for Dunning and Kruger’s research project in the late 1990s. There were assessments of grammar, of humour, and of logical reasoning. Everyone was asked how well they thought they did and everyone was also graded objectively, and the two were compared. Since then, many studies have been done that have reported this effect in other domains of knowledge. Dr. Dunning tells me he believes the effect “has more to do with being misinformed rather than uninformed.” If I am asked the boiling point of mercury, it is clear my brain does not hold the answer. But if I am asked what is the capital of Scotland, I may think I know enough to say Glasgow, but it turns out it’s Edinburgh. That’s misinformation and it’s pushing down on that confidence button in my brain. So case closed, right? On the contrary. In 2016 and 2017, two papers were published in a mathematics journal called Numeracy. In them, the authors argued that the Dunning-Kruger effect was a mirage. And I tend to agree. The effect is in the noise The two papers, by Dr. Ed Nuhfer and colleagues, argued that the Dunning-Kruger effect could be replicated by using random data. “We all then believed the [1999] paper was valid,” Dr. Nuhfer told me via email. “The reasoning and argument just made so much sense. We never set out to disprove it; we were even fans of that paper.” In Dr. Nuhfer’s own papers, which used both computer-generated data and results from actual people undergoing a science literacy test, his team disproved the claim that most people that are unskilled are unaware of it (“a small number are: we saw about 5-6% that fit that in our data”) and instead showed that both experts and novices underestimate and overestimate their skills with the same frequency. “It’s just that experts do that over a narrower range,” he wrote to me. Wrapping my brain around all this took weeks. I recruited a husband-and-wife team, Dr. Patrick E. McKnight (from the Department of Psychology at George Mason University, also on the advisory board of Sense About Science and STATS.org) and Dr. Simone C. McKnight (from Global Systems Technologies, Inc.), to help me understand what was going on. Patrick McKnight not only believed in the existence of the Dunning-Kruger effect: he was teaching it to warn his students to be mindful of what they actually knew versus what they thought they knew. But after replicating Dr. Nuhfer’s findings using a different platform (the statistical computing language R instead of Nuhfer’s Microsoft Excel), he became convinced the effect was just an artefact of how the thing that was being measured was indeed measured. We had long conversations over this as I kept pushing back. As a skeptic, I am easily enticed by stories of the sort “everything you know about this is wrong.” That’s my bias. To overcome it, I kept playing devil’s advocate with the McKnights to make sure we were not forgetting something. Every time I felt my understanding crystallize, doubt would creep in the next day and my discussion with the McKnights would resume. I finally reached a point where I was fairly certain the Dunning-Kruger effect had not been shown to be a bias in our thinking but was just an artefact. Here then is the simplest explanation I have for why the effect appears to be real. For an effect of human psychology to be real, it cannot be rigorously replicated using random noise. If the human brain was predisposed to choose heads when a coin is flipped, you could compare this to random predictions (heads or tails) made by a computer and see the bias. A human would call more heads than the computer would because the computer is making random bets whereas the human is biased toward heads. With the Dunning-Kruger effect, this is not the case. Random data actually mimics the effect really well. The effect as originally described in 1999 makes use of a very peculiar type of graph. “This graph, to my knowledge, is quite unusual for most areas of science,” Patrick McKnight told me. In the original experiment, students took a test and were asked to guess their score. Therefore, each student had two data points: the score they thought they got (self-assessment) and the score they actually got (performance). In order to visualize these results, Dunning and Kruger separated everybody into quartiles: those who performed in the bottom 25%, those who scored in the top 25%, and the two quartiles in the middle. For each quartile, the average performance score and the average self-assessed score was plotted. This resulted in the famous Dunning-Kruger graph. Plotted this way, it looks like those in the bottom 25% thought they did much better than they did, and those in the top 25% underestimated their performance. This observation was thought to be due to the human brain: the unskilled are unaware of it. But if we remove the human brain from the equation, we get this: The above Dunning-Kruger graph was created by Patrick McKnight using computer-generated results for both self-assessment and performance. The numbers were random. There was no bias in the coding that would lead these fictitious students to guess they had done really well when their actual score was very low. And yet we can see that the two lines look eerily similar to those of Dunning and Kruger’s seminal experiment. A similar simulation was done by Dr. Phillip Ackerman and colleagues three years after the original Dunning-Kruger paper, and the results were similar. Measuring someone’s perception of anything, including their own skills, is fraught with difficulties. How well I think I did on my test today could change if the whole thing was done tomorrow, when my mood might differ and my self-confidence may waver. This measurement of self-assessment is thus, to a degree, unreliable. This unreliability--sometimes massive, sometimes not--means that any true psychological effect that does exist will be measured as smaller in the context of an experiment. This is called attenuation due to unreliability. “Scores of books, articles, and chapters highlight the problem with measurement error and attenuated effects,” Patrick McKnight wrote to me. In his simulation with random measurements, the so-called Dunning-Kruger effect actually becomes more visible as the measurement error increases. “We have no instance in the history of scientific discovery,” he continued, “where a finding improves by increasing measurement error. None.” Breaking the spell When I plug “Dunning-Kruger effect” into Google News, I get over 8,500 hits from media outlets like The New York Times, New Scientist, and the CBC. So many simply endorse the effect as a real bias of the brain, so it’s no wonder that people are not aware of the academic criticism that has existed since the effect was first published. It’s not just Dr. Nuhfer and his Numeracy papers. Other academic critics have pointed the finger, for example, at regression to the mean. But as Patrick McKnight points out, regression to the mean occurs when the same measure is taken over time and we track its evolution. If I take my temperature every morning and one day spike a fever, that same measure will (hopefully) go down the next day and return to its mean value as my fever abates. That’s regression to the mean. But in the context of the Dunning-Kruger effect, nothing is measured over time, and self-assessment and performance are different measures entirely, so regression to the mean should not apply. The unreliability of the self-assessment measurement itself, however, is a strong contender to explain a good chunk of what Dunning, Kruger, and other scientists who have since reported this effect in other contexts were actually describing. This story is not over. There will undoubtedly be more ink spilled in academic journals over this issue, which is a healthy part of scientific research after all. Studying protons and electrons is relatively easy as these particles don’t have a mind of their own; studying human psychology, by comparison, is much harder because the number of variables being juggled is incredibly high. It is thus really easy for findings in psychology to appear real when they are not. Are there dumb people who do not realize they are dumb? Sure, but that was never what the Dunning-Kruger effect was about. Are there people who are very confident and arrogant in their ignorance? Absolutely, but here too, Dunning and Kruger did not measure confidence or arrogance back in 1999. There are other effects known to psychologists, like the overconfidence bias and the better-than-average bias (where most car drivers believe themselves to be well above average, which makes no mathematical sense), so if the Dunning-Kruger effect is convincingly shown to be nothing but a mirage, it does not mean the human brain is spotless. And if researchers continue to believe in the effect in the face of weighty criticism, this is not a paradoxical example of the Dunning-Kruger effect. In the original classic experiments, students received no feedback when making their self-assessment. It is fair to say researchers are in a different position now. The words “Dunning-Kruger effect” have been wielded as an incantation by journalists and skeptics alike for years to explain away stupidity and incompetence. It may be time to break that spell. Take-home message: - The Dunning-Kruger effect was originally described in 1999 as the observation that people who are terrible at a particular task think they are much better than they are, while people who are very good at it tend to underestimate their competence - The Dunning-Kruger effect was never about “dumb people not knowing they are dumb” or about “ignorant people being very arrogant and confident in their lack of knowledge.” - Because the effect can be seen in random, computer-generated data, it may not be a real flaw in our thinking and thus may not really exist @CrackedScience Leave a comment!</description>
+      <pubDate>Mon, 03 Aug 2026 19:39:34 GMT</pubDate>
+      <guid isPermaLink="false">c76e6ce00f7f</guid>
+      <source url="https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real">Hacker News</source>
     </item>
     <item>
       <title>&quot;Symbol charakteru i przywiązania&quot;. Lechia Gdańsk żegna Mateusza Bąka</title>
@@ -104,6 +168,14 @@
       <source url="https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/">NASA Breaking News</source>
     </item>
     <item>
+      <title>Lego deploys Hubble Space Telescope as detailed desktop model</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/af6df7dee75c</link>
+      <description>LEGO released its new Icons Hubble Space Telescope model on Saturday (Aug. 1), building upon its line of adult-aimed sets honoring historic NASA spacecraft.</description>
+      <pubDate>Mon, 03 Aug 2026 19:21:16 GMT</pubDate>
+      <guid isPermaLink="false">af6df7dee75c</guid>
+      <source url="https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/">Ars Technica</source>
+    </item>
+    <item>
       <title>Łotwa chce zamknąć ostatnie przejście graniczne z Białorusią. To odpowiedź na &quot;hybrydową operację&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/2070eed5c969</link>
       <description>Należy całkowicie wstrzymać ruch na ostatnim czynnym łotewsko-białoruskim drogowym przejściu granicznym - oświadczył szef resortu spraw wewnętrznych Łotwy Janis Dombrava. Zdaniem ministra, ma to zagwarantować &quot;nienaruszalność państwa&quot; wobec wojny hybrydowej prowadzonej przez reżim Alaksandra Łukaszenki.</description>
@@ -150,6 +222,14 @@
       <pubDate>Mon, 03 Aug 2026 19:00:56 GMT</pubDate>
       <guid isPermaLink="false">48c7a30dfead</guid>
       <source url="https://tvn24.pl/biznes/tech/pekin-wprowadza-nowe-restrykcje-st9171906?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>An AI-supervised remote exam went so badly that 58,000 students must retake it</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c67090cb79f6</link>
+      <description>Top scores increased by 5x.</description>
+      <pubDate>Mon, 03 Aug 2026 19:00:50 GMT</pubDate>
+      <guid isPermaLink="false">c67090cb79f6</guid>
+      <source url="https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/">Ars Technica</source>
     </item>
     <item>
       <title>Reformy, czystki i podejrzane znajomości. Kim naprawdę jest książę?</title>
@@ -326,86 +406,6 @@
       <pubDate>Mon, 03 Aug 2026 17:39:56 GMT</pubDate>
       <guid isPermaLink="false">e4338140b0e0</guid>
       <source url="https://hcker.news/?view=frontpage&amp;ai=exclude">Hacker News</source>
-    </item>
-    <item>
-      <title>Zamach był odpowiedzią Ukraińców? Nowe informacje ws. eksplozji w Moskwie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/42c7b2365d07</link>
-      <description>Wybuch w ekskluzywnej restauracji Balzi Rossi w Moskwie mógł być wymierzony w dowódcę rosyjskich Sił Powietrzno-Kosmicznych gen. Aleksandra Czajkę - podał Kyiv Independent, powołując się na źródła znające szczegóły sprawy. W ataku zginęło pięć osób, a 21 zostało rannych. Na jaw wychodzą nowe fakty.</description>
-      <pubDate>Mon, 03 Aug 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="false">42c7b2365d07</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zamach-byl-odpowiedzia-ukraincow-nowe-informacje-ws-eksplozj,nIdn,1012369">RMF24</source>
-    </item>
-    <item>
-      <title>Przełom w opiece ginekologicznej – nowe zastosowanie estetrolu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/93e16970e801</link>
-      <description>Estetrol otwiera nowy rozdział w terapii hormonalnej kobiet. Dzięki korzystnemu profilowi bezpieczeństwa może znaleźć zastosowanie zarówno w antykoncepcji hormonalnej, jak i leczeniu dolegliwości menopauzalnych – mówi prof. Robert Spaczyński.</description>
-      <pubDate>Mon, 03 Aug 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="false">93e16970e801</guid>
-      <source url="https://www.rynekzdrowia.pl/Serwis-Ginekologia-i-poloznictwo/Przelom-w-opiece-ginekologicznej-nowe-zastosowanie-estetrolu,287370,209.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Sanepid alarmuje: prawie czterokrotny wzrost zachorowań rok do roku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/36d6a9676c20</link>
-      <description>Do połowy lipca odnotowano 1413 przypadków wirusowego zapalenia wątroby typu A – prawie cztery razy więcej niż w tym samym okresie ubiegłego roku, gdy zgłoszono ich 364. - Dla służb sanitarnych to jasny sygnał, że należy wzmocnić edukację i promować szczepienia – mówi główny inspektor sanitarny Paweł Grzesiowski.</description>
-      <pubDate>Mon, 03 Aug 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="false">36d6a9676c20</guid>
-      <source url="https://www.rynekzdrowia.pl/Choroby-zakazne/Sanepid-alarmuje-prawie-czterokrotny-wzrost-zachorowan-rok-do-roku,287367,22.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Chińczycy są bezczelni. USA rzekomo kradnie im AI, a robią dokładnie to samo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a002491154cd</link>
-      <description>Chiny oskarżają amerykańskie firmy o destylowanie ich modeli AI. Wyjaśniamy, czym jest ta technika i dlaczego grożą za nią sankcje.</description>
-      <pubDate>Mon, 03 Aug 2026 17:30:57 GMT</pubDate>
-      <guid isPermaLink="false">a002491154cd</guid>
-      <source url="https://antyweb.pl/chiny-usa-destylacja-modeli-ai">Antyweb</source>
-    </item>
-    <item>
-      <title>Hakerzy uderzyli w Żabkę. &quot;To wygląda na naprawdę poważny i głęboki atak&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0cbbf64dde17</link>
-      <description>Wyciekły dane osobowe pracowników, ich partnerów i prawdopodobnie klientów sieci sklepów Żabka - przekazał portal Niebezpiecznik. Eksperci wyjaśniają, jakie kroki powinny podjąć osoby, których dane mogły zostać wykradzione.</description>
-      <pubDate>Mon, 03 Aug 2026 17:30:12 GMT</pubDate>
-      <guid isPermaLink="false">0cbbf64dde17</guid>
-      <source url="https://tvn24.pl/biznes/tech/siec-sklepow-zabka-powaznie-zhackowana-to-wyglada-na-naprawde-powazny-i-gleboki-atak-st9172240?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ponad 96 mln zł zostanie w Poczcie Polskiej? Rząd szykuje zwolnienie z wpłaty z zysku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d8f6eb415ac</link>
-      <description>Zwolnienie Poczty Polskiej z wpłaty z zysku za 2025 r. w wysokości ponad 96 mln zł do Funduszu Inwestycji Kapitałowych - zakłada projekt rozporządzenia autorstwa Ministerstwa Aktywów Państwowych (MAP) opublikowany w poniedziałek na stronie RCL.</description>
-      <pubDate>Mon, 03 Aug 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="false">1d8f6eb415ac</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ponad-96-mln-zl-zostanie-w-Poczcie-Polskiej-Rzad-szykuje-zwolnienie-z-wplaty-z-zysku-9177397.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Farage says he discussed return to politics months before general election</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/99f2f483514d</link>
-      <description>Farage said the talks came &quot;quite some time after&quot; he received a £5m gift from a Reform donor.</description>
-      <pubDate>Mon, 03 Aug 2026 17:18:52 GMT</pubDate>
-      <guid isPermaLink="false">99f2f483514d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c74g0l1ylpvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>The Billable Usage API: programmatic cost visibility for Cloudflare</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9546411ce5ba</link>
-      <description>Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, spend can now be tracked seamlessly alongside the rest of your cloud stack.</description>
-      <pubDate>Mon, 03 Aug 2026 17:18:06 GMT</pubDate>
-      <guid isPermaLink="false">9546411ce5ba</guid>
-      <source url="https://blog.cloudflare.com/billable-usage-api/">Hacker News</source>
-    </item>
-    <item>
-      <title>Meloni ostro krytykuje Hiszpanię za Ceutę. Zapomniała, że w 2023 miała podobny problem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73934c7264cd</link>
-      <description>Giorgia Meloni ostro skrytykowała sposób, w jaki hiszpański rząd radzi sobie z kryzysem migracyjnym w Ceucie. Jej działania są postrzegane jako próba zdominowania unijnej debaty o migracji i nadania tonu kampanii przed zbliżającymi się wyborami parlamentarnymi we Włoszech. Francuska gazeta „Le Monde” przypomina jednak wydarzenia z 2023 roku, o których włoska premier zdaje się nie pamiętać.</description>
-      <pubDate>Mon, 03 Aug 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="false">73934c7264cd</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-meloni-ostro-krytykuje-hiszpanie-za-ceute-zapomniala-ze-w-20,nIdn,1012365">RMF24</source>
-    </item>
-    <item>
-      <title>Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6fb0c6837a1</link>
-      <description>Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.</description>
-      <pubDate>Mon, 03 Aug 2026 17:16:43 GMT</pubDate>
-      <guid isPermaLink="false">b6fb0c6837a1</guid>
-      <source url="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/">TechCrunch</source>
     </item>
   </channel>
 </rss>
