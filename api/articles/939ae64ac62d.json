@@ -1,0 +1,13 @@
+{
+  "id": "939ae64ac62d",
+  "title": "To jednak nie jest rok Linuksa? Dane mogą być wyolbrzymione",
+  "originalTitle": "To jednak nie jest rok Linuksa? Dane mogą być wyolbrzymione",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/to-jednak-nie-jest-rok-linuksa-dane-moga-byc-wyolbrzymione",
+  "publishedAt": "2026-08-03T12:15:15.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Ostatnie dane StatCounter doprowadziły do mylnego przekonaniu o drastycznym wzroście popularności Linuksa. Ten rzeczywiście jest coraz częstszym wyborem, ale ten nagły wzrost, to wina botów.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Co kilka tygodni internet eksploduje nagłówkami o tym, że Windows traci użytkowników na rzecz Linuksa, a scena open source wreszcie doczekała się swojego momentu. Ostatnio dyskusja wróciła, gdy dane StatCounter ujrzały światło dzienne. Problem w tym, że wielu internautów nie zauważyło nawet, że coś jest z nimi mocno nie tak.</p>  <p>Posty na Reddicie i artykuły w mediach twierdzą, że Linux przekroczył 10% udziałów w Ameryce Północnej. Problem w tym, że wystarczy rzut oka na screen, by zobaczyć coś dziwnego. Obok „Linux 10,65%” i „macOS 8,6%” widnieje pozycja „OS X – 21,14%”. Tak, OS X, czyli system, który Apple oficjalnie pogrzebał w 2016 roku, nagle ma ponad dwa razy więcej użytkowników niż jego następca.</p> <h2>Linux nie przejmuje użytkowników Windowsa. A przynajmniej nie w takiej skali</h2> <p>Winowajcą całego zamieszania jest StatCounter, czyli narzędzie analityczne dla webmasterów, które od lat mylone jest z wyrocznią rynku komputerów osobistych. Tyle że StatCounter nigdy nie mierzył prawdziwych użytkowników ani fizycznych maszyn. Jego raporty bazują na przeszło 3 miliardach odsłon stron miesięcznie i liczą <i>page views</i>, nie unikalnych gości. W praktyce oznacza to, że każda wizyta bota na monitorowanej witrynie z identyfikatorem systemu Linux sztucznie pompuje „udział” pingwina, a przy okazji uszczupla procent Windowsa, bo wszystko sumuje się do stu.</p> <p>Żeby nie być gołosłownym, Cloudflare Radar, który również zanotował tajemniczy skok Linuksa, pozwala odfiltrować ruch automatyczny. I tu robi się ciekawie. Gdy spojrzymy tylko na ludzką aktywność, Linux spada do około 4,7% na przestrzeni ostatnich trzech miesięcy. Windows trzyma stabilne ~65%, a macOS ~28%. Wystarczy jednak włączyć z powrotem boty, by Linux wystrzelił średnio do 16%, a w pojedyncze dni nawet do 26%.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/1c90574dd171.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
