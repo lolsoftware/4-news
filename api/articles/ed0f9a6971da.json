@@ -1,0 +1,13 @@
+{
+  "id": "ed0f9a6971da",
+  "title": "Show HN: ssh ssh.place",
+  "originalTitle": "Show HN: ssh ssh.place",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://ssh.place/",
+  "publishedAt": "2026-08-03T00:23:21.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\">\n\n<header> <p><b>One canvas. Everyone draws on it over SSH.</b></p> <p>No account, no install · 200×60 cells · one placement every 15s</p>\n</header>\n\n<div> <p><b>Draw on it:</b></p><pre><code>ssh ssh.place</code></pre> <p>Any SSH key works. There is nothing to sign up for.</p>\n</div> <h2>How it works</h2>\n<ul> <li>Move the cursor with the <b>arrow keys</b>, <code>wasd</code> or <code>hjkl</code></li> <li>The canvas is wider than your terminal, so <b>scroll</b> to pan around. <kbd>shift</kbd>+<kbd>←</kbd>/<kbd>→</kbd> jumps a whole screen.</li> <li>Pick a color with <code>0</code> to <code>9</code>. <kbd>tab</kbd> cycles through all 16.</li> <li><kbd>space</kbd> puts down a solid block of that color</li> <li>Now wait 15 seconds, same as everyone else</li>\n</ul>\n<p>This canvas is color only. The server turns down anything with a character in it, so you cannot write text here. Draw something instead.</p>\n<p>Your cooldown is tied to your SSH key, so reconnecting will not reset it. This page only reads the canvas. It changes over SSH and nowhere else.</p> </div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
