@@ -1,0 +1,13 @@
+{
+  "id": "32ecc3e95e88",
+  "title": "Hop.earth – OpenStreetMap based car racing game",
+  "originalTitle": "Hop.earth – OpenStreetMap based car racing game",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+  "publishedAt": "2026-08-04T17:55:19.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"> <p><img src=\"https://hop.earth/assets/images/splash_controls.webp\"></p> <p><img src=\"https://hop.earth/assets/images/spinner.svg\"></p> <p>Contains Copernicus DEM (COP-DEM-GLO-30), IGN RGE ALTI®, and CNIG LIDAR data © EU/ESA/IGN/CNIG.</p> <!--<img id=\"pointerlock\" src=\"assets/images/pointerlock.webp\" onClick=\"lockPointer()\">--> <!--<div class=\"vignette-filter\"></div>--> <!--  -->\n\n<!--  --> <!--  --> <!--  -->\n<audio id=\"background_music\" loop=\"\"> <source src=\"https://hop.earth/assets/audio/ambience.ogg\" type=\"audio/ogg\"> <source src=\"https://hop.earth/assets/audio/ambience.mp3\" type=\"audio/mp3\">\n</audio> <!--  -->\n\n</div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
