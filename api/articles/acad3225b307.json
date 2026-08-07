@@ -1,0 +1,13 @@
+{
+  "id": "acad3225b307",
+  "title": "Anthropic will design its own hardware to power Claude",
+  "originalTitle": "Anthropic will design its own hardware to power Claude",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+  "publishedAt": "2026-08-06T20:03:44.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>There are a few reasons AI providers are doing this. First, much of the industry is heavily reliant on Nvidia for the hardware the companies’ models run on, and Nvidia’s continued leverage there is a potential strategic vulnerability, especially as AI companies operate in an environment where compute infrastructure is highly competitive as demand continues to outstrip current capacity.</p>\n<p>Second, designing chips for specific models and vice versa could lead to better performance. So, for example, if OpenAI can reap the rewards of that vertical integration, you can bet Anthropic and other frontier model providers will want that advantage as well.</p>\n<p>To that point, Anthropic says its teams will co-design new hardware and models side by side. It has co-designed certain hardware with partners before, but the plan is now to bring more silicon expertise inside Anthropic itself.</p>\n<p>Anthropic may also hope this could help its frontier models get some extra competitive edge as software developers and other users begin exploring running cheaper, smaller, or open-weight models on their own hardware or on edge devices.</p>\n<p>However, since Anthropic is still in the process of hiring key team members, it will be some time before either the company or its users see any benefits.</p> </div></div>",
+  "image": "images/dd1e9e4714cd.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
