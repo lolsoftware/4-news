@@ -1,0 +1,13 @@
+{
+  "id": "5c970cc4af2c",
+  "title": "Oracle bans AI-generated code from OpenJDK",
+  "originalTitle": "Oracle bans AI-generated code from OpenJDK",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+  "publishedAt": "2026-08-07T17:36:30.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><p>Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.\n\nThe policy contrasts sharply with Oracle's internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle's code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.\n\nOracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&amp;P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.</p><p><span><span>Source:</span> <a data-testid=\"external\" rel=\"noopener noreferrer\" href=\"https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851\" target=\"_blank\">theregister.com<span data-testid=\"icon-externalLink\"><!--$--><!--/$--></span></a></span></p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
