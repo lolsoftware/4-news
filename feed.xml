@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 08 Aug 2026 19:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:51:43 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pentagon odsuwa ważnego generała. Dowodził operacjami w Europie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f1c3a5875abf</link>
+      <description>Charles Costanza, generał dowodzący od kwietnia 2024 roku V Korpusem sił lądowych USA, który nadzorował operacje amerykańsiej armii w Europie, w tym w Polsce, został odsunięty. Poinformował o tym amerykański departamentu obrony. Nie podano przyczyn decyzji, która zapadła na niespełna dwa miesiące przed upływem kontraktu.</description>
+      <pubDate>Sat, 08 Aug 2026 20:46:00 GMT</pubDate>
+      <guid isPermaLink="false">f1c3a5875abf</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-pentagon-odsuwa-waznego-generala-dowodzil-operacjami-w-europ,nIdn,1012993">RMF24</source>
+    </item>
     <item>
       <title>Jedz, aby odbudować jelita. Gastroenterolog: jak cukierki, a takie zdrowe</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9ff3ff27bfcd</link>
@@ -16,12 +24,76 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Jedz-aby-odbudowac-jelita-Gastroenterolog-jak-cukierki-a-takie-zdrowe,287568,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Eksplozja drona w pobliżu gazociągu w Bułgarii. Jest stanowisko Kijowa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2f23e1f8a665</link>
+      <description>Ukraińskie Ministerstwo Spraw Zagranicznych zajęło stanowisko w sprawie drona, który naruszył przestrzeń powietrzną Bułgarii i eksplodował przy gazociągu łączącym Turcję z Ukrainą. Kijów zapewnił, że nie skierował w tę stronę bezzałogowca. Wcześniej byłgarski MON podał, że ten typ dronów jest szeroko używany przez ukraińskie siły zbrojne. Ministerstwo stwierdziło jednak w swoim oświadczeniu, że nie ma powodu, by sądzić, że incydent był celowy.</description>
+      <pubDate>Sat, 08 Aug 2026 19:58:00 GMT</pubDate>
+      <guid isPermaLink="false">2f23e1f8a665</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-eksplozja-drona-w-poblizu-gazociagu-w-bulgarii-jest-stanowis,nIdn,1012991">RMF24</source>
+    </item>
+    <item>
+      <title>Zmarzlik znów królem Rygi! Polak przewodzi GP</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/84692c889973</link>
+      <description>Bartosz Zmarzlik wygrał Grand Prix Łotwy w Rydze, ósmą eliminację żużlowych mistrzostw świata. W finale pokonał Brytyjczyka Roberta Lamberta, Australijczyka Brady&apos;ego Kurtza i Kacpra Worynę. Dzięki zwycięstwu sześciokrotny mistrz świata został samodzielnym liderem cyklu.</description>
+      <pubDate>Sat, 08 Aug 2026 19:56:00 GMT</pubDate>
+      <guid isPermaLink="false">84692c889973</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-zmarzlik-znow-krolem-rygi-polak-przewodzi-gp,nIdn,1012992">RMF24</source>
+    </item>
+    <item>
+      <title>Strzały w szkole w Tajlandii. Napisała do siostry: &quot;jeśli wyjdziemy z tego cało, wróćmy razem do domu&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a526da824fb3</link>
+      <description>Zazwyczaj ciągle się kłócimy, ale tym razem, widząc ją ponownie, nigdy wcześniej nie kochałam jej tak mocno - tak spotkanie ze starszą siostrą wspomina 14-letnia Khim. Obie dziewczynki przeżyły tragiczne wydarzenia w jednej ze szkół pod Bangkokiem, gdzie jeden z uczniów zaczął strzelać.</description>
+      <pubDate>Sat, 08 Aug 2026 19:51:53 GMT</pubDate>
+      <guid isPermaLink="false">a526da824fb3</guid>
+      <source url="https://tvn24.pl/swiat/tajlandia-strzaly-w-szkole-pod-bangkokiem-relacje-uczestnikow-tragedii-st9180785?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>OpenAI acquires presentation startup NextSlide</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aeb176124cfb</link>
+      <description>NextSlide says its team members are now working on ChatGPT.</description>
+      <pubDate>Sat, 08 Aug 2026 19:41:13 GMT</pubDate>
+      <guid isPermaLink="false">aeb176124cfb</guid>
+      <source url="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Hormuz talks positive, Oman says, as Iran warns deal would not open strait</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bc535b981e9c</link>
+      <description>Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.</description>
+      <pubDate>Sat, 08 Aug 2026 19:18:57 GMT</pubDate>
+      <guid isPermaLink="false">bc535b981e9c</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Nie borówka, nie jeżyna. Zapomniany owoc chroni wątrobę i obniża ciśnienie krwi</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6180228b6db0</link>
       <description>Wśród fioletowych i ciemnych owoców w Polsce królują borówki, jeżyny, aronia czy leśne jagody. Jest jednak jeszcze jeden owoc, który ma charakterystyczną barwę i wyjątkowo cenne dla zdrowia właściwości.</description>
       <pubDate>Sat, 08 Aug 2026 19:14:00 GMT</pubDate>
       <guid isPermaLink="false">6180228b6db0</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Nie-borowka-nie-jezyna-Zapomniany-owoc-chroni-watrobe-i-obniza-cisnienie-krwi,287514,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Świątek odwróciła losy meczu! Polka zagra o półfinał w Toronto</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9f44572a8d60</link>
+      <description>Iga Świątek pokonała Martę Kostiuk 3:6, 6:1, 6:2 w meczu 1/8 finału turnieju WTA 1000 w Toronto. Polka po przegranym pierwszym secie odwróciła losy spotkania i pewnie awansowała do ćwierćfinału. Jej kolejną rywalką będzie Jessica Pegula lub Diana Sznajder.</description>
+      <pubDate>Sat, 08 Aug 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="false">9f44572a8d60</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-swiatek-odwrocila-losy-meczu-polka-zagra-o-polfinal-w-toront,nIdn,1012990">RMF24</source>
+    </item>
+    <item>
+      <title>Spada PiS, rośnie Konfederacji. Krzysztof Bosak: mam nadzieję, że to dzięki naszej ciężkiej pracy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cdf7b16a0019</link>
+      <description>Nie upatrywałbym naszego wzrostu w tym, co się dzieje u rywali - powiedział w &quot;Faktach po Faktach&quot; w TVN24 jeden z liderów Konfederacji Krzysztof Bosak. Uznał też, że nie ma mniej wiarygodnego człowieka w polskiej polityce niż Mateusz Morawiecki, a propozycja PiS dotycząca Ukraińców to &quot;absolutny populizm&quot;.</description>
+      <pubDate>Sat, 08 Aug 2026 19:04:39 GMT</pubDate>
+      <guid isPermaLink="false">cdf7b16a0019</guid>
+      <source url="https://tvn24.pl/polska/spada-pis-rosnie-konfederacji-krzysztof-bosak-komentuje-st9180870?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>„Mobilizacja bez faktycznego jej ogłoszenia” Zełenski o Putinie i pociskach do Patriotów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/94361ab419e0</link>
+      <description>Zełenski: Jest porozumienie ws. dostaw pocisków do Patriotów z USA, ale to za mało. Prezydent Ukrainy mówił też o nowych formach presji Rosji i tym, co planuje Władimir Putin.</description>
+      <pubDate>Sat, 08 Aug 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="false">94361ab419e0</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-mobilizacja-bez-faktycznego-jej-ogloszenia-zelenski-o-putini,nIdn,1012987">RMF24</source>
     </item>
     <item>
       <title>Stłuszczenie się cofa, wyniki poprawiają. 1 filiżanka dziennie jak plaster na wątrobę</title>
@@ -46,6 +118,14 @@
       <pubDate>Sat, 08 Aug 2026 18:22:00 GMT</pubDate>
       <guid isPermaLink="false">ee788efbc954</guid>
       <source url="https://www.rmf24.pl/fakty/polska/news-ukraina-wydala-zgode-na-kolejne-ekshumacje-i-poszukiwania-po,nIdn,1012988">RMF24</source>
+    </item>
+    <item>
+      <title>Brakuje ponad pięć tysięcy wolontariuszy. Trwa rekrutacja Szlachetnej Paczki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/49ec5b8f81b6</link>
+      <description>Wciąż brakuje ponad pięć tysięcy wolontariuszy Szlachetnej Paczki. Rekrutacja wciąż trwa. - Szukamy osób w każdym wieku, na każdym etapie życia i doświadczenia - mówił w TVN24 Dawid Sulima. Wraz z Agnieszką Bunią tłumaczył, jak można pomóc i czego można nauczyć się angażując w program.</description>
+      <pubDate>Sat, 08 Aug 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="false">49ec5b8f81b6</guid>
+      <source url="https://tvn24.pl/polska/szlachetna-paczka-brakuje-ponad-piec-tysiecy-wolontariuszy-trwa-rekrutacja-st9180832?source=rss">TVN24</source>
     </item>
     <item>
       <title>Ukraina wydała zgodę na kolejne ekshumacje</title>
@@ -102,6 +182,14 @@
       <pubDate>Sat, 08 Aug 2026 17:36:00 GMT</pubDate>
       <guid isPermaLink="false">d85ba7e71556</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Ognisko-gruzlicy-w-Warszawie-Trwa-dochodzenie-epidemiologiczne,287566,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Amazon Is Creating the Biggest Pollution Source in the Country</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/617b6a6e59cf</link>
+      <description>Amazon has bought a site in Texas where it plans to build a data center campus.</description>
+      <pubDate>Sat, 08 Aug 2026 17:27:52 GMT</pubDate>
+      <guid isPermaLink="false">617b6a6e59cf</guid>
+      <source url="https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country">Hacker News</source>
     </item>
     <item>
       <title>Można pić kawę w upały, ale jest limit. Tyle filiżanek i nie więcej</title>
@@ -318,94 +406,6 @@
       <pubDate>Sat, 08 Aug 2026 15:31:00 GMT</pubDate>
       <guid isPermaLink="false">2038747ef09f</guid>
       <source url="https://www.rmf24.pl/regiony/warszawa/news-ognisko-gruzlicy-w-warszawskiej-placowce-dzieci-objete-diagn,nIdn,1012978">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Bez wytchnienia, bez pomocy, bez nadziei&quot;. Realia życia opiekunów rodzinnych RAPORT</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6c44769b8b7</link>
-      <description>Pracują, opiekują się rodzicami, teściami, dziećmi lub innymi bliskimi i coraz częściej płacą za to własnym zdrowiem. Ponad połowa badanych osób, która łączy pracę zawodową z opieką nad osobami przewlekle chorymi lub niesamodzielnymi, poświęca opiece więcej niż 20 godzin tygodniowo. 92 proc. wskazuje stres i zmęczenie psychiczne jako największe wyzwanie – wynika z Raportu &quot;Wyczerpani&quot; Fundacji Penumbra Polska. 7 sierpnia to Dzień Pracownika Opieki nad Osobami Starszymi, w tym również nieformalnych opiekunów rodzinnych.</description>
-      <pubDate>Sat, 08 Aug 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="false">a6c44769b8b7</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Bez-wytchnienia-bez-pomocy-bez-nadziei-Realia-zycia-opiekunow-rodzinnych-RAPORT,287526,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Węgry. Dzik zawędrował na stację metra</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fbe8905c21ae</link>
-      <description>W sobotę po jednej ze stacji metra w Budapeszcie wędrował dzik. Wizyta w tym miejscu nie skończyła się jednak dla niego dobrze. Według węgierskich mediów zwierzęta są widywane w mieście coraz częściej.</description>
-      <pubDate>Sat, 08 Aug 2026 15:17:18 GMT</pubDate>
-      <guid isPermaLink="false">fbe8905c21ae</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/wegry-dzik-zawedrowal-na-stacje-metra-w-budapeszcie-st9180816?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dunaj wysycha i odsłania nazistowskie wraki. W środku wciąż jest amunicja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6ed993c6f7a4</link>
-      <description>Rekordowa susza w Europie odsłoniła mroczną tajemnicę z czasów II wojny światowej. Z wysychającego Dunaju wyłaniają się wraki nazistowskich okrętów, które wciąż są naładowane niebezpieczną amunicją. Katastrofa klimatyczna sprawiła, że na jaw wyszły zapomniane relikty sprzed 80 lat, paraliżując ruch na jednej z najważniejszych rzek kontynentu.</description>
-      <pubDate>Sat, 08 Aug 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="false">6ed993c6f7a4</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-dunaj-wysycha-i-odslania-nazistowskie-wraki-w-srodku-wciaz-j,nIdn,1012588">RMF24</source>
-    </item>
-    <item>
-      <title>Protest przeciw fasiągom do Morskiego Oka. Wozacy odpierają zarzuty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a4a3878c5a0c</link>
-      <description>Na Palenicy Białczańskiej odbyła się w sobotę pikieta przeciwko transportowi konnemu do Morskiego Oka. Organizatorzy – ruch Dla Zwierząt i Dolnośląski Inspektorat Ochrony Zwierząt – domagają się całkowitego wycofania koni z trasy. Twierdzą, że zwierzęta są przemęczane, wozy przeciążane, a konie pracują nawet po kilkanaście godzin dziennie.</description>
-      <pubDate>Sat, 08 Aug 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="false">a4a3878c5a0c</guid>
-      <source url="https://www.rmf24.pl/regiony/zakopane/news-protest-przeciw-fasiagom-do-morskiego-oka-wozacy-odpieraja-z,nIdn,1012977">RMF24</source>
-    </item>
-    <item>
-      <title>Oto nowy najdroższy kraj na świecie. Turystyczny boom nakręca spiralę cen</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/26fd6f391df8</link>
-      <description>Szwajcaria przez lata była synonimem astronomicznych kosztów życia, ale właśnie straciła pozycję lidera. Nowym najdroższym krajem świata została Islandia, gdzie ceny są obecnie aż o 84 procent wyższe od średniej unijnej. Eksperci wskazują głównego winnego tej bezprecedensowej drożyzny, która uderza zarówno w mieszkańców, jak i w turystów.</description>
-      <pubDate>Sat, 08 Aug 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="false">26fd6f391df8</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-oto-nowy-najdrozszy-kraj-na-swiecie-turystyczny-boom-nakreca,nIdn,1012570">RMF24</source>
-    </item>
-    <item>
-      <title>Największe grzechy Alert RCB. Dlaczego nie możemy mieć fajnych rzeczy?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fa10920d933a</link>
-      <description>Alert RCB miał pomagać, a jest wyśmiewany. Oto główne grzechy systemu, który nie działa najlepiej.</description>
-      <pubDate>Sat, 08 Aug 2026 15:00:05 GMT</pubDate>
-      <guid isPermaLink="false">fa10920d933a</guid>
-      <source url="https://antyweb.pl/alert-rcb-mial-pomagac-stal-sie-memem-co-poszlo-nie-tak">Antyweb</source>
-    </item>
-    <item>
-      <title>Google’s top hacker hunter explains why hacking groups get codenames</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6b874c500205</link>
-      <description>Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.</description>
-      <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">6b874c500205</guid>
-      <source url="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Meteorite that smashed through a New Jersey roof reveals clues to life’s origins</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3cfa189befd2</link>
-      <description>A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.</description>
-      <pubDate>Sat, 08 Aug 2026 14:58:54 GMT</pubDate>
-      <guid isPermaLink="false">3cfa189befd2</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/08/260807035145.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Nocował tu Obama, Chaplin i królowa Elżbieta II. Symbol luksusu na sprzedaż</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba878b6bf0ad</link>
-      <description>Pięciogwiazdkowy hotel Adlon Kempinski, jeden z najbardziej rozpoznawalnych i prestiżowych hoteli w Europie, może wkrótce zmienić właściciela. Spółka zarządzająca funduszem, do którego należy słynny obiekt, ogłosiła zamiar sprzedaży hotelu za co najmniej 280 milionów euro. Ostateczna decyzja zależy od głosowania inwestorów.</description>
-      <pubDate>Sat, 08 Aug 2026 14:38:00 GMT</pubDate>
-      <guid isPermaLink="false">ba878b6bf0ad</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-nocowal-tu-obama-chaplin-i-krolowa-elzbieta-ii-symbol-luksus,nIdn,1012556">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Code was never the hard part&quot; is an insult to all programmers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fabda0a665d0</link>
-      <description>The software development profession is in the midst of upheaval. Nobody knows how the AI revolution will play out in the end, but it is c...</description>
-      <pubDate>Sat, 08 Aug 2026 14:32:33 GMT</pubDate>
-      <guid isPermaLink="false">fabda0a665d0</guid>
-      <source url="https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers">Hacker News</source>
-    </item>
-    <item>
-      <title>&quot;Rosja wygraża i atakuje sąsiadów&quot;. Mocna odpowiedź MSZ na słowa Zacharowej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e0d535d1631e</link>
-      <description>„Maria Zacharowa znów wygraża Polsce” - napisał rzecznik Ministerstwa Spraw Zagranicznych  Maciej Wewiór, komentując słowa rzeczniczki rosyjskiego MSZ, która wczoraj odniosła się do prezydenta Karola Nawrockiego i strwierdziła m.in., że obecne granice Polski są zasługą Związku Sowieckiego i Armii Czerwonej, a także pisała o „historycznych kompleksach i bezsilnej złości” polskich władz w Warszawie. „Gdy my wspieramy rodziny przez 800+, żłobkowe, urlopy, to w Rosji fundamentem polityki społecznej stają się żołdy i „trumienne”&apos; - napisał Wewiór.</description>
-      <pubDate>Sat, 08 Aug 2026 14:27:00 GMT</pubDate>
-      <guid isPermaLink="false">e0d535d1631e</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-rosja-wygraza-i-atakuje-sasiadow-mocna-odpowiedz-msz-na-slow,nIdn,1012974">RMF24</source>
     </item>
   </channel>
 </rss>
