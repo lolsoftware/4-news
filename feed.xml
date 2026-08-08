@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 08 Aug 2026 05:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:59:35 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Maria Ochman o limitach wynagrodzeń lekarzy: ustawa nie służy nikomu, nie spełnia niczyich oczekiwań</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a5a7ace05d6d</link>
+      <description>Mamy wiele wątpliwości co do szeregu furtek, jakie daje przygotowany przez resort zdrowia projekt w kontekście wynagrodzeń i czasu pracy. Dyrektorzy szpitali alarmują, że koszty wynagrodzeń mogą wzrosnąć, a nie spaść. Komu więc to ma służyć? – zastanawia się Maria Ochman z NSZZ &quot;Solidarność&quot;. - Oczekiwaliśmy konkretów dotyczących umów cywilnoprawnych, a tu betonuje się te formy zatrudnienia – dodaje.</description>
+      <pubDate>Sat, 08 Aug 2026 07:43:00 GMT</pubDate>
+      <guid isPermaLink="false">a5a7ace05d6d</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Maria-Ochman-o-limitach-wynagrodzen-lekarzy-ustawa-nie-sluzy-nikomu-nie-spelnia-niczyich-oczekiwan,287536,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Czy trzeba wyłączyć telefon w czasie burzy? Odpowiedź może zaskoczyć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ef93ba8be1be</link>
+      <description>Wiele osób zastanawia się, czy w czasie burzy trzeba wyłączyć telefon? I czy telefon przyciąga pioruny? To popularny mit nie ma odzwierciedlenia w badaniach naukowych.</description>
+      <pubDate>Sat, 08 Aug 2026 07:08:00 GMT</pubDate>
+      <guid isPermaLink="false">ef93ba8be1be</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Czy-trzeba-wylaczyc-telefon-w-czasie-burzy-Odpowiedz-moze-zaskoczyc,287435,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Hiszpania odpowiada Włochom. Od soboty kontrole graniczne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/60462de0256b</link>
+      <description>Od północy w sobotę podróżujący z Włoch do Hiszpanii muszą przygotować się na nowe kontrole graniczne. To reakcja Madrytu na działania Rzymu po kryzysie migracyjnym w Ceucie. Nowe przepisy będą obowiązywać przez miesiąc i mogą wpłynąć na plany tysięcy turystów.</description>
+      <pubDate>Sat, 08 Aug 2026 05:33:00 GMT</pubDate>
+      <guid isPermaLink="false">60462de0256b</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-hiszpania-odpowiada-wlochom-od-soboty-kontrole-graniczne,nIdn,1012940">RMF24</source>
+    </item>
+    <item>
+      <title>Koniec unikania mandatów z fotoradarów? Rząd szykuje zmiany</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d17aedcc2842</link>
+      <description>Ministerstwo Infrastruktury przedstawiło projekt nowelizacji prawa o ruchu drogowym. Wśród najważniejszych zmian znalazły się dodatkowe kary za nieodbieranie urzędowej korespondencji, wprowadzenie Centralnego Rejestru Naruszeń oraz nowe zasady odpowiedzialności za wykroczenia zarejestrowane przez fotoradary. Projekt trafił już do konsultacji publicznych.</description>
+      <pubDate>Sat, 08 Aug 2026 05:32:00 GMT</pubDate>
+      <guid isPermaLink="false">d17aedcc2842</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-koniec-unikania-mandatow-z-fotoradarow-rzad-szykuje-zmiany,nIdn,1012941">RMF24</source>
+    </item>
+    <item>
+      <title>Turyści wchodzą do morza i przeżywają szok. Woda na Majorce ma ponad 33 stopnie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0275de314349</link>
+      <description>Ponad 33 stopnie Celsjusza – tak gorącej wody wokół Majorki nie odnotowano jeszcze nigdy w historii. Choć na wyspę wciąż docierają miliony turystów, kąpiel w morzu przestała dawać jakąkolwiek ulgę od upału. Narastający problem uderza nie tylko w urlopowiczów, ale i w cały ekosystem.</description>
+      <pubDate>Sat, 08 Aug 2026 05:24:00 GMT</pubDate>
+      <guid isPermaLink="false">0275de314349</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-turysci-wchodza-do-morza-i-przezywaja-szok-woda-na-majorce-m,nIdn,1012856">RMF24</source>
+    </item>
     <item>
       <title>Koniec sielanki. „Najpiękniejsza wioska świata” tonie w tłumie turystów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/918557d544e6</link>
@@ -369,46 +409,6 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
       <pubDate>Fri, 07 Aug 2026 19:50:40 GMT</pubDate>
       <guid isPermaLink="false">ec0b9e3c0dee</guid>
       <source url="https://tvn24.pl/biznes/pieniadze/eurojackpot-wiele-wygranych-wyniki-losowania-z-7-sierpnia-2026-takie-padly-liczby-st9179886?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Judge rules Meta caused &quot;public nuisance&quot; and must fund mental health treatment</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1dcf38ea3093</link>
-      <description>New Mexico judge orders $567M fund to help address youth mental health crisis.</description>
-      <pubDate>Fri, 07 Aug 2026 19:49:27 GMT</pubDate>
-      <guid isPermaLink="false">1dcf38ea3093</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Alarm w Niemczech. Niezidentyfikowane drony przeleciały nad „stocznią Patriotów”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fb1f6cc93611</link>
-      <description>Nad obiektem Bundeswehry w Mechernich w zachodnich Niemczech miało dojść do serii podejrzanych przelotów dronów. W podziemnym kompleksie serwisowane są m.in. systemy obrony powietrznej Patriot. Sprawą zajmuje się nie tylko policja, ale też kontrwywiad wojskowy.</description>
-      <pubDate>Fri, 07 Aug 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="false">fb1f6cc93611</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-alarm-w-niemczech-niezidentyfikowane-drony-przelecialy-nad-s,nIdn,1012933">RMF24</source>
-    </item>
-    <item>
-      <title>Pizza, słoneczna pogoda, Mateusz Morawiecki. Były premier spotkał się z mieszkańcami Jagodna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f11b5e2fceea</link>
-      <description>Były premier Mateusz Morawiecki spotkał się w piątek z mieszkańcami wrocławskiego Jagodna. Polityk pojawił się z pizzą, co było nawiązaniem do głośnych wydarzeń z wyborów parlamentarnych w 2023 roku. „Nadzieje Jagodna z wyborów parlamentarnych zostały całkowicie pogrzebane” – ocenił Morawiecki.</description>
-      <pubDate>Fri, 07 Aug 2026 19:38:00 GMT</pubDate>
-      <guid isPermaLink="false">f11b5e2fceea</guid>
-      <source url="https://www.rmf24.pl/fakty/polityka/news-pizza-sloneczna-pogoda-mateusz-morawiecki-byly-premier-spotk,nIdn,1012932">RMF24</source>
-    </item>
-    <item>
-      <title>Co z pomocą dla Ukraińców? Siostra Małgorzata Chmielewska o &quot;dramacie&quot; i &quot;hańbie&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/67606bad2961</link>
-      <description>Dobrze wiemy, że pracujący Ukraińcy wprowadzają do budżetu, ale także do NFZ, dużo więcej niż wykorzystują - powiedziała w &quot;Faktach po Faktach&quot; w TVN24 siostra Małgorzata Chmielewska. Mówiła między innymi o zmianach, które weszły w życie od 1 lipca względem Ukraińców.</description>
-      <pubDate>Fri, 07 Aug 2026 19:29:37 GMT</pubDate>
-      <guid isPermaLink="false">67606bad2961</guid>
-      <source url="https://tvn24.pl/polska/co-z-pomoca-dla-ukraincow-siostra-malgorzata-chmielewska-o-dramacie-i-hanbie-st9179841?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Pilny komunikat GIS. Popularny napój wycofany, zwrot pieniędzy dla klientów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/146e400442a5</link>
-      <description>Główny Inspektor Sanitarny wydał ostrzeżenie dla konsumentów: ze sprzedaży została wycofana cała partia napoju. Powód to &quot;nieprawidłowości organoleptyczne&quot;: zmieniony kolor, chemiczny zapach, piekący, gorzkawy smak.</description>
-      <pubDate>Fri, 07 Aug 2026 19:23:00 GMT</pubDate>
-      <guid isPermaLink="false">146e400442a5</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Pilny-komunikat-GIS-Popularny-napoj-wycofany-zwrot-pieniedzy-dla-klientow,287557,2.html">Rynek Zdrowia</source>
     </item>
   </channel>
 </rss>
