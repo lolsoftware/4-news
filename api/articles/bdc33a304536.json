@@ -1,0 +1,13 @@
+{
+  "id": "bdc33a304536",
+  "title": "k-Coloring is Faster than Computing the Chromatic Number",
+  "originalTitle": "k-Coloring is Faster than Computing the Chromatic Number",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2607.25973",
+  "publishedAt": "2026-07-31T06:00:34.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2607.25973\">View PDF</a> <a href=\"https://arxiv.org/html/2607.25973v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>We prove that $k$-coloring on $n$-vertex graphs has a randomized algorithm running in time $(2-\\varepsilon_k)^n$, where $\\varepsilon_k&gt;0$ for every fixed $k$. Previously, only the cases $k\\leq 6$ were known to have faster solutions than the general $O^\\star\\bigl(2^n\\bigr)$ time algorithm of [Björklund, Husfeldt, Koivisto, SICOMP 2009] that computes the chromatic number.\n<br>We resolve this long-standing open problem by generalizing and combining tools from the $(k+2)$-coloring to $k$-list-coloring reduction of [Zamir, ICALP 2021] and the hypergraph-containers based approach in [Zamir, STOC 2023]. Together with new algorithms for list-coloring instances mixing long and short color lists, this yields an iterable reduction from $(k+1)$-list-coloring to $k$-list-coloring over fixed palettes. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Or Zamir [<a href=\"https://arxiv.org/show-email/d235b7e0/2607.25973\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Tue, 28 Jul 2026 16:53:58 UTC (47 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

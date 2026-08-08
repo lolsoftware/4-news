@@ -1,0 +1,13 @@
+{
+  "id": "a5873364160a",
+  "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+  "originalTitle": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+  "publishedAt": "2026-08-08T11:05:50.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>The AI model must be picking up on something in the lower-resolution data that allows it to make predictions about storm intensity, but the researchers don’t know what. “It’s a black box at the end of the day, but that gives physicists a signal that something is happening that was not previously understood,” Alet says.</p>\n<p>The model doesn’t just spit out one prediction; it produces a range of potential scenarios for a developing storm. This helps to capture any potential “butterfly effect,” says Alet, where a small deviation from a trend could lead to much bigger changes down the line. Forecasters can use these outputs, alongside those of other models, to inform their predictions about how a storm system will likely unfold. Last year, the AI model created 50 scenarios per storm; now, it generates 1,000.</p>\n<p>“That’s something that, with our computing power, we simply can’t do with our existing numerical models,” Musgrave says.</p>\n<p>Brennan says DeepMind’s model is a great new tool in forecasters’ toolbox but emphasizes that it’s one of many. “There’s no guarantee that one model, because it did well last year or really did well for this particular storm, is necessarily going to be the best model for the next season or the next storm,” he says. The human element, he adds, is still critical. “A hurricane is not just a track or an intensity forecast,” he says. “It requires experts to translate that into what the impacts are going to be—and it’s the impacts that kill people.”</p>\n<p>Google DeepMind also announced that it is open-sourcing the WeatherNext models used during hurricane season so that researchers can use and improve on them. Alet is hopeful that opening the models up to the research community could help uncover fresh insights into how cyclones work.</p>\n<p>“I’m very excited about scientific discovery,” he says. “I think AI is giving us new tools to poke into the laws of the universe.”</p>\n<p><i>This story originally appeared on <a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\">wired.com</a>.</i></p> </div></div>",
+  "image": "images/4a4b61dc2978.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
