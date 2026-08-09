@@ -5,8 +5,64 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 09 Aug 2026 16:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:03:54 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Diety pudełkowe na nowych zasadach. Takie umiejętności trzeba potwierdzić</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/71744bd845ff</link>
+      <description>Nowa kwalifikacja dla cateringu dietetycznego: znalazł się na liście Zintegrowanego Systemu Kwalifikacji. Osoba, która będzie chciała uzyskać certyfikat, musi wykazać się m.in. wiedzą z podstaw dietetyki i żywienia człowieka, higieny żywności oraz technologii gastronomicznej.</description>
+      <pubDate>Sun, 09 Aug 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">71744bd845ff</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Diety-pudelkowe-na-nowych-zasadach-Takie-umiejetnosci-trzeba-potwierdzic,287578,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Pij zamiast porannej kawy. Pęcznieje w jelitach i trzyma cukier w ryzach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3e15776466db</link>
+      <description>To solidna dawka błonnika, który wspomoże pracę jelit i da uczucie sytości. Mowa o naparze z babki płesznik: taki napój można pić zamiast porannej kawy.</description>
+      <pubDate>Sun, 09 Aug 2026 19:01:00 GMT</pubDate>
+      <guid isPermaLink="false">3e15776466db</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Pij-zamiast-porannej-kawy-Pecznieje-w-jelitach-i-trzyma-cukier-w-ryzach,287571,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Zagadkowy telefon na Kremlu. Putin, „zmarły” dowódca i echa Buczy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c4954547b25</link>
+      <description>Na oficjalnej stronie Kremla, czyli centrum władzy w Moskwie, ukazał się zapis telefonicznej rozmowy Władimira Putina z dowódcą 76. Gwardyjskiej Dywizji Powietrzno-Desantowej Wojsk Powietrznodesantowych, pułkownikiem Gwardii Abdulazizem Shikhabidovem. Putin odbierał od niego raport. Problem w tym, że - jak donoszą zagraniczne media, w tym „Die Welt” - ten dowódca nie żyje od roku. Był odpowiedzialny za masakrę i zbrodnie wojenne na cywilach w Buczy.</description>
+      <pubDate>Sun, 09 Aug 2026 18:07:00 GMT</pubDate>
+      <guid isPermaLink="false">7c4954547b25</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zagadkowy-telefon-na-kremlu-putin-zmarly-dowodca-i-echa-bucz,nIdn,1013051">RMF24</source>
+    </item>
+    <item>
+      <title>Rząd Tuska nie zachwyca. 58 proc. Polaków wystawiło negatywną ocenę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9377c616fff4</link>
+      <description>58 proc. Polaków krytycznie ocenia dotychczasowe rządy koalicji pod kierownictwem premiera Donalda Tuska, 35,9 proc. pozytywnie, a 6,1 proc. nie ma zdania - wynika z badania dla Wirtualnej Polski.</description>
+      <pubDate>Sun, 09 Aug 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">9377c616fff4</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Rzad-Tuska-nie-zachwyca-58-proc-Polakow-wystawilo-negatywna-ocene-9179840.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Śmiertelny wypadek na jeziorze. Zginął nastolatek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/04dfb3ff3451</link>
+      <description>Do tragicznego wypadku doszło na jeziorze Jagodne na Mazurach. Zginął 16-letni chłopak.</description>
+      <pubDate>Sun, 09 Aug 2026 17:37:00 GMT</pubDate>
+      <guid isPermaLink="false">04dfb3ff3451</guid>
+      <source url="https://www.rmf24.pl/regiony/olsztyn/news-smiertelny-wypadek-na-jeziorze-zginal-nastolatek,nIdn,1013053">RMF24</source>
+    </item>
+    <item>
+      <title>OpenChamber: An Agentic Development Environment</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bea42141b513</link>
+      <description>OpenChamber is an agentic development environment for AI coding across desktop, browser, phone, and VS Code. Watch agents work, review diffs, branch sessions, and keep the whole board visible.</description>
+      <pubDate>Sun, 09 Aug 2026 17:27:16 GMT</pubDate>
+      <guid isPermaLink="false">bea42141b513</guid>
+      <source url="https://openchamber.dev/">Hacker News</source>
+    </item>
+    <item>
+      <title>Ask HN: What are you working on? (August 2026)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/76c3a3f4cc29</link>
+      <description>I got laid off at the end of April and have been building my own personal dream tool since, it&apos;s a skeuomorphic carpentry simulator with an agent MCP. You start with real wood specs and a shop full of miter saws, router tables, table saws and the like. Think of it like Sketchup but no extruding rectangles.</description>
+      <pubDate>Sun, 09 Aug 2026 17:23:22 GMT</pubDate>
+      <guid isPermaLink="false">76c3a3f4cc29</guid>
+      <source url="https://news.ycombinator.com/item?id=49233423">Hacker News</source>
+    </item>
     <item>
       <title>Leżą w sklepie obok białych: są zdrowsze, a mniej popularne. Wsparcie dla jelit i odporności</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c8bdcb31a1d4</link>
@@ -16,12 +72,44 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Leza-w-sklepie-obok-bialych-sa-zdrowsze-a-mniej-popularne-Wsparcie-dla-jelit-i-odpornosci,287348,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4c13c43108a2</link>
+      <description>Recently Aptera announced they have ordered major components to build 40 production vehicles.  This may not sound like many (especially since they have nearly 50,000 reservations), but this is a major milestone for the company.  Aptera has existed in some form for nearly 20 years, never having come this close to shipping a vehicle before.  Now they have only 1 major certification left and are ramping up to build them at their facility in Carlsbad, CA.</description>
+      <pubDate>Sun, 09 Aug 2026 17:19:48 GMT</pubDate>
+      <guid isPermaLink="false">4c13c43108a2</guid>
+      <source url="https://frequal.com/aptera/ProductionImminent.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: A replayable A2A jury for tracing how agents influence decisions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c71cb36e3219</link>
+      <description>Build autonomous Python agents with native Agent-to-Agent (A2A) communication - nMaroulis/protolink</description>
+      <pubDate>Sun, 09 Aug 2026 17:10:05 GMT</pubDate>
+      <guid isPermaLink="false">c71cb36e3219</guid>
+      <source url="https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom">Hacker News</source>
+    </item>
+    <item>
+      <title>Katarzyna Niewiadoma-Phinney na podium Tour de France</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eecc8ca49e07</link>
+      <description>Znamy już wyniki tegorocznego wyścigu Tour de France kobiet. Wygrała Holenderka Vollering. Polka Katarzyna Niewiadoma-Phinney zajęła drugie miejsce.</description>
+      <pubDate>Sun, 09 Aug 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="false">eecc8ca49e07</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-katarzyna-niewiadoma-phinney-na-podium-tour-de-france,nIdn,1013052">RMF24</source>
+    </item>
+    <item>
       <title>Pod żadnym pozorem nie wyrzucaj takiego szkła do zielonego pojemnika. Mandat nawet 500 zł</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7698b97b9939</link>
       <description>Nieprawidłowa segregacja odpadów wiąże się z konsekwencjami finansowymi. Wyrzucenie szkła do niewłaściwego pojemnika może skutkować wyższymi opłatami za gospodarowanie odpadami, a w niektórych przypadkach także mandatem.</description>
       <pubDate>Sun, 09 Aug 2026 17:01:00 GMT</pubDate>
       <guid isPermaLink="false">7698b97b9939</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Pod-zadnym-pozorem-nie-wyrzucaj-takiego-szkla-do-zielonego-pojemnika-Mandat-nawet-500-zl,287505,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Nietypowa misja dronów. Do rolników inaczej dotrzeć się nie dało</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/676b5d3e0727</link>
+      <description>Koreańskie drony do niedawna śledziły dzikie zwierzęta – dziś krążą nad polami i przez głośniki namawiają starszych rolników, by przerwali pracę.</description>
+      <pubDate>Sun, 09 Aug 2026 17:00:35 GMT</pubDate>
+      <guid isPermaLink="false">676b5d3e0727</guid>
+      <source url="https://antyweb.pl/nietypowa-misja-dronow-do-rolnikow-inaczej-dotrzec-sie-nie-dalo">Antyweb</source>
     </item>
     <item>
       <title>Komary świadomie wybierają swoich żywicieli. Od czego zależą ich preferencje</title>
@@ -64,6 +152,14 @@
       <source url="https://www.rynekzdrowia.pl/Serwis-Reumatologia/Reumatolodzy-krytycznie-o-mapach-potrzeb-zdrowotnych-Nie-tylko-nie-bedzie-za-co-ale-i-gdzie-leczyc,287543,1011.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>FCC moves to ban Lidar-equipped foreign drones from US</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8b644cdb4402</link>
+      <description>Drone maker DJI says the “military-grade” label is a category error,</description>
+      <pubDate>Sun, 09 Aug 2026 16:24:59 GMT</pubDate>
+      <guid isPermaLink="false">8b644cdb4402</guid>
+      <source url="https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows">Hacker News</source>
+    </item>
+    <item>
       <title>Drones spotted over German base days after Leipzig bomb incident</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b2cf7f1b3bf0</link>
       <description>Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.</description>
@@ -86,6 +182,14 @@
       <pubDate>Sun, 09 Aug 2026 16:14:00 GMT</pubDate>
       <guid isPermaLink="false">988e75bfb696</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-rosyjskie-bazy-beda-przeksztalcone-putin-dogadal-sie-z-syria,nIdn,1013048">RMF24</source>
+    </item>
+    <item>
+      <title>Moskwa i Damaszek zawarły porozumienie ws. baz wojskowych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d4190afed791</link>
+      <description>Syryjskie Ministerstwo Spraw Zagranicznych poinformowało w niedzielę, że Syria i Rosja porozumiały się w sprawie zmiany charakteru rosyjskiej obecności wojskowej w Syrii. Część baz, które przez lata służyły Rosji do wspierania rządów Baszara al-Asada, ma zostać przekształcona w ośrodki przeznaczone do wspólnych ćwiczeń i szkoleń.</description>
+      <pubDate>Sun, 09 Aug 2026 16:14:00 GMT</pubDate>
+      <guid isPermaLink="false">d4190afed791</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-moskwa-i-damaszek-zawarly-porozumienie-ws-baz-wojskowych,nIdn,1013048">RMF24</source>
     </item>
     <item>
       <title>TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire</title>
@@ -144,12 +248,36 @@
       <source url="https://www.rmf24.pl/fakty/polska/news-zmiana-czasu-na-zimowy-2026-kiedy-przestawiamy-zegarki-i-co-,nIdn,1012861">RMF24</source>
     </item>
     <item>
-      <title>Criminal Deception in Silicon Valley</title>
+      <title>Analyzing data from Silicon Valley ventures and founders prosecuted for fraud</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c4e54fe21f4f</link>
       <description>Comments</description>
       <pubDate>Sun, 09 Aug 2026 15:26:45 GMT</pubDate>
       <guid isPermaLink="false">c4e54fe21f4f</guid>
       <source url="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981">Hacker News</source>
+    </item>
+    <item>
+      <title>Human vs. AI – Diff-based line-level provenance for text under agentic editing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c54bc1411491</link>
+      <description>Line-level provenance for text under agentic editing — who wrote this line, us or them? — derived from version history, not from markup in the file. - eighttrigrams/us-vs-them</description>
+      <pubDate>Sun, 09 Aug 2026 15:25:29 GMT</pubDate>
+      <guid isPermaLink="false">c54bc1411491</guid>
+      <source url="https://github.com/eighttrigrams/us-vs-them">Hacker News</source>
+    </item>
+    <item>
+      <title>Tajemnicze spotkanie prezydenta Iranu z Chameneim. Władze obiecują dowody</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ff4f98ef4f7e</link>
+      <description>Prezydent Iranu Masud Pezeszkian spotkał się pod koniec lipca z przywódcą duchowo-politycznym kraju Modżtabą Chameneim, aby omówić kwestie wojskowe i gospodarcze - podała irańska telewizja państwowa. Chamenei od objęcia przywództwa nad Iranem w marcu tego roku nie wystąpił ani razu publicznie.</description>
+      <pubDate>Sun, 09 Aug 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="false">ff4f98ef4f7e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Tajemnicze-spotkanie-prezydenta-Iranu-z-Chameneim-Wladze-obiecuja-dowody-9179856.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Nawrocki: Pilnowanie żyrandoli jest nie dla mnie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/03ba910c6627</link>
+      <description>Pilnowanie żyrandoli jest nie dla mnie - powiedział w niedzielę podczas spotkania z mieszkańcami Skawiny (woj. małopolskie) prezydent Karol Nawrocki. Zapewnił, że podczas drugiego roku prezydentury będzie spotykał się z Polakami.</description>
+      <pubDate>Sun, 09 Aug 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="false">03ba910c6627</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nawrocki-Pilnowanie-zyrandoli-jest-nie-dla-mnie-9179855.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>Największa defilada w historii Polski. Armia gotowa, zobaczymy Abramsy, Rosomaki czy F-35</title>
@@ -182,6 +310,14 @@
       <pubDate>Sun, 09 Aug 2026 15:11:20 GMT</pubDate>
       <guid isPermaLink="false">b0098774b8d8</guid>
       <source url="https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Tom Stanton&apos;s supersonic trebuchet breaks sound barrier with gravity alone</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/23e0494f1c6b</link>
+      <description>Tom Stanton has spent years chasing a number that gravity itself seemed to forbid. On a quiet field somewhere in the UK, a 40-kilogram mass dropped a short distance, spun a carbon-fiber arm past 2,300 revolutions per minute, and sent a 4-gram projectile into the air at 776 miles per hour. That is nine miles per hour past the speed of sound. For the first time, a purely gravity-powered trebuchet crossed the barrier. Medieval engineers created these machines to fling huge stones at castle walls. The basic idea is to hoist a large heavy weight, let it fall down, and</description>
+      <pubDate>Sun, 09 Aug 2026 15:08:51 GMT</pubDate>
+      <guid isPermaLink="false">23e0494f1c6b</guid>
+      <source url="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">Hacker News</source>
     </item>
     <item>
       <title>Dbanie o zdrowie psychiczne ważne w radzeniu sobie z trudnościami menopauzy</title>
@@ -270,145 +406,6 @@
       <pubDate>Sun, 09 Aug 2026 14:30:07 GMT</pubDate>
       <guid isPermaLink="false">9f3cc80a921a</guid>
       <source url="https://antyweb.pl/openai-gpt-5-6-astra-hugging-face-ucieczka-szczegoly">Antyweb</source>
-    </item>
-    <item>
-      <title>The AI safety test is becoming a safety risk</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/256796e8828b</link>
-      <description>AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.</description>
-      <pubDate>Sun, 09 Aug 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="false">256796e8828b</guid>
-      <source url="https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/">TechCrunch</source>
-    </item>
-    <item>
-      <title>To był punkt zwrotny. &quot;Kim Dzong Un jeszcze nigdy nie miał tyle gotówki&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/858e44bb2d9d</link>
-      <description>22 miliardy dolarów w cztery lata - na tyle oszacowano zagraniczne przychody reżimu Kim Dzong Una. Kraj zarabia głównie na dostawach broni dla Rosji, handlu z Chinami i kradzieży kryptowalut. Tak Korea Północna rośnie w siłę i zamienia się w nuklearne mocarstwo.</description>
-      <pubDate>Sun, 09 Aug 2026 14:19:28 GMT</pubDate>
-      <guid isPermaLink="false">858e44bb2d9d</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/to-byl-punkt-zwrotny-kim-dzong-un-jeszcze-nigdy-nie-mial-tyle-gotowki-st9181423?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Czteroletnie dziecko wypadło z balkonu na 5. piętrze w Łomży</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ae03f901e39d</link>
-      <description>4-letnie dziecko wisiało na barierce balkonu na 5. piętrze, a po chwili spadło. Sąsiedzi - widząc sytuację - rozciągnęli koc, w który złapali malucha. Karatka zabrała dziecko na badania do szpitala.</description>
-      <pubDate>Sun, 09 Aug 2026 14:11:00 GMT</pubDate>
-      <guid isPermaLink="false">ae03f901e39d</guid>
-      <source url="https://www.rmf24.pl/regiony/bialystok/news-czteroletnie-dziecko-wypadlo-z-balkonu-na-5-pietrze-w-lomzy,nIdn,1013042">RMF24</source>
-    </item>
-    <item>
-      <title>Alarmująco niski stan wody w Wiśle. &quot;Organizmy w rzece mają trudności z przeżyciem&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/db32f0debfcf</link>
-      <description>Hydrolog Instytutu Meteorologii i Gospodarki Wodnej Emilia Szewczak poinformowała, że w niedzielę stacja Warszawa-Bulwary zanotowała alarmująco niski stan wody. Do odwołania obowiązują ostrzeżenia hydrologiczne dla wielu miejsc w kraju, w tym dla mazowieckiego odcinka Wisły.</description>
-      <pubDate>Sun, 09 Aug 2026 14:04:51 GMT</pubDate>
-      <guid isPermaLink="false">db32f0debfcf</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-organizmy-zyjace-w-wisle-maja-trudnosci-z-przezyciem-st9181728?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>This ‘adversarial’ pattern can prevent surveillance cameras from detecting you</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73d867272a1e</link>
-      <description>A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.</description>
-      <pubDate>Sun, 09 Aug 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">73d867272a1e</guid>
-      <source url="https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/">TechCrunch</source>
-    </item>
-    <item>
-      <title>John C. Lilly on solid state intelligence and the elimination of man (1978)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f544207e7c21</link>
-      <description>From John C. Lilly’s “The Scientist: A Metaphysical Autobiography” 1978
-In the isolation tank with K, John received a new message as follows:
-What is the …</description>
-      <pubDate>Sun, 09 Aug 2026 13:47:36 GMT</pubDate>
-      <guid isPermaLink="false">f544207e7c21</guid>
-      <source url="https://kibotronics.net/unlisted/lilly-machines/">Hacker News</source>
-    </item>
-    <item>
-      <title>Czteroletnia dziewczynka spadła z piątego piętra, sąsiedzi rozciągnęli koc</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/065e5e0b8644</link>
-      <description>Do niebezpiecznego zdarzenia doszło w niedzielę przy ulicy Sybiraków w Łomży. Czteroletnia dziewczynka zwisała po zewnętrznej stronie balkonu. Straciła siły i spadła, ale złapali ją w koc sąsiedzi. Trafiła do szpitala, była przytomna.</description>
-      <pubDate>Sun, 09 Aug 2026 13:37:38 GMT</pubDate>
-      <guid isPermaLink="false">065e5e0b8644</guid>
-      <source url="https://tvn24.pl/bialystok/czteroletnia-dziewczynka-spadla-z-piatego-pietra-sasiedzi-rozciagneli-koc-st9181716?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>GPT-5.6 Pro obalił trudną hipotezę matematyczną. Od 30 lat nikt nie mógł jej rozwiązać</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a4f15266ae9f</link>
-      <description>GPT-5.6 Pro pomógł znaleźć kontrprzykład obalający hipotezę HRT. Oto ile pracy wykonała AI, a ile matematycy.</description>
-      <pubDate>Sun, 09 Aug 2026 13:30:06 GMT</pubDate>
-      <guid isPermaLink="false">a4f15266ae9f</guid>
-      <source url="https://antyweb.pl/gpt-5-6-pro-hipoteza-hrt">Antyweb</source>
-    </item>
-    <item>
-      <title>Pilny apel o krew dla 15-latka, który walczy o życie po ataku nożownika</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/49bfbda9650c</link>
-      <description>15-letni Kacper, który w piątek wieczorem w Kamiennej Górze został ugodzony nożem, przeszedł operację, ale wciąż walczy o życie w szpitalu. Jego stan jest bardzo poważny. Stracił dużo krwi, a w szpitalu kończą się zapasy. Dostał cios w szyję, pilnie potrzebna jest dla niego krew. Gdzie można ją oddawać?</description>
-      <pubDate>Sun, 09 Aug 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">49bfbda9650c</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-pilny-apel-o-krew-dla-15-latka-ktory-walczy-o-zycie-po-ataku,nIdn,1013039">RMF24</source>
-    </item>
-    <item>
-      <title>Pride of Poland w Janowie Podlaskim. Oto najlepszy koń</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c6dff42bbf3d</link>
-      <description>Klacz Epiforana ze stadniny w Michałowie zdobyła tytuł najlepszego konia 48. Narodowego Pokazu Koni Arabskich Czystej Krwi w Janowie Podlaskim. W wydarzeniu zaprezentowano około 120 koni z państwowych i prywatnych stadnin.</description>
-      <pubDate>Sun, 09 Aug 2026 13:29:06 GMT</pubDate>
-      <guid isPermaLink="false">c6dff42bbf3d</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/pride-of-poland-w-janowie-podlaskim-oto-najlepszy-kon-st9181698?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Netanjahu mówi „nie” planowi Trumpa dla Gazy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6952a31f3783</link>
-      <description>Izrael odrzuca najnowszy amerykański plan dotyczący Strefy Gazy. Premier Benjamin Netanjahu oświadczył w niedzielę, że izraelskie wojska nie wycofają się z tego terytorium, dopóki Hamas nie zostanie całkowicie, „prawdziwie” rozbrojony.</description>
-      <pubDate>Sun, 09 Aug 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="false">6952a31f3783</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-netanjahu-mowi-nie-planowi-trumpa-dla-gazy,nIdn,1013038">RMF24</source>
-    </item>
-    <item>
-      <title>Mea Culpa – Dark Hours</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0d16b5c04c4e</link>
-      <description>Last week I launched a project called Dark Hours, which was a website utility to give you an idea of what could be seen in the sky that night.
-A developer who …</description>
-      <pubDate>Sun, 09 Aug 2026 13:20:43 GMT</pubDate>
-      <guid isPermaLink="false">0d16b5c04c4e</guid>
-      <source url="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Dlaczego klawiatura QWERTY nie jest ułożona alfabetycznie? Będziesz zaskoczony!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/02c2083a08d1</link>
-      <description>Skąd ten nietypowy układ klawiszy na najpopularniejszych klawiaturach? Będziesz zaskoczony!</description>
-      <pubDate>Sun, 09 Aug 2026 13:15:46 GMT</pubDate>
-      <guid isPermaLink="false">02c2083a08d1</guid>
-      <source url="https://antyweb.pl/dlaczego-klawiatura-qwerty-nie-jest-ulozona-alfabetycznie-bedziesz-zaskoczony">Antyweb</source>
-    </item>
-    <item>
-      <title>„Pokażemy go na ulicach”. Iran odpowiada na spekulacje o Chameneim</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/60bf90b5b363</link>
-      <description>Irańskie władze zapowiadają publikację nagrań, które mają pokazywać najwyższego przywódcę Iranu Modżtabę Chameneiego podczas spotkań z mieszkańcami, na ulicach oraz w rozmowach z dowódcami sił zbrojnych. O planach poinformował w niedzielę zastępca dowódcy paramilitarnej organizacji Basidż Kasem Korejszi – pisze Reuters.</description>
-      <pubDate>Sun, 09 Aug 2026 13:04:00 GMT</pubDate>
-      <guid isPermaLink="false">60bf90b5b363</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-pokazemy-go-na-ulicach-iran-odpowiada-na-spekulacje-o-chamen,nIdn,1013035">RMF24</source>
-    </item>
-    <item>
-      <title>Kino przejmuje gry wideo. Coraz więcej produkcji ze sznytem prosto z Hollywood</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/11560f7a98ff</link>
-      <description>Gry wideo są tak dużym rynkiem, że przyćmiewają nawet kinematografię. Mimo to filmy mają coraz większy wpływ na to, jak wyglądają dzisiejsze gry.</description>
-      <pubDate>Sun, 09 Aug 2026 13:00:08 GMT</pubDate>
-      <guid isPermaLink="false">11560f7a98ff</guid>
-      <source url="https://antyweb.pl/kino-przejmuje-gry-wideo-coraz-wiecej-produkcji-ze-sznytem-prosto-z-hollywood">Antyweb</source>
-    </item>
-    <item>
-      <title>This former notorious red-light district is now one of the world’s top AI hubs</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/991a6ae50c5a</link>
-      <description>More than 20 years ago, King&apos;s Cross was one of the seediest area&apos;s in London. Now it&apos;s sprouting something new.</description>
-      <pubDate>Sun, 09 Aug 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">991a6ae50c5a</guid>
-      <source url="https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/">TechCrunch</source>
-    </item>
-    <item>
-      <title>&quot;Rząd Donalda Tuska traktuje tę kwestię jak gorący kartofel&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4b337149d1a3</link>
-      <description>Temat przyjęcia euro stał się w Polsce politycznym tabu, a stanowisko społeczeństwa może zmienić dopiero poważny kryzys - uważa były prezes Narodowego Banku Polskiego Marek Belka.</description>
-      <pubDate>Sun, 09 Aug 2026 12:53:56 GMT</pubDate>
-      <guid isPermaLink="false">4b337149d1a3</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/rzad-donalda-tuska-traktuje-te-kwestie-jak-goracy-kartofel-st9181263?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
