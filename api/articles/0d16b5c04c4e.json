@@ -1,0 +1,13 @@
+{
+  "id": "0d16b5c04c4e",
+  "title": "Mea Culpa – Dark Hours",
+  "originalTitle": "Mea Culpa – Dark Hours",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+  "publishedAt": "2026-08-09T13:20:43.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Last week I launched a project called Dark Hours, which was a website utility to give you an idea of what could be seen in the sky that night.</p>\n<p>A developer who created another web app called <a href=\"https://blog.terrygodier.com/2026/08/09/DarkHours.app\">DarkHours.app</a> replied to my comment on Bluesky yesterday to show me how similar the project was to his, including the name. The <a href=\"https://bsky.app/profile/terrygodier.com/post/3ms2lm4kcfc2j\">thread is here</a>.</p>\n<p>I told him I’d significantly differentiate the featureset, change the name, and write up a blog post to show people his project.</p>\n<p>About an hour later, once it became clear to me that the web app I had launched using Claude was strikingly similar to his open source project, even reproducing a bug he had later fixed, it was clear that there wasn’t anything to do except to redirect the domain directly to him and kill any plans I had to launch an iOS app for the project.</p>\n<p>I’d like to give credit where credit is due. I think he’s made a wonderful open source app and if you liked the features that were included in what I launched, please use the actual version of the project. That’s what I’ll be doing.</p>\n<p>I’d also like to apologize for my irresponsible use of AI to build such a thing. While I had genuinely never seen <a href=\"https://blog.terrygodier.com/2026/08/09/DarkHours.app\">DarkHours.app</a> before yesterday, I was careless in relying on AI to generate the project without doing the work to understand whether it closely resembled an existing project. That’s on me, and I am responsible for what I published.</p>\n<p>Going forward, I won’t be using AI in this way to create any more web stuff, and I do not use it to anything close to this extent on iOS software. I do ask questions, debug issues, things like that, but I do not create apps with Claude for iOS.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
