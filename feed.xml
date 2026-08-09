@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 09 Aug 2026 19:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 20:54:33 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ffba219f0a05</link>
+      <description>The AI-focused hedge fund is still making some big bets.</description>
+      <pubDate>Sun, 09 Aug 2026 20:35:17 GMT</pubDate>
+      <guid isPermaLink="false">ffba219f0a05</guid>
+      <source url="https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/">TechCrunch</source>
+    </item>
     <item>
       <title>Diety pudełkowe na nowych zasadach. Takie umiejętności trzeba potwierdzić</title>
       <link>https://lolsoftware.github.io/4-news/#/article/71744bd845ff</link>
@@ -14,6 +22,86 @@
       <pubDate>Sun, 09 Aug 2026 20:15:00 GMT</pubDate>
       <guid isPermaLink="false">71744bd845ff</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Diety-pudelkowe-na-nowych-zasadach-Takie-umiejetnosci-trzeba-potwierdzic,287578,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Auto uderzyło w drzewo. U 4-latka doszło do zatrzymania krążenia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d11fbdd04277</link>
+      <description>W miejscowości Dąbrówka w województwie mazowieckim doszło dziś do wypadku samochodu osobowego. Auto, którym podróżował kierowca z 4-letnim dzieckiem z impetem uderzyło w przydróżne drzewo. U malucha doszło do zatrzymania krążenia. Udało się przywrócić mu czynności życiowe i został przetransportowany śmigłowcem LPR do szpitala.</description>
+      <pubDate>Sun, 09 Aug 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">d11fbdd04277</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-auto-uderzylo-w-drzewo-u-4-latka-doszlo-do-zatrzymania-kraze,nIdn,1013057">RMF24</source>
+    </item>
+    <item>
+      <title>Poland now 6th-largest EU economy, ahead of Switzerland and Belgium</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a86b3af71366</link>
+      <description>Poland&apos;s economy is gaining in importance in Europe. In 2025 the country ranked sixth in the EU by nominal GDP, accounting for almost 5% of the bloc&apos;s total output.</description>
+      <pubDate>Sun, 09 Aug 2026 20:13:38 GMT</pubDate>
+      <guid isPermaLink="false">a86b3af71366</guid>
+      <source url="https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium">Hacker News</source>
+    </item>
+    <item>
+      <title>Deletes all instances of Microsoft&apos;s GDID and prevents minting of new ones</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e0ae2ada7f39</link>
+      <description>Deletes all instances of Microsoft&apos;s GDID and prevents minting of new ones  - yegors/deGDID</description>
+      <pubDate>Sun, 09 Aug 2026 20:06:51 GMT</pubDate>
+      <guid isPermaLink="false">e0ae2ada7f39</guid>
+      <source url="https://github.com/yegors/deGDID">Hacker News</source>
+    </item>
+    <item>
+      <title>Milion euro i kupcy z całego świata. Finał aukcji Pride of Poland w Janowie Podlaskim</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/87998f66df46</link>
+      <description>16 koni za łączną kwotę miliona euro sprzedano w niedzielę na 57. aukcji Pride of Poland w stadninie w Janowie Podlaskim w Lubelskiem. Najwyższą cenę na licytacji – 160 tys. euro - osiągnęła klacz Pila z janowskiej stadniny. RMF FM objęło patronat nad Czempionatem Polski klaczy młodszych. Tu najlepsza okazała się klacz Epiforana z Michałowa. Na miejscu był nasz dziennikarz Tomasz Staniszewski.</description>
+      <pubDate>Sun, 09 Aug 2026 19:46:00 GMT</pubDate>
+      <guid isPermaLink="false">87998f66df46</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-milion-euro-i-kupcy-z-calego-swiata-final-aukcji-pride-of-po,nIdn,1013056">RMF24</source>
+    </item>
+    <item>
+      <title>The tragedy of the commons, AI edition</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02086f861e79</link>
+      <description>Comments</description>
+      <pubDate>Sun, 09 Aug 2026 19:43:52 GMT</pubDate>
+      <guid isPermaLink="false">02086f861e79</guid>
+      <source url="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition">Hacker News</source>
+    </item>
+    <item>
+      <title>Burze z gradem, ale też 33 stopnie. Alerty IMGW dla większości Polski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e21af43c3340</link>
+      <description>Ostrzeżenia pierwszego i drugiego stopnia przed burzami, a także alerty pierwszego stopnia przed upałem wydał Instytut Meteorologii i Gospodarki Wodnej na poniedziałek 10 sierpnia. Sprawdź mapę z aktualną prognozą ostrzeżeń.</description>
+      <pubDate>Sun, 09 Aug 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="false">e21af43c3340</guid>
+      <source url="https://www.rmf24.pl/fakty/pogoda/news-burze-z-gradem-ale-tez-33-stopnie-alerty-imgw-dla-wiekszosci,nIdn,1013055">RMF24</source>
+    </item>
+    <item>
+      <title>Ransomware gangs skip the CEO, head straight for the 40-something IT manager</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c819d78b86ad</link>
+      <description>Gen Xers who feel triggered by this should remember to unplug the network cable and call the cops</description>
+      <pubDate>Sun, 09 Aug 2026 19:20:40 GMT</pubDate>
+      <guid isPermaLink="false">c819d78b86ad</guid>
+      <source url="https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499">Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic is turning Claude Code’s auto mode on by default</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/79a8b9128fba</link>
+      <description>Programming with Claude Code will soon require even less human oversight.</description>
+      <pubDate>Sun, 09 Aug 2026 19:20:32 GMT</pubDate>
+      <guid isPermaLink="false">79a8b9128fba</guid>
+      <source url="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/">TechCrunch</source>
+    </item>
+    <item>
+      <title>How I use LLMs to learn complex topics</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bceb7281e531</link>
+      <description>LLMs are used for any things. Learning new things is one of the top use cases.</description>
+      <pubDate>Sun, 09 Aug 2026 19:16:49 GMT</pubDate>
+      <guid isPermaLink="false">bceb7281e531</guid>
+      <source url="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/">Hacker News</source>
+    </item>
+    <item>
+      <title>Alarmująco niski poziom Wisły. Hydrolog ostrzega przed skutkami suszy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a66da7962677</link>
+      <description>Poziom wody w Wiśle jest niepokojąco niski. W niedzielę na stacji hydrologicznej Warszawa-Bulwary odnotowano zaledwie 103 cm. Susza hydrologiczna może potrwać nawet do października – ostrzegają eksperci.</description>
+      <pubDate>Sun, 09 Aug 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="false">a66da7962677</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-alarmujaco-niski-poziom-wisly-hydrolog-ostrzega-przed-skutka,nIdn,1013054">RMF24</source>
     </item>
     <item>
       <title>Pij zamiast porannej kawy. Pęcznieje w jelitach i trzyma cukier w ryzach</title>
@@ -24,12 +112,28 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Pij-zamiast-porannej-kawy-Pecznieje-w-jelitach-i-trzyma-cukier-w-ryzach,287571,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Saying No</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2c80295a15c</link>
+      <description>I&apos;m reading a book called The Coaching Habit so I can coach my team better and specifically make my 1:1s with them more productive. While reading, I came across a quote by Peter Block who defines an adult-to-adult relationship as one in which you are</description>
+      <pubDate>Sun, 09 Aug 2026 18:51:06 GMT</pubDate>
+      <guid isPermaLink="false">f2c80295a15c</guid>
+      <source url="https://rozumem.xyz/posts/19">Hacker News</source>
+    </item>
+    <item>
       <title>Zagadkowy telefon na Kremlu. Putin, „zmarły” dowódca i echa Buczy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7c4954547b25</link>
       <description>Na oficjalnej stronie Kremla, czyli centrum władzy w Moskwie, ukazał się zapis telefonicznej rozmowy Władimira Putina z dowódcą 76. Gwardyjskiej Dywizji Powietrzno-Desantowej Wojsk Powietrznodesantowych, pułkownikiem Gwardii Abdulazizem Shikhabidovem. Putin odbierał od niego raport. Problem w tym, że - jak donoszą zagraniczne media, w tym „Die Welt” - ten dowódca nie żyje od roku. Był odpowiedzialny za masakrę i zbrodnie wojenne na cywilach w Buczy.</description>
       <pubDate>Sun, 09 Aug 2026 18:07:00 GMT</pubDate>
       <guid isPermaLink="false">7c4954547b25</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-zagadkowy-telefon-na-kremlu-putin-zmarly-dowodca-i-echa-bucz,nIdn,1013051">RMF24</source>
+    </item>
+    <item>
+      <title>Roboty koszące Parkside – ile kosztują i co potrafią?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33084f71fb24</link>
+      <description>Parkside to nie tylko wkrętarki i szlifierki. W ofercie marki znanej z Lidla znajdziemy też roboty koszące w kilku wersjach. Sprawdziliśmy, ile kosztują poszczególne modele, czym się różnią i który z nich najlepiej sprawdzi się w małym, średnim lub dużym ogrodzie.</description>
+      <pubDate>Sun, 09 Aug 2026 18:00:12 GMT</pubDate>
+      <guid isPermaLink="false">33084f71fb24</guid>
+      <source url="https://antyweb.pl/roboty-koszace-parkside-ile-kosztuja-i-co-potrafia">Antyweb</source>
     </item>
     <item>
       <title>Rząd Tuska nie zachwyca. 58 proc. Polaków wystawiło negatywną ocenę</title>
@@ -128,12 +232,28 @@
       <source url="https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>Harry Potter fans force diversion of UK-Ireland power link to avoid &apos;Dobby&apos;s grave&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d38e845beced</link>
+      <description>Potter fans complained after a project manager suggested cables would go under the grave in a BBC interview.</description>
+      <pubDate>Sun, 09 Aug 2026 16:45:23 GMT</pubDate>
+      <guid isPermaLink="false">d38e845beced</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Tragiczny finał nurkowania na Chorwacji. Nie żyje Polak</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b47c1580224f</link>
       <description>Czterdziestoletni Polak zmarł w piątek w Chorwacji. Mężczyzna nurkował w pobliżu Medulinu w Istrii.</description>
       <pubDate>Sun, 09 Aug 2026 16:38:00 GMT</pubDate>
       <guid isPermaLink="false">b47c1580224f</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-tragiczny-final-nurkowania-na-chorwacji-nie-zyje-polak,nIdn,1013050">RMF24</source>
+    </item>
+    <item>
+      <title>Tragiczny finał nurkowania w Chorwacji. Nie żyje Polak</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/43627581059e</link>
+      <description>Czterdziestoletni Polak zmarł w piątek w Chorwacji. Mężczyzna nurkował w pobliżu Medulinu w Istrii.</description>
+      <pubDate>Sun, 09 Aug 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="false">43627581059e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-tragiczny-final-nurkowania-w-chorwacji-nie-zyje-polak,nIdn,1013050">RMF24</source>
     </item>
     <item>
       <title>Ukraiński robot zaskakują odpowiedzią na rosyjskie drony. Oto VORON</title>
@@ -286,126 +406,6 @@
       <pubDate>Sun, 09 Aug 2026 15:22:00 GMT</pubDate>
       <guid isPermaLink="false">babbddd67154</guid>
       <source url="https://www.rmf24.pl/fakty/polska/news-najwieksza-defilada-w-historii-polski-armia-gotowa-zobaczymy,nIdn,1013043">RMF24</source>
-    </item>
-    <item>
-      <title>Ma 1100 lat i 5 metrów w obwodzie. Oto najstarsze drzewo w Niemczech</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a80dc3a459fc</link>
-      <description>Na alpejskiej łące w regionie Allgäu, z dala od szlaków i ludzkiego zgiełku, rośnie niezwykły świadek historii. Ten potężny cis ma ponad 1100 lat i oficjalnie został uznany za najstarsze drzewo w Niemczech. Jak przetrwał ponad tysiąclecie w surowym klimacie i jaką tajemnicę skrywa jego potężny pień?</description>
-      <pubDate>Sun, 09 Aug 2026 15:16:00 GMT</pubDate>
-      <guid isPermaLink="false">a80dc3a459fc</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-ma-1100-lat-i-5-metrow-w-obwodzie-oto-najstarsze-drzewo-w-ni,nIdn,1012847">RMF24</source>
-    </item>
-    <item>
-      <title>Prezydent zapowiada w Skawinie. „Pilnowanie żyrandoli jest nie dla mnie”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/891eaed7bd1a</link>
-      <description>Regularne spotkania z Polakami podczas drugiego roku prezydentury zapowiedział w niedzielę w Skawinie (woj. małopolskie) prezydent Karol Nawrocki. „Pilnowanie żyrandoli jest nie dla mnie” – mówił w trakcie spotkania z mieszkańcami.</description>
-      <pubDate>Sun, 09 Aug 2026 15:16:00 GMT</pubDate>
-      <guid isPermaLink="false">891eaed7bd1a</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-prezydent-zapowiada-w-skawinie-pilnowanie-zyrandoli-jest-nie,nIdn,1013045">RMF24</source>
-    </item>
-    <item>
-      <title>Windows 11&apos;s built-in Weather app wastes more than 1 GB of RAM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b0098774b8d8</link>
-      <description>A new report shows Windows 11&apos;s built-in Weather app can consume more than 1 GB of RAM. By comparison, Apple&apos;s native Weather app on macOS uses roughly five times less memory under similar conditions.</description>
-      <pubDate>Sun, 09 Aug 2026 15:11:20 GMT</pubDate>
-      <guid isPermaLink="false">b0098774b8d8</guid>
-      <source url="https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Tom Stanton&apos;s supersonic trebuchet breaks sound barrier with gravity alone</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/23e0494f1c6b</link>
-      <description>Tom Stanton has spent years chasing a number that gravity itself seemed to forbid. On a quiet field somewhere in the UK, a 40-kilogram mass dropped a short distance, spun a carbon-fiber arm past 2,300 revolutions per minute, and sent a 4-gram projectile into the air at 776 miles per hour. That is nine miles per hour past the speed of sound. For the first time, a purely gravity-powered trebuchet crossed the barrier. Medieval engineers created these machines to fling huge stones at castle walls. The basic idea is to hoist a large heavy weight, let it fall down, and</description>
-      <pubDate>Sun, 09 Aug 2026 15:08:51 GMT</pubDate>
-      <guid isPermaLink="false">23e0494f1c6b</guid>
-      <source url="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">Hacker News</source>
-    </item>
-    <item>
-      <title>Dbanie o zdrowie psychiczne ważne w radzeniu sobie z trudnościami menopauzy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c95d80c51cd0</link>
-      <description>Menopauza nie jest wyłącznie procesem biologicznym. Na dobrostan kobiet w tym okresie wpływają również czynniki psychiczne i społeczne, m.in. samoocena, relacje z bliskimi, wsparcie społeczne czy warunki pracy – wynika z przeglądu 18 publikacji z różnych części świata.</description>
-      <pubDate>Sun, 09 Aug 2026 15:06:00 GMT</pubDate>
-      <guid isPermaLink="false">c95d80c51cd0</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Dbanie-o-zdrowie-psychiczne-wazne-w-radzeniu-sobie-z-trudnosciami-menopauzy,287575,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Najlepszy park narodowy w Europie znajduje się blisko Polski. Jest ogromny i piękny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bf8e7ca29731</link>
-      <description>Austriacki Park Narodowy Wysokich Taurów został uznany za najlepszy park narodowy w Europie. Wysokie Taury, rozciągające się na terenie trzech krajów związkowych Austrii, zachwycają monumentalnymi alpejskimi krajobrazami, malowniczymi dolinami oraz bogactwem fauny. Najnowszy ranking European National Park Index wskazuje, że ten wyjątkowy rezerwat to idealny kierunek na wakacje dla osób poszukujących wytchnienia od upałów i tłumów turystów.</description>
-      <pubDate>Sun, 09 Aug 2026 15:03:00 GMT</pubDate>
-      <guid isPermaLink="false">bf8e7ca29731</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-najlepszy-park-narodowy-w-europie-znajduje-sie-blisko-polski,nIdn,1012703">RMF24</source>
-    </item>
-    <item>
-      <title>Te gadżety zrujnują wasze zdrowie. Mało kto jest tego świadom</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2767adee2708</link>
-      <description>Wszyscy korzystamy z popularnych gadżetów. Niestety wielu z nas nie wie, jaki mają wpływ na nasze zdrowie.</description>
-      <pubDate>Sun, 09 Aug 2026 15:00:01 GMT</pubDate>
-      <guid isPermaLink="false">2767adee2708</guid>
-      <source url="https://antyweb.pl/myjesz-rece-ale-o-tym-zapominasz-to-brudniejsze-niz-toaleta">Antyweb</source>
-    </item>
-    <item>
-      <title>Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a85f51126c3</link>
-      <description>On the latest episode of Equity, we spoke to Jill Lepore about &quot;government by machines&quot; and why Elon Musk is a bad science fiction reader.</description>
-      <pubDate>Sun, 09 Aug 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7a85f51126c3</guid>
-      <source url="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Komary tną Cię niemiłosiernie? Naukowcy w końcu odkryli powód</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/69939e51b677</link>
-      <description>Zastanawiasz się, dlaczego komary zawsze wybierają Ciebie, podczas gdy Twoi znajomi siedzą spokojnie? Naukowcy z Miami znaleźli odpowiedź. Okazuje się, że te uciążliwe owady mają swoje unikalne preferencje zapachowe, a klucz do zagadki kryje się na Twojej skórze.</description>
-      <pubDate>Sun, 09 Aug 2026 14:57:00 GMT</pubDate>
-      <guid isPermaLink="false">69939e51b677</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-komary-tna-cie-niemilosiernie-naukowcy-w-koncu-odkryli-powod,nIdn,1012605">RMF24</source>
-    </item>
-    <item>
-      <title>Guano pingwinów maluje wyspy na różowo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8308ac8c6db</link>
-      <description>Wyspy Danger na Antarktydzie widać z satelity w różowo-pomarańczowych odcieniach. Okazuje się, że kolor ten nie jest spowodowany obecnością minerałów w skałach, a barwę zawdzięcza swoim małym, uroczym mieszkańcom.</description>
-      <pubDate>Sun, 09 Aug 2026 14:46:14 GMT</pubDate>
-      <guid isPermaLink="false">b8308ac8c6db</guid>
-      <source url="https://tvn24.pl/tvnmeteo/nauka/guano-pingwinow-maluje-wyspy-na-rozowo-nasa-pokazala-zdjecia-st9177515?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Marco Brenner zwycięzcą wyścigu Tour de Pologne</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9bf85e98960c</link>
-      <description>Niemiec Marco Brenner zwyciężył w tegorocznym wyścigu kolarskim Tour de Pologne. Ostatni etap odbył się w małopolskiej Wieliczce.</description>
-      <pubDate>Sun, 09 Aug 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="false">9bf85e98960c</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-marco-brenner-zwyciezca-wyscigu-tour-de-pologne,nIdn,1013044">RMF24</source>
-    </item>
-    <item>
-      <title>Izrael nie wycofa sił ze Strefy Gazy. Benjamin Netanjahu odrzuca plan Donalda Trumpa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/840478c0d2ad</link>
-      <description>Dopóki Hamas nie zostanie całkowicie rozbrojony, rząd Izraela nie wycofa wojsk ze Strefy Gazy - przekazał premier Benjamin Netanjahu. Tym samym odrzucił plan pokojowy forsowany przez Stany Zjednoczone.</description>
-      <pubDate>Sun, 09 Aug 2026 14:37:37 GMT</pubDate>
-      <guid isPermaLink="false">840478c0d2ad</guid>
-      <source url="https://tvn24.pl/swiat/benjamin-netanjahu-odrzuca-plan-donalda-trumpa-dla-strefy-gazy-st9181724?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>I Wanted to Own the Harness. Then Codex Desktop Won</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/abcf18d8ea7b</link>
-      <description>I staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Codex Desktop because the integrated system gave me more of my attention back.</description>
-      <pubDate>Sun, 09 Aug 2026 14:36:46 GMT</pubDate>
-      <guid isPermaLink="false">abcf18d8ea7b</guid>
-      <source url="https://jorypestorious.com/blog/portable-agent-factory/">Hacker News</source>
-    </item>
-    <item>
-      <title>Cool URIs Don&apos;t Change (1998)</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d7238b4f951</link>
-      <description>Comments</description>
-      <pubDate>Sun, 09 Aug 2026 14:32:53 GMT</pubDate>
-      <guid isPermaLink="false">9d7238b4f951</guid>
-      <source url="https://www.w3.org/Provider/Style/URI">Hacker News</source>
-    </item>
-    <item>
-      <title>Sensacja w OpenAI. Sztuczna inteligencja &quot;zwariowała&quot; i skrzętnie zaplanowała swoją ucieczkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9f3cc80a921a</link>
-      <description>Agenci OpenAI wydostali się z testowego środowiska, dzielili exploitami i naruszyli Hugging Face. Teraz firma zwalnia badania i zbroi się.</description>
-      <pubDate>Sun, 09 Aug 2026 14:30:07 GMT</pubDate>
-      <guid isPermaLink="false">9f3cc80a921a</guid>
-      <source url="https://antyweb.pl/openai-gpt-5-6-astra-hugging-face-ucieczka-szczegoly">Antyweb</source>
     </item>
   </channel>
 </rss>
