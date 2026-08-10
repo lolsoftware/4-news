@@ -1,0 +1,13 @@
+{
+  "id": "5cd8cebd0bb2",
+  "title": "Mistral Patent for \"Code implemented tool calls\"",
+  "originalTitle": "Mistral Patent for \"Code implemented tool calls\"",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+  "publishedAt": "2026-08-10T13:29:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <td> <div><p><b>1</b>. A method, comprising:</p><p>receiving, at a server, a user request for execution of one or more tool calls;</p> <p>generating, by a large language model (LLM), a code block in a programming language, the code block configured to encapsulate the one or more tool calls;</p> <p>executing, by the server, the code block in a sandbox;</p> <p>in response to obtaining a pending tool call, pausing execution of the code block;</p> <p>transmitting the pending tool call to a client for execution;</p> <p>receiving, from the client, a first result of the pending tool call;</p> <p>resuming execution of the code block and substituting the first result of the pending tool call for the pending tool call in the code block; and</p> <p>returning a second result of the executed code block to the LLM.</p> </div> </td> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
