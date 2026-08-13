@@ -1,0 +1,13 @@
+{
+  "id": "5a4ef5d9698b",
+  "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+  "originalTitle": "Donkey.bas is 45 Years Old – 131 line of Glory",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://donkeybas.com/",
+  "publishedAt": "2026-08-13T17:45:50.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div class=\"page\"> <header> <p>A browser port of the 1981 IBM PC classic, for its 45th birthday.</p> </header> <main> <div> <p><span><kbd>Space</kbd> / tap — switch lanes</span> <span><kbd>Esc</kbd> — title</span> </p> <p><label> Sound</label> <label> CRT</label> <label> Cheat</label> </p> </div> </main> <section> <h2>About</h2> <p> <strong>DONKEY.BAS</strong> shipped with early IBM PC DOS as a demo of color graphics and sound in BASICA. It was written by Microsoft co-founder Bill Gates and Neil Konzen in 1981 (version 1.10 in 1982). You only switch lanes — avoid the donkey, or BOOM. </p> <p> This page recreates the original CGA gameplay in JavaScript with some liberties. Original source: <a href=\"https://donkeybas.com/source.html\">DONKEY.BAS</a> · <a href=\"https://github.com/jkrauska/DONKEY.BAS\">GitHub</a> </p> </section> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
