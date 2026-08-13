@@ -1,0 +1,13 @@
+{
+  "id": "3b78235ea759",
+  "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+  "originalTitle": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+  "publishedAt": "2026-08-13T17:00:13.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google is <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/\">announcing</a> a new Gemini model today, but it’s not the long-awaited 3.5 Pro. Gemini 3.7 Flash is now rolling out to replace 3.6 Flash, which itself was released <a href=\"https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/\">only three weeks ago</a>. This new “workhorse” model is supposedly the product of core optimizations and developer feedback, offering improved coding and agentic performance. And Google is hoping to counter the lower cost of some competing models with a lower “introductory price” for 3.7 Flash.</p>\n<p>According to Senior Director Tulsee Doshi, Gemini 3.7 Flash is noticeably better at coding than the previous Flash release. She cites a jump in the FrontierCode 1.1 Main test from 34.4 to 43.6 percent and DeepSWE v1.1 going from 49 to 65.3 percent. As for the vibes, Gemini 3.7 Flash’s WebDev Arena score has risen to 1,588 from 1,538.</p>\n<p>People turning to Gemini and hoping it will “know” things may also see modest improvements in Gemini 3.7 Flash. The GDP.pdf benchmark, which measures how well a model can process complex documents, has gone up to 34 percent versus 22 percent with 3.6 Flash. AutomationBench tests how well models can execute common business workflows, and Gemini 3.7 Flash rose to 30.4 percent from 3.6’s 17 percent score.</p> <p>Those numbers certainly are higher. But are they sufficiently different to support a new model release just three weeks after the last one? This may be more about maintaining the appearance of constant improvements in Google’s AI. Throughout 2024 and 2025, Google rapidly made up ground to rival the best AI coming out of competing AI labs. Things appear to have slowed in 2026, though. At I/O in May, Google <a href=\"https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/\">promised</a> that the flagship Gemini 3.5 Pro would launch in June, but that never happened.</p> </div></div>",
+  "image": "images/ca808d6090a3.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
