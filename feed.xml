@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:57:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:36:10 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ryzyko szantażu i zastraszania. Co zrobić, gdy twoje dane medyczne zostały ujawnione?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/aa9f12f1b0cd</link>
+      <description>Wyciek danych medycznych może być dla pacjentów bardzo niebezpieczny. Wiedza o chorobie, przyjmowanych lekach czy leczeniu może nie tylko ułatwić oszustom wyłudzenie pieniędzy. Na szczególne zagrożenia związane z wyciekiem danych z MyDr w rozmowie z „Rzeczpospolitą” zwróciła uwagę ekspertka, dr hab. Marlena Sakowska-Baryła.</description>
+      <pubDate>Thu, 13 Aug 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="false">aa9f12f1b0cd</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Ryzyko-szantazu-i-zastraszania-Co-zrobic-gdy-twoje-dane-medyczne-zostaly-ujawnione,287717,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Fundusz wypłaca pacjentom tysiące. Dostają średnio 55 tys. zł</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6a71a761d47</link>
+      <description>Do tej pory przyznałem już świadczenia o (łącznej- red.) wysokości ponad 60 milionów złotych – mówi Rzecznik Praw Pacjenta Bartłomiej Chmielowiec. RPP przekonuje, że złożenie wniosku o świadczenie ze specjalnego funduszu jest bardzo proste i zajmuje ok. 20 minut. Jednocześnie ostrzega przed niepotrzebnymi wydatkami.</description>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">c6a71a761d47</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Fundusz-wyplaca-pacjentom-tysiace-Dostaja-srednio-55-tys-zl,287714,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Pierwsze placówki zgłaszają wyciek danych pacjentów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d348fbeb4eb2</link>
+      <description>Do prezesa Urzędu Ochrony Danych Osobowych wpłynęły pierwsze zgłoszenia od administratorów danych, którzy korzystają z usług firmy MyDr - poinformował rzecznik prasowy UODO. - Obecnie UODO je analizuje - dodał. Administratorem danych są m.in. placówki medyczne korzystające z oprogramowania firmy MyDr.</description>
+      <pubDate>Thu, 13 Aug 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="false">d348fbeb4eb2</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Pierwsze-placowki-zglaszaja-wyciek-danych-pacjentow,287716,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Dane ważnego polityka wśród 19 mln wykradzionych rekordów. &quot;To informacja na pierwsze strony gazet&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/289a4eba0ce5</link>
+      <description>Wśród wykradzionych rekordów 19 mln pacjentów są dane wrażliwe jednego z &quot;ważnych polityków&quot;. Cyberprzestępcy podali konkretne imię i nazwisko. - Taka informacja byłaby na pierwszych stronach gazet - mówi Rynkowi Zdrowia Adam Haertle, redaktor naczelny portalu Zaufana Trzecia Strona. Podkreśla, że sektor medyczny w kwestii bezpieczeństwa danych powinien być nadzorowany tak, jak sektor bankowy.</description>
+      <pubDate>Thu, 13 Aug 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="false">289a4eba0ce5</guid>
+      <source url="https://www.rynekzdrowia.pl/E-zdrowie/Dane-waznego-polityka-wsrod-19-mln-wykradzionych-rekordow-To-informacja-na-pierwsze-strony-gazet,287712,7.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Lekarze dyktują stawki. Przekonują, że bez kontraktów szpitale sobie nie poradzą</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c1f0ce8ac309</link>
@@ -14,6 +46,14 @@
       <pubDate>Thu, 13 Aug 2026 09:35:00 GMT</pubDate>
       <guid isPermaLink="false">c1f0ce8ac309</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Lekarze-dyktuja-stawki-Przekonuja-ze-bez-kontraktow-szpitale-sobie-nie-poradza,287702,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Azja testuje arktyczny szlak handlowy, Europie grozi pozostanie w tyle</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bbb8337fc328</link>
+      <description>Chińska firma żeglugowa uruchomi w najbliższych dniach sezonowe połączenie z Europą przez Arktykę, a armator z Korei Płd. szykuje próbny rejs tą trasą – poinformował w czwartek japoński portal Nikkei Asia. Zdaniem ekspertów Europa ryzykuje pozostaniem w tyle z powodu świadomych decyzji ekologicznych i obaw o sankcje.</description>
+      <pubDate>Thu, 13 Aug 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="false">bbb8337fc328</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Azja-testuje-arktyczny-szlak-handlowy-Europie-grozi-pozostanie-w-tyle-9181639.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
       <title>&quot;Lex szarlatan&quot; czeka na podpis. Komor: żadne prawo do końca nie wykluczy pseudomedycyny</title>
@@ -24,12 +64,116 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Lex-szarlatan-czeka-na-podpis-Komor-zadne-prawo-do-konca-nie-wykluczy-pseudomedycyny,287711,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Lipcowa inflacja potwierdzona na 3,0%. Drożały paliwa i jak zwykle taniały buty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/917e6637c3a8</link>
+      <description>W lipcu mocno drożały nie tylko paliwa. Ale gdyby nie spadki cen żywności, obuwia i odzieży, to lipcowy odczyt inflacji CPI byłby zdecydowanie wyższy od zaraportowanych 3%.</description>
+      <pubDate>Thu, 13 Aug 2026 09:20:00 GMT</pubDate>
+      <guid isPermaLink="false">917e6637c3a8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-Polsce-w-lipcu-2026-r-Drozaly-paliwa-i-jak-zwykle-tanialy-buty-9181607.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Był pilnie strzeżonym sekretem NATO. West Star zostanie przemianowany na muzeum</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/65c6573d6889</link>
+      <description>Przez dekady był jednym z najlepiej strzeżonych sekretów NATO. Ukryty w skalnym zboczu góry pod Weroną bunkier West Star miał przetrwać nawet atak nuklearny i zapewnić schronienie setkom osób. Teraz monumentalny podziemny kompleks otrzyma drugie życie. Pierwsza część obiektu może zostać udostępniona zwiedzającym już latem przyszłego roku.</description>
+      <pubDate>Thu, 13 Aug 2026 09:11:00 GMT</pubDate>
+      <guid isPermaLink="false">65c6573d6889</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-byl-pilnie-strzezonym-sekretem-nato-west-star-zostanie-przem,nIdn,1013550">RMF24</source>
+    </item>
+    <item>
+      <title>Raiffeisen Digital Bank podnosi oprocentowanie na lokacie. Nowi klienci zyskali dodatkowy okres do wyboru</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2844f7c56ce4</link>
+      <description>Raiffeisen Digital Bank przedłużył obowiązywanie swojej promocji Lokaty dla Ciebie skierowanej do nowych klientów banku. Nowa odsłona akcji specjalnej przyniosła jednak nie samo prolongowanie dotychczasowych warunków, ale zmiany na plus. Lokata na pół roku zyskała wyższą stawkę, a bank dodał do puli promocyjnych okresów również wariant depozytu na 12 miesięcy.</description>
+      <pubDate>Thu, 13 Aug 2026 09:10:00 GMT</pubDate>
+      <guid isPermaLink="false">2844f7c56ce4</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zmiany-na-plus-w-Raiffeisenie-Bank-podnosi-stawke-na-lokacie-terminowej-9181606.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Beczka prochu na Zachodnim Brzegu. Wojsko starło się z osadnikami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e67b4ce7385e</link>
+      <description>Do starcia izraelskiego wojska i straży granicznej z żydowskimi osadnikami doszło w środę na okupowanym Zachodnim Brzegu. Ci drudzy od kilku dni zajmują teren we wsi Kusra koło Nablusu. Jak zauważył portal Times of Israel, armia potępia działania radykalnych osadników, ale nie usuwa ich nielegalnych przyczółków.</description>
+      <pubDate>Thu, 13 Aug 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="false">e67b4ce7385e</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-beczka-prochu-na-zachodnim-brzegu-wojsko-starlo-sie-z-osadni,nIdn,1013555">RMF24</source>
+    </item>
+    <item>
+      <title>Mistral got a US patent on tool calls in 118 days. Without prior public notice</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a33f140a420f</link>
+      <description>US 12,670,045 B1 was filed on 4 March 2026 and granted on 30 June. The claims are now readable and they are narrow: a stateless sandbox that pauses a code block, ships one tool call to the client, and resumes by replaying from the top. The prior art that bears on that is durable execution, not CodeAct. The people who would know that are exactly the ones the closed prior-art window locked out.</description>
+      <pubDate>Thu, 13 Aug 2026 09:02:02 GMT</pubDate>
+      <guid isPermaLink="false">a33f140a420f</guid>
+      <source url="https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1">Hacker News</source>
+    </item>
+    <item>
+      <title>Firma upadła, załoga zwolniona. Teraz czekają na pensje. „Niedługo wypłata za... maj”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/49a4bd25c7f8</link>
+      <description>Kilkadziesiąt osób zostało zwolnionych z Form-Plastu w Bydgoszczy, po tym jak w maju br. ogłoszono jego upadłość. Część załogi wysłano na urlopy lub tzw. postojowe. Niestety do tej pory nie otrzymali oni zaległych wynagrodzeń za ostatnie trzy miesiące pracy. Wiele osób jest w trudnej sytuacji finansowej – informuje Gazeta Pomorska.</description>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">49a4bd25c7f8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zwolnili-kilkadziesiat-osob-Do-dzis-nie-zaplacili-zaleglych-pensji-9181614.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Wiceszefowa MON ws. chińskiego robota w jednostce wojskowej: Fejm i instagramik</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a2ba47756c9b</link>
+      <description>&quot;Fejm i instragramik czasem biorą górę nad rozsądkiem”. Tak w Porannej Rozmowie w RMF FM wiceminister obrony Magdalena Sobkowiak-Czarnecka odniosła się do sprawy chińskiego robota znanego jako Edward Warchocki. Edward wziął udział w promocyjnym nagraniu Marynarki Wojennej zapraszającym do udziału w obchodach przypadającego w sobotę Święta Wojska Polskiego. Zdjęcia realizowane były na terenie Portu Wojennego w Świnoujściu.</description>
+      <pubDate>Thu, 13 Aug 2026 08:58:00 GMT</pubDate>
+      <guid isPermaLink="false">a2ba47756c9b</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-wiceszefowa-mon-ws-chinskiego-robota-w-jednostce-wojskowej-f,nIdn,1013545">RMF24</source>
+    </item>
+    <item>
+      <title>Wyciek danych Polaków z MyDr. „Wiemy, gdzie był błąd”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4aa84c9ef2ff</link>
+      <description>„Nie ma w przestrzeni publicznych tych danych - nie są wystawione na sprzedaż, nie są elementem żadnej gry” - tak minister cyfryzacji Krzysztof Gawkowski komentował dziś atak hakerski na MyDr, jedną z największych polskich firm zajmujących się prowadzeniem elektronicznej dokumentacji medycznej. „My już wiemy, gdzie był błąd w oprogramowaniu” - dodał.</description>
+      <pubDate>Thu, 13 Aug 2026 08:57:00 GMT</pubDate>
+      <guid isPermaLink="false">4aa84c9ef2ff</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-wyciek-danych-polakow-z-mydr-wiemy-gdzie-byl-blad,nIdn,1013554">RMF24</source>
+    </item>
+    <item>
       <title>Wielki wyciek danych medycznych. Pacjent może dostać wiadomość od swojej przychodni</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7c09b5ab0e66</link>
       <description>Po cyberataku na firmę MyDr placówki medyczne, które korzystają z jej systemu, powinny przeanalizować, czy doszło do naruszenia danych pacjentów. Naczelna Izba Lekarska przypomina, że w przypadku wysokiego ryzyka pacjenci muszą zostać poinformowani o wycieku.</description>
       <pubDate>Thu, 13 Aug 2026 08:43:00 GMT</pubDate>
       <guid isPermaLink="false">7c09b5ab0e66</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Wielki-wyciek-danych-medycznych-Pacjent-moze-dostac-wiadomosc-od-swojej-przychodni,287710,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>W tym mieście odbędzie się przyszłoroczny finał Eurowizji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/43306702cb21</link>
+      <description>To już pewne – przyszłoroczny, 71. finał konkursu Eurowizji odbędzie się w maju w bułgarskim Burgas. Europejska Unia Nadawców wprowadza przełomowe zmiany w regulaminie, a wokół konkursu nie brakuje kontrowersji. Co czeka fanów Eurowizji w 2027 roku?</description>
+      <pubDate>Thu, 13 Aug 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="false">43306702cb21</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-eurowizja-2027-w-tym-miescie-odbedzie-sie-przyszloroczny-fin,nIdn,1013549">RMF24</source>
+    </item>
+    <item>
+      <title>Gigantyczna wygrana w Powerball. Illinois ma nowego miliardera</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/42e58697138f</link>
+      <description>Kupon sprzedany w Illinois przyniósł główną nagrodę w amerykańskiej loterii Powerball - 1,04 miliarda dolarów. To największa wygrana w tej grze od początku roku i ósma pod względem wysokości w historii Powerball. Zwycięzca może odebrać pieniądze w ratach albo zdecydować się na jednorazową wypłatę, wynoszącą 450,5 mln dolarów przed opodatkowaniem.</description>
+      <pubDate>Thu, 13 Aug 2026 08:34:00 GMT</pubDate>
+      <guid isPermaLink="false">42e58697138f</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-gigantyczna-wygrana-w-powerball-illinois-ma-nowego-miliarder,nIdn,1013544">RMF24</source>
+    </item>
+    <item>
+      <title>Tragedia na Orlej Perci. &quot;Upadek z bardzo dużej wysokości”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/101488f8ce46</link>
+      <description>Na Orlej Perci doszło do śmiertelnego wypadku. Z rejonu tego najtrudniejszego szlaku turystycznego w Tatrach spadła młoda turystka.</description>
+      <pubDate>Thu, 13 Aug 2026 08:34:00 GMT</pubDate>
+      <guid isPermaLink="false">101488f8ce46</guid>
+      <source url="https://www.rmf24.pl/regiony/zakopane/news-tragedia-na-orlej-perci-upadek-z-bardzo-duzej-wysokosci,nIdn,1013546">RMF24</source>
+    </item>
+    <item>
+      <title>Wzrost PKB Polski przyspieszył w II kwartale. GUS podał szybki szacunek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f49269f0205b</link>
+      <description>W II kwartale 2026 roku Produkt Krajowy Brutto Polski wzrósł realnie o 3,8% w ujęciu rocznym (niewyrównanym sezonowo) - wynika z szybkiego szacunku Głównego Urzędu Statystycznego. Oznacza to wynik zgodny z konsensusem analityków oraz przyspieszenie tempa rozwoju gospodarczego w porównaniu z I kwartałem bieżącego roku, kiedy roczna dynamika PKB wyniosła 3,5%.</description>
+      <pubDate>Thu, 13 Aug 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="false">f49269f0205b</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wzrost-PKB-Polski-przyspieszyl-w-II-kwartale-GUS-podal-szybki-szacunek-9181566.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>UK economy grows between April and June but experts warn of challenges in coming months</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d05569e98724</link>
+      <description>The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.</description>
+      <pubDate>Thu, 13 Aug 2026 08:21:42 GMT</pubDate>
+      <guid isPermaLink="false">d05569e98724</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>30 lat badań dało pewność. 2 godziny tygodniowo wystarczą, by żyć dłużej</title>
@@ -48,12 +192,60 @@
       <source url="https://www.bankier.pl/wiadomosc/Znana-marka-kosmetyczna-znika-z-rynku-Zamykaja-sklepy-po-27-latach-9181583.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Incydent z udziałem polskiego myśliwca. Doszło do uszkodzenia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1d5713a5d27b</link>
+      <description>Do incydentu z udziałem polskiego myśliwca MiG-29 doszło w środę w Malborku (woj. pomorskie). Opony maszyny uszkodziły się w trakcie lądowania.</description>
+      <pubDate>Thu, 13 Aug 2026 08:15:00 GMT</pubDate>
+      <guid isPermaLink="false">1d5713a5d27b</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-incydent-z-udzialem-polskiego-mysliwca-doszlo-do-uszkodzenia,nIdn,1013543">RMF24</source>
+    </item>
+    <item>
+      <title>More troops to be sent to West Bank village besieged by Israeli settlers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/71b41994a160</link>
+      <description>Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.</description>
+      <pubDate>Thu, 13 Aug 2026 08:12:53 GMT</pubDate>
+      <guid isPermaLink="false">71b41994a160</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Drut, beton i pas śmierci. 65 lat temu Berlin podzielił się murem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/069c981b812c</link>
+      <description>W nocy z 12 na 13 sierpnia 1961 roku mieszkańcy Berlina poszli spać w jednym mieście, a obudzili się w dwóch zupełnie różnych światach. W ciągu zaledwie kilku godzin, w ramach ściśle tajnej operacji „Aktion Rose”, komunistyczne władze NRD brutalnie rozdarły serce Europy drutem kolczastym i barykadami. Mur Berliński stał się symbolem zimnej wojny, podzielił rodziny, naród i miasto na długie 28 lat.</description>
+      <pubDate>Thu, 13 Aug 2026 08:12:00 GMT</pubDate>
+      <guid isPermaLink="false">069c981b812c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-drut-beton-i-pas-smierci-65-lat-temu-berlin-podzielil-sie-mu,nIdn,1013539">RMF24</source>
+    </item>
+    <item>
+      <title>Są nowe dane o inflacji. Tyle wyniosła w lipcu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b07ae0a77252</link>
+      <description>Inflacja CPI w lipcu wyniosła rok do roku 3,0 proc., a miesiąc do miesiąca 0,8 proc. - podał Główny Urząd Statystyczny. Odczyt jest zgodny z wcześniejszym, szybkim szacunkiem GUS. Inflacja w czerwcu wynosiła w ujęciu rocznym 2,5 proc.</description>
+      <pubDate>Thu, 13 Aug 2026 08:05:00 GMT</pubDate>
+      <guid isPermaLink="false">b07ae0a77252</guid>
+      <source url="https://www.rmf24.pl/fakty/ekonomia/news-sa-nowe-dane-o-inflacji-tyle-wyniosla-w-lipcu,nIdn,1013540">RMF24</source>
+    </item>
+    <item>
       <title>ZUS zaskoczył Polaków. Więcej pieniędzy od 1 stycznia już pewne</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6bd275eeb88a</link>
       <description>Od 1 stycznia 2027 roku renta wdowia będzie wyższa. ZUS zamiast obecnych 15 proc. drugiego świadczenia zacznie wypłacać 25 proc., co dla części seniorów oznacza odczuwalną podwyżkę co miesiąc. Z rozwiązania korzysta już blisko milion osób.</description>
       <pubDate>Thu, 13 Aug 2026 08:02:00 GMT</pubDate>
       <guid isPermaLink="false">6bd275eeb88a</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/ZUS-zaskoczyl-Polakow-Wiecej-pieniedzy-od-1-stycznia-juz-pewne,287660,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Pijany i z tasakiem w ręku. 39-letni wandal zatrzymany w Warszawie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b31dd71145eb</link>
+      <description>Do 5 lat więzienia grozi 39-latkowi, który z tasakiem w ręku niszczył skutery zaparkowane na jednym z osiedli w Warszawie. Mężczyzna był pijany. Policja pokazała nagranie z monitoringu.</description>
+      <pubDate>Thu, 13 Aug 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="false">b31dd71145eb</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-pijany-i-z-tasakiem-w-reku-39-letni-wandal-zatrzymany-w-wars,nIdn,1013538">RMF24</source>
+    </item>
+    <item>
+      <title>Telewizor na ścianie i na szafce to już przeszłość. Nowe rozwiązanie robi furorę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5516d4d6f715</link>
+      <description>Od lat telewizor nie musi być nudnym wyposażeniem salonu, czy sypialni. Nowoczesne rozwiązania sprawiają, że może być integralną częścią wnętrza.</description>
+      <pubDate>Thu, 13 Aug 2026 08:00:39 GMT</pubDate>
+      <guid isPermaLink="false">5516d4d6f715</guid>
+      <source url="https://antyweb.pl/telewizor-na-scianie-i-na-szafce-to-juz-przeszlosc-nowe-rozwiazanie-robi-furore">Antyweb</source>
     </item>
     <item>
       <title>Unia zaostrza przepisy dla używanych aut. Nie każdy samochód będzie można sprzedać</title>
@@ -72,12 +264,28 @@
       <source url="https://www.rynekzdrowia.pl/Farmacja/Pilne-wycofanie-na-terenie-calego-kraju-Natychmiast-sprawdz-apteczke,287690,6.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>20 tys. chętnych do służby. Kogo szuka ABW?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/67f10edc27e7</link>
+      <description>ABW intensywnie szuka nowych pracowników i funkcjonariuszy. Agencja wykorzystuje w tym celu także popularne portale z ofertami pracy. Skala zainteresowania jest bardzo duża – w ciągu niespełna dwóch miesięcy na 71 ogłoszeń wpłynęło ponad 20 tys. aplikacji, czyli średnio około 300 zgłoszeń na jedną ofertę.</description>
+      <pubDate>Thu, 13 Aug 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="false">67f10edc27e7</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-20-tys-chetnych-do-sluzby-kogo-szuka-abw,nIdn,1013537">RMF24</source>
+    </item>
+    <item>
       <title>Fałszywa atrakcja we Włoszech. Turyści byli pewni, że zwiedzają rzymski amfiteatr</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1a6772169c80</link>
       <description>W pobliżu Vicenzy istniał fałszywy amfiteatr rzymski, który chętnie odwiedzali turyści - poinformował dziennik „Daily Telegraph”. Zdaniem historyka sztuki Piotra Kopszaka wybierający się do Włoch nie muszą się jednak obawiać, że trafią w tym kraju na nieprawdziwe zabytki.</description>
       <pubDate>Thu, 13 Aug 2026 07:53:00 GMT</pubDate>
       <guid isPermaLink="false">1a6772169c80</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-falszywa-atrakcja-we-wloszech-turysci-byli-pewni-ze-zwiedzaj,nIdn,1013533">RMF24</source>
+    </item>
+    <item>
+      <title>Czarny ślad rosyjskiej floty cieni. Caroline Bezengi zatruwa Morze Arabskie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ce960122f4b7</link>
+      <description>Trudna sytuacja na Morzu Arabskim - ropa naftowa wyciekająca z uszkodzonego tankowca Caroline Bezengi dotarła już do omańskiego wybrzeża, zanieczyszczając dziesiątki kilometrów plaż i stwarzając zagrożenie dla chronionych ekosystemów morskich. W zbiornikach jednostki może pozostawać nawet 800 tys. baryłek surowca, a skala wycieku może być większa, niż wynika z oficjalnych danych.</description>
+      <pubDate>Thu, 13 Aug 2026 07:51:00 GMT</pubDate>
+      <guid isPermaLink="false">ce960122f4b7</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-czarny-slad-rosyjskiej-floty-cieni-caroline-bezengi-zatruwa-,nIdn,1013535">RMF24</source>
     </item>
     <item>
       <title>„To nie mogło się odbyć bez rosyjskich służb”. Wiceszefowa MON o Romanowskim w Tyraspolu</title>
@@ -198,214 +406,6 @@
       <pubDate>Thu, 13 Aug 2026 06:28:40 GMT</pubDate>
       <guid isPermaLink="false">2fa14664e788</guid>
       <source url="https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Pierwsza wizyta Putina na Kurylach bardzo zdenerwowała Japonię</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/493490265dc3</link>
-      <description>Ministerstwo Spraw Zagranicznych Japonii złożyło stanowczy protest w związku z wizytą Władimira Putina na wyspie Etorofu, znanej w Rosji jako Iturup. Wyspa należy do archipelagu Kurylów i od dziesięcioleci jest przedmiotem sporu terytorialnego między Tokio a Moskwą.</description>
-      <pubDate>Thu, 13 Aug 2026 06:24:00 GMT</pubDate>
-      <guid isPermaLink="false">493490265dc3</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-pierwsza-wizyta-putina-na-kurylach-bardzo-zdenerwowala-japon,nIdn,1013519">RMF24</source>
-    </item>
-    <item>
-      <title>Imię, nazwisko i stawka pielęgniarki na kontrakcie w rejestrze umów. Placówki już publikują dane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/80096bb60670</link>
-      <description>Imię, nazwisko, czas trwania umowy, a także kwota wynagrodzenia - takie dane pielęgniarek na umowach cywilnoprawnych w placówkach &quot;na NFZ&quot; już można znaleźć w centralnym rejestrze umów sektora publicznego. Placówki mają bowiem od 1 lipca obowiązek publikowania danych. Budzi to kontrowersje w środowisku. Od 1 listopada publicznie dostępne mają być też kolejne dane z ofert złożonych przez medyków w konkursach.</description>
-      <pubDate>Thu, 13 Aug 2026 06:22:00 GMT</pubDate>
-      <guid isPermaLink="false">80096bb60670</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Imie-nazwisko-i-stawka-pielegniarki-na-kontrakcie-w-rejestrze-umow-Placowki-juz-publikuja-dane,287685,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Masz coś do załatwienia m.in. w ZUS-ie? Sprawdź, gdzie jutro urzędy będą zamknięte</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2af64b35189a</link>
-      <description>W piątek 14 sierpnia  mieszkańcy większości miast nie załatwią spraw urzędowych. Wolne za święto Wniebowzięcia NMP, które przypada w tym roku w sobotę 15 sierpnia - tak jak i Święto Wojska Polskiego - odbierają pracownicy ZUS i NFZ oraz urzędnicy miejscy m.in. z Gdańska, Poznania czy Wrocławia.</description>
-      <pubDate>Thu, 13 Aug 2026 06:17:00 GMT</pubDate>
-      <guid isPermaLink="false">2af64b35189a</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-14-sierpnia-2026-zamkniete-urzedy-zus-i-nfz-gdzie-w-piatek-n,nIdn,1013525">RMF24</source>
-    </item>
-    <item>
-      <title>Roztrzaskane BMW, 40-latek nie żyje. Tragiczny wypadek we Frampolu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b0b62dcdefea</link>
-      <description>Policjanci z komendy w Biłgoraju na Lubelszczyźnie badają okoliczności tragicznego wypadku we Frampolu. W zderzeniu auta osobowego i ciężarówki zginął 40-letni mężczyzna.</description>
-      <pubDate>Thu, 13 Aug 2026 06:15:00 GMT</pubDate>
-      <guid isPermaLink="false">b0b62dcdefea</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-roztrzaskane-bmw-40-latek-nie-zyje-tragiczny-wypadek-we-fram,nIdn,1013521">RMF24</source>
-    </item>
-    <item>
-      <title>Tysiące Polaków chcą pracować w ABW. Ponad 20 tys. aplikacji w dwa miesiące</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7b52cfff2dca</link>
-      <description>Agencja Bezpieczeństwa Wewnętrznego w rekrutacji do służby coraz częściej wykorzystuje komercyjne platformy ogłoszeniowe. I choć zastrzega, że jest to tylko jedno z wielu narzędzi poszukiwania kandydatów, odzew jest ogromny, a w ciągu dwóch miesięcy aplikacje złożyło ponad 20 tys. kandydatów</description>
-      <pubDate>Thu, 13 Aug 2026 06:12:00 GMT</pubDate>
-      <guid isPermaLink="false">7b52cfff2dca</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Tysiace-Polakow-chca-pracowac-w-ABW-Ponad-20-tys-aplikacji-w-dwa-miesiace-9181544.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Czy syreny następnym razem zawyją? Chaos w przepisach o alarmowaniu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/22d33f204bd4</link>
-      <description>Na różnych szczeblach władzy pojawiają się sprzeczne informacje dotyczące odpowiedzialności i decyzyjności w sprawie uruchamiania syren alarmowych w przypadku zagrożenia. Z rozmów przeprowadzonych przez dziennikarza RMF FM Kacpra Wróblewskiego wynika, że sytuacja związana z niewłączeniem syren może się powtórzyć.</description>
-      <pubDate>Thu, 13 Aug 2026 06:10:00 GMT</pubDate>
-      <guid isPermaLink="false">22d33f204bd4</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-czy-syreny-nastepnym-razem-zawyja-chaos-w-przepisach-o-alarm,nIdn,1013524">RMF24</source>
-    </item>
-    <item>
-      <title>Jest porozumienie w rodzinie i biznesach Zygmunta Solorza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0aeef469d332</link>
-      <description>Zygmunt Solorz dogadał się z dziećmi, rodzinnemu imperium przewodzić będzie Piotr Żak, a ojciec ma wrócić do rad nadzorczych jako członek honorowy - pisze „Puls Biznesu”. Zaznacza, że porozumienie jest wstępne, a szczegóły są dopracowywane.</description>
-      <pubDate>Thu, 13 Aug 2026 06:03:00 GMT</pubDate>
-      <guid isPermaLink="false">0aeef469d332</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Jest-porozumienie-w-rodzinie-i-biznesach-Zygmunta-Solorza-9181538.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Gdzie Polacy zapłacili najmniej za zakupy? Jest nowy ranking sieci</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a385f6d78330</link>
-      <description>W lipcu różnica w cenie takiego samego koszyka produktów między najtańszą a najdroższą siecią handlową przekroczyła 30 proc. - wynika z badania ASM SFA. Najtańsze zakupy można było zrobić ponownie w sklepach typu cash &amp; carry, a najdroższe okazały się dyskonty.</description>
-      <pubDate>Thu, 13 Aug 2026 06:03:00 GMT</pubDate>
-      <guid isPermaLink="false">a385f6d78330</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Gdzie-Polacy-zaplacili-najmniej-za-zakupy-Jest-nowy-ranking-sieci-9181539.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Magdalena Sobkowiak-Czarnecka o zmianach w alertach RCB: To musi być kwestia tygodni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e7ff1b8e2a4c</link>
-      <description>Czy Polska ma szansę na dodatkowe środki z UE na zbrojenia? Kiedy nasz kraj otrzyma kolejną transzę środków z programu SAFE? Kto ponosi odpowiedzialność za wpuszczenie humanoidalnego robota znanego jako Edward Warchocki do portu Marynarki Wojennej? Między innymi o to  Piotr Salak zapyta w Porannej rozmowie w RMF FM wiceminister obrony narodowej Magdalenę Sobkowiak-Czarnecką. Zapraszamy!</description>
-      <pubDate>Thu, 13 Aug 2026 06:02:00 GMT</pubDate>
-      <guid isPermaLink="false">e7ff1b8e2a4c</guid>
-      <source url="https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-magdalena-sobkowiak-czarnecka-o-zmianach-w-alertach-rcb-to-m,nIdn,1013459">RMF24</source>
-    </item>
-    <item>
-      <title>WhatsApp szykuje coś specjalnego. Obok tej zmiany nie przejdziesz obojętnie!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/04f95738a0f0</link>
-      <description>WhatsApp przygotowuje większą aktualizację wyglądu rozmów na iPhone&apos;ach. W nadchodzącej wersji aplikacji, użytkownicy mają otrzymać nowe motywy czatów...</description>
-      <pubDate>Thu, 13 Aug 2026 06:00:27 GMT</pubDate>
-      <guid isPermaLink="false">04f95738a0f0</guid>
-      <source url="https://antyweb.pl/whatsapp-szykuje-cos-specjalnego-obok-tej-zmiany-nie-przejdziesz-obojetnie">Antyweb</source>
-    </item>
-    <item>
-      <title>Hiszpania buduje pływający mur. Pływająca bariera u brzegów Melilli i Ceuty ma powstrzymać migrantów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/21204b8d3c84</link>
-      <description>U brzegów Melilli, hiszpańskiej eksklawy w Afryce Północnej, zamontowana została pływająca bariera, której celem jest utrudnianie migrantom wdarcia się do tego autonomicznego miasta.</description>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="false">21204b8d3c84</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Hiszpania-buduje-plywajacy-mur-Plywajaca-bariera-u-brzegow-Melilli-i-Ceuty-ma-powstrzymac-migrantow-9181496.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Niewykorzystane miliardy z SAFE. Polska może powalczyć o dodatkowe pieniądze</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/04aa8cb1aab4</link>
-      <description>Komisja Europejska przygotowuje drugi nabór w ramach programu pożyczkowego SAFE na obronność. Chodzi o pieniądze, które nie zostaną wykorzystane z pierwszej puli wynoszącej 150 miliardów euro. „Obecnie przygotowujemy rozmowy z państwami członkowskimi na temat tego, jak rozdysponować pozostałe środki w ramach SAFE” – przekazał dziennikarce RMF FM rzecznik KE.</description>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="false">04aa8cb1aab4</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-niewykorzystane-miliardy-z-safe-polska-moze-powalczyc-o-doda,nIdn,1013501">RMF24</source>
-    </item>
-    <item>
-      <title>Polska gastronomia rośnie jak na drożdżach. Mamy boom na foodtrucki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d399427cb00f</link>
-      <description>Polska gastronomia bije kolejne rekordy. Po raz pierwszy liczba placówek przekroczyła 100 tys., a w pierwszym półroczu 2026 r. przybyło ich ok. 3 tys. – pisze w czwartek „Rzeczpospolita”.</description>
-      <pubDate>Thu, 13 Aug 2026 05:55:00 GMT</pubDate>
-      <guid isPermaLink="false">d399427cb00f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polska-gastronomia-rosnie-jak-na-drozdzach-Mamy-boom-na-foodtrucki-9181500.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Cisi bohaterowie szpitali w cieniu milionowych kontraktów. &quot;Ministerstwo nie wie nawet, ile nam płacą&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f826135c4b8</link>
-      <description>Zarabiają ok. 5,5 tys. zł netto, choć się odpowiedzialni za bezpieczeństwo chorych i ratują szpitale przed wysokimi fakturami serwisowymi. Sebastian Kolemba, lider Ogólnopolskiej Inicjatywy &quot;Techniczni w Szpitalu&quot;, opisuje realia pracy techników aparatury medycznej, elektryków, hydraulików i konserwatorów. Ministerstwo Zdrowia oficjalnie przyznaje, że nie zna ani ich liczby, ani wynagrodzeń i nie planuje systemowych rozwiązań.</description>
-      <pubDate>Thu, 13 Aug 2026 05:50:00 GMT</pubDate>
-      <guid isPermaLink="false">5f826135c4b8</guid>
-      <source url="https://www.rynekzdrowia.pl/Aparatura-i-wyposazenie/Cisi-bohaterowie-szpitali-w-cieniu-milionowych-kontraktow-Ministerstwo-nie-wie-nawet-ile-nam-placa,287626,5.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Dane milionów Polaków przejęte przez hakerów. Nowe informacje od MyDr</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1ec2bdce37ad</link>
-      <description>MyDr, jedna z największych polskich firm zajmujących się prowadzeniem elektronicznej dokumentacji medycznej, opublikowała oświadczenie w związku z atakiem hakerskim, którego padła ofiarą. W środę minister cyfryzacji Krzysztof Gawkowski ogłosił, że łupem cyberprzestępców padły dane blisko 19 mln Polaków.</description>
-      <pubDate>Thu, 13 Aug 2026 05:49:00 GMT</pubDate>
-      <guid isPermaLink="false">1ec2bdce37ad</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-dane-milionow-polakow-przejete-przez-hakerow-nowe-informacje,nIdn,1013518">RMF24</source>
-    </item>
-    <item>
-      <title>Opłaty za grunt biją w działkowców</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e923a61cda8a</link>
-      <description>Niektóre miasta zaczęły domagać się od posiadaczy ogródków działkowych opłaty za użytkowanie wieczyste i to w najwyższej możliwej wysokości – 3 proc. – pisze w czwartek „Rzeczpospolita”.</description>
-      <pubDate>Thu, 13 Aug 2026 05:45:00 GMT</pubDate>
-      <guid isPermaLink="false">e923a61cda8a</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Oplaty-za-grunt-bija-w-dzialkowcow-9181501.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Nielegalny sklep z e-papierosami zlikwidowany na Podkarpaciu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/98178bb69b71</link>
-      <description>Funkcjonariusze Podkarpackiego Urzędu Celno-Skarbowego w Przemyślu oraz Centralnego Biura Zwalczania Cyberprzestępczości zlikwidowali nielegalny sklep internetowy, który zajmował się sprzedażą wyrobów akcyzowych. Sklep działał w ukryciu, korzystając z szyfrowanych komunikatorów i portali społecznościowych.</description>
-      <pubDate>Thu, 13 Aug 2026 05:38:00 GMT</pubDate>
-      <guid isPermaLink="false">98178bb69b71</guid>
-      <source url="https://www.rmf24.pl/regiony/rzeszow/news-nielegalny-sklep-z-e-papierosami-zlikwidowany-na-podkarpaciu,nIdn,1013517">RMF24</source>
-    </item>
-    <item>
-      <title>Upalny weekend przed nami. W sobotę nawet 34 st., w niedzielę jeszcze cieplej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f2bbbbd383d7</link>
-      <description>Najbliższy weekend, według prognoz IMGW, zapowiada się bardzo ciepło i słonecznie, choć w niedzielę na zachodzie kraju pojawią się także przelotne opady i lokalne burze. Temperatury będą wyraźnie rosły – w sobotę miejscami sięgną 34 st., a w niedzielę na południowym zachodzie termometry mogą pokazać nawet do 36 st.</description>
-      <pubDate>Thu, 13 Aug 2026 05:34:00 GMT</pubDate>
-      <guid isPermaLink="false">f2bbbbd383d7</guid>
-      <source url="https://www.rmf24.pl/fakty/pogoda/news-upalny-weekend-przed-nami-w-sobote-nawet-34-st-w-niedziele-j,nIdn,1013516">RMF24</source>
-    </item>
-    <item>
-      <title>Do Polski zmierza antycyklon Ralf. Co to oznacza w pogodzie?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/24ac899a3719</link>
-      <description>Najbliższy weekend, według prognoz IMGW, zapowiada się bardzo ciepło i słonecznie, choć w niedzielę na zachodzie kraju pojawią się także przelotne opady i lokalne burze. Temperatury będą wyraźnie rosły – w sobotę miejscami sięgną 34 st., a w niedzielę na południowym zachodzie termometry mogą pokazać nawet do 36 st.</description>
-      <pubDate>Thu, 13 Aug 2026 05:34:00 GMT</pubDate>
-      <guid isPermaLink="false">24ac899a3719</guid>
-      <source url="https://www.rmf24.pl/fakty/pogoda/news-do-polski-zmierza-antycyklon-ralf-co-to-oznacza-w-pogodzie,nIdn,1013516">RMF24</source>
-    </item>
-    <item>
-      <title>America really might restore democracy to Venezuela</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e8c0aa28c5fe</link>
-      <description>Comments</description>
-      <pubDate>Thu, 13 Aug 2026 05:33:54 GMT</pubDate>
-      <guid isPermaLink="false">e8c0aa28c5fe</guid>
-      <source url="https://www.economist.com/leaders/2026/08/12/america-really-might-restore-democracy-to-venezuela">Hacker News</source>
-    </item>
-    <item>
-      <title>Sygnał z Izraela i wylot innym samolotem. Czy próbowano wpłynąć na Trumpa?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d54b992ac53c</link>
-      <description>CIA sceptycznie podeszła do izraelskich informacji o rzekomym irańskim planie zamachu na prezydenta USA Donalda Trumpa podczas jego pobytu w Turcji - podał „Washington Post”. Mimo zastrzeżeń analityków, Secret Service przeprowadziła tajną operację i wywiozła przywódcę z Ankary innym samolotem.</description>
-      <pubDate>Thu, 13 Aug 2026 05:26:00 GMT</pubDate>
-      <guid isPermaLink="false">d54b992ac53c</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-sygnal-z-izraela-i-wylot-innym-samolotem-czy-probowano-wplyn,nIdn,1013512">RMF24</source>
-    </item>
-    <item>
-      <title>PKO BP z mocnym wynikiem. Zysk banku przekroczył 2,7 mld zł</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/50a4ea407c17</link>
-      <description>Zysk netto grupy PKO BP w II kwartale 2026 r. wzrósł do 2.768 mln zł z 2.661 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 2.764,5 mln zł.</description>
-      <pubDate>Thu, 13 Aug 2026 05:24:00 GMT</pubDate>
-      <guid isPermaLink="false">50a4ea407c17</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-II-kw-26-wyniosl-2-77-mld-zl-zgodny-z-oczekiwaniami-9181521.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Poważne wypadki na A4. Utrudnienia na odcinkach śląskim i dolnośląskim</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6781daafbad</link>
-      <description>W czwartkowy poranek na autostradzie A4 występują korki. Na odcinku śląskim - w stronę Krakowa - między węzłami Murckowska i Mysłowice. Zderzyły się tam dwie ciężarówki. Poszkodowana została jedna osoba.</description>
-      <pubDate>Thu, 13 Aug 2026 05:18:00 GMT</pubDate>
-      <guid isPermaLink="false">d6781daafbad</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-powazne-wypadki-na-a4-utrudnienia-na-odcinkach-slaskim-i-dol,nIdn,1013511">RMF24</source>
-    </item>
-    <item>
-      <title>I&apos;ve been fighting wildfires while I wait for my A-level results</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e4991950f4d5</link>
-      <description>Grades for A-levels and a number of vocational qualifications will be published on Thursday.</description>
-      <pubDate>Thu, 13 Aug 2026 05:09:13 GMT</pubDate>
-      <guid isPermaLink="false">e4991950f4d5</guid>
-      <source url="https://www.bbc.co.uk/news/articles/clye3q00zd0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Etna nadal paraliżuje loty. Lotnisko w Katanii zamknięte</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3dec81bdb10e</link>
-      <description>W środę wieczorem spółka zarządzająca lotniskiem w Katanii poinformowała o kolejnym przedłużeniu całkowitego wstrzymania odlotów i przylotów. Zakaz obowiązuje do godziny 2 w nocy w piątek, 14 sierpnia. Powodem jest wzmożona aktywność wulkanu Etna, który od kilku dni utrudnia życie mieszkańcom i turystom na Sycylii. Paraliż lotniska zbiegł się z kulminacją sezonu wakacyjnych wyjazdów we Włoszech.</description>
-      <pubDate>Thu, 13 Aug 2026 05:08:00 GMT</pubDate>
-      <guid isPermaLink="false">3dec81bdb10e</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-etna-nadal-paralizuje-loty-lotnisko-w-katanii-zamkniete,nIdn,1013513">RMF24</source>
-    </item>
-    <item>
-      <title>Nowy iOS przyniesie coś specjalnego. iPhone potrzebuje tej funkcji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/76ca3e1fa157</link>
-      <description>Apple pracuje nad funkcją, która może znacząco zmienić sposób, w jaki sprawdzamy autentyczność zdjęć wykonanych iPhonem. W kodzie najnowszej deweloperskiej bety iOS 27 znaleziono odniesienia do rozwiązania o nazwie Apple Reference Image. Zadaniem funkcji ma być udowodnienie, że konkretne zdjęcie rzeczywiście zostało wykonane aparatem iPhone&apos;a, a nie wygenerowane przez sztuczną inteligencję.</description>
-      <pubDate>Thu, 13 Aug 2026 05:00:57 GMT</pubDate>
-      <guid isPermaLink="false">76ca3e1fa157</guid>
-      <source url="https://antyweb.pl/nowy-ios-przyniesie-cos-specjalnego-iphone-potrzebuje-tej-funkcji">Antyweb</source>
     </item>
   </channel>
 </rss>
