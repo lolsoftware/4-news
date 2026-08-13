@@ -1,0 +1,13 @@
+{
+  "id": "5e022fea7fb8",
+  "title": "Microsoft ostrzega. To zabezpieczenie kont nie jest już skuteczne",
+  "originalTitle": "Microsoft ostrzega. To zabezpieczenie kont nie jest już skuteczne",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/microsoft-ostrzega-to-zabezpieczenie-kont-nie-jest-juz-skuteczne",
+  "publishedAt": "2026-08-13T07:30:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Rozwój sztucznej inteligencji doprowadził do tego, że phishing jest coraz bardziej skuteczny. Biorąc to pod uwagę, Microsoft zdecydował się zrezygnować z podatnej na oszustwa formy weryfikacji konta.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Kody SMS są z nami od lat jako sprawdzone zabezpieczenie kont. Wiele mówi się o tym, że dwuetapowa weryfikacja jest kluczem do bezpiecznego korzystania z sieci. Problem pojawia się jednak w momencie, gdy popularna metoda przestaje działać. A według Microsoftu właśnie tak się stało. Gigant rozesłał do administratorów IT komunikat o tym, że od 1 lutego 2027 roku logowanie przez SMS lub połączenie głosowe w Entra ID zostanie całkowicie zablokowane. Firma zaznacza, że decyzja jest ostateczna i nie będzie już odwrotu. A winna wszystkiemu jest sztuczna inteligencja.</p>  <h2>Koniec z weryfikacją SMS? Microsoft stawia sprawę jasno</h2> <p>Windows żegna się z weryfikacją SMS, a powodem jest AI. Sztuczna inteligencja sprawiła, że phishing stał się tak spersonalizowany, że użytkownicy częściej klikają w fałszywe linki i sami oddają jednorazowe kody.</p> <p>Do tego dochodzi SIM swapping, czyli przejęcie numeru telefonu, które z pomocą sztucznej inteligencji robi się banalnie proste. Microsoft nie owija w bawełnę: SMS i połączenia głosowe to jedne z najsłabszych metod uwierzytelniania, wyraźnie gorsze od innych typu passkeys.</p> <p>Już 1 września 2026 roku użytkownicy Entra, którzy logują się przez SMS, zaczną być zmuszani do zarejestrowania klucza dostępu. Oznacza to, że po tym terminie przy próbie zalogowania się, Entra poprosi o skonfigurowanie passkeya. A od lutego 2027 roku bez klucza dostępu po prostu nie wejdziesz do usług firmowych.</p> <p>Prywatni użytkownicy Microsoftu, czyli posiadacze Windowsa 11, Xboxa czy Outlooka, także odczują zmiany, choć nie podano jeszcze ostatecznej daty. Microsoft już potwierdził, że zaczyna wygaszać SMS-y jako metodę autoryzacji i odzyskiwania konta osobistego. To tylko kwestia czasu.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/a3b42d99acfd.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
