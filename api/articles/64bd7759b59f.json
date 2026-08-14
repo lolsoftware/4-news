@@ -1,0 +1,13 @@
+{
+  "id": "64bd7759b59f",
+  "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+  "originalTitle": "Vulnerability giving attackers full control of Macs is under active exploitation",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+  "publishedAt": "2026-08-14T18:32:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation.</p>\n<p>“The NCSC has received a notification indicating that active abuse of this vulnerability has been observed on multiple systems on which port 5900 was accessible from the Internet,” the Netherlands National Cyber Security Centrum <a href=\"https://advisories.ncsc.nl/2026/ncsc-2026-0280.html\">warned</a> earlier this week. “In all these cases, root had been accessed on the affected system and a Monero crypto miner had been placed.”</p>\n<h2>Do you know if your screen sharing is on?</h2>\n<p>The vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS <a href=\"https://support.apple.com/en-us/148170\">Tahoe</a>, <a href=\"https://support.apple.com/en-us/148171\">Sequoia</a>, and <a href=\"https://support.apple.com/en-us/148172\">Sonoma</a>. The vulnerability, with a severity rating of 7.1 out of 10, stems from a bug in the macOS screen sharing capability, which allows a remote party to view the screen and control the keyboard and mouse while a machine is turned on. A flaw in the “state management,” which keeps track of preceding events, user interactions, variables, and other system states, is the underlying cause.</p>\n<p>A video of the exploit in action can be found <a href=\"https://xcancel.com/calif_io/status/2086022794840793454\">here</a>. Details of CVE-2026-65400 <a href=\"https://blog.calif.io/p/no-country-for-old-passwords\">became public</a> at last week’s Black Hat security conference. Apple said last week that CVE-2026-65400 “may” allow an attacker without credentials to gain access to a Mac. It’s unclear why Apple hedged, but softening language is common among most tech developers when disclosing vulnerabilities.</p> </div></div>",
+  "image": "images/e1817acc1dbf.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "6d6da14835c4",
+  "title": "Show HN: Embed a real Linux terminal on your website",
+  "originalTitle": "Show HN: Embed a real Linux terminal on your website",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://sandbox.bio/training/embed",
+  "publishedAt": "2026-08-14T18:51:27.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><!----><h3>Embed sandbox.bio</h3> <p>Add a live terminal to your website or blog post</p> <p>You can embed a sandbox.bio terminal directly on your website or blog post. Simply add this script tag to your page:</p> <pre><code>&lt;script src=\"https://sandbox.bio/embed.js\" data-cwd=\"embed\"&gt;&lt;/script&gt;</code></pre> <img src=\"https://sandbox.bio/assets/features/embed.png\" alt=\"A blog post with Run buttons on its code blocks and a terminal docked at the bottom\"> <p>If you use GitHub Pages, any Markdown code blocks you mark as <code>```bash</code> will have a \"Run\" button that executes\n\tdirectly in the embedded terminal. For HTML websites, any <code>&lt;div&gt;</code> with the class \"language-bash\" will get a \"Run\"\n\tbutton.</p> <p>You can also customize the embedded terminal by adding attributes to the script tag:</p> <ul><li><code>data-cwd=\"folder-name\"</code>: the starting working directory in the terminal</li> <li><code>data-config=\"https://yourwebsite.com/config.json\"</code>: an optional remote config URL, using the same format as the <a href=\"https://sandbox.bio/training/github\"><code>sandboxbio.config.json</code></a> file used by the GitHub integration. This file can be hosted on GitHub Pages too.</li></ul> <p>If you need to preload files in the terminal, you can use the array <code>files</code> inside your config, and specify the URLs to\n\twhere each file lives:</p> <pre><code>{ tools: [ { \"url\": \"https://&lt;username&gt;.github.io/&lt;repo&gt;/data/example.bam\", \"path\": \"example.bam\" } ]\n}</code></pre><!----><!----></div></div>",
+  "image": "images/9431d22038e2.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
