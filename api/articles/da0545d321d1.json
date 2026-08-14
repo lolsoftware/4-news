@@ -1,0 +1,13 @@
+{
+  "id": "da0545d321d1",
+  "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+  "originalTitle": "New Lower and Upper Bounds for the Grothendieck Constant",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2608.11158",
+  "publishedAt": "2026-08-14T19:41:42.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2608.11158\">View PDF</a> <a href=\"https://arxiv.org/html/2608.11158v2\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>We establish new bounds on the Grothendieck constant $K_G$: \\[\n<br>\\frac{6\\pi}{11}\n<br>\\le\n<br>K_G\n<br>\\le\n<br>\\frac{\\pi}{2\\log(1+\\sqrt2)} - 10^{-4}. \\] Methodologically, our lower bound approach differs from previous works by establishing limitations on the asymptotically optimal Krivine schemes, rather than giving explicit constructions of gap instances. Our upper bound is obtained by proposing and analyzing the first asymptotic construction of rounding schemes, whereas previous works only consider low-dimensional schemes. Together, these bounds determine the previously unknown tenths digit of $K_G$ to be $7$. The bounds were discovered by a long-running collaborative effort of humans and a long-horizon AI research system that we engineered. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Rahul Saha [<a href=\"https://arxiv.org/show-email/e30775a8/2608.11158\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/2608.11158v1\" rel=\"nofollow\">[v1]</a></strong> Tue, 11 Aug 2026 17:16:09 UTC (966 KB)<br> <strong>[v2]</strong> Wed, 12 Aug 2026 02:15:47 UTC (966 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
