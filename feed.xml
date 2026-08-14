@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 14 Aug 2026 13:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:11:22 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wyciek danych medycznych milionów pacjentów. „Brakuje procedury na taką skalę”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a64e310742d3</link>
+      <description>To może być największy wyciek danych medycznych w Polsce, ale placówki nadal nie mają pełnych informacji ani instrukcji działania. Po ataku na system MyDr zagrożone mogą być dane nawet 19 mln pacjentów. – Nie wiemy, co dokładnie wyciekło, a jednocześnie pojawia się pytanie, kto ma zgłaszać incydent i informować pacjentów – mówi Tomasz Zieliński, specjalista medycyny rodzinnej, ekspert ds. informatyzacji.</description>
+      <pubDate>Fri, 14 Aug 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">a64e310742d3</guid>
+      <source url="https://www.rynekzdrowia.pl/E-zdrowie/Wyciek-danych-medycznych-milionow-pacjentow-Brakuje-procedury-na-taka-skale,287752,7.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Chcą zasypania &quot;płacowej fosy&quot; i ustawy jak dla pielęgniarek. Apelują do prezydenta Nawrockiego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b2637166b223</link>
@@ -16,12 +24,228 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Chca-zasypania-placowej-fosy-i-ustawy-jak-dla-pielegniarek-Apeluja-do-prezydenta-Nawrockiego,287768,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Ceny paliw na stacjach w dół, ale w rafineriach w górę. Za to nadchodzi niższy VAT</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b765b10cbc45</link>
+      <description>Drugi tydzień sierpnia przyniósł długo wyczekiwany spadek cen paliw na stacjach. W przeciwnym kierunku poszły stawki w rafineriach. Na szczęście od poniedziałku przez dwa tygodnie będzie obowiązywał obniżony VAT na paliwa</description>
+      <pubDate>Fri, 14 Aug 2026 15:15:00 GMT</pubDate>
+      <guid isPermaLink="false">b765b10cbc45</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Ceny-paliw-na-stacjach-w-dol-ale-w-rafineriach-w-gore-Za-to-nadchodzi-nizszy-VAT-9182523.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Wyciek danych pacjentów. Państwo dodatkowo zabezpiecza system e-recept i e-skierowań</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02591bf6da38</link>
+      <description>Po wycieku danych pacjentów Centrum e-Zdrowia rozpoczęło prewencyjną i stopniową aktualizację certyfikatów wykorzystywanych do komunikacji z systemem P1 – poinformował w piątek na platformie X wicepremier, minister cyfryzacji Krzysztof Gawkowski.</description>
+      <pubDate>Fri, 14 Aug 2026 15:15:00 GMT</pubDate>
+      <guid isPermaLink="false">02591bf6da38</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wyciek-danych-pacjentow-Panstwo-dodatkowo-zabezpiecza-system-e-recept-i-e-skierowan-9182520.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
       <title>Poważny incydent w ochronie zdrowia. Rząd zmienia przepisy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5a5169e856ef</link>
       <description>Rząd chce włączyć sektor ochrony zdrowia do przepisów o poważnych incydentach w cyberbezpieczeństwie. Chodzi o klasyfikację incydentu jako poważny. Obowiązujące rozporządzenie obejmuje jedynie sektory energii i transportu. Po zmianach do regulacji włączone zostanie 13 nowych obszarów.</description>
       <pubDate>Fri, 14 Aug 2026 15:13:00 GMT</pubDate>
       <guid isPermaLink="false">5a5169e856ef</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Powazny-incydent-w-ochronie-zdrowia-Rzad-zmienia-przepisy,287767,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Wiemy, jak wygląda nowy Spider-Man. Sony staje na głowie, żeby usunąć wyciek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ae4e757ed713</link>
+      <description>Kurz nie zdążył jeszcze opaść po hucznej premierze Spider-Man: Całkiem nowy dzień, a fani pajęczego uniwersum już mają kolejne powody do radości. Wyci...</description>
+      <pubDate>Fri, 14 Aug 2026 15:00:20 GMT</pubDate>
+      <guid isPermaLink="false">ae4e757ed713</guid>
+      <source url="https://antyweb.pl/wiemy-jak-wyglada-nowy-spider-man-sony-staje-na-glowie-zeby-usunac-wyciek">Antyweb</source>
+    </item>
+    <item>
+      <title>Apple proposes to take a 15% cut of purchases made outside the App Store</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c9bed3a6ada9</link>
+      <description>Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.</description>
+      <pubDate>Fri, 14 Aug 2026 14:54:48 GMT</pubDate>
+      <guid isPermaLink="false">c9bed3a6ada9</guid>
+      <source url="https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Te rośliny mogą zapobiegać powstawaniu raka. Przełomowe badania polskich naukowców</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad40cb9c56ca</link>
+      <description>Ekstrakty z roślin wodnych mogą hamować procesy prowadzące do rozwoju nowotworów – wynika z badań prowadzonych przez naukowców z Katolickiego Uniwersytetu Lubelskiego Jana Pawła II. Badacze poszukują materiału, który będzie można wykorzystać w profilaktyce raka.</description>
+      <pubDate>Fri, 14 Aug 2026 14:52:00 GMT</pubDate>
+      <guid isPermaLink="false">ad40cb9c56ca</guid>
+      <source url="https://www.rmf24.pl/regiony/lublin/news-te-rosliny-moga-zapobiegac-powstawaniu-raka-przelomowe-badan,nIdn,1013752">RMF24</source>
+    </item>
+    <item>
+      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bc3411669855</link>
+      <description>The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.</description>
+      <pubDate>Fri, 14 Aug 2026 14:50:11 GMT</pubDate>
+      <guid isPermaLink="false">bc3411669855</guid>
+      <source url="https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Jagiellonia wyłoży 22 mln zł. Wygrała wyścig</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/06be383f84e5</link>
+      <description>SSA Jagiellonia wygrała przetarg na zakup 14,5-hektarowych działek na Krywlanach w Białymstoku. Klub zapłaci miastu 22,2 mln zł. Na terenie powstanie nowy ośrodek piłkarski Jagiellonii.</description>
+      <pubDate>Fri, 14 Aug 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="false">06be383f84e5</guid>
+      <source url="https://www.rmf24.pl/regiony/bialystok/news-jagiellonia-wylozy-22-mln-zl-wygrala-wyscig,nIdn,1013754">RMF24</source>
+    </item>
+    <item>
+      <title>BIK rozdaje darmowe alerty na 90 dni. Wszystko przez wyciek danych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/82aa7ec89563</link>
+      <description>W obliczu niedawnego wycieku danych BIK postanowiło udostępnić potężne narzędzie ochronne za darmo.</description>
+      <pubDate>Fri, 14 Aug 2026 14:45:11 GMT</pubDate>
+      <guid isPermaLink="false">82aa7ec89563</guid>
+      <source url="https://antyweb.pl/twoje-dane-wyciekly-bik-ma-dla-was-prezent">Antyweb</source>
+    </item>
+    <item>
+      <title>Popierasz Trumpa, czy nie? Kraje NATO otrzymały kontrowersyjne kwestionariusze z USA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b4856f85b269</link>
+      <description>Administracja USA miała rozesłać do państw NATO kwestionariusz dotyczący ich poparcia dla polityki prezydenta Donalda Trumpa – poinformował Bloomberg. Według agencji Waszyngton chce ocenić postawę sojuszników przed możliwym ograniczeniem zasobów wojskowych przeznaczonych do obrony Sojuszu.</description>
+      <pubDate>Fri, 14 Aug 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="false">b4856f85b269</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-popierasz-trumpa-czy-nie-kraje-nato-otrzymaly-kontrowersyjne,nIdn,1013751">RMF24</source>
+    </item>
+    <item>
+      <title>Ruch Romanowskiego &quot;sprzeczny z jakąkolwiek logiką&quot;. &quot;Opary absurdu&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4894d609c406</link>
+      <description>Marcin Romanowski chce listu żelaznego. Po kolejnej ucieczce deklaruje, że posługuje się paszportem &quot;wydanym na inną tożsamość&quot;. Co to może oznaczać? - To przypadek, z którym nigdy wcześniej się nie spotkałem - mówi TVN24+ prawnik Mariusz Paplaczyk.</description>
+      <pubDate>Fri, 14 Aug 2026 14:42:26 GMT</pubDate>
+      <guid isPermaLink="false">4894d609c406</guid>
+      <source url="https://tvn24.pl/polska/gdzie-jest-marcin-romanowski-czy-marcin-romanowski-jest-w-naddniestrzu-jak-mogl-dostac-paszport-z-inna-tozsamoscia-st9189552?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5c987c7b33a0</link>
+      <description>Planujący całkowite wygaszenie energetyki jądrowej hiszpański rząd przedłużył w piątek o dwa lata, do 2030 roku, zezwolenie na eksploatację największej pod względem produkcji energii w kraju elektrowni atomowej znajdującej się w Almaraz przy granicy z Portugalią w regionie Estremadura.</description>
+      <pubDate>Fri, 14 Aug 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="false">5c987c7b33a0</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Próba defilady lotniczej. Nasz reporter na pokładzie śmigłowca</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/056ce81b85d2</link>
+      <description>Artur Molęda z bliska, bo pokładzie śmigłowca Mi-17 należącego do Powietrznej Jednostki Operacji Specjalnych, obserwował ostatnie przygotowania przed wojskową defiladą. W formacji leciały też dwa Black Hawki i drugi śmigłowiec Mi-17.</description>
+      <pubDate>Fri, 14 Aug 2026 14:38:04 GMT</pubDate>
+      <guid isPermaLink="false">056ce81b85d2</guid>
+      <source url="https://tvn24.pl/polska/artur-moleda-na-pokladzie-smiglowca-mi-17-odbyla-sie-proba-defilady-lotniczej-st9190266?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>When Genius Fails: The Intellectual Arrogance of the AI Labs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0d4bc1667c35</link>
+      <description>From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack</description>
+      <pubDate>Fri, 14 Aug 2026 14:34:49 GMT</pubDate>
+      <guid isPermaLink="false">0d4bc1667c35</guid>
+      <source url="https://weightythoughts.com/p/when-genius-failsthe-intellectual">Hacker News</source>
+    </item>
+    <item>
+      <title>Rosja odrzuciła propozycję Ukrainy ws. zawieszenia broni na Morzu Czarnym</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5deb5ad5024b</link>
+      <description>Rosja odrzuca pomysł zawieszenia broni z Ukrainą na Morzu Czarnym i uważa ją za „półśrodek” – poinformowało w piątek w komunikacie rosyjskie ministerstwo spraw zagranicznych. Ataki na tym akwenie znacząco utrudniają eksport ukraińskiego zboża.</description>
+      <pubDate>Fri, 14 Aug 2026 14:33:00 GMT</pubDate>
+      <guid isPermaLink="false">5deb5ad5024b</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Every Fucking Website</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e108b0d6035</link>
+      <description>In case you&apos;re not aware, there&apos;s COVID-19 happening! Here&apos;s some stuff we wrote that you won&apos;t read.</description>
+      <pubDate>Fri, 14 Aug 2026 14:31:08 GMT</pubDate>
+      <guid isPermaLink="false">9e108b0d6035</guid>
+      <source url="https://lxe.github.io/everywebsite/">Hacker News</source>
+    </item>
+    <item>
+      <title>Trump się odwołuje. &quot;Niezbędne dla bezpieczeństwa narodowego&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5f9f1406b60</link>
+      <description>Administracja prezydenta Donalda Trumpa zwróciła się do Sądu Najwyższego z wnioskiem o zezwolenie na kontynuację budowy sali balowej w Białym Domu - podała agencja Reuters. Wcześnie sąd apelacyjny uznał, że projekt nie uzyskał niezbędnej zgody Kongresu.</description>
+      <pubDate>Fri, 14 Aug 2026 14:27:51 GMT</pubDate>
+      <guid isPermaLink="false">d5f9f1406b60</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/wielki-projekt-trumpa-zagrozony-niezbedny-dla-bezpieczenstwa-narodowego-st9190310">TVN24</source>
+    </item>
+    <item>
+      <title>Zabójstwo 16-letniej Mai z Mławy. Nowe informacje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f80303cd3ba</link>
+      <description>Do Sądu Okręgowego w Płocku został skierowany akt oskarżenia przeciwko 18-letniemu Bartoszowi G. Młody mężczyzna jest podejrzany o zabójstwo ze szczególnym okrucieństwem 16-letniej Mai z Mławy. Grozi mu do 30 lat więzienia.</description>
+      <pubDate>Fri, 14 Aug 2026 14:27:46 GMT</pubDate>
+      <guid isPermaLink="false">8f80303cd3ba</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/zabojstwo-16-letniej-mai-z-mlawy-nowe-informacje-st9190301?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic in price war as Chinese AI rivals gain ground</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0778f93b3ef2</link>
+      <description>US groups release cheaper models after new challenges to their trillion-dollar ambitions.</description>
+      <pubDate>Fri, 14 Aug 2026 14:27:14 GMT</pubDate>
+      <guid isPermaLink="false">0778f93b3ef2</guid>
+      <source url="https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/">Ars Technica</source>
+    </item>
+    <item>
+      <title>AI Model Atlas – visualizing populations of ML models as interconnected 3D graph</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/93af4f37b451</link>
+      <description>Comments</description>
+      <pubDate>Fri, 14 Aug 2026 14:22:39 GMT</pubDate>
+      <guid isPermaLink="false">93af4f37b451</guid>
+      <source url="https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0">Hacker News</source>
+    </item>
+    <item>
+      <title>I turned my RSS feeds into an e-ink newspaper to stop reading on my phone</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bae71eb952aa</link>
+      <description>I really like personal blogs. I read them for entertainment, learning, and to keep myself updated on the latest trends in software engineering. I prefer to read them in a horizontal position, like on a couch or a deckchair outside in the sun. That explains why I almost never read them on my computer and always on my phone. I don’t necessarily enjoy that, though, since it makes my eyes tired.</description>
+      <pubDate>Fri, 14 Aug 2026 14:21:18 GMT</pubDate>
+      <guid isPermaLink="false">bae71eb952aa</guid>
+      <source url="https://heyjonny.dev/posts/rss-to-eink-newspaper/">Hacker News</source>
+    </item>
+    <item>
+      <title>Skłodowska-Curie czy ptaki żołny? Ważą się losy nowych banknotów euro</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4e1b8ffb0bf4</link>
+      <description>Co znajdzie się na nowym banknocie 20 euro, Maria Skłodowska-Curie czy ptaki żołny? Odpowiedź w tej sprawie mają dać konsultacje społeczne Europejskiego Banku Centralnego na temat nowego wyglądu banknotów euro. Rywalizują ze sobą motyw kulturalny i przyrodniczy.</description>
+      <pubDate>Fri, 14 Aug 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="false">4e1b8ffb0bf4</guid>
+      <source url="https://www.rmf24.pl/fakty/ekonomia/news-sklodowska-curie-czy-ptaki-zolny-waza-sie-losy-nowych-bankno,nIdn,1013743">RMF24</source>
+    </item>
+    <item>
+      <title>In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5a70fab27d1e</link>
+      <description>Comments</description>
+      <pubDate>Fri, 14 Aug 2026 14:07:52 GMT</pubDate>
+      <guid isPermaLink="false">5a70fab27d1e</guid>
+      <source url="https://e360.yale.edu/digest/australia-home-batteries">Hacker News</source>
+    </item>
+    <item>
+      <title>Hyperscalers might regret embracing natural gas if new forecast proves correct</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51108fffa358</link>
+      <description>Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.</description>
+      <pubDate>Fri, 14 Aug 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="false">51108fffa358</guid>
+      <source url="https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Jak ulepszyć komputer bez kupowania nowego? Mamy na to sposób</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8bc1f2e67737</link>
+      <description>Jak przyspieszyć komputer bez wydawania kasy? Mamy dla was kilka sposobów, które ulepszą wasze pecety.</description>
+      <pubDate>Fri, 14 Aug 2026 14:00:10 GMT</pubDate>
+      <guid isPermaLink="false">8bc1f2e67737</guid>
+      <source url="https://antyweb.pl/zrob-to-ze-swoim-komputerem-bedzie-dziala-szybciej">Antyweb</source>
+    </item>
+    <item>
+      <title>Motocyklista i ryś, który &quot;prosi o pomoc&quot;. &quot;Czasem wystarczy się zatrzymać&quot;. I sprawdzić, co oglądamy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08ed6f959ea9</link>
+      <description>Miliony wyświetleń zdobyło nagranie, na którym ryś &quot;prosi człowieka o pomoc&quot;. U jednych ta historia wywołała wzruszenie, a u innych pytania, dlaczego nagranie nie zostało oznaczone.</description>
+      <pubDate>Fri, 14 Aug 2026 13:57:57 GMT</pubDate>
+      <guid isPermaLink="false">08ed6f959ea9</guid>
+      <source url="https://konkret24.tvn24.pl/rozrywka/motocyklista-i-rys-ktory-prosi-o-pomoc-czasem-wystarczy-sie-zatrzymac-i-sprawdzic-co-ogladamy-st9188780?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>„To cicho zabija Palestyńczyków”. Izraelczycy przejęli źródła wody na Zachodnim Brzegu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5ffc401e2853</link>
+      <description>Na Zachodnim Brzegu narasta konflikt o wodę. Izraelscy osadnicy coraz częściej przejmują jej źródła, odcinając od nich palestyńskich mieszkańców i rolników. Według danych ONZ, tylko od początku tego roku doszło do co najmniej 160 ataków na palestyńską infrastrukturę wodociągową i sanitarną.</description>
+      <pubDate>Fri, 14 Aug 2026 13:55:00 GMT</pubDate>
+      <guid isPermaLink="false">5ffc401e2853</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-to-cicho-zabija-palestynczykow-izraelczycy-przejeli-zrodla-w,nIdn,1013748">RMF24</source>
+    </item>
+    <item>
+      <title>Zawieszenie broni na Morzu Czarnym? Jest reakcja Rosji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ebc857261b31</link>
+      <description>Rosja stanowczo zareagowała na pomysł zawieszenia broni z Ukrainą na Morzu Czarnym, odrzucając propozycję, którą uznała za „półśrodek” – poinformowało rosyjskie ministerstwo spraw zagranicznych. Ataki na tym akwenie znacząco utrudniają eksport ukraińskiego zboża.</description>
+      <pubDate>Fri, 14 Aug 2026 13:45:00 GMT</pubDate>
+      <guid isPermaLink="false">ebc857261b31</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zawieszenie-broni-na-morzu-czarnym-jest-reakcja-rosji,nIdn,1013749">RMF24</source>
     </item>
     <item>
       <title>Auto zapaliło się podczas jazdy. Na szczęście za nim jechali policjanci</title>
@@ -182,232 +406,6 @@
       <pubDate>Fri, 14 Aug 2026 13:00:04 GMT</pubDate>
       <guid isPermaLink="false">d16bcabaf05b</guid>
       <source url="https://antyweb.pl/europa-buduje-wlasnego-konkurenta-dla-starlinka">Antyweb</source>
-    </item>
-    <item>
-      <title>Broń na wysoki cholesterol. W Unii Europejskiej wprowadzono ograniczenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6a6f47efd388</link>
-      <description>Monakolina K jest składnikiem powstającym podczas fermentacji czerwonego ryżu, która może obniżać stężenie cholesterolu całkowitego oraz frakcji LDL. Jej działanie przypomina mechanizm stosowany przez statyny. Ze względu na możliwe działania niepożądane wprowadzono ograniczenia dotyczące ilości monakolin w suplementach dostępnych w Unii Europejskiej.</description>
-      <pubDate>Fri, 14 Aug 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">6a6f47efd388</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Bron-na-wysoki-cholesterol-W-Unii-Europejskiej-wprowadzono-ograniczenia,287740,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Inflacja bazowa stabilnie podwyższona. 2,5-procentowy cel wciąż przekroczony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/366fd1278123</link>
-      <description>Lipcowy odczyt inflacji bazowej w Polsce okazał się minimalnie niższy od oczekiwań analityków i utrzymał się na poziomie sprzed miesiąca.</description>
-      <pubDate>Fri, 14 Aug 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">366fd1278123</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-lipcu-2026-wciaz-przewyzszala-2-5-procentowy-cel-NBP-9182447.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Afera z pomocą dla powodzian: Lecą kolejne głowy w KARR</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f985bed3ffc0</link>
-      <description>W Karkonoskiej Agencji Rozwoju Regionalnego doszło do poważnych zmian kadrowych. Zarząd województwa dolnośląskiego zdecydował o odwołaniu prezesa Huberta Papaja oraz całej rady nadzorczej spółki. To efekt nieprawidłowości przy rozdzielaniu dotacji popowodziowych.</description>
-      <pubDate>Fri, 14 Aug 2026 12:57:00 GMT</pubDate>
-      <guid isPermaLink="false">f985bed3ffc0</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-afera-z-pomoca-dla-powodzian-leca-kolejne-glowy-w-karr,nIdn,1013740">RMF24</source>
-    </item>
-    <item>
-      <title>Będzie ugoda w sprawie głośnego zabójstwa?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6d38c2a1354</link>
-      <description>Luigi Mangione, mężczyzna oskarżony o zabójstwo prezesa UnitedHealthcare Briana Thompsona, ma stawić się dziś w sądzie, gdzie może przyznać się do winy w jednej ze spraw - pisze Reuters.</description>
-      <pubDate>Fri, 14 Aug 2026 12:56:40 GMT</pubDate>
-      <guid isPermaLink="false">d6d38c2a1354</guid>
-      <source url="https://tvn24.pl/swiat/luigi-mangione-bedzie-ugoda-w-sprawie-glosnego-zabojstwa-w-nowym-jorku-st9190152?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>World’s first superconducting quantum heat engine could help unlock massive quantum computers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/952b1ee1e28f</link>
-      <description>A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.</description>
-      <pubDate>Fri, 14 Aug 2026 12:56:01 GMT</pubDate>
-      <guid isPermaLink="false">952b1ee1e28f</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/08/260814011041.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Polacy wciąż nie doceniają. Królewska ryba rozpływa się w ustach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a5a51d60edee</link>
-      <description>Jest dobrym źródłem białka, witamin, potasu i fosforu, a zawarte w niej zdrowe tłuszcze chronią przed chorobami serca i anemią. Nadaje się na składnik sushi i mogą ją jeść nawet kobiety w ciąży - pisze o doradzie królewskiej portal dietetycy.org.pl</description>
-      <pubDate>Fri, 14 Aug 2026 12:52:00 GMT</pubDate>
-      <guid isPermaLink="false">a5a51d60edee</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Polacy-wciaz-nie-doceniaja-Krolewska-ryba-rozplywa-sie-w-ustach,287760,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Groził kierowcy maczetą, potem uciekał przed policją</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0dc6fe334173</link>
-      <description>42-latek najpierw miał zajechać drogę innemu kierowcy, następnie grozić mu maczetą, a później próbował uciekać przed policjantami. Funkcjonariusze ustalili, że prowadził mimo zakazu i miał przy sobie narkotyki.</description>
-      <pubDate>Fri, 14 Aug 2026 12:50:04 GMT</pubDate>
-      <guid isPermaLink="false">0dc6fe334173</guid>
-      <source url="https://tvn24.pl/wroclaw/zlotoryja-grozil-maczeta-na-drodze-potem-uciekal-przed-policja-mial-sadowy-zakaz-st9189791?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Mleczarze, producenci mięsa, soków i czekolady chcą zakazać. Wybuchł spór o Nutri-Score</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef7a5d52af4b</link>
-      <description>Nutri-Score to system znakowania produktów spożywczych, który z założenia ma pomagać konsumentom w dokonywaniu lepszych, zdrowszych wyborów żywieniowych. Wizualne odniesienie do sygnalizacji świetlnej niewątpliwie ułatwia jego interpretację. Jednocześnie sposób, w jaki Nutri-Score ocenia produkty, budzi kontrowersje.</description>
-      <pubDate>Fri, 14 Aug 2026 12:50:00 GMT</pubDate>
-      <guid isPermaLink="false">ef7a5d52af4b</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Mleczarze-producenci-miesa-sokow-i-czekolady-chca-zakazac-Wybuchl-spor-o-Nutri-Score,287763,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Rosjanie chcieli zabić rapera? Kulisy zatrzymania w Warszawie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/725362652c2d</link>
-      <description>Najpierw miał jedynie obserwować ukraińskiego rapera, potem dostać propozycję udziału w jego zabójstwie. Z naszych ustaleń wynika, że zatrzymany w Warszawie 29-latek opowiedział śledczym o swojej współpracy z rosyjskim wywiadem. Celem miał być Albert Wasiljew, znany jako Kyivstoner. Dlaczego właśnie on?</description>
-      <pubDate>Fri, 14 Aug 2026 12:48:15 GMT</pubDate>
-      <guid isPermaLink="false">725362652c2d</guid>
-      <source url="https://tvn24.pl/polska/udaremniony-zamach-w-warszawie-kto-byl-celem-raper-kyivstoner-kim-jest-st9190177?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ukraińska firma zbuduje na Litwie fabrykę amunicji. Powstanie 450 miejsc pracy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c1e0e903c087</link>
-      <description>Litewski minister gospodarki Edvinas Grikszas oraz szef ukraińskiego przedsiębiorstwa DEMZ Jewhen Muzykin podpisali w piątek w Wilnie umowę w sprawie produkowania na Litwie amunicji przez tę firmę. Według rządu w Wilnie produkcja będzie przeznaczona na potrzeby armii Ukrainy i krajów sojuszniczych.</description>
-      <pubDate>Fri, 14 Aug 2026 12:46:00 GMT</pubDate>
-      <guid isPermaLink="false">c1e0e903c087</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ukrainska-firma-zbuduje-na-Litwie-fabryke-amunicji-Powstanie-450-miejsc-pracy-9182439.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Czy mamy powtórkę z roku 2007? Jaroszek i Kolany komentują stan rynku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/792905e97629</link>
-      <description>Czy mamy do czynienia z powtórką z roku 2007? A może jest to nowa hossa pokoleniowa na warszawskim parkiecie? Zastanawiają się Tomasz Jaroszek i Krzysztof Kolany w najnowszym odcinku „Bankier Weekly”.</description>
-      <pubDate>Fri, 14 Aug 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="false">792905e97629</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Czy-mamy-powtorke-z-roku-2007-Jaroszek-i-Kolany-komentuja-stan-rynku-9182427.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Nowa broń Ukraińców. Rozpoczęły się testy w warunkach bojowych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/420451b59815</link>
-      <description>Ukraińcy szykują nową broń – rozpoczęły się testy w warunkach bojowych nowego odrzutowego drona przechwytującego. Bezzałogowiec może zwalczać cele lecące z prędkością do 600 km/h.</description>
-      <pubDate>Fri, 14 Aug 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="false">420451b59815</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-nowa-bron-ukraincow-rozpoczely-sie-testy-w-warunkach-bojowyc,nIdn,1013739">RMF24</source>
-    </item>
-    <item>
-      <title>Taking the stairs could protect your heart and help you live longer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7fcb80edf1b2</link>
-      <description>Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiovascular disease and 24% less likely to die from any cause than people who rarely took the stairs. They also had lower risks of heart attack, stroke, and heart failure.</description>
-      <pubDate>Fri, 14 Aug 2026 12:35:37 GMT</pubDate>
-      <guid isPermaLink="false">7fcb80edf1b2</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/08/260814011029.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>Zapas leku na 60 dni i koniec. Ministerstwo Zdrowia wprowadza nowy limit w refundacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/05adc963c8fd</link>
-      <description>Ministerstwo Zdrowia zapowiada duże porządki w wystawianiu i realizacji recept. Nowa ustawa o receptach ma wprowadzić zasadę, że pacjent odbierze z refundacją lek maksymalnie na 60 dni stosowania, a większy zapas będzie mógł wykupić pełnopłatnie. Projekt ma też zakończyć recepty bez dawkowania, uregulować receptomaty i wzmocnić walidację w systemie P1.</description>
-      <pubDate>Fri, 14 Aug 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="false">05adc963c8fd</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Zapas-leku-na-60-dni-i-koniec-Ministerstwo-Zdrowia-wprowadza-nowy-limit-w-refundacji,287738,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Miał być rajem na ziemi. Luksusowy kompleks stał się przyczółkiem dla oszustów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e4873cd9ef9</link>
-      <description>Malezyjska policja zatrzymała 335 osób podejrzanych o prowadzenie oszustw internetowych z 32 mieszkań i willi w Forest City. To luksusowy kompleks zbudowany na sztucznej wyspie naprzeciwko Singapuru, który miał pomieścić 700 tysięcy osób, a dziś stoi w większości pusty. Zdaniem śledczych właśnie ta pustka przyciągnęła przestępców. Wśród zatrzymanych jest 309 obywateli Chin.</description>
-      <pubDate>Fri, 14 Aug 2026 12:29:00 GMT</pubDate>
-      <guid isPermaLink="false">9e4873cd9ef9</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-mial-byc-rajem-na-ziemi-luksusowy-kompleks-stal-sie-przyczol,nIdn,1013737">RMF24</source>
-    </item>
-    <item>
-      <title>Co sprawiło, że 61-latka prawie wyssało z samolotu? Jest wstępny raport</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/12af47aaeae3</link>
-      <description>W uszkodzonym silniku samolotu linii Ryanair, z którego przez wybitą szybę częściowo został wyssany pasażer, znaleziono ptasie szczątki - poinformowała amerykańska Narodowa Rada Bezpieczeństwa Transportu (NTSB) w opublikowanym w czwartek wstępnym raporcie.</description>
-      <pubDate>Fri, 14 Aug 2026 12:27:33 GMT</pubDate>
-      <guid isPermaLink="false">12af47aaeae3</guid>
-      <source url="https://tvn24.pl/swiat/grecja-pasazer-czesciowo-wyssany-z-samolotu-ryanair-jest-wstepny-raport-ntsb-st9189678?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Utrudnienia w Warszawie. Remonty torowisk i zmiany tras</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15bfbee580c4</link>
-      <description>Od najbliższej soboty Warszawiaków czekają kolejne utrudnienia w komunikacji miejskiej. Tramwaje znikną z ulicy Puławskiej na odcinku między pętlami Metro Wilanowska i Wyścigi, a przez weekend nie pojadą także ulicą Zgrupowania AK „Kampinos”.</description>
-      <pubDate>Fri, 14 Aug 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="false">15bfbee580c4</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-utrudnienia-w-warszawie-remonty-torowisk-i-zmiany-tras,nIdn,1013738">RMF24</source>
-    </item>
-    <item>
-      <title>Tak rozpoczął się pogrzeb Andrzeja Morozowskiego. &quot;To nie jest przypadkowy wybór&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/458da9506a6c</link>
-      <description>Ostatnie pożegnanie Andrzeja Morozowskiego zaczął zespół Warszawskie Combo Taneczne. -  Andrzej uwielbiał ten zespół - wyjaśnił później dziennikarz TVN24 Tomasz Sianecki, który prowadził ceremonię.</description>
-      <pubDate>Fri, 14 Aug 2026 12:24:44 GMT</pubDate>
-      <guid isPermaLink="false">458da9506a6c</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/poczatek-pogrzebu-andrzeja-morozowskiego-uwielbial-ten-zespol-st9189814?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Dear people who work at the airport</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a7924f6d4d09</link>
-      <description>I would like you to know that we passengers are trying our best.
-
-To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...</description>
-      <pubDate>Fri, 14 Aug 2026 12:23:22 GMT</pubDate>
-      <guid isPermaLink="false">a7924f6d4d09</guid>
-      <source url="https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/">Hacker News</source>
-    </item>
-    <item>
-      <title>What we know so far about the West Midlands fires</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d92b19256f6</link>
-      <description>Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.</description>
-      <pubDate>Fri, 14 Aug 2026 12:19:25 GMT</pubDate>
-      <guid isPermaLink="false">1d92b19256f6</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cp8xr2n9560o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Instagram accounts fuelling Ceuta crisis with paid advice for help to cross</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/38d0776f11cb</link>
-      <description>BBC&apos;s Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.</description>
-      <pubDate>Fri, 14 Aug 2026 12:19:21 GMT</pubDate>
-      <guid isPermaLink="false">38d0776f11cb</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Toyota rozszerza ofertę. Teraz dostaniesz też pożyczkę na samochód</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/60116227b6dc</link>
-      <description>Zakup samochodu to poważny wydatek. Nie zawsze można sobie pozwolić na niego od ręki. W związku z tym znalezienie odpowiedniego samochodu często kończy się kalkulowaniem, czy budżet pozwoli na zakup. Brakująca część kwoty nie zawsze musi jednak oznaczać rezygnację z wybranego auta.</description>
-      <pubDate>Fri, 14 Aug 2026 12:15:07 GMT</pubDate>
-      <guid isPermaLink="false">60116227b6dc</guid>
-      <source url="https://antyweb.pl/toyota-rozszerza-oferte-teraz-dostaniesz-tez-pozyczke-na-samochod">Antyweb</source>
-    </item>
-    <item>
-      <title>Ministerstwo wykreśla lek z refundacji. Ciężkie przypadki uszkodzenia wątroby</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/adbc5ac79823</link>
-      <description>Ministerstwo Zdrowia usunęło z refundacji awakopan, stosowany w leczeniu ciężkich postaci ziarniniakowatości z zapaleniem naczyń (GPA) i mikroskopowego zapalenia naczyń (MPA). Wcześniej warunkowe pozwolenie na dopuszczenie leku do obrotu cofnęła Komisja Europejska. Zakwestionowano wiarygodność danych dotyczących jego skuteczności, a u pacjentów stosujących preparat pojawiły się przypadki ciężkiego uszkodzenia wątroby.</description>
-      <pubDate>Fri, 14 Aug 2026 12:05:00 GMT</pubDate>
-      <guid isPermaLink="false">adbc5ac79823</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/Ministerstwo-wykresla-lek-z-refundacji-Ciezkie-przypadki-uszkodzenia-watroby,287762,6.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>To może być najlepsza i najniebezpieczniejsza funkcja, jaką włączysz w ChatGPT</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2736c98e065f</link>
-      <description>Computer History tworzy kontekst lokalnie na Macu dla ChatGPT i Codex. Co zbiera, gdzie je zapisuje i dlaczego na początku omija Polskę?</description>
-      <pubDate>Fri, 14 Aug 2026 12:00:51 GMT</pubDate>
-      <guid isPermaLink="false">2736c98e065f</guid>
-      <source url="https://antyweb.pl/chatgpt-computer-history">Antyweb</source>
-    </item>
-    <item>
-      <title>What do people in Clacton think of Farage&apos;s by-election win? </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d9982d74cd01</link>
-      <description>The Reform leader wins the by-election he triggered, and gains more votes than last time.</description>
-      <pubDate>Fri, 14 Aug 2026 11:55:16 GMT</pubDate>
-      <guid isPermaLink="false">d9982d74cd01</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cvg947z1we1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Tragiczne skutki głośnej walki bokserskiej sprzed lat. Zmarł Prichard Colon</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6f9b5e4a1cf1</link>
-      <description>W wieku 33 lat zmarł amerykański bokser portorykańskiego pochodzenia Prichard Colon, honorowy mistrz świata organizacji WBC. Od 11 lat cierpiał na nieodwracalne uszkodzenie mózgu po walce, w której wielokrotnie otrzymywał niedozwolone ciosy w tył głowy.</description>
-      <pubDate>Fri, 14 Aug 2026 11:55:00 GMT</pubDate>
-      <guid isPermaLink="false">6f9b5e4a1cf1</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-tragiczne-skutki-glosnej-walki-bokserskiej-sprzed-lat-zmarl-,nIdn,1013733">RMF24</source>
-    </item>
-    <item>
-      <title>Policjanci z Pułtuska na tropie pumy. „Nie ryzykujmy”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/74d228fe29b0</link>
-      <description>Policjanci z komendy w Pułtusku na Mazowszu informują o poszukiwaniach dużego kota. Możliwe, że chodzi o pumę. Funkcjonariusze apelują o ostrożność do osób, które staną oko w oko z takim zwierzęciem.</description>
-      <pubDate>Fri, 14 Aug 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="false">74d228fe29b0</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-policjanci-z-pultuska-na-tropie-pumy-nie-ryzykujmy,nIdn,1013732">RMF24</source>
-    </item>
-    <item>
-      <title>Znany ukraiński raper miał być celem zamachu w Warszawie. News RMF FM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f7e625892ad0</link>
-      <description>Znany ukraiński wideobloger i raper Slevin Dadyan podczas pobytu w Polsce miał być celem zabójcy na zlecenie rosyjskich służb - dowiedział się reporter RMF FM Krzysztof Zasada. Killera pochodzącego z Donbasu zatrzymali funkcjonariusze stołecznej policji przy współpracy Agencji Bezpieczeńśtwa Wewnętrznego.</description>
-      <pubDate>Fri, 14 Aug 2026 11:52:00 GMT</pubDate>
-      <guid isPermaLink="false">f7e625892ad0</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-znany-ukrainski-raper-mial-byc-celem-zamachu-w-warszawie-new,nIdn,1013731">RMF24</source>
     </item>
   </channel>
 </rss>
