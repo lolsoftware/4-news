@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 15 Aug 2026 18:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:42:18 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Powoduje szkodliwe zmiany w jelitach. Zwiększa przepuszczalność</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f9bd7b74b8aa</link>
+      <description>Słodzone napoje i produkty zawierające dużo cukru, jak np. owoce w zalewie cukrowej, mogą wpływać na organizm znacznie głębiej, niż mogłoby się wydawać. Naukowcy odkryli, że cukier może zmieniać działanie DNA bakterii jelitowych, a jednocześnie wpływać na układ odpornościowy i markery stanu zapalnego.</description>
+      <pubDate>Sat, 15 Aug 2026 20:50:00 GMT</pubDate>
+      <guid isPermaLink="false">f9bd7b74b8aa</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Powoduje-szkodliwe-zmiany-w-jelitach-Zwieksza-przepuszczalnosc,287784,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Morocco detains dozens of migrants trying to cross into Ceuta, reports say</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/be57cc06dde6</link>
+      <description>Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.</description>
+      <pubDate>Sat, 15 Aug 2026 20:32:33 GMT</pubDate>
+      <guid isPermaLink="false">be57cc06dde6</guid>
+      <source url="https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
     <item>
       <title>Opanował całą Polskę. HIT wśród suplementów nie działa, jak obiecują</title>
       <link>https://lolsoftware.github.io/4-news/#/article/faa805f8beef</link>
@@ -14,6 +30,38 @@
       <pubDate>Sat, 15 Aug 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">faa805f8beef</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Opanowal-cala-Polske-HIT-wsrod-suplementow-nie-dziala-jak-obiecuja,287783,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Groźny wypadek na S7. Na miejscu lądował śmigłowiec LPR</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7a121502ef10</link>
+      <description>Groźny wypadek na krajowej S7. W miejscowości Widoma w województwie małopolskim doszło do zderzenia dwóch aut. Na miejscu lądował śmigłowiec Lotniczego Pogotowia Ratunkowego.</description>
+      <pubDate>Sat, 15 Aug 2026 19:38:00 GMT</pubDate>
+      <guid isPermaLink="false">7a121502ef10</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-grozny-wypadek-na-s7-na-miejscu-ladowal-smiglowiec-lpr,nIdn,1013842">RMF24</source>
+    </item>
+    <item>
+      <title>Wołodymyr Zełenski pogratulował Polsce z okazji Święta Wojska Polskiego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6432e753cc2a</link>
+      <description>&quot;106 lat temu ukraińscy żołnierze pomogli obrońcom Polski w obronie Warszawy i powstrzymaniu marszu bolszewizmu na zachód&quot; - napisał prezydent Ukrainy Wołodymyr Zełenski. Pogratulował Polsce z okazji rocznicy bitwy warszawskiej 1920 roku.</description>
+      <pubDate>Sat, 15 Aug 2026 19:32:50 GMT</pubDate>
+      <guid isPermaLink="false">6432e753cc2a</guid>
+      <source url="https://tvn24.pl/swiat/swieto-wojska-polskiego-prezydent-ukrainy-wolodymyr-zelenski-pogratulowal-polsce-st9191596?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Mamy srebro! Natalia Bukowiecka na podium mistrzostw Europy w biegu na 400 m</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6d1b56173ffd</link>
+      <description>Natalia Bukowiecka zdobyła srebrny medal mistrzostw Europy w biegu na 400 m.</description>
+      <pubDate>Sat, 15 Aug 2026 19:22:00 GMT</pubDate>
+      <guid isPermaLink="false">6d1b56173ffd</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-mamy-srebro-natalia-bukowiecka-na-podium-mistrzostw-europy-w,nIdn,1013841">RMF24</source>
+    </item>
+    <item>
+      <title>AI in drug discovery — what it is, where we stand and the path forward</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9299c5f958b0</link>
+      <description>Artificial intelligence (AI) in drug discovery has attracted increasing interest over the past decade. It is now time for a critical review of progress in the field: where did we advance — and where are we yet to see impact — when it comes to what matters in drug discovery, which is to deliver safer and more efficacious medicines to patients faster? Although a wide variety of AI methods have been developed, applied and benchmarked, evidence of their clinically relevant impact is, so far, disappointingly limited. In this Perspective we discuss potential reasons, including an insufficient focus on clinical translation during model development, difficulties with applying AI algorithms on conditional life science data, and insufficient problem definitions and the resulting underspecification of computational models for real-world use cases. ‘Technology push’ compared with ‘science pull’ is also likely to be an underlying factor, as well as the substantial time required to operationalize technical capabilities into systems that are sufficiently scaled and accessible for users. We provide recommendations for the development of AI in drug discovery with the aim of increasing its translational relevance. For example, benchmarking studies of AI tools in drug discovery need to move on from model validation and instead focus on their ability to improve decision making. Applications of artificial intelligence (AI) in drug discovery have attracted high interest in recent years, but evidence for clinically relevant impact so far is limited. This Perspective discusses potential reasons, including an insufficient focus on clinical translation during model development and difficulties with applying AI algorithms on conditional life science data, and provides recommendations for the development of AI in drug discovery.</description>
+      <pubDate>Sat, 15 Aug 2026 19:12:53 GMT</pubDate>
+      <guid isPermaLink="false">9299c5f958b0</guid>
+      <source url="https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41573-026-01496-2&amp;code=2b0750e6-d20b-4cce-9e28-1b0f365d3fbe">Hacker News</source>
     </item>
     <item>
       <title>Koniec z telefonami od telemarketerów? Wprowadzili radykalne przepisy</title>
@@ -30,6 +78,46 @@
       <pubDate>Sat, 15 Aug 2026 19:10:00 GMT</pubDate>
       <guid isPermaLink="false">1be9e0f06640</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Znany-od-lat-lek-pomagac-schudnac-Kosztuje-kilka-zlotych,287781,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>&apos;Fury&apos; at Tarling death as cycling union calls for better helmets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d879bda41f0</link>
+      <description>The cyclists&apos; union expresses &quot;fury&quot; over the death of British rider Fin Tarling during Friday&apos;s stage of the Volta a Portugal.</description>
+      <pubDate>Sat, 15 Aug 2026 19:05:32 GMT</pubDate>
+      <guid isPermaLink="false">8d879bda41f0</guid>
+      <source url="https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Maja Chwalińska gra dalej. Polka zameldowała się w kolejnej rundzie turnieju w Cincinnati</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f94241a58e70</link>
+      <description>Rozstawiona z numerem 19. Maja Chwalińska wygrała z Hiszpanką Cristiną Bucsą 6:2, 6:2 i awansowała do trzeciej rundy turnieju WTA 1000 na twardych kortach w Cincinnati. To pierwsze wygrane spotkanie w karierze 24-letniej polskiej tenisistki w zawodach tej rangi.</description>
+      <pubDate>Sat, 15 Aug 2026 19:03:00 GMT</pubDate>
+      <guid isPermaLink="false">f94241a58e70</guid>
+      <source url="https://www.rmf24.pl/tenis/news-maja-chwalinska-gra-dalej-polka-zameldowala-sie-w-kolejnej-r,nIdn,1013840">RMF24</source>
+    </item>
+    <item>
+      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/569c4523c8fc</link>
+      <description>How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?</description>
+      <pubDate>Sat, 15 Aug 2026 18:58:39 GMT</pubDate>
+      <guid isPermaLink="false">569c4523c8fc</guid>
+      <source url="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Dwie kozy wsiadły do miejskiego autobusu. Nagranie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f12755b338ec</link>
+      <description>Pasażerowie miejskiego autobusu w Portland w stanie Oregon mieli dość nietypowych towarzyszy podróży. Na przystanku pojawiły się dwie kozy pigmejskie, które wsiadły do pojazdu.</description>
+      <pubDate>Sat, 15 Aug 2026 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">f12755b338ec</guid>
+      <source url="https://tvn24.pl/tvnmeteo/ciekawostki/usa-portland-kozy-wsiadly-do-autobusu-nagranie-st9191533?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>&quot;Budujemy dowództwa domenowe&quot;. Generał Wojciech Król tłumaczy transformację dowodzenia w wojsku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8901e682f50a</link>
+      <description>W 2013 roku wydawało nam się, że będziemy tylko i wyłącznie musieli realizować zadania daleko poza terytorium Rzeczypospolitej - mówił w &quot;Faktach po Faktach&quot; generał broni Krzysztof Król, który tłumaczył na czym mają polegać zmiany w dowodzeniu w Wojsku Polskim.</description>
+      <pubDate>Sat, 15 Aug 2026 18:53:27 GMT</pubDate>
+      <guid isPermaLink="false">8901e682f50a</guid>
+      <source url="https://tvn24.pl/polska/general-broni-wojciech-krol-o-transformacji-dowodzenia-w-wojsku-polskim-budujemy-dowodztwa-domenowe-st9191580?source=rss">TVN24</source>
     </item>
     <item>
       <title>Voltair (YC W26) Is Hiring a Test Flight Engineer</title>
@@ -109,6 +197,14 @@ Nice to Have
       <pubDate>Sat, 15 Aug 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="false">dd59058d6964</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Fundusz-zajrzy-w-grafiki-a-lekarze-rodzinni-pytaja-co-mamy-raportowac-i-kto-zobaczy-dane,287761,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>BriskDB</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b4276977be3e</link>
+      <description>Ordinary SQLite files, one sharded database—parallel writes, PostgreSQL, HTTP, Rust, Python, and shard-safe IDs. - schapman1974/briskdb</description>
+      <pubDate>Sat, 15 Aug 2026 17:56:57 GMT</pubDate>
+      <guid isPermaLink="false">b4276977be3e</guid>
+      <source url="https://github.com/schapman1974/briskdb">Hacker News</source>
     </item>
     <item>
       <title>Tłumy pielgrzymów, wśród gości Lech Wałęsa. Byliśmy na poświęceniu pomnika Matki Boskiej</title>
@@ -295,7 +391,7 @@ Nice to Have
       <source url="https://antyweb.pl/sensor-magnetyzm-tekstury-spinowe">Antyweb</source>
     </item>
     <item>
-      <title>Semaglutide linked to 26% lower 5-year predicted dementia risk</title>
+      <title>Semaglutide linked to lower predicted dementia risk</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cc46e9b7f6f7</link>
       <description>Comments</description>
       <pubDate>Sat, 15 Aug 2026 15:58:53 GMT</pubDate>
@@ -341,102 +437,6 @@ Nice to Have
       <pubDate>Sat, 15 Aug 2026 15:32:25 GMT</pubDate>
       <guid isPermaLink="false">0edd68986bd2</guid>
       <source url="https://spectrum.ieee.org/ai-designed-virus">Hacker News</source>
-    </item>
-    <item>
-      <title>Na kampusie uniwersytetu padły strzały. Pięć osób ucierpiało</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/781fc0b957b2</link>
-      <description>Pięć osób odniosło obrażenia w strzelaninie, do której doszło w sobotę na kampusie jednego z uniwersytetów w stanie Wirginia w USA - podały władze uczelni. Stan jednej z rannych osób określono jako zagrażający życiu. Okoliczności zdarzenia są ustalane.</description>
-      <pubDate>Sat, 15 Aug 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="false">781fc0b957b2</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-na-kampusie-uniwersytetu-padly-strzaly-piec-osob-ucierpialo,nIdn,1013829">RMF24</source>
-    </item>
-    <item>
-      <title>Inne lodowce topnieją, a ten wciąż rośnie. Oto jedno z najbardziej fascynujących dzieł natury</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/40a5ef79e804</link>
-      <description>Podczas gdy lodowce na całym świecie dramatycznie topnieją, ten błękitny gigant w Patagonii rzuca wyzwanie nauce. Od ponad pół wieku jego powierzchnia nie maleje, a badacze wciąż szukają odpowiedzi na pytanie: jak to możliwe? Poznaj historię niezwykłego fenomenu natury.</description>
-      <pubDate>Sat, 15 Aug 2026 15:28:00 GMT</pubDate>
-      <guid isPermaLink="false">40a5ef79e804</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-inne-lodowce-topnieja-a-ten-wciaz-rosnie-oto-jedno-z-najbard,nIdn,1013453">RMF24</source>
-    </item>
-    <item>
-      <title>Cyberbezpieczństwo. Liczba cyberataków na polski sektor zdrowia rośnie skokowo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ceaf7e05c9f5</link>
-      <description>&quot;Zagrożeni pacjenci. Cyberataki w ochronie zdrowia&quot; to rozdział z raportu &quot;Cyberodporność. Wersja polska&quot; przygotowany przez WNP Economic Trends. Możemy się z niego dowiedzieć m.in. dlaczego sektor ochrony zdrowia jest jednym z głównych celów cyberataków oraz dlaczego cyberatak na szpital może bezpośrednio zagrozić życiu pacjentów.</description>
-      <pubDate>Sat, 15 Aug 2026 15:21:00 GMT</pubDate>
-      <guid isPermaLink="false">ceaf7e05c9f5</guid>
-      <source url="https://www.rynekzdrowia.pl/E-zdrowie/Cyberbezpiecznstwo-Liczba-cyberatakow-na-polski-sektor-zdrowia-rosnie-skokowo,287723,7.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Nie tylko IT. Te zawody w Polsce dają teraz najwyższe pensje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e96b760867b5</link>
-      <description>Polski rynek pracy przechodzi technologiczną rewolucję, która bezwzględnie weryfikuje dotychczasowe ścieżki kariery. Szeroka wiedza ogólna i dyplom prestiżowej uczelni przestają wystarczać – dziś wygrywają ci, którzy postawili na konkretną specjalizację. Co piąty pracownik w Polsce stoi w obliczu konieczności przekwalifikowania, podczas gdy eksperci od AI oraz... „złote rączki” zarabiają dziś rekordowe sumy. Kto najszybciej bogaci się na tych zmianach?</description>
-      <pubDate>Sat, 15 Aug 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="false">e96b760867b5</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-nie-tylko-it-te-zawody-w-polsce-daja-teraz-najwyzsze-pensje,nIdn,1013547">RMF24</source>
-    </item>
-    <item>
-      <title>Five injured, one critically, in shooting at Virginia State University</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/948a30109573</link>
-      <description>Multiple suspects were involved in the incident in the early hours of Saturday, the university said.</description>
-      <pubDate>Sat, 15 Aug 2026 15:09:59 GMT</pubDate>
-      <guid isPermaLink="false">948a30109573</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Zapaliła się hałda odpadów, 10 zastępów w akcji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2cc42a8e7e48</link>
-      <description>Pożar wybuchł w sobotę przed południem. Ogień pojawił się na terenie zakładu zajmującego się utylizacją odpadów w Wardyniu Górnym w powiecie świdwińskim. Żywioł strawił hałdę odpadów. Dym widoczny był z daleka.</description>
-      <pubDate>Sat, 15 Aug 2026 15:07:38 GMT</pubDate>
-      <guid isPermaLink="false">2cc42a8e7e48</guid>
-      <source url="https://tvn24.pl/szczecin/wardyn-gorny-pozar-w-zakladzie-gospodarki-odpadami-10-zastepow-strazy-pozarnej-w-akcji-st9191424?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Recenzja Majster Symulator. Fani Parkside zachwyceni, a reszta?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/234da2cb087f</link>
-      <description>W życiu ważne jest, aby robić, lecz się nie narobić - i zachowywać przy tym pozory dobrze wykonanej pracy, choć w rzeczywistości odwalamy kawał fuszer...</description>
-      <pubDate>Sat, 15 Aug 2026 15:00:37 GMT</pubDate>
-      <guid isPermaLink="false">234da2cb087f</guid>
-      <source url="https://antyweb.pl/fani-parkside-beda-zachwyceni-majster-symulator-to-gra-ich-marzen">Antyweb</source>
-    </item>
-    <item>
-      <title>Jedna z nich powstała z piasku z Sahary. Oto najpiękniejsze plaże Wysp Kanaryjskich</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/099cfdae0eeb</link>
-      <description>Złocisty piasek z Sahary, turkusowe laguny i czarna, wulkaniczna lawa – plaże Wysp Kanaryjskich kryją w sobie niezwykłe kontrasty. Choć archipelag ten kojarzy się z popularnymi kurortami, wciąż można tu znaleźć dzikie, bezludne zakątki, o których wie niewielu turystów. Planujesz urlop w tym raju? Sprawdź nasz subiektywny ranking 14 najpiękniejszych plaż, które po prostu musisz zobaczyć na własne oczy.</description>
-      <pubDate>Sat, 15 Aug 2026 14:52:00 GMT</pubDate>
-      <guid isPermaLink="false">099cfdae0eeb</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-jedna-z-nich-powstala-z-piasku-z-sahary-oto-najpiekniejsze-p,nIdn,1013275">RMF24</source>
-    </item>
-    <item>
-      <title>Astronomiczna prognoza przychodów Anthropic. Szansa na największy debiut giełdowy w historii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/388ce46711bf</link>
-      <description>Producent chatbota Claude przygotowuje się do wejścia na giełdę. Firma Anthropic może przeprowadzić jedną z największych pierwszych ofert publicznych (IPO) w historii. Szacowane przychody spółki za dwa lata mają sięgać nawet 200 miliardów dolarów - przekazał Reuters.</description>
-      <pubDate>Sat, 15 Aug 2026 14:48:44 GMT</pubDate>
-      <guid isPermaLink="false">388ce46711bf</guid>
-      <source url="https://tvn24.pl/biznes/tech/anthropic-astronomiczna-prognoza-przychodow-producenta-claude-jest-szansa-na-najwiekszy-debiut-gieldowy-w-historii-st9191431?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Jak poradzić sobie z prokrastynacją? Psycholożka podaje pięć sposobów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8882f25899ca</link>
-      <description>Odkładanie obowiązków nie zawsze wynika z lenistwa czy braku dobrej organizacji. Jego źródłem może być lęk przed porażką, utrwalony sposób działania, a niekiedy również kryzys psychiczny. - Zawsze coś się za nim kryje i zwykle warto się tym zaopiekować - mówi Katarzyna Kucewicz, psycholożka, i podaje pięć sposobów na poradzenie sobie z prokrastynacją.</description>
-      <pubDate>Sat, 15 Aug 2026 14:45:53 GMT</pubDate>
-      <guid isPermaLink="false">8882f25899ca</guid>
-      <source url="https://tvn24.pl/zdrowie/prokrastynacja-piec-sposobow-od-psycholozki-jak-ja-pokonac-st9190229?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zamiast windy wybierz schody. To najprostszy sposób na zdrowe serce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d8baa7eb86c7</link>
-      <description>Przeanalizowali dane niemal pół miliona ludzi i doszli do uderzających wniosków. Regularne wchodzenie po schodach zmniejsza ryzyko śmierci z powodu chorób serca aż o 39 procent. Naukowcy udowodnili, że nie potrzebujesz drogich karnetów na siłownię ani godzin wolnego czasu, aby realnie zmniejszyć ryzyko zawału i udaru.</description>
-      <pubDate>Sat, 15 Aug 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="false">d8baa7eb86c7</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-zamiast-windy-wybierz-schody-to-najprostszy-sposob-na-zdrowe,nIdn,1013591">RMF24</source>
-    </item>
-    <item>
-      <title>Bonnie Tyler fans line the streets as coffin taken to Swansea home</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/27feb9e3a5ed</link>
-      <description>The Total Eclipse of the Heart singer died last month in a hospital in Portugal.</description>
-      <pubDate>Sat, 15 Aug 2026 14:40:47 GMT</pubDate>
-      <guid isPermaLink="false">27feb9e3a5ed</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
