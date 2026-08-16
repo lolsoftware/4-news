@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 16 Aug 2026 05:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:02:02 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Lekarz po specjalizacji nadal będzie musiał się doszkalać. Ministerstwo szykuje zmiany</title>
@@ -14,6 +14,38 @@
       <pubDate>Sun, 16 Aug 2026 07:32:00 GMT</pubDate>
       <guid isPermaLink="false">3c0c86de2422</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Lekarz-po-specjalizacji-nadal-bedzie-musial-sie-doszkalac-Ministerstwo-szykuje-zmiany,287719,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Hawaii battles strong winds and rain as Hurricane Lala threat looms</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a997206ce31</link>
+      <description>If the storm makes landfall, it will be Hawaii&apos;s first direct hit by a hurricane in 34 years.</description>
+      <pubDate>Sun, 16 Aug 2026 06:53:22 GMT</pubDate>
+      <guid isPermaLink="false">2a997206ce31</guid>
+      <source url="https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Prezydent reaguje na wypadek autokaru na Węgrzech. „Zginęło tak wielu naszych Rodaków”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9086fc3bab1f</link>
+      <description>„Z głębokim bólem przyjąłem tragiczną wiadomość o wypadku polskiego autokaru na Węgrzech, w którym zginęło tak wielu naszych Rodaków. W obliczu tej niewyobrażalnej tragedii, która dotknęła nas wszystkich, łączę się w modlitwie i głębokim współczuciu z rodzinami oraz bliskimi ofiar” - napisał prezydent Karol Nawrocki.</description>
+      <pubDate>Sun, 16 Aug 2026 06:53:00 GMT</pubDate>
+      <guid isPermaLink="false">9086fc3bab1f</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-prezydent-reaguje-na-wypadek-autokaru-na-wegrzech-zginelo-ta,nIdn,1013849">RMF24</source>
+    </item>
+    <item>
+      <title>Para wpadła do jeziora, kobieta była w ciąży. Oboje nie żyją</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6f34ad11965e</link>
+      <description>Siemirowice w gminie Cewice: Para wpadła do jeziora, oboje nie żyją, kobieta była w ciąży. Tragedia na Pomorzu.</description>
+      <pubDate>Sun, 16 Aug 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="false">6f34ad11965e</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-para-wpadla-do-jeziora-kobieta-byla-w-ciazy-oboje-nie-zyja,nIdn,1013846">RMF24</source>
+    </item>
+    <item>
+      <title>Wypadek polskiego autokaru na Węgrzech. 12 osób nie żyje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4257414e1703</link>
+      <description>12 osób nie żyje, a co najmniej 10 zostało rannychwypadku polskiego autokaru na Węgrzech. Informacje przekazał węgierski premier Peter Magyar.</description>
+      <pubDate>Sun, 16 Aug 2026 05:58:00 GMT</pubDate>
+      <guid isPermaLink="false">4257414e1703</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wypadek-polskiego-autokaru-na-wegrzech-12-osob-nie-zyje,nIdn,1013848">RMF24</source>
     </item>
     <item>
       <title>Sałata o właściwościach mięsa? Naukowcy dokonali niemożliwego</title>
@@ -30,6 +62,14 @@
       <pubDate>Sun, 16 Aug 2026 05:41:00 GMT</pubDate>
       <guid isPermaLink="false">813a963fdd82</guid>
       <source url="https://www.rmf24.pl/regiony/krakow/news-dwa-zweglone-ciala-ogromna-tragedia-malopolsce,nIdn,1013845">RMF24</source>
+    </item>
+    <item>
+      <title>Dwa zwęglone ciała. Ogromna tragedia w Małopolsce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a37fe315b79</link>
+      <description>W nocy z soboty na niedzielę w miejscowości Dąbrówka Szczepanowska (powiat tarnowski) doszło do tragicznego pożaru drewnianego domu. Ogień objął cały budynek jeszcze przed przyjazdem służb ratunkowych. Niestety dwie osoby zginęły, a jednej udzielono pomocy medycznej.</description>
+      <pubDate>Sun, 16 Aug 2026 05:41:00 GMT</pubDate>
+      <guid isPermaLink="false">8a37fe315b79</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-dwa-zweglone-ciala-ogromna-tragedia-w-malopolsce,nIdn,1013845">RMF24</source>
     </item>
     <item>
       <title>Zmasowany atak rakietowo-dronowy. Rosja uderzyła m.in. w Kijów i Krzywy Róg</title>
@@ -70,6 +110,14 @@
       <pubDate>Sun, 16 Aug 2026 04:56:00 GMT</pubDate>
       <guid isPermaLink="false">becf29323aad</guid>
       <source url="https://www.rmf24.pl/fakty/nauka/news-czy-twoj-kot-naprawde-cie-kocha-te-4-sygnaly-zdradzaja-jego-,nIdn,1013285">RMF24</source>
+    </item>
+    <item>
+      <title>Walizki narzędziowe Parkside pod lupą. Te rozwiązania naprawdę mają sens!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51356103a6a4</link>
+      <description>Gotowa walizka z narzędziami to jeden z najprostszych sposobów na skompletowanie tego, co najbardziej potrzebne wdomowym warsztacie. Parkside ma w swojej ofercie kilka takich rozwiązań. Nie zabrakło też pustych walizek do samodzielnego wypełnienia sprzętem. Sprawdźmy, czym się różnią i który zestaw warto wybrać.</description>
+      <pubDate>Sun, 16 Aug 2026 04:45:33 GMT</pubDate>
+      <guid isPermaLink="false">51356103a6a4</guid>
+      <source url="https://antyweb.pl/walizki-narzedziowe-parkside-porownanie">Antyweb</source>
     </item>
     <item>
       <title>Pięć rzeczy, które warto dziś wiedzieć</title>
@@ -274,6 +322,14 @@ Ogniem objęte były trzy budynki na terenie skansenu. Ogień jest już opanowan
       <source url="https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/">Ars Technica</source>
     </item>
     <item>
+      <title>Abdominal fat predicts heart disease risk better than BMI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7980d8d5d269</link>
+      <description>Contact: Olivia Walther, owalther@acc.org ,</description>
+      <pubDate>Sat, 15 Aug 2026 21:14:34 GMT</pubDate>
+      <guid isPermaLink="false">7980d8d5d269</guid>
+      <source url="https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi">Hacker News</source>
+    </item>
+    <item>
       <title>Hunt wins third gold as Asher-Smith makes history</title>
       <link>https://lolsoftware.github.io/4-news/#/article/513e9f255eb3</link>
       <description>Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.</description>
@@ -338,76 +394,20 @@ Ogniem objęte były trzy budynki na terenie skansenu. Ogień jest już opanowan
       <source url="https://www.rmf24.pl/fakty/sport/news-mamy-srebro-natalia-bukowiecka-na-podium-mistrzostw-europy-w,nIdn,1013841">RMF24</source>
     </item>
     <item>
+      <title>Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1a64cd2bc9fd</link>
+      <description>Super El Niño continues to strengthen as new forecasts push toward record levels, with Fall and Winter 2026/2027 impacts emerging across the United States, Canada, and Europe</description>
+      <pubDate>Sat, 15 Aug 2026 19:20:51 GMT</pubDate>
+      <guid isPermaLink="false">1a64cd2bc9fd</guid>
+      <source url="https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/">Hacker News</source>
+    </item>
+    <item>
       <title>AI in drug discovery — what it is, where we stand and the path forward</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9299c5f958b0</link>
       <description>Artificial intelligence (AI) in drug discovery has attracted increasing interest over the past decade. It is now time for a critical review of progress in the field: where did we advance — and where are we yet to see impact — when it comes to what matters in drug discovery, which is to deliver safer and more efficacious medicines to patients faster? Although a wide variety of AI methods have been developed, applied and benchmarked, evidence of their clinically relevant impact is, so far, disappointingly limited. In this Perspective we discuss potential reasons, including an insufficient focus on clinical translation during model development, difficulties with applying AI algorithms on conditional life science data, and insufficient problem definitions and the resulting underspecification of computational models for real-world use cases. ‘Technology push’ compared with ‘science pull’ is also likely to be an underlying factor, as well as the substantial time required to operationalize technical capabilities into systems that are sufficiently scaled and accessible for users. We provide recommendations for the development of AI in drug discovery with the aim of increasing its translational relevance. For example, benchmarking studies of AI tools in drug discovery need to move on from model validation and instead focus on their ability to improve decision making. Applications of artificial intelligence (AI) in drug discovery have attracted high interest in recent years, but evidence for clinically relevant impact so far is limited. This Perspective discusses potential reasons, including an insufficient focus on clinical translation during model development and difficulties with applying AI algorithms on conditional life science data, and provides recommendations for the development of AI in drug discovery.</description>
       <pubDate>Sat, 15 Aug 2026 19:12:53 GMT</pubDate>
       <guid isPermaLink="false">9299c5f958b0</guid>
       <source url="https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41573-026-01496-2&amp;code=2b0750e6-d20b-4cce-9e28-1b0f365d3fbe">Hacker News</source>
-    </item>
-    <item>
-      <title>AI in drug discovery – what it is, where we stand and the path forward</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/441022e5503b</link>
-      <description>Comments</description>
-      <pubDate>Sat, 15 Aug 2026 19:12:53 GMT</pubDate>
-      <guid isPermaLink="false">441022e5503b</guid>
-      <source url="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">Hacker News</source>
-    </item>
-    <item>
-      <title>Koniec z telefonami od telemarketerów? Wprowadzili radykalne przepisy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/aa5f615dbad8</link>
-      <description>We Francji wprowadzono obowiązujący od wtorku zakaz niechcianych połączeń telemarketingowych w firmach wszystkich sektorów. Połączenia będą dozwolone wyłącznie wtedy, gdy będą dotyczyć umowy, którą dana osoba już zawarła, lub gdy firma uzyskała wcześniej zgodę na kontakt w celach marketingowych.</description>
-      <pubDate>Sat, 15 Aug 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="false">aa5f615dbad8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Koniec-z-telefonami-od-telemarketerow-Wprowadzili-radykalne-przepisy-9180913.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Znany od lat lek pomagać schudnąć. Kosztuje kilka złotych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1be9e0f06640</link>
-      <description>Metformina od lat jest jednym z najczęściej stosowanych leków w leczeniu cukrzycy typu 2, ale u części pacjentów towarzyszy jej również umiarkowany spadek masy ciała. Naukowcy ze Stanford i Harvard Medical School odkryli mechanizm, który może za to odpowiadać. Lek zwiększa poziom cząsteczki Lac-Phe, która powstaje także po intensywnym wysiłku i może ograniczać apetyt.</description>
-      <pubDate>Sat, 15 Aug 2026 19:10:00 GMT</pubDate>
-      <guid isPermaLink="false">1be9e0f06640</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Znany-od-lat-lek-pomagac-schudnac-Kosztuje-kilka-zlotych,287781,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&apos;Fury&apos; at Tarling death as cycling union calls for better helmets</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d879bda41f0</link>
-      <description>The cyclists&apos; union expresses &quot;fury&quot; over the death of British rider Fin Tarling during Friday&apos;s stage of the Volta a Portugal.</description>
-      <pubDate>Sat, 15 Aug 2026 19:05:32 GMT</pubDate>
-      <guid isPermaLink="false">8d879bda41f0</guid>
-      <source url="https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Maja Chwalińska gra dalej. Polka zameldowała się w kolejnej rundzie turnieju w Cincinnati</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f94241a58e70</link>
-      <description>Rozstawiona z numerem 19. Maja Chwalińska wygrała z Hiszpanką Cristiną Bucsą 6:2, 6:2 i awansowała do trzeciej rundy turnieju WTA 1000 na twardych kortach w Cincinnati. To pierwsze wygrane spotkanie w karierze 24-letniej polskiej tenisistki w zawodach tej rangi.</description>
-      <pubDate>Sat, 15 Aug 2026 19:03:00 GMT</pubDate>
-      <guid isPermaLink="false">f94241a58e70</guid>
-      <source url="https://www.rmf24.pl/tenis/news-maja-chwalinska-gra-dalej-polka-zameldowala-sie-w-kolejnej-r,nIdn,1013840">RMF24</source>
-    </item>
-    <item>
-      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/569c4523c8fc</link>
-      <description>How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?</description>
-      <pubDate>Sat, 15 Aug 2026 18:58:39 GMT</pubDate>
-      <guid isPermaLink="false">569c4523c8fc</guid>
-      <source url="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Dwie kozy wsiadły do miejskiego autobusu. Nagranie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f12755b338ec</link>
-      <description>Pasażerowie miejskiego autobusu w Portland w stanie Oregon mieli dość nietypowych towarzyszy podróży. Na przystanku pojawiły się dwie kozy pigmejskie, które wsiadły do pojazdu.</description>
-      <pubDate>Sat, 15 Aug 2026 18:55:45 GMT</pubDate>
-      <guid isPermaLink="false">f12755b338ec</guid>
-      <source url="https://tvn24.pl/tvnmeteo/ciekawostki/usa-portland-kozy-wsiadly-do-autobusu-nagranie-st9191533?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Budujemy dowództwa domenowe&quot;. Generał Wojciech Król tłumaczy transformację dowodzenia w wojsku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8901e682f50a</link>
-      <description>W 2013 roku wydawało nam się, że będziemy tylko i wyłącznie musieli realizować zadania daleko poza terytorium Rzeczypospolitej - mówił w &quot;Faktach po Faktach&quot; generał broni Krzysztof Król, który tłumaczył na czym mają polegać zmiany w dowodzeniu w Wojsku Polskim.</description>
-      <pubDate>Sat, 15 Aug 2026 18:53:27 GMT</pubDate>
-      <guid isPermaLink="false">8901e682f50a</guid>
-      <source url="https://tvn24.pl/polska/general-broni-wojciech-krol-o-transformacji-dowodzenia-w-wojsku-polskim-budujemy-dowodztwa-domenowe-st9191580?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
