@@ -5,8 +5,56 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 16 Aug 2026 16:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:50:21 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stany zapalne i &quot;dziurawe&quot; jelita. Dowody są wystarczające</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f51024119b5</link>
+      <description>Są w słodyczach, napojach, pieczywie i wielu gotowych produktach. Poprawiają smak, kolor i trwałość żywności, ale naukowcy wskazują, że niektóre z nich mogą niekorzystnie wpływać na jelita, zmieniając mikrobiom, nasilając stan zapalny i wpływając na barierę jelitową.</description>
+      <pubDate>Sun, 16 Aug 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">3f51024119b5</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Stany-zapalne-i-dziurawe-jelita-Dowody-sa-wystarczajace,287792,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Dwie dziennie mogą chronić wątrobę przed bliznowaceniem. Lekarze podpowiadają</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9ea0450327cd</link>
+      <description>Wątroba uczestniczy w setkach procesów zachodzących w organizmie, ale nadmiar kalorii, alkohol i niewłaściwa dieta mogą stopniowo pogarszać jej kondycję. Hepatolodzy wskazują kilka prostych zasad, które pomagają o nią zadbać. Na liście znalazły się m.in. ograniczenie cukru i alkoholu, utrzymanie prawidłowej masy ciała, codzienny ruch, a także picie kawy.</description>
+      <pubDate>Sun, 16 Aug 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="false">9ea0450327cd</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Dwie-dziennie-moga-chronic-watrobe-przed-bliznowaceniem-Lekarze-podpowiadaja,287790,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>I&apos;ve built a free, open-source local and remote memory system for agentw and CL</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/146cb42a280c</link>
+      <description>Your agent re-solves yesterday&apos;s problem because nothing wrote it down. The fix isn&apos;t a platform you adopt — it&apos;s one command, a folder you own, and a loop that closes on your own disk. And when a team needs the same lore, it&apos;s a free account, one install with your key, and one command to bring everything you&apos;ve already learned along.</description>
+      <pubDate>Sun, 16 Aug 2026 18:03:09 GMT</pubDate>
+      <guid isPermaLink="false">146cb42a280c</guid>
+      <source url="https://www.lorekit.io/blog/give-your-agent-a-memory">Hacker News</source>
+    </item>
+    <item>
+      <title>Specjalny polski samolot leci na Węgry. Wiceministra zdrowia o szczegółach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6a228f0b2382</link>
+      <description>„Do Budapesztu leci z nami 6 medyków (anestezjolog, chirurg, ortopeda, 3 ratowników medycznych); dokonają z węgierskimi lekarzami traiżu, czyli oceny stanu zdrowia poszkodowanych. Razem z lekarzami węgierskimi podejmiemy decyzję o przewożeniu poszkodowanych do kraju” – powiedziała wiceministra zdrowia, Katarzyna Kacperczyk, podczas konferencji prasowej przed wylotem specjalnego polskiego samolotu na Węgry. Minionej nocy 12 zginęło, a 10 zostało ciężko rannych w wypadku polskiego autokaru, którym polscy pielgrzymi wracali z Bośni i Hercegowiny, z Medjugorie.</description>
+      <pubDate>Sun, 16 Aug 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="false">6a228f0b2382</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-specjalny-polski-samolot-leci-na-wegry-wiceministra-zdrowia-,nIdn,1013886">RMF24</source>
+    </item>
+    <item>
+      <title>Mocne wejście w sezon piłkarzy Arsenalu. Nie dali szans Manchesterowi City w meczu o Tarcze Wspólnoty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/278f143d115f</link>
+      <description>Piłkarze mistrza Anglii Arsenalu Londyn pokonali w Cardiff zdobywcę krajowego pucharu Manchester City 3:0 (2:0) i zdobyli Tarczę Wspólnoty. „Kanonierzy” wywalczyli to trofeum po raz 18. w historii i brakuje im jeszcze trzech triumfów do wyrównania rekordu należącego do Manchesteru United.</description>
+      <pubDate>Sun, 16 Aug 2026 17:32:00 GMT</pubDate>
+      <guid isPermaLink="false">278f143d115f</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-mocne-wejscie-w-sezon-pilkarzy-arsenalu-nie-dali-szans-manch,nIdn,1013884">RMF24</source>
+    </item>
+    <item>
+      <title>Watch moment police arrest wanted man while he slept on roof</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9492f09203ba</link>
+      <description>Two police officers suffered minor injuries during the incident, Greater Manchester Police say.</description>
+      <pubDate>Sun, 16 Aug 2026 17:17:10 GMT</pubDate>
+      <guid isPermaLink="false">9492f09203ba</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
     <item>
       <title>Chorwacki intelektualista: dla młodych Chorwatów Polska to kraj sukcesu gospodarczego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c8eb2b3b9c4c</link>
@@ -14,6 +62,38 @@
       <pubDate>Sun, 16 Aug 2026 17:07:00 GMT</pubDate>
       <guid isPermaLink="false">c8eb2b3b9c4c</guid>
       <source url="https://www.bankier.pl/wiadomosc/Chorwacki-intelektualista-dla-mlodych-Chorwatow-Polska-to-kraj-sukcesu-gospodarczego-9182936.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ef5795694b3</link>
+      <description>Comments</description>
+      <pubDate>Sun, 16 Aug 2026 17:01:07 GMT</pubDate>
+      <guid isPermaLink="false">0ef5795694b3</guid>
+      <source url="https://rvembedded.com/blog_post/12/">Hacker News</source>
+    </item>
+    <item>
+      <title>Marvel&apos;s Wolverine zbiera oklep przed premierą. Wstrzymajcie się z preorderem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6348f4983286</link>
+      <description>Marvel’s Wolverine miał być dla PlayStation mocnym zakończeniem obecnej generacji, ale im bliżej premiery, tym więcej pojawia się sygnałów, że zamiast hitu dostaniemy co najwyżej solidnego średniaka.</description>
+      <pubDate>Sun, 16 Aug 2026 17:00:40 GMT</pubDate>
+      <guid isPermaLink="false">6348f4983286</guid>
+      <source url="https://antyweb.pl/marvels-wolverine-zbiera-oklep-przed-premiera-wstrzymajcie-sie-z-pre-orderem">Antyweb</source>
+    </item>
+    <item>
+      <title>Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/31bad0791a5e</link>
+      <description>Dario Amodei is pushing back against the idea that he&apos;s been painting an overly pessimistic picture of AI.</description>
+      <pubDate>Sun, 16 Aug 2026 16:53:51 GMT</pubDate>
+      <guid isPermaLink="false">31bad0791a5e</guid>
+      <source url="https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Atak na policjantów na Zamojszczyźnie: Agresor rzucał nożem, siekierą i maczetą</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56b18ba3240c</link>
+      <description>Niebezpieczny incydent na Zamojszczyźnie. Mieszkaniec Krzywegostoku (woj. lubelskie) rzucał w kierunku interweniujących policjantów nożem, siekierą i maczetą.</description>
+      <pubDate>Sun, 16 Aug 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="false">56b18ba3240c</guid>
+      <source url="https://www.rmf24.pl/regiony/lublin/news-atak-na-policjantow-na-zamojszczyznie-agresor-rzucal-nozem-s,nIdn,1013883">RMF24</source>
     </item>
     <item>
       <title>Sieci handlowe będą musiały ujawnić producentów swoich marek własnych</title>
@@ -46,6 +126,14 @@
       <pubDate>Sun, 16 Aug 2026 16:26:00 GMT</pubDate>
       <guid isPermaLink="false">6fd1b0222d3a</guid>
       <source url="https://www.bankier.pl/wiadomosc/AI-pisze-prace-za-uczniow-Dania-reaguje-Polska-wybiera-inne-rozwiazanie-9182957.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>NIH is ending a key grant for budding clinical researchers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8895c6b21637</link>
+      <description>Comments</description>
+      <pubDate>Sun, 16 Aug 2026 16:14:55 GMT</pubDate>
+      <guid isPermaLink="false">8895c6b21637</guid>
+      <source url="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">Hacker News</source>
     </item>
     <item>
       <title>Two dead and evacuation under way as fires break out on Greek island</title>
@@ -318,96 +406,6 @@
       <pubDate>Sun, 16 Aug 2026 13:39:13 GMT</pubDate>
       <guid isPermaLink="false">19428813df7a</guid>
       <source url="https://tvn24.pl/swiat/rumunia-zestrzelony-dron-wydaje-sie-rosyjski-nato-szczegoly-dotyczace-incydentu-sa-nadal-badane-st9192462?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Four &apos;extraordinary&apos; Renaissance paintings stolen from Italian museum</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/45c343354fa3</link>
-      <description>The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.</description>
-      <pubDate>Sun, 16 Aug 2026 13:34:38 GMT</pubDate>
-      <guid isPermaLink="false">45c343354fa3</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>&quot;Wszystkie siedzenia powyrywane, ludzie pod fotelami&quot;. Wstrząsająca relacja z wypadku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cf8f539df966</link>
-      <description>Autobus się przewrócił, przekoziołkował. Wszystkie siedzenia były powyrywane, ludzie byli pod fotelami. Wszyscy krzyczeli: &quot;ratunku&quot; - relacjonowała pani Helena, jedna z uczestniczek tragicznego wypadku polskiego autokaru na Węgrzech. Kobieta została ranna, ale mimo obrażeń pomagała wydostać się innym pasażerom. Swoją siostrę wyciągnęła z wraku za nogi.</description>
-      <pubDate>Sun, 16 Aug 2026 13:32:56 GMT</pubDate>
-      <guid isPermaLink="false">cf8f539df966</guid>
-      <source url="https://tvn24.pl/rzeszow/wszystkie-siedzenia-powyrywane-ludzie-pod-fotelami-wstrzasajaca-relacja-z-wypadku-st9192461?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Tasklet (YC P26) Is Hiring a Head of Design Engineering</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/82ee6efc4ff4</link>
-      <description>This creates a defining product-design challenge: inventing how people and teams work with AI that does real work, not merely chats. We&apos;re looking for a Head of Design Engineering to own that experience holistically—making the entire product simple, intuitive, and beautiful, then personally implementing most of it in production.</description>
-      <pubDate>Sun, 16 Aug 2026 13:30:27 GMT</pubDate>
-      <guid isPermaLink="false">82ee6efc4ff4</guid>
-      <source url="https://tasklet.ai/careers/head-of-design-engineering">Hacker News</source>
-    </item>
-    <item>
-      <title>Postawiła się sztucznej inteligencji, trafiła do więzienia. Bunt przeciw AI przybiera na sile</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b3a5cf4150f2</link>
-      <description>69-letnia aktywistka rozpoczęła karę za blokadę siedziby OpenAI. Sprawa łączy granice protestu z rosnącym sporem o bezpieczeństwo AI.</description>
-      <pubDate>Sun, 16 Aug 2026 13:30:12 GMT</pubDate>
-      <guid isPermaLink="false">b3a5cf4150f2</guid>
-      <source url="https://antyweb.pl/wynd-kaufmyn-protest-anty-ai">Antyweb</source>
-    </item>
-    <item>
-      <title>Show HN: A public AI whose memory is shared across all users</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0f936c6ac057</link>
-      <description>One AI with one memory that everybody shares. Say something to it. It answers what catches it, and it remembers what you did to it.</description>
-      <pubDate>Sun, 16 Aug 2026 13:21:45 GMT</pubDate>
-      <guid isPermaLink="false">0f936c6ac057</guid>
-      <source url="https://wildstatic.com/">Hacker News</source>
-    </item>
-    <item>
-      <title>Upały w Europie tworzą &quot;lukę ubezpieczeniową&quot;. &quot;Równie dotkliwe, co powódź czy huragan&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f32027fca631</link>
-      <description>Europa zmaga się z piątą w tym roku falą upałów. Wysokie temperatury uderzają w przedsiębiorców obniżając wydajność pracy, podnosząc koszty i hamując wydatki konsumentów. Jednak upał nie mieści się w ramach tradycyjnych ubezpieczeń, co pogłębia tak zwaną lukę ubezpieczeniową - podaje Reuters.</description>
-      <pubDate>Sun, 16 Aug 2026 13:20:59 GMT</pubDate>
-      <guid isPermaLink="false">f32027fca631</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/fala-upalow-wysokie-temperatury-w-europie-tworza-luke-ubezpieczeniowa-rownie-dotkliwe-co-powodz-czy-huragan-st9192248?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Pielęgniarki chcą lepszej kontroli lekarzy. &quot;Medyk nadal może być w dwóch miejscach naraz&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/334a888a13af</link>
-      <description>Nowe raportowanie czasu pracy medyków ma ograniczyć sytuacje, w których ta sama osoba figuruje jednocześnie w kilku miejscach. Zdaniem Ogólnopolskiego Związku Zawodowego Pielęgniarek i Położnych projekt tego nie zapewni, bo obejmie tylko leczenie szpitalne.</description>
-      <pubDate>Sun, 16 Aug 2026 13:20:00 GMT</pubDate>
-      <guid isPermaLink="false">334a888a13af</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Pielegniarki-chca-lepszej-kontroli-lekarzy-Medyk-nadal-moze-byc-w-dwoch-miejscach-naraz,287769,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Wypadek na jeziorze Brożówka. Nie żyje jedna osoba</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/449f0ee34df4</link>
-      <description>Nie żyje 55-latek, który wypadł z kajaka na jeziorze Brożówka w gminie Kruklanki. Nie miał na sobie kapoka. Mężczyzna został wyciągnięty z wody i przetransportowany do szpitala, gdzie zmarł.</description>
-      <pubDate>Sun, 16 Aug 2026 13:11:23 GMT</pubDate>
-      <guid isPermaLink="false">449f0ee34df4</guid>
-      <source url="https://tvn24.pl/olsztyn/wypadek-na-jeziorze-brozowka-nie-zyje-jedna-osoba-st9192435?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Synoptycy IMGW: To już koniec upałów, od jutra ochłodzenie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/135b6e8cff80</link>
-      <description>Nadchodzi drastyczna zmiana pogody. Poniedziałek przyniesie dynamiczną aurę na południowym wschodzie Polski. Synoptycy Instytutu Meteorologii i Gospodarki Wodnej ostrzegają przed intensywnymi burzami i opadami deszczu, które lokalnie mogą sięgnąć nawet 40 mm w ciągu 12 godzin.</description>
-      <pubDate>Sun, 16 Aug 2026 13:04:00 GMT</pubDate>
-      <guid isPermaLink="false">135b6e8cff80</guid>
-      <source url="https://www.rmf24.pl/fakty/pogoda/news-synoptycy-imgw-to-juz-koniec-upalow-od-jutra-ochlodzenie,nIdn,1013870">RMF24</source>
-    </item>
-    <item>
-      <title>Firefox for iOS now has a native adblocker</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/51ee1c37ee66</link>
-      <description>A required part of this site couldn’t load. This may be due to a browser
-      extension, network issues, or browser settings. Please check your
-      connection, disable any ad blockers, or try using a different browser.</description>
-      <pubDate>Sun, 16 Aug 2026 12:58:10 GMT</pubDate>
-      <guid isPermaLink="false">51ee1c37ee66</guid>
-      <source url="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">Hacker News</source>
-    </item>
-    <item>
-      <title>Claude: System Prompts</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eb4edca3b5b8</link>
-      <description>See updates to the core system prompts on [claude.ai](https://claude.ai) and the [Claude iOS app](https://anthropic.com/ios) and [Claude Android app](https://anthropic.com/android).</description>
-      <pubDate>Sun, 16 Aug 2026 12:48:21 GMT</pubDate>
-      <guid isPermaLink="false">eb4edca3b5b8</guid>
-      <source url="https://platform.claude.com/docs/en/release-notes/system-prompts">Hacker News</source>
     </item>
   </channel>
 </rss>
