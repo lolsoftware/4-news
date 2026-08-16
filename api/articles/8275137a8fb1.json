@@ -1,0 +1,13 @@
+{
+  "id": "8275137a8fb1",
+  "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+  "originalTitle": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+  "publishedAt": "2026-08-16T04:02:38.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><section id=\"main-content\" aria-label=\"Today\" tabindex=\"-1\"> <!-- The day's narrative, above the filters because it describes the whole scan date rather than the filtered subset below it. --> <section id=\"daily-briefing\" aria-labelledby=\"daily-briefing-heading\"> <h2 id=\"daily-briefing-heading\">Daily briefing</h2> </section> <!-- The day's Q&A sits directly under the briefing: the briefing says what changed, this answers what a reader would ask about it. Both describe the whole scan date, so both stay above the filters. --> <section id=\"daily-questions\" aria-labelledby=\"daily-questions-heading\"> <h2 id=\"daily-questions-heading\">Questions for today</h2> </section> <form id=\"filters\"> <label> Search </label> <label> Scan date </label> <label> Kind </label> <label> Category </label> <label> Source </label> <label> Organization </label> <label> Event </label> </form> <div> <div> <h2>Matching observations</h2> </div> </div> </section></div>",
+  "image": "images/0f5f274f01b9.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

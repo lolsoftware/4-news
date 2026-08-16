@@ -5,8 +5,217 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 15 Aug 2026 20:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 04:53:40 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pięć rzeczy, które warto dziś wiedzieć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7609f3cb1f9e</link>
+      <description>W Warszawie i Gdyni odbyły się obchody Święta Wojska Polskiego z udziałem polskich władz. Polki zdobyły medale na mistrzostwach Europy. Mamy prognozę pogody na końcówkę wakacji. Belgia mierzy się największym pożarem w historii kraju. Donald Trump złożył nową zapowiedź dotyczącą przyszłości cieśniny Ormuz. Oto pięć rzeczy, które warto wiedzieć w niedzielę 16 sierpnia.</description>
+      <pubDate>Sun, 16 Aug 2026 04:31:29 GMT</pubDate>
+      <guid isPermaLink="false">7609f3cb1f9e</guid>
+      <source url="https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-niedziele-16-sierpnia-najwazniejsze-informacje-st9191695?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>The quirky personal homepages of programming language creators</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/96d2b899e3d8</link>
+      <description>Flip through the personal homepages of programming language creators, ranked by their top PLDB language.</description>
+      <pubDate>Sun, 16 Aug 2026 04:24:00 GMT</pubDate>
+      <guid isPermaLink="false">96d2b899e3d8</guid>
+      <source url="https://breck.lol/plMakers.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Jak kupuje się władzę? I ile można na tym zarobić?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/28387e076119</link>
+      <description>Kiedy różnica między bogatymi a biednymi staje się zbyt duża, zwykle dochodzi do jednego z kilku scenariuszy. Do wojny. Do pandemii lub innych chorób, ponieważ ludzie znajdujący się na samym dole nie mają podstawowych warunków, by się chronić. Albo do społecznych niepokojów i wstrząsów - mówi Evan Osnos, amerykański dziennikarz i pisarz.</description>
+      <pubDate>Sun, 16 Aug 2026 04:23:21 GMT</pubDate>
+      <guid isPermaLink="false">28387e076119</guid>
+      <source url="https://tvn24.pl/swiat/jak-kupuje-sie-wladze-i-ile-mozna-na-tym-zarobic-st9184669?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Rescuers search for survivors of powerful Indonesia earthquake</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f7053cd9143e</link>
+      <description>Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.</description>
+      <pubDate>Sun, 16 Aug 2026 04:13:32 GMT</pubDate>
+      <guid isPermaLink="false">f7053cd9143e</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Ogromny pożar skansenu na Podkarpaciu. Płonął zabytkowy kościół</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f1e987997bc</link>
+      <description>Do ogromnego pożaru skansenu w Sanoku w województwie podkarpackim doszło w nocy z soboty na niedzielę. Informację, którą otrzymaliśmy na Gorącą Linie RMF FM potwierdził nam dyżurny Komendy Powiatowej Państwowej Straży Pożarnej w Sanoku.
+Ogniem objęte były trzy budynki na terenie skansenu. Ogień jest już opanowany i się nie rozprzestrzenia.</description>
+      <pubDate>Sun, 16 Aug 2026 04:09:00 GMT</pubDate>
+      <guid isPermaLink="false">8f1e987997bc</guid>
+      <source url="https://www.rmf24.pl/regiony/rzeszow/news-ogromny-pozar-skansenu-na-podkarpaciu-plonal-zabytkowy-kosci,nIdn,1013843">RMF24</source>
+    </item>
+    <item>
+      <title>I checked 30 frontier model cards. Here are the benchmarks labs report</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8275137a8fb1</link>
+      <description>A live ranking of the benchmarks reported in frontier model cards, system cards, and technical reports. Measures vendor reporting convention, not benchmark quality.</description>
+      <pubDate>Sun, 16 Aug 2026 04:02:38 GMT</pubDate>
+      <guid isPermaLink="false">8275137a8fb1</guid>
+      <source url="https://koutian.is-a.dev/benchmark-radar/?view=leaderboard">Hacker News</source>
+    </item>
+    <item>
+      <title>Zapping Rocks Unlocks Stimulated Geologic Hydrogen</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d8aa826fc365</link>
+      <description>Startup wields subterranean lightning strikes to conjure the gas</description>
+      <pubDate>Sun, 16 Aug 2026 02:36:10 GMT</pubDate>
+      <guid isPermaLink="false">d8aa826fc365</guid>
+      <source url="https://spectrum.ieee.org/stimulated-geologic-hydrogen">Hacker News</source>
+    </item>
+    <item>
+      <title>Patterns and problems in emerging multi-agent systems</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f87e14ef06b6</link>
+      <description>We ran experiments on swarms of Claude agents and found coordination failures, collusion, and sabotage. Here, we share what they mean for AI safety.</description>
+      <pubDate>Sun, 16 Aug 2026 02:12:53 GMT</pubDate>
+      <guid isPermaLink="false">f87e14ef06b6</guid>
+      <source url="https://www.anthropic.com/research/multiagent-systems">Hacker News</source>
+    </item>
+    <item>
+      <title>Ariana Grande leaves problems at home as her tour hits the UK</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b3e23f8cdb75</link>
+      <description>The star plays the first of 10 dates in London, after which she will &quot;step back&quot; from public life.</description>
+      <pubDate>Sun, 16 Aug 2026 02:01:42 GMT</pubDate>
+      <guid isPermaLink="false">b3e23f8cdb75</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Pożar skansenu w Sanoku. Zabytkowy kościół w ogniu  </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a1c9f0254730</link>
+      <description>Pożar wybuchł w nocy na terenie Muzeum Budownictwa Ludowego w Sanoku. Ogień zajął trzy zabytkowe budynki, w tym drewniany kościół. Pierwszą informację o zdarzeniu otrzymaliśmy na Kontakt24.</description>
+      <pubDate>Sun, 16 Aug 2026 01:51:49 GMT</pubDate>
+      <guid isPermaLink="false">a1c9f0254730</guid>
+      <source url="https://tvn24.pl/polska/pozar-skansenu-w-sanoku-zabytkowy-kosciol-w-ogniu-st9191685?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Guiding Ships with Moire Patterns</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0a69e00b5a49</link>
+      <description>I was inspired by Tom Scott’s excellent video and links here where he talks about a particular type of “Inogon” light used to guide ships through channels or harbours. The patent …</description>
+      <pubDate>Sun, 16 Aug 2026 01:26:44 GMT</pubDate>
+      <guid isPermaLink="false">0a69e00b5a49</guid>
+      <source url="https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Mic Drop, a real-time multiplayer karaoke game</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/015c3c757456</link>
+      <description>Comments</description>
+      <pubDate>Sun, 16 Aug 2026 00:46:29 GMT</pubDate>
+      <guid isPermaLink="false">015c3c757456</guid>
+      <source url="https://www.micdrop.gg/">Hacker News</source>
+    </item>
+    <item>
+      <title>Reform UK plan would overhaul welfare system with £50bn in savings</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7fb360b12ebb</link>
+      <description>The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.</description>
+      <pubDate>Sun, 16 Aug 2026 00:39:22 GMT</pubDate>
+      <guid isPermaLink="false">7fb360b12ebb</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Tea5767-Radio-Tuner</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/230379597ffa</link>
+      <description>ESP32-based FM radio with TEA5767 tuner, KY-040 rotary encoder, PAM8403 amplifier, and 0.96&quot; OLED display. Custom PCB design. - turtushig22-blip/tea5767-radio-tuner</description>
+      <pubDate>Sat, 15 Aug 2026 23:54:35 GMT</pubDate>
+      <guid isPermaLink="false">230379597ffa</guid>
+      <source url="https://github.com/turtushig22-blip/tea5767-radio-tuner">Hacker News</source>
+    </item>
+    <item>
+      <title>Britain&apos;s youngest Formula E driver says talent isn&apos;t enough anymore</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6b3a44a74496</link>
+      <description>Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues.</description>
+      <pubDate>Sat, 15 Aug 2026 23:46:52 GMT</pubDate>
+      <guid isPermaLink="false">6b3a44a74496</guid>
+      <source url="https://www.bbc.co.uk/news/articles/ckg40e24wnpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Unauthorised sites are growing but travellers say they are forced to break the law</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e323782d18da</link>
+      <description>The government says such developments are unacceptable – so why do they keep springing up?</description>
+      <pubDate>Sat, 15 Aug 2026 23:46:03 GMT</pubDate>
+      <guid isPermaLink="false">e323782d18da</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cpq3w8q0j9go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>I survived two years as prime minister in a hit new game - then my cabinet deserted me</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/141fbfd7c37e</link>
+      <description>Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart</description>
+      <pubDate>Sat, 15 Aug 2026 23:45:44 GMT</pubDate>
+      <guid isPermaLink="false">141fbfd7c37e</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>From making friends to managing money: Students&apos; advice for this year&apos;s freshers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9703a2153c28</link>
+      <description>BC News asked current students about the worries they had before arriving at university how they overcame them.</description>
+      <pubDate>Sat, 15 Aug 2026 23:45:15 GMT</pubDate>
+      <guid isPermaLink="false">9703a2153c28</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>What&apos;s driving men to get penis fillers, despite the risks?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d8a22f0aa6f9</link>
+      <description>Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong.</description>
+      <pubDate>Sat, 15 Aug 2026 23:42:33 GMT</pubDate>
+      <guid isPermaLink="false">d8a22f0aa6f9</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>The influencers getting bitten while chasing the perfect shark shot</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7adda2badf5d</link>
+      <description>Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.</description>
+      <pubDate>Sat, 15 Aug 2026 23:04:29 GMT</pubDate>
+      <guid isPermaLink="false">7adda2badf5d</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>The Papers: UK-made drones &apos;strike Russia&apos; and &apos;phone theft Britain&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c4f0b28a0360</link>
+      <description>Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.</description>
+      <pubDate>Sat, 15 Aug 2026 22:36:36 GMT</pubDate>
+      <guid isPermaLink="false">c4f0b28a0360</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c4gvv07ww42o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Software Engineering fundamentals matter more</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6c33fc4bc9e8</link>
+      <description>The manifestation of my imposter syndrome, for me and today, is what does it mean to be a software engineer. There’s a lot more noise than signal on the Internet about agentic engineering, wh…</description>
+      <pubDate>Sat, 15 Aug 2026 22:31:09 GMT</pubDate>
+      <guid isPermaLink="false">6c33fc4bc9e8</guid>
+      <source url="https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/">Hacker News</source>
+    </item>
+    <item>
+      <title>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/47c8acd498f0</link>
+      <description>The woman claimed that AI tools are &quot;taking everyday life and turning it into child sexual abuse.&quot;</description>
+      <pubDate>Sat, 15 Aug 2026 21:29:19 GMT</pubDate>
+      <guid isPermaLink="false">47c8acd498f0</guid>
+      <source url="https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/">TechCrunch</source>
+    </item>
+    <item>
+      <title>VisionQuest trailer kicks off Disney&apos;s D23 fan event</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/573070e71abc</link>
+      <description>Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU&apos;s X-Men and Star Wars: Starfighter...</description>
+      <pubDate>Sat, 15 Aug 2026 21:21:27 GMT</pubDate>
+      <guid isPermaLink="false">573070e71abc</guid>
+      <source url="https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Hunt wins third gold as Asher-Smith makes history</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/513e9f255eb3</link>
+      <description>Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.</description>
+      <pubDate>Sat, 15 Aug 2026 21:13:17 GMT</pubDate>
+      <guid isPermaLink="false">513e9f255eb3</guid>
+      <source url="https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Cultivating a state of mind where new ideas are born (2023)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c5bb51af2e22</link>
+      <description>Solitude, creativity, Bergman, Grothendieck, and the pursuit of great ideas.</description>
+      <pubDate>Sat, 15 Aug 2026 20:54:11 GMT</pubDate>
+      <guid isPermaLink="false">c5bb51af2e22</guid>
+      <source url="https://www.henrikkarlsson.xyz/p/good-ideas">Hacker News</source>
+    </item>
     <item>
       <title>Powoduje szkodliwe zmiany w jelitach. Zwiększa przepuszczalność</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f9bd7b74b8aa</link>
@@ -62,6 +271,14 @@
       <pubDate>Sat, 15 Aug 2026 19:12:53 GMT</pubDate>
       <guid isPermaLink="false">9299c5f958b0</guid>
       <source url="https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41573-026-01496-2&amp;code=2b0750e6-d20b-4cce-9e28-1b0f365d3fbe">Hacker News</source>
+    </item>
+    <item>
+      <title>AI in drug discovery – what it is, where we stand and the path forward</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/441022e5503b</link>
+      <description>Comments</description>
+      <pubDate>Sat, 15 Aug 2026 19:12:53 GMT</pubDate>
+      <guid isPermaLink="false">441022e5503b</guid>
+      <source url="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">Hacker News</source>
     </item>
     <item>
       <title>Koniec z telefonami od telemarketerów? Wprowadzili radykalne przepisy</title>
@@ -191,6 +408,14 @@ Nice to Have
       <source url="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">Hacker News</source>
     </item>
     <item>
+      <title>Why is Australia&apos;s mushroom killer back in court this week?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7d4c773588c9</link>
+      <description>The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.</description>
+      <pubDate>Sat, 15 Aug 2026 18:02:30 GMT</pubDate>
+      <guid isPermaLink="false">7d4c773588c9</guid>
+      <source url="https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>Fundusz zajrzy w grafiki, a lekarze rodzinni pytają: co mamy raportować i kto zobaczy dane?</title>
       <link>https://lolsoftware.github.io/4-news/#/article/dd59058d6964</link>
       <description>Porozumienie Zielonogórskie ma szereg zastrzeżeń do nowych zasad raportowania czasu pracy medyków. Lekarze pytają, jak wykazywać dyżur pod telefonem, konsultację zdalną, czasowe wyjście z oddziału czy pracę w kilku miejscach. Obawiają się też, że NFZ będzie gromadził bardzo szczegółowe dane o tym, gdzie i kiedy pracuje konkretny lekarz.</description>
@@ -213,230 +438,6 @@ Nice to Have
       <pubDate>Sat, 15 Aug 2026 17:54:46 GMT</pubDate>
       <guid isPermaLink="false">85035b744e64</guid>
       <source url="https://tvn24.pl/kujawsko-pomorskie/pomnik-matki-boskiej-w-konotopiu-poswiecony-tlumy-pielgrzymow-wsrod-gosci-lech-walesa-bylismy-na-miejscu-st9191447?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Koniec rachunków za prąd opartych na prognozach? Miliony nowych liczników w Polsce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bf36f692d5e7</link>
-      <description>Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podpisał umowy na 1 mld zł na zakup i montaż liczników zdalnego odczytu energii w gospodarstwach domowych i firmach w Polsce - poinformował Fundusz w poniedziałek. Dodał, że sfinansuje instalację niemal 5 mln takich liczników.</description>
-      <pubDate>Sat, 15 Aug 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">bf36f692d5e7</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Koniec-rachunkow-za-prad-opartych-na-prognozach-Miliony-nowych-licznikow-w-Polsce-9180303.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Polacy narzekają na brak czasu. Tyle godzin tygodniowo zostaje im na odpoczynek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/09f3f0b319f2</link>
-      <description>Połowa Polaków ma tyle czasu wolnego, ile potrzebuje, a 37 proc. twierdzi, że ma go zbyt mało – wynika z najnowszego badania CBOS. 27 proc. ankietowanych czyta wówczas książki, a 18 proc. ogląda telewizję i uprawia sport. Tylko 10 proc. poświęca go członkom rodziny.</description>
-      <pubDate>Sat, 15 Aug 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">09f3f0b319f2</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polacy-narzekaja-na-brak-czasu-Tyle-godzin-tygodniowo-zostaje-im-na-odpoczynek-9180782.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Akcja służb pod Poznaniem. Kobieta miała zostać postrzelona</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6eb2b30d5d3c</link>
-      <description>Kobieta miała zostać postrzelona w Swarzędzu, niedaleko Poznania – informują nieoficjalnie lokalne media. Poszkodowana trafiła do szpitala. Policja potwierdza jedynie, że „doszło do zdarzenia o charakterze kryminalnym”.</description>
-      <pubDate>Sat, 15 Aug 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="false">6eb2b30d5d3c</guid>
-      <source url="https://www.rmf24.pl/regiony/poznan/news-akcja-sluzb-pod-poznaniem-kobieta-miala-zostac-postrzelona,nIdn,1013834">RMF24</source>
-    </item>
-    <item>
-      <title>Gwiazdy futbolu zjechały do Wrocławia. Milan pokonał Manchester United</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6ea7374ab8c5</link>
-      <description>AC Milan pokonał Manchester United 4:2 w meczu towarzyskim rozegramy we Wrocławiu na Tarczyński Arena, gdzie na codzień swoje spotkania rozgrywają piłkarze ekstraklasowego Śląska. Spotkanie poprowadził Szymon Marciniak. Kibice, którzy tłumnie stawiali się na trybunach stadionu zobaczyli w sumie sześć bramek.</description>
-      <pubDate>Sat, 15 Aug 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="false">6ea7374ab8c5</guid>
-      <source url="https://www.rmf24.pl/pilka-nozna/news-gwiazdy-futbolu-zjechaly-do-wroclawia-milan-pokonal-manchest,nIdn,1013833">RMF24</source>
-    </item>
-    <item>
-      <title>Pilnie ograniczono pracę elektrowni jądrowej we Francji. Powód zaskakuje i szokuje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9802cb0fbc7e</link>
-      <description>Meduzy ponownie zatrzymały reaktory Gravelines. Jak zatkały system chłodzenia i dlaczego ochrona wdrożona po 2025 roku nie wystarczyła?</description>
-      <pubDate>Sat, 15 Aug 2026 17:30:24 GMT</pubDate>
-      <guid isPermaLink="false">9802cb0fbc7e</guid>
-      <source url="https://antyweb.pl/elektrownia-jadrowa-wylaczona-meduzy">Antyweb</source>
-    </item>
-    <item>
-      <title>Europe&apos;s scorched landscapes seen from space after summer heatwaves</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9444ebee3adb</link>
-      <description>From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought.</description>
-      <pubDate>Sat, 15 Aug 2026 17:21:26 GMT</pubDate>
-      <guid isPermaLink="false">9444ebee3adb</guid>
-      <source url="https://www.bbc.com/news/articles/c4gxy0wqqd9o">Hacker News</source>
-    </item>
-    <item>
-      <title>Mamy medal mistrzostw Europy. Katarzyna Wasick popłynęła po złoto</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/540264912089</link>
-      <description>Katarzyna Wasick zdobyła złoty medal na 50 metrów stylem dowolnym w odbywających się w Paryżu mistrzostwach Europy w pływaniu. Czasem 23,84 s ustanowiła rekord Polski.</description>
-      <pubDate>Sat, 15 Aug 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="false">540264912089</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-mamy-medal-mistrzostw-europy-katarzyna-wasick-poplynela-po-z,nIdn,1013836">RMF24</source>
-    </item>
-    <item>
-      <title>Zmarła piosenkarka Joanna Rawik</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/489411f9a90b</link>
-      <description>Aktorka i piosenkarka Joanna Rawik zmarła w wieku 92 lat. Znana była z takich piosenek jak &quot;Po co nam to było&quot;, &quot;Romantyczność&quot; oraz &quot;Nie chodź tą ulicą&quot;, a także jako wybitna interpretatorka piosenek Edith Piaf.</description>
-      <pubDate>Sat, 15 Aug 2026 17:09:13 GMT</pubDate>
-      <guid isPermaLink="false">489411f9a90b</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/joanna-rawik-nie-zyje-piosenkarka-miala-92-lata-st9191549?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>1500 km nowym Renault Clio w gazie. Auto z LPG może być cool</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ede2ced6bbd</link>
-      <description>LPG kojarzy się z oszczędnością, ale niekoniecznie z przyjemnością z jazdy – Renault Clio Eco-G 120 udowodniło mi, że oba światy można całkiem nieźle połączyć.</description>
-      <pubDate>Sat, 15 Aug 2026 17:00:41 GMT</pubDate>
-      <guid isPermaLink="false">7ede2ced6bbd</guid>
-      <source url="https://antyweb.pl/1500-km-nowym-renault-clio-w-gazie-auto-z-lpg-moze-byc-cool">Antyweb</source>
-    </item>
-    <item>
-      <title>Polska ma nowy monumentalny symbol. Gigantyczną figurę Matki Bożej ufundował Roman Karkosik</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ed915680dab2</link>
-      <description>Pomnik Matki Bożek Miłosiernej wysokości 55,6 m został w sobotę poświęcony w miejscowości Konotopie (woj. kujawsko-pomorskie) przez ordynariusza diecezji włocławskiej bp. Krzysztofa Wętkowskiego. Gościem uroczystości był były prezydent Lech Wałęsa.</description>
-      <pubDate>Sat, 15 Aug 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="false">ed915680dab2</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polska-ma-nowy-monumentalny-symbol-Gigantyczna-figure-Matki-Bozej-ufundowal-Roman-Karkosik-9182882.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Belgia. Największy pożar w historii kraju. Władze ogłaszają pierwsze ewakuacje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ee187460f859</link>
-      <description>Na wschodzie Belgii płonie rezerwat przyrody Hautes Fagnes. Pożar objął już rekordową powierzchnię ponad 1600 hektarów. Władze zarządziły ewakuację części mieszkańców.</description>
-      <pubDate>Sat, 15 Aug 2026 16:44:15 GMT</pubDate>
-      <guid isPermaLink="false">ee187460f859</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/belgia-hautes-fagnes-najwiekszy-pozar-w-historii-kraju-wladze-oglaszaja-pierwsze-ewakuacje-st9191462?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Na tę grę czekają miliony: właśnie padła data premiery. Doczeka się też serialu!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/05d38046e9f5</link>
-      <description>Fanom Kingdom Hearts długo przyszło czekać na więcej konkretów związanych z nadchodzącą, czwartą częścią tej spektakularnej serii. Ale nareszcie twórcy przerwali ciszę i podczas tegorocznego wydarzenia D23 Square Enix i Disney nareszcie uchylili rąbka tajemnicy.</description>
-      <pubDate>Sat, 15 Aug 2026 16:39:56 GMT</pubDate>
-      <guid isPermaLink="false">05d38046e9f5</guid>
-      <source url="https://antyweb.pl/na-te-gre-czekaja-miliony-wlasnie-padla-data-premiery-doczeka-sie-tez-serialu">Antyweb</source>
-    </item>
-    <item>
-      <title>A controversial Alzheimer&apos;s surgery is said to reverse symptoms</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7455bb4feee2</link>
-      <description>Jaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.</description>
-      <pubDate>Sat, 15 Aug 2026 16:38:34 GMT</pubDate>
-      <guid isPermaLink="false">7455bb4feee2</guid>
-      <source url="https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-026-02448-x&amp;code=8c63c6dd-a265-4a46-b38a-f2e93e3b668e">Hacker News</source>
-    </item>
-    <item>
-      <title>Body found in search for student missing on hike</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a3ac795c3731</link>
-      <description>A body is found during the search for George Smyth, who went missing while hiking in Romania.</description>
-      <pubDate>Sat, 15 Aug 2026 16:36:23 GMT</pubDate>
-      <guid isPermaLink="false">a3ac795c3731</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwy4413g6rko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>SpaceX officially closes its Cursor acquisition</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/15aaf2b747ae</link>
-      <description>AI coding startup Cursor is now officially a part of SpaceX.</description>
-      <pubDate>Sat, 15 Aug 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">15aaf2b747ae</guid>
-      <source url="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Śmierć kolarza podczas wyścigu. Zespół sportowca reaguje na tragiczny wypadek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cc263e3674fb</link>
-      <description>Ekipa NSN Development ogłosiła w sobotę wycofanie się z wyścigu Dookoła Portugalii po tragicznej śmierci dzień wcześniej swojego kolarza, 19-letniego Brytyjczyka Finlaya Tarlinga. Utalentowany zawodnik zginął w wypadku podczas 8. etapu tej imprezy.</description>
-      <pubDate>Sat, 15 Aug 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="false">cc263e3674fb</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-smierc-kolarza-podczas-wyscigu-zespol-sportowca-reaguje-na-t,nIdn,1013831">RMF24</source>
-    </item>
-    <item>
-      <title>Apple w końcu szykuje solidny powód, by kupić iPhone&apos;a 18 Pro w wersji Max</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4461597de05e</link>
-      <description>Jeżeli wierzyć ostatnim przeciekom, większy wariant smartfona z linii Pro może w tym roku pozytywnie zaskoczyć.</description>
-      <pubDate>Sat, 15 Aug 2026 16:14:59 GMT</pubDate>
-      <guid isPermaLink="false">4461597de05e</guid>
-      <source url="https://antyweb.pl/apple-w-koncu-szykuje-solidny-powod-by-kupic-iphonea-18-pro-w-wersji-max">Antyweb</source>
-    </item>
-    <item>
-      <title>How to tell if your AI platforms’ accounts have been hacked</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/23cd5e9aacbd</link>
-      <description>A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.</description>
-      <pubDate>Sat, 15 Aug 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="false">23cd5e9aacbd</guid>
-      <source url="https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Fire services stretched as residents still not home</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d2ac48a637d7</link>
-      <description>Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.</description>
-      <pubDate>Sat, 15 Aug 2026 16:08:57 GMT</pubDate>
-      <guid isPermaLink="false">d2ac48a637d7</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Eleven killed in Israeli strikes on southern Lebanon, authorities say</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9d3e8903f42a</link>
-      <description>Israel&apos;s military said it had struck &quot;Hezbollah terror infrastructure&quot; in response to what it described as earlier action against its soldiers.</description>
-      <pubDate>Sat, 15 Aug 2026 16:02:49 GMT</pubDate>
-      <guid isPermaLink="false">9d3e8903f42a</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>The price of a Costco hot dog has gone up</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/367c110bc11f</link>
-      <description>The $1.50 price of a Costco hot dog—a quarter-pound all-beef dog, bun, and drink—is sacred. But a recent analysis finds that its effective price increased by 77 cents between 2023 and 2026.</description>
-      <pubDate>Sat, 15 Aug 2026 16:01:57 GMT</pubDate>
-      <guid isPermaLink="false">367c110bc11f</guid>
-      <source url="https://sina.bio/posts/costco-hotdog.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Taki detektor w swoim smartfonie byś pokochał. Chińczycy szokują świat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5a7fc8417d00</link>
-      <description>Chiński sensor Halla ogranicza szum dzięki szybkiej dynamice spinów. Mówi się, że byłby w stanie wykryć łódź podwodną z 500 metrów...</description>
-      <pubDate>Sat, 15 Aug 2026 16:00:29 GMT</pubDate>
-      <guid isPermaLink="false">5a7fc8417d00</guid>
-      <source url="https://antyweb.pl/sensor-magnetyzm-tekstury-spinowe">Antyweb</source>
-    </item>
-    <item>
-      <title>Semaglutide linked to lower predicted dementia risk</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cc46e9b7f6f7</link>
-      <description>Comments</description>
-      <pubDate>Sat, 15 Aug 2026 15:58:53 GMT</pubDate>
-      <guid isPermaLink="false">cc46e9b7f6f7</guid>
-      <source url="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Hacker News</source>
-    </item>
-    <item>
-      <title>Kobiety zaatakowały Ukraińców w centrum Poznania. Jest ruch prokuratury</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c4df8c0965b</link>
-      <description>Prokuratura przesłuchała agresorki, które zaatakowały Ukraińców na poznańskim Starym Mieście. Kobiety zostały objęte policyjnym dozorem, mają też zakaz zbliżania się do pokrzywdzonych i zakaz kontaktowania się z nimi.</description>
-      <pubDate>Sat, 15 Aug 2026 15:51:00 GMT</pubDate>
-      <guid isPermaLink="false">6c4df8c0965b</guid>
-      <source url="https://www.rmf24.pl/regiony/poznan/news-kobiety-zaatakowaly-ukraincow-w-centrum-poznania-jest-ruch-p,nIdn,1013830">RMF24</source>
-    </item>
-    <item>
-      <title>Ukraine strikes major Russian rocket factory with cruise missiles</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b2823c4a0133</link>
-      <description>Flamingo missiles were used. A good achievement.&quot;</description>
-      <pubDate>Sat, 15 Aug 2026 15:46:05 GMT</pubDate>
-      <guid isPermaLink="false">b2823c4a0133</guid>
-      <source url="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Nadchodzi diametralna zmiana pogody</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a4053d368c8b</link>
-      <description>W kolejnych dniach odpoczniemy od upału. Pojawią się za to burze oraz opady deszczu, miejscami obfite. Sprawdź, w której części kraju można spodziewać się ulew.</description>
-      <pubDate>Sat, 15 Aug 2026 15:38:56 GMT</pubDate>
-      <guid isPermaLink="false">a4053d368c8b</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-nadchodzi-diametralna-zmiana-pogody-st9191401?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zabytki, winnice i 900 km raju. Oto najpiękniejsza trasa rowerowa świata</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bff4a6fa1a67</link>
-      <description>Płaski teren, dobrze utrzymane ścieżki i aż 22 bajkowe zamki na trasie. Prestiżowy magazyn „Time Out” wybrał najpiękniejszą trasę rowerową świata. Ten niezwykły szlak liczy ponad 900 kilometrów i znajduje się w Europie.</description>
-      <pubDate>Sat, 15 Aug 2026 15:37:00 GMT</pubDate>
-      <guid isPermaLink="false">bff4a6fa1a67</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-zabytki-winnice-i-900-km-raju-oto-najpiekniejsza-trasa-rower,nIdn,1013730">RMF24</source>
-    </item>
-    <item>
-      <title>AI Can Now Design Functional Viruses. Should We Worry?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0edd68986bd2</link>
-      <description>AI-written genomes bring medical promise and security risks</description>
-      <pubDate>Sat, 15 Aug 2026 15:32:25 GMT</pubDate>
-      <guid isPermaLink="false">0edd68986bd2</guid>
-      <source url="https://spectrum.ieee.org/ai-designed-virus">Hacker News</source>
     </item>
   </channel>
 </rss>
