@@ -1,0 +1,13 @@
+{
+  "id": "248c74532a44",
+  "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+  "originalTitle": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+  "publishedAt": "2026-08-17T16:38:44.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-08-17T09:38:44-07:00\">9:38 AM PDT · August 17, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Amazon is buying tons of rare books, cutting off their spines, and scanning them for AI training, according to <a rel=\"nofollow\" href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">404 Media</a>, which placed a tracking device in a rare book that ultimately arrived at an Amazon facility in Las Vegas.</p>\n\n<p>The facility, known as VGT3, identifies itself with a symbol of a dinosaur holding a book in its claws. Amazon told 404 Media in a statement that it “purchases books through commercial channels to improve the products and services customers use.”</p> <p>Companies like Amazon need unfathomably large amounts of text to train their LLMs, which have already ingested what they can from the internet (and, in Anthropic’s case, illegally <a href=\"https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\">pirated</a> books). Rare books, especially ones that are out of print or impossible to find on the internet, offer a new source of coveted training data.</p>\n\n<p>These texts are especially valuable since there’s no chance that anything published before 2022 was written by an LLM. When LLMs train on AI-generated text, they risk “<a href=\"https://techcrunch.com/2024/07/24/model-collapse-scientists-warn-against-letting-ai-eat-its-own-tail/\">model collapse</a>,” which can occur when the quality of an LLM’s outputs degrade after ingesting too much AI-generated text.</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in AI</h2>\n</p> </div></div>",
+  "image": "images/ed8c71f53f48.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
