@@ -1,0 +1,13 @@
+{
+  "id": "bdf3bb00d39c",
+  "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+  "originalTitle": "GPU Offload in Rust: Portable, Safe, and Fast",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2608.13759",
+  "publishedAt": "2026-08-17T17:54:59.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2608.13759\">View PDF</a> <a href=\"https://arxiv.org/html/2608.13759v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>High-performance GPU programming has traditionally forced a compromise between execution efficiency and memory safety. While Rust guarantees compile-time memory safety for host CPUs via its strict ownership model, applying these constraints to massively parallel GPU execution environments has previously mandated either vendor-locked Domain-Specific Languages (DSLs) or escaping to explicit unsafe raw pointers. This paper presents a zero-overhead, multi-vendor GPU compilation framework built natively into the Rust compiler (rustc) and LLVM backends.\n<br>We leverage Rust's rich type system, ownership system, and strict aliasing guarantees (noalias) to efficiently manage and optimize data transfers through LLVM's Offload infrastructure. We expose the technical challenges of cross-vendor ABI lowering mismatches between Host and Device targets and introduce a two-pass compilation pipeline capable of safely handling both manual and compiler-generated memory movements. Evaluating our framework on RAJAPerf demonstrates that our rustc-based solution can generate competitive LLVM IR for GPU kernels, achieving a solid kernel performance against native, hand-optimized CUDA and HIP C++ baselines. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Manuel Sebastian Drehwald [<a href=\"https://arxiv.org/show-email/78b8a686/2608.13759\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Thu, 13 Aug 2026 20:37:48 UTC (88 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
