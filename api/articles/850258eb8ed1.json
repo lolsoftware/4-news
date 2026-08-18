@@ -1,0 +1,13 @@
+{
+  "id": "850258eb8ed1",
+  "title": "Claude: Degraded Performance for Multiple Models",
+  "originalTitle": "Claude: Degraded Performance for Multiple Models",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+  "publishedAt": "2026-08-18T16:28:20.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- postmortem if it's published --> <!-- incident updates in reverse order --> <div> <h2> Update </h2> <div> <p><span>We are investigating elevated errors on requests to Claude Mythos 5, Claude Fable 5, Claude Opus 5, Claude Sonnet 5, Claude Haiku 4.5, and other Claude models. We will provide an update as soon as possible.</span> </p> <p> Posted <span data-datetime-unix=\"1787070049000\"></span>Aug <var data-var=\"date\">18</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">16:20</var> UTC </p> </div> </div> <div> <h2> Investigating </h2> <div> <p><span>We are investigating reports of degraded performance affecting multiple models. We will provide an update as soon as possible.</span> </p> <p> Posted <span data-datetime-unix=\"1787070022000\"></span>Aug <var data-var=\"date\">18</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">16:20</var> UTC </p> </div> </div> <!-- affected components --> <p> This incident affects: claude.ai, Claude API (api.anthropic.com), Claude Code, and Claude Cowork. </p> </div></div>",
+  "image": "images/1cae4aeecaa9.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

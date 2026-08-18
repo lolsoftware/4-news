@@ -1,0 +1,13 @@
+{
+  "id": "696340a2c199",
+  "title": "Splitting a Git Commit",
+  "originalTitle": "Splitting a Git Commit",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://blog.gnoack.org/post/git-history-split",
+  "publishedAt": "2026-08-15T13:56:31.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<time datetime=\"2026-08-12 20:36:41 +0000 UTC\">2026-08-12</time>\n<p>Splitting a git commit is now easy, using:</p>\n<pre><code>git history split ${REF}\n</code></pre>\n<p>It will ask you hunk by hunk for the things to include in the first commit, and then bring up the editor for the first and second commit message.  It couldn’t be simpler than that.</p>\n<p>P.S.\nThe <a href=\"https://stackoverflow.com/questions/6217156/break-a-previous-commit-into-multiple-commits\">stack overflow question for splitting commits</a> discusses the old and cumbersome approach.  <a href=\"https://stackoverflow.com/a/79929889\">The 20th answer discusses the right approach</a> but has a meagre 2 upvotes as of today, compared to 2656 for the older top answer with the cumbersome approach.</p>\n\n<h2>Comments</h2>\n\n</div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
