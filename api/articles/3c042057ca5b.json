@@ -1,0 +1,13 @@
+{
+  "id": "3c042057ca5b",
+  "title": "Feature Request: Support AGENTS.md",
+  "originalTitle": "Feature Request: Support AGENTS.md",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/anthropics/claude-code/issues/6235",
+  "publishedAt": "2026-08-19T21:19:50.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"issue-body-viewer\" data-team-hovercards-enabled=\"true\" data-turbolinks=\"false\" id=\"issue-body-viewer\"><p dir=\"auto\">Codex, Amp, Cursor, and others are starting to standardize around AGENTS.md (<a href=\"https://agents.md/\" rel=\"nofollow\">https://agents.md/</a>) — a unified Markdown file that coding agents can use to understand a codebase.</p>\n<p dir=\"auto\">By contrast, CLAUDE.md feels too specific to Claude Code. It doesn’t work as well when collaborating with other developers who aren’t using Claude Code.</p></div></div>",
+  "image": "images/098b23189280.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
