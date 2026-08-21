@@ -5,7 +5,7 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:59:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:44:12 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>28 przypadków odry po festiwalu. Chorzy w izolatkach, trwa śledzenie kontaktów</title>
@@ -24,6 +24,14 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Jedz-a-jelita-same-zaczna-sie-naprawiac-Naukowcy-odkryli-zaskakujacy-mechanizm,288040,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>TikTok reaches $400M settlement over children’s privacy lawsuit</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/90e90a3af9a9</link>
+      <description>Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.</description>
+      <pubDate>Fri, 21 Aug 2026 20:25:21 GMT</pubDate>
+      <guid isPermaLink="false">90e90a3af9a9</guid>
+      <source url="https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/">TechCrunch</source>
+    </item>
+    <item>
       <title>5 razy więcej wit. C niż cytryna. Nie żałuj sobie, teraz jest najtańsza</title>
       <link>https://lolsoftware.github.io/4-news/#/article/04c95aee2652</link>
       <description>Surowa, gotowana i pieczona, na gorąco i w przetworach – paprykę można podawać na wiele sposobów. Warto po nią sięgać nie tylko ze względu na smak, ale też na jej wartość odżywczą. Papryka jest doskonałym źródłem witaminy C – ma jej nawet 5 razy więcej niż cytryna.</description>
@@ -32,12 +40,116 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/5-razy-wiecej-wit-C-niz-cytryna-Nie-zaluj-sobie-teraz-jest-najtansza,287996,9.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>USA ma spłacić zadłużenie wobec ONZ. Padła kwota</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f9252da66490</link>
+      <description>Administracja Stanów Zjednoczonych rozpoczęła procedurę przekazania 725 mln dolarów zadłużenia wobec ONZ— wynika z informacji, do których dotarł Reuters. Eksperci ds. pomocy międzynarodowej uznali ten krok za pozytywny sygnał w kierunku spłaty miliardów dolarów zaległych składek.</description>
+      <pubDate>Fri, 21 Aug 2026 20:02:00 GMT</pubDate>
+      <guid isPermaLink="false">f9252da66490</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-usa-ma-splacic-zadluzenie-wobec-onz-padla-kwota,nIdn,1014687">RMF24</source>
+    </item>
+    <item>
+      <title>The $225 Pebble Time 2 is a refreshingly fun smartwatch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c7f2ecaee183</link>
+      <description>The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.</description>
+      <pubDate>Fri, 21 Aug 2026 19:57:46 GMT</pubDate>
+      <guid isPermaLink="false">c7f2ecaee183</guid>
+      <source url="https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Trump może działać. Jest tymczasowa zgoda ws. sali balowej Białego Domu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ee3582315c33</link>
+      <description>Sąd Najwyższy Stanów Zjednoczonych wydał tymczasową zgodę na dalszą budowę kontrowersyjnej sali balowej przy Białym Domu. Decyzja ta zapadła po złożeniu przez prezydenta Donalda Trumpa wniosku, by do czasu rozstrzygnięcia sporu prawnego prace mogły być kontynuowane.</description>
+      <pubDate>Fri, 21 Aug 2026 19:55:00 GMT</pubDate>
+      <guid isPermaLink="false">ee3582315c33</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-trump-moze-dzialac-jest-tymczasowa-zgoda-ws-sali-balowej-bia,nIdn,1014686">RMF24</source>
+    </item>
+    <item>
+      <title>Supreme Court temporarily unfreezes Trump ballroom construction </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6c98d3f5c437</link>
+      <description>The temporary order will allow the $400m (£297m) to continue while the high court mulls a final decision on the case.</description>
+      <pubDate>Fri, 21 Aug 2026 19:52:48 GMT</pubDate>
+      <guid isPermaLink="false">6c98d3f5c437</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Quick impressions: A week of using Codex more than Claude</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2d20e68bd42c</link>
+      <description>Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.</description>
+      <pubDate>Fri, 21 Aug 2026 19:51:48 GMT</pubDate>
+      <guid isPermaLink="false">2d20e68bd42c</guid>
+      <source url="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/">Hacker News</source>
+    </item>
+    <item>
+      <title>Nvidia just showed that the harness, not the AI model, is now the real hero</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/620096717211</link>
+      <description>Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn&apos;t that great at the task.</description>
+      <pubDate>Fri, 21 Aug 2026 19:43:39 GMT</pubDate>
+      <guid isPermaLink="false">620096717211</guid>
+      <source url="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Motorola&apos;s GrapheneOS phones will launch in 2027 priced higher than Pixels</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0531b8361b5d</link>
+      <description>The private Android-based OS will expand beyond Pixels next year.</description>
+      <pubDate>Fri, 21 Aug 2026 19:32:29 GMT</pubDate>
+      <guid isPermaLink="false">0531b8361b5d</guid>
+      <source url="https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/">Ars Technica</source>
+    </item>
+    <item>
+      <title>How Israel is expanding settlements in drive to reshape West Bank</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e36b3cb1727</link>
+      <description>There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.</description>
+      <pubDate>Fri, 21 Aug 2026 19:31:47 GMT</pubDate>
+      <guid isPermaLink="false">9e36b3cb1727</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Zmarła Danuta Szlajmer ps. „Siódemka”, łączniczka i sanitariuszka Powstania Warszawskiego</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2f25ab7e56b4</link>
+      <description>Danuta Szlajmer ps. „Siódemka”, łączniczka i sanitariuszka Batalionu „Kiliński”, zmarła w wieku 99 lat – poinformowało Muzeum Powstania Warszawskiego. W chwili wybuchu Powstania Warszawskiego miała niespełna 17 lat. Brała udział m.in. w walkach o gmach PAST-y.</description>
+      <pubDate>Fri, 21 Aug 2026 19:27:00 GMT</pubDate>
+      <guid isPermaLink="false">2f25ab7e56b4</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-zmarla-danuta-szlajmer-ps-siodemka-laczniczka-i-sanitariuszk,nIdn,1014684">RMF24</source>
+    </item>
+    <item>
+      <title>Turcja wydała nakaz aresztowania Netanjahu. „Skierowało wniosek o wydanie czerwonych not Interpolu”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/873352f188b8</link>
+      <description>Turcja wydała międzynarodowy nakaz aresztowania izraelskiego premiera Benjamina Netanjahu – przekazał turecki minister sprawiedliwości Turcji Akin Gurlek. Dotyczy on śledztwa w sprawie przechwycenia przez armię Izraela flotylli z pomocą dla Strefy Gazy.</description>
+      <pubDate>Fri, 21 Aug 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="false">873352f188b8</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-turcja-wydala-nakaz-aresztowania-netanjahu-skierowalo-wniose,nIdn,1014683">RMF24</source>
+    </item>
+    <item>
+      <title>One killed in sword attack at Swedish school</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/07a53490b13a</link>
+      <description>One person remains in a critical condition, while another suffered minor injuries in the attack.</description>
+      <pubDate>Fri, 21 Aug 2026 19:22:05 GMT</pubDate>
+      <guid isPermaLink="false">07a53490b13a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b2ded3450f46</link>
+      <description>If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!</description>
+      <pubDate>Fri, 21 Aug 2026 19:16:15 GMT</pubDate>
+      <guid isPermaLink="false">b2ded3450f46</guid>
+      <source url="https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/">TechCrunch</source>
+    </item>
+    <item>
       <title>15 lat więzienia za śmierć. Bogucki: prezydent złożył projekt, aby ścigać szarlatanów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/9fc8e54969fb</link>
       <description>Szef kancelarii prezydenta Zbigniew Bogucki poinformował w piątek, że prezydent Karol Nawrocki złożył do Sejmu projekt nowelizacji ustawy, „żeby ścigać i karać szarlatanów”. Dodał, że podstawowym celem regulacji jest wzmocnienie prawnokarnej ochrony życia i zdrowia pacjentów.</description>
       <pubDate>Fri, 21 Aug 2026 19:15:00 GMT</pubDate>
       <guid isPermaLink="false">9fc8e54969fb</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/15-lat-wiezienia-za-smierc-Bogucki-prezydent-zlozyl-projekt-aby-scigac-szarlatanow,288048,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Lawsuit demands Logitech hand tariff refunds over to customers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0666aefefacc</link>
+      <description>Logitech increased prices by up to 25 percent last year.</description>
+      <pubDate>Fri, 21 Aug 2026 19:04:41 GMT</pubDate>
+      <guid isPermaLink="false">0666aefefacc</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/">Ars Technica</source>
     </item>
     <item>
       <title>Nowe badanie Ozempicu zmienia wszystko. Pacjenci tracą ochotę na alkohol</title>
@@ -72,12 +184,28 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-dryfowali-po-pacyfiku-na-lodowce-koszmar-rybakow-trwal-piec-,nIdn,1014676">RMF24</source>
     </item>
     <item>
+      <title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f034ee1587ce</link>
+      <description>We’re sharing an update on our efforts to help more teams leverage frontier capabilities for cyber defense.</description>
+      <pubDate>Fri, 21 Aug 2026 18:48:28 GMT</pubDate>
+      <guid isPermaLink="false">f034ee1587ce</guid>
+      <source url="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders">Hacker News</source>
+    </item>
+    <item>
       <title>Ofcom investigating Sky News over Farage harassment claims</title>
       <link>https://lolsoftware.github.io/4-news/#/article/f5a81dd9bba8</link>
       <description>The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives.</description>
       <pubDate>Fri, 21 Aug 2026 18:44:19 GMT</pubDate>
       <guid isPermaLink="false">f5a81dd9bba8</guid>
       <source url="https://www.bbc.co.uk/news/articles/ce8k52186mmo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>NASA Shares Views of August Solar Eclipse from Ground, Air, Space</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/36259e7a25b0</link>
+      <description>On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer</description>
+      <pubDate>Fri, 21 Aug 2026 18:43:40 GMT</pubDate>
+      <guid isPermaLink="false">36259e7a25b0</guid>
+      <source url="https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/">NASA Breaking News</source>
     </item>
     <item>
       <title>Nie ma pieniędzy na pensje. Branży grozi paraliż</title>
@@ -240,6 +368,22 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Lidl-wycofuje-skazony-bakteria-deser-Pilny-apel-do-klientow-zwroccie-oddamy-pieniadze,288047,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d44f6a46f634</link>
+      <description>For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov</description>
+      <pubDate>Fri, 21 Aug 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="false">d44f6a46f634</guid>
+      <source url="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Webb Opens Treasure Chest</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/07018b780f21</link>
+      <description>NASA&apos;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic</description>
+      <pubDate>Fri, 21 Aug 2026 17:35:11 GMT</pubDate>
+      <guid isPermaLink="false">07018b780f21</guid>
+      <source url="https://www.nasa.gov/image-article/webb-opens-treasure-chest/">NASA Breaking News</source>
+    </item>
+    <item>
       <title>Ryzyko przekroczenia stanów alarmowych na rzekach. Ostrzeżenia hydrologiczne IMGW</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a187bcb70ccc</link>
       <description>W związku ze spodziewanymi ulewami Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia hydrologiczne. Alarmy obowiązują niemal w całej Polsce, a w części kraju może dojść do przekroczenia stanów ostrzegawczych. Sprawdź, gdzie sytuacja może być szczególnie niebezpieczna.</description>
@@ -262,150 +406,6 @@
       <pubDate>Fri, 21 Aug 2026 17:28:00 GMT</pubDate>
       <guid isPermaLink="false">f08aa6f8cc99</guid>
       <source url="https://www.bankier.pl/wiadomosc/Wojna-gospodarcza-Trumpa-Jak-Dubaj-i-chinska-ropa-pomagaly-Iranowi-omijac-sankcje-9185730.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Sieć Lidl wycofuje deser. Ostrzeżenie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b29375de4a23</link>
-      <description>Główny Inspektorat Sanitarny wydał w piątek ostrzeżenie dotyczące partii puddingu proteinowego marki Pilos, sprzedawanego w sklepach Lidl. W produkcie wykryto bakterie Bacillus cereus, które mogą wywołać zatrucie pokarmowe. Sieć wraz z dostawcą rozpoczęła wycofywanie wskazanej partii ze sprzedaży oraz od konsumentów.</description>
-      <pubDate>Fri, 21 Aug 2026 17:23:16 GMT</pubDate>
-      <guid isPermaLink="false">b29375de4a23</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/siec-lidl-wycofuje-deser-czekoladowy-ostrzezenie-gis-st9200394?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Najpierw wstrzymali przyjęcia, 8 września znowu otworzą oddział. Szpital ma plan naprawczy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cb9dd167b102</link>
-      <description>8 września ponownie uruchomiony zostanie oddział ginekologiczno-położniczy w SPWZOZ w Stargardzie – przekazała w piątek podczas konferencji prasowej dyrektorka placówki dr Katarzyna Kazojć. Władze szpitala przygotowały też plan naprawczy w związku z zadłużeniem placówki.</description>
-      <pubDate>Fri, 21 Aug 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="false">cb9dd167b102</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Najpierw-wstrzymali-przyjecia-8-wrzesnia-znowu-otworza-oddzial-Szpital-ma-plan-naprawczy,288044,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Zełenski nałożył sankcję na twórców bajki „Masza i Niedźwiedź”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46490cfd3d13</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski podpisał cztery dekrety ws. nałożenia sankcji na rosyjskie firmy i urzędników. Uwagę zwraca jednak fakt, że na liście znajdują się też twórcy bajki „Masza i Niedźwiedź” popularnej również w Polsce.</description>
-      <pubDate>Fri, 21 Aug 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="false">46490cfd3d13</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zelenski-nalozyl-sankcje-na-tworcow-bajki-masza-i-niedzwiedz,nIdn,1014673">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Zobaczyłem strugę płynu wydobywającą się znad okna&quot;. Awaria i wyciek w autobusie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d975f59d6f85</link>
-      <description>W piątek rano na warszawskich Młocinach w autobusie linii 511 doszło do wycieku wrzącej cieczy. Jak wyjaśnia przedstawiciel Miejskich Zakładów Autobusowych, ze zbiornika wydostał się płyn chłodniczy. Nikomu nic się nie stało.</description>
-      <pubDate>Fri, 21 Aug 2026 17:05:57 GMT</pubDate>
-      <guid isPermaLink="false">d975f59d6f85</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/bielany/zobaczylem-struge-plynu-wydobywajaca-sie-znad-okna-awaria-i-wyciek-w-autobusie-st9200484?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Odmłodziły wątrobę, cofnęły stłuszczenie. Naukowcy zaskoczeni efektami</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/171dde598887</link>
-      <description>Proces starzenia wpływa na wątrobę, prowadząc m.in. do zaburzeń metabolizmu, gromadzenia tłuszczu i przewlekłego stanu zapalnego. Naukowcy znaleźli jednak naturalny związek, który w badaniu spowodował odmłodzenie narządu. Kluczowa okazała się hesperetyna - flawonoid obecny w owocach cytrusowych.</description>
-      <pubDate>Fri, 21 Aug 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="false">171dde598887</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Odmlodzily-watrobe-cofnely-stluszczenie-Naukowcy-zaskoczeni-efektami,288005,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d6a811d5ad55</link>
-      <description>Comments</description>
-      <pubDate>Fri, 21 Aug 2026 17:00:23 GMT</pubDate>
-      <guid isPermaLink="false">d6a811d5ad55</guid>
-      <source url="https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6">Hacker News</source>
-    </item>
-    <item>
-      <title>Kolejny krok do poszerzenia autostrady </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0de24c51896e</link>
-      <description>Generalna Dyrekcja Dróg Krajowych i Autostrad podpisała umowę na rozbudowę kolejnego odcinka autostrady A2 pomiędzy Warszawą i Łodzią. Kontakt opiewa na kwotę ponad 321 milionów złotych. Inwestycję zrealizuje firma Strabag.</description>
-      <pubDate>Fri, 21 Aug 2026 16:57:59 GMT</pubDate>
-      <guid isPermaLink="false">0de24c51896e</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/kolejny-krok-do-poszerzenia-autostrady-st9200391?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;To dziś kwestia bezpieczeństwa&quot;. Rząd szykuje miliardowe dopłaty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2e63a5926de4</link>
-      <description>Silny przemysł to dziś kwestia bezpieczeństwa i suwerenności, dlatego rząd uruchomi wsparcie dla sektorów energochłonnych. Program obejmie dopłaty do cen energii oraz inwestycje w transformację energetyczną - ogłosił w piątek minister finansów i gospodarki Andrzej Domański.</description>
-      <pubDate>Fri, 21 Aug 2026 16:55:29 GMT</pubDate>
-      <guid isPermaLink="false">2e63a5926de4</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/to-dzis-kwestia-bezpieczenstwa-rzad-szykuje-miliardowe-doplaty-do-cen-energii-dla-branzy-energochlonnej-st9200507?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Why is the DOJ investigating Andreessen Horowitz’s board seats?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/df85af19a794</link>
-      <description>Watch as Equity digs into the DOJ&apos;s antitrust probe of Andreessen Horowitz, what happens to AI startups that aren&apos;t Anthropic, OpenAI, or Nvidia, and more deals of the week.</description>
-      <pubDate>Fri, 21 Aug 2026 16:53:39 GMT</pubDate>
-      <guid isPermaLink="false">df85af19a794</guid>
-      <source url="https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Odra w Szwecji. Już 28 zachorowań po festiwalu kultury alternatywnej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2cae6127d794</link>
-      <description>Do 28 wzrosła liczba przypadków odry po zakończonym na początku sierpnia festiwalu kultury alternatywnej Urkult pod Skelleftea na północy Szwecji – poinformował w piątek rząd w Sztokholmie. Impreza zgromadziła ekologów i antyszczepionkowców.</description>
-      <pubDate>Fri, 21 Aug 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="false">2cae6127d794</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-odra-w-szwecji-juz-28-zachorowan-po-festiwalu-kultury-altern,nIdn,1014672">RMF24</source>
-    </item>
-    <item>
-      <title>Fighter jets help destroy Russian drone boat near European offshore gas platform</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/21ad7663a4c5</link>
-      <description>Romania blew up drone boat to protect lives of several hundred rig workers.</description>
-      <pubDate>Fri, 21 Aug 2026 16:48:59 GMT</pubDate>
-      <guid isPermaLink="false">21ad7663a4c5</guid>
-      <source url="https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Afera o raport z AI. Pełnomocniczka rządu składa dymisję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0a176b2ab6ef</link>
-      <description>Barbara Mróz-Gorgoń poinformowała w piątek, że składa dymisję z funkcji Pełnomocniczki Rządu do spraw promocji marki Polski.</description>
-      <pubDate>Fri, 21 Aug 2026 16:48:00 GMT</pubDate>
-      <guid isPermaLink="false">0a176b2ab6ef</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-afera-o-raport-z-ai-pelnomocniczka-rzadu-sklada-dymisje,nIdn,1014671">RMF24</source>
-    </item>
-    <item>
-      <title>Pełnomocniczka rządu do spraw promocji marki Polski rezygnuje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0cfc26e6ea07</link>
-      <description>Barbara Mróz-Gorgoń złożyła dymisję z funkcji pełnomocniczki rządu do spraw promocji marki Polski. &quot;Przy tej niewyobrażalnej skali hejtu niemożliwe jest pełnienie tak odpowiedzialnej roli. Mam nadzieję, że ważny dla Polski projekt będzie kontynuowany bez względu na trudności&quot; - napisała.</description>
-      <pubDate>Fri, 21 Aug 2026 16:45:21 GMT</pubDate>
-      <guid isPermaLink="false">0cfc26e6ea07</guid>
-      <source url="https://tvn24.pl/polska/pelnomocniczka-rzadu-do-spraw-promocji-marki-polski-barbara-mroz-gorgon-rezygnuje-st9200523?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Rosyjskie drony uderzyły w centrum handlowe. Pięć osób zginęło, kilkadziesiąt jest rannych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/91ed2c1a1f53</link>
-      <description>Co najmniej pięć osób zginęło, a kilkadziesiąt, w tym sześcioro dzieci zostało rannych w ataku rosyjskich dronów na centrum handlowe w Krzywym Rogu w środkowej Ukrainie - poinformował prezydent kraju Wołodymyr Zełenski.</description>
-      <pubDate>Fri, 21 Aug 2026 16:42:59 GMT</pubDate>
-      <guid isPermaLink="false">91ed2c1a1f53</guid>
-      <source url="https://tvn24.pl/swiat/rosyjskie-drony-uderzyly-w-centrum-handlowe-w-krzywym-rogu-sa-ofiary-smiertelne-i-ranni-w-tym-dzieci-st9200491?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Niebezpieczna partia puddingu. GIS ostrzega konsumentów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6108004271b</link>
-      <description>GIS poinformował o wycofaniu jednej partii czekoladowego puddingu proteinowego marki Pilos. W produkcie wykryto bakterię Bacillus cereus, która może powodować zatrucie pokarmowe.</description>
-      <pubDate>Fri, 21 Aug 2026 16:40:00 GMT</pubDate>
-      <guid isPermaLink="false">a6108004271b</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-niebezpieczna-partia-puddingu-gis-ostrzega-konsumentow,nIdn,1014670">RMF24</source>
-    </item>
-    <item>
-      <title>Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/faaedb9cfd0d</link>
-      <description>Some Americans fear the FTC may be thinking about personalized pricing all wrong.</description>
-      <pubDate>Fri, 21 Aug 2026 16:38:25 GMT</pubDate>
-      <guid isPermaLink="false">faaedb9cfd0d</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Watch: UK marks first national day for victims and survivors of terrorism</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5c86ae28d32c</link>
-      <description>Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism.</description>
-      <pubDate>Fri, 21 Aug 2026 16:33:04 GMT</pubDate>
-      <guid isPermaLink="false">5c86ae28d32c</guid>
-      <source url="https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Domański: to potwierdzenie rosnącej pozycji Polski</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/04f3455af409</link>
-      <description>Decyzja S&amp;P Dow Jones Indices o przeniesieniu Polski z grupy rynków wschodzących do rozwiniętych potwierdza umacniającą się pozycję naszego kraju - ocenił minister finansów Andrzej Domański. Zmiana zostanie uwzględniona w indeksach we wrześniu 2027 roku.</description>
-      <pubDate>Fri, 21 Aug 2026 16:30:33 GMT</pubDate>
-      <guid isPermaLink="false">04f3455af409</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/polska-w-gronie-rynkow-rozwinietych-andrzej-domanski-to-potwierdzenie-rosnacej-pozycji-naszego-kraju-st9200481?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
