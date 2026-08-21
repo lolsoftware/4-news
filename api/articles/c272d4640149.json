@@ -1,0 +1,13 @@
+{
+  "id": "c272d4640149",
+  "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+  "originalTitle": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+  "publishedAt": "2026-08-21T18:07:15.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Tesla is facing a massive recall in China today. Chinese regulators are taking a stricter approach to safety, and the automaker now has to add warning labels to 2.98 million Model 3 and Model Y electric vehicles in China that make it clearer how to open the rear doors in the case of an emergency that causes the car to lose power.</p>\n<p>As <a href=\"https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/\">we learned earlier this year</a>, Chinese regulators are getting more serious about the recent trend of electronically controlled car doors; a growing number of crashes have had fatal consequences when the occupants have been trapped in burning cars. Starting next year, new rules give specific dimensions for handles that must be followed by all newly approved vehicles. But cars that have already been on sale for some time, like the Models 3 and Y, are grandfathered in, at least until the end of 2028.</p>\n<p>But China wants Tesla to do something about the nearly 3 million cars already on its roads. It is requiring the automaker to add warning labels to the car interiors—something that will require physical access to the car. Additionally, Tesla will push out a software update that automatically lowers all the cars’ windows in the event of a collision.</p>\n<p>Tesla is also facing a second Chinese recall, this one only affecting 2.74 million cars. These require new software for their driver monitoring system, which currently only uses a torque sensor on the steering wheel to determine if the driver is holding the wheel and remaining engaged in the task of driving. Now, the update will leverage the interior camera in the Models 3 and Y to track the driver’s gaze instead.</p>\n<p>However, <a href=\"https://electrek.co/2026/06/15/chinese-drivers-plastic-heads-fool-tesla-autopilot-camera/\">Electrek has previously reported</a> that Chinese Tesla owners have been able to defeat the cabin driver monitoring system—which it has rolled out to customers with its more advanced partially automated driving system—by mounting a doll’s head in front of the camera.</p> </div></div>",
+  "image": "images/da306f9cd150.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
