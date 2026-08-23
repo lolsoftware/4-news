@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:41:35 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Król Harald V trafił do szpitala. Pogorszył się stan króla Norwegii</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e06014d4fdce</link>
+      <description>Król Norwegii Harald V przebywa w szpitalu w Oslo, gdzie jest leczony z powodu niedokrwistości hemolitycznej. W niedzielę norweski dwór poinformował, że stan 89-letniego monarchy uległ pogorszeniu. Po podaniu antybiotyków organizm króla zareagował jednak na leczenie. Choroba pokrzyżowała plany Haralda związane z podróżami po kraju. Do odwiedzenia pozostały mu już tylko cztery norweskie gminy.</description>
+      <pubDate>Sun, 23 Aug 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="false">e06014d4fdce</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-krol-harald-v-trafil-do-szpitala-pogorszyl-sie-stan-krola-no,nIdn,1014811">RMF24</source>
+    </item>
     <item>
       <title>Dla wątroby nie ma nic lepszego. Zbyt rzadko na polskich stołach</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c5416ddd8675</link>
@@ -14,6 +22,14 @@
       <pubDate>Sun, 23 Aug 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="false">c5416ddd8675</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Dla-watroby-nie-ma-nic-lepszego-Zbyt-rzadko-na-polskich-stolach,288070,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>&apos;Pain of losing him is beyond words&apos;: Families of two police officers killed in crash pay tribute</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e89c5d4b659d</link>
+      <description>Tom Clough and Matthew Blades died along with five others when a car crashed into their vehicle.</description>
+      <pubDate>Sun, 23 Aug 2026 20:12:42 GMT</pubDate>
+      <guid isPermaLink="false">e89c5d4b659d</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Konfrontacja z faktami rzadko prowadzi do zmiany opinii; winne algorytmy i sposób działania mózgu</title>
@@ -24,6 +40,22 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Konfrontacja-z-faktami-rzadko-prowadzi-do-zmiany-opinii-winne-algorytmy-i-sposob-dzialania-mozgu,288066,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1538fb9c10b7</link>
+      <description>A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.</description>
+      <pubDate>Sun, 23 Aug 2026 20:01:36 GMT</pubDate>
+      <guid isPermaLink="false">1538fb9c10b7</guid>
+      <source url="https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Bosacki ostrzega Ukrainę. „Będzie miała poważny problem”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f13d68ba5a82</link>
+      <description>Wiceszef MSZ Marcin Bosacki ocenił w niedzielę, że gdyby w Panteonie Narodowym Ukrainy pojawili się ludzie odpowiedzialni za masowe zbrodnie na ludności cywilnej, tacy jak Stepan Bandera czy Roman Szuchewycz, to znacząco pogorszyłoby to stosunki Ukrainy z Polską i Europą.</description>
+      <pubDate>Sun, 23 Aug 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="false">f13d68ba5a82</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-bosacki-ostrzega-ukraine-bedzie-miala-powazny-problem,nIdn,1014810">RMF24</source>
+    </item>
+    <item>
       <title>50 g dziennie doprowadza jelita do ruiny. Krótka droga do cukrzycy</title>
       <link>https://lolsoftware.github.io/4-news/#/article/1b2a1723b506</link>
       <description>Parówka na śniadanie, kilka plasterków salami czy kiełbasa mogą wydawać się niewielką częścią codziennej diety. Analiza badań opublikowana w „Nature Medicine” wskazuje jednak, że regularne spożywanie nawet małych ilości przetworzonego mięsa wiąże się ze wzrostem ryzyka cukrzycy typu 2 i raka jelita grubego. Podobną zależność zaobserwowano w przypadku napojów słodzonych cukrem.</description>
@@ -32,12 +64,84 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/50-g-dziennie-doprowadza-jelita-do-ruiny-Krotka-droga-do-cukrzycy,288067,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Uber faces fine of nearly $1B over automated driver suspensions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/666f473cb39c</link>
+      <description>The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.</description>
+      <pubDate>Sun, 23 Aug 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="false">666f473cb39c</guid>
+      <source url="https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/">TechCrunch</source>
+    </item>
+    <item>
+      <title>How I Find Problems to Solve as a Staff Engineer</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d354d3ee177b</link>
+      <description>How listening broadly turns everyday problems into useful project ideas.</description>
+      <pubDate>Sun, 23 Aug 2026 19:23:29 GMT</pubDate>
+      <guid isPermaLink="false">d354d3ee177b</guid>
+      <source url="https://lalitm.com/post/find-problems-staff-engineer/">Hacker News</source>
+    </item>
+    <item>
+      <title>To najpiękniejsza wieś na świecie. Bajkowy klimat i... tłumy turystów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5541d4db5c67</link>
+      <description>Europa zdominowała ranking najpiękniejszych wsi świata przygotowany przez Forbes. Osiem pierwszych miejsc na liście zajmują malownicze miejscowości na Starym Kontynencie, które zachwycają urokiem, architekturą i niezwykłą atmosferą. Jaka wieś uplasowała się na czele rankingu?</description>
+      <pubDate>Sun, 23 Aug 2026 19:22:00 GMT</pubDate>
+      <guid isPermaLink="false">5541d4db5c67</guid>
+      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-to-najpiekniejsza-wies-na-swiecie-bajkowy-klimat-i-tlumy-tur,nIdn,1014144">RMF24</source>
+    </item>
+    <item>
       <title>Wyniki badań dają pewność. Rakotwórczy &quot;dodatek&quot; osiada w płucach</title>
       <link>https://lolsoftware.github.io/4-news/#/article/10cc68ba1f70</link>
       <description>Herbata uchodzi za jeden z najpopularniejszych napojów, ale znaczenie może mieć nie tylko jej rodzaj, lecz także sposób parzenia. Badania wskazują, że niektóre torebki wykonane z tworzyw sztucznych mogą podczas kontaktu z gorącą wodą uwalniać mikro- i nanoplastik.</description>
       <pubDate>Sun, 23 Aug 2026 19:20:00 GMT</pubDate>
       <guid isPermaLink="false">10cc68ba1f70</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Wyniki-badan-daja-pewnosc-Rakotworczy-dodatek-osiada-w-plucach,288065,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3ece450dabbe</link>
+      <description>Linkdaze&apos;s smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.</description>
+      <pubDate>Sun, 23 Aug 2026 19:14:08 GMT</pubDate>
+      <guid isPermaLink="false">3ece450dabbe</guid>
+      <source url="https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Fable and the End of the Free Lunch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/201e46f53c03</link>
+      <description>There’s some talk today about how agentic coders are balking at Anthropic’s pricing and adopting alternatives. I was reminded of a thought I had in the weeks following Fable’s release: the free lunch was over.</description>
+      <pubDate>Sun, 23 Aug 2026 19:06:09 GMT</pubDate>
+      <guid isPermaLink="false">201e46f53c03</guid>
+      <source url="https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Ulice zamknięte, włazy przyspawane. Trump zmienił Waszyngton w tor wyścigowy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/01ec562306b7</link>
+      <description>Prezydent USA Donald Trump, machając zieloną flagą, rozpoczął w niedzielę wyścigi serii IndyCar ulicami Waszyngtonu. Zawody Freedom 250 Grand Prix są częścią obchodów 250. rocznicy niepodległości USA. Organizatorzy szacują, że wydarzenie zgromadzi ok. 140 tys. widzów dziennie. Lotnisko im. Reagana musiało wstrzymać loty, w centrum stolicy USA zamkniętych jest wiele ulic. Wcześniej na trasie wyścigu przyspawano wszystkie włazy - stanowiły śmiertelne zagrożenie dla kierowców.</description>
+      <pubDate>Sun, 23 Aug 2026 19:06:00 GMT</pubDate>
+      <guid isPermaLink="false">01ec562306b7</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-ulice-zamkniete-wlazy-przyspawane-trump-zmienil-waszyngton-w,nIdn,1014803">RMF24</source>
+    </item>
+    <item>
+      <title>Śmiertelne pobicie 36-latka w Krakowie. Policja szuka mężczyzny ze zdjęć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7989962e9638</link>
+      <description>Krakowscy policjanci prowadzą postępowanie w sprawie śmiertelnego pobicia 36-letniego mężczyzny na osiedlu Willowym w Nowej Hucie, do którego doszło w nocy z 20 na 21 sierpnia. Funkcjonariusze proszą o pomoc w identyfikacji mężczyzny, którego wizerunek został utrwalony na zdjęciach.</description>
+      <pubDate>Sun, 23 Aug 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="false">7989962e9638</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-smiertelne-pobicie-36-latka-w-krakowie-policja-szuka-mezczyz,nIdn,1014805">RMF24</source>
+    </item>
+    <item>
+      <title>CrossCountry to provide full service on Monday after major disruption</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b77e5559ac14</link>
+      <description>CrossCountry says its &quot;key priority&quot; is now restoring as close to a normal service as possible.</description>
+      <pubDate>Sun, 23 Aug 2026 19:00:31 GMT</pubDate>
+      <guid isPermaLink="false">b77e5559ac14</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f813a6f8a6c0</link>
+      <description>When the tech giant retired a popular software grant, years of nonprofit data vanished with it.</description>
+      <pubDate>Sun, 23 Aug 2026 18:55:54 GMT</pubDate>
+      <guid isPermaLink="false">f813a6f8a6c0</guid>
+      <source url="https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html">Hacker News</source>
     </item>
     <item>
       <title>Wyciek danych z MyDr. Ekspert: informacje o zdrowiu mogą posłużyć do oszustw i szantażu</title>
@@ -64,6 +168,14 @@
       <source url="https://www.bankier.pl/wiadomosc/Sojusz-Nordycko-Baltycki-w-Kijowie-Deklaracja-nieprzerwanego-wsparcie-dla-Ukrainy-9186033.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Viral &apos;Cat in the Hat&apos; TikTok trend sparks fun fake videos but also real fear</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/53afe9ff0857</link>
+      <description>The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.</description>
+      <pubDate>Sun, 23 Aug 2026 18:38:36 GMT</pubDate>
+      <guid isPermaLink="false">53afe9ff0857</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>MON wezwie 245 tys. osób. Za niestawienie się grożą surowe kary</title>
       <link>https://lolsoftware.github.io/4-news/#/article/db6a372f5626</link>
       <description>Kwalifikacja wojskowa w 2027 roku obejmie około 245 tysięcy osób. Ministerstwo Obrony Narodowej, w porozumieniu z MSWiA, przygotowało już projekt stosownego rozporządzenia. Kto dokładnie musi spodziewać się wezwania i jak będą wyglądać procedury?</description>
@@ -78,6 +190,14 @@
       <pubDate>Sun, 23 Aug 2026 18:34:00 GMT</pubDate>
       <guid isPermaLink="false">4be8aec6c367</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-9010-finlandia-ujawnia-plan-produkcji-dronow-dla-ukrainy,nIdn,1014802">RMF24</source>
+    </item>
+    <item>
+      <title>The Vibe Tax</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e7949af80bb</link>
+      <description>Pol had 12 hours, a blank repo, and a fresh weekly quota. By morning, only one of those remained.</description>
+      <pubDate>Sun, 23 Aug 2026 18:31:02 GMT</pubDate>
+      <guid isPermaLink="false">7e7949af80bb</guid>
+      <source url="https://insufferable.dev/posts/vibe-tax/">Hacker News</source>
     </item>
     <item>
       <title>Spektakularne wyniki badań. Czyści tętnice z cholesterolu i chroni przed udarem</title>
@@ -112,12 +232,28 @@
       <source url="https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
+      <title>Explain it to me like I&apos;m ten</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02a4bcd125aa</link>
+      <description>Comments</description>
+      <pubDate>Sun, 23 Aug 2026 18:08:13 GMT</pubDate>
+      <guid isPermaLink="false">02a4bcd125aa</guid>
+      <source url="https://timharford.com/2026/08/explain-it-to-me-like-im-ten/">Hacker News</source>
+    </item>
+    <item>
       <title>26 lat temu Dania całkowicie zakazała. Dewastuje serce, blokuje tętnice</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4e0da6356628</link>
       <description>Podnoszą poziom „złego” cholesterolu LDL, mogą obniżać „dobry” HDL i zwiększają ryzyko chorób sercowo-naczyniowych. Przemysłowe tłuszcze trans są na tyle niekorzystne dla zdrowia, że ich zawartość w żywności została prawnie ograniczona. Mimo to warto wiedzieć, w jakich produktach mogą występować i czego szukać na etykietach.</description>
       <pubDate>Sun, 23 Aug 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="false">4e0da6356628</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/26-lat-temu-Dania-calkowicie-zakazala-Dewastuje-serce-blokuje-tetnice,288064,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>My agent.md to improve LLM-assisted code quality</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d9678b8041f9</link>
+      <description>Aug 21, 2026</description>
+      <pubDate>Sun, 23 Aug 2026 17:59:52 GMT</pubDate>
+      <guid isPermaLink="false">d9678b8041f9</guid>
+      <source url="https://fabiensanglard.net/agent.md/index.html">Hacker News</source>
     </item>
     <item>
       <title>Zimni ogrodnicy w sierpniu. Nadchodzi chłodna noc</title>
@@ -270,148 +406,6 @@
       <pubDate>Sun, 23 Aug 2026 16:15:00 GMT</pubDate>
       <guid isPermaLink="false">110468429eeb</guid>
       <source url="https://www.rmf24.pl/fakty/pogoda/news-fala-upalow-nadciaga-nad-polske-imgw-wskazuje-kiedy-zrobi-si,nIdn,1014797">RMF24</source>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b01255d76605</link>
-      <description>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.</description>
-      <pubDate>Sun, 23 Aug 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="false">b01255d76605</guid>
-      <source url="https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Wymiana naboju SodaStream: ile kosztuje i gdzie można to zrobić</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1e49a91f4fbe</link>
-      <description>Kończy Ci się gaz w saturatorze SodaStream? Sprawdzamy, gdzie można wymienić cylinder CO2, ile kosztuje taka usługa, czym różnią się systemy Quick Connect i Twist oraz na co zwrócić uwagę przed wizytą w punkcie wymiany.</description>
-      <pubDate>Sun, 23 Aug 2026 16:00:30 GMT</pubDate>
-      <guid isPermaLink="false">1e49a91f4fbe</guid>
-      <source url="https://antyweb.pl/wymiana-naboju-sodastream-ile-kosztuje-i-gdzie-mozna-to-zrobic">Antyweb</source>
-    </item>
-    <item>
-      <title>Why Sal Khan&apos;t: On Learning by Making but Teaching by Telling</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2ba4603bf810</link>
-      <description>Two pieces crossed my feed recently, both about Sal Khan and the AI tutoring revolution that wasn’t. The first was Matt Barnum’s reported piece in Chalkbeat, where Khan himself acknowledged that…</description>
-      <pubDate>Sun, 23 Aug 2026 15:59:08 GMT</pubDate>
-      <guid isPermaLink="false">2ba4603bf810</guid>
-      <source url="https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/">Hacker News</source>
-    </item>
-    <item>
-      <title>Ostatnie przygotowania przed festiwalem w Sopocie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8edb72d319cf</link>
-      <description>W Operze Leśnej w niedzielę trwały ostatnie próby przed Top of the Top Sopot Festival, który rozpocznie się w poniedziałek i zakończy w czwartek. Wystąpią między innymi Maryla Rodowicz, Kasia Sienkiewicz, Natalia Szroeder, Czesław Mozil, a także zespoły takie jak Lady Pank i Blue Café. Wszystkie koncerty pokaże telewizja TVN.</description>
-      <pubDate>Sun, 23 Aug 2026 15:58:03 GMT</pubDate>
-      <guid isPermaLink="false">8edb72d319cf</guid>
-      <source url="https://tvn24.pl/kultura-i-styl/ostatni-dzien-przygotowan-do-top-of-the-top-sopot-festival-2026-st9202433?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Skorpion ukrył się w kurtce. Użądlił turystkę, gdy wróciła z wakacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/de436ee32a38</link>
-      <description>Do niebezpiecznego incydentu doszło w piątek na lotnisku w Düsseldorfie w Niemczech. 52-letnia kobieta, która wróciła z wakacji nad Morzem Śródziemnym, została użądlona przez skorpiona, który ukrył się w jej kurtce. Poszkodowana została natychmiast przewieziona do szpitala, ponieważ  okazało się, że użądlił ją przedstawiciel gatunku Leiurus quinquestriatus, który jest uznawany za drugiego co do siły jadu skorpiona na świecie.</description>
-      <pubDate>Sun, 23 Aug 2026 15:57:00 GMT</pubDate>
-      <guid isPermaLink="false">de436ee32a38</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-skorpion-ukryl-sie-w-kurtce-uzadlil-turystke-gdy-wrocila-z-w,nIdn,1014796">RMF24</source>
-    </item>
-    <item>
-      <title>Newcastle and Liverpool united in tribute to legend Keegan</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/28e658593fb9</link>
-      <description>Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.</description>
-      <pubDate>Sun, 23 Aug 2026 15:53:38 GMT</pubDate>
-      <guid isPermaLink="false">28e658593fb9</guid>
-      <source url="https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Coconut Oil Jet Fuel Matches Kerosene&apos;s Efficiency in Engine Tests</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8740355b5266</link>
-      <description>Coconut oil jet fuel matched kerosene&apos;s efficiency in engine tests and cut hydrocarbon emissions, a new study in the journal Fuel finds.</description>
-      <pubDate>Sun, 23 Aug 2026 15:50:18 GMT</pubDate>
-      <guid isPermaLink="false">8740355b5266</guid>
-      <source url="https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/">Hacker News</source>
-    </item>
-    <item>
-      <title>Podróżowali po Dolinie Śmierci. Jeden z nich nie przeżył</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3835242985b3</link>
-      <description>Turysta z Francji zmarł w Dolinie Śmierci, gdy jego auto utknęło na odosobnionej drodze. Nie udało się uratować jego życia mimo podjętej akcji poszukiwawczej.</description>
-      <pubDate>Sun, 23 Aug 2026 15:42:19 GMT</pubDate>
-      <guid isPermaLink="false">3835242985b3</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-podrozowali-po-dolinie-smierci-jeden-z-nich-nie-przezyl-st9202407?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Samsung Galaxy S27 Ultra zmieni się nie do poznania. Zobacz jak dobrze będzie wyglądał!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bbb75bf88640</link>
-      <description>Samsung przygotowuje zupełnie odmienionego flagowca. Jakie zmiany mają czekać Galaxy S27 Ultra?</description>
-      <pubDate>Sun, 23 Aug 2026 15:35:02 GMT</pubDate>
-      <guid isPermaLink="false">bbb75bf88640</guid>
-      <source url="https://antyweb.pl/samsung-galaxy-s27-ultra-zmieni-sie-nie-do-poznania-zobacz-jak-dobrze-bedzie-wygladal">Antyweb</source>
-    </item>
-    <item>
-      <title>Napędza raka. Rozprzestrzenia komórki po całym organizmie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/50cbc7aa9a5c</link>
-      <description>Badacze odkryli nieznany wcześniej mechanizm, który może sprzyjać przerzutom raka jajnika po chemioterapii. Komórki nowotworowe, które przetrwały leczenie, mogą uwalniać fruktozę, ułatwiając sąsiednim komórkom odrywanie się od guza i rozprzestrzenianie w organizmie. Wyniki opublikowano w „Nature Aging”.</description>
-      <pubDate>Sun, 23 Aug 2026 15:35:00 GMT</pubDate>
-      <guid isPermaLink="false">50cbc7aa9a5c</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Napedza-raka-Rozprzestrzenia-komorki-po-calym-organizmie,288059,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a01fe2c8756a</link>
-      <description>Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.</description>
-      <pubDate>Sun, 23 Aug 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">a01fe2c8756a</guid>
-      <source url="https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Wchodzą w życie nowe przepisy dla par jednopłciowych. Burmistrz Zakopanego mówi „nie”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0522009d6463</link>
-      <description>Od 23 sierpnia wchodzą w życie nowe przepisy dotyczące transkrypcji zagranicznych aktów małżeństw jednopłciowych w Polsce. Polskie pary jednopłciowe, które zawarły małżeństwo za granicą, będą mogły złożyć wniosek w każdym urzędzie stanu cywilnego. Każdy USC ma obowiązek taki wniosek przyjąć. Zmianom sprzeciwia się m.in. burmistrz Zakopanego, który zapowiada, że w jego mieście akty małżeństw jednopłciowych nie będą transkrybowane. „Nie jest rolą urzędnika decydowanie, czy wniosek przyjmie, czy nie przyjmie” - tłumaczy RMF FM adwokat Mateusz Wąsik.</description>
-      <pubDate>Sun, 23 Aug 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="false">0522009d6463</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-wchodza-w-zycie-nowe-przepisy-dla-par-jednoplciowych-burmist,nIdn,1014794">RMF24</source>
-    </item>
-    <item>
-      <title>A major Alzheimer’s risk gene may shrink brain cells years before symptoms</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fe1aa06852e8</link>
-      <description>Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory later in life. Reducing Nell2 in adult mice reversed the abnormal changes, raising hopes for a new way to intervene before Alzheimer’s progresses.</description>
-      <pubDate>Sun, 23 Aug 2026 15:15:41 GMT</pubDate>
-      <guid isPermaLink="false">fe1aa06852e8</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/08/260821012234.htm">ScienceDaily</source>
-    </item>
-    <item>
-      <title>How Complex Systems Fail</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f68b1a5ee94f</link>
-      <description>All of the interesting systems (e.g. transportation, healthcare, power
-          generation) are inherently and unavoidably hazardous by the own
-          nature. The frequency of hazard exposure can sometimes be changed but
-          the processes involved in the system are themselves intrinsically and
-          irreducibly hazardous. It is the presence of these hazards that drives
-          the creation of defenses against hazard that characterize these
-          systems.</description>
-      <pubDate>Sun, 23 Aug 2026 15:13:31 GMT</pubDate>
-      <guid isPermaLink="false">f68b1a5ee94f</guid>
-      <source url="https://how.complexsystems.fail/">Hacker News</source>
-    </item>
-    <item>
-      <title>16-latek na hulajnodze wjechał pod koła auta prowadzonego przez 17-latka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a18fb813ea1e</link>
-      <description>Do szpitala trafił 16-letni kierowca hulajnogi elektrycznej, który w Kościelnej Wsi (Wielkopolskie) zderzył się z 17-letnim kierowcą auta osobowego. Nastolatek jechał bez kasku i świateł.</description>
-      <pubDate>Sun, 23 Aug 2026 15:07:30 GMT</pubDate>
-      <guid isPermaLink="false">a18fb813ea1e</guid>
-      <source url="https://tvn24.pl/poznan/koscielna-wies-16-latek-na-hulajnodze-wjechal-pod-kola-auta-prowadzonego-przez-17-latka-st9202404?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>ECB investigating England bowler Brydon Carse for &apos;nightclub incident&apos;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ea649e8f2f9d</link>
-      <description>The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.</description>
-      <pubDate>Sun, 23 Aug 2026 15:07:04 GMT</pubDate>
-      <guid isPermaLink="false">ea649e8f2f9d</guid>
-      <source url="https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Scientists left this farm field alone. Thousands of orchids appeared</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4ad049b01ca2</link>
-      <description>An abandoned farm field became a flourishing wildflower meadow within little more than a decade, with plant diversity doubling and thousands of orchids appearing naturally. The discovery suggests that simply giving nature time to recover could be a powerful and inexpensive tool for restoring biodiversity.</description>
-      <pubDate>Sun, 23 Aug 2026 15:01:34 GMT</pubDate>
-      <guid isPermaLink="false">4ad049b01ca2</guid>
-      <source url="https://www.sciencedaily.com/releases/2026/08/260822015208.htm">ScienceDaily</source>
     </item>
   </channel>
 </rss>
