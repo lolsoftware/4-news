@@ -1,0 +1,13 @@
+{
+  "id": "b74e23451825",
+  "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+  "originalTitle": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://martypc.net/",
+  "publishedAt": "2026-08-23T03:13:16.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"start_screen\"> <main aria-labelledby=\"system_select_title\"> <p><img src=\"https://martypc.net/assets/marty_logo_about.png\" alt=\"MartyPC\"> </p> <h2 id=\"system_select_title\">Choose a System</h2> <div aria-live=\"polite\" id=\"system_details_panel\"> <p id=\"selected_system_name\">Loading systems…</p> </div> <!-- main.rs attaches the WASM startup handler to this element. --> <p> <span>Use the arrows or keyboard to rotate</span> <span>Swipe or tap the arrows to rotate</span> </p> </main> </div></div>",
+  "image": "images/f8f471696d24.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
