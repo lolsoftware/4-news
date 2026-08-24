@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:51:16 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zrób to z ugotowanymi ziemniakami. Pomaga kontrolować cukier we krwi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d2763bd957c4</link>
+      <description>Skrobia ma duże znaczenie w kontekście m.in. regulacji poziomu cukru we krwi. Niewiele osób zdaje sobie sprawę z istnienia skrobi opornej, która nie ulega trawieniu w jelicie cienkim. Jej źródłem są schłodzone ugotowane ziemniaki, ryż lub makaron.</description>
+      <pubDate>Mon, 24 Aug 2026 21:15:00 GMT</pubDate>
+      <guid isPermaLink="false">d2763bd957c4</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Zrob-to-z-ugotowanymi-ziemniakami-Pomaga-kontrolowac-cukier-we-krwi,288089,11.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Naturalny energetyk. 3 sztuki dziennie jak balsam dla jelit</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b47a956992c8</link>
@@ -14,6 +22,22 @@
       <pubDate>Mon, 24 Aug 2026 20:50:00 GMT</pubDate>
       <guid isPermaLink="false">b47a956992c8</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Naturalny-energetyk-3-sztuki-dziennie-jak-balsam-dla-jelit,288101,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Zillow and Redfin settle FTC antitrust case</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd52c00ec34f</link>
+      <description>Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.</description>
+      <pubDate>Mon, 24 Aug 2026 20:45:33 GMT</pubDate>
+      <guid isPermaLink="false">bd52c00ec34f</guid>
+      <source url="https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/">TechCrunch</source>
+    </item>
+    <item>
+      <title>USA zdejmuje Syrię z listy krajów sponsorujących terroryzm. Historyczna decyzja Waszyngtonu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/02b5fbf7201c</link>
+      <description>Stany Zjednoczone oficjalnie usunęły Syrię z listy krajów sponsorujących terroryzm, kończąc tym samym trwające od dekad restrykcje, wobec tego państwa. Decyzja, zapowiadana przez prezydenta Donalda Trumpa, otwiera nowy rozdział w relacjach amerykańsko-syryjskich i może mieć dalekosiężne konsekwencje dla sytuacji na Bliskim Wschodzie.</description>
+      <pubDate>Mon, 24 Aug 2026 20:33:00 GMT</pubDate>
+      <guid isPermaLink="false">02b5fbf7201c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-usa-zdejmuje-syrie-z-listy-krajow-sponsorujacych-terroryzm-h,nIdn,1014952">RMF24</source>
     </item>
     <item>
       <title>Przemyca toksyczne związki. Najbardziej szkodliwy dodatek do rosołu</title>
@@ -24,12 +48,60 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Przemyca-toksyczne-zwiazki-Najbardziej-szkodliwy-dodatek-do-rosolu,288104,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c21b6a646e24</link>
+      <description>Make the most of Disrupt&apos;s crowds of potential investors and partners by exhibiting your startup from October 13-15.</description>
+      <pubDate>Mon, 24 Aug 2026 20:16:34 GMT</pubDate>
+      <guid isPermaLink="false">c21b6a646e24</guid>
+      <source url="https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/">TechCrunch</source>
+    </item>
+    <item>
       <title>&quot;Skojarzenie ze sprawnością fizyczną i atrakcyjnością&quot;. Jest zawiadomienie do prokuratury ws. reklam</title>
       <link>https://lolsoftware.github.io/4-news/#/article/26731f66d918</link>
       <description>Może wywoływać skojarzenia alkoholu ze sprawnością fizyczną, atrakcyjnością seksualną i pracą, co może naruszać zapisy ustawy o wychowaniu w trzeźwości - tak Krajowe Centrum Przeciwdziałania Uzależnieniom oceniło kampanię reklamową piwa. Sprawą zajmie się prokuratura.</description>
       <pubDate>Mon, 24 Aug 2026 20:05:00 GMT</pubDate>
       <guid isPermaLink="false">26731f66d918</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Skojarzenie-ze-sprawnoscia-fizyczna-i-atrakcyjnoscia-Jest-zawiadomienie-do-prokuratury-ws-reklam,288117,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Alabama launches investigation into OpenAI’s hack of Hugging Face</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a429b5e27fc5</link>
+      <description>Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.</description>
+      <pubDate>Mon, 24 Aug 2026 19:58:17 GMT</pubDate>
+      <guid isPermaLink="false">a429b5e27fc5</guid>
+      <source url="https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Dragon Ball-inspired theme park to be built near Paris</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c20f356c5452</link>
+      <description>The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.</description>
+      <pubDate>Mon, 24 Aug 2026 19:57:55 GMT</pubDate>
+      <guid isPermaLink="false">c20f356c5452</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Amazon hikes hardware prices by 60 percent, blaming memory shortage</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25490c8a012f</link>
+      <description>As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.</description>
+      <pubDate>Mon, 24 Aug 2026 19:54:50 GMT</pubDate>
+      <guid isPermaLink="false">25490c8a012f</guid>
+      <source url="https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/878545275de8</link>
+      <description>At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit&apos;s role in developing it.</description>
+      <pubDate>Mon, 24 Aug 2026 19:54:19 GMT</pubDate>
+      <guid isPermaLink="false">878545275de8</guid>
+      <source url="https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Zima kluczowym testem dla Ukrainy. Sikorski mówi o „warunkach do zawieszenia broni”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5da451eee4d9</link>
+      <description>Wicepremier i szef polskiej dyplomacji Radosław Sikorski ocenia, że nadchodząca zima może być kluczowa dla losów wojny w Ukrainie. Polska przygotowuje się do zwiększenia dostaw gazu, by wesprzeć ukraińską infrastrukturę energetyczną przed spodziewanymi atakami Rosji.</description>
+      <pubDate>Mon, 24 Aug 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="false">5da451eee4d9</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zima-kluczowym-testem-dla-ukrainy-sikorski-mowi-o-warunkach-,nIdn,1014951">RMF24</source>
     </item>
     <item>
       <title>Zdrowie mózgu jako priorytet państwa. Eksperci chcą strategii i Krajowej Sieci Neurologicznej</title>
@@ -40,6 +112,22 @@
       <source url="https://www.rynekzdrowia.pl/Neurologia/Zdrowie-mozgu-jako-priorytet-panstwa-Eksperci-chca-strategii-i-Krajowej-Sieci-Neurologicznej,288120,208.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>USA usunęły Syrię z listy krajów sponsorujących terroryzm</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f570bb8f1c38</link>
+      <description>Ministerstwo skarbu (finansów) USA poinformowało w poniedziałek o usunięciu Syrii z listy krajów sponsorujących terroryzm. Wcześniej taki krok zapowiedział prezydent Donald Trump.</description>
+      <pubDate>Mon, 24 Aug 2026 19:51:00 GMT</pubDate>
+      <guid isPermaLink="false">f570bb8f1c38</guid>
+      <source url="https://www.bankier.pl/wiadomosc/USA-usunely-Syrie-z-listy-krajow-sponsorujacych-terroryzm-9186513.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Chwieje się waluta Iranu. Rusza operacja &quot;Gospodarczy wyrzutek&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a48210890179</link>
+      <description>Oficjalny kurs dolara w Iranie to 1,5 mln riali. W sobotę kurs rynkowy przebił 2 mln a w niedzielę i poniedziałek irańska waluta nadal traciła na wartości. To w dużej mierze skutek kolejnej fali sankcji. Sekretarz skarbu USA Scott Bessent ogłosił, że państwa świata muszą zerwać stosunki gospodarcze z Iranem albo &quot;narażą się na konsekwencje ze strony Waszyngtonu&quot;.</description>
+      <pubDate>Mon, 24 Aug 2026 19:50:18 GMT</pubDate>
+      <guid isPermaLink="false">a48210890179</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/iranska-waluta-kontynuuje-spadki-scott-bessent-oglasza-nowe-sankcje-st9204219?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Obciąża trzustkę, glukoza zaczyna szaleć we krwi. Fatalne konsekwencje</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8e8d9940da74</link>
       <description>Trzustka odpowiada za ważne procesy związane m.in. z trawieniem i gospodarką cukrową, dlatego jej prawidłowe funkcjonowanie ma ogromne znaczenie dla całego organizmu. Na jej kondycję wpływa również codzienny jadłospis. Niektóre produkty mogą dodatkowo obciążać ten narząd, szczególnie gdy regularnie pojawiają się w diecie.</description>
@@ -48,12 +136,116 @@
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Obciaza-trzustke-glukoza-zaczyna-szalec-we-krwi-Fatalne-konsekwencje,288110,11.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Apply now to host a Side Event at TechCrunch Disrupt 2026</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e17e8f017ef</link>
+      <description>Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.</description>
+      <pubDate>Mon, 24 Aug 2026 19:44:13 GMT</pubDate>
+      <guid isPermaLink="false">7e17e8f017ef</guid>
+      <source url="https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Charity? Acting? The Cotswolds? What will Harry and Meghan&apos;s UK life look like?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e70dbdb19fca</link>
+      <description>The couple&apos;s return to the UK is imminent - and what they&apos;ll be focusing on here is gradually becoming clearer.</description>
+      <pubDate>Mon, 24 Aug 2026 19:43:51 GMT</pubDate>
+      <guid isPermaLink="false">e70dbdb19fca</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>GM vehicles under federal scrutiny after hundreds of reports</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e6821914cfb0</link>
+      <description>The eBoost brake-by-wire system is responsible for at least 22 crashes now.</description>
+      <pubDate>Mon, 24 Aug 2026 19:42:50 GMT</pubDate>
+      <guid isPermaLink="false">e6821914cfb0</guid>
+      <source url="https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Videos showing dangerous driving easily found on social media</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a48bd1b4f79</link>
+      <description>At least one of the young people killed in the crash appears in videos posted on TikTok showing dangerous driving.</description>
+      <pubDate>Mon, 24 Aug 2026 19:42:47 GMT</pubDate>
+      <guid isPermaLink="false">8a48bd1b4f79</guid>
+      <source url="https://www.bbc.co.uk/news/videos/c05rjenm66go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/89b2d0cc5dc8</link>
+      <description>l3a0&apos;s Claude Code plugin marketplace — kindle-highlights: verbatim Kindle highlight extraction with truncation recovery - l3a0/claude-plugins</description>
+      <pubDate>Mon, 24 Aug 2026 19:32:18 GMT</pubDate>
+      <guid isPermaLink="false">89b2d0cc5dc8</guid>
+      <source url="https://github.com/l3a0/claude-plugins">Hacker News</source>
+    </item>
+    <item>
+      <title>Tysiące hektarów zniszczone przez ogień. Zdjęcia pokazują skalę żywiołu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2feb3d259f38</link>
+      <description>W amerykańskim  stanie Nevada trwa walka z potężnym pożarem roślinności, który wybuchł w północno-zachodniej części miasta Reno. Od soboty ogień strawił już ponad sześć tysięcy hektarów terenu i do tej pory nie został opanowany. Skalę żywiołu widać na zdjęciach satelitarnych.</description>
+      <pubDate>Mon, 24 Aug 2026 19:25:14 GMT</pubDate>
+      <guid isPermaLink="false">2feb3d259f38</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-tysiace-hektarow-zniszczone-przez-ogien-zdjecia-pokazuja-skale-zywiolu-st9204189?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Nadchodzi „ekonomiczne uduszenie” Iranu. USA ostrzega cały świat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/38e493465e98</link>
+      <description>Stany Zjednoczone ogłosiły rozpoczęcie szeroko zakrojonej operacji „Economic Outcast”, wymierzonej w Iran i jego partnerów gospodarczych. Waszyngton ostrzega, że każde państwo utrzymujące relacje handlowe z Teheranem musi liczyć się z poważnymi konsekwencjami. Na liście sankcji znalazły się już dziesiątki firm i statków z całego świata, a to dopiero początek amerykańskiej ofensywy.</description>
+      <pubDate>Mon, 24 Aug 2026 19:22:00 GMT</pubDate>
+      <guid isPermaLink="false">38e493465e98</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-nadchodzi-ekonomiczne-uduszenie-iranu-usa-ostrzega-caly-swia,nIdn,1014949">RMF24</source>
+    </item>
+    <item>
+      <title>Benjamin Netanjahu: Iran próbował zabić mojego syna</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9943f08c257d</link>
+      <description>Premier Izraela Benjamin Netanjahu poinformował, że Iran miał podjąć próbę zamachu na jednego z jego synów. Szef izraelskiego rządu nie ujawnił, którego z nich dotyczyły jego słowa.</description>
+      <pubDate>Mon, 24 Aug 2026 19:20:00 GMT</pubDate>
+      <guid isPermaLink="false">9943f08c257d</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-benjamin-netanjahu-iran-probowal-zabic-mojego-syna,nIdn,1014948">RMF24</source>
+    </item>
+    <item>
+      <title>Inaudible sounds used to fingerprint browsers catch AliExpress red-handed</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/97c5603c9e9f</link>
+      <description>Is the technique outdated? Yes. Is it still creepy? Also yes.</description>
+      <pubDate>Mon, 24 Aug 2026 19:19:21 GMT</pubDate>
+      <guid isPermaLink="false">97c5603c9e9f</guid>
+      <source url="https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Oceans hit highest temperature on record</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/53d975e083ea</link>
+      <description>The record &quot;is another clear signal of an ocean under growing stress&quot;, according to Dr Samantha Burgess from the European Copernicus climate change service.</description>
+      <pubDate>Mon, 24 Aug 2026 19:19:08 GMT</pubDate>
+      <guid isPermaLink="false">53d975e083ea</guid>
+      <source url="https://www.bbc.com/news/articles/c62m4gpnp78o">Hacker News</source>
+    </item>
+    <item>
+      <title>Poseł PiS: jak słucham Mateusza Morawieckiego, to tak jakby nie był w ogóle w tym rządzie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d01f2a7f783</link>
+      <description>Poseł PiS Michał Wójcik ocenił w &quot;Kropce nad i&quot; w TVN24, że Mateusz Morawiecki wypowiada się tak jakby nigdy nie stał na czele swojego rządu. - Pan poseł Wójcik wyrzekł się swojego szefa - skomentował drugi gość programu, poseł KO Konrad Frysztak.</description>
+      <pubDate>Mon, 24 Aug 2026 19:16:58 GMT</pubDate>
+      <guid isPermaLink="false">8d01f2a7f783</guid>
+      <source url="https://tvn24.pl/polska/rozlam-w-pis-posel-michal-wojcik-o-mateuszu-morawieckim-zachowuje-sie-tak-jakby-nie-byl-w-naszym-rzadzie-st9204191?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Pomaga pozbyć się tłuszczu z brzucha. Badani tracili nawet 14 cm</title>
       <link>https://lolsoftware.github.io/4-news/#/article/53bc29b24f40</link>
       <description>Zielona kawa to popularny składnik preparatów na odchudzanie. Jej zwolennicy wskazują przede wszystkim na dużą zawartość kwasów chlorogenowych – związków, które mogą wpływać na metabolizm glukozy i tłuszczów. Czy jednak samo picie zielonej kawy rzeczywiście pomaga pozbyć się kilogramów?</description>
       <pubDate>Mon, 24 Aug 2026 19:10:00 GMT</pubDate>
       <guid isPermaLink="false">53bc29b24f40</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Pomaga-pozbyc-sie-tluszczu-z-brzucha-Badani-tracili-nawet-14-cm,288112,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Zagubiona w Tatrach suczka czeka na właściciela. Apel TPN</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0e27bb1637d6</link>
+      <description>Ratownicy Tatrzańskiego Pogotowia Narodowego apelują na Facebooku w sprawie czworonożnej zguby. Zaopiekowali się suczką, która samotnie przemierzała górskie szlaki. Teraz zwracają się do właściciela: „Odezwij się i zabierz swojego pupila do domu!”</description>
+      <pubDate>Mon, 24 Aug 2026 19:09:00 GMT</pubDate>
+      <guid isPermaLink="false">0e27bb1637d6</guid>
+      <source url="https://www.rmf24.pl/regiony/zakopane/news-zagubiona-w-tatrach-suczka-czeka-na-wlasciciela-apel-tpn,nIdn,1014947">RMF24</source>
+    </item>
+    <item>
+      <title>LLMs could control their host machines by exploiting inference engines</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/113584368e84</link>
+      <description>| Read on LessWrong | Large language models often take actions running on one computer (via an agentic harness such as Claude Code or Codex), however the LLMs’ responses to prompts are computed on a different computer with GPU access.</description>
+      <pubDate>Mon, 24 Aug 2026 19:03:06 GMT</pubDate>
+      <guid isPermaLink="false">113584368e84</guid>
+      <source url="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">Hacker News</source>
     </item>
     <item>
       <title>Nieistniejące źródła w książce profesor od AI. Badaczka tłumaczy się z użycia ChatGPT</title>
@@ -70,6 +262,14 @@
       <pubDate>Mon, 24 Aug 2026 18:54:00 GMT</pubDate>
       <guid isPermaLink="false">b1bc3e9066da</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-skandal-na-szwedzkim-uniwersytecie-ekspertka-od-etyki-ai-osk,nIdn,1014945">RMF24</source>
+    </item>
+    <item>
+      <title>Michał Fuja o tłumaczeniach Piesiewicza: zakup zegarka był podziękowaniem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08891f4a1f76</link>
+      <description>Mamy dowody, że zegarek (...) był podziękowaniem za coś, co może wypełniać znamiona przestępstwa - powiedział w programie TVN24 &quot;Fakty po Faktach&quot; reporter &quot;Superwizjera&quot; Michał Fuja. Dziennikarz ujawnił, że prezes Polskiego Komitetu Olimpijskiego dostał od szefa Zondacrypto Przemysława Krala zegarek wart 40 tysięcy euro.</description>
+      <pubDate>Mon, 24 Aug 2026 18:51:03 GMT</pubDate>
+      <guid isPermaLink="false">08891f4a1f76</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/michal-fuja-w-faktach-po-faktach-dziennikarz-o-aferze-zondacrypto-i-zegarku-dla-piesiewicza-st9204099?source=rss">TVN24</source>
     </item>
     <item>
       <title>Ponad 120 km, 196 mostów i 55 tuneli. Oto najpiękniejsza trasa kolejowa Europy</title>
@@ -118,6 +318,22 @@
       <pubDate>Mon, 24 Aug 2026 18:25:00 GMT</pubDate>
       <guid isPermaLink="false">5e87c9d1a41e</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Aktywuje-stan-zapalny-Zaobserwowano-zmiany-w-tkance-miesniowej,288114,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/028d5cd17cb0</link>
+      <description>A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no dae...</description>
+      <pubDate>Mon, 24 Aug 2026 18:24:59 GMT</pubDate>
+      <guid isPermaLink="false">028d5cd17cb0</guid>
+      <source url="https://github.com/getkern/kern">Hacker News</source>
+    </item>
+    <item>
+      <title>Radosław Sikorski: Władimir Putin ma jeszcze dwie karty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/de27c0eea965</link>
+      <description>Jeśli Władimir Putin nie złamie Ukraińców w tę zimę, to myślę, że powstaną warunki do zawieszenia broni - mówił w &quot;Faktach po Faktach&quot; w TVN24 wicepremier, szef MSZ Radosław Sikorski. W jego ocenie rosyjski przywódca &quot;ma jeszcze dwie karty&quot;.</description>
+      <pubDate>Mon, 24 Aug 2026 18:24:03 GMT</pubDate>
+      <guid isPermaLink="false">de27c0eea965</guid>
+      <source url="https://tvn24.pl/polska/radoslaw-sikorski-wladimir-putin-ma-jeszcze-dwie-karty-st9204159?source=rss">TVN24</source>
     </item>
     <item>
       <title>Police pass Mohamed Al Fayed case file to prosecutors</title>
@@ -190,222 +406,6 @@
       <pubDate>Mon, 24 Aug 2026 17:53:57 GMT</pubDate>
       <guid isPermaLink="false">7c62dd24b138</guid>
       <source url="https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Organised crime arrests as police investigate A66 crash that killed two officers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/407fc963976a</link>
-      <description>Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.</description>
-      <pubDate>Mon, 24 Aug 2026 17:53:40 GMT</pubDate>
-      <guid isPermaLink="false">407fc963976a</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/50f1238f11ba</link>
-      <description>Jobs at Autostep</description>
-      <pubDate>Mon, 24 Aug 2026 17:53:14 GMT</pubDate>
-      <guid isPermaLink="false">50f1238f11ba</guid>
-      <source url="https://www.ycombinator.com/companies/autostep/jobs">Hacker News</source>
-    </item>
-    <item>
-      <title>Skarb z czasów bitwy pod Grunwaldem. Niezwykłe znalezisko archeologów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c4f14c6dbaf3</link>
-      <description>Na Polach Grunwaldu, gdzie ponad sześć wieków temu rozegrała się jedna z najważniejszych bitew w historii Europy, archeolodzy natrafili na wyjątkowe znalezisko. W trakcie trwających od kilku dni badań odkryto dziesięć średniowiecznych monet, z czego siedem to dobrze zachowane grosze praskie, a trzy kolejne są lekko uszkodzone. Monety zostały znalezione na głębokości około 20 centymetrów pod ziemią, w pobliżu miejsca, gdzie podczas rekonstrukcji bitwy stawiany jest namiot króla Jagiełły.</description>
-      <pubDate>Mon, 24 Aug 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="false">c4f14c6dbaf3</guid>
-      <source url="https://www.rmf24.pl/regiony/olsztyn/news-skarb-z-czasow-bitwy-pod-grunwaldem-niezwykle-znalezisko-arc,nIdn,1014937">RMF24</source>
-    </item>
-    <item>
-      <title>Piorun uderzył w matkę i jej 2-letnią córkę. Obie zmarły</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/14656fdf7ee1</link>
-      <description>31-letnia kobieta i jej 2-letnia córka zginęły po uderzeniu pioruna w Margate na Florydzie. Do tragedii doszło w niedzielne popołudnie, gdy - według relacji świadka - obie wysiadały z samochodu.</description>
-      <pubDate>Mon, 24 Aug 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="false">14656fdf7ee1</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-piorun-uderzyl-w-matke-i-jej-2-letnia-corke-obie-zmarly,nIdn,1014938">RMF24</source>
-    </item>
-    <item>
-      <title>Święto niepodległości Ukrainy. &quot;Życzę wam wejścia do NATO i Unii Europejskiej&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/79b2450ac157</link>
-      <description>W Warszawie trwają uroczystości związane z obchodami 35. rocznicy odzyskania niepodległości przez Ukrainę. Wśród gości, którzy wygłosili przemówienia, był między innymi minister sprawiedliwości Waldemar Żurek. - Z całego serca życzę wam przede wszystkim zwycięstwa. Życzę wam także, żebyście weszli do NATO i Unii Europejskiej - powiedział. Podobne uroczystości odbyły się również w innych polskich miastach.</description>
-      <pubDate>Mon, 24 Aug 2026 17:45:27 GMT</pubDate>
-      <guid isPermaLink="false">79b2450ac157</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-lublin-swieto-niepodleglosci-ukrainy-zycze-wam-wejscia-do-nato-i-unii-europejskiej-st9204107?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/79012fbf9858</link>
-      <description>NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the</description>
-      <pubDate>Mon, 24 Aug 2026 17:34:09 GMT</pubDate>
-      <guid isPermaLink="false">79012fbf9858</guid>
-      <source url="https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>MAIA Air Sensor at Work in Addis Ababa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/be5081c6c575</link>
-      <description>This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s</description>
-      <pubDate>Mon, 24 Aug 2026 17:27:01 GMT</pubDate>
-      <guid isPermaLink="false">be5081c6c575</guid>
-      <source url="https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Ekspert: co 10. Niemiec ma problem z alkoholem. &quot;Lobby blokuje regulacje&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4aac5a8016c4</link>
-      <description>Osiem milionów Niemców pije alkohol w ilościach szkodliwych dla zdrowia – ostrzega Georg Schomerus, ekspert zajmujący się uzależnieniami. Jego zdaniem wpływowe lobby przemysłu spirytusowego uniemożliwia skuteczną walkę z tym nałogiem.</description>
-      <pubDate>Mon, 24 Aug 2026 17:24:15 GMT</pubDate>
-      <guid isPermaLink="false">4aac5a8016c4</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Ekspert-co-10-Niemiec-ma-problem-z-alkoholem-Lobby-blokuje-regulacje,288118,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Mapping Air Pollution With MAIA Sensors in Addis Ababa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d60a76ac1afa</link>
-      <description>This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to</description>
-      <pubDate>Mon, 24 Aug 2026 17:21:28 GMT</pubDate>
-      <guid isPermaLink="false">d60a76ac1afa</guid>
-      <source url="https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Irański rial traci na wartości. Dolar przekroczył kolejną granicę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8497104ef71a</link>
-      <description>Po tym, jak w ubiegłą w sobotę 1 dolar USA przekroczył kolejną psychologiczną granicę 2 mln riali, w poniedziałek irańska waluta dalej traciła na wartości; za 1 USD płacono 2,028 mln riali – poinformowała AP. Oficjalny kurs irańskiego Banku Centralnego to ok. 1,5 mln riali.</description>
-      <pubDate>Mon, 24 Aug 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="false">8497104ef71a</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Iranski-rial-traci-na-wartosci-Dolar-przekroczyl-kolejna-granice-9186469.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Indie. To może być najsłabszy sezon monsunowy od lat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6eea87f38533</link>
-      <description>Tegoroczny monsun letni w Indiach może być najsłabszy od prawie dwudziestu lat. Według prognoz suma opadów w całym sezonie może być o około 15 procent niższa od średniej. Zdaniem ekspertów taka sytuacja może mieć poważne konsekwencje dla indyjskiej gospodarki.</description>
-      <pubDate>Mon, 24 Aug 2026 17:10:55 GMT</pubDate>
-      <guid isPermaLink="false">6eea87f38533</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/indie-to-moze-byc-najslabszy-sezon-monsunowy-od-lat-st9204016?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Londyn się zgadza. Kijów otrzyma kluczową technologię</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/42428db4ec44</link>
-      <description>Ukraina ma otrzymać od Wielkiej Brytanii technologię pozwalającą na rozwijanie własnych zdolności produkcji pocisków manewrujących Storm Shadow. Decyzję ogłosił w Kijowie premier Wielkiej Brytanii Andy Burnham, podczas spotkania tzw. koalicji chętnych. Rozmowy dotyczyły też obrony powietrznej przed zimą, rosyjskiej „floty cieni” oraz bezpieczeństwa na Morzu Czarnym.</description>
-      <pubDate>Mon, 24 Aug 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="false">42428db4ec44</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-londyn-sie-zgadza-kijow-otrzyma-kluczowa-technologie,nIdn,1014932">RMF24</source>
-    </item>
-    <item>
-      <title>Kraków: Śmiertelne pobicie w Nowej Hucie. Policja zatrzymała dwie osoby</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73d9c73125b9</link>
-      <description>Policja zatrzymała dwie osoby w związku ze śmiertelnym pobiciem 36-latka na osiedlu Willowym w krakowskiej Nowej Hucie. W nocy z czwartku na piątek zaatakowała go grupa mężczyzn.</description>
-      <pubDate>Mon, 24 Aug 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="false">73d9c73125b9</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-krakow-smiertelne-pobicie-w-nowej-hucie-policja-zatrzymala-d,nIdn,1014935">RMF24</source>
-    </item>
-    <item>
-      <title>The entire city of San Francisco as a video game</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/945e4068028b</link>
-      <description>Copyright © 2026 Apple Inc. All rights reserved.Terms &amp; Conditions</description>
-      <pubDate>Mon, 24 Aug 2026 17:05:38 GMT</pubDate>
-      <guid isPermaLink="false">945e4068028b</guid>
-      <source url="https://sf.thijs.gg/">Hacker News</source>
-    </item>
-    <item>
-      <title>Armenia zrywa z Rosją? Erywań chce dołączyć do Unii Europejskiej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/835cfb2ff256</link>
-      <description>Premier Armenii Nikol Paszynian zapowiedział złożenie oficjalnego wniosku o członkostwo w Unii Europejskiej. To kolejny krok w kierunku zbliżenia Erywania z Zachodem i oddalania się od rosyjskiej strefy wpływów. Rosja nie kryje niezadowolenia i ostrzega Armenię przed politycznymi oraz gospodarczymi konsekwencjami.</description>
-      <pubDate>Mon, 24 Aug 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="false">835cfb2ff256</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-armenia-zrywa-z-rosja-erywan-chce-dolaczyc-do-unii-europejsk,nIdn,1014933">RMF24</source>
-    </item>
-    <item>
-      <title>CD Projekt RED planuje premierę &quot;Wiedźmina 4&quot;. Wskazano termin</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/523fd6bce4bf</link>
-      <description>CD Projekt celuje z premierą Wiedźmina 4 na okno wydawnicze w 2028 roku - poinformował Joint CEO dewelopera gier w filmie wideo udostępnionym na platformie X poprzez konto dedykowane grze oraz relacjom inwestorskim. Spółka nie pokaże nic związanego z tytułem otwierającym nową trylogię wiedźmińską podczas targów Gamescom.</description>
-      <pubDate>Mon, 24 Aug 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="false">523fd6bce4bf</guid>
-      <source url="https://www.bankier.pl/wiadomosc/CD-Projekt-RED-planuje-premiere-Wiedzmina-4-na-2028-rok-Nowakowski-9186457.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Certyfikat, franki zamiast euro. Sprawdziliśmy wersję Piesiewicza w sprawie zegarka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d06c8273811</link>
-      <description>Prezes PKOl pokazał certyfikat wartego ponad 170 tysięcy złotych zegarka, który przekazał mu szef Zondacrypto. W dokumencie jest nazwisko Piesiewicza oraz adres w Turynie. Tylko że Piesiewicz tam nie mieszka. Po jego porannym wystąpieniu wątpliwości tylko przybyło.</description>
-      <pubDate>Mon, 24 Aug 2026 17:00:05 GMT</pubDate>
-      <guid isPermaLink="false">1d06c8273811</guid>
-      <source url="https://tvn24.pl/polska/sprawa-zegarka-za-40-tysiecy-euro-watpliwosci-wokol-wyjasnien-piesiewicza-st9203961?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>How the deadly A66 crash unfolded leaving seven dead</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/14720c8c1276</link>
-      <description>At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.</description>
-      <pubDate>Mon, 24 Aug 2026 16:55:42 GMT</pubDate>
-      <guid isPermaLink="false">14720c8c1276</guid>
-      <source url="https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Carse dropped from England squad for second Test after nightclub incident</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/adf8afd74647</link>
-      <description>Pace bowler Brydon Carse is removed from England&apos;s squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him being briefly arrested.</description>
-      <pubDate>Mon, 24 Aug 2026 16:52:44 GMT</pubDate>
-      <guid isPermaLink="false">adf8afd74647</guid>
-      <source url="https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3e6ae02d2641</link>
-      <description>CUDA is the most important software framework in the GPU compute world, and Nvidia is looking at supporting CUDA on RISC-V. Terms and conditions may apply.</description>
-      <pubDate>Mon, 24 Aug 2026 16:52:01 GMT</pubDate>
-      <guid isPermaLink="false">3e6ae02d2641</guid>
-      <source url="https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc">Hacker News</source>
-    </item>
-    <item>
-      <title>Pioruny z MESKO dla czterech państw za miliardy z SAFE</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/44fbdb3b5621</link>
-      <description>W poniedziałek podpisano umowę ramową dotyczącą dostawy kilku tysięcy przeciwlotniczych zestawów Piorun dla Wojska Polskiego, a także armii łotewskiej, litewskiej i norweskiej. Warte 8 miliardów złotych zamówienie zostanie sfinansowane ze środków SAFE.</description>
-      <pubDate>Mon, 24 Aug 2026 16:51:22 GMT</pubDate>
-      <guid isPermaLink="false">44fbdb3b5621</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/tysiace-zestawow-piorun-dla-wojsk-polski-norwegii-litwy-i-lotwy-zakup-pokryje-safe-st9203911?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zaparkowała w niewłaściwym miejscu, ale to nie był największy problem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/65315808f5d7</link>
-      <description>W niewłaściwie zaparkowanym pojeździe siedziała kobieta. Na fotelu pasażera leżały butelki po piwie. Zapewniała jednak, że nic nie piła. Wynik badania alkomatem pokazał, że kłamała.</description>
-      <pubDate>Mon, 24 Aug 2026 16:47:25 GMT</pubDate>
-      <guid isPermaLink="false">65315808f5d7</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/praga-polnoc/praga-polnoc-zaparkowala-w-niewlasciwym-miejscu-ale-nie-to-bylo-jej-najwiekszym-problemem-st9204075?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Wiedźmin 4 z datą premiery. CD PROJEKT RED zdradza termin</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a36eb3c1d3d1</link>
-      <description>Jeszcze przed Gamescomem studio podzieliło się informacją, na kiedy planowana jest premiera &quot;Wiedźmina 4&quot;.</description>
-      <pubDate>Mon, 24 Aug 2026 16:45:16 GMT</pubDate>
-      <guid isPermaLink="false">a36eb3c1d3d1</guid>
-      <source url="https://antyweb.pl/wiedzmin-4-z-data-premiery-cd-projekt-red-zdradza-termin">Antyweb</source>
-    </item>
-    <item>
-      <title>Rewolucja w turystyce. Ten kraj zdetronizuje Francję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ec56ebe0dfd0</link>
-      <description>Hiszpania na dobre rozkręca turystyczną ofensywę i – jak wynika z najnowszych prognoz – już za kilkanaście lat może zdetronizować Francję jako najchętniej odwiedzany kraj świata. Według wspólnego raportu Deloitte i Google, do 2040 roku Hiszpanię odwiedzi aż 110 milionów turystów rocznie, podczas gdy Francja przyciągnie ich około 105 milionów.</description>
-      <pubDate>Mon, 24 Aug 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="false">ec56ebe0dfd0</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-rewolucja-w-turystyce-ten-kraj-zdetronizuje-francje,nIdn,1014930">RMF24</source>
-    </item>
-    <item>
-      <title>Nie żyje jeden z najbogatszych Niemców. Klaus-Michel Kuehne miał 89 lat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9ad9f768ad8f</link>
-      <description>Zmarł miliarder Klaus-Michael Kuehne, przedsiębiorca związany z koncernem Keuhne+Nagel. Od 2022 roku był największym, pojedynczym akcjonariuszem Lufthansy.</description>
-      <pubDate>Mon, 24 Aug 2026 16:43:07 GMT</pubDate>
-      <guid isPermaLink="false">9ad9f768ad8f</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/zmarl-klaus-michael-kuhne-jeden-z-najbogatszych-niemcow-mial-89-lat-st9203886?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Prezes NFZ: warto zastanowić się nad grupami, które płacą niższą składkę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6727a16d14ba</link>
-      <description>Narodowemu Funduszowi Zdrowia w 2027 roku może zabraknąć ponad 20 mld zł. Prezes NFZ Filip Nowak przyznaje, że wśród rozważanych scenariuszy jest również dyskusja o składce zdrowotnej, w tym o grupach, które dziś płacą ją na preferencyjnych zasadach.</description>
-      <pubDate>Mon, 24 Aug 2026 16:38:00 GMT</pubDate>
-      <guid isPermaLink="false">6727a16d14ba</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Prezes-NFZ-warto-zastanowic-sie-nad-grupami-ktore-placa-nizsza-skladke,288111,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Tauron szacuje 1,61 mld zł EBITDA w II kwartale. Wynik powyżej konsensusu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e73d51ee2815</link>
-      <description>Tauron szacuje, że w drugim kwartale 2026 r. jego wynik EBITDA wyniósł 1,606 mld zł, a zysk netto sięgnął 586 mln zł. Konsensus PAP Biznes zakładał 1,583 mld zł EBITDA oraz 592,6 mln zł zysku netto.</description>
-      <pubDate>Mon, 24 Aug 2026 16:36:00 GMT</pubDate>
-      <guid isPermaLink="false">e73d51ee2815</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Tauron-szacuje-wynik-EBITDA-w-II-kw-na-1-606-mld-zl-wobec-1-583-mld-zl-konsensusu-9186443.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
