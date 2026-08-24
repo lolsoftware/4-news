@@ -1,0 +1,13 @@
+{
+  "id": "d0eb4431eb4d",
+  "title": "Implementation of GPT-2 in pure CMake",
+  "originalTitle": "Implementation of GPT-2 in pure CMake",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/AlpinDale/gpt2.cmake",
+  "publishedAt": "2026-08-23T21:41:17.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-hpc=\"true\" containertiming=\"hpc\"><article itemprop=\"text\">\n<p dir=\"auto\">GPT-2 in pure CMake, executed with Q16.16 integer arithmetic.</p>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Full model</h2><a id=\"user-content-full-model\" aria-label=\"Permalink: Full model\" href=\"#full-model\"></a></p>\n<div dir=\"auto\" data-snippet-clipboard-copy-content=\"mkdir -p checkpoint\ncurl -L -o checkpoint/model.safetensors https://huggingface.co/openai-community/gpt2/resolve/main/model.safetensors\ncurl -L -o checkpoint/vocab.json https://huggingface.co/openai-community/gpt2/resolve/main/vocab.json\ncurl -L -o checkpoint/merges.txt https://huggingface.co/openai-community/gpt2/resolve/main/merges.txt\npython3 tools/gen_full.py\ncmake -P gpt2_full.cmake -DPROMPT=&quot;Hello&quot; -DN=2\"><pre>mkdir -p checkpoint\ncurl -L -o checkpoint/model.safetensors https://huggingface.co/openai-community/gpt2/resolve/main/model.safetensors\ncurl -L -o checkpoint/vocab.json https://huggingface.co/openai-community/gpt2/resolve/main/vocab.json\ncurl -L -o checkpoint/merges.txt https://huggingface.co/openai-community/gpt2/resolve/main/merges.txt\npython3 tools/gen_full.py\ncmake -P gpt2_full.cmake -DPROMPT=<span><span>\"</span>Hello<span>\"</span></span> -DN=2</pre></div>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Toy model</h2><a id=\"user-content-toy-model\" aria-label=\"Permalink: Toy model\" href=\"#toy-model\"></a></p>\n<div dir=\"auto\" data-snippet-clipboard-copy-content=\"python3 tools/gen_tables.py\npython3 tools/gen_model.py\ncmake -P gpt2.cmake\"><pre>python3 tools/gen_tables.py\npython3 tools/gen_model.py\ncmake -P gpt2.cmake</pre></div>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">License</h2><a id=\"user-content-license\" aria-label=\"Permalink: License\" href=\"#license\"></a></p>\n<p dir=\"auto\">BSD 3-Clause. See <a href=\"https://github.com/AlpinDale/gpt2.cmake/blob/main/LICENSE\">LICENSE</a>.</p>\n</article></div></div>",
+  "image": "images/04cce85c4ac5.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
