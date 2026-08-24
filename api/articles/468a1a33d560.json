@@ -1,0 +1,13 @@
+{
+  "id": "468a1a33d560",
+  "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+  "originalTitle": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://twitter.com/lemire/status/2091894299289874926",
+  "publishedAt": "2026-08-24T15:08:17.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><p><span>Xiaomi is the Chinese tech giant. Their phones compete with iPhones.\n\nTheir new CPU roughly matches Apple cores on single threaded tasks, and is much faster in multithreaded execution. Of course, Apple may soon announce their next processor, so this edge may not last long. And you may find it it difficult to find a phone with the next CPU (Xring O3).\n\nBut the new Xiaomi processor is worth discussing further as it reveals an important trend.\n\nThe chip has a lot of cache (44 MB in total). It is more than most laptop CPUs. If you have an Intel processor in your laptop, chances are good that you have less cache.\n\nThe biggest cores on the the Xring O3 are the C1-Ultra. C1-Ultra really powerful cores. They support SME2 (Scalable Matrix Extension 2) for matrix/AI acceleration, SVE2 for data parallelism (SIMD).\n\nIt is astonishingly wide, with 21 execution ports, six of which support SIMD operations (128 bits).\n\nThis is more execution ports than you have on your Intel/AMD processor. The AMD Zen 5 has the  upper hand because it can do 4x512-bit but 6x128-bit is the best you can do on an ARM chip as far as I know.\n\nSo the trend is clear. We are getting cores that are massively parallel in terms of the number of execution units. We get better SIMD (more units) and many more units capable of doing arithmetic.\n\nThis means that you can do many, many independent additions or multiplications per cycle. And much more cache.\n\nThis is where all the transistors go.</span></p></div></div>",
+  "image": "images/c0cf7012af19.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

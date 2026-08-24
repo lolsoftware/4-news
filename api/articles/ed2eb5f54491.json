@@ -1,0 +1,13 @@
+{
+  "id": "ed2eb5f54491",
+  "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+  "originalTitle": "Public services are increasingly strained by LLM-written appeals for benefits",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2608.16603",
+  "publishedAt": "2026-08-24T16:30:21.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2608.16603\">View PDF</a> <a href=\"https://arxiv.org/html/2608.16603v2\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>AI agents are making it easier for the public to interact with government, such as by helping them apply for benefits, understand complex policies, and make their opinions heard. Although improving service accessibility is beneficial, any resulting surges in demand could strain unprepared government services. We term such surges agentic flooding of government services (\"flooding\") and provide three contributions. First, based on a collected dataset of 84 potential cases of flooding across 11 jurisdictions, we posit that flooding is likely occurring widely today, mostly through large language models (LLMs) generating text cheaply. Second, we evaluate what services are most exposed to flooding. We develop a risk matrix to analyze a service's exposure, and suggest that near-term risk is highest for financially attractive, but complex services. Finally, we map possible government responses to flooding. Precedent suggests these responses will likely be sufficient to stop most cases of flooding, but the fastest to deploy - friction-inducing measures like fees - often trade off equitable access to public services. Accordingly, we close by recommending near-term actions that may allow governments to mitigate flooding without invoking this trade-off. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Chris Schmitz [<a href=\"https://arxiv.org/show-email/64e03926/2608.16603\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/2608.16603v1\" rel=\"nofollow\">[v1]</a></strong> Mon, 17 Aug 2026 13:59:28 UTC (248 KB)<br> <strong>[v2]</strong> Wed, 19 Aug 2026 16:17:45 UTC (248 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
