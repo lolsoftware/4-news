@@ -1,0 +1,13 @@
+{
+  "id": "1cbe465e99f0",
+  "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+  "originalTitle": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://glassbox.codecanary.org/",
+  "publishedAt": "2026-08-24T16:15:10.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\">\n\n<header> <div> <p>Fingerprint bench · client-side only</p> <p>Every measurement a website can take from your browser, run live and shown back to you. This is the same class of signals the tracking and anti-fraud scripts collect — surfaced instead of hidden.</p> </div>\n</header>\n\n<div> <div data-t=\"hw\"> <p><span>1</span> Hardware &amp; environment <span>cross-engine · links you across <em>different</em> browsers</span></p> <p>…</p> </div> <div data-t=\"engine\"> <p><span>2</span> Engine × hardware <span>canvas · audio · math · codecs — links within one engine family</span></p> <p>…</p> </div> <div data-t=\"build\"> <p><span>3</span> Browser build <span>which browser &amp; version — not who you are</span></p> <p>…</p> </div> <div data-t=\"session\"> <p><span>4</span> Session <span>theme · quota · timing · IP — resets constantly</span></p> <p>…</p> </div> </div> <div> <p><span></span> <span><b>Mostly local.</b> Every fingerprinting probe runs in your browser and stays here — no analytics, no beacon. The <b>one exception</b> is IP intelligence: on load, GlassBox queries public geolocation APIs (ipwho.is, ipapi.is) to look up your address, network and VPN status. Turn <b>Geo</b> off in the toolbar to stay fully local. View source to confirm the rest.</span> </p>\n</div> <main> </main> <!-- Cloudflare Pages Analytics --><!-- Cloudflare Pages Analytics --> </div>",
+  "image": "images/3a453616e491.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

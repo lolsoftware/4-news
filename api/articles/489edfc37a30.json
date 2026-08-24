@@ -1,0 +1,13 @@
+{
+  "id": "489edfc37a30",
+  "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+  "originalTitle": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://picomq.com/",
+  "publishedAt": "2026-08-24T16:08:17.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-1428d186=\"\" data-v-8b561e3d=\"\" id=\"VPContent\" data-v-5d98c3a5=\"\"><!--[--><!--]--><div data-v-4f9c455b=\"\" data-v-8b561e3d=\"\"><!--[--><!--]--><!--[--><!--[--><!--[--><!--[--><!--[--><!--[--><h2><span> Durable streams on<br><span>object storage</span></span></h2><p> PicoMQ is durable, real-time streams over HTTP,<br> built on S3-compatible object storage. </p><!--]--><!--]--><!--]--><!--]--><!--]--><!--]--><!--[--><!--]--><div data-v-4f9c455b=\"\"><!--[--><div data-v-4f9c455b=\"\"><p><a href=\"https://picomq.com/docs\" data-v-4f9c455b=\"\" data-v-fa7799d5=\"\">Get Started</a></p></div><div data-v-4f9c455b=\"\"><p><a href=\"https://github.com/picomq/picomq\" target=\"_blank\" rel=\"noreferrer\" data-v-4f9c455b=\"\" data-v-fa7799d5=\"\">GitHub</a></p></div><!--]--></div><!--[--><!--]--></div><!--[--><!--[--><!--[--><!--[--><!--]--><section aria-label=\"The architecture\" data-v-9aed8f96=\"\"><p data-v-9aed8f96=\"\">the architecture</p><div data-v-9aed8f96=\"\"><h3 data-v-9aed8f96=\"\">Unlimited streams</h3><p data-v-9aed8f96=\"\">Create a stream per use case instead of packing every record of a kind into one topic. Each stream is independently addressable, bottomless, and can scale from idle to high throughput.</p></div></section><!--]--><!--]--><!--]--><!--[--><!--]--><!----><!--[--><!--]--></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
