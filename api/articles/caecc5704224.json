@@ -1,0 +1,13 @@
+{
+  "id": "caecc5704224",
+  "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+  "originalTitle": "iCloud+ Hide My Email addresses will remain on icloud.com",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+  "publishedAt": "2026-08-24T22:13:40.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><section id=\"main\" role=\"main\"> <article id=\"article-1ptvdtcm\"> <section> <p><img src=\"https://developer.apple.com/assets/elements/icons/icloud/icloud-128x128_2x.png\" width=\"0\" height=\"0\" alt=\"Update: New domain for Sign&nbsp;in&nbsp;with&nbsp;Apple\" data-hires=\"false\"> </p> <div> <p>August 24, 2026</p> <div><p>Starting later this year, new Sign in with Apple addresses, previously issued on <code>privaterelay.appleid.com</code>, will be issued on <code>private.icloud.com</code>. Existing addresses on <code>privaterelay.appleid.com</code> will continue to work and forward mail to users without interruption.</p><p>After further consideration and reviewing community feedback, iCloud+&nbsp;Hide&nbsp;My&nbsp;Email addresses will remain on <code>icloud.com</code>. </p><h3>What you need to do </h3><p>Developers with apps or websites that use Sign&nbsp;in&nbsp;with&nbsp;Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new <code>private.icloud.com</code> domain in addition to the existing <code>privaterelay.appleid.com</code> domain.</p><p><a href=\"https://developer.apple.com/sign-in-with-apple/\">Learn more <span>about Sign&nbsp;in&nbsp;with&nbsp;Apple</span></a> </p><p><a href=\"https://developer.apple.com/documentation/signinwithapple/communicating-using-the-private-email-relay-service/\">Communicating using the Private Email <span>Relay Service</span></a> </p></div> </div> </section> </article> </section></div>",
+  "image": "images/83b878b3f1ab.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
