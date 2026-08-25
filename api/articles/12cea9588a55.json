@@ -1,0 +1,13 @@
+{
+  "id": "12cea9588a55",
+  "title": "Apple's new desktop computers are designed specifically for local AI development",
+  "originalTitle": "Apple's new desktop computers are designed specifically for local AI development",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+  "publishedAt": "2026-08-25T13:00:11.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Many developers have been changing their workflows to <a href=\"https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/\">incorporate</a> AI coding agents more heavily, thanks to powerful frontier large language models and increasingly sophisticated harnesses like Claude Code or Codex, but the cost of <a href=\"https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/\">running those cloud models</a> is steep, and many are questioning whether it will remain practical.</p>\n<p>Open-weight models that can be run locally, like some of the latest Qwen and DeepSeek models, can accomplish many of the same tasks but without charging a fortune for tokens, as they’re smaller and driven by the user’s own local energy and compute.</p>\n<p>Still, most standard consumer hardware, like an average-spec MacBook Pro, is just far behind enough in terms of the size of models they can run that we’re not fully living in a “just run it all locally on your regular dev workstation” future just yet. That’s why some are tapping these chains of Mac minis or Mac Studios.</p>\n<p>As noted, that’s the main story with these refreshes, but in other respects they’re standard upgrades for consumers who aren’t interested in all that. Both have Apple’s N1 chip, which supports Wi-Fi 7 and Bluetooth 6. Apple claims the storage is up to twice as fast, at 15GB/s. And this Mac mini ships with 2.5Gb Ethernet as standard, with the option to upgrade to 10Gb.</p>\n<p>The Mac mini with M6 starts at $899 with 16GB of memory, and configurations with M5 Pro start at $1,699, while the Mac Studio with M5 Max starts at $2,499, and the M5 Ultra configurations start at $5,499. They can, of course, get a lot more expensive than that, depending on how you configure them.</p>\n<p>Preorders for both start today, and they’re shipping on September 22 (though the 512GB memory config for the Studio won’t ship until late October). Apple also says they’ll ship with macOS 27 Golden Gate, suggesting that the annual OS update may arrive by then for other Mac users, too.</p> </div></div>",
+  "image": "images/a6e19e3a5a20.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
