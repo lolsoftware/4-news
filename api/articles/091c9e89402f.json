@@ -1,0 +1,13 @@
+{
+  "id": "091c9e89402f",
+  "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+  "originalTitle": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+  "publishedAt": "2026-08-26T19:19:22.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>While we wait (<a href=\"https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/\">possibly in vain</a>) for Gemini 3.5 Pro to launch, Google is releasing a different model in the 3.5 branch. The company has announced Gemini 3.5 Transcribe, an AI model designed to streamline voice input by editing out “ums” and corrections, outputting polished AI text. This model already powers the Gboard “Rambler” feature on the <a href=\"https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/\">Pixel 11</a>, but it’s about to appear throughout the Google ecosystem.</p>\n<p>According to Google, Gemini 3.5 Transcribe is much faster and more accurate than its previous voice-to-text engine, known as Chirp 3. The new AI model should be about 70 percent faster from voice to final transcribed text, and the live-speech error rate has dropped to 5.5 percent. That’s only a little better than Chirp 3, which Google measures at 7.32 percent. Still, it’s a pain to fix typos when you’re using voice input, so any improvement here is beneficial.</p> <p>The new model isn’t just better at hearing the words you say; it’s also supposedly better at getting to the heart of what you meant to say. As you speak, Gemini 3.5 Transcribe can remove the awkward “ums” and “uhs” that clutter your stream of consciousness. It can also edit text on the fly if you need to correct yourself and refer to your provided custom vocabulary to handle “specialized jargon.” All this works in 85 languages and with up to three speakers in pre-recorded audio.</p>\n<p>The drawback, of course, is that you’re relying on the AI to accurately get the gist of your speech. For short blocks of text, the model seems good at cleaning up inconsistencies and verbal stumbles (based on my testing with Rambler), but the AI does technically change the wording of what you said, and that may not be appropriate for all situations.</p> </div></div>",
+  "image": "images/c2ce2b90d2ae.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}

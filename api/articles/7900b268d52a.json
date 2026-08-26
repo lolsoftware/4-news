@@ -1,0 +1,13 @@
+{
+  "id": "7900b268d52a",
+  "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+  "originalTitle": "GitHub Outage Tracker: Is GitHub Cooked?",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://isgithubcooked.com/",
+  "publishedAt": "2026-08-26T19:43:48.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>I made this site because I wanted to filter GitHub's incident history for the services and severity levels that affect the products I build.</p> <p>Everybody's reliability narrative is a function of the services they depend on and the 9's they expect. Use the filters above to dial in on yours.</p> <p>Your filter set might be different from somebody else's. Now you can declare yours and avoid talking past each other!</p> </div><div id=\"stats-narrative\"> <p> GitHub has had\n<strong id=\"n-total\">1125</strong> <span id=\"n-severity-clause\"></span>incidents\n<span id=\"n-service-clause\"></span>since\n<strong id=\"n-since\">March 2016</strong>. Over the last 3 months, they've averaged\n<strong id=\"n-rate\">24</strong>\nincidents per month\n<span id=\"n-trend\">(<span id=\"n-trend-arrow\">↓</span> <span id=\"n-trend-pct\">5</span>% vs prev 3mo)</span>.\n</p> <p>\nDuring that time, their longest streak without an incident was\n<strong id=\"n-streak\">8</strong> days<span id=\"n-streak-detail\">, ending Dec 31, 2025</span>, and the worst month was\n<strong id=\"n-busiest-month\">February 2026</strong>\nwith\n<strong id=\"n-busiest-count\">37</strong> incidents.\n</p> </div></div>",
+  "image": "images/5a04b71df167.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
