@@ -5,8 +5,48 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:12:18 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zmiany w wynagrodzeniach bez wyjątku. Unia Europejska daje nowe zasady wypłat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5c4613f0ac5d</link>
+      <description>Pracownik może już dokładniej przewidzieć, kiedy dostanie pieniądze za przepracowany miesiąc. Nowe przepisy ograniczają możliwość odsuwania wypłaty, co ma szczególne znaczenie dla osób, które dopiero rozpoczynają zatrudnienie. W ich przypadku na pierwszą pensję trzeba było czasem czekać wyjątkowo długo.</description>
+      <pubDate>Wed, 26 Aug 2026 08:55:00 GMT</pubDate>
+      <guid isPermaLink="false">5c4613f0ac5d</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zmiany-w-wynagrodzeniach-bez-wyjatku-Unia-Europejska-daje-nowe-zasady-wyplat,288186,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Od ponad 30 lat nie było tylu zakażeń. Są pierwsze zgony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e9e201b1042</link>
+      <description>Odra znów zabija w USA. W Pensylwanii zmarły dwie niezaszczepione osoby – to pierwsze zgony związane z odrą w tym stanie od 35 lat i pierwsze w całych Stanach Zjednoczonych w 2026 roku. Jednocześnie liczba zakażeń w kraju osiągnęła poziom niewidziany od 1991 roku.</description>
+      <pubDate>Wed, 26 Aug 2026 08:16:00 GMT</pubDate>
+      <guid isPermaLink="false">6e9e201b1042</guid>
+      <source url="https://www.rynekzdrowia.pl/Choroby-zakazne/Od-ponad-30-lat-nie-bylo-tylu-zakazen-Sa-pierwsze-zgony,288182,22.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>GIF alarmuje: znany lek wycofany na terenie całego kraju</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e6817b518f38</link>
+      <description>Decyzją Głównego Inspektora Farmaceutycznego z obrotu został wycofany lek przeciwdepresyjny Dutilox (Duloxetinum) 30 mg i 60 mg. Czasowy zakaz wprowadzenia objął liczne serie produktu, a powodem było przekroczenie limitu przejściowego (LTL) dla zanieczyszczenia N-nitroso-duloxetine.</description>
+      <pubDate>Wed, 26 Aug 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="false">e6817b518f38</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/GIF-alarmuje-znany-lek-wycofany-na-terenie-calego-kraju,288181,6.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>24 godziny po gaszeniu pożaru pojawiają się takie zmiany w organizmie strażaków</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/97116ebe082b</link>
+      <description>Badacze wykryli mierzalne zmiany białek we krwi i moczu już w 24 godziny po gaszeniu pożaru. Wyniki mogą pomóc wcześniej identyfikować ryzyko nowotworów, które są główną przyczyną zgonów wśród strażaków.</description>
+      <pubDate>Wed, 26 Aug 2026 07:48:21 GMT</pubDate>
+      <guid isPermaLink="false">97116ebe082b</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/24-godziny-po-gaszeniu-pozaru-pojawiaja-sie-takie-zmiany-w-organizmie-strazakow,288184,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>SpaceX rusza z projektem za 100 mld dol. W Luizjanie powstanie Starbase</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/60dd79002907</link>
+      <description>SpaceX ogłosił budowę kompleksu Starbase w Luizjanie o wartości 100 miliardów dolarów. Inwestycja obejmie teren 125 000 akrów (ok. 50 585 hektarów) i ułatwi obsługę corocznych lotów Starshipa w kierunku orbity okołoziemskiej, Księżyca oraz Marsa. Pierwsze starty z nowej bazy zaplanowano na 2029 rok.</description>
+      <pubDate>Wed, 26 Aug 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="false">60dd79002907</guid>
+      <source url="https://www.bankier.pl/wiadomosc/SpaceX-rusza-z-projektem-za-100-mld-dol-W-Luizjanie-powstanie-Starbase-9187185.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
     <item>
       <title>DLA KASI K. Lek przeciwdepresyjny wycofany z obrotu. Przekroczony limit zanieczyszczenia</title>
       <link>https://lolsoftware.github.io/4-news/#/article/d964f6238f63</link>
@@ -16,12 +56,100 @@
       <source url="https://www.rynekzdrowia.pl/Farmacja/DLA-KASI-K-Lek-przeciwdepresyjny-wycofany-z-obrotu-Przekroczony-limit-zanieczyszczenia,288181,6.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Dolly Parton we wspomnieniach gwiazd. „Odważna i błyskotliwa”, „Łączyła ludzi”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e2a39d1c401e</link>
+      <description>Mick Jagger, Elton John, Taylor Swift, Beyonce i Paul McCartney - to tylko kilka przykładów gwiazd, które wyraziły swój smutek po śmierci Dolly Parton. 80-letnia ikona country zmarła we wtorek. Zmagała się z chorobą nowotworową.</description>
+      <pubDate>Wed, 26 Aug 2026 07:04:00 GMT</pubDate>
+      <guid isPermaLink="false">e2a39d1c401e</guid>
+      <source url="https://www.rmf24.pl/fakty/kultura/news-dolly-parton-we-wspomnieniach-gwiazd-odwazna-i-blyskotliwa-l,nIdn,1015129">RMF24</source>
+    </item>
+    <item>
+      <title>Miedź najdroższa w historii? Amerykanie skupują metal na potęgę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f8366f6ace51</link>
+      <description>Notowania miedzi na giełdzie metali LME w Londynie rosną 4. dzień i zbliżają się do rekordowego poziomu m.in. z powodu niskich zapasów tego metalu - informują maklerzy.</description>
+      <pubDate>Wed, 26 Aug 2026 07:01:00 GMT</pubDate>
+      <guid isPermaLink="false">f8366f6ace51</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Miedz-najdrozsza-w-historii-Amerykanie-skupuja-metal-na-potege-9187178.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Starlinki już nie polecą z Florydy na pokładzie Falcona 9. To koniec!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8fc32cc6eb8</link>
+      <description>Wczorajszy lot rakiety Falcon 9 z Florydy na pokładzie, której znalazło się 29 satelitów systemu Starlink, nie była kolejnym rutynowym działaniem.</description>
+      <pubDate>Wed, 26 Aug 2026 07:00:44 GMT</pubDate>
+      <guid isPermaLink="false">b8fc32cc6eb8</guid>
+      <source url="https://antyweb.pl/starlinki-juz-nie-poleca-z-florydy-na-pokladzie-falcona-9-to-koniec">Antyweb</source>
+    </item>
+    <item>
       <title>Należy się każdemu pacjentowi. Niezależnie od rodzaju leczenia, wieku czy placówki</title>
       <link>https://lolsoftware.github.io/4-news/#/article/a2218b0b1be2</link>
       <description>Rzecznik Praw Pacjenta przypomina, że poszanowanie godności i intymności to prawo pacjenta podczas każdej procedury medycznej. Szacunek i prywatność należą się wszystkim – niezależnie od wieku, rodzaju leczenia i miejsca udzielania pomocy.</description>
       <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="false">a2218b0b1be2</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Nalezy-sie-kazdemu-pacjentowi-Niezaleznie-od-rodzaju-leczenia-wieku-czy-placowki,288178,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Ventures Platform goes bigger — and broader — with its second Africa fund</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8fbce7ec3455</link>
+      <description>The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria.</description>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">8fbce7ec3455</guid>
+      <source url="https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Ostrzeżenie RCB dla mieszkańców powiatu myślenickiego. Zawyją syreny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3d2816198105</link>
+      <description>Rządowe Centrum Bezpieczeństwa przekazało w środę, że do użytkowników sieci telefonii komórkowych na terenie powiatu myślenickiego przesłano alert informujący o syrenach alarmowych. Dodano, że ma to związek z przedpołudniowymi ćwiczeniami, jakie tego dnia zostaną przeprowadzone w godz. 10-12.</description>
+      <pubDate>Wed, 26 Aug 2026 06:52:00 GMT</pubDate>
+      <guid isPermaLink="false">3d2816198105</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-ostrzezenie-rcb-dla-mieszkancow-powiatu-myslenickiego-zawyja,nIdn,1015130">RMF24</source>
+    </item>
+    <item>
+      <title>Flisackie święto nad Dunajcem. Mnóstwo atrakcji już w ten weekend</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3c810edddc5d</link>
+      <description>Już 30 sierpnia Sromowce Niżne zamienią się w tętniące życiem centrum pienińskiej tradycji. Na przystani nad Dunajcem odbędzie się I Międzynarodowe Święto Flisaka Pienińskiego – wydarzenie, które połączy sportową rywalizację, regionalną kulturę i muzykę, a także pozwoli zajrzeć za kulisy jednego z najbardziej rozpoznawalnych symboli Pienin.</description>
+      <pubDate>Wed, 26 Aug 2026 06:45:00 GMT</pubDate>
+      <guid isPermaLink="false">3c810edddc5d</guid>
+      <source url="https://www.rmf24.pl/regiony/zakopane/news-flisackie-swieto-nad-dunajcem-mnostwo-atrakcji-juz-w-ten-wee,nIdn,1015127">RMF24</source>
+    </item>
+    <item>
+      <title>Lewandowski i spółka za burtą. Przerwana seria Chicago Fire</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2b0e3531b27c</link>
+      <description>Robert Lewandowski rozegrał pełne 90 minut, ale nie zdobył bramki w przegranym przez Chicago Fire 1:2 ćwierćfinale Leagues Cup z CF Monterrey. W tych rozgrywkach rywalizują zespoły z amerykańsko-kanadyjskiej MLS oraz ligi meksykańskiej.</description>
+      <pubDate>Wed, 26 Aug 2026 06:44:00 GMT</pubDate>
+      <guid isPermaLink="false">2b0e3531b27c</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-lewandowski-i-spolka-za-burta-przerwana-seria-chicago-fire,nIdn,1015128">RMF24</source>
+    </item>
+    <item>
+      <title>Przyjechali na ryby. Samochód wędkarza wpadł do kanału</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a8627f42a072</link>
+      <description>Samochód wędkarzy stoczył się do kanału w odpływie Wisły w miejscowości Tursko Małe (Świętokrzyskie). Jeden z mężczyzn został lekko ranny podczas próby zatrzymania pojazdu.</description>
+      <pubDate>Wed, 26 Aug 2026 06:43:22 GMT</pubDate>
+      <guid isPermaLink="false">a8627f42a072</guid>
+      <source url="https://tvn24.pl/kielce/samochod-wedkarzy-wpadl-do-kanalu-w-tursku-malym-st9206385?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Makabryczne odkrycie w mieszkaniu. W środku ciała 22-latka i 50-letniej kobiety</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/31c13f9b40f2</link>
+      <description>Makabryczne odkrycie w jednym z mieszkań przy ulicy Chodkiewicza w Kutnie (woj. łódzkie). Służby znalazły ciała 22-letniego mężczyzny i 50-letniej kobiety. Na miejscu do późnych godzin nocnych trwały oględziny. Okoliczności śmierci ma wyjaśnić sekcja zwłok.</description>
+      <pubDate>Wed, 26 Aug 2026 06:41:43 GMT</pubDate>
+      <guid isPermaLink="false">31c13f9b40f2</guid>
+      <source url="https://tvn24.pl/lodz/kutno-makabryczne-odkrycie-w-mieszkaniu-w-srodku-ciala-22-latka-i-50-letniej-kobiety-st9206394?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Trump chce zmienić nazwę jeziora Ontario. Pojedynek na słowa między sąsiadami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b64ed47cd749</link>
+      <description>Prezydent Stanów Zjednoczonych Donald Trump ogłosił we wtorek, że &quot;ponownie rozważa&quot; przemianowanie jeziora Ontario na Jezioro Ameryki. Dzień wcześniej wdał się w ostrą dyskusję z premierem kanadyjskiej prowincji Ontario Douga Forda, który stwierdził, że amerykańska głowa państwa może &quot;pocałować go w d...&quot;.</description>
+      <pubDate>Wed, 26 Aug 2026 06:41:29 GMT</pubDate>
+      <guid isPermaLink="false">b64ed47cd749</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/donald-trump-chce-zmienic-nazwe-jeziora-ontario-premier-kanadyjskiej-prowincji-odpowiada-st9206334?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Watch Nashville fans lay flowers in tribute</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4a342b7c207f</link>
+      <description>The BBC&apos;s Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.</description>
+      <pubDate>Wed, 26 Aug 2026 06:37:30 GMT</pubDate>
+      <guid isPermaLink="false">4a342b7c207f</guid>
+      <source url="https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Żabka znika z giełdy? Właściciel Circle K rusza po 100 proc. akcji sieci</title>
@@ -40,6 +168,46 @@
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/To-juz-sie-dzieje-Rzad-daje-30-dni-Polacy-musza-oddac-domy-i-dzialki,288179,1.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>BNP Paribas pilnie ostrzega. Chodzi o weryfikację konsultanta</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fcc1a74963c2</link>
+      <description>Bank BNP Paribas pilnie ostrzega. Oszuści znów atakują!</description>
+      <pubDate>Wed, 26 Aug 2026 06:31:51 GMT</pubDate>
+      <guid isPermaLink="false">fcc1a74963c2</guid>
+      <source url="https://antyweb.pl/bnp-paribas-pilnie-ostrzega-chodzi-o-weryfikacje-konsultanta">Antyweb</source>
+    </item>
+    <item>
+      <title>Można dostać nawet 28 tys. zł wsparcia. Termin składania wniosków upływa w poniedziałek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f7fc7cdc5153</link>
+      <description>Końcówka sierpnia to czas, gdy wiele rodzin intensywnie przygotowuje się do nowego roku szkolnego i pracy po wakacjach. Dla osób z niepełnosprawnościami to również ostatni moment, by skorzystać ze wsparcia na zakup komputera, sprzętu elektronicznego czy dostosowanego biurka. W 2026 roku państwo może dołożyć nawet 90 proc. wartości zakupu, a maksymalne kwoty wsparcia sięgają niemal 28 tysięcy złotych. Trzeba się jednak pospieszyć – termin składania wniosków upływa 31 sierpnia.</description>
+      <pubDate>Wed, 26 Aug 2026 06:21:00 GMT</pubDate>
+      <guid isPermaLink="false">f7fc7cdc5153</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-dofinansowanie-do-komputera-2026-nawet-28-tys-zl-z-pfron-wni,nIdn,1015123">RMF24</source>
+    </item>
+    <item>
+      <title>Akcja na A2, zatrzymali &quot;szefa grupy przestępczej&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7dd168b513c0</link>
+      <description>Stołeczni policjanci z Grupy &quot;Orzeł&quot; rozbili litewską szajkę zajmującą się kradzieżami aut z Polski i innych państw Europy. Podczas akcji na autostradzie A2 zatrzymali szefa gangu. Udało im się też odzyskać dwa skradzione samochody.</description>
+      <pubDate>Wed, 26 Aug 2026 06:18:03 GMT</pubDate>
+      <guid isPermaLink="false">7dd168b513c0</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-policja-rozbila-litewska-szajke-zlodziei-aut-jej-szef-wpadl-podczas-akcji-na-autostradzie-a2-st9206363?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Donnie Darko doczeka się pełnoprawnej kontynuacji w niespodziewanej formie. Klasyka sci-fi powróci jeszcze w tym roku!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/17153ac83082</link>
+      <description>Jeden z tych powrotów, których nikt się nie spodziewał! Donnie Darko po 25 latach wraca: i to (przynajmniej na ten moment) w zupełnie innej formie, niż większość by się spodziewała!</description>
+      <pubDate>Wed, 26 Aug 2026 06:15:48 GMT</pubDate>
+      <guid isPermaLink="false">17153ac83082</guid>
+      <source url="https://antyweb.pl/donnie-darko-doczeka-sie-pelnoprawnej-kontynuacji-w-niespodziewanej-formie-klasyka-sci-fi-powroci-jeszcze-w-tym-roku">Antyweb</source>
+    </item>
+    <item>
+      <title>Pytanie prowadzącego, śmiech Tomasza Treli. &quot;To jest tak samo wiarygodne...&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/feba7f58ed37</link>
+      <description>On poleciał tam w moim przekonaniu w konkretnym celu. Po finansowanie dla PiS - mówił Tomasz Trela z Lewicy w &quot;Jeden na jeden&quot; w TVN24. Komentował najnowsze ustalenia o spotkaniu bliskiego współpracownika Jarosława Kaczyńskiego z prezesem Zondacrypto Przemysławem Kralem. Trela zapowiedział też, kiedy komisja do spraw Pegasusa pokaże końcowy raport.</description>
+      <pubDate>Wed, 26 Aug 2026 06:11:22 GMT</pubDate>
+      <guid isPermaLink="false">feba7f58ed37</guid>
+      <source url="https://tvn24.pl/polska/tomasz-trela-w-jeden-na-jeden-o-spotkaniu-michala-moskala-z-przemyslawem-kralem-st9206350?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>7 lat badań dało pewność. Oto najgorsza pora na śniadanie</title>
       <link>https://lolsoftware.github.io/4-news/#/article/dc976673337a</link>
       <description>O której godzinie jesz śniadanie? To może mieć większe znaczenie, niż się wydaje. Badanie z udziałem ponad 100 tys. osób wykazało, że późny pierwszy posiłek wiązał się z wyższym ryzykiem cukrzycy typu 2. Naukowcy sprawdzili też, co dzieje się, gdy śniadanie całkowicie znika z jadłospisu.</description>
@@ -56,12 +224,60 @@
       <source url="https://www.bankier.pl/wiadomosc/Gorzkie-slowa-o-panstwie-i-korupcji-Wyglada-na-to-ze-powoli-przegrywamy-te-wojne-9187084.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
+      <title>Policja apeluje o ostrożność nad wodą. Od czerwca utonęło ponad 140 osób</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dc9511d3e386</link>
+      <description>Minionej doby utonęły dwie osoby; od 1 czerwca już 147 - poinformowała w środę policja, apelując o czujność nad wodą i przypominając o zachowaniu rozwagi.</description>
+      <pubDate>Wed, 26 Aug 2026 06:08:00 GMT</pubDate>
+      <guid isPermaLink="false">dc9511d3e386</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-policja-apeluje-o-ostroznosc-nad-woda-od-czerwca-utonelo-pon,nIdn,1015119">RMF24</source>
+    </item>
+    <item>
+      <title>Strzelanina w Żorach. Policjant potrącony przez samochód</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22a1d2b9493b</link>
+      <description>Dramatyczne sceny rozegrały się w nocy w Żorach na Śląsku. Jak ustalił reporter RMF FM, podczas policyjnej akcji doszło do potrącenia funkcjonariusza i padły strzały. Co dokładnie wydarzyło się na miejscu?</description>
+      <pubDate>Wed, 26 Aug 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="false">22a1d2b9493b</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-strzelanina-w-zorach-policjant-potracony-przez-samochod,nIdn,1015120">RMF24</source>
+    </item>
+    <item>
+      <title>Nadzieja w Rozwoju Plus? Koalicja spróbuje odrzucić weto ws. ustawy o statusie osoby najbliższej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33bc7c7b81e3</link>
+      <description>Koalicja rządowa - na najbliższym posiedzeniu Sejmu - po raz kolejny spróbuje odrzucić prezydenckie weto. To najnowsze ustalenia dziennikarza RMF FM Kacpra Wróblewskiego. Chodzi o decyzję Karola Nawrockiego ws. ustawy o statusie osoby najbliższej.</description>
+      <pubDate>Wed, 26 Aug 2026 06:05:00 GMT</pubDate>
+      <guid isPermaLink="false">33bc7c7b81e3</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-nadzieja-w-rozwoju-plus-koalicja-sprobuje-odrzucic-weto-ws-u,nIdn,1015121">RMF24</source>
+    </item>
+    <item>
+      <title>Nawrocki napisał list do Zełenskiego. Minister ujawnia treść</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5df1019c9d62</link>
+      <description>Jak Polska powinna zareagować, jeśli w ukraińskim Panteonie Narodowym znajdą się nazwiska członków OUN i UPA? Czy to bardziej zaostrzy relacje Warszawy z Kijowem? W jaki sposób budować relacje z Ukrainą, by polskie racje historyczne były bardziej słyszalne? Między innymi o to zapytamy Marcina Przydacza, szefa Biura Polityki Międzynarodowej w Kancelarii Prezydenta RP, który będzie gościem Porannej rozmowy w RMF FM. Zapraszamy!</description>
+      <pubDate>Wed, 26 Aug 2026 06:02:00 GMT</pubDate>
+      <guid isPermaLink="false">5df1019c9d62</guid>
+      <source url="https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-nawrocki-napisal-list-do-zelenskiego-minister-ujawnia-tresc,nIdn,1015039">RMF24</source>
+    </item>
+    <item>
+      <title>Właściciele popularnych modeli będą zachwyceni. Aktualizacja do Androida 17 na ich smartfonach zabłyśnie jak nigdy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fda75eec1d53</link>
+      <description>Nothing zaprezentował najnowszą wersję swojego systemu operacyjnego: Nothing OS 5.0. opartą na Androidzie 17. A co w niej?</description>
+      <pubDate>Wed, 26 Aug 2026 06:00:49 GMT</pubDate>
+      <guid isPermaLink="false">fda75eec1d53</guid>
+      <source url="https://antyweb.pl/wlasciciele-popularnych-modeli-beda-zachwyceni-aktualizacja-do-androida-17-na-ich-smartfonach-zablysnie-jak-nigdy">Antyweb</source>
+    </item>
+    <item>
       <title>Dane zdrowotne jak dane samochodów.  &quot;Powinny być na publicznych serwerach&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4685dca5685b</link>
       <description>Wyjęcie danych medycznych z publicznego systemu było katastrofalnym błędem - mówi Rynkowi Zdrowia wiceminister cyfryzacji Dariusz Standerski, odnosząc się do wycieku rekordów nawet 19 mln pacjentów.  Zwrócił uwagę, że dane samochodów znajdują się na serwerach publicznych. - Tak samo powinno być z danymi zdrowotnymi - dodał.</description>
       <pubDate>Wed, 26 Aug 2026 06:00:00 GMT</pubDate>
       <guid isPermaLink="false">4685dca5685b</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Dane-zdrowotne-jak-dane-samochodow-Powinny-byc-na-publicznych-serwerach,288168,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>More than half of adults in U.S. say they lack basic statistical understanding</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5f4a76f0c9a1</link>
+      <description>Respondents to a survey also reported willingness to use statistics in decision-making if they understood the topic better</description>
+      <pubDate>Wed, 26 Aug 2026 05:49:20 GMT</pubDate>
+      <guid isPermaLink="false">5f4a76f0c9a1</guid>
+      <source url="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">Hacker News</source>
     </item>
     <item>
       <title>Flintstonowie powrócą na ekrany? Za projektem stoi Ryan Gosling</title>
@@ -190,222 +406,6 @@
       <pubDate>Wed, 26 Aug 2026 05:13:39 GMT</pubDate>
       <guid isPermaLink="false">85d57d941bcb</guid>
       <source url="https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Tragedia w Pakistanie. W pożarze szpitala zginęły niemowlęta</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/865b4edebac6</link>
-      <description>15 niemowląt zginęło w pożarze szpitala w stolicy Pakistanu, Islamabadzie. Przyczyną pożaru miała być awaria klimatyzacji. Premier zapowiedział śledztwo.</description>
-      <pubDate>Wed, 26 Aug 2026 05:06:31 GMT</pubDate>
-      <guid isPermaLink="false">865b4edebac6</guid>
-      <source url="https://tvn24.pl/swiat/pakistan-pozar-szpitala-w-islamabadzie-zginely-niemowleta-st9206320?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Tanie drony wyparły zachodnie czołgi z linii frontu. Sprzęt pancerny staje się bezużyteczny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e3d484de7fff</link>
-      <description>Jestem przekonany, że czołgi wciąż mają przyszłość, ale z jednym zastrzeżeniem: muszą to być pojazdy bezzałogowe - stwierdził w rozmowie z &quot;New York Timesem&quot; jeden z ukraińskich wojskowych. Gazeta donosi, że zachodnie czołgi niemal zniknęły z linii frontu, gdyż skuteczniejsze są tam tanie drony. Pojazdy pancerne służą głównie do holowania uszkodzonych maszyn.</description>
-      <pubDate>Wed, 26 Aug 2026 05:03:18 GMT</pubDate>
-      <guid isPermaLink="false">e3d484de7fff</guid>
-      <source url="https://tvn24.pl/swiat/wojna-w-ukrainie-tanie-drony-wyparly-zachodnie-czolgi-z-linii-frontu-st9206237?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>iPhone 18 Pro tylko wygląda na nudziarza. W praktyce dużo się zmieni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/51ac2ee38490</link>
-      <description>Wygląda na to, że iPhone 18 Pro może być ciekawszym smartfonem, niż nam się dotychczas wydawało...</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:45 GMT</pubDate>
-      <guid isPermaLink="false">51ac2ee38490</guid>
-      <source url="https://antyweb.pl/iphone-18-pro-tylko-wyglada-na-nudziarza-w-praktyce-duzo-sie-zmieni">Antyweb</source>
-    </item>
-    <item>
-      <title>Stała rata znów trochę bardziej cenna, ale do rekordów daleko</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0db863f0e3eb</link>
-      <description>Kredyty hipoteczne z oprocentowaniem zmiennym nadal pozostają wyjściowo nieco tańsze niż ich stałoprocentowe odpowiedniki. Premia za pewność comiesięcznych obciążeń wzrosła w sierpniu. Dawno niewidzianą sytuację mamy natomiast w „rozrzucie” ofert bazujących na WIBOR.</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0db863f0e3eb</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zmienne-kontra-stale-Jakie-roznice-w-oprocentowaniu-kredytu-hipotecznego-Sierpien-2026-9186863.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Bank chętnie przyjmie przelew. Z gotówką każe się gimnastykować</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/332694ab506b</link>
-      <description>Mikroprzedsiębiorca kończy dzień z kilkudziesięcioma tysiącami złotych w kasie, a w mieście nie znajdzie placówki swojego banku z czynną kasą. Zostaje wpłatomat, który nie przyjmuje monet i liczy banknoty na sztuki. Sprawdziłem w trzynastu bankach, gdzie firma może dziś wpłacić duży utarg.</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">332694ab506b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Bank-chetnie-przyjmie-przelew-Z-gotowka-kaze-sie-gimnastykowac-9186684.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Wraca przebój: zamiast bonu będzie czek. Czy tym razem obejdzie się bez afery?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/138601b46418</link>
-      <description>Dopłaty do pobytów turystycznych wracają w nowej odsłonie. Do tej pory osoby zainteresowane dofinansowaniem noclegów na Warmii i Mazurach mogły korzystać z bonu turystycznego. Teraz czekają na nich czeki turystyczne. Ostatni nabór zakończył się aferą i został unieważniony. Czy tym razem wszystko pójdzie jak należy?</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">138601b46418</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Wraca-dotacyjny-przeboj-tylko-zamiast-bonu-bedzie-czek-Czy-tym-razem-obejdzie-sie-bez-afery-9186915.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Jechał pijany i bez prawa jazdy. &quot;Dam wam osiem tysięcy i zapomnijmy o całej sytuacji&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73663c49817c</link>
-      <description>Policjanci z Piaseczna zatrzymali 32-latka, który kierował autem, mając blisko dwa promile alkoholu w organizmie. Mężczyzna nie ma prawa jazdy, funkcjonariuszom zaproponował osiem tysięcy złotych łapówki.</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">73663c49817c</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/piaseczno-jechal-pijany-i-bez-prawa-jazdy-policji-zaproponowal-lapowke-st9206132?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Lewica chce zrównać wiek emerytalny. Będzie nowy projekt dotyczący emerytur stażowych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/61e589c9f497</link>
-      <description>Zrównanie wieku emerytalnego znajdzie się w nowym projekcie ustawy o emeryturach stażowych, który ma złożyć Lewica - dowiedział się dziennikarz RMF FM Kacper Wróblewski. Niewykluczone, że ustawa trafi do Sejmu jeszcze we wrześniu.</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">61e589c9f497</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-lewica-chce-zrownac-wiek-emerytalny-bedzie-nowy-projekt-doty,nIdn,1015086">RMF24</source>
-    </item>
-    <item>
-      <title>„Orzeł” w akcji. Litewska szajka złodziei samochodów rozbita</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/920de380ec94</link>
-      <description>Warszawscy policjanci rozpracowali litewską grupę przestępczą zajmującą się kradzieżami aut z krajów Unii Europejskiej, w tym z Polski. Podczas akcji na autostradzie A2 funkcjonariusze z Grupy „Orzeł” zatrzymali szefa grupy i jego kompana. Sąd zdecydował o 3 miesięcznym areszcie dla mężczyzn.</description>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">920de380ec94</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-orzel-w-akcji-litewska-szajka-zlodziei-samochodow-rozbita,nIdn,1015098">RMF24</source>
-    </item>
-    <item>
-      <title>Nowa opłata dla producentów używek? Chodzi o zdrowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/50e23a0f4ebf</link>
-      <description>Rząd chce wprowadzić nową opłatę od sprzedaży papierosów i alkoholu. Jak podaje &quot;Rzeczpospolita&quot;, miałaby ona zasilić specjalny fundusz służący ochronie zdrowia.</description>
-      <pubDate>Wed, 26 Aug 2026 04:56:00 GMT</pubDate>
-      <guid isPermaLink="false">50e23a0f4ebf</guid>
-      <source url="https://www.rmf24.pl/fakty/ekonomia/news-nowa-oplata-dla-producentow-uzywek-chodzi-o-zdrowie,nIdn,1015108">RMF24</source>
-    </item>
-    <item>
-      <title>Biskupi &quot;próbują wywołać awanturę&quot;? Oświadczenie episkopatu przed nowym rokiem szkolnym</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b69940f3842c</link>
-      <description>Za niespełna tydzień zacznie się rok szkolny. Ale zanim akademie, jest list Konferencji Episkopatu Polski w sprawie tego, co w szkole będzie i w jakim wymiarze. Biskupi apelują w sprawie lekcji religii i uderzają w edukację zdrowotną.</description>
-      <pubDate>Wed, 26 Aug 2026 04:51:23 GMT</pubDate>
-      <guid isPermaLink="false">b69940f3842c</guid>
-      <source url="https://tvn24.pl/polska/oswiadczenie-episkopatu-przed-nowym-rokiem-szkolnym-pisza-o-lekcjach-religii-i-edukacji-zdrowotnej-st9206300?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Kumulacja w Lotto rośnie. Jakie liczby padły podczas losowania</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/945d2b63c786</link>
-      <description>We wtorkowym losowaniu Lotto nikt nie wytypował poprawnie wszystkich sześciu liczb. Tak samo było w przypadku loterii Lotto Plus. W konsekwencji kumulacja rośnie do 5 milionów złotych. Oto wyniki losowania z 25 sierpnia 2026 roku.</description>
-      <pubDate>Wed, 26 Aug 2026 04:44:02 GMT</pubDate>
-      <guid isPermaLink="false">945d2b63c786</guid>
-      <source url="https://tvn24.pl/biznes/pieniadze/rosnie-kumulacja-w-lotto-wyniki-losowania-z-25-sierpnia-2026-st9206311?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Uwaga na gęste mgły. Ostrzeżenia IMGW</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cd0cd5fd516b</link>
-      <description>Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstymi mgłami. W północnej części kraju obowiązują żółte alarmy meteorologiczne. Sprawdź szczegóły.</description>
-      <pubDate>Wed, 26 Aug 2026 04:38:12 GMT</pubDate>
-      <guid isPermaLink="false">cd0cd5fd516b</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-uwaga-na-geste-mgly-ostrzezenia-imgw-st9206308?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>„Lepiej tego nie róbcie”. Dyrektor CIA ostrzegł Moskwę?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5d39b5ed7e6c</link>
-      <description>Cztery godziny miał spędzić w Moskwie dyrektor CIA John Ratcliffe podczas niezapowiedzianej wizyty. „Wall Street Journal” twierdzi, że szef agencji wywiadowczej mógł polecieć do Rosji, by  ostrzec Rosję przed planami prowokacji przeciwko NATO lub mobilizacją.</description>
-      <pubDate>Wed, 26 Aug 2026 04:36:00 GMT</pubDate>
-      <guid isPermaLink="false">5d39b5ed7e6c</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-lepiej-tego-nie-robcie-dyrektor-cia-ostrzegl-moskwe,nIdn,1015106">RMF24</source>
-    </item>
-    <item>
-      <title>Pickup z gilotyną stanął przed Kapitolem. Zareagowała policja</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/02c5aa0949a2</link>
-      <description>Policja zatrzymała mężczyznę, który nielegalnie zaparkował swój samochód w pobliżu Kapitolu w Waszyngtonie. Powodem aresztowania było jednak to, co znajdowało się na pace pickupa.</description>
-      <pubDate>Wed, 26 Aug 2026 04:32:42 GMT</pubDate>
-      <guid isPermaLink="false">02c5aa0949a2</guid>
-      <source url="https://tvn24.pl/swiat/waszyngton-pickup-z-gilotyna-zaparkowal-pod-kapitolem-zareagowala-policja-st9206302?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Co najmniej 15 niemowląt nie żyje. Tragiczny pożar szpitala w Pakistanie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cc06ccdeab04</link>
-      <description>Co najmniej 15 niemowląt zginęło w pożarze, który wybuchł w jednym ze szpitali w Islamabadzie, stolicy Pakistanu - podała w środę lokalna telewizja Geo TV. Ogień pojawił się na oddziale ginekologicznym placówki.</description>
-      <pubDate>Wed, 26 Aug 2026 04:31:00 GMT</pubDate>
-      <guid isPermaLink="false">cc06ccdeab04</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-co-najmniej-15-niemowlat-nie-zyje-tragiczny-pozar-szpitala-w,nIdn,1015105">RMF24</source>
-    </item>
-    <item>
-      <title>Twarz pełna tajemnic. Co kryją blizny częstochowskiej Madonny?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3bbad8a888c3</link>
-      <description>Obraz Matki Boskiej Częstochowskiej jest prawdopodobnie najważniejszym świętym wizerunkiem dla wielu Polaków. Oprócz o prawdach wiary czy bliskości matki i syna, poprzez widoczne na wizerunku Maryi blizny mówi także o ludzkim cierpieniu. Blizny są również przejmującym znakiem historii jasnogórskiej ikony.</description>
-      <pubDate>Wed, 26 Aug 2026 04:24:00 GMT</pubDate>
-      <guid isPermaLink="false">3bbad8a888c3</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-twarz-pelna-tajemnic-co-kryja-blizny-czestochowskiej-madonny,nIdn,1014456">RMF24</source>
-    </item>
-    <item>
-      <title>Ekstremalne upały we Włoszech. Temperatura może sięgnąć nawet 45 stopni!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/314412730d14</link>
-      <description>Nad Włochy nadciąga kolejna fala ekstremalnych upałów. Począwszy od środy przyniesie temperatury, które na południu kraju, w tym w Apulii mogą sięgnąć nawet 45 stopni Celsjusza. Od końca maja zanotowano dotychczas ponad 50 dni rekordowego gorąca.</description>
-      <pubDate>Wed, 26 Aug 2026 04:24:00 GMT</pubDate>
-      <guid isPermaLink="false">314412730d14</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-ekstremalne-upaly-we-wloszech-temperatura-moze-siegnac-nawet,nIdn,1015104">RMF24</source>
-    </item>
-    <item>
-      <title>Gigantyczna afera w Belgii: Jaja skażone salmonellą. Trafiły do Polski?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6b630a0ff303</link>
-      <description>Co najmniej 306 osób zachorowało w Belgii po spożyciu jaj skażonych salmonellą. Źródłem ogniska jest ferma Laerco w Geel. Jaja z tego gospodarstwa mogły być także eksportowane do Polski i 7 innych krajów europejskich. Na razie nie ma jednak potwierdzenia, że skażone jaja trafiły na polski rynek.</description>
-      <pubDate>Wed, 26 Aug 2026 04:21:00 GMT</pubDate>
-      <guid isPermaLink="false">6b630a0ff303</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-gigantyczna-afera-w-belgii-jaja-skazone-salmonella-trafily-d,nIdn,1015087">RMF24</source>
-    </item>
-    <item>
-      <title>Asfaltowanie Wisłostrady. Drogowcy chcą zdążyć przed szczytem powrotów z wakacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b5a6a312a1d7</link>
-      <description>Ekipy asfaltujące pojawią się w czwartek wieczorem na bielańskim odcinku Wisłostrady, a kilka godzin później - na skrzyżowaniu przy Feminie. Roboty zostały tak zaplanowane, by zdążyć przed szczytem powrotów z wakacji - poinformował stołeczny ratusz.</description>
-      <pubDate>Wed, 26 Aug 2026 04:20:41 GMT</pubDate>
-      <guid isPermaLink="false">b5a6a312a1d7</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/ulice/asfaltowanie-wislostrady-drogowcy-chca-zdazyc-przed-szczytem-powrotow-z-wakacji-st9206315?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Poseł PiS spotkał się na Ibizie z szefem Zondacrypto</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cbd8f5d31e7f</link>
-      <description>Michał Moskal, poseł PiS i wieloletni współpracownik Jarosława Kaczyńskiego, oraz Artur Chodziński, były funkcjonariusz CBA, spotkali się 7 sierpnia 2025 roku na hiszpańskiej Ibizie z prezesem Zondacrypto Przemysławem Kralem. Poseł chciał współpracować z giełdą, która kilka miesięcy później upadła. Wkrótce po spotkaniu Moskal zaczął się aktywnie zajmować tematem kryptowalut w Sejmie.</description>
-      <pubDate>Wed, 26 Aug 2026 04:15:04 GMT</pubDate>
-      <guid isPermaLink="false">cbd8f5d31e7f</guid>
-      <source url="https://tvn24.pl/polska/posel-pis-spotkal-sie-na-ibizie-z-szefem-zondacrypto-st9205985?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>NHS failing child sex abuse victims in adulthood, say psychiatrists</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f7e7fc0af6a1</link>
-      <description>There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.</description>
-      <pubDate>Wed, 26 Aug 2026 04:07:48 GMT</pubDate>
-      <guid isPermaLink="false">f7e7fc0af6a1</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8f21c62603be</link>
-      <description>APOD</description>
-      <pubDate>Wed, 26 Aug 2026 04:05:00 GMT</pubDate>
-      <guid isPermaLink="false">8f21c62603be</guid>
-      <source url="https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Warszawa z antydronową kopułą. Ratusz zabezpiecza kluczowe obiekty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b6b5088ec50c</link>
-      <description>System, jak zapowiada ratusz, pozwoli na wczesne wykrywanie ewentualnych zagrożeń, szybszą reakcję służb i skuteczniejsze przeciwdziałanie incydentom – czytamy w środę w „Gazecie Wyborczej”.</description>
-      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b6b5088ec50c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Warszawa-z-antydronowa-kopula-Ratusz-zabezpiecza-kluczowe-obiekty-9187128.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Jedno auto, dwoje pijanych kierujących</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d52401cb2dc</link>
-      <description>19-latka uderzyła autem w ogrodzenie posesji, po kolizji próbował jej pomóc 43-letni pasażer, który wsiadł za kierownicę. Obojgu grożą teraz trzy lata więzienia.</description>
-      <pubDate>Wed, 26 Aug 2026 03:58:55 GMT</pubDate>
-      <guid isPermaLink="false">8d52401cb2dc</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/sobokleszcz-jedno-auto-jedna-kolizja-i-dwoje-pijanych-kierujacych-st9206226?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Przyjechał pod Kapitol z gilotyną na pace. Został aresztowany</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4ec069c9fa13</link>
-      <description>Niecodzienna sytuacja przed Kapitolem Stanów Zjednoczonych. Mężczyzna zaparkował samochód z gilotyną na pace w pobliżu Kongresu i Sądu Najwyższego. Miejscowa policja przekazała, że 35-latek został aresztowany. Służby ustalają, w jakim celu przybył do stolicy.</description>
-      <pubDate>Wed, 26 Aug 2026 03:46:00 GMT</pubDate>
-      <guid isPermaLink="false">4ec069c9fa13</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-przyjechal-pod-kapitol-z-gilotyna-na-pace-zostal-aresztowany,nIdn,1015103">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Zwiastun nowej ery&quot; – do nowego komputera Apple podłączysz 8 monitorów!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6eb33511b626</link>
-      <description>Apple zaprezentowało nowego Maca Studio z procesorami M5 Max i M5 Ultra. Najmocniejszy komputer w ofercie firmy może mieć nawet 80-rdzeniowe GPU!</description>
-      <pubDate>Wed, 26 Aug 2026 03:45:24 GMT</pubDate>
-      <guid isPermaLink="false">6eb33511b626</guid>
-      <source url="https://antyweb.pl/apple-pokazalo-najmocniejszego-maca-w-historii">Antyweb</source>
     </item>
   </channel>
 </rss>
