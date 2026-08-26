@@ -1,0 +1,13 @@
+{
+  "id": "c83193f6d0c3",
+  "title": "Show HN: How much of Hacker News is AI?",
+  "originalTitle": "Show HN: How much of Hacker News is AI?",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://hnstats.com/",
+  "publishedAt": "2026-08-26T14:16:05.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div class=\"page\"><main><header><p>Days Since AI</p> <h2>How much of today’s Hacker News is AI?</h2> <p>Every new story submitted since midnight UTC. The clock resets each time one mentions AI.</p></header> <section aria-live=\"polite\"><p><span>–</span><span>%</span></p> <p><!--[-1-->of today’s <strong>new story submissions</strong> have “AI” in the headline <span>strict</span><!--]--></p> <p>Loading today’s Hacker News headlines.</p></section><!----> <dl><p><dd>–</dd> <dt>AI headlines today</dt></p> <p><dd>–</dd> <dt>Total headlines today</dt></p> <p><dd>–</dd> <dt>Avg min between AI posts</dt></p></dl><!----> <section aria-labelledby=\"timer-label\"> <header><h2 id=\"timer-label\">Time since last AI headline</h2> <span> live · polling</span></header> <div role=\"timer\" aria-live=\"off\"><p><span>0</span> <span>days</span></p> <p><span>00</span> <span>hrs</span></p> <p><span>00</span> <span>min</span></p> <p><span>00</span> <span>sec</span></p></div> </section> <p><!--[-1-->Resets when the next AI headline lands.<!--]--></p><!----> <section><h2>Latest AI headline</h2> <!--[-1--><p>Listening for the next one…</p><!--]--></section><!----> <section><header><h2>AI share of new headlines</h2> </header> <!--[-1--><!--]--> <p><!--[-1-->Algolia title match with prefix matching off, counted the same way for every point except today, which is counted from the titles themselves. Algolia matches tokens case-insensitively, so it tracks strict closely rather than exactly.<!--]--></p></section><!----> <div> <p>Counts the standalone word “AI”. “OpenAI” does not count. “AI-powered” does.</p></div> <!----></main></div></div>",
+  "image": "images/d6b9274aa30f.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
