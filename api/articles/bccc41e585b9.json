@@ -1,0 +1,13 @@
+{
+  "id": "bccc41e585b9",
+  "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+  "originalTitle": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+  "publishedAt": "2026-08-26T11:10:49.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>IBM has rolled out the newest models in its family of open-weight large language models designed to be downloaded and self-hosted. The newly launched Granite 4.2 comes in 3B, 8B, and 30B parameter variants.</p>\n<p>Like previous versions, IBM is taking a decoder-only approach here. These new releases offer a 128,000-token context window natively. The 8B and 30B variants (not the 3B one) also go through an agentic reinforcement-learning block; they were trained for expanded capabilities like using the terminal, searching the web, or using external tools. The 3B model supports tools too, but without the same level of specialized training.</p>\n<p>Beyond those tweaks, this release is particularly notable because, as IBM itself writes, “Granite 4.2 is the reasoning-focused release of the Granite language-model family.”</p>\n<p>When researchers or developers in the field say a model is capable of reasoning, they do not mean it in the same sense as we often assume when talking about human reasoning; the models are not consciously understanding the problem. Instead, they’re talking about functional reasoning, in particular via “chain-of-thought” and carrying intermediate results forward through multiple steps.</p> </div></div>",
+  "image": "images/ac8e3fd04c74.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
