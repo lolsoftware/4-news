@@ -5,8 +5,16 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:02:30 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chroni jelita jak zbroja. Naukowcy: jedz przynajmniej 2 razy w tygodniu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/96efb828a572</link>
+      <description>Jogurt naturalny może być czymś więcej niż tylko źródłem białka, wapnia i żywych kultur bakterii. Badanie obejmujące dane ponad 150 tys. osób sugeruje, że regularne jedzenie jogurtu wiązało się z niższym ryzykiem określonego podtypu raka jelita grubego. Naukowcy wskazują na możliwą rolę bakterii Bifidobacterium.</description>
+      <pubDate>Wed, 26 Aug 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">96efb828a572</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Chroni-jelita-jak-zbroja-Naukowcy-jedz-przynajmniej-2-razy-w-tygodniu,288218,11.html">Rynek Zdrowia</source>
+    </item>
     <item>
       <title>Zakazane w Azji, w Polsce nadal legalne. Ryzyko raka i udaru</title>
       <link>https://lolsoftware.github.io/4-news/#/article/01bc7215ff55</link>
@@ -48,6 +56,94 @@
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Wielka-konsolidacja-w-Szczecinie-Dwie-placowki-pod-jednym-szyldem-od-1-wrzesnia,288214,14.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Morawiecki chce ratować Grupę Azoty. Spółka odpowiada: To skutki waszych rządów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ebf0971724c5</link>
+      <description>Stowarzyszenie Rozwój Plus ma bardzo dobry plan na ratowanie Grupy Azoty – przekonywał w środę w Tarnowie lider tego stowarzyszenia Mateusz Morawiecki. Przedstawiciele spółki odpowiedzieli, że za jej trudną sytuację finansową odpowiadają ministrowie i menadżerowie powołani przez rząd Morawieckiego.</description>
+      <pubDate>Wed, 26 Aug 2026 17:07:00 GMT</pubDate>
+      <guid isPermaLink="false">ebf0971724c5</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Morawiecki-chce-ratowac-Grupe-Azoty-Spolka-odpowiada-To-skutki-waszych-rzadow-9187575.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Intelligent transcription with Gemini 3.5 Transcribe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/95b7ebc1937a</link>
+      <description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.</description>
+      <pubDate>Wed, 26 Aug 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="false">95b7ebc1937a</guid>
+      <source url="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/">Google DeepMind</source>
+    </item>
+    <item>
+      <title>Capital F closes $17M debut fund with goal to back the future of the ‘female economy’</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/153ea7996c62</link>
+      <description>Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the</description>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">153ea7996c62</guid>
+      <source url="https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Śmiertelne pobicie w Nowej Hucie. Nagły zwrot w sprawie podejrzanego 16-latka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad6bd1bf19cc</link>
+      <description>Sąd rodzinny w Krakowie zdecydował o powrocie 16-latka, podejrzewanego o udział w śmiertelnym pobiciu kibica Hutnika Kraków, do młodzieżowego ośrodka wychowawczego. Policja nadal prowadzi intensywne śledztwo, próbując ustalić przebieg tragicznych wydarzeń.</description>
+      <pubDate>Wed, 26 Aug 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="false">ad6bd1bf19cc</guid>
+      <source url="https://www.rmf24.pl/regiony/news-smiertelne-pobicie-w-nowej-hucie-nagly-zwrot-w-sprawie-podej,nIdn,1015246">RMF24</source>
+    </item>
+    <item>
+      <title>Apple is holding its iPhone launch event on September 9</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/21627526b24d</link>
+      <description>The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It&apos;ll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.</description>
+      <pubDate>Wed, 26 Aug 2026 16:53:07 GMT</pubDate>
+      <guid isPermaLink="false">21627526b24d</guid>
+      <source url="https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Rocky Horror star Tim Curry dies at 80</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3466cc267685</link>
+      <description>Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.</description>
+      <pubDate>Wed, 26 Aug 2026 16:49:42 GMT</pubDate>
+      <guid isPermaLink="false">3466cc267685</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>&quot;Przełom&quot; w sprawie Zondacrypto? &quot;Nie jestem tutaj optymistą&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8bf87032fa02</link>
+      <description>Czy politycy uwikłani w aferę Zondacrypto poniosą za nią odpowiedzialność? Czy mogą usłyszeć zarzuty karne? Jaki obraz państwa wyłania się z najnowszych doniesień w tej sprawie? O tych i innych kwestiach dyskutowali uczestnicy debaty &quot;Zondacrypto: przełom?&quot; w TVN24+.</description>
+      <pubDate>Wed, 26 Aug 2026 16:44:56 GMT</pubDate>
+      <guid isPermaLink="false">8bf87032fa02</guid>
+      <source url="https://tvn24.pl/polska/sledztwo-w-sprawie-zondacrypto-debata-w-tvn24-st9207629?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Portrait of Ann Widdecombe put up in Parliament for MPs&apos; return</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2afc3e3a815e</link>
+      <description>The framed photograph forms part of work by MPs to install a permament memorial for the former minister.</description>
+      <pubDate>Wed, 26 Aug 2026 16:40:59 GMT</pubDate>
+      <guid isPermaLink="false">2afc3e3a815e</guid>
+      <source url="https://www.bbc.co.uk/news/articles/czdz1r1z17zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Duży skok temperatury i nie tylko. W ostatnie dni wakacji będzie się działo</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7d5491a32fb1</link>
+      <description>Napływający do Polski wyż Steffen przynosi typowo wyżową pogodę z przewagą słońca, ale wkrótce opuści nasz kraj. W najbliższym czeka nas więc pogoda w kratkę. Zrobi się także upalnie.</description>
+      <pubDate>Wed, 26 Aug 2026 16:34:57 GMT</pubDate>
+      <guid isPermaLink="false">7d5491a32fb1</guid>
+      <source url="https://tvn24.pl/tvnmeteo/prognoza/duzy-skok-temperatury-i-nie-tylko-w-ostatnie-dni-wakacji-bedzie-sie-dzialo-prognoza-pogody-st9207688?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Nie żyje prof. Tomasz Rogula. Światowej sławy chirurg miał 58 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0c288ad45c48</link>
+      <description>W wieku 58 lat zmarł prof. Tomasz Rogula – światowej sławy chirurg, specjalista w zakresie chirurgii bariatrycznej i metabolicznej, profesor Uniwersytetu Jana Kochanowskiego w Kielcach. Informację o śmierci profesora przekazała kielecka uczelnia. Prof. Rogula odszedł 22 sierpnia w Cleveland w Stanach Zjednoczonych.</description>
+      <pubDate>Wed, 26 Aug 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="false">0c288ad45c48</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-nie-zyje-prof-tomasz-rogula-swiatowej-slawy-chirurg-mial-58-,nIdn,1015245">RMF24</source>
+    </item>
+    <item>
+      <title>14-latek jechał motorowerem bez tablicy, oświetlenia, ubezpieczenia i przeglądu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1363b42eac0</link>
+      <description>14-letni mieszkaniec Warszawy wsiadł za kierownicę motoroweru bez odpowiednich uprawnień. Pojazd, którym się poruszał, nie miał oświetlenia, tablicy rejestracyjnej oraz przeglądu technicznego i ubezpieczenia. Sprawa znajdzie finał w sądzie rodzinnym.</description>
+      <pubDate>Wed, 26 Aug 2026 16:29:42 GMT</pubDate>
+      <guid isPermaLink="false">b1363b42eac0</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/ciechanow-chlopiec-jechal-bez-uprawnien-motorowerem-nie-mial-tablicy-rejestracyjnej-oswietlenia-ubezpieczenia-i-przegladu-st9207711?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Inwestorzy niezadowoleni z nowych ogłoszeń CD Projektu Red. Rosną krótkie pozycje na spółce </title>
       <link>https://lolsoftware.github.io/4-news/#/article/a06cdcea1972</link>
       <description>Lepszym nastrojom na GPW sprzyjały spadki cen ropy naftowej oraz deeskalacja napięć w Zatoce Perskiej, podczas gdy uwagę globalnych inwestorów przyciągały publikacje makroekonomiczne ze Stanów Zjednoczonych oraz wyczekiwane wyniki technologicznego giganta – Nvidii. Trwa odwrót od akcji CD Projekt mimo kilku nowych ogłoszeń wydawniczych przy okazji Gamescon. Tymczasem niektóre fundusze powiększają krótkie pozycje na akcjach spółki, a także Dino – wynika z najnowszej aktualizacji rejestru krótkiej sprzedaży KNF.</description>
@@ -64,12 +160,140 @@
       <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/24-tys-nowych-zachorowan-rocznie-Czego-brakuje-w-programie-lekowym-raka-pluca,288209,1013.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Scenariusze końca wojny w Ukrainie. Rzekomy wyciek dokumentów Sbierbanku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9b3ec61d1e60</link>
+      <description>Hakerzy z grupy Black Mirror opublikowali zrzuty ekranu dokumentu, który ma zawierać analizę Sbierbanku dotyczącą możliwych scenariuszy zakończenia wojny Rosji przeciwko Ukrainie. Autentyczność materiału nie została potwierdzona, ale opisuje on kilka prawdopodobnych perspektyw.</description>
+      <pubDate>Wed, 26 Aug 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="false">9b3ec61d1e60</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-scenariusze-konca-wojny-w-ukrainie-rzekomy-wyciek-dokumentow,nIdn,1015238">RMF24</source>
+    </item>
+    <item>
+      <title>Policjanci gonili podejrzewanego, z radiowozu zniknęła kamizelka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ef12a01902c1</link>
+      <description>Gdy policjanci gonili podejrzewanego o przestępstwo, nietrzeźwy 28-latek zakradł się do opuszczonego przez nich radiowozu i zabrał kamizelkę taktyczną. Miał &quot;paradować&quot; w niej po ulicach miasta. Został odnaleziony i ukarany mandatem.</description>
+      <pubDate>Wed, 26 Aug 2026 16:20:40 GMT</pubDate>
+      <guid isPermaLink="false">ef12a01902c1</guid>
+      <source url="https://tvn24.pl/poznan/kalisz-zabral-kamizelke-z-radiowozu-i-paradowal-w-niej-po-ulicach-st9207661?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Nie żyje Tim Curry. Aktor miał 80 lat</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5aa93c59574c</link>
+      <description>Brytyjski aktor Tim Curry, znany z kultowych ról zarówno na scenie, jak i na ekranie, zmarł w wieku 80 lat w swoim domu w North Hollywood. Artysta, który przez dekady zachwycał widzów niepowtarzalnym talentem i charyzmą, pozostawił po sobie niezatarte ślady w historii popkultury.</description>
+      <pubDate>Wed, 26 Aug 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">5aa93c59574c</guid>
+      <source url="https://www.rmf24.pl/fakty/kultura/news-nie-zyje-tim-curry-aktor-mial-80-lat,nIdn,1015243">RMF24</source>
+    </item>
+    <item>
+      <title>Zdjęcia Google z ważną zmianą. Obejmie wszystkich użytkowników</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fc127fb3f0fb</link>
+      <description>Jak wynika z analizy kodu aplikacji Zdjęcia Google w przygotowaniu są spore zmiany, które obejmą wszystkich użytkowników. Warto się do nich przygotować.</description>
+      <pubDate>Wed, 26 Aug 2026 16:15:25 GMT</pubDate>
+      <guid isPermaLink="false">fc127fb3f0fb</guid>
+      <source url="https://antyweb.pl/zdjecia-google-z-wazna-zmiana-obejmie-wszystkich-uzytkownikow">Antyweb</source>
+    </item>
+    <item>
+      <title>Gigant odpisuje, wicepremier komentuje. &quot;To nie jest odpowiedź, która mnie satysfakcjonuje&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5f0a5abd4a6c</link>
+      <description>Meta zapewniła, że traktuje problem oszukańczych reklam jako priorytet. To odpowiedź firmy na wcześniejszy list wicepremiera Krzysztofa Gawkowskiego w sprawie oszukańczych reklam pojawiających się w Polsce na Facebooku i Instagramie.</description>
+      <pubDate>Wed, 26 Aug 2026 16:07:09 GMT</pubDate>
+      <guid isPermaLink="false">5f0a5abd4a6c</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/gigant-odpisuje-wicepremier-komentuje-to-nie-jest-odpowiedz-ktora-mnie-satysfakcjonuje-st9207419?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Idealny telefon dla Millenialsów. Gdy go zobaczysz, wrócą piękne wspomnienia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e3f1d08fbefe</link>
+      <description>Minimal Phone 2 staje się faktem. Producent wychodzi od twórcy etui z klawiaturą QWERTY do producenta szczególnego rodzaju smartfonów.</description>
+      <pubDate>Wed, 26 Aug 2026 16:06:34 GMT</pubDate>
+      <guid isPermaLink="false">e3f1d08fbefe</guid>
+      <source url="https://antyweb.pl/minimal-phone-2-kickstarter">Antyweb</source>
+    </item>
+    <item>
+      <title>Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e8dff0d31eab</link>
+      <description>Build and review a commercial insurance application for companies putting AI to work.</description>
+      <pubDate>Wed, 26 Aug 2026 16:06:01 GMT</pubDate>
+      <guid isPermaLink="false">e8dff0d31eab</guid>
+      <source url="https://www.risklytics.ai/">Hacker News</source>
+    </item>
+    <item>
+      <title>Tim Curry, Star of Rocky Horror Picture Show and Stephen King&apos;s It, Dies Aged 80</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/22286d723a59</link>
+      <description>A prolific performer across stage, screen and TV, the actor starred in Legend, Clue and It, but will always be associated with the flamboyantly camp rock’n’roll musical in which he made his breakthrough</description>
+      <pubDate>Wed, 26 Aug 2026 16:03:37 GMT</pubDate>
+      <guid isPermaLink="false">22286d723a59</guid>
+      <source url="https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film">Hacker News</source>
+    </item>
+    <item>
+      <title>Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9ed00a91a190</link>
+      <description>One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.</description>
+      <pubDate>Wed, 26 Aug 2026 16:03:14 GMT</pubDate>
+      <guid isPermaLink="false">9ed00a91a190</guid>
+      <source url="https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Europosłowie z Rozwoju Plus podjęli decyzję. Opuszczają PiS w PE </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dea5aac16ff1</link>
+      <description>Trzech europosłów, członków Rozwoju Plus Mateusza Morawieckiego zdecydowało o opuszczeniu delegacji Prawa i Sprawiedliwości w Parlamencie Europejskim. Informację przekazał Michał Dworczyk.</description>
+      <pubDate>Wed, 26 Aug 2026 16:02:18 GMT</pubDate>
+      <guid isPermaLink="false">dea5aac16ff1</guid>
+      <source url="https://tvn24.pl/polska/europoslowie-z-rozwoju-plus-podjeli-decyzje-opuszczaja-pis-w-pe-st9207691?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>What’s driving Sweden’s startup boom, from Lovable to Legora </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d0d95fa77a6d</link>
+      <description>Watch as Cherry Ventures partner Sophia Bendz joins Equity to dig into Sweden’s startup boom, from Lovable and Legora to founder networks, U.S. capital, and the forces shaping the Nordic tech ecosystem.</description>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d0d95fa77a6d</guid>
+      <source url="https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Muzyk disco polo skazany za gwałty i znęcanie się nad żoną</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/11ffb8cb6884</link>
+      <description>Znany w regionie ostrołęckim muzyk disco polo, Rafał S., został skazany na 3,5 roku więzienia za gwałty i znęcanie się nad żoną. Sąd orzekł także zakaz zbliżania się do pokrzywdzonej oraz nakazał wypłatę nawiązki. Wyrok nie jest prawomocny.</description>
+      <pubDate>Wed, 26 Aug 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="false">11ffb8cb6884</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-muzyk-disco-polo-skazany-za-gwalty-i-znecanie-sie-nad-zona,nIdn,1015241">RMF24</source>
+    </item>
+    <item>
+      <title>Tim Curry Has Died</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/72a474e9f592</link>
+      <description>Tim Curry</description>
+      <pubDate>Wed, 26 Aug 2026 15:57:22 GMT</pubDate>
+      <guid isPermaLink="false">72a474e9f592</guid>
+      <source url="https://en.wikipedia.org/wiki/Tim_Curry">Hacker News</source>
+    </item>
+    <item>
       <title>Dorota R. z aktem oskarżenia. Chodzi o reklamowanie suplementów jako leków</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3fd574f1b8ee</link>
       <description>Do Sądu Rejonowego dla Warszawy-Śródmieścia skierowany został akt oskarżenia przeciwko Dorocie R. Chodzi o przypisywanie właściwości leczniczych produktowi niespełniającemu wymogów dla leku - poinformował w środę prokurator Marek Marciniak ze stołecznej Prokuratury Okręgowej.</description>
       <pubDate>Wed, 26 Aug 2026 15:55:00 GMT</pubDate>
       <guid isPermaLink="false">3fd574f1b8ee</guid>
       <source url="https://www.bankier.pl/wiadomosc/Dorota-R-z-aktem-oskarzenia-Chodzi-o-reklamowanie-suplementow-jako-lekow-9187547.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Otwarcie Campusu Polska Przyszłości. Padł komentarz o &quot;imprezie w Juracie&quot; </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fdd13a81b124</link>
+      <description>W środę w Olsztynie rozpoczął się Campus Polska Przyszłości. Wydarzenie potrwa do końca tygodnia. Oprócz polityków na liście gości jest dziennikarz Andrzej Poczobut. W trakcie konferencji otwierającej tegoroczną edycję Rafał Trzaskowski i Sławomir Nitras nawiązali do podobnego wydarzenia organizowanego przez Karola Nawrockiego.</description>
+      <pubDate>Wed, 26 Aug 2026 15:54:07 GMT</pubDate>
+      <guid isPermaLink="false">fdd13a81b124</guid>
+      <source url="https://tvn24.pl/polska/otwarcie-campusu-polska-przyszlosci-kto-sie-pojawi-st9207561?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Spacerowicze znaleźli dłoń. Zlecono badania genetyczne</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eac503c788b1</link>
+      <description>Badania genetyczne mają pomóc w ustaleniu tożsamości mężczyzny, którego szczątki odkryto na początku sierpnia na peryferiach Ciechanowa (Mazowieckie). Jak poinformowała prokuratura, wytypowano rodzinę, od której pobrano materiał do badań porównawczych w tym zakresie.</description>
+      <pubDate>Wed, 26 Aug 2026 15:53:59 GMT</pubDate>
+      <guid isPermaLink="false">eac503c788b1</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/okolice/ciechanow-na-spacerze-znalezli-dlon-st9207684?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Stary Base Camp powrócił w Karkonosze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5d0da97dbe23</link>
+      <description>Już po raz drugi Festiwal Stary Base Camp odbył się w dniach 22 i 23 sierpnia 2026 roku w Sobieszowie, nieopodal Jeleniej Góry. Wydarzenie przyciągnęło miłośników gór, muzyki i aktywnego wypoczynku. Uczestnicy mogli wziąć udział w licznych warsztatach, prelekcjach podróżniczych oraz koncertach plenerowych. Organizatorzy zadbali także o strefę gastronomiczną oraz atrakcje dla rodzin z dziećmi. Festiwal, zlokalizowany u podnóża Karkonoszy, stworzył wyjątkową atmosferę sprzyjającą integracji i wymianie doświadczeń między pasjonatami górskich wypraw.</description>
+      <pubDate>Wed, 26 Aug 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="false">5d0da97dbe23</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-stary-base-camp-powrocil-w-karkonosze,nIdn,1015240">RMF24</source>
     </item>
     <item>
       <title>Dolly Parton przeżyła z mężem ponad 60 lat. Tak mówiła o sekrecie udanego małżeństwa</title>
@@ -94,6 +318,14 @@
       <pubDate>Wed, 26 Aug 2026 15:45:20 GMT</pubDate>
       <guid isPermaLink="false">a948527ee560</guid>
       <source url="https://antyweb.pl/ikea-z-nowa-kolekcja-dla-graczy-stworzona-przy-wspolpracy-z-xbox">Antyweb</source>
+    </item>
+    <item>
+      <title>Court blocks Trump FCC order that could flood broadcast TV with more election ads</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3456f5158907</link>
+      <description>Republicans demanded that parties and fundraising committees be given lowest ad rates.</description>
+      <pubDate>Wed, 26 Aug 2026 15:45:07 GMT</pubDate>
+      <guid isPermaLink="false">3456f5158907</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/">Ars Technica</source>
     </item>
     <item>
       <title>Powstaje program badań nad long COVID. 500 tys. euro na realizację</title>
@@ -152,6 +384,14 @@
       <source url="https://www.rmf24.pl/fakty/swiat/news-dziesiatki-wiezniow-zmarlo-z-pragnienia-wladze-turkmenistanu,nIdn,1015236">RMF24</source>
     </item>
     <item>
+      <title>It&apos;s so hard to finish an idea that is not yours (and suggested by AI)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/51a443d37297</link>
+      <description>&quot;Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it&apos;s a dead end.&quot;</description>
+      <pubDate>Wed, 26 Aug 2026 15:30:05 GMT</pubDate>
+      <guid isPermaLink="false">51a443d37297</guid>
+      <source url="https://www.ssp.sh/brain/using-obsidian-with-ai/">Hacker News</source>
+    </item>
+    <item>
       <title>Zaskakujący spór o zdjęcie Łukasza Litewki. Fotografka domaga się zapłaty </title>
       <link>https://lolsoftware.github.io/4-news/#/article/853507f181cb</link>
       <description>Po śmierci posła i aktywisty Łukasza Litewki wiele organizacji pozarządowych i osób prywatnych publikowało w internecie jego zdjęcie, żegnając zmarłego posła. Cztery miesiące później część z nich otrzymała wezwania do zapłaty za wykorzystanie fotografii. Według fundacji „Z rąk do rąk” takie pisma dostało już co najmniej 35 organizacji.</description>
@@ -166,246 +406,6 @@
       <pubDate>Wed, 26 Aug 2026 15:27:51 GMT</pubDate>
       <guid isPermaLink="false">1316ae24d6d5</guid>
       <source url="https://tvn24.pl/swiat/komentarze-po-locie-szefa-cia-johna-ratcliffe-a-do-rosji-ta-wizyta-wywoluje-niepokoj-st9207126?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Suplementy na Hashimoto. Akt oskarżenia przeciwko piosenkarce Dorocie R.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8b8888a724b</link>
-      <description>Do Sądu Rejonowego dla Warszawy-Śródmieścia skierowany został akt oskarżenia przeciwko Dorocie R. Chodzi o przypisywanie właściwości leczniczych produktowi niespełniającemu wymogów dla leku - poinformował w środę prokurator Marek Marciniak ze stołecznej Prokuratury Okręgowej.</description>
-      <pubDate>Wed, 26 Aug 2026 15:26:00 GMT</pubDate>
-      <guid isPermaLink="false">b8b8888a724b</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-suplementy-na-hashimoto-akt-oskarzenia-przeciwko-piosenkarce,nIdn,1015234">RMF24</source>
-    </item>
-    <item>
-      <title>250 mln zł na szkolenia medyków.  Ministerstwo Zdrowia rozjuszyło farmaceutów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/920bef9d0ec1</link>
-      <description>Ministerstwo Zdrowia przeznaczy ponad 250 mln zł na rozwój kompetencji kadr medycznych. Ze wsparcia ma skorzystać 46 618 osób – między innymi pielęgniarki, diagności laboratoryjni i lekarze. Wśród wymienionych grup zabrakło jednak farmaceutów.</description>
-      <pubDate>Wed, 26 Aug 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="false">920bef9d0ec1</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/250-mln-zl-na-szkolenia-medykow-Ministerstwo-Zdrowia-rozjuszylo-farmaceutow,288210,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Płonie imperium najbogatszej kobiety w kraju. &quot;Wojna wróciła do Rosji&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b9e0332f3ad7</link>
-      <description>Kłęby dymu, szalejący ogień, przerażeni ludzie. Ukraina uderza coraz głębiej w Rosji i atakuje nie tylko obiekty wojskowe czy rafinerie, ale też magazyny gigantów e-handlu. Zwykli Rosjanie coraz dotkliwiej odczuwają wojnę, którą Kreml przez lata próbował trzymać z dala od ich codzienności. Czy może to zachwiać reżimem?</description>
-      <pubDate>Wed, 26 Aug 2026 15:23:21 GMT</pubDate>
-      <guid isPermaLink="false">b9e0332f3ad7</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/rosja-wildberries-plonie-imperium-najbogatszej-kobiety-w-kraju-st9207353?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Disruption with Some GitHub Services</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/be42c3506a8c</link>
-      <description>GitHub&apos;s Status Page - Disruption with some GitHub services.</description>
-      <pubDate>Wed, 26 Aug 2026 15:19:40 GMT</pubDate>
-      <guid isPermaLink="false">be42c3506a8c</guid>
-      <source url="https://www.githubstatus.com/incidents/hcbtzksccj2f">Hacker News</source>
-    </item>
-    <item>
-      <title>Zwrot w sprawie napaści na Kwaśniaka. Sąd: możliwe usiłowanie zabójstwa</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b8d047ddbcd6</link>
-      <description>Warszawski sąd rejonowy uznał, że to sąd okręgowy powinien zająć się sprawą Krzysztofa A. oskarżonego o napaść w 2014 r. na ówczesnego wiceszefa KNF Wojciecha Kwaśniaka. – Obraz zdarzenia można rozpatrywać na gruncie usiłowania zabójstwa – uzasadnił sąd.</description>
-      <pubDate>Wed, 26 Aug 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="false">b8d047ddbcd6</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zwrot-w-sprawie-napasci-na-Kwasniaka-Sad-mozliwe-usilowanie-zabojstwa-9187535.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Duża kara. Największy bank chce ponownego rozpatrzenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f54c8d49e1e3</link>
-      <description>Komisja Nadzoru Finansowego przekazała, że PKO Bank Polski złożył wniosek o ponowne rozpatrzenie sprawy dotyczącej kary w wysokości 47,5 miliona złotych. Chodzi o kwestię lokat strukturyzowanych.</description>
-      <pubDate>Wed, 26 Aug 2026 15:16:42 GMT</pubDate>
-      <guid isPermaLink="false">f54c8d49e1e3</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/duza-kara-najwiekszy-bank-chce-ponownego-rozpatrzenia-st9207605?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Rupert Grint to return to Harry Potter in Broadway play</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/642ed91cbfbf</link>
-      <description>Grint, now 38, will play his character as an adult in the Harry Potter spin-off play in New York.</description>
-      <pubDate>Wed, 26 Aug 2026 15:14:24 GMT</pubDate>
-      <guid isPermaLink="false">642ed91cbfbf</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c20vmp1v3rdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Fala błota i kamieni zmiotła całe wioski. To jeszcze nie koniec zagrożenia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e76820d20f68</link>
-      <description>Na pograniczu Nepalu i Tybetu doszło do jednej z największych katastrof naturalnych ostatnich lat. Potężna lawina błotna runęła do rzeki, wywołując niszczycielską powódź, która zmiotła całe osady, zabiła co najmniej 95 osób. Setki turystów oraz mieszkańców uznaje się za zaginionych. Służby ratunkowe walczą z czasem, by odnaleźć ocalałych, a eksperci ostrzegają przed kolejną falą żywiołu.</description>
-      <pubDate>Wed, 26 Aug 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="false">e76820d20f68</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-fala-blota-i-kamieni-zmiotla-cale-wioski-to-jeszcze-nie-koni,nIdn,1015233">RMF24</source>
-    </item>
-    <item>
-      <title>Najpierw się przeżegnali, potem uciekli do lasu, a teraz muszą zapłacić mandat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/055a4b22c0c4</link>
-      <description>Dwaj młodzi mężczyźni rozbili namioty i rozpalili ognisko na terenie Bieszczadzkiego Parku Narodowego. Zostali zauważeni przez Straż Graniczną dzięki kamerom termowizyjnym. Za nielegalne biwakowanie każdy z nich dostał mandat w wysokości 500 zł.</description>
-      <pubDate>Wed, 26 Aug 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="false">055a4b22c0c4</guid>
-      <source url="https://www.rmf24.pl/regiony/rzeszow/news-najpierw-sie-przezegnali-potem-uciekli-do-lasu-a-teraz-musza,nIdn,1015232">RMF24</source>
-    </item>
-    <item>
-      <title>Nebula Sans</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9bc136712293</link>
-      <description>Nebula Sans is the brand typeface for Nebula, available under the SIL Open Font License.</description>
-      <pubDate>Wed, 26 Aug 2026 15:03:52 GMT</pubDate>
-      <guid isPermaLink="false">9bc136712293</guid>
-      <source url="https://www.nebulasans.com/">Hacker News</source>
-    </item>
-    <item>
-      <title>WebMCP: Teaching Your Website to Talk to AI Agents</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bdd246d20aea</link>
-      <description>Right now, when an AI agent uses a website, it squints at the screen like a person would: reads the pixels, guesses which button is checkout, clicks, and hopes. It’s slow, brittle, and it breaks the moment you move a div. WebMCP flips that around. Instead of the agent guessing what your site can do, your site just tells it, in plain, structured tools the agent can call directly. It’s an early web standard, it’s in Chrome right now behind a trial, and once you see it you’ll want to add a tool to your own site in about ten minutes. Here’s how it works and why it matters.</description>
-      <pubDate>Wed, 26 Aug 2026 15:02:15 GMT</pubDate>
-      <guid isPermaLink="false">bdd246d20aea</guid>
-      <source url="https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/">Hacker News</source>
-    </item>
-    <item>
-      <title>Wystartowała nowość w popularnych mapach. Użytkownicy twierdzą, że jest okropna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/54f4a5811608</link>
-      <description>Reklamy w Mapach Apple właśnie pojawiły się u niektórych użytkowników. Zza oceanu już słychać narzekanie.</description>
-      <pubDate>Wed, 26 Aug 2026 15:00:36 GMT</pubDate>
-      <guid isPermaLink="false">54f4a5811608</guid>
-      <source url="https://antyweb.pl/wystartowala-nowosc-w-popularnych-mapach-uzytkownicy-twierdza-ze-jest-okropna">Antyweb</source>
-    </item>
-    <item>
-      <title>Ex-Meta scientists want to bring visual AI to the factory floor</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e4ac4d425bd6</link>
-      <description>Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.</description>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e4ac4d425bd6</guid>
-      <source url="https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Rosja szykuje kolejny test pocisku o napędzie jądrowym</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/163c61933381</link>
-      <description>Rosja rozmieszcza specjalne samoloty i okręty wokół Morza Barentsa oraz zamyka część akwenu i przestrzeni powietrznej – podał w środę magazyn „Barents Observer”. Według gazety to przygotowania do testu pocisku o napędzie jądrowym Buriewiestnik.</description>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">163c61933381</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rosja-szykuje-kolejny-test-pocisku-o-napedzie-jadrowym-9187522.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Gigant zapłaci miliardy. Meta ugodziła się z 29 stanami USA. W końcu ochroni dzieci?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/84e832aa122c</link>
-      <description>Firma Meta Platforms zgodziła się zapłacić do 16,7 mld USD w ramach ugody w sprawie dotyczącej mediów społecznościowych z 29 stanami USA – podała w środę agencja Bloomberga, powołując się na dokumenty sądowe.</description>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">84e832aa122c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Gigant-zaplaci-miliardy-Meta-ugodzila-sie-z-29-stanami-USA-W-koncu-ochroni-dzieci-9187521.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>GLM-5.3-Flash Intelligence, Performance and Price Analysis</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b02205ef3bed</link>
-      <description>Analysis of Z AI&apos;s GLM-5.3-Flash and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.</description>
-      <pubDate>Wed, 26 Aug 2026 14:58:54 GMT</pubDate>
-      <guid isPermaLink="false">b02205ef3bed</guid>
-      <source url="https://artificialanalysis.ai/models/glm-5-3-flash">Hacker News</source>
-    </item>
-    <item>
-      <title>Muzyk disco polo skazany za gwałty i znęcanie się nad żoną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d349386d069</link>
-      <description>Rafał S., znany w regionie ostrołęckim muzyk disco polo, został nieprawomocnie skazany na karę 3,5 roku więzienia za gwałty i znęcanie się nad żoną. Jak poinformowała w środę Prokuratura Okręgowa w Ostrołęce, mężczyzna dostał też zakaz zbliżania się i kontaktowania z pokrzywdzoną.</description>
-      <pubDate>Wed, 26 Aug 2026 14:57:47 GMT</pubDate>
-      <guid isPermaLink="false">3d349386d069</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/ostroleka-muzyk-disco-polo-skazany-za-gwalt-i-znecanie-sie-nad-zona-st9207637?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Pędził przez miasto 135 kilometrów na godzinę. Testował nowe auto</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f263ef94c46f</link>
-      <description>Policjanci zatrzymali kierowcę BMW, który w obszarze zabudowanym jechał 135 kilometrów na godzinę, przekraczając dopuszczalną prędkość o 85 km/h. 24-latek tłumaczył, że chciał przetestować dopiero co kupiony samochód.</description>
-      <pubDate>Wed, 26 Aug 2026 14:54:42 GMT</pubDate>
-      <guid isPermaLink="false">f263ef94c46f</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/radom-przekroczyl-predkosc-stracil-prawo-jazdy-testowal-auto-st9207621?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Śmiertelny wirus w Europie. Nie żyje jedna osoba, dwie są w szpitalu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/96ce08457407</link>
-      <description>W prowincji Utrecht zmarła osoba, która zakaziła się w Holandii wirusem Zachodniego Nilu – poinformował w środę holenderski instytut zdrowia publicznego RIVM. Dwie inne zarażone osoby przebywają w szpitalu. W tym roku obecność wirusa potwierdzono w trzech prowincjach w kraju.</description>
-      <pubDate>Wed, 26 Aug 2026 14:51:00 GMT</pubDate>
-      <guid isPermaLink="false">96ce08457407</guid>
-      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Smiertelny-wirus-w-Europie-Nie-zyje-jedna-osoba-dwie-sa-w-szpitalu,288206,15.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Harry i Meghan już są w Anglii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e4920d4c28eb</link>
-      <description>To powrót, o którym mówiła cała Wielka Brytania. Książę Harry i księżna Meghan, po kilku latach życia w słonecznej Kalifornii, znów zamieszkają na Wyspach. Jak donoszą brytyjskie media, prywatny samolot z rodziną Sussexów na pokładzie wylądował w środowe popołudnie na lotnisku w Birmingham. Na pokładzie byli nie tylko Harry i Meghan, ale także ich dzieci – Archie i Lilibet – oraz dwa ukochane psy.</description>
-      <pubDate>Wed, 26 Aug 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="false">e4920d4c28eb</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-harry-i-meghan-juz-sa-w-anglii,nIdn,1015231">RMF24</source>
-    </item>
-    <item>
-      <title>Zarzuty dla aktywistów po proteście na drodze do Morskiego Oka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da44ba3313ba</link>
-      <description>45 zarzutów w sprawie wykroczeń ma usłyszeć 10 aktywistów DIOZ w związku z protestem przeciwko wykorzystywaniu koni na drodze do Morskiego Oka. Chodzi m.in. o niewykonywanie poleceń policji i utrudnianie ruchu fasiągów. To nie jedyna sprawa, którą zajmują się służby w związku z ostatnimi działaniami stowarzyszenia w Tatrach. Starosta zawiadomił prokuraturę po pyskówce w urzędzie, a śledczy sprawdzają, jak spłonął wykorzystywany przez DIOZ samochód.</description>
-      <pubDate>Wed, 26 Aug 2026 14:48:37 GMT</pubDate>
-      <guid isPermaLink="false">da44ba3313ba</guid>
-      <source url="https://tvn24.pl/krakow/zarzuty-dla-aktywistow-dioz-po-protescie-na-drodze-do-morskiego-oka-st9204528?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Trójka przerobiona na ósemkę i parkowanie na kopercie </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dfeb66b1f9bb</link>
-      <description>Mercedesem zaparkowanym w Alejach Jerozolimskich zainteresowali się strażnicy miejscy. Odkryli, że auto nie powinno tam stać. Miało sfałszowany dokument, uprawniający do korzystania z miejsca dla osób z niepełnosprawnościami.</description>
-      <pubDate>Wed, 26 Aug 2026 14:46:53 GMT</pubDate>
-      <guid isPermaLink="false">dfeb66b1f9bb</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-przerobione-cyfry-na-karcie-parkowanie-na-kopercie-st9207351?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Twórcy GTA VI przerywają milczenie. Chodzi o wielki wyciek informacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f1dae5739388</link>
-      <description>Rockstar Games zabiera głos w sprawie ogromnego wycieku fragmentów rozgrywki z GTA VI.</description>
-      <pubDate>Wed, 26 Aug 2026 14:45:22 GMT</pubDate>
-      <guid isPermaLink="false">f1dae5739388</guid>
-      <source url="https://antyweb.pl/tworcy-gta-vi-przerywaja-milczenie-chodzi-o-wielki-wyciek-informacji">Antyweb</source>
-    </item>
-    <item>
-      <title>Ring introduces a new encryption standard, makes it the default for cloud features</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cbbf628e676b</link>
-      <description>Ring says users can still opt for end-to-end encryption.</description>
-      <pubDate>Wed, 26 Aug 2026 14:44:33 GMT</pubDate>
-      <guid isPermaLink="false">cbbf628e676b</guid>
-      <source url="https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Krwawy Księżyc. Kiedy i gdzie obserwować zaćmienie w sierpniu 2026 roku?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/43e7a9c03276</link>
-      <description>Tegoroczny sierpień jest gratką dla fanów obserwacji astronomicznych. Po spektakularnym zaćmieniu Słońca oraz deszczu &quot;spadających gwiazd&quot;, w piątek czeka nas zaćmienie Księżyca. Sprawdź, jak najlepiej obserwować to zjawisko.</description>
-      <pubDate>Wed, 26 Aug 2026 14:44:25 GMT</pubDate>
-      <guid isPermaLink="false">43e7a9c03276</guid>
-      <source url="https://tvn24.pl/tvnmeteo/polska/krwawy-ksiezyc-kiedy-i-gdzie-obserwowac-zacmienie-w-sierpniu-2026-roku-st9207619?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Młodzieżówka, Bogdanka, Ibiza. Tak działa &quot;prawa ręka&quot; Kaczyńskiego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/97344f53e81f</link>
-      <description>Jest uznawany za &quot;młodego wilka&quot; PiS. Od lat blisko współpracuje z Jarosławem Kaczyńskim. Teraz 32-letni Michał Moskal znalazł się w centrum kolejnej odsłony sprawy Zondacrypto. W jego życiorysie głośnych historii jest jednak więcej.</description>
-      <pubDate>Wed, 26 Aug 2026 14:40:04 GMT</pubDate>
-      <guid isPermaLink="false">97344f53e81f</guid>
-      <source url="https://tvn24.pl/polska/michal-moskal-i-afera-zondacrypto-kim-jest-polityk-pis-u-st9206814?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Trump o wizycie szefa CIA w Moskwie: Te spekulacje są szalone</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5526984877c8</link>
-      <description>Prezydent USA Donald Trump oświadczył w środę, że wtorkowa wizyta szefa CIA Johna Ratcliffe’a w Moskwie w pewnym sensie była rutynowa i ocenił, że może coś z niej wyniknąć.</description>
-      <pubDate>Wed, 26 Aug 2026 14:40:00 GMT</pubDate>
-      <guid isPermaLink="false">5526984877c8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-o-wizycie-szefa-CIA-w-Moskwie-Te-spekulacje-sa-szalone-9187508.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5f8c614f846a</link>
-      <description>Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn&apos;t heard before.</description>
-      <pubDate>Wed, 26 Aug 2026 14:37:01 GMT</pubDate>
-      <guid isPermaLink="false">5f8c614f846a</guid>
-      <source url="https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/">TechCrunch</source>
-    </item>
-    <item>
-      <title>USA i Kanada nakładają kolejne cła. O czym marzy Trump?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fda06c5d76f7</link>
-      <description>Stosunki USA i Kanady pozostają napięte. Kraje nakładają nawzajem kolejne cła, a Trump sugeruje zmianę nazwy jeziora Ontario na Jezioro Ameryki. Końca sporu nie widać. Kto ma rację i skąd wziął się konflikt? Na ten temat wypowiada się w rozmowie z Piotrem Salakiem, gość Radia RMF24 Michał Urbańczyk, amerykanista z Uniwersytetu im. Adama Mickiewicza w Poznaniu.</description>
-      <pubDate>Wed, 26 Aug 2026 14:37:00 GMT</pubDate>
-      <guid isPermaLink="false">fda06c5d76f7</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-usa-i-kanada-nakladaja-kolejne-cla-o-czym-marzy-trump,nIdn,1015228">RMF24</source>
-    </item>
-    <item>
-      <title>Beata Mazurek o doniesieniach w sprawie Michała Moskala: Polacy mają prawo pytać</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ed612f68e730</link>
-      <description>Można mówić o przypadku, ale takich &quot;przypadków&quot; jest za dużo - napisała była rzeczniczka Prawa i Sprawiedliwości Beata Mazurek, komentując doniesienia o spotkaniu posła PiS Michała Moskala z byłym szefem Zondacrypto Przemysławem Kralem na Ibizie. Podkreśliła również, że ta sprawa wymaga przejrzystości.</description>
-      <pubDate>Wed, 26 Aug 2026 14:34:56 GMT</pubDate>
-      <guid isPermaLink="false">ed612f68e730</guid>
-      <source url="https://tvn24.pl/polska/beata-mazurek-o-spotkaniu-michala-moskala-z-szefem-zondacrypto-na-ibizie-polacy-maja-prawo-pytac-st9207608?source=rss">TVN24</source>
     </item>
   </channel>
 </rss>
