@@ -1,0 +1,13 @@
+{
+  "id": "9d02963cf5e6",
+  "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+  "originalTitle": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+  "publishedAt": "2026-08-28T11:15:05.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Authorities in Australia said Wednesday that they arrested two men accused of participating in cybercrimes for TeamPCP, a prolific group of hackers that, over nine months, has carried out a relentless series of supply-chain attacks that infected more than 1,000 organizations worldwide.</p>\n<p>In a <a href=\"https://www.afp.gov.au/news-centre/media-release/two-wa-men-charged-following-afp-fbi-wapf-disruption-alleged-global\">statement</a>, the Australian Federal Police said the two men were arrested and charged with 14 offenses. The statement said the men were members of TeamPCP, which by the authorities’ count, compromised more than 1,000 organizations worldwide. The statement didn’t identify the men, except to say they lived in the Western Australian towns of Cottesloe and Mandurah. KrebsOnSecurity, citing a lengthy investigation, provided what it reports to be <a href=\"https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/\">both defendants’ names</a>, along with an extensive background of their lives and the mistakes that led to their downfall.</p>\n<h2>The hacks that keep on hacking</h2>\n<p>TeamPCP has vexed law enforcement officials and security personnel around the world since it emerged in December. The group is best known for a sustained series of supply-chain attacks that laced open source software with malware that self-propagated from one package to another. The viral infections worked by targeting organizations’ CI/CD pipelines, which are used to rapidly develop, update, and deploy software.</p>\n<p>Once a package or tool was compromised, <a href=\"https://dune.fandom.com/wiki/Shai-Hulud\">Shai-Hulud</a>, as the worm was dubbed, attached itself to future package updates. When developers downloaded the compromised packages and ran them through their own CI/CD platforms, their software was also compromised.</p> </div></div>",
+  "image": "images/1ec7c2703a51.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
