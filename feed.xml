@@ -5,8 +5,336 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:45:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:49:01 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump says US has &apos;historic&apos; deal to control 65bn barrels of Venezuela&apos;s oil</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b7867d1cc526</link>
+      <description>Venezuelan interim President Delcy Rodriguez says the deal will help revive her country&apos;s economy.</description>
+      <pubDate>Sat, 29 Aug 2026 01:21:43 GMT</pubDate>
+      <guid isPermaLink="false">b7867d1cc526</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Somali piracy surges as the impact of the US-Iran war ripples outwards</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/037bdbbaba27</link>
+      <description>Two ships were seized within four days last week raising to at least 13 the number attacked since January.</description>
+      <pubDate>Sat, 29 Aug 2026 01:14:13 GMT</pubDate>
+      <guid isPermaLink="false">037bdbbaba27</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Close race as Iceland votes on whether to restart talks on joining EU</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bf37a3287c9c</link>
+      <description>Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland&apos;s vital fishing industry.</description>
+      <pubDate>Sat, 29 Aug 2026 00:56:19 GMT</pubDate>
+      <guid isPermaLink="false">bf37a3287c9c</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Strong winds and thunderstorms kick off the bank holiday weekend</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eae22ae0c21d</link>
+      <description>Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.</description>
+      <pubDate>Sat, 29 Aug 2026 00:53:13 GMT</pubDate>
+      <guid isPermaLink="false">eae22ae0c21d</guid>
+      <source url="https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Mountain of broken fridges growing across England and Wales</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f5f5f3f3e1e8</link>
+      <description>This year&apos;s multiple heat waves have increased the numbers of fridges and freezers breaking down.</description>
+      <pubDate>Sat, 29 Aug 2026 00:51:02 GMT</pubDate>
+      <guid isPermaLink="false">f5f5f3f3e1e8</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>The race to stop England running out of water</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a78c669b6ab9</link>
+      <description>Who is to blame for the summer drought, and can England future-proof its water supplies?</description>
+      <pubDate>Sat, 29 Aug 2026 00:46:00 GMT</pubDate>
+      <guid isPermaLink="false">a78c669b6ab9</guid>
+      <source url="https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Landlady to 9/11 hijackers reveals their links to alleged Saudi spy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d0a7eaed86c1</link>
+      <description>A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.</description>
+      <pubDate>Sat, 29 Aug 2026 00:32:17 GMT</pubDate>
+      <guid isPermaLink="false">d0a7eaed86c1</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Does the Sumerian King List Align with Paleoclimate Events?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7efce9f5b420</link>
+      <description>A statistical test of whether the Sumerian King List&apos;s antediluvian reigns line up with paleoclimate events better than chance.</description>
+      <pubDate>Fri, 28 Aug 2026 23:46:10 GMT</pubDate>
+      <guid isPermaLink="false">7efce9f5b420</guid>
+      <source url="https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/">Hacker News</source>
+    </item>
+    <item>
+      <title>PPWR lands another blow to an precarious tabletop industry</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f8cba35a80a0</link>
+      <description>Regulatory compliance takes up far too many resources and hours.</description>
+      <pubDate>Fri, 28 Aug 2026 23:41:05 GMT</pubDate>
+      <guid isPermaLink="false">f8cba35a80a0</guid>
+      <source url="https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/">Hacker News</source>
+    </item>
+    <item>
+      <title>9th Circuit sides with states in Kalshi gambling fight</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6c03c6a260f</link>
+      <description>Comments</description>
+      <pubDate>Fri, 28 Aug 2026 23:32:22 GMT</pubDate>
+      <guid isPermaLink="false">c6c03c6a260f</guid>
+      <source url="https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/">Hacker News</source>
+    </item>
+    <item>
+      <title>I accidentally turned LLM memory into program analysis</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d675ad5b276b</link>
+      <description>Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent&apos;s knowledge as analysis state, with provenance, retractions and incremental evaluation, plus what happened when I benchmarked it on LongMemEval and LoCoMo.</description>
+      <pubDate>Fri, 28 Aug 2026 23:27:45 GMT</pubDate>
+      <guid isPermaLink="false">d675ad5b276b</guid>
+      <source url="https://pwning.systems/posts/llm-memory-program-analysis/">Hacker News</source>
+    </item>
+    <item>
+      <title>Chinese automakers are following Tesla’s bet that robots are the next big profit machine</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cfa8cc81f628</link>
+      <description>Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they&apos;re all Chinese automakers.</description>
+      <pubDate>Fri, 28 Aug 2026 23:24:27 GMT</pubDate>
+      <guid isPermaLink="false">cfa8cc81f628</guid>
+      <source url="https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Boot a Virtual iPhone via Apple&apos;s Virtualization.framework</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bd488c1cb70b</link>
+      <description>Contribute to Lakr233/vphone-cli development by creating an account on GitHub.</description>
+      <pubDate>Fri, 28 Aug 2026 23:02:21 GMT</pubDate>
+      <guid isPermaLink="false">bd488c1cb70b</guid>
+      <source url="https://github.com/Lakr233/vphone-cli">Hacker News</source>
+    </item>
+    <item>
+      <title>Is the best way to watch a movie on a pair of sunglasses?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9d933e87ed78</link>
+      <description>Are XREAL&apos;s smart glasses the way of the future for home entertainment?</description>
+      <pubDate>Fri, 28 Aug 2026 22:42:48 GMT</pubDate>
+      <guid isPermaLink="false">9d933e87ed78</guid>
+      <source url="https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Identifying fake cosmetics using AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4ffd2b68fb03</link>
+      <description>My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we’re always on the lookout for other types of fakes that we can go after....</description>
+      <pubDate>Fri, 28 Aug 2026 22:18:27 GMT</pubDate>
+      <guid isPermaLink="false">4ffd2b68fb03</guid>
+      <source url="https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Court rules Kalshi sports bets aren&apos;t &quot;swaps,&quot; just gambling with a different name</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7854036fdce6</link>
+      <description>Kalshi can&apos;t evade Nevada gambling laws by calling bets &quot;swaps,&quot; judges rule.</description>
+      <pubDate>Fri, 28 Aug 2026 22:14:52 GMT</pubDate>
+      <guid isPermaLink="false">7854036fdce6</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Footage of Tibet floods isn&apos;t being shown in China - and we know little about victims there</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a530abfe5bd1</link>
+      <description>Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.</description>
+      <pubDate>Fri, 28 Aug 2026 22:05:41 GMT</pubDate>
+      <guid isPermaLink="false">a530abfe5bd1</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Man dies and at least six injured after sign falls at Christian festival</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/33df4ae0dfb0</link>
+      <description>A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.</description>
+      <pubDate>Fri, 28 Aug 2026 21:41:12 GMT</pubDate>
+      <guid isPermaLink="false">33df4ae0dfb0</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Cities terminate Flock contracts at record pace in August</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e41b75a9a300</link>
+      <description>Cancellations have accelerated.</description>
+      <pubDate>Fri, 28 Aug 2026 21:33:54 GMT</pubDate>
+      <guid isPermaLink="false">e41b75a9a300</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Pięciosetowy bój Polaków na Memoriale Wagnera. Słowenia pokonana</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8edaf8d20afd</link>
+      <description>xxxx</description>
+      <pubDate>Fri, 28 Aug 2026 21:19:00 GMT</pubDate>
+      <guid isPermaLink="false">8edaf8d20afd</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-pieciosetowy-boj-polakow-na-memoriale-wagnera-slowenia-pokon,nIdn,1015606">RMF24</source>
+    </item>
+    <item>
+      <title>97-year-old woman rescued after Nepali floods looked like &apos;a warrior&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/032672ccf81f</link>
+      <description>A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.</description>
+      <pubDate>Fri, 28 Aug 2026 21:17:54 GMT</pubDate>
+      <guid isPermaLink="false">032672ccf81f</guid>
+      <source url="https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>&quot;RFK Jr. has lied to the Senate&quot;: Lawmakers call for criminal probe, ouster</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2ec6355fce03</link>
+      <description>RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.</description>
+      <pubDate>Fri, 28 Aug 2026 21:17:38 GMT</pubDate>
+      <guid isPermaLink="false">2ec6355fce03</guid>
+      <source url="https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Projekt budżetu na 2027 rok. Ponad 280 milionów na Fundusz Kościelny</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/62970157623e</link>
+      <description>W 2027 roku wydatki na Fundusz Kościelny mają osiągnąć rekordowy poziom 283 milionów 560 tysięcy złotych – wynika z projektu ustawy budżetowej. To o 11 milionów złotych więcej niż rok wcześniej. Zdecydowana większość tych środków przeznaczona zostanie na opłacenie składek na ubezpieczenia społeczne duchownych, ale pieniądze trafią także na remonty zabytkowych świątyń oraz wsparcie działalności charytatywnej Kościołów. Skąd biorą się te wydatki i na co dokładnie są przeznaczane?</description>
+      <pubDate>Fri, 28 Aug 2026 21:09:00 GMT</pubDate>
+      <guid isPermaLink="false">62970157623e</guid>
+      <source url="https://www.rmf24.pl/fakty/ekonomia/news-projekt-budzetu-na-2027-rok-ponad-280-milionow-na-fundusz-ko,nIdn,1015607">RMF24</source>
+    </item>
+    <item>
+      <title>&apos;It&apos;s destroying our town&apos;: Residents tell of concern after violent incidents near Middlesbrough</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/48cb68a9d8dc</link>
+      <description>Residents near Middlesbrough have told the BBC of their concern after a spate of violent incidents in their area.</description>
+      <pubDate>Fri, 28 Aug 2026 21:03:38 GMT</pubDate>
+      <guid isPermaLink="false">48cb68a9d8dc</guid>
+      <source url="https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Przełomowe odkrycie na Dolnym Śląsku. Szczątki dawnych właścicieli zamku Książ</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f67488868aa7</link>
+      <description>Na cmentarzu komunalnym w Świebodzicach dokonano przełomowego odkrycia, które rzuca nowe światło na historię zamku Książ. W grobowcu rodziny von Kramsta odnaleziono 25 trumien i sarkofagów, w których spoczywają szczątki członków rodu von Hochberg – dawnych właścicieli jednej z największych rezydencji Dolnego Śląska. Wśród nich zidentyfikowano Konrada Ernsta Maximiliana von Hochberga, fundatora barokowej przebudowy zamku.</description>
+      <pubDate>Fri, 28 Aug 2026 20:29:00 GMT</pubDate>
+      <guid isPermaLink="false">f67488868aa7</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-przelomowe-odkrycie-na-dolnym-slasku-szczatki-dawnych-wlasci,nIdn,1015605">RMF24</source>
+    </item>
+    <item>
+      <title>Neocloud Lambda secures $1B in debt to buy more chips</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7f0374631f4f</link>
+      <description>Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It&apos;s the latest in a string of loans, underscoring the high cost of the AI boom.</description>
+      <pubDate>Fri, 28 Aug 2026 20:24:11 GMT</pubDate>
+      <guid isPermaLink="false">7f0374631f4f</guid>
+      <source url="https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/">TechCrunch</source>
+    </item>
+    <item>
+      <title>12 dzieci trafiło do szpitala. Dramatyczna pomyłka przy inhalacji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2125c386757</link>
+      <description>Podczas turnusu rehabilitacyjnego w Świnoujściu doszło do groźnej pomyłki przy inhalacji: zamiast leku dzieciom podano środek do dezynfekcji. Dwanaścioro uczestników trafiło do szpitali, ich stan oceniono jako stabilny.</description>
+      <pubDate>Fri, 28 Aug 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">f2125c386757</guid>
+      <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/12-dzieci-trafilo-do-szpitala-Dramatyczna-pomylka-przy-inhalacji,288317,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„Te miesiące będą krytyczne”. Ostrzeżenie Donalda Tuska przed Rosją</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/108eeda96379</link>
+      <description>Premier Donald Tusk stwierdził, że są sygnały, iż Rosja szykuje się bardzo poważnie do eskalacji napięcia, „zarówno w wojnie z Ukrainą, jak i w całym regionie”. „Musimy być przygotowani na różne ewentualności (…), te najbliższe siedem, osiem miesięcy będzie krytyczne” – powiedział szef rządu podczas Campusu Polska Przyszłości w Olsztynie.</description>
+      <pubDate>Fri, 28 Aug 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="false">108eeda96379</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-te-miesiace-beda-krytyczne-ostrzezenie-donalda-tuska-przed-r,nIdn,1015601">RMF24</source>
+    </item>
+    <item>
+      <title>Polacy masowo opuszczają Niemcy. Historyczny zwrot w migracji zarobkowej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4ff1e539fcbe</link>
+      <description>W 2025 roku po raz pierwszy od lat więcej Polaków opuściło Niemcy, niż do nich przyjechało. Najnowsze dane pokazują, że nasi rodacy coraz częściej rezygnują z życia za Odrą, a rynek pracy w Niemczech przestaje być dla nich atrakcyjny – informuje Interia.</description>
+      <pubDate>Fri, 28 Aug 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="false">4ff1e539fcbe</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-polacy-masowo-opuszczaja-niemcy-historyczny-zwrot-w-migracji,nIdn,1015603">RMF24</source>
+    </item>
+    <item>
+      <title>CD Projekt pokazał klasę. Udzielono pomocy okradzionemu twórcy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6c5b5970dbb5</link>
+      <description>Rodzimy CD Projekt RED to klasa sama w sobie. Firma nie tylko tworzy świetnie gry, ale i potrafi pomóc w potrzebie, czego dowiedziono na targach Gamescom.</description>
+      <pubDate>Fri, 28 Aug 2026 19:45:11 GMT</pubDate>
+      <guid isPermaLink="false">6c5b5970dbb5</guid>
+      <source url="https://antyweb.pl/cd-projekt-red-pomaga-okradzionemu-tworcy-piekny-gest">Antyweb</source>
+    </item>
+    <item>
+      <title>Skandal w Ukrainie. Pracownicy prosektorium podejrzani o nielegalny handel tkankami zmarłych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e2ff73364a5</link>
+      <description>Czterech pracowników obwodowego biura patomorfologii w Czerniowcach na zachodzie Ukrainy zostało zatrzymanych w sprawie podejrzenia nielegalnego handlu tkankami i organami zmarłych. Według śledczych bliskich zmarłych nakłaniano do zgody m.in. zapewnieniami, że materiały mają trafić do rannych żołnierzy.</description>
+      <pubDate>Fri, 28 Aug 2026 19:42:00 GMT</pubDate>
+      <guid isPermaLink="false">7e2ff73364a5</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-skandal-w-ukrainie-pracownicy-prosektorium-podejrzani-o-niel,nIdn,1015600">RMF24</source>
+    </item>
+    <item>
+      <title>Rośnie nowe pokolenie dzieci z SMA</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8133aab8e346</link>
+      <description>Pierwsze dzieci objęte w Polsce badaniami przesiewowymi noworodków w kierunku SMA mają dziś kilka lat. Ich historie pokazują, jak wczesna diagnoza i szybkie leczenie zmieniły codzienność i rokowania w tej chorobie rzadkiej.</description>
+      <pubDate>Fri, 28 Aug 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="false">8133aab8e346</guid>
+      <source url="https://www.rynekzdrowia.pl/choroby-rzadkie/Rosnie-nowe-pokolenie-dzieci-z-SMA,288316,1024.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>An Anthropic researcher just gave us a peek at self-improving AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8152c5575eb2</link>
+      <description>Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.</description>
+      <pubDate>Fri, 28 Aug 2026 19:30:38 GMT</pubDate>
+      <guid isPermaLink="false">8152c5575eb2</guid>
+      <source url="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Tusk mówi wprost: Rosja planuje eskalację. My będziemy następni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9ec6716bb959</link>
+      <description>Premier Donald Tusk powiedział w piątek, że są sygnały, iż Rosja szykuje się bardzo poważnie do eskalacji napięcia. Musimy być przygotowani na różne ewentualności i z całą pewnością te najbliższe 7-8 miesięcy będzie krytyczne - podkreślił.</description>
+      <pubDate>Fri, 28 Aug 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="false">9ec6716bb959</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Tusk-mowi-wprost-Rosja-planuje-eskalacje-My-bedziemy-nastepni-9189019.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Ten smartfon zamiecie konkurencję. Samsung już drży</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/36ba65911537</link>
+      <description>Samsung, Apple i inni wielcy producenci już drżą. Chiński producent zapowiedział prawdziwą rewolucję w temacie mobilnej fotografii.</description>
+      <pubDate>Fri, 28 Aug 2026 19:11:44 GMT</pubDate>
+      <guid isPermaLink="false">36ba65911537</guid>
+      <source url="https://antyweb.pl/ten-telefon-zrobi-to-czego-samsung-i-apple-nie-potrafia">Antyweb</source>
+    </item>
+    <item>
+      <title>Polskie siatkarki triumfują w Stambule. Faworytki pokonane</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56c69efa360e</link>
+      <description>To był prawdziwy siatkarski thriller. Polskie siatkarki po emocjonującym pięciosetowym boju pokonały w Stambule gospodynie turnieju – reprezentację Turcji 3:2. Dzięki temu zwycięstwu Biało-Czerwone zajęły pierwsze miejsce w grupie A i w 1/8 finału mistrzostw Europy zmierzą się z Portugalią.</description>
+      <pubDate>Fri, 28 Aug 2026 19:03:00 GMT</pubDate>
+      <guid isPermaLink="false">56c69efa360e</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-polskie-siatkarki-triumfuja-w-stambule-faworytki-pokonane,nIdn,1015599">RMF24</source>
+    </item>
+    <item>
+      <title>Polak zatrzymany w Hiszpanii. Był ścigany ENA za poważne przestępstwa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3c88324ad898</link>
+      <description>Hiszpańska policja zatrzymała w Torrevieja, w prowincji Alicante na wschodzie kraju, 55-letniego Polaka poszukiwanego europejskim nakazem aresztowania – poinformował lokalny portal „Todo Alicante”. Mężczyzna ma być poszukiwany w związku z podejrzeniem usiłowania zabójstwa, uprowadzenia oraz nielegalnego posiadania broni.</description>
+      <pubDate>Fri, 28 Aug 2026 18:52:00 GMT</pubDate>
+      <guid isPermaLink="false">3c88324ad898</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-polak-zatrzymany-w-hiszpanii-byl-scigany-ena-za-powazne-prze,nIdn,1015597">RMF24</source>
+    </item>
+    <item>
+      <title>Czy Dania dopuściła się ludobójstwa? Grenlandia publikuje raporty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c23803f6b4cc</link>
+      <description>Dwa sprzeczne raporty, tysiące poszkodowanych kobiet i pytania o odpowiedzialność Danii za wydarzenia sprzed dekad. W Grenlandii na nowo rozgorzała debata o przymusowej antykoncepcji stosowanej wobec młodych Inuitek w latach 60. XX wieku. Czy działania duńskich władz można uznać za ludobójstwo? Odpowiedzi szukają nie tylko eksperci, ale i politycy, którzy domagają się międzynarodowego rozliczenia.</description>
+      <pubDate>Fri, 28 Aug 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="false">c23803f6b4cc</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-czy-dania-dopuscila-sie-ludobojstwa-grenlandia-publikuje-rap,nIdn,1015596">RMF24</source>
+    </item>
+    <item>
+      <title>Brave’s browser one-ups Chrome with its new support for email aliases</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f74112f152d1</link>
+      <description>The feature, announced this week, allows Brave&apos;s users to sign up for websites and other online services without having to share their personal email addresses.</description>
+      <pubDate>Fri, 28 Aug 2026 18:50:00 GMT</pubDate>
+      <guid isPermaLink="false">f74112f152d1</guid>
+      <source url="https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Meta ugina się pod presją. „Uruchamiamy w Polsce ulepszony system AI”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9169279700d7</link>
+      <description>Meta, właściciel Facebooka i Instagrama, ogłasza wprowadzenie zaawansowanych systemów sztucznej inteligencji oraz pełnej weryfikacji reklam usług finansowych kierowanych do Polski. To odpowiedź na rosnącą falę oszukańczych reklam i naciski ze strony polskich władz, które domagają się od Komisji Europejskiej nałożenia na giganta kary w wysokości 250 mln euro.</description>
+      <pubDate>Fri, 28 Aug 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="false">9169279700d7</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-meta-ugina-sie-pod-presja-uruchamiamy-w-polsce-ulepszony-sys,nIdn,1015595">RMF24</source>
+    </item>
+    <item>
+      <title>Open-weight AI companies are the Valley’s hottest acquisition targets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fea5f6e87ebd</link>
+      <description>There&apos;s a lot of capital pouring into the business of giving models away.</description>
+      <pubDate>Fri, 28 Aug 2026 18:19:40 GMT</pubDate>
+      <guid isPermaLink="false">fea5f6e87ebd</guid>
+      <source url="https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/">TechCrunch</source>
+    </item>
     <item>
       <title>KPO to nie tylko robot i tomografy. Prof. Ryś: pacjent ma zyskać pełną ścieżkę opieki</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5241e3a0ed39</link>
@@ -14,6 +342,14 @@
       <pubDate>Fri, 28 Aug 2026 18:14:00 GMT</pubDate>
       <guid isPermaLink="false">5241e3a0ed39</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/KPO-to-nie-tylko-robot-i-tomografy-Prof-Rys-pacjent-ma-zyskac-pelna-sciezke-opieki,287481,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„Mam poczucie porażki”. Tusk mówił na Campusie o tym, co najbardziej go martwi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ccd9ac7a76f3</link>
+      <description>Premier Donald Tusk przyznał w piątek podczas spotkania z uczestnikami Campusu Polska Przyszłości, że ma poczucie porażki w sprawie rozliczeń wcześniejszego rządu i że martwi go ich tempo. Były też krytyczne aluzje wobec prezydenta Karola Nawrockiego. „Nie zgodzę się, że jak ktoś jest silny, to może wyłudzić od kogoś bezradnego, starego mieszkanie, że ktoś może machać pięścią i straszyć dziennikarza” – mówił w Olsztynie premier.</description>
+      <pubDate>Fri, 28 Aug 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="false">ccd9ac7a76f3</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-mam-poczucie-porazki-tusk-mowil-na-campusie-o-tym-co-najbard,nIdn,1015594">RMF24</source>
     </item>
     <item>
       <title>Nowość w egzaminie specjalizacyjnym pielęgniarek. Nie wszystkie zdawać go będą pisemnie</title>
@@ -24,393 +360,52 @@
       <source url="https://www.rynekzdrowia.pl/Nauka/Nowosc-w-egzaminie-specjalizacyjnym-pielegniarek-Nie-wszystkie-zdawac-go-beda-pisemnie,288315,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>41,5 mld zł dla NFZ z budżetu państwa w 2027 roku; dotacja dla Funduszu rośnie z roku na rok</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/38faacae6f27</link>
-      <description>Minister finansów Andrzej Domański poinformował w piątek, że w planowanym na przyszły rok budżecie przewidziano 41,5 mld zł dotacji dla Narodowego Funduszu Zdrowia. W tym roku do NFZ przekazano 33,6 mld zł. Planowana dotacja na przyszły rok będzie ponad 200 razy większa niż w 2023 roku.</description>
-      <pubDate>Fri, 28 Aug 2026 16:31:20 GMT</pubDate>
-      <guid isPermaLink="false">38faacae6f27</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/41-5-mld-zl-dla-NFZ-z-budzetu-panstwa-w-2027-roku-dotacja-dla-Funduszu-rosnie-z-roku-na-rok,288314,1.html">Rynek Zdrowia</source>
+      <title>Trump blacklisting of &quot;woke&quot; Anthropic deemed illegal by federal judge</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a1395b4e087f</link>
+      <description>Anthropic refused to support lethal autonomous warfare and mass surveillance.</description>
+      <pubDate>Fri, 28 Aug 2026 18:07:55 GMT</pubDate>
+      <guid isPermaLink="false">a1395b4e087f</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/">Ars Technica</source>
     </item>
     <item>
-      <title>Mocny thriller Netflixa już jest. Genialna obsada, zaplanujcie seans</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7b036a2b89e6</link>
-      <description>Netflix właśnie wrzucił do biblioteki &quot;Szeptacza&quot; - mroczny, proceduralny thriller z genialną obsadą.</description>
-      <pubDate>Fri, 28 Aug 2026 16:30:56 GMT</pubDate>
-      <guid isPermaLink="false">7b036a2b89e6</guid>
-      <source url="https://antyweb.pl/ten-serial-wrocil-zeby-pozamiatac-nowy-sezon-blisko-100-pozytywnych-recenzji">Antyweb</source>
+      <title>Sikorski w „The Economist”: Nie należy przedwcześnie negocjować z Rosją</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eec2b83597b5</link>
+      <description>Europa powinna oprzeć się pokusie zbyt szybkiego rozpoczęcia negocjacji z Rosją – napisał szef polskiej dyplomacji Radosław Sikorski w artykule opublikowanym przez brytyjski tygodnik „The Economist”. Jego zdaniem dialog polityczny rozpoczęty przed osłabieniem strategicznej pozycji Moskwy może wzmocnić Kreml, podzielić Zachód i osłabić wsparcie dla Ukrainy.</description>
+      <pubDate>Fri, 28 Aug 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="false">eec2b83597b5</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-sikorski-w-the-economist-nie-nalezy-przedwczesnie-negocjowac,nIdn,1015593">RMF24</source>
     </item>
     <item>
-      <title>Radar i mapa opadów w Polsce. Nadchodzi ulewny deszcz. Tu spadnie go najwięcej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fe2a45952058</link>
-      <description>Początek weekendu przyniesie załamanie pogody. Już nocą w części kraju możemy spodziewać się ulew oraz burz. Aura pozostanie groźna także w sobotę. Sprawdź na mapach, jak będą wędrować opady.</description>
-      <pubDate>Fri, 28 Aug 2026 16:28:17 GMT</pubDate>
-      <guid isPermaLink="false">fe2a45952058</guid>
-      <source url="https://tvn24.pl/tvnmeteo/prognoza/radar-i-mapa-opadow-w-polsce-pogoda-i-burze-w-sobote-29-08-nadchodzi-ulewny-deszcz-tu-spadnie-go-najwiecej-st9211186?source=rss">TVN24</source>
+      <title>„Holy drip”. Papież na liście najlepiej ubranych według „Vanity Fair”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b7e8dc99ddb9</link>
+      <description>Papież Leon XIV znalazł się wśród 70 najbardziej stylowych osób świata według Vanity Fair. To pierwszy raz od dekady, gdy prestiżowy magazyn opublikował swoją listę najlepiej ubranych, a obecność głowy Kościoła katolickiego w tym zestawieniu wywołała prawdziwą sensację. Co sprawiło, że papież stał się ikoną stylu?</description>
+      <pubDate>Fri, 28 Aug 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="false">b7e8dc99ddb9</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-holy-drip-papiez-na-liscie-najlepiej-ubranych-wedlug-vanity-,nIdn,1015590">RMF24</source>
     </item>
     <item>
-      <title>Four plead guilty to arson attack on Jewish community ambulances</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b76c6f1c61cd</link>
-      <description>Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March.</description>
-      <pubDate>Fri, 28 Aug 2026 16:25:53 GMT</pubDate>
-      <guid isPermaLink="false">b76c6f1c61cd</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Koniec taniego Apple TV. Drożeje abonament</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2372b3fb2659</link>
+      <description>Apple TV drożeje. Natychmiastowa podwyżka już obowiązuje.</description>
+      <pubDate>Fri, 28 Aug 2026 17:50:49 GMT</pubDate>
+      <guid isPermaLink="false">2372b3fb2659</guid>
+      <source url="https://antyweb.pl/apple-tv-drozeje-znamy-nowa-cene-abonamentu">Antyweb</source>
     </item>
     <item>
-      <title>Śmiertelnie niebezpieczna kolejka górska została zamknięta. Jedna osoba w śpiączce</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/59efefd1d377</link>
-      <description>Kolejka górska X2 w parku Six Flags Magic Mountain w Kalifornii została wyłączona z użytku po tym, jak dwie osoby doznały poważnych obrażeń mózgu — wynika z ustaleń CNN, opisywanych przez „The Guardian”. Jedna z poszkodowanych nadal przebywa w śpiączce. Park nie komentuje szczegółów sprawy.</description>
-      <pubDate>Fri, 28 Aug 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="false">59efefd1d377</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-smiertelnie-niebezpieczna-kolejka-gorska-zostala-zamknieta-j,nIdn,1015580">RMF24</source>
+      <title>Piąta fala upałów we Włoszech. Na Sardynii 46 stopni Celsjusza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0c7f1b4bf090</link>
+      <description>Włochy walczą z piątą falą upałów tego lata. W piątek padły rekordy temperatur, a Sardynia znalazła się w centrum pogodowego piekła. W dziewięciu miastach, w tym w Rzymie, obowiązuje najwyższy stopień alarmu z powodu upałów.</description>
+      <pubDate>Fri, 28 Aug 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="false">0c7f1b4bf090</guid>
+      <source url="https://www.rmf24.pl/fakty/pogoda/news-piata-fala-upalow-we-wloszech-na-sardynii-46-stopni-celsjusz,nIdn,1015592">RMF24</source>
     </item>
     <item>
-      <title>Glock i Walther w mieszkaniu. Jest śledztwo prokuratury </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/19bdda3cbb50</link>
-      <description>Jest śledztwo prokuratury w sprawie trzech zatrzymanych obywateli Rosji (Republiki Czeczeńskiej). Jeden z nich usłyszał zarzut nielegalnego posiadania broni i amunicji. Służby znalazły m. in. pistolet Glock oraz Walther. 42-latek trafił do aresztu.</description>
-      <pubDate>Fri, 28 Aug 2026 16:19:25 GMT</pubDate>
-      <guid isPermaLink="false">19bdda3cbb50</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wola/warszawa-rosjanie-i-bron-w-mieszkaniu-zarzuty-i-areszt-sledztwo-prokuratury-st9211069?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Naukowcy stworzyli wysokobiałkowe ciastka z plastikowych butelek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39b46e491d48</link>
-      <description>Naukowcy z USA opracowali przełomową metodę, która pozwala zamienić odpady roślinne i plastikowe butelki PET w pełnowartościową żywność. Technika ta może zrewolucjonizować kosmiczne misje i pomóc w walce z głodem na Ziemi.</description>
-      <pubDate>Fri, 28 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="false">39b46e491d48</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-naukowcy-stworzyli-wysokobialkowe-ciastka-z-plastikowych-but,nIdn,1015584">RMF24</source>
-    </item>
-    <item>
-      <title>Co powiedział pierwszy bankier świata? Dolar droższy, ale akcje rosną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/902bac59e9b4</link>
-      <description>Ostatnia sesja tygodnia na warszawskiej giełdzie upłynęła pod znakiem umiarkowanego odbicia po czwartkowej wyprzedaży, któremu nie przeszkodził jastrzębi przekaz Kevina Warsha z amerykańskiego Jackson Hole. To właśnie na sympozjum bankierów centralnych skupiała się uwaga globalnych rynków, nieco zostawiając na boku geopolitykę, która straszyła dzień wcześniej w odniesieniu do aktywów z regionu.</description>
-      <pubDate>Fri, 28 Aug 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="false">902bac59e9b4</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Co-powiedzial-pierwszy-bankier-swiata-Dolar-drozszy-ale-akcje-rosna-9188930.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>„Husarze” meldują się w Polsce. Pięć nowych F-35 wylądowało w Łasku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/88f9520ac34a</link>
-      <description>Pięć kolejnych samolotów F-35 wylądowało w piątkowe popołudnie w 32. Bazie Lotnictwa Taktycznego w Łasku (woj. łódzkie). W bazie tej stacjonuje już więc osiem takich myśliwców, a do końca roku w Polsce ma być ich łącznie 14.</description>
-      <pubDate>Fri, 28 Aug 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="false">88f9520ac34a</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-husarze-melduja-sie-w-polsce-piec-nowych-f-35-wyladowalo-w-l,nIdn,1015581">RMF24</source>
-    </item>
-    <item>
-      <title>Disorder at balloon release for man who died in A66 car crash &apos;put lives at risk&apos;, MP says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f204eb7e3771</link>
-      <description>Footage shows cars being set on fire during an event for one of the young men who died in A66 crash.</description>
-      <pubDate>Fri, 28 Aug 2026 16:05:55 GMT</pubDate>
-      <guid isPermaLink="false">f204eb7e3771</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Dymisje w chińskim wojsku. Najbliżsi współpracownicy Xi Jinpinga stracili stanowiska</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a52c93699c0</link>
-      <description>Dwóch najwyższych rangą generałów zostało usuniętych z Centralnej Komisji Wojskowej Chin po śledztwie dotyczącym poważnych naruszeń prawa i dyscypliny. Decyzja ta wpisuje się w szeroko zakrojoną kampanię antykorupcyjną prowadzoną przez Xi Jinpinga, która nie oszczędza nawet najbliższych współpracowników chińskiego przywódcy.</description>
-      <pubDate>Fri, 28 Aug 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="false">7a52c93699c0</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-dymisje-w-chinskim-wojsku-najblizsi-wspolpracownicy-xi-jinpi,nIdn,1015582">RMF24</source>
-    </item>
-    <item>
-      <title>Żonglowanie miliardami na zdrowie. 17, a nawet 26 mld na zdrowie nie wystarczy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a0bfec734d83</link>
-      <description>W piątek 28 sierpnia premier Donald Tusk ogłosił, że na ochronę zdrowia w 2027 roku będzie o 26 mld zł więcej. Tydzień wcześniej mówił o wzroście o 17 mld zł. Która kwota jest prawdziwa? Analizujemy przyłoroczny budżet na zdrowie.</description>
-      <pubDate>Fri, 28 Aug 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="false">a0bfec734d83</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zonglowanie-miliardami-na-zdrowie-17-a-nawet-26-mld-na-zdrowie-nie-wystarczy,288310,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Cios w uczniów&quot;. Rząd komentuje weto prezydenta</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1b2730ee72a2</link>
-      <description>To cios w rodziców, uczniów i nauczycieli. Karol Nawrocki mówi im dziś: zostańcie przy starym, rozproszonym systemie, zakładajcie kolejne konta, korzystajcie z różnych aplikacji, a nauczyciele niech dalej wykonują pracę, którą państwo mogłoby uprościć - minister cyfryzacji Krzysztof Gawkowski skomentował weto prezydenta w sprawie wprowadzenia do szkół pilotażu państwowego eDziennika.</description>
-      <pubDate>Fri, 28 Aug 2026 16:01:37 GMT</pubDate>
-      <guid isPermaLink="false">1b2730ee72a2</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/weto-prezydenta-przedstawiciele-rzadu-krytykuja-decyzje-w-sprawie-edziennika-st9211107?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Twój telefon już nie będzie tak łatwy do wyśledzenia. Ta funkcja zmienia zasady gry</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e69298725f63</link>
-      <description>Android 17 wdraża systemową obsługę funkcji ECH, która znacząco podniesie bezpieczeństwo Twojego urządzenia. A to jeszcze nie wszystko!</description>
-      <pubDate>Fri, 28 Aug 2026 16:00:38 GMT</pubDate>
-      <guid isPermaLink="false">e69298725f63</guid>
-      <source url="https://antyweb.pl/android-17-ech-obsluga">Antyweb</source>
-    </item>
-    <item>
-      <title>Just the rumour of a bug is enough to find an exploit these days</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a3d40848cd03</link>
-      <description>Thinking through how the conventional OSS security embargoes no longer buy us time, and what open source maintainers might do instead to respond</description>
-      <pubDate>Fri, 28 Aug 2026 15:58:46 GMT</pubDate>
-      <guid isPermaLink="false">a3d40848cd03</guid>
-      <source url="https://anil.recoil.org/notes/rumour-is-the-exploit">Hacker News</source>
-    </item>
-    <item>
-      <title>More Americans oppose police license plate cameras than support them: survey</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c3f3c0b737bf</link>
-      <description>The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.</description>
-      <pubDate>Fri, 28 Aug 2026 15:57:58 GMT</pubDate>
-      <guid isPermaLink="false">c3f3c0b737bf</guid>
-      <source url="https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Hiszpania: W 4 minuty złodzieje ukradli, złoty, bezcenny skarb z epoki brązu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2eef968a879d</link>
-      <description>Z Muzeum Villena w prowincji Alicante zniknęła większość Skarbu z Villeny — jednej z najważniejszych kolekcji złotych artefaktów z epoki brązu w Europie. Złodzieje mieli potrzebować zaledwie czterech minut, by dostać się do placówki i uciec z łupem.</description>
-      <pubDate>Fri, 28 Aug 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="false">2eef968a879d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-hiszpania-w-4-minuty-zlodzieje-ukradli-zloty-bezcenny-skarb-,nIdn,1015578">RMF24</source>
-    </item>
-    <item>
-      <title>What we know about the 33 British nationals missing in Nepal</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ab454de262bf</link>
-      <description>Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.</description>
-      <pubDate>Fri, 28 Aug 2026 15:48:14 GMT</pubDate>
-      <guid isPermaLink="false">ab454de262bf</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Grants</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/889f0cf5b365</link>
-      <description>To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested</description>
-      <pubDate>Fri, 28 Aug 2026 15:45:43 GMT</pubDate>
-      <guid isPermaLink="false">889f0cf5b365</guid>
-      <source url="https://www.nasa.gov/centers-and-facilities/grants-2/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Nawałnice pod Paryżem. &quot;Cała okolica została zniszczona&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/615d6425ed21</link>
-      <description>Część Francji minionej nocy zmagała się ze skutkami gwałtownych burz. Silny wiatr łamał drzewa, a opady ogromnego gradu utrudniały jazdę kierowcom. W mocy były pomarańczowe alarmy, wydane przez meteorologów.</description>
-      <pubDate>Fri, 28 Aug 2026 15:45:01 GMT</pubDate>
-      <guid isPermaLink="false">615d6425ed21</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/nawalnice-pod-paryzem-cala-okolica-zostala-zniszczona-st9211067?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Meta makes AI glasses slightly less creepy with limit on nonconsensual recording</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d35873ce5df7</link>
-      <description>Meta fixes AI glasses to stop recording any time users cover up the safety light.</description>
-      <pubDate>Fri, 28 Aug 2026 15:42:24 GMT</pubDate>
-      <guid isPermaLink="false">d35873ce5df7</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/">Ars Technica</source>
-    </item>
-    <item>
-      <title>How Dactyl Works</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c5fa8c7e87ca</link>
-      <description>The drawing protocol behind Dactyl&apos;s SwiftUI engine, the hosts that paint it, and how we test it against Apple.</description>
-      <pubDate>Fri, 28 Aug 2026 15:42:04 GMT</pubDate>
-      <guid isPermaLink="false">c5fa8c7e87ca</guid>
-      <source url="https://dactyl.dev/blog/how-dactyl-works/">Hacker News</source>
-    </item>
-    <item>
-      <title>Quiz na koniec wakacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/df2c5736fa92</link>
-      <description>Do Afryki odlatują bociany, odprowadzane tęsknymi spojrzeniami ostatnich wczasowiczów. Na Kubę... a nie, wróć, właściwie to do Kubów odleciał słowik, ten bursztynowy, z sopockiego festiwalu. Wszystko to niechybny znak, że kończą się powoli wakacje. Jak będziemy je wspominać? Sprawdźmy w quizie.</description>
-      <pubDate>Fri, 28 Aug 2026 15:41:26 GMT</pubDate>
-      <guid isPermaLink="false">df2c5736fa92</guid>
-      <source url="https://tvn24.pl/quizy/quiz-na-koniec-wakacji-st9211073?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Miała dbać o konie, ale je biła i kopała. Sędzia jeździecka zawieszona</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/09f7f9c2a590</link>
-      <description>Policja w Koninie wyjaśnia sprawę podejrzenia znęcania się nad końmi w jednej ze stajni. Zawiadomienie złożyła właścicielka zwierząt, która po przejrzeniu monitoringu natrafiła na nagrania, na których widać, jak sędzia jeździecka opiekująca się końmi kopie je i bije. Filmy pojawiły się w mediach społecznościowych, a sprawą zajął się Polski Związek Jeździecki, który zawiadomił prokuraturę i tymczasowo zawiesił sędzię.</description>
-      <pubDate>Fri, 28 Aug 2026 15:37:15 GMT</pubDate>
-      <guid isPermaLink="false">09f7f9c2a590</guid>
-      <source url="https://tvn24.pl/poznan/konin-miala-dbac-o-konie-ale-je-bila-i-kopala-sedzia-jezdziecka-zawieszona-st9210892?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Friend-focused photo sharing app Retro snags $21M</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f82484337d99</link>
-      <description>Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.</description>
-      <pubDate>Fri, 28 Aug 2026 15:35:03 GMT</pubDate>
-      <guid isPermaLink="false">f82484337d99</guid>
-      <source url="https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Run Qwen3.8 27B locally: real numbers from my Mac Studio</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e15a9692477</link>
-      <description>Qwen3.8 27B benchmarked on a Mac Studio M3 Ultra: Ollama and llama.cpp numbers, the 1-bit quant tested, RAM math, and the hardware that actually fits.</description>
-      <pubDate>Fri, 28 Aug 2026 15:24:44 GMT</pubDate>
-      <guid isPermaLink="false">9e15a9692477</guid>
-      <source url="https://terminalbytes.com/run-qwen-3-8-27b-locally/">Hacker News</source>
-    </item>
-    <item>
-      <title>Rynki się pośpieszyły? Prezes Fed rozwiewa złudzenia i stawia twarde warunki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f43e395f2413</link>
-      <description>Inflacja w USA nie zwalnia znacząco do 2-proc. celu, dopóki nie będzie takiej pewności bank centralny ma jeszcze pracę do wykonania - ocenił prezes Fed Kevin Warsh, w przemówieniu przygotowanym na seminarium w Jackson Hole.</description>
-      <pubDate>Fri, 28 Aug 2026 15:22:00 GMT</pubDate>
-      <guid isPermaLink="false">f43e395f2413</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rynki-sie-pospieszyly-Prezes-Fed-rozwiewa-zludzenia-i-stawia-twarde-warunki-9188873.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>GLM-5.3 is now open-weight</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1d085ce5c0f6</link>
-      <description>GLM-5.3 is now open-weight.
-
-Our most capable model for agentic coding and cyber defense is now available to download, run, and customize.
-
-Weights: https://t.co/v1IbWMXxg4
-Tech blog: https://t.co/ekQkO83jCv</description>
-      <pubDate>Fri, 28 Aug 2026 15:20:13 GMT</pubDate>
-      <guid isPermaLink="false">1d085ce5c0f6</guid>
-      <source url="https://twitter.com/Zai_org/status/2093354097122455713">Hacker News</source>
-    </item>
-    <item>
-      <title>Wyskoczył z czwartego piętra, by ratować życie. Dramatyczny pożar w Wejherowie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6e1ed0c17674</link>
-      <description>Poranek na Osiedlu Kaszubskim w Wejherowie rozpoczął się od groźnego pożaru. Mieszkaniec czwartego piętra zmuszony był wyskoczyć z okna na rozstawiony przez strażaków skokochron, by uratować swoje życie. Łącznie ewakuowano dziewięć osób, w tym dziecko. Na miejscu pracowało aż sześć zastępów straży pożarnej.</description>
-      <pubDate>Fri, 28 Aug 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="false">6e1ed0c17674</guid>
-      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-wyskoczyl-z-czwartego-pietra-by-ratowac-zycie-dramatyczny-po,nIdn,1015576">RMF24</source>
-    </item>
-    <item>
-      <title>Gęsty dym nad północnym Londynem. Ponad 100 strażaków w akcji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6824dddb9c33</link>
-      <description>W dzielnicy Neasden w Londynie wybuchł pożar zakładu przetwarzania odpadów. W okolicy wstrzymano ruch metra, a mieszkańcom zalecono zamknięcie drzwi i okien.</description>
-      <pubDate>Fri, 28 Aug 2026 15:17:23 GMT</pubDate>
-      <guid isPermaLink="false">6824dddb9c33</guid>
-      <source url="https://tvn24.pl/swiat/wielka-brytania-londyn-pozar-zakladu-przetwarzania-odpadow-na-polnocy-miasta-st9211056?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>GUIs should be fully keyboard-driven</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/07aca43e12d4</link>
-      <description>GUI applications should be fully driven by the keyboard using shortcuts</description>
-      <pubDate>Fri, 28 Aug 2026 15:17:09 GMT</pubDate>
-      <guid isPermaLink="false">07aca43e12d4</guid>
-      <source url="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Kierowców czeka szok cenowy? Pesymistyczne prognozy na początek września</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6c5c754f433f</link>
-      <description>Jeśli rząd nie przedłuży pakietu Ceny Paliwa Niżej po 31 sierpnia, kierowcy mogą spodziewać się wyższych cen na stacjach nawet o 70-90 groszy - prognozują analitycy e-petrol.pl oraz Reflexu.</description>
-      <pubDate>Fri, 28 Aug 2026 15:17:06 GMT</pubDate>
-      <guid isPermaLink="false">6c5c754f433f</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-pierwszym-tygodniu-wrzesnia-pesymistyczne-prognozy-analitykow-st9211041?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Twój telefon robi gorsze zdjęcia, niż mógłby. Zmień to jedno ustawienie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7fe58ca6c0db</link>
-      <description>Nasz telefon może robić jeszcze lepsze zdjęcia. Wystarczy zmienić to jedno ustawienie.</description>
-      <pubDate>Fri, 28 Aug 2026 15:15:57 GMT</pubDate>
-      <guid isPermaLink="false">7fe58ca6c0db</guid>
-      <source url="https://antyweb.pl/zmien-to-jedno-ustawienie-twoj-telefon-zrobi-lepsze-zdjecia">Antyweb</source>
-    </item>
-    <item>
-      <title>Dramat w Świnoujściu. Dzieciom przez pomyłkę podano płyn do dezynfekcji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fc56b2539a73</link>
-      <description>12 nastolatków trafiło do szpitali w województwie zachodniopomorskim. To efekt zatrucia w jednym z ośrodków rehabilitacyjnych w Świnoujściu. Przez pomyłkę zamiast środka leczniczego do inhalacji nastolatkom podano środek do dezynfekcji - przekazała Wojewódzka Stacja Pogotowia Ratunkowego w Szczecinie.</description>
-      <pubDate>Fri, 28 Aug 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="false">fc56b2539a73</guid>
-      <source url="https://www.rmf24.pl/regiony/szczecin/news-dramat-w-swinoujsciu-dzieciom-przez-pomylke-podano-plyn-do-d,nIdn,1015575">RMF24</source>
-    </item>
-    <item>
-      <title>Jest wniosek o areszt dla Radosława P.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fe92b9cfb17d</link>
-      <description>W piątkowe popołudnie prezes Polskiego Komitetu Olimpijskiego, Radosław P., został wyprowadzony przez funkcjonariuszy z gmachu katowickiej prokuratury. To efekt śledztwa dotyczącego afery wokół giełdy kryptowalut Zondacrypto, w której pojawiają się wątki płatnej protekcji, uprzywilejowanych wypłat i powiązań z politykami.</description>
-      <pubDate>Fri, 28 Aug 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="false">fe92b9cfb17d</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-jest-wniosek-o-areszt-dla-radoslawa-p,nIdn,1015573">RMF24</source>
-    </item>
-    <item>
-      <title>Jest decyzja prokuratury w sprawie Radosława Piesiewicza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/62a0c7117cd0</link>
-      <description>Jest wniosek o tymczasowe aresztowanie dla Radosława Piesiewicza - przekazał minister sprawiedliwości Waldemar Żurek. Prokuratura wystąpiła o trzymiesięczny areszt. Prokurator Anna Adamiak przekazała, że w trakcie piątkowego przesłuchania Piesiewicz nie przyznał się do stawianych mu zarzutów.</description>
-      <pubDate>Fri, 28 Aug 2026 15:11:38 GMT</pubDate>
-      <guid isPermaLink="false">62a0c7117cd0</guid>
-      <source url="https://tvn24.pl/polska/jest-decyzja-prokuratury-w-sprawie-radoslawa-piesiewicza-wniosek-o-tymczasowe-aresztowanie-st9211103?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Beyerdynamic DJ 300 Pro X – te słuchawki mają zastąpić DJ-owi dwie pary, ale jest jeden problem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a69ebe6ca10a</link>
-      <description>Beyerdynamic DJ 300 Pro X świetnie grają, ale po godzinie chciałem je zdjąć. Ktoś tej konstrukcji zupełnie nie przemyślał.</description>
-      <pubDate>Fri, 28 Aug 2026 15:00:45 GMT</pubDate>
-      <guid isPermaLink="false">a69ebe6ca10a</guid>
-      <source url="https://antyweb.pl/beyerdynamic-dj-300-pro-x-te-sluchawki-maja-zastapic-dj-owi-dwie-pary-ale-jest-jeden-problem">Antyweb</source>
-    </item>
-    <item>
-      <title>153 mln zł długu, restrukturyzacji nie będzie. Szpital w Skarżysku-Kamiennej szuka planu B</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5fcc9116690d</link>
-      <description>Jak podaje „Rzeczpospolita”, Sąd Rejonowy w Kielcach umorzył postępowanie restrukturyzacyjne wobec szpitala powiatowego w Skarżysku-Kamiennej. To znaczy, że wierzyciele szpitala mogą domagać się spłaty wymagalnych zobowiązań, a placówka nie może ogłosić upadłości.</description>
-      <pubDate>Fri, 28 Aug 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5fcc9116690d</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/153-mln-zl-dlugu-restrukturyzacji-nie-bedzie-Szpital-w-Skarzysku-Kamiennej-szuka-planu-B,288308,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Rosja wystrzeliła rakietę międzykontynentalną</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e67eb5763e6</link>
-      <description>Rosja przeprowadziła szkolno-bojowy start międzykontynentalnej rakiety balistycznej na paliwo stałe z kosmodromu Plesieck w obwodzie archangielskim — podało rosyjskie ministerstwo obrony. Według komunikatu ćwiczebne głowice dotarły na poligon Kura na Kamczatce.</description>
-      <pubDate>Fri, 28 Aug 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="false">9e67eb5763e6</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-rosja-wystrzelila-rakiete-miedzykontynentalna,nIdn,1015574">RMF24</source>
-    </item>
-    <item>
-      <title>Szpitale z nowym obowiązkiem od 1 listopada. Oto, co będą musiały raportować</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d40959a89d0d</link>
-      <description>Od 1 listopada szpitale będą przekazywać do NFZ godzinowe grafiki pracy personelu medycznego. Fundusz ma dzięki temu łatwiej wykrywać przypadki wykazywania świadczeń w różnych miejscach jednocześnie. Zmiany opublikowano w Dzienniku Ustaw.</description>
-      <pubDate>Fri, 28 Aug 2026 14:50:33 GMT</pubDate>
-      <guid isPermaLink="false">d40959a89d0d</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Szpitale-z-nowym-obowiazkiem-od-1-listopada-Oto-co-beda-musialy-raportowac,288309,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Pożar w porcie. Paliła się motorówka</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d1b46901adc</link>
-      <description>12 strażaków walczyło z pożarem motorówki w Porcie Jachtowym Marina Dąbie w Szczecinie. Do gaszenia ognia wykorzystano też inną łódź.</description>
-      <pubDate>Fri, 28 Aug 2026 14:46:37 GMT</pubDate>
-      <guid isPermaLink="false">8d1b46901adc</guid>
-      <source url="https://tvn24.pl/szczecin/szczecin-pozar-motorowki-w-porcie-jachtowym-st9211044?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Autokar przewrócił się na bok. Cztery osoby poszkodowane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4748afd0d899</link>
-      <description>Autokar z 25 pasażerami przewrócił się na bok po zderzeniu z samochodem osobowym na drodze serwisowej przy trasie S7 między Olsztynkiem a Pawłowem. Cztery osoby zostały poszkodowane, a na miejsce wezwano śmigłowiec Lotniczego Pogotowia Ratunkowego. Droga jest zablokowana.</description>
-      <pubDate>Fri, 28 Aug 2026 14:45:06 GMT</pubDate>
-      <guid isPermaLink="false">4748afd0d899</guid>
-      <source url="https://tvn24.pl/olsztyn/olsztynek-autokar-przewrocil-sie-na-bok-cztery-osoby-poszkodowane-st9211059?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Africa&apos;s Wild Dogs Are the Most Hated Carnivores on the Continent</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2fab98b6754c</link>
-      <description>Meet the team that closely monitors the playful canines, which need help to form diverse packs and stop their numbers from dwindling</description>
-      <pubDate>Fri, 28 Aug 2026 14:44:51 GMT</pubDate>
-      <guid isPermaLink="false">2fab98b6754c</guid>
-      <source url="https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/">Hacker News</source>
-    </item>
-    <item>
-      <title>Kolejne myśliwce F-35 dla Wojska Polskiego wylądowały w Łasku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2aeabc6ac844</link>
-      <description>Pięć kolejnych &quot;Husarzy&quot; - polskich samolotów F-35 - przyleciało do bazy w Łasku. Za sterami siedzieli amerykańscy piloci. Pierwsze trzy takie maszyny dla Wojska Polskiego wylądowały w Polsce w maju.</description>
-      <pubDate>Fri, 28 Aug 2026 14:44:36 GMT</pubDate>
-      <guid isPermaLink="false">2aeabc6ac844</guid>
-      <source url="https://tvn24.pl/polska/piec-mysliwcow-f-35-dla-wojska-polskiego-wyladowalo-w-bazie-w-lasku-st9211054?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>1 października: tomografia za darmo i bez skierowania. Skorzystają trzy grupy pacjentów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5cca588cecb3</link>
-      <description>Narodowy Fundusz Zdrowia określił zasady finansowania nowego programu badań przesiewowych raka płuca. Chodzi o niskodawkową tomografię komputerowej (NDTK). Zarządzenie w tej sprawie weszło w życie.</description>
-      <pubDate>Fri, 28 Aug 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="false">5cca588cecb3</guid>
-      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/1-pazdziernika-tomografia-za-darmo-i-bez-skierowania-Skorzystaja-trzy-grupy-pacjentow,288305,14.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Ostatnie pożegnanie generała Mirosława Różańskiego</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77c4735d94b1</link>
-      <description>Na Cmentarzu Komunalnym w Międzyrzeczu odbyły się uroczystości pogrzebowe ś.p. senatora gen. Mirosława Różańskiego. Generał zmarł po długiej walce z chorobą nowotworową. Miał 63 lata.</description>
-      <pubDate>Fri, 28 Aug 2026 14:39:00 GMT</pubDate>
-      <guid isPermaLink="false">77c4735d94b1</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-ostatnie-pozegnanie-generala-miroslawa-rozanskiego,nIdn,1015572">RMF24</source>
-    </item>
-    <item>
-      <title>Apple TV is raising its subscription prices again</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/048800215c44</link>
-      <description>Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.</description>
-      <pubDate>Fri, 28 Aug 2026 14:36:48 GMT</pubDate>
-      <guid isPermaLink="false">048800215c44</guid>
-      <source url="https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Autistici/Inventati&apos;s main .org domain goes dark after US terrorism designation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f70f2c8cd352</link>
-      <description>Comments</description>
-      <pubDate>Fri, 28 Aug 2026 14:33:04 GMT</pubDate>
-      <guid isPermaLink="false">f70f2c8cd352</guid>
-      <source url="https://mastodon.bida.im/@cavallette/117172989300228024">Hacker News</source>
+      <title>Satellite images reveal scale of flood devastation in Nepal villages</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/98d7cfd3054a</link>
+      <description>Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.</description>
+      <pubDate>Fri, 28 Aug 2026 17:36:54 GMT</pubDate>
+      <guid isPermaLink="false">98d7cfd3054a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
   </channel>
 </rss>
