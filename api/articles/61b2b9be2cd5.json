@@ -1,0 +1,13 @@
+{
+  "id": "61b2b9be2cd5",
+  "title": "Debian votes to allow \"responsible use of generative AI\"",
+  "originalTitle": "Debian votes to allow \"responsible use of generative AI\"",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://lwn.net/Articles/1091231/",
+  "publishedAt": "2026-08-29T14:02:10.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><main>\nThe <a href=\"https://lwn.net/ml/all/E1x06W1-00AjNI-1i@vento.debian.org\">results</a> of the\n<a href=\"https://lwn.net/Articles/1087134/\">Debian general-resolution vote</a> on the use\nof large language models have been posted; the winner is <a href=\"https://www.debian.org/vote/2026/vote_002#texte\">choice 5:\nResponsible Use of Generative AI</a>.\n<blockquote>\n\tDebian neither endorses nor prohibits the use of generative AI\n\ttools in the development, maintenance, or documentation of\n\tsoftware, packaging, documentation, and other media published\n\twithin the Debian Project. We recognize that such tools can\n\tsubstantially improve the productivity of contributors when used\n\tresponsibly, allowing volunteers to spend more of their limited\n\ttime on work that requires technical expertise, judgment, review,\n\tand collaboration.\n<p>\n\tThe Debian Project nevertheless expects that all contributions\n\tsubmitted to Debian, regardless of how and with which tools they\n\twere produced, satisfy the same standards of quality, correctness,\n\tmaintainability, and legal compliance. The use of a generative AI\n\ttool does not diminish the contributor's responsibility for the\n\twork they submit. Contributors are expected to understand, review,\n\ttest, and, where appropriate, modify AI-assisted output before\n\tincorporating it into Debian.\n</p></blockquote><br clear=\"all\"><hr> <a name=\"CommAnchor1091243\"></a> <a name=\"CommAnchor1091245\"></a> <a name=\"CommAnchor1091258\"></a> <a name=\"CommAnchor1091266\"></a> <a name=\"CommAnchor1091260\"></a> <a name=\"CommAnchor1091272\"></a> </main></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
