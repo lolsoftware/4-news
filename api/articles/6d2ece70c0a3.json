@@ -1,0 +1,13 @@
+{
+  "id": "6d2ece70c0a3",
+  "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+  "originalTitle": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/1804.07389",
+  "publishedAt": "2026-08-30T08:23:26.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/1804.07389\">View PDF</a> <a href=\"https://arxiv.org/html/1804.07389v4\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>There has been some interest recently in determining the longest distance one can sail for on the earth without hitting land, as well as in the converse problem of determining the longest distance one could drive for on the earth without encountering a major body of water. In its basic form, this is an optimisation problem, rendered chaotic by the presence of islands and lakes, and indeed the fractal nature of the coasts. In this paper we present a methodology for calculating the two paths using the branch-and-bound algorithm. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Rohan Chabukswar [<a href=\"https://arxiv.org/show-email/a745d520/1804.07389\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/1804.07389v1\" rel=\"nofollow\">[v1]</a></strong> Mon, 9 Apr 2018 20:01:44 UTC (5,683 KB)<br> <strong><a href=\"https://arxiv.org/abs/1804.07389v2\" rel=\"nofollow\">[v2]</a></strong> Sat, 5 May 2018 09:21:35 UTC (5,683 KB)<br> <strong><a href=\"https://arxiv.org/abs/1804.07389v3\" rel=\"nofollow\">[v3]</a></strong> Thu, 28 Jun 2018 14:16:45 UTC (5,447 KB)<br> <strong>[v4]</strong> Mon, 2 Jul 2018 17:52:41 UTC (5,654 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
