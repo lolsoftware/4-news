@@ -1,0 +1,13 @@
+{
+  "id": "e6e8629f34d5",
+  "title": "“I just chose words carefully”",
+  "originalTitle": "“I just chose words carefully”",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+  "publishedAt": "2026-08-30T22:49:48.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>I don’t think anyone particularly enjoys typesetting in monospace.</p>\n<p>Regular text is okay – at least as okay as it can be:</p> <p>Right aligning is also fine, as long as you don’t mind counting spaces, but centering already gets tricky, as you don’t have a half space to make things truly even:</p> <p>And full justification is where things get particularly weird. The spaces are just too large, and cannot be distributed evenly, creating a really unpleasant feeling:</p> <p>The solution used in typesetting elsewhere is hyphenation, but in monospace hyphenation also feels unpleasant, with the hyphens drawing too much attention to themselves (and subsequently messing up copy and paste):</p> <p>This is why you don’t see full justification in text files very often.</p>\n<p>But there is one more option. You can <em>rewrite the text </em>to choose only words that precisely add up to the line length to avoid any double spaces.</p>\n<p>This is exactly what rs1n did in the late 1990s for his <a href=\"https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114\" target=\"_blank\">guide to Super Metroid</a>:</p> <p>It’s astonishing, as it goes like this on for <a href=\"https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114\" target=\"_blank\">17,000 more words</a>, each right margin perfectly ending on a letter, no twin spaces in sight.</p>\n<p>The author lightly covers in the FAQ at the bottom:</p>\n<blockquote><p>What program did you use to justify the text?</p>\n<p>None. I just chose words carefully so that everything lined up on the right hand side. Everything was done with an ASCII editor.</p></blockquote>\n<p>I’m sharing this mostly as a curiosity; some rewrites for physical books are par the course to avoid widows and orphans, but you don’t see them as much in onscreen writing. </p>\n<p>At the same time, who among us didn’t nod in recognition at least, having once spent hours massaging a button UI string or a tooltip just to get it to fit under the certain width in a densely packed interface?</p> </div></div>",
+  "image": "images/ce05ac4ca501.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
