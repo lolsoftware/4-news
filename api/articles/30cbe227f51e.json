@@ -1,0 +1,13 @@
+{
+  "id": "30cbe227f51e",
+  "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+  "originalTitle": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://ravynos.com/",
+  "publishedAt": "2026-08-31T16:19:36.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2>ravynOS</h2> <p> An early-stage (pre-alpha) open-source operating system based on Darwin, FreeBSD, and Apple open-source code that aims to be compatible with macOS applications and has no hardware restrictions. </p> <p>We love macOS, but we're not a fan of the ever-closing hardware and ecosystem. So, we are creating ravynOS — an OS aimed to provide the finesse of macOS with the freedom of open source.</p> <p>This is a <strong>developer preview</strong> intended for people building the system.<br>It is not polished, not completed, and not ready for end users yet.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
