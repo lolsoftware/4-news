@@ -1,0 +1,13 @@
+{
+  "id": "89e5df783443",
+  "title": "Fastpotify",
+  "originalTitle": "Fastpotify",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://fastpotify.rocks/",
+  "publishedAt": "2026-09-01T02:52:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"VPContent\"> <div> <div> <h2> <span>Fastpotify</span> <span>Spotify, native and fast</span> </h2> <p>A lightweight Spotify client with local playback, library access, and Spotify Connect controls for Linux, macOS, and Windows.</p> </div> <div> <p><img src=\"https://fastpotify.rocks/screenshot.png\" alt=\"Fastpotify showing the Late night focus playlist with the queue panel open, a track playing, and the library in the sidebar\" width=\"1894\" height=\"1037\"> </p></div> </div> <div> <div> <article> <p>⚡</p> <h2>Lightweight</h2> <p>A native binary with no embedded browser engine. It starts in well under a second and uses little memory while it runs.</p> </article> </div> <div> <article> <p>🔊</p> <h2>Spotify Connect</h2> <p>Play locally, gapless and at up to 320 kbps, or control playback on a speaker, phone, or TV from the same window.</p> </article> </div> <div> <article> <p>📚</p> <h2>Library and search</h2> <p>Browse playlists, Liked Songs, albums, artists, and podcasts. Search the catalogue and edit playlists you own.</p> </article> </div> <div> <article> <p>⌨️</p> <h2>Desktop controls</h2> <p>Keyboard shortcuts, MPRIS media controls on Linux, and a tray option that keeps music playing after you close the window.</p> </article> </div> </div> <div> <h2 id=\"it-turns-into-winamp\">It turns into Winamp</h2>\n\n<p>Load any classic <code>.wsz</code> skin from the\n<a href=\"https://skins.webamp.org/\">Winamp Skin Museum</a> and Fastpotify becomes a\nperiod-accurate mini player: analyser, equalizer, playlist, shade modes,\ninteger pixel scaling.</p>\n\n<p><img src=\"https://fastpotify.rocks/assets/images/winamp.png\" alt=\"The mini player wearing the built-in skin\"></p> </div> </div></div>",
+  "image": "images/91dae9af6b1a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
