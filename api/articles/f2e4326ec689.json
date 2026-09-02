@@ -1,0 +1,13 @@
+{
+  "id": "f2e4326ec689",
+  "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+  "originalTitle": "The Emergent Symbolic Structure of Artificial Neural Networks",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2608.29530",
+  "publishedAt": "2026-09-02T04:15:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2608.29530\">View PDF</a> <a href=\"https://arxiv.org/html/2608.29530v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>Modern systems in artificial intelligence (AI) somehow excel in domains for which they seem poorly suited. Intelligence has traditionally been modeled as operating over structured combinations of symbols, such as logical formulas. However, the strongest modern AI systems are based on neural networks, which instead represent information in continuous vectors. Vectors seem inadequate for capturing the structure of language, logic, and other cognitive domains, yet neural networks achieve impressive performance in these areas. How do they do it? In this work, we propose a potential answer: Despite appearances, perhaps the internal representations of neural networks implicitly realize symbolic structure. In support of this hypothesis, we show that the vector representations of a variety of neural networks can be closely approximated with symbolic structures: we can replace the network's entire representation-generating process with a closed-form equation instantiating a symbolic structure, and the network's behavior remains largely unchanged. This finding holds for both small-scale neural networks trained to manipulate lists as well as large language models (LLMs) operating in four domains that are central in symbolic traditions: arithmetic, logic, computer code, and language. Further, our symbolic approximation allows us to modify an LLM's behavior in targeted ways via precise interventions on its internal representations, showing that the LLM's behavior is reliant on the symbolic structures we have identified. This work provides a potential way to reconcile longstanding symbolic conceptions of intelligence with the vector-based nature of modern AI. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Tom McCoy [<a href=\"https://arxiv.org/show-email/eb77bb1f/2608.29530\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Sun, 30 Aug 2026 03:32:13 UTC (1,107 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

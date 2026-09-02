@@ -5,409 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:51:10 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pacjent chce mieć wybór. Czy w leczeniu białaczki naprawdę współdecyduje?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b16085c59ed9</link>
-      <description>Nowoczesne terapie sprawiły, że przewlekła białaczka limfocytowa coraz częściej staje się chorobą, z którą można żyć przez wiele lat. Sam dostęp do skutecznego leczenia to jednak nie wszystko. Dla pacjenta równie ważne jest to, czy rozumie swoją diagnozę, zna dostępne możliwości terapii i może uczestniczyć w wyborze leczenia odpowiadającego jego potrzebom oraz stylowi życia.</description>
-      <pubDate>Tue, 01 Sep 2026 22:14:00 GMT</pubDate>
-      <guid isPermaLink="false">b16085c59ed9</guid>
-      <source url="https://www.rynekzdrowia.pl/serwis-hematoonkologia/Pacjent-chce-miec-wybor-Czy-w-leczeniu-bialaczki-naprawde-wspoldecyduje,288452,1023.html">Rynek Zdrowia</source>
+      <title>Renta wdowia do zmiany. PiS kwestionuje jeden z warunków wypłaty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dbccbf4bf1a3</link>
+      <description>Trzy posłanki Prawa i Sprawiedliwości zwróciły się do Ministerstwa Rodziny, Pracy i Polityki Społecznej z pytaniem o zmianę jednego z kryteriów przyznawania renty wdowiej. Chodziło o obniżenie wieku kobiet, które mogą ubiegać się o świadczenie po zmarłym mężu.</description>
+      <pubDate>Wed, 02 Sep 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="false">dbccbf4bf1a3</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Renta-wdowia-do-zmiany-PiS-kwestionuje-jeden-z-warunkow-wyplaty,288432,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Apple follows Google in adopting Trump’s ‘Lake America’ name</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a0b89d555927</link>
-      <description>Apple Maps is following President Trump&apos;s executive order to change the name of Lake Ontario to Lake America.</description>
-      <pubDate>Tue, 01 Sep 2026 22:13:34 GMT</pubDate>
-      <guid isPermaLink="false">a0b89d555927</guid>
-      <source url="https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/">TechCrunch</source>
+      <title>ABCDE znamion na skórze. Wtedy najlepiej udać się do lekarza</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d20f97ffb3f8</link>
+      <description>Lato powoli przemija, a wraz z nim upalne dni. To czas na sprawdzenie skóry: słońce pozostawia po sobie nie tylko opaleniznę, ale także piegi i inne znamiona, niekoniecznie chciane. Warto pamiętać o zasadach dotyczących analizy pieprzyków.</description>
+      <pubDate>Wed, 02 Sep 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="false">d20f97ffb3f8</guid>
+      <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/ABCDE-znamion-na-skorze-Wtedy-najlepiej-udac-sie-do-lekarza,288458,14.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c097ba37b0cc</link>
-      <description>AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.</description>
-      <pubDate>Tue, 01 Sep 2026 22:08:24 GMT</pubDate>
-      <guid isPermaLink="false">c097ba37b0cc</guid>
-      <source url="https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/">TechCrunch</source>
+      <title>Popularne leki zmieniają sny. Mózg wchodzi na wyższy poziom</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/538a9d438a20</link>
+      <description>Leki antydepresyjne poprawiają nastrój, łagodzą objawy depresji i ułatwiają powrót do codziennego funkcjonowania, ale czasem ich skutki uboczne są zaskakujące. U części pacjentów mogą zmieniać sny, które stają się bardziej wyraziste, a niekiedy niepokojące.</description>
+      <pubDate>Wed, 02 Sep 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="false">538a9d438a20</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Popularne-leki-zmieniaja-sny-Mozg-wchodzi-na-wyzszy-poziom,288461,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b67aa4138c4a</link>
-      <description>A Safari extension that pulls videos YouTube labels “Made with AI” out of your feed.</description>
-      <pubDate>Tue, 01 Sep 2026 22:06:57 GMT</pubDate>
-      <guid isPermaLink="false">b67aa4138c4a</guid>
-      <source url="https://masteranza.github.io/weedout/">Hacker News</source>
+      <title>AI wkroczy do diagnostyki w szpitalach. Ministerstwo Zdrowia wskazało narzędzia dla lekarzy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6b7f150e670d</link>
+      <description>Najpóźniej do grudnia 2026 roku ma ruszyć Platforma Usług Inteligentnych, która wykorzysta sztuczną inteligencję do wsparcia lekarzy w diagnostyce obrazowej. Ministerstwo Zdrowia wskazało właśnie, jakie narzędzia mają być dostępne na platformie w pierwszej kolejności.</description>
+      <pubDate>Wed, 02 Sep 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="false">6b7f150e670d</guid>
+      <source url="https://www.rynekzdrowia.pl/E-zdrowie/AI-wkroczy-do-diagnostyki-w-szpitalach-Ministerstwo-Zdrowia-wskazalo-narzedzia-dla-lekarzy,288457,7.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Burnham promises more devolution and public control of essential services</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/48dd3af45a39</link>
-      <description>Tory leader Kemi Badenoch said Burnham was offering &quot;more government control, more taxes and more politicians&quot;, as he addressed MPs for the first time as PM.</description>
-      <pubDate>Tue, 01 Sep 2026 21:48:44 GMT</pubDate>
-      <guid isPermaLink="false">48dd3af45a39</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>5 produktów, które rujnują jelita. Ekspert od jelit unika jak ognia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/89e9de6d8d6e</link>
+      <description>Wybierając się na codzienne zakupy, warto pamiętać, że nie wszystkie produkty są dobre dla naszych jelit. Szczególnie pięć produktów jest szkodliwych, bo mogą prowadzić do zatruć pokarmowych wywołanych bakteriami.</description>
+      <pubDate>Wed, 02 Sep 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="false">89e9de6d8d6e</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/5-produktow-ktore-rujnuja-jelita-Ekspert-od-jelit-unika-jak-ognia,288394,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Ariana Grande ends tour and steps back from public life</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d20629a5a61</link>
-      <description>The star makes an emotional farewell as she wraps up a tour she&apos;s described as her &quot;last hurrah&quot;.</description>
-      <pubDate>Tue, 01 Sep 2026 21:41:05 GMT</pubDate>
-      <guid isPermaLink="false">8d20629a5a61</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>To już pewne. 800 plus po nowemu: zmiany dla wszystkich od 2027 roku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9230070153c6</link>
+      <description>Rodzice pobierający 800 plus na dziecko w 2027 roku będą cieszyć nowym rozwiązaniem. Ministerstwo Rodziny, Pracy i Polityki Społecznej proponuje automatycznie przedłużanie świadczeń na kolejne okresy.</description>
+      <pubDate>Wed, 02 Sep 2026 09:55:00 GMT</pubDate>
+      <guid isPermaLink="false">9230070153c6</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/To-juz-pewne-800-plus-po-nowemu-zmiany-dla-wszystkich-od-2027-roku,288460,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Legia za burtą  Pucharu Polski. Porażki Wisły i Zagłębia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4fecaa9369fb</link>
-      <description>Piłkarze Legii Warszawa podzieli los zawodników Wisły Kraków i już na etapie 1. rundy Pucharu Polski zakończyli zmagania w tych rozgrywkach. Podopieczni Marka Papszuna po bardzo słabym meczu ulegli na wyjeździe Motorowi Lublin 0:3, zaś „Biała Gwiazda” roztrwoniła jedną bramkę przewagi, którą miała nad Odrą Opole do przerwy i ostatecznie przegrała 1:2. Z rozgrywkami pożegnali się także piłkarze Zagłębia Lubin, których wyeliminowała Siarka Tarnobrzeg.</description>
-      <pubDate>Tue, 01 Sep 2026 21:32:00 GMT</pubDate>
-      <guid isPermaLink="false">4fecaa9369fb</guid>
-      <source url="https://www.rmf24.pl/pilka-nozna/news-legia-za-burta-pucharu-polski-porazki-wisly-i-zaglebia,nIdn,1016020">RMF24</source>
+      <title>Następca Ozempiku bez skutków ubocznych. Hamuje apetyt nawet o 50 proc.</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/59dd04cae068</link>
+      <description>Naukowcy ze Stanford odkryli alternatywę dla popularnego Ozempicu. Ta naturalna substancja nie powoduje typowych działań niepożądanych przypisywanych terapii lekiem.</description>
+      <pubDate>Wed, 02 Sep 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="false">59dd04cae068</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Nastepca-Ozempiku-bez-skutkow-ubocznych-Hamuje-apetyt-nawet-o-50-proc,288301,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Remarkable US oil deal puzzles analysts - and angers many Venezuelans</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c96e4cb22817</link>
-      <description>Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist &quot;fever dream&quot;.</description>
-      <pubDate>Tue, 01 Sep 2026 21:27:29 GMT</pubDate>
-      <guid isPermaLink="false">c96e4cb22817</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Szybka droga do zawału. 15 lat danych i 500 tys. hospitalizacji dało pewność</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/122a65ca2d99</link>
+      <description>Nie tylko upał jest groźny dla serca. Analiza blisko pół miliona hospitalizacji wykazała, że zarówno bardzo wysokie, jak i niskie temperatury wiążą się ze wzrostem ryzyka hospitalizacji z powodu niewydolności serca. Co ciekawe, skutki gorąca i zimna mogą pojawiać się w różnym czasie.</description>
+      <pubDate>Wed, 02 Sep 2026 09:05:00 GMT</pubDate>
+      <guid isPermaLink="false">122a65ca2d99</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Szybka-droga-do-zawalu-15-lat-danych-i-500-tys-hospitalizacji-dalo-pewnosc,288396,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>NASA Selects Blue Origin as Mars Telecommunications Network Provider</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6e7e5c9b8d71</link>
-      <description>NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable</description>
-      <pubDate>Tue, 01 Sep 2026 21:08:37 GMT</pubDate>
-      <guid isPermaLink="false">6e7e5c9b8d71</guid>
-      <source url="https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/">NASA Breaking News</source>
+      <title>15-latek wsiadł za kółko Maybacha. Rozbił auto na drodze S11</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/be7a62726214</link>
+      <description>Na drodze ekspresowej S11 pod Kępnem jadący w kierunku Poznania Maybach uderzył w bariery. Jak się okazało, za kierownicą samochodu siedział 15-latek. Sprawa znajdzie finał w sądzie rodzinnym i dla nieletnich</description>
+      <pubDate>Wed, 02 Sep 2026 08:47:22 GMT</pubDate>
+      <guid isPermaLink="false">be7a62726214</guid>
+      <source url="https://tvn24.pl/poznan/kepno-15-latek-wsiadl-za-kolko-maybacha-rozbil-auto-na-drodze-s11-st9217074?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Open AI’s Astra model is on the way — and very good at breaking into computer systems</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c53867e1e8c8</link>
-      <description>OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.</description>
-      <pubDate>Tue, 01 Sep 2026 21:06:24 GMT</pubDate>
-      <guid isPermaLink="false">c53867e1e8c8</guid>
-      <source url="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/">TechCrunch</source>
+      <title>7% na koncie oszczędnościowym dla wyższej kwoty. BOŚ Bank przedłuża promocję</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0702794fab8b</link>
+      <description>Początek września przyniósł zmiany w ofercie BOŚ Banku. Najważniejsza z nich dotyczy znacznego zwiększenia limitu wpłat na Koncie Oszczędnościowym Cyfrowy Zysk oraz poprawienia warunków cenowych dla większych wkładów. Jednocześnie bank nie przedłużył promocji lokat na nowe środki.</description>
+      <pubDate>Wed, 02 Sep 2026 08:46:00 GMT</pubDate>
+      <guid isPermaLink="false">0702794fab8b</guid>
+      <source url="https://www.bankier.pl/wiadomosc/7-dla-30-000-zl-na-koncie-oszczednosciowym-Nowa-promocja-BOS-Banku-9190737.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Google’s Android update tackles motion sickness, accessibility, and more</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e4c6ad084054</link>
-      <description>While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.</description>
-      <pubDate>Tue, 01 Sep 2026 20:53:05 GMT</pubDate>
-      <guid isPermaLink="false">e4c6ad084054</guid>
-      <source url="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/">TechCrunch</source>
+      <title>Wzięli ostrzeżenie Zełenskiego do serca. Odwołano pierwsze loty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1ab1666413a6</link>
+      <description>Wołodymyr Zełenski ostrzegł linie lotnicze przed rosnącym zagrożeniem w rosyjskiej przestrzeni powietrznej. Kilkanaście godzin później odwołano część lotów między Turcją a Moskwą, w tym rejs tanich linii lotniczych Pegasus Airlines z Bodrum. Na moskiewskim lotnisku Wnukowo wprowadzono też czasowe ograniczenia ze względów bezpieczeństwa.</description>
+      <pubDate>Wed, 02 Sep 2026 08:44:00 GMT</pubDate>
+      <guid isPermaLink="false">1ab1666413a6</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wzieli-ostrzezenie-zelenskiego-do-serca-odwolano-pierwsze-lo,nIdn,1016075">RMF24</source>
     </item>
     <item>
-      <title>X says attackers are targeting user accounts after the launch of X Money</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5031acfb74c4</link>
-      <description>X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.</description>
-      <pubDate>Tue, 01 Sep 2026 20:48:32 GMT</pubDate>
-      <guid isPermaLink="false">5031acfb74c4</guid>
-      <source url="https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/">TechCrunch</source>
+      <title>Telli (YC F24) is hiring engineers and designers [Berlin, on-site]</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e4726225f637</link>
+      <description>Join the team of driven individuals that push the limits of what is possible with AI</description>
+      <pubDate>Wed, 02 Sep 2026 08:43:49 GMT</pubDate>
+      <guid isPermaLink="false">e4726225f637</guid>
+      <source url="https://careers.telli.com/">Hacker News</source>
     </item>
     <item>
-      <title>Hang on to Your Firefox</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cfad4f834758</link>
-      <description>Monday, August 31, 2026</description>
-      <pubDate>Tue, 01 Sep 2026 20:30:51 GMT</pubDate>
-      <guid isPermaLink="false">cfad4f834758</guid>
-      <source url="https://www.newsonaut.com/articles/hang-on-to-your-firefox">Hacker News</source>
+      <title>KNF utrzymała karę dla XTB. Broker musi zapłacić 20 mln zł</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7ff624352525</link>
+      <description>Komisja Nadzoru Finansowego wydała ostateczną decyzję, utrzymującą w mocy karę 20 mln złotych nałożoną na XTB SA. To koniec wielomiesięcznego sporu, choć uchybień spółka dopuściła w latach 2022-2023.</description>
+      <pubDate>Wed, 02 Sep 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="false">7ff624352525</guid>
+      <source url="https://www.bankier.pl/wiadomosc/KNF-utrzymala-kare-dla-XTB-Broker-musi-zaplacic-20-mln-zl-9190735.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Tragiczny wypadek na autostradzie A1. Ruch został udrożniony</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1b21a7311f00</link>
-      <description>We wtorek wieczorem udrożniony został ruch jezdnią na południe autostrady A1 po śmiertelnym wypadku na wysokości Mykanowa w powiecie częstochowskim. W jego efekcie we wtorek rano cztery osoby zginęły, a cztery w stanie ciężkim zostały przetransportowane do szpitala.</description>
-      <pubDate>Tue, 01 Sep 2026 20:26:00 GMT</pubDate>
-      <guid isPermaLink="false">1b21a7311f00</guid>
-      <source url="https://www.rmf24.pl/regiony/slaskie/news-tragiczny-wypadek-na-autostradzie-a1-ruch-zostal-udrozniony,nIdn,1016019">RMF24</source>
+      <title>Co sprawia, że śpiew ptaków jest przyjemny?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/311468edfa89</link>
+      <description>Naukowcy z Niemiec zbadali, dlaczego śpiew niektórych ptaków odbieramy jako wyjątkowo przyjemny, a innych - niekoniecznie. Wyniki ich eksperymentu wskazują, że najbardziej doceniamy te ptasie głosy, które są zróżnicowane, mają wyższą tonację i nie są zbyt głośne. Wśród wszystkich analizowanych gatunków najwyżej oceniono śpiew kosa, natomiast najmniej przyjemny okazał się głos sowy barnówki. Wyniki badania zostały opublikowane w czasopiśmie &quot;Frontiers in Bird Science&quot;.</description>
+      <pubDate>Wed, 02 Sep 2026 08:34:00 GMT</pubDate>
+      <guid isPermaLink="false">311468edfa89</guid>
+      <source url="https://www.rmf24.pl/fakty/nauka/news-co-sprawia-ze-spiew-ptakow-jest-przyjemny,nIdn,1016073">RMF24</source>
     </item>
     <item>
-      <title>PTC Therapeutics: nowe dane o Sephience w leczeniu fenyloketonurii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/310e55b5d01e</link>
-      <description>Nowe dane kliniczne i obserwacje z codziennej praktyki mają potwierdzać skuteczność Sephience (sepiapteryny) w obniżaniu stężenia fenyloalaniny, utrzymaniu kontroli metabolicznej i liberalizacji diety u pacjentów z fenyloketonurią - informuje PTC Therapeutics. Nowe dane dotyczące produktu zaprezentowanych podczas Dorocznego Sympozjum Towarzystwa Badań nad Wrodzonymi Wadami Metabolizmu (SSIEM) 2026, które odbyło się w dniach 25-28 sierpnia w Helsinkach.</description>
-      <pubDate>Tue, 01 Sep 2026 20:25:00 GMT</pubDate>
-      <guid isPermaLink="false">310e55b5d01e</guid>
-      <source url="https://www.rynekzdrowia.pl/Farmacja/PTC-Therapeutics-nowe-dane-o-Sephience-w-leczeniu-fenyloketonurii,288451,6.html">Rynek Zdrowia</source>
+      <title>Coraz więcej polskich firm wdraża AI. Skutki odczuje budżet państwa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/998e136665c7</link>
+      <description>Upowszechnienie sztucznej inteligencji może przyspieszyć rozwój polskiej gospodarki, ale jednocześnie zmniejszyć wpływy z podatków i składek od pracy. Bank Światowy ostrzega przed wyzwaniami strukturalnymi, takimi jak spadek zatrudnienia i wzrost nierówności społecznych - informuje &quot;Rzeczpospolita&quot;.</description>
+      <pubDate>Wed, 02 Sep 2026 08:32:12 GMT</pubDate>
+      <guid isPermaLink="false">998e136665c7</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/bank-swiatowy-sztuczna-inteligencja-a-podatki-w-polsce-prognoza-do-2035-roku-st9216978?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Path to Astra: critical capabilities and frontier safeguards</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7734742dd6a2</link>
-      <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.</description>
-      <pubDate>Tue, 01 Sep 2026 20:20:41 GMT</pubDate>
-      <guid isPermaLink="false">7734742dd6a2</guid>
-      <source url="https://openai.com/index/path-to-astra/">Hacker News</source>
+      <title>Action rozpieszcza fanów taniej elektroniki. Hity w świetnych cenach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a1ffa8f264c1</link>
+      <description>Ten tydzień w Action należy do fanów przydatnej elektroniki. Tak niskich cen dawno nie było.</description>
+      <pubDate>Wed, 02 Sep 2026 08:30:29 GMT</pubDate>
+      <guid isPermaLink="false">a1ffa8f264c1</guid>
+      <source url="https://antyweb.pl/action-rozpieszcza-fanow-taniej-elektroniki-hity-w-swietnych-cenach">Antyweb</source>
     </item>
     <item>
-      <title>Groził żonie, pozbawił wolności pasierba. 44-latek w rękach służb</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e0b83b0b6d0a</link>
-      <description>Policjanci z Legnicy w województwie dolnośląskim zatrzymali mężczyznę podejrzanego o pozbawienie wolności swojego pasierba, stosowanie wobec niego przemocy oraz kierowanie gróźb pozbawienia życia. Ustalono, że 44-latek wcześniej kierował groźby wobec swojej żony i miał sądowy zakaz zbliżania się do niej. Został zatrzymany w Karpaczu. Decyzją sądu mężczyzna trafił do aresztu.</description>
-      <pubDate>Tue, 01 Sep 2026 20:09:00 GMT</pubDate>
-      <guid isPermaLink="false">e0b83b0b6d0a</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-grozil-zonie-pozbawil-wolnosci-pasierba-44-latek-w-rekach-sl,nIdn,1016018">RMF24</source>
+      <title>BBC travels inside occupied Lebanon as officials say Israel expanding positions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eba860be9a39</link>
+      <description>The BBC&apos;s Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.</description>
+      <pubDate>Wed, 02 Sep 2026 08:29:42 GMT</pubDate>
+      <guid isPermaLink="false">eba860be9a39</guid>
+      <source url="https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>The ChatGPT/Codex app bundles a full copy of LibreOffice</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/86d3bc7092b6</link>
-      <description>I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in …</description>
-      <pubDate>Tue, 01 Sep 2026 20:07:57 GMT</pubDate>
-      <guid isPermaLink="false">86d3bc7092b6</guid>
-      <source url="https://simonwillison.net/2026/Sep/1/codex-libreoffice/">Hacker News</source>
+      <title>Władimir Putin kontratakuje z Kirgistanu. „Gdzie są dowody?”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3f9226a1f5d9</link>
+      <description>Władimir Putin oskarżył niemieckie władze o sfabrykowanie dowodów dotyczących udziału Rosji w incydencie z dronami na lotnisku w Lipsku. Putin określił działania odwetowe Berlina jako „poważny błąd”.</description>
+      <pubDate>Wed, 02 Sep 2026 08:28:00 GMT</pubDate>
+      <guid isPermaLink="false">3f9226a1f5d9</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wladimir-putin-kontratakuje-z-kirgistanu-gdzie-sa-dowody,nIdn,1016071">RMF24</source>
     </item>
     <item>
-      <title>Takich bananów nigdy nie kupuj. Wystarczy spojrzeć na jedną rzecz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9ed8620003b9</link>
-      <description>Banany to jedne z najczęściej kupowanych owoców, ale nie każda kiść będzie dobrym wyborem. Kolor skórki, wygląd i jędrność mogą wiele powiedzieć o tym, czy owoce są odpowiednio dojrzałe i jak długo zachowają świeżość.</description>
-      <pubDate>Tue, 01 Sep 2026 20:03:00 GMT</pubDate>
-      <guid isPermaLink="false">9ed8620003b9</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Takich-bananow-nigdy-nie-kupuj-Wystarczy-spojrzec-na-jedna-rzecz,288434,9.html">Rynek Zdrowia</source>
+      <title>Gang rozbity. Spektakularna akcja policji i kontrterrorystów na Śląsku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a7b317b30c06</link>
+      <description>Sosnowiecka policja zatrzymała siedmiu mężczyzn podejrzanych o udział w zorganizowanej grupie przestępczej. Gang działał na terenie województw śląskiego i małopolskiego, a jego łupem padały maszyny budowlane, elementy infrastruktury kolejowej, samochody oraz narkotyki. Straty oszacowano na około 10 milionów złotych.</description>
+      <pubDate>Wed, 02 Sep 2026 08:27:00 GMT</pubDate>
+      <guid isPermaLink="false">a7b317b30c06</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-gang-rozbity-spektakularna-akcja-policji-i-kontrterrorystow-,nIdn,1016069">RMF24</source>
     </item>
     <item>
-      <title>Refurbishing a Tektronix TDS7104 Oscilloscope</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5187852a4813</link>
-      <description>A little over a month ago, I ran into a Tektronix TDS7104 at the
-Silicon Valley Flea Market,
-where else?</description>
-      <pubDate>Tue, 01 Sep 2026 19:55:47 GMT</pubDate>
-      <guid isPermaLink="false">5187852a4813</guid>
-      <source url="https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html">Hacker News</source>
+      <title>Nowe badanie trafi do koszyka. Pomoże pacjentom z ryzykiem miażdżycy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0c11b2aed210</link>
+      <description>Nowe badanie ma trafić do koszyka świadczeń finansowanych przez NFZ. Wykonać je będą mogli pacjenci z grup ryzyka miażdżycy tętnic kończyn dolnych. Pomiar wskaźnika kostka–ramię (WKR) to niskokosztowa metoda diagnostyczna.</description>
+      <pubDate>Wed, 02 Sep 2026 08:27:00 GMT</pubDate>
+      <guid isPermaLink="false">0c11b2aed210</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Kardiologia/Nowe-badanie-trafi-do-koszyka-Pomoze-pacjentom-z-ryzykiem-miazdzycy,288455,1014.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Szef kartelu zabity. Amerykanie dawali za niego 3 mln dolarów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f6460945a5e</link>
-      <description>Meksykańscy żołnierze zabili Luisa Enrique Barragána Cháveza, lidera kartelu Los Reyes w Michoacán. Informację potwierdziło ministerstwo obrony. Mężczyzna był uważany za „głównego koordynatora wymuszeń wobec producentów awokado w regionie”.</description>
-      <pubDate>Tue, 01 Sep 2026 19:55:00 GMT</pubDate>
-      <guid isPermaLink="false">3f6460945a5e</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-szef-kartelu-zabity-amerykanie-dawali-za-niego-3-mln-dolarow,nIdn,1016016">RMF24</source>
+      <title>Tego dnia rodzi się najwięcej dzieci. Data, która cieszy się szczególną „popularnością”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4f47760fa5b2</link>
+      <description>Czy można wskazać dzień roku, w którym na świat przychodzi wyjątkowo dużo dzieci? Okazuje się, że tak. Statystyki urodzeń z różnych państw pokazują wyraźną sezonowość narodzin. Rekordowym miesiącem jest wrzesień, a konkretny dzień szczególnie często pojawia się w metrykach noworodków. Są też daty, w których urodzeń jest zdecydowanie najmniej.</description>
+      <pubDate>Wed, 02 Sep 2026 08:25:00 GMT</pubDate>
+      <guid isPermaLink="false">4f47760fa5b2</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-tego-dnia-rodzi-sie-najwiecej-dzieci-data-ktora-cieszy-sie-s,nIdn,1016068">RMF24</source>
     </item>
     <item>
-      <title>Kreml sygnalizuje: Możliwe spotkanie Trumpa, Putina i Xi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cb9e3151ad51</link>
-      <description>Przywódcy Rosji, USA i Chin – Władimir Putin, Donald Trump oraz Xi Jinping – mogą w listopadzie odbyć trójstronne spotkanie. Taką możliwość zasygnalizował doradca Kremla Jurij Uszakow. Rozmowy miałyby zostać przeprowadzone przy okazji szczytu APEC w Chinach.</description>
-      <pubDate>Tue, 01 Sep 2026 19:52:00 GMT</pubDate>
-      <guid isPermaLink="false">cb9e3151ad51</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-kreml-sygnalizuje-mozliwe-spotkanie-trumpa-putina-i-xi,nIdn,1016017">RMF24</source>
+      <title>Rosja kusi USA biznesem? Zaskakujące słowa rosyjskiego ministra</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd77bba7e635</link>
+      <description>Rosja i USA muszą kontynuować poszukiwania wspólnego mianownika w kwestiach gospodarczych, co z kolei może ułatwić rozmowy o sprawach politycznych - powiedział w środę minister finansów Rosji Anton Siluanow rosyjskim mediom. Uczynił to po spotkaniu z amerykańskim ministrem finansów Scottem Bessentem.</description>
+      <pubDate>Wed, 02 Sep 2026 08:23:00 GMT</pubDate>
+      <guid isPermaLink="false">cd77bba7e635</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Rosja-kusi-USA-biznesem-Zaskakujace-slowa-rosyjskiego-ministra-9190720.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Zełenski ogłasza paraliż rosyjskiego nieba i ostrzega pasażerów: Skończyło się</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8d1a96c6d958</link>
-      <description>Rosyjskie niebo stanie się niebezpieczne dla cywilnych samolotów, ponieważ liczba dronów w przestrzeni powietrznej Rosji sprawia, że wojna rozpętana przez ten kraj de facto zamyka jego niebo - oświadczył we wtorek prezydent Ukrainy Wołodymyr Zełenski dodając, że rusza kampania zablokowania rosyjskiej przestrzeni powietrznej.</description>
-      <pubDate>Tue, 01 Sep 2026 19:46:00 GMT</pubDate>
-      <guid isPermaLink="false">8d1a96c6d958</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zelenski-oglasza-paraliz-rosyjskiego-nieba-i-ostrzega-pasazerow-Skonczylo-sie-9190599.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Tyle zarobiła Barbara Mróz-Gorgoń. Stanowisko pełniła niecały miesiąc</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5c80ae787dc3</link>
+      <description>Dr hab. Barbara Mróz-Gorgoń przez niespełna miesiąc zajmowała stanowisko pełnomocniczki rządu ds. promocji marki Polski. Odeszła z niego w cieniu głośnego skandalu. Wiadomo, ile wyniosło jej wynagrodzenie.</description>
+      <pubDate>Wed, 02 Sep 2026 08:16:00 GMT</pubDate>
+      <guid isPermaLink="false">5c80ae787dc3</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Barbara-Mroz-Gorgon-pracowala-trzy-tygodnie-Wiadomo-ile-zarobila-9190718.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7ee870b1abab</link>
-      <description>Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.</description>
-      <pubDate>Tue, 01 Sep 2026 19:45:28 GMT</pubDate>
-      <guid isPermaLink="false">7ee870b1abab</guid>
-      <source url="https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/">TechCrunch</source>
+      <title>Niemcy przetestowały „izraelski Kinżał” po rosyjskiej prowokacji na lotnisku w Lipsku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ad365bd2c786</link>
+      <description>Niemcy przeprowadziły w nocy z 1 na 2 września nad północnym Atlantykiem udany test izraelskiego pocisku balistycznego LORA. Test pocisku wyprodukowanego przez koncern Israel Aerospace Industries odbył się zaledwie kilka godzin po tym, jak Berlin publicznie obarczył Rosję odpowiedzialnością za próbę ataku przy użyciu drona na lotnisko Lips/Halle w zeszłym miesiącu i zarządził podjęcie środków odwetowych.</description>
+      <pubDate>Wed, 02 Sep 2026 08:09:00 GMT</pubDate>
+      <guid isPermaLink="false">ad365bd2c786</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-niemcy-przetestowaly-izraelski-kinzal-po-rosyjskiej-prowokac,nIdn,1016061">RMF24</source>
     </item>
     <item>
-      <title>Anthropic’s new Fable release is cheaper, less restrictive</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a3461c8cef17</link>
-      <description>Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model&apos;s safeguards.</description>
-      <pubDate>Tue, 01 Sep 2026 19:39:22 GMT</pubDate>
-      <guid isPermaLink="false">a3461c8cef17</guid>
-      <source url="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/">TechCrunch</source>
+      <title>Nauczyliśmy się opowiadać... przy ognisku</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/281f8c7df0ba</link>
+      <description>Światło ognia miało kluczowe znaczenie dla ewolucji ludzkiego języka i zdolności opowiadania, sugerują wyniki najnowszych badań naukowców z Uniwersytetu St Andrews oraz Dartmouth College. Według pracy, opublikowanej dziś w czasopiśmie naukowym &quot;Proceedings of the Royal Society&quot;, to właśnie ogień pomógł w przejściu naszych dalekich przodków od prostych systemów komunikacji, charakterystycznych dla naszych małpich krewniaków, do charakterystycznych dla człowieka form narracji i języka.</description>
+      <pubDate>Wed, 02 Sep 2026 08:07:00 GMT</pubDate>
+      <guid isPermaLink="false">281f8c7df0ba</guid>
+      <source url="https://www.rmf24.pl/fakty/nauka/news-nauczylismy-sie-opowiadac-przy-ognisku,nIdn,1016066">RMF24</source>
     </item>
     <item>
-      <title>Rząd chce odejść od ubezwłasnowolnienia. Będą nowe instrumenty wsparcia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cdb2c023b50a</link>
-      <description>Elastyczne instrumenty wsparcia i kompleksowa ochrona przed nadużyciami zamiast ubezwłasnowolnienia. W środę w Sejmie odbędzie się wysłuchanie publiczne dotyczące projektu przygotowanego w Ministerstwie Sprawiedliwości.</description>
-      <pubDate>Tue, 01 Sep 2026 19:37:00 GMT</pubDate>
-      <guid isPermaLink="false">cdb2c023b50a</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Rzad-chce-odejsc-od-ubezwlasnowolnienia-Beda-nowe-instrumenty-wsparcia,288448,2.html">Rynek Zdrowia</source>
+      <title>Spłonęły domki dla kotów. Dwie osoby zatrzymane, w tym 15-latka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9fdaca4f6159</link>
+      <description>Ktoś podpalił domki dla wolno żyjących kotów na Sadybie. Policjanci w tej sprawie zatrzymali 33-letniego mężczyznę i 15-letnią dziewczynę. On usłyszał zarzuty, ona trafiła do ośrodka wychowawczego.</description>
+      <pubDate>Wed, 02 Sep 2026 08:02:17 GMT</pubDate>
+      <guid isPermaLink="false">9fdaca4f6159</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/mokotow/warszawa-sadyba-splonely-domki-dla-kotow-dwie-osoby-zatrzymane-w-tym-15-latka-st9216936?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Najsmaczniejszy sposób na zdrowe żyły. 40 mężczyzn wzięło udział w eksperymencie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a1022f7c100</link>
-      <description>Długie siedzenie nie służy zdrowiu, a zwłaszcza naczyniom krwionośnym. Naukowcy sprawdzili, czy można ograniczyć ten efekt za pomocą flawonoli – związków roślinnych obecnych m.in. w kakao.</description>
-      <pubDate>Tue, 01 Sep 2026 19:33:00 GMT</pubDate>
-      <guid isPermaLink="false">2a1022f7c100</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Najsmaczniejszy-sposob-na-zdrowe-zyly-40-mezczyzn-wzielo-udzial-w-eksperymencie,288436,9.html">Rynek Zdrowia</source>
+      <title>Odszkodowanie za wyciek danych z MyDr: ile realnie możesz dostać i jak złożyć wniosek</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3a1b83156847</link>
+      <description>Na początku sierpnia 2026 roku baza danych firmy MyDr trafiła w ręce przestępców. Ucierpiały dane niemal 19 milionów Polaków.</description>
+      <pubDate>Wed, 02 Sep 2026 08:00:57 GMT</pubDate>
+      <guid isPermaLink="false">3a1b83156847</guid>
+      <source url="https://antyweb.pl/odszkodowanie-za-wyciek-danych-z-mydr-ile-realnie-mozesz-dostac-i-jak-zlozyc-wniosek">Antyweb</source>
     </item>
     <item>
-      <title>Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/daefad831a2f</link>
-      <description>New York&apos;s prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.</description>
-      <pubDate>Tue, 01 Sep 2026 19:30:24 GMT</pubDate>
-      <guid isPermaLink="false">daefad831a2f</guid>
-      <source url="https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/">TechCrunch</source>
+      <title>Tyle naprawdę zarabiają Polacy. GUS pokazał nowe dane</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c558b5c13d8c</link>
+      <description>Główny Urząd Statystyczny (GUS) podał dane dotyczące mediany wynagrodzeń za marzec. Jest to bardziej miarodajny - w porównaniu do średniej - sposób pokazania tego, ile naprawdę zarabiamy.</description>
+      <pubDate>Wed, 02 Sep 2026 08:00:06 GMT</pubDate>
+      <guid isPermaLink="false">c558b5c13d8c</guid>
+      <source url="https://tvn24.pl/biznes/z-kraju/tyle-naprawde-zarabiaja-polacy-gus-pokazal-nowe-dane-st9217009?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Israel warns it will retaliate if UK imposes sanctions</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bc59ae43df3c</link>
-      <description>The UK&apos;s Foreign Secretary Ed Miliband pledged on Tuesday to introduce a &quot;comprehensive reset&quot; of policy on Israel.</description>
-      <pubDate>Tue, 01 Sep 2026 19:27:38 GMT</pubDate>
-      <guid isPermaLink="false">bc59ae43df3c</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Ogień w słynnym sycylijskim kurorcie. &quot;Sytuacja jest naprawdę tragiczna&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/389d8165b8f2</link>
+      <description>Włoscy strażacy walczyli z pożarem, który wybuchł we wtorek rano w pobliży słynnego sycylijskiego kurortu Taormina. Ogień szybko się rozprzestrzenił i dotarł w pobliże zabudowań mieszkalnych.</description>
+      <pubDate>Wed, 02 Sep 2026 07:58:32 GMT</pubDate>
+      <guid isPermaLink="false">389d8165b8f2</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/wlochy-ogien-w-slynnym-sycylijskim-kurorcie-sytuacja-jest-naprawde-tragiczna-st9216956?source=rss">TVN24</source>
     </item>
     <item>
-      <title>„Odparliśmy gospodarcze megaszoki”. Adam Glapiński chwali się sukcesem NBP</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a4f6971e938</link>
-      <description>W trakcie spotkania G20 w Asheville odbyła się sesja szefów banków centralnych poświęcona polityce pieniężnej, podczas której przemawiał prezes NBP prof. Adam Glapiński. Zaznaczał m.in., że zdecydowana reakcja Narodowego Banku Polskiego na megaszoki ostatnich lat pozwoliła utrzymać długoterminową stabilność cen</description>
-      <pubDate>Tue, 01 Sep 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="false">7a4f6971e938</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Odparlismy-gospodarcze-megaszoki-Adam-Glapinski-chwali-sie-sukcesem-NBP-9190596.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Zderzenie dwóch statków w pobliżu Stambułu. Z jednym nie ma kontaktu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dde1e96615b6</link>
+      <description>W nocy z wtorku na środę na Morzu Marmara doszło do zderzenia dwóch tureckich statków handlowych. Z jednym z nich nie zdołano nawiązać kontaktu, a los dziesięcioosobowej załogi pozostaje nieznany. Służby ratunkowe prowadzą intensywną akcję poszukiwawczą.</description>
+      <pubDate>Wed, 02 Sep 2026 07:58:00 GMT</pubDate>
+      <guid isPermaLink="false">dde1e96615b6</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-zderzenie-dwoch-statkow-w-poblizu-stambulu-z-jednym-nie-ma-k,nIdn,1016063">RMF24</source>
     </item>
     <item>
-      <title>US launches more strikes on Iran as state media reports explosions</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c18e9f1c699</link>
-      <description>US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.</description>
-      <pubDate>Tue, 01 Sep 2026 19:24:07 GMT</pubDate>
-      <guid isPermaLink="false">8c18e9f1c699</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Ukraina: Służby udaremniły zamach na rosyjskiego opozycjonistę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/92db62b67813</link>
+      <description>Służba Bezpieczeństwa Ukrainy i wywiad wojskowy udaremniły przygotowywany przez rosyjską Federalną Służbę Bezpieczeństwa zamach na jednego z liderów rosyjskiego ruchu opozycyjnego. Polityk przyjechał do Ukrainy na obchody Dnia Niepodległości - poinformowała SBU.</description>
+      <pubDate>Wed, 02 Sep 2026 07:57:00 GMT</pubDate>
+      <guid isPermaLink="false">92db62b67813</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-ukraina-sluzby-udaremnily-zamach-na-rosyjskiego-opozycjonist,nIdn,1016062">RMF24</source>
     </item>
     <item>
-      <title>Zełenski: rosyjskie niebo staje się całkowicie niebezpieczne</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/58cd3798085e</link>
-      <description>Rosyjskie niebo stanie się niebezpieczne dla cywilnych samolotów, ponieważ liczba dronów w przestrzeni powietrznej Rosji sprawia, że wojna rozpętana przez ten kraj de facto zamyka jego niebo - poinformował we wtorek prezydent Ukrainy Wołodymyr Zełenski. Oświadczył, że rusza kampania zablokowania rosyjskiej przestrzeni powietrznej.</description>
-      <pubDate>Tue, 01 Sep 2026 19:22:55 GMT</pubDate>
-      <guid isPermaLink="false">58cd3798085e</guid>
-      <source url="https://tvn24.pl/swiat/prezydent-ukrainy-rosyjskie-niebo-staje-sie-calkowicie-niebezpieczne-st9216709?source=rss">TVN24</source>
+      <title>Akcja poszukiwawcza na Zatoce Puckiej</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8efc8a6c6133</link>
+      <description>Trwają poszukiwania zaginionego użytkownika skutera wodnego na Zatoce Puckiej. We wtorek późnym wieczorem dwóch mężczyzn poruszało się skuterem i nie wrócili na brzeg.</description>
+      <pubDate>Wed, 02 Sep 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="false">8efc8a6c6133</guid>
+      <source url="https://www.rmf24.pl/regiony/trojmiasto/news-akcja-poszukiwawcza-na-zatoce-puckiej,nIdn,1016059">RMF24</source>
     </item>
     <item>
-      <title>Stary chiński lek może chronić przed udarem. Działa przez mikrobiotę jelitową</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8c23156504e2</link>
-      <description>Składnik stosowany w tradycyjnej medycynie chińskiej i mongolskiej daje obiecujące rezultaty w walce z udarem niedokrwiennym mózgu, działając na oś jelitowo-mózgową. Wyniki przeprowadzonego w Chinach badania opisano w &quot;Chinese Journal of Natural Medicines&quot;.</description>
-      <pubDate>Tue, 01 Sep 2026 19:22:36 GMT</pubDate>
-      <guid isPermaLink="false">8c23156504e2</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Stary-chinski-lek-moze-chronic-przed-udarem-Dziala-przez-mikrobiote-jelitowa,288449,11.html">Rynek Zdrowia</source>
+      <title>Tajemniczy wybuch na dworcu w Niemczech. Są ranni, policja odcięła perony</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eb6297177e6a</link>
+      <description>Nieznany obiekt eksplodował w środę rano na dworcu kolejowym w Augsburgu na południowym zachodzie Niemiec; dwie osoby zostały lekko ranne, wybuch uszkodził okna - przekazała agencja dpa. Nie poinformowano dotychczas, co spowodowało eksplozję.</description>
+      <pubDate>Wed, 02 Sep 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="false">eb6297177e6a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Tajemniczy-wybuch-na-dworcu-w-Niemczech-Sa-ranni-policja-odciela-perony-9190706.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Afera w Czechach. Cofnął darowiznę dla państwa, był oskarżony o pranie pieniędzy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1313a88b862f</link>
-      <description>Tomasz Jirzikovsky, oskarżony m.in. o pranie pieniędzy i handel narkotykami, cofnął darowiznę dla państwa w bitcoinach w wysokości około 45 mln dolarów. - Jesteście niewdzięczni - stwierdził, co jest wystarczającym prawnym powodem do cofnięcia każdej darowizny.</description>
-      <pubDate>Tue, 01 Sep 2026 19:22:00 GMT</pubDate>
-      <guid isPermaLink="false">1313a88b862f</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-afera-w-czechach-cofnal-darowizne-dla-panstwa-byl-oskarzony-,nIdn,1016013">RMF24</source>
+      <title>Po pożarze w sanockim skansenie biegły elektryk sprawdzi instalacje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d3662df60932</link>
+      <description>Eksperci, policjanci i prokurator po raz trzeci przeprowadzają dziś oględziny pogorzeliska w sanockim skansenie. Do zespołu dołączył także biegły z zakresu elektryki. Zebrane na miejscu materiały mają pomóc w ustaleniu przyczyny pożaru.</description>
+      <pubDate>Wed, 02 Sep 2026 07:48:52 GMT</pubDate>
+      <guid isPermaLink="false">d3662df60932</guid>
+      <source url="https://tvn24.pl/rzeszow/sanok-pozar-w-sanockim-skansenie-na-miejscu-biegly-z-zakresu-elektryki-st9212519?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Cofnął darowiznę wypłacaną w bitcoinach. Był oskarżony o pranie pieniędzy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2f68db845625</link>
-      <description>Tomasz Jirzikovsky, oskarżony m.in. o pranie pieniędzy i handel narkotykami, cofnął darowiznę dla państwa w bitcoinach w wysokości około 45 mln dolarów. - Jesteście niewdzięczni - stwierdził, co jest wystarczającym prawnym powodem do cofnięcia każdej darowizny.</description>
-      <pubDate>Tue, 01 Sep 2026 19:22:00 GMT</pubDate>
-      <guid isPermaLink="false">2f68db845625</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-cofnal-darowizne-wyplacana-w-bitcoinach-byl-oskarzony-o-pran,nIdn,1016013">RMF24</source>
+      <title>&quot;Gwałtowne zmiany w eskalacji&quot;. Nowa fala wstrząsa rynkiem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8762f8757071</link>
+      <description>Ceny ropy naftowej rosną. To efekt nowej fali ataków USA na cele wojskowe w Iranie. Na rynku utrzymuje się niepewność, a inwestorzy coraz bardziej obawiają się dalszych zakłóceń dostaw przez cieśninę Ormuz.</description>
+      <pubDate>Wed, 02 Sep 2026 07:47:32 GMT</pubDate>
+      <guid isPermaLink="false">8762f8757071</guid>
+      <source url="https://tvn24.pl/biznes/ze-swiata/gwaltowne-zmiany-w-eskalacji-nowa-fala-wstrzasa-rynkiem-st9216867?source=rss">TVN24</source>
     </item>
     <item>
-      <title>What’s Up: September 2026 Skywatching Tips from NASA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f98767eab38d</link>
-      <description>The Moon joins a tea party, Venus reaches peak brilliance, and the seasons change. These are the skywatching highlights for September.</description>
-      <pubDate>Tue, 01 Sep 2026 19:15:25 GMT</pubDate>
-      <guid isPermaLink="false">f98767eab38d</guid>
-      <source url="https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/">NASA Breaking News</source>
+      <title>Hamuje starzenie biologiczne. Spektakularne efekty potwierdzone naukowo</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9666bce1676d</link>
+      <description>To, co trafia na talerz, może mieć związek nie tylko ze zdrowiem, ale również z tempem biologicznego starzenia organizmu. Badanie obejmujące 6470 osób wykazało, że spośród kilku zdrowych modeli żywienia szczególnie wyróżniały się dwie diety: DASH i nordycka.</description>
+      <pubDate>Wed, 02 Sep 2026 07:45:00 GMT</pubDate>
+      <guid isPermaLink="false">9666bce1676d</guid>
+      <source url="https://www.rynekzdrowia.pl/Nauka/Hamuje-starzenie-biologiczne-Spektakularne-efekty-potwierdzone-naukowo,288456,9.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Germany says Russia behind Leipzig airport drone attack</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/18013a1e711e</link>
-      <description>A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.</description>
-      <pubDate>Tue, 01 Sep 2026 19:13:03 GMT</pubDate>
-      <guid isPermaLink="false">18013a1e711e</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Tragiczny wypadek w Gliwicach. Auto całkowicie zmiażdżone</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c70d99f01569</link>
+      <description>Do tragicznego wypadku doszło w środę rano w Gliwicach. Kierowca samochodu osobowego zjechał na pobocze, uderzył w drzewo, a następnie w słup trakcji energetycznej. Niestety, mimo szybkiej interwencji służb ratunkowych, mężczyzna zmarł w karetce.</description>
+      <pubDate>Wed, 02 Sep 2026 07:43:00 GMT</pubDate>
+      <guid isPermaLink="false">c70d99f01569</guid>
+      <source url="https://www.rmf24.pl/regiony/slaskie/news-tragiczny-wypadek-w-gliwicach-auto-calkowicie-zmiazdzone,nIdn,1016058">RMF24</source>
     </item>
     <item>
-      <title>Powódź błyskawiczna w parku narodowym. Spadające skały zablokowały drogę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3bf1f43ce4b0</link>
-      <description>Utah mierzy się ze skutkami powodzi błyskawicznych po ulewach. Masy wody wywołały poważne utrudnienia zarówno w jednym z parków narodowych, jak i wielu miastach i miejscowościach na terenie stanu.</description>
-      <pubDate>Tue, 01 Sep 2026 19:11:18 GMT</pubDate>
-      <guid isPermaLink="false">3bf1f43ce4b0</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/utah-usa-powodz-blyskawiczna-w-parku-narodowym-spadajace-skaly-zablokowaly-droge-st9216636?source=rss">TVN24</source>
+      <title>Volkswagen zamknie 4 fabryki w Niemczech. Część produkcji trafi do Polski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5a45c2b0af7a</link>
+      <description>Volkswagen stoi w obliczu głębokich zmian strukturalnych, które mają na celu zabezpieczenie długoterminowej konkurencyjności i rentowności koncernu. Z poufnego dokumentu przeznaczonego dla Rady Nadzorczej, zatytułowanego „Bericht zum Konzeptbeschluss Aufsichtsrat 3./4. September 2026” wynika, że dotychczasowe modele biznesowe i struktury operacyjne firmy nie są już wystarczające.</description>
+      <pubDate>Wed, 02 Sep 2026 07:40:00 GMT</pubDate>
+      <guid isPermaLink="false">5a45c2b0af7a</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Volkswagen-zamknie-4-fabryki-w-Niemczech-Czesc-produkcji-trafi-do-Polski-9190697.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Wiceprezeska Bank of America ofiarą ataku w Nowym Jorku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/13d25194ddb4</link>
-      <description>Wiceprezeska Bank of America, Erin Piacenti, jest ofiarą śmiertelnego pchnięcia nożem na nowojorskim Times Square, które miało miejsce w poniedziałek - potwierdziły władze banku. Sprawczyni ataku została zastrzelona przez policję.</description>
-      <pubDate>Tue, 01 Sep 2026 19:08:04 GMT</pubDate>
-      <guid isPermaLink="false">13d25194ddb4</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/usa-atak-nozowniczki-na-times-square-ofiara-wiceprezeska-bank-of-america-st9216673?source=rss">TVN24</source>
+      <title>20 minut walki o życie w tunelu. Dramatyczna relacja ocalałego z powodzi w Nepalu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/038d3b3cf193</link>
+      <description>Dramatyczna opowieść pracownika jednej z elektrowni wodnych w Nepalu. Pemba Dundu Tamang w rozmowie z BBC opowiedział o tym, co działo się podczas ubiegłotygodniowej powodzi błyskawicznej. Mężczyzna był wtedy w tunelu elektrowni. Przed żywiołem uciekał przez 20 minut.</description>
+      <pubDate>Wed, 02 Sep 2026 07:38:00 GMT</pubDate>
+      <guid isPermaLink="false">038d3b3cf193</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-20-minut-walki-o-zycie-w-tunelu-dramatyczna-relacja-ocalaleg,nIdn,1016055">RMF24</source>
     </item>
     <item>
-      <title>Szymon Hołownia o tym, co mógłby robić w rządzie. &quot;Oczywiście nie odmówię&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/788383cb4727</link>
-      <description>Były przewodniczący Polski 2050 mówił w &quot;Kropce nad i&quot; w TVN24, że nie było dla niego propozycji wejścia do rządu, ale nie odmówiłby tego, gdyby to &quot;spinało się w całość&quot;. Szymon Hołownia oświadczył, że mógłby być osobą koordynującą &quot;bezpieczeństwo informacyjne&quot;.</description>
-      <pubDate>Tue, 01 Sep 2026 19:04:26 GMT</pubDate>
-      <guid isPermaLink="false">788383cb4727</guid>
-      <source url="https://tvn24.pl/polska/szymon-holownia-o-tym-co-moglby-robic-w-rzadzie-bezpieczenstwo-informacyjne-st9216656?source=rss">TVN24</source>
+      <title>4 urządzenia, których nie musisz wyłączać z gniazdka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a45d121ceab</link>
+      <description>Wyjeżdżasz na dłuższe wakacje i zastanawiasz się, które urządzenia warto wyłączyć? Albo kompulsywnie robisz to zawsze, gdy tylko wychodzisz z domu albo przestajesz sprzętu używać? Nie wszystko trzeba odłączać, a niektóre nawet tego nie lubią.</description>
+      <pubDate>Wed, 02 Sep 2026 07:30:17 GMT</pubDate>
+      <guid isPermaLink="false">8a45d121ceab</guid>
+      <source url="https://antyweb.pl/4-urzadzenia-ktorych-nie-musisz-wylaczac-z-gniazdka">Antyweb</source>
     </item>
     <item>
-      <title>5 razy więcej witaminy B12 niż wołowina. Za rzadko na stołach Polaków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/107a64b733c3</link>
-      <description>Choć wołowina dostarcza witaminy B12 w dużych ilościach, nie jest jedynym wartościowym źródłem tego składnika. Po jakie produkty sięgać, aby nie dopuścić do niedoborów?</description>
-      <pubDate>Tue, 01 Sep 2026 19:01:00 GMT</pubDate>
-      <guid isPermaLink="false">107a64b733c3</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/5-razy-wiecej-witaminy-B12-niz-wolowina-Za-rzadko-na-stolach-Polakow,288428,9.html">Rynek Zdrowia</source>
+      <title>Zatrzymano osobę w związku z zabójstwem w Kędzierzynie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/13efcc16de73</link>
+      <description>Zatrzymano osobę, którą śledczy wiążą z zabójstwem, jakiego dokonano w Kędzierzynie-Koźlu. W piątek mężczyzna spacerujący po lesie znalazł ciało kobiety, której zadano ciosy między innymi w głowę.</description>
+      <pubDate>Wed, 02 Sep 2026 07:22:16 GMT</pubDate>
+      <guid isPermaLink="false">13efcc16de73</guid>
+      <source url="https://tvn24.pl/opole/zatrzymano-osobe-w-zwiazku-z-zabojstwem-w-kedzierzynie-st9216937?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Nowe dane z rynku mieszkaniowego. Warszawa wyróżnia się na tle innych miast</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/46153133cef7</link>
-      <description>Średnie ceny mieszkań oferowanych przez deweloperów w największych miastach Polski w sierpniu minimalnie spadły. Największą obniżkę odnotowano w Warszawie.</description>
-      <pubDate>Tue, 01 Sep 2026 18:58:15 GMT</pubDate>
-      <guid isPermaLink="false">46153133cef7</guid>
-      <source url="https://tvn24.pl/biznes/nieruchomosci/ceny-mieszkan-od-deweloperow-spadly-najnowsze-dane-z-najwiekszych-miast-sierpien-2026-st9216124?source=rss">TVN24</source>
+      <title>USA bombardują Iran najmocniej od tygodni. Ropa w górę, spadki w Azji i niepokój na obligacjach</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5cd39c7d2c8</link>
+      <description>Zaostrzenie konfliktu na linii Waszyngton-Teheran wywołało turbulencje na globalnych rynkach. Zapowiedzi Donalda Trumpa o twardym uderzeniu oraz odwetowe ataki rakietowe Iranu na amerykańskie bazy wojskowe w regionie pchnęły ceny ropy naftowej na poziomy niewidziane od tygodni. Na giełdach w Azji dominowały spadki, podczas gdy na rynku obligacji skarbowych postępuje wyprzedaż wywołana obawami o powrót fali inflacyjnej.</description>
+      <pubDate>Wed, 02 Sep 2026 07:21:00 GMT</pubDate>
+      <guid isPermaLink="false">d5cd39c7d2c8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/USA-bombarduja-Iran-najmocniej-od-tygodni-Ropa-w-gore-spadki-w-Azji-i-niepokoj-na-obligacjach-9190679.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Były minister obrony Ukrainy tworzy militarnego giganta. Jest pierwszy inwestor z USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/887979bb658f</link>
-      <description>Były minister obrony Ukrainy Mychajło Fedorow ogłosił we wtorek budowę własnej firmy zajmującej się technologiami obronnymi. Pierwszym poważnym inwestorem będzie Alex Karp, prezes amerykańskiego giganta technologicznego Palantir, oferującego m.in. oprogramowanie dla wojska.</description>
-      <pubDate>Tue, 01 Sep 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="false">887979bb658f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Byly-minister-obrony-Ukrainy-tworzy-militarnego-giganta-Amerykanski-szef-Palantira-pierwszym-inwestorem-9190588.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Ma 21 lat i trzy sądowe zakazy. Jechał kradzionym autem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c1e8b0ce22d0</link>
+      <description>Dostali informację, że auto skradzione w Niemczech jest już w Polsce, w drodze do Warszawy. Zaplanowali akcję zatrzymania kierowcy. Był nim, jak się okazało, 21-latek z trzema sądowymi zakazami prowadzenia.</description>
+      <pubDate>Wed, 02 Sep 2026 07:19:30 GMT</pubDate>
+      <guid isPermaLink="false">c1e8b0ce22d0</guid>
+      <source url="https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-praga-poludnie-ma-21-lata-trzy-sadowe-zakazy-jechal-kradzionym-autem-st9216903?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Zełenski ostrzega linie lotnicze: Rosyjskie niebo przestało być bezpieczne</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ef2d69367b51</link>
-      <description>W wieczornym przemówieniu prezydent Ukrainy Wołodymyr Zełenski ostrzegł przewoźników lotniczych, ubezpieczycieli i użytkowników rosyjskich lotnisk przed rosnącym zagrożeniem w przestrzeni powietrznej Rosji. Zapowiedział, że wojna wywołana przez Kreml faktycznie prowadzi do zamykania rosyjskiego nieba.</description>
-      <pubDate>Tue, 01 Sep 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="false">ef2d69367b51</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zelenski-ostrzega-linie-lotnicze-rosyjskie-niebo-przestalo-b,nIdn,1016011">RMF24</source>
+      <title>Wielka Brytania. Takiego lata na Wyspach jeszcze nie było. &quot;Rekordy padają coraz częściej&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a9f306f424dd</link>
+      <description>To było najgorętsze lato w historii Wielkiej Brytanii. Na pobicie rekordu nie trzeba było długo czekać - poprzedni padł zaledwie rok temu. Jak podkreślili eksperci, pięć najgorętszych okresów letnich na Wyspach przypadło po roku 2000, co pokazuje, jak zmiany klimatu wpływają na ten region.</description>
+      <pubDate>Wed, 02 Sep 2026 07:19:28 GMT</pubDate>
+      <guid isPermaLink="false">a9f306f424dd</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/wielka-brytania-takiego-lata-na-wyspach-jeszcze-nie-bylo-rekordy-padaja-coraz-czesciej-st9216842?source=rss">TVN24</source>
     </item>
     <item>
-      <title>Mazowsze zainwestowało 66 mln zł w &quot;Medyka&quot; w Radomiu. Są RTG, tomograf i aula 4K</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/06e8d5ead692</link>
-      <description>W Radomiu oficjalnie otwarto nowy budynek Centrum Kształcenia Zawodowego i Ustawicznego &quot;Medyk&quot;. Obiekt, sfinansowany przez samorząd województwa mazowieckiego za 66 mln zł, ma ponad 120 pomieszczeń i nowoczesne pracownie medyczne.</description>
-      <pubDate>Tue, 01 Sep 2026 18:39:04 GMT</pubDate>
-      <guid isPermaLink="false">06e8d5ead692</guid>
-      <source url="https://www.rynekzdrowia.pl/Inwestycje/Mazowsze-zainwestowalo-66-mln-zl-w-Medyka-w-Radomiu-Sa-RTG-tomograf-i-aula-4K,288444,3.html">Rynek Zdrowia</source>
+      <title>294 pozycje na nowej liście Ministerstwa Zdrowia. Tych leków może zabraknąć</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b79934bddd03</link>
+      <description>Ministerstwo Zdrowia opublikowało nową listę antywywozową. Najnowszy wykaz zawiera 294 pozycje, a wśród nich znajdziemy m.in. insulinę, leki przeciwnowotworowe, produkty stosowane w diecie mlekozastępczej, preparaty z morfiną. Są na niej również leki stosowane w odchudzaniu, np. Ozempic. Lista obowiązywać ma od 9 września.</description>
+      <pubDate>Wed, 02 Sep 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="false">b79934bddd03</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/294-pozycje-na-nowej-liscie-Ministerstwa-Zdrowia-Tych-lekow-moze-zabraknac,288454,6.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Musk krytykuje Unię Europejską. &quot;Spowalnia postęp technologiczny&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d48d196aae9a</link>
-      <description>Regulacje w Unii Europejskiej są niezwykle restrykcyjne i spowalniają postęp technologiczny - powiedział we wtorek Elon Musk na szczycie innowacji G20 w Chapel Hill w amerykańskim stanie Karolina Północna. Właściciel Tesli i SpaceX przedstawił również wizję przyszłości zdominowanej przez sztuczną inteligencję oraz roboty przewyższające zdolnościami ludzi.</description>
-      <pubDate>Tue, 01 Sep 2026 18:38:01 GMT</pubDate>
-      <guid isPermaLink="false">d48d196aae9a</guid>
-      <source url="https://tvn24.pl/biznes/tech/sztuczna-inteligencja-elon-musk-o-regulacjach-unii-europejskiej-spowalniaja-postep-technologiczny-st9216575?source=rss">TVN24</source>
+      <title>Orange przedłuża kultową promocję. Odbierz tysiące gigabajtów danych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0f6911cf9b23</link>
+      <description>Nie setki, a tysiące gigabajtów internetu za darmo rozdaje Orange. Operator wydłużył swoją popularną promocję.</description>
+      <pubDate>Wed, 02 Sep 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="false">0f6911cf9b23</guid>
+      <source url="https://antyweb.pl/orange-tak-wiele-gigabajtow-ze-stracilem-rachube">Antyweb</source>
     </item>
     <item>
-      <title>How accurate have Ed Zitron&apos;s AI skeptic predictions been?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e82667920f5e</link>
-      <description>I was curious how well the predictions of the most widely cited AI skeptic I&apos;ve seen (Ed Zitron) have done, so I looked at how his predictions panned out. To disclose my own biases, I&apos;ve never had a particularly strong pro or anti AI progress position. For example, in 2022, I did a comprehensive look at predictions Futurists made, including well-respected folks like Kurzweil and found them to be generally wrong on both the prediction results as well as the reasoning. On the flip side, in 2015, I wrote about how people were underestimating AI&apos;s ability to displace humans in jobs and have repeatedly been on the record as saying that many people are underestimating AI&apos;s ability to displace humans from jobs. My position on AI has been extremely boring and is basically, &quot;if something is currently happening, the people who are saying that it&apos;s impossible that it will ever happen are probably wrong&quot;.</description>
-      <pubDate>Tue, 01 Sep 2026 18:35:15 GMT</pubDate>
-      <guid isPermaLink="false">e82667920f5e</guid>
-      <source url="https://danluu.com/zitron/">Hacker News</source>
+      <title>Nowe przepisy dla kierowców od 3 września. Łatwiej będzie stracić prawo jazdy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c625199a222</link>
+      <description>Od września zaczynają obowiązywać nowe zasady dla początkujących kierowców. Okres próbny, bezwzględny zakaz alkoholu, niższy limit punktów i surowe konsekwencje za prowadzenie pojazdu mimo zatrzymania uprawnień - to tylko część zmian. Równolegle przygotowywana jest reforma egzaminów na prawo jazdy.</description>
+      <pubDate>Wed, 02 Sep 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="false">7c625199a222</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-nowe-przepisy-dla-kierowcow-od-3-wrzesnia-latwiej-bedzie-str,nIdn,1016051">RMF24</source>
     </item>
     <item>
-      <title>Będzie stały pomnik pamięci polskich ofiar nazizmu. Burmistrz Berlina potwierdza</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4cfcb832d6eb</link>
-      <description>W trakcie 87. rocznicy napaści nazistowskich Niemiec na Polskę w Berlinie, która przypada na 1 września,  burmistrz tego miasta Kai Wegner podkreślił we wtorek znaczenie budowy stałego pomnika polskich ofiar w niemieckiej stolicy. „Ważne jest, abyśmy nie poprzestawali na rozwiązaniu tymczasowym” - oświadczył.</description>
-      <pubDate>Tue, 01 Sep 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="false">4cfcb832d6eb</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-bedzie-staly-pomnik-pamieci-polskich-ofiar-nazizmu-burmistrz,nIdn,1016009">RMF24</source>
+      <title>1978 zł jednak nie dla każdego emeryta. Polacy przecierają oczy ze zdziwienia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6e354f683883</link>
+      <description>ZUS rozpoczął wypłaty czternastych emerytur. W 2026 roku pełna „czternastka” wynosi 1978,49 zł brutto, ale część uprawnionych nie zobaczy dodatkowych pieniędzy na koncie we wrześniu. Na wypłatę będą musieli poczekać do 1 października.</description>
+      <pubDate>Wed, 02 Sep 2026 07:08:00 GMT</pubDate>
+      <guid isPermaLink="false">6e354f683883</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/1978-zl-jednak-nie-dla-kazdego-emeryta-Polacy-przecieraja-oczy-ze-zdziwienia,288410,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>CDC reported then deleted two measles deaths that were questioned by RFK Jr.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f5478112ed94</link>
-      <description>Historically, state health departments determine cases and deaths, not the CDC.</description>
-      <pubDate>Tue, 01 Sep 2026 18:21:16 GMT</pubDate>
-      <guid isPermaLink="false">f5478112ed94</guid>
-      <source url="https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/">Ars Technica</source>
+      <title>Zatrzymano podejrzewanego o brutalne zabójstwo kobiety w Kędzierzynie-Koźlu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b870ea5cc1ac</link>
+      <description>Opolscy policjanci zatrzymali mężczyznę podejrzewanego o brutalne zabójstwo kobiety w Kędzierzynie-Koźlu - dowiedział się reporter RMF FM Krzysztof Zasada. Śledczy nie ujawniają na razie żadnych szczegółów. Przed południem zapowiadana jest konferencja prasowa służb w tej sprawie.</description>
+      <pubDate>Wed, 02 Sep 2026 07:01:00 GMT</pubDate>
+      <guid isPermaLink="false">b870ea5cc1ac</guid>
+      <source url="https://www.rmf24.pl/regiony/news-zatrzymano-podejrzewanego-o-brutalne-zabojstwo-kobiety-w-ked,nIdn,1016052">RMF24</source>
     </item>
     <item>
-      <title>Five takeaways from Burnham&apos;s Commons debut as PM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3be3490f60d3</link>
-      <description>The prime minister&apos;s first appearance in Parliament comes more than six weeks after he entered No 10.</description>
-      <pubDate>Tue, 01 Sep 2026 18:17:41 GMT</pubDate>
-      <guid isPermaLink="false">3be3490f60d3</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Garmin wprowadza wyczekiwane nowości do swoich zegarków</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8922c695d173</link>
+      <description>Garmin udostępnił najnowszą, stabilną aktualizację oprogramowania dla swoich popularnych zegarków oraz komputerów rowerowych.</description>
+      <pubDate>Wed, 02 Sep 2026 07:00:50 GMT</pubDate>
+      <guid isPermaLink="false">8922c695d173</guid>
+      <source url="https://antyweb.pl/garmin-wprowadza-wyczekiwane-nowosci-do-swoich-zegarkow">Antyweb</source>
     </item>
   </channel>
 </rss>
