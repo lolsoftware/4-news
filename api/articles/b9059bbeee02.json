@@ -1,0 +1,13 @@
+{
+  "id": "b9059bbeee02",
+  "title": "Four major AI models suffer rare overlapping downtime",
+  "originalTitle": "Four major AI models suffer rare overlapping downtime",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+  "publishedAt": "2026-09-03T18:10:19.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Cloud-based AI models operated by OpenAI, Anthropic, xAI, and Google suffered a rare and overlapping set of significant service interruptions over a period of hours Thursday morning.</p>\n<p>Anthropic <a href=\"https://status.claude.com/incidents/461yvfrzpwtt\">first reported</a> a “partial outage” related to “elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5” at 9:23 am (all times Eastern). The company reported that it had “identified the cause” of the error roughly 15 minutes later, before reporting that “a fix has been deployed” and the issue was resolved by 12:16 pm. A <a href=\"https://status.claude.com/incidents/288w7p4hk1l1\">separate incident report</a> indicated “elevated errors on requests to Claude Sonnet 5” for a brief period just after noon.</p>\n<p>OpenAI, meanwhile, <a href=\"https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR\">reported</a> “elevated errors across ChatGPT and Codex” were resulting in “degraded performance” as of 10:43 am Thursday morning. A mitigation put in place a little more than half an hour later led to the issue being marked as “resolved” by 12:55 pm.</p>\n<p>As of this writing, xAI’s Grok currently displays a user-facing error message that the model “is experiencing issues” and that the company is “working on restoring service as quickly as possible.” <a href=\"https://downdetector.com/status/grok/\">User-submitted reports from DownDetector</a> regarding Grok shot up from less than 10 just before 9 am to 1,365 by 9:45 am and have fallen to 273 as of this writing.</p> </div></div>",
+  "image": "images/0b4ea073afcd.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

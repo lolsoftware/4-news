@@ -1,0 +1,13 @@
+{
+  "id": "afff3046a6e7",
+  "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+  "originalTitle": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+  "publishedAt": "2026-09-03T18:58:31.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Tottenham Hotspur, a professional soccer team that’s part of the Premier League, has saved over 85 percent in licensing fees by replacing its stadium’s VMware instance with Hewlett-Packard Enterprise’s (HPE’s) Morpheus VM Essentials (VME) virtualization software.</p>\n<p>Tottenham hasn’t disclosed which VMware products it used or how much it previously paid the Broadcom firm.</p>\n<p>The soccer organization confirmed this week to <a href=\"https://www.theregister.com/on-prem/2026/09/03/spurs-boots-vmware-cites-85-licensing-saving/5294139\">The Register</a> that it has moved its stadium’s server, storage, and networking infrastructure to HPE solutions delivered through HPE’s hybrid cloud management platform, GreenLake. That is all “underpinned by” VME and HPE’s OpsRamp software for hybrid and multi-cloud environments, Rob Pickering, Tottenham’s CTO, told the publication, with HPE in charge of the hybrid cloud-managed service.</p>\n<p>Tottenham is almost done with a broader redesign of its stadium’s data center and network infrastructure, The Register reported. The stadium has a data center with six aisles that uses HPE’s ProLiant Compute Gen12 server hardware and Alletra Storage MP. In an announcement this week, HPE noted that Tottenham is using “solutions including HPE Morpheus software and HPE OpsRamp software… to manage a complex, <span>multi-site</span> environment more efficiently while modernizing virtualization platforms and reducing operational overhead.”</p>\n<p>“We’re at the right time of our replacement cycles to be looking at those decision points,” Pickering told <a href=\"https://www.sdxcentral.com/news/hpe-stack-serves-spurs-stadium-refit-vmware-out-juniper-pending/\">SDxCentral</a> this week.</p>\n<p>“For at least as long as my career in technology, hypervisor has been one of those very unsexy things that you bought from one person and you just sort of got on with it. And you know, with VMware, a 400-pound gorilla in that space, they took some decisions that I think run counter to both the system integrator side and the customer side.”</p> </div></div>",
+  "image": "images/19546980a91e.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
