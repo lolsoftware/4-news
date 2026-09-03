@@ -1,0 +1,13 @@
+{
+  "id": "5c6552db2980",
+  "title": "Elevated Errors for Multiple Models",
+  "originalTitle": "Elevated Errors for Multiple Models",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+  "publishedAt": "2026-09-03T13:29:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- postmortem if it's published --> <!-- incident updates in reverse order --> <div> <h2> Update </h2> <div> <p><span>An exhaustive list of affected models: Mythos/Fable 5.1, Mythos/Fable 5, Opus 5, Opus 4.8, Opus 4.6.</span> </p> <p> Posted <span data-datetime-unix=\"1788443426000\"></span>Sep <var data-var=\"date\">03</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">13:50</var> UTC </p> </div> </div> <div> <h2> Identified </h2> <div> <p><span>We have identified the cause of elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5 and are working on a fix. We will provide an update as soon as possible.</span> </p> <p> Posted <span data-datetime-unix=\"1788442879000\"></span>Sep <var data-var=\"date\">03</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">13:41</var> UTC </p> </div> </div> <div> <h2> Investigating </h2> <div> <p><span>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.</span> </p> <p> Posted <span data-datetime-unix=\"1788441964000\"></span>Sep <var data-var=\"date\">03</var>, <var data-var=\"year\">2026</var> - <var data-var=\"time\">13:26</var> UTC </p> </div> </div> <!-- affected components --> <p> This incident affects: claude.ai, Claude API (api.anthropic.com), Claude Code, and Claude Cowork. </p> </div></div>",
+  "image": "images/1cae4aeecaa9.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
