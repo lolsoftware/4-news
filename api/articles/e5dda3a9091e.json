@@ -1,0 +1,13 @@
+{
+  "id": "e5dda3a9091e",
+  "title": "Higher Multipoles of the Cow",
+  "originalTitle": "Higher Multipoles of the Cow",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2504.00506",
+  "publishedAt": "2026-09-01T09:27:19.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2504.00506\">View PDF</a> <a href=\"https://arxiv.org/html/2504.00506v2\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>The spherical cow approximation is widely used in the literature, but is rarely justified. Here, I propose several schemes for extending the spherical cow approximation to a full multipole expansion, in which the spherical cow is simply the first term. This allows for the computation of bovine potentials and interactions beyond spherical symmetry, and also provides a scheme for defining the geometry of the cow itself at higher multipole moments. This is especially important for the treatment of physical processes that are suppressed by spherical symmetry, such as the spindown of a rotating cow due to the emission of gravitational waves. I demonstrate the computation of multipole coefficients for a benchmark cow, and illustrate the applicability of the multipolar cow to several important problems. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Benjamin Lehmann [<a href=\"https://arxiv.org/show-email/a61110ea/2504.00506\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/2504.00506v1\" rel=\"nofollow\">[v1]</a></strong> Tue, 1 Apr 2025 07:55:39 UTC (2,401 KB)<br> <strong>[v2]</strong> Wed, 1 Apr 2026 12:28:24 UTC (3,845 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
