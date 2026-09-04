@@ -1,0 +1,13 @@
+{
+  "id": "fd4e0b99ad94",
+  "title": "Mullvad – Shutting down our public encrypted DNS",
+  "originalTitle": "Mullvad – Shutting down our public encrypted DNS",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+  "publishedAt": "2026-09-04T18:50:28.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><!----><p>Mullvad has operated public encrypted DNS (DoH) servers since 2022. They are unnecessary when using Mullvad VPN — traffic is already encrypted and Mullvad VPN's internal DNS handles all queries.</p>\n<p>Outside the VPN, they serve two purposes:</p>\n<ul>\n<li>Mullvad Browser uses them by default when you're not on Mullvad VPN, preventing your ISP from seeing the domains you visit.</li>\n<li>Anyone can use them as a free public service to protect their DNS queries.</li>\n</ul>\n<p>We want a public service to be available. Going forward, we will support <a href=\"https://quad9.net/\" target=\"_blank\" rel=\"nofollow noopener\">Quad9</a> instead of running it ourselves. Running a privacy-focused public DNS service is a highly specialized undertaking, and the Quad9 Foundation is the undisputed leader in the field. Rather than duplicating their efforts to achieve only part of what they do, we're putting those resources toward financially supporting Quad9 instead.</p>\n<h2>Migrating to Quad9</h2>\n<p>If you have manually configured our DoH servers, switch before <strong>November 2nd 2026</strong>. You can follow <a href=\"https://docs.quad9.net/\" target=\"_blank\" rel=\"nofollow noopener\">Quad9 guides</a>.</p>\n<h3>Mullvad Browser</h3>\n<p>Mullvad Browser users who have kept the default DoH settings or the included ad blocking one, will automatically be migrated to Quad9.</p>\n<p>If you have customized the DoH, we will not change them. If you have manually configured a variant of the Mullvad DoH (base, extended, family. etc.), please make sure to change it back to the default.</p>\n<h3>iOS and macOS profiles</h3>\n<p>Any existing iOS and macOS Mullvad DoH profile will stop working, please make sure to replace them with <a href=\"https://docs.quad9.net/Setup_Guides/iOS/iOS_14_and_later_%28Encrypted%29/\" rel=\"nofollow\">Quad9 iOS profiles</a> or <a href=\"https://docs.quad9.net/Setup_Guides/MacOS/Big_Sur_and_later_%28Encrypted%29/\" rel=\"nofollow\">macOS profiles</a>.</p><!----></div></div>",
+  "image": "images/fb94e60244bd.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "11b4907737d7",
+  "title": "People that worked on the same idea for decades",
+  "originalTitle": "People that worked on the same idea for decades",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://nityasnotes.com/writing/decades/",
+  "publishedAt": "2026-09-03T08:31:22.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><p>I collect examples of people that worked on iterations of the same idea over the course of decades, before landing on their magnum opus</p><article> <h2>1. BM25 + Stephen Robertson</h2> <p>Stephen Robertson is a computer scientist known for his work on probabilistic information retrieval, most famously leading to BM25. In 1976, when researchers wanted to determine the relevancy of a document to a query, prevailing intuition was that a document that has a greater count of query term is more relevant. Robertson and Sparck Jones showed that relevance of a document to a query is more dependent on if the word is discriminating and uniquely present in relevant documents.</p> <p>Let's say there are 10 documents of which 4 are relevant to a query about elite marathoners like Kipchoge. All 10 documents contain the word \"the\". Only the 4 relevant documents contain the word \"Kipchoge\". Per their 1976 paper, the term Kipchoge would have a heavier weight than \"the\" because it is discriminatorily present in the relevant documents.</p> <p>Calculating term weight required knowing which documents were relevant in advance and did not consider term frequency or length of documents.</p> <p>Eventually in 1994, Robertson and Walker published BM25, which is IDF * term frequency adjusted for length. It takes the concept of term weights in 1976 and incorporates the assumption that relevant documents are a fraction of a total set.</p> <p>I skipped a few chapters, there was a 1981 paper where he incorporated term frequency for example. All in all, he spent decades thinking about search algorithms and retrieval.</p> <h2>2. The Great Wave by Kanagawa</h2> <p>Few paintings have lasted the test of time as the great wave of Kanagawa. It took Kanagawa 40 years before he drew the wave he is most known for. At 73, he said he finally understands \"the underlying structure of birds and animals, insects and fish, and the way trees and plants grow. Thus if I keep up my efforts, I will have even a better understanding when I was 80 and by 90 will have penetrated to the heart of things. At 100, I may reach a level of divine understanding, and if I live decades beyond that, everything I paint — dot and line — will be alive.\"</p> </article></div>",
+  "image": null,
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
