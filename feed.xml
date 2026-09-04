@@ -5,8 +5,120 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:24:26 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Actively exploited sandbox RCE in all Chromium versions</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6a5cb4a43870</link>
+      <description>Comments</description>
+      <pubDate>Fri, 04 Sep 2026 21:52:01 GMT</pubDate>
+      <guid isPermaLink="false">6a5cb4a43870</guid>
+      <source url="https://nvd.nist.gov/vuln/detail/cve-2026-85046">Hacker News</source>
+    </item>
+    <item>
+      <title>GPT-6 Astra on OpenRouter</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0c6009cf4069</link>
+      <description>GPT-6 Astra is OpenAI&apos;s flagship model for demanding end-to-end work. $10 per million input tokens, $50 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 2 providers.</description>
+      <pubDate>Fri, 04 Sep 2026 21:39:19 GMT</pubDate>
+      <guid isPermaLink="false">0c6009cf4069</guid>
+      <source url="https://openrouter.ai/openai/gpt-6-astra">Hacker News</source>
+    </item>
+    <item>
+      <title>Paryż szykuje się na wizytę papieża Leona XIV. Pełna mobilizacja służb</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/222660a7adac</link>
+      <description>Prefekt policji Paryża Patrice Faure poinformował w piątek, że 25 września, w dniu przyjazdu papieża Leona XIV, zmobilizowanych zostanie do zapewnienia bezpieczeństwa w stolicy 14 tysięcy funkcjonariuszy. W drugim dniu wizyty, w sobotę 26 września ich liczba wyniesie 12 tysięcy.</description>
+      <pubDate>Fri, 04 Sep 2026 21:16:00 GMT</pubDate>
+      <guid isPermaLink="false">222660a7adac</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-paryz-szykuje-sie-na-wizyte-papieza-leona-xiv-pelna-mobiliza,nIdn,1016510">RMF24</source>
+    </item>
+    <item>
+      <title>AI compute provider Nscale is looking for $3.5B in pre-IPO financing</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ac4ec989a2a7</link>
+      <description>Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.</description>
+      <pubDate>Fri, 04 Sep 2026 21:12:11 GMT</pubDate>
+      <guid isPermaLink="false">ac4ec989a2a7</guid>
+      <source url="https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Cleveland police chief proud of force but being &apos;let down&apos; by funding</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e0300cb617e</link>
+      <description>Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.</description>
+      <pubDate>Fri, 04 Sep 2026 21:00:05 GMT</pubDate>
+      <guid isPermaLink="false">7e0300cb617e</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Kluczowe wybory w Niemczech. AfD na finiszu kampanii postawiła na „rodzinny festyn”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0ca8338ceef7</link>
+      <description>„Rodzinne festyny” stały się jednym ze znaków rozpoznawczych kampanii Alternatywy dla Niemiec (AfD) w Saksonii-Anhalcie. Wydarzenia te łączą piknikową atmosferę z patriotyczną oprawą oraz zapowiedziami „politycznej rewolucji” i „przywrócenia dumy”.</description>
+      <pubDate>Fri, 04 Sep 2026 20:56:00 GMT</pubDate>
+      <guid isPermaLink="false">0ca8338ceef7</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-kluczowe-wybory-w-niemczech-afd-na-finiszu-kampanii-postawil,nIdn,1016508">RMF24</source>
+    </item>
+    <item>
+      <title>Statichost.eu – 100% European static site hosting</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5553f4409f20</link>
+      <description>Static hosting for frontend developers who care where their sites live. Git push, custom domain, done — on European infrastructure owned by Europeans, all the way down.</description>
+      <pubDate>Fri, 04 Sep 2026 20:34:49 GMT</pubDate>
+      <guid isPermaLink="false">5553f4409f20</guid>
+      <source url="https://www.statichost.eu/">Hacker News</source>
+    </item>
+    <item>
+      <title>Trump&apos;s response is key as Argentina&apos;s Falklands demands get louder</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7fc570122e49</link>
+      <description>With Argentina&apos;s President Milei promising &quot;winds of change&quot; over the Falklands, will Donald Trump shift his stance on British rule?</description>
+      <pubDate>Fri, 04 Sep 2026 20:34:06 GMT</pubDate>
+      <guid isPermaLink="false">7fc570122e49</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7629c6c86939</link>
+      <description>It’s long past time for RFK to stop playing games with people’s lives.&quot;</description>
+      <pubDate>Fri, 04 Sep 2026 20:22:41 GMT</pubDate>
+      <guid isPermaLink="false">7629c6c86939</guid>
+      <source url="https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/">Ars Technica</source>
+    </item>
+    <item>
+      <title>How to Create a Tor Exit Node</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d277c91cddfb</link>
+      <description>This will be a quick tutorial on how to configure an Exit Node for the Tor Network. Doing this comes with some inherent risks for the operator but exit nodes are essential for bridging Tor with the ‘clear net’. Without exit nodes, anyone suffering from ISP filtering or those not wishing to have their Internet activity logged (BBC Article) couldn’t utilise Tor to access the Internet.</description>
+      <pubDate>Fri, 04 Sep 2026 20:16:22 GMT</pubDate>
+      <guid isPermaLink="false">d277c91cddfb</guid>
+      <source url="https://madpsy.uk/how-to-create-a-tor-exit-node/">Hacker News</source>
+    </item>
+    <item>
+      <title>An open DNS recursive service for free security and high privacy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ecddddcc4370</link>
+      <description>A public and free DNS service for a better security and privacy</description>
+      <pubDate>Fri, 04 Sep 2026 20:13:08 GMT</pubDate>
+      <guid isPermaLink="false">ecddddcc4370</guid>
+      <source url="https://quad9.net/">Hacker News</source>
+    </item>
+    <item>
+      <title>Examining US official&apos;s claim that data centres &apos;don&apos;t use water&apos;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d72a2723f3ce</link>
+      <description>US Commerce Secretary Howard Lutnick falsely suggested that data centres don&apos;t use water.</description>
+      <pubDate>Fri, 04 Sep 2026 20:06:56 GMT</pubDate>
+      <guid isPermaLink="false">d72a2723f3ce</guid>
+      <source url="https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>NASA Ames Fire Department Aircraft Firefighting Training</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/54771ed2a5c1</link>
+      <description>The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday,</description>
+      <pubDate>Fri, 04 Sep 2026 19:51:56 GMT</pubDate>
+      <guid isPermaLink="false">54771ed2a5c1</guid>
+      <source url="https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Can AI design circuit boards yet?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fc8b777bd495</link>
+      <description>A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.</description>
+      <pubDate>Fri, 04 Sep 2026 19:48:29 GMT</pubDate>
+      <guid isPermaLink="false">fc8b777bd495</guid>
+      <source url="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">Hacker News</source>
+    </item>
     <item>
       <title>Specjalizacji z psychoterapii nie będzie. Ministerstwo Zdrowia wstrzymało prace</title>
       <link>https://lolsoftware.github.io/4-news/#/article/8028d845e9e9</link>
@@ -14,6 +126,78 @@
       <pubDate>Fri, 04 Sep 2026 19:48:00 GMT</pubDate>
       <guid isPermaLink="false">8028d845e9e9</guid>
       <source url="https://www.rynekzdrowia.pl/Polityka-zdrowotna/Specjalizacji-z-psychoterapii-nie-bedzie-Ministerstwo-Zdrowia-wstrzymalo-prace,288578,14.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Wybory w Krakowie. Łukasz Gibała ogłasza: Mamy to!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/235be306eed3</link>
+      <description>Radny miejski Łukasz Gibała ogłosił w piątek w serwisie X, że miejska komisja wyborcza oficjalnie zarejestrowała jego kandydaturę w przedterminowych wyborach na prezydenta Krakowa. Jego nazwisko widnieje też już w spisie kandydatów na stronie internetowej PKW. „Komisja wyborcza oficjalnie zarejestrowała dzisiaj moją kandydaturę w przedterminowych wyborach na prezydenta Krakowa. To wszystko nie udałoby się bez Was. Jeszcze raz dziękuję!” – podkreślił Gibała.</description>
+      <pubDate>Fri, 04 Sep 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="false">235be306eed3</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-wybory-w-krakowie-lukasz-gibala-oglasza-mamy-to,nIdn,1016504">RMF24</source>
+    </item>
+    <item>
+      <title>Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1df4cba18598</link>
+      <description>FCC tells court it is “open-minded&quot; about whether ABC should lose licenses.</description>
+      <pubDate>Fri, 04 Sep 2026 19:46:34 GMT</pubDate>
+      <guid isPermaLink="false">1df4cba18598</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Cambridge launches review into support for Jason Arday before death</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/629da0320016</link>
+      <description>The University of Cambridge says the review will look at its &quot;decision-making and actions&quot; before the former professor&apos;s death.</description>
+      <pubDate>Fri, 04 Sep 2026 19:44:49 GMT</pubDate>
+      <guid isPermaLink="false">629da0320016</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c7903ggzr9vo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Chcą „zakręcić kurek” z pomocą dla Ukrainy. „Partia kapitulacji” wybrała Putina</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a1692358bcc2</link>
+      <description>Słowa Louisa Aliota, wiceszefa skrajnie prawicowego Zjednoczenia Narodowego, o możliwym ograniczeniu wsparcia dla Ukrainy wywołały ostrą reakcję francuskiej sceny politycznej. Politycy centrum i lewicy zarzucają ugrupowaniu Marine Le Pen sprzyjanie interesom Rosji.</description>
+      <pubDate>Fri, 04 Sep 2026 19:28:00 GMT</pubDate>
+      <guid isPermaLink="false">a1692358bcc2</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-chca-zakrecic-kurek-z-pomoca-dla-ukrainy-partia-kapitulacji-,nIdn,1016500">RMF24</source>
+    </item>
+    <item>
+      <title>Rekord Meloni. Najdłużej urzędujący rząd w historii Republiki Włoskiej świętuje w Bari</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fff46b4198e2</link>
+      <description>W Bari na południu Włoch odbyły się huczne uroczystości z okazji historycznego rekordu – rząd Giorgii Meloni pracuje już 1413 dni, co czyni go najdłużej urzędującym gabinetem w historii Republiki Włoskiej. Premier nie kryje dumy i podkreśla, że poparcie dla rządzących jest dziś wyższe niż w dniu zaprzysiężenia.</description>
+      <pubDate>Fri, 04 Sep 2026 19:22:00 GMT</pubDate>
+      <guid isPermaLink="false">fff46b4198e2</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-rekord-meloni-najdluzej-urzedujacy-rzad-w-historii-republiki,nIdn,1016502">RMF24</source>
+    </item>
+    <item>
+      <title>Nowa funkcja Allegro. Będzie za darmo dla posiadaczy Smart</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e2cfee202105</link>
+      <description>Allegro zaoferuje nową funkcję dla posiadaczy usługi Smart. Przyda się podczas zamawiania większych przedmiotów.</description>
+      <pubDate>Fri, 04 Sep 2026 19:18:44 GMT</pubDate>
+      <guid isPermaLink="false">e2cfee202105</guid>
+      <source url="https://antyweb.pl/nowa-funkcja-allegro-bedzie-za-darmo-dla-posiadaczy-smart">Antyweb</source>
+    </item>
+    <item>
+      <title>Powalone drzewa, uszkodzone dachy, podtopienia po nawałnicy w Wielkopolsce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ed593cd8378a</link>
+      <description>W Wielkopolsce strażacy wyjeżdżali do godz. 20 dwieście razy do usuwania skutków wichur i ulew. Najwięcej zgłoszeń odnotowano na terenie powiatu gnieźnieńskiego. Wiatr zerwał tam lub uszkodził dachy na kilku domach.</description>
+      <pubDate>Fri, 04 Sep 2026 19:15:00 GMT</pubDate>
+      <guid isPermaLink="false">ed593cd8378a</guid>
+      <source url="https://www.rmf24.pl/regiony/poznan/news-powalone-drzewa-uszkodzone-dachy-podtopienia-po-nawalnicy-w-,nIdn,1016501">RMF24</source>
+    </item>
+    <item>
+      <title>Government Rails Site Hit Hours After CVE Patch</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2fb0f7054954</link>
+      <description>Comments</description>
+      <pubDate>Fri, 04 Sep 2026 19:06:39 GMT</pubDate>
+      <guid isPermaLink="false">2fb0f7054954</guid>
+      <source url="https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/">Hacker News</source>
+    </item>
+    <item>
+      <title>Medieval manuscripts are &quot;biological time capsules&quot; for deadly sheeppox virus</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d8ed3343f8a7</link>
+      <description>Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.</description>
+      <pubDate>Fri, 04 Sep 2026 19:01:02 GMT</pubDate>
+      <guid isPermaLink="false">d8ed3343f8a7</guid>
+      <source url="https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/">Ars Technica</source>
     </item>
     <item>
       <title>Uszczelniają tętnice i łagodzą przeziębienia. Ważna zasada: nigdy nie jedz na surowo</title>
@@ -30,6 +214,22 @@
       <pubDate>Fri, 04 Sep 2026 18:59:00 GMT</pubDate>
       <guid isPermaLink="false">1a2a8561edd1</guid>
       <source url="https://www.rmf24.pl/regiony/lublin/news-byl-poszukiwany-przez-policje-trafil-w-rece-sluzb-znaleziono,nIdn,1016496">RMF24</source>
+    </item>
+    <item>
+      <title>Watch: What is a mistrial and what does it mean for Lindsay Clancy?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ff8fd260c058</link>
+      <description>The BBC&apos;s Ione Wells explains what could happen now as the case of the US mother accused of murdering her three children ends in no verdict.</description>
+      <pubDate>Fri, 04 Sep 2026 18:58:48 GMT</pubDate>
+      <guid isPermaLink="false">ff8fd260c058</guid>
+      <source url="https://www.bbc.co.uk/news/videos/c4g5854pg19o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Fermat&apos;s Last Theorem in Lean 4</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2b4381bb13fa</link>
+      <description>Contribute to anthropics/fermats-last-theorem development by creating an account on GitHub.</description>
+      <pubDate>Fri, 04 Sep 2026 18:57:32 GMT</pubDate>
+      <guid isPermaLink="false">2b4381bb13fa</guid>
+      <source url="https://github.com/anthropics/fermats-last-theorem">Hacker News</source>
     </item>
     <item>
       <title>Kryzys w całym kraju. &quot;Przeniósł się z Rosji&quot;</title>
@@ -206,206 +406,6 @@
       <pubDate>Fri, 04 Sep 2026 17:36:00 GMT</pubDate>
       <guid isPermaLink="false">094afad25eda</guid>
       <source url="https://www.rmf24.pl/regiony/poznan/news-z-22-mieszkan-zrobil-56-nadzor-nakazal-deweloperowi-polaczyc,nIdn,1016492">RMF24</source>
-    </item>
-    <item>
-      <title>Skok cen na stacjach paliw. A to nie koniec</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4fc545a81908</link>
-      <description>Kierowców czekają kolejne podwyżki na stacjach. Według prognoz analityków benzyna może kosztować w okolicy ośmiu złotych za litr, a olej napędowy - niecałe dziewięć złotych za litr. Wzrost cen przyspieszył po przywróceniu 23-procentowego VAT na wybrane paliwa.</description>
-      <pubDate>Fri, 04 Sep 2026 17:31:12 GMT</pubDate>
-      <guid isPermaLink="false">4fc545a81908</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/skok-cen-na-stacjach-paliw-a-to-nie-koniec-st9222092?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Twórcy Linuksa nie nadążają. Tak wiele błędów do łatania jeszcze nie było</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bfef27a70228</link>
-      <description>AI wspomaga Linuxa w zakresie łatania błędów. Jest to proces o tyle utrudniony w tym momencie, że jest tego... za dużo. I to nie wina Linuxa.</description>
-      <pubDate>Fri, 04 Sep 2026 17:30:58 GMT</pubDate>
-      <guid isPermaLink="false">bfef27a70228</guid>
-      <source url="https://antyweb.pl/linux-bledy-ai">Antyweb</source>
-    </item>
-    <item>
-      <title>Na hulajnodze wieźli znak drogowy </title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3c505beab967</link>
-      <description>Do policjantów z Ciechanowa wpłynęło nietypowe zgłoszenie. Świadek zauważył dwóch nastolatków, którzy jechali hulajnogami elektrycznymi i wieźli znak drogowy.</description>
-      <pubDate>Fri, 04 Sep 2026 17:29:52 GMT</pubDate>
-      <guid isPermaLink="false">3c505beab967</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/ciechanow-nastolatkowie-wiezli-na-hulajnodze-znak-drogowy-st9222344?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Nobody Is Saying Why OpenAI and Anthropic Had Outages</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2b69b213c5ca</link>
-      <description>ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.</description>
-      <pubDate>Fri, 04 Sep 2026 17:29:22 GMT</pubDate>
-      <guid isPermaLink="false">2b69b213c5ca</guid>
-      <source url="https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/">Hacker News</source>
-    </item>
-    <item>
-      <title>Witkoff i Kushner odwiedzą Kijów. Wcześniej spotkają się z Putinem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/729c26751247</link>
-      <description>Wysłannicy prezydenta USA Donalda Trumpa, Steve Witkoff i Jared Kushner, będą w Kijowie w niedzielę; wcześniej złożą wizytę w Moskwie – ogłosił w piątek prezydent Ukrainy Wołodymyr Zełenski.</description>
-      <pubDate>Fri, 04 Sep 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="false">729c26751247</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Witkoff-i-Kushner-odwiedza-Kijow-Wczesniej-spotkaja-sie-z-Putinem-9192510.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>UN votes to adopt new world map to reflect Africa&apos;s true size</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3e9e18fb16b0</link>
-      <description>The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.</description>
-      <pubDate>Fri, 04 Sep 2026 17:26:40 GMT</pubDate>
-      <guid isPermaLink="false">3e9e18fb16b0</guid>
-      <source url="https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Berlin nie zapłacił okupu. Hakerzy opublikowali 1,4 mln skradzionych danych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/280b5a43645a</link>
-      <description>Hakerzy, którzy na początku sierpnia włamali się do miejskich systemów Berlina i wykradli z nich dane, po upływie w piątek po południu wyznaczonego przez nich terminu na zapłacenie okupu, opublikowali te dane w sieci dark web do pobrania - poinformowało radio rbb24.</description>
-      <pubDate>Fri, 04 Sep 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="false">280b5a43645a</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Berlin-nie-zaplacil-okupu-Hakerzy-opublikowali-1-4-mln-skradzionych-danych-9192506.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Oszustwo na &quot;pracownika banku&quot;. Areszt dla 21-latki</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8fb22e10250</link>
-      <description>21-latka podejrzana o oszukanie mieszkanki Pułtuska metodą na pracownika banku na kwotę 50 tysięcy złotych została tymczasowo aresztowana - poinformowała rzeczniczka Prokuratury Okręgowej w Ostrołęce Elżbieta Edyta Łukasiewicz. Trwa ustalanie osób, z którymi współpracowała.</description>
-      <pubDate>Fri, 04 Sep 2026 17:22:10 GMT</pubDate>
-      <guid isPermaLink="false">f8fb22e10250</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/pultusk-oszustwo-na-pracownika-banku-areszt-dla-21-latki-st9222351?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Show HN: Open-Source eInk Bike Computer</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f392024c58b8</link>
-      <description>Open-source bike computer firmware for the LilyGO T5S3 4.7&quot; E-Paper PRO, with offline maps, GPX routes, FIT recording and Bluetooth sensors.</description>
-      <pubDate>Fri, 04 Sep 2026 17:18:08 GMT</pubDate>
-      <guid isPermaLink="false">f392024c58b8</guid>
-      <source url="https://opentrailpaper.com/">Hacker News</source>
-    </item>
-    <item>
-      <title>What will Apple’s John Ternus era look like?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d94610ea6050</link>
-      <description>Watch as Equity breaks down what John Ternus inherits at Apple as Nvidia expands beyond chips, robotaxis heat up, and VCs pour money into the next wave of AI hardware.</description>
-      <pubDate>Fri, 04 Sep 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="false">d94610ea6050</guid>
-      <source url="https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/">TechCrunch</source>
-    </item>
-    <item>
-      <title>„Miłej zabawy”. Hakerzy zadrwili z władz Berlina</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0fafe872f692</link>
-      <description>Hakerzy, którzy na początku sierpnia włamali się do miejskich systemów Berlina i wykradli z nich dane, po upływie w piątek po południu wyznaczonego przez nich terminu na zapłacenie okupu, opublikowali te dane w sieci dark web do pobrania - poinformowało radio rbb24.</description>
-      <pubDate>Fri, 04 Sep 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="false">0fafe872f692</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-milej-zabawy-hakerzy-zadrwili-z-wladz-berlina,nIdn,1016491">RMF24</source>
-    </item>
-    <item>
-      <title>Polacy kochają tę funkcję Disney+. Niestety: nie wszędzie z niej skorzystają</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5596fd19c937</link>
-      <description>Walka Disneya z patentami trwa w najlepsze, a użytkownicy w dwóch europejskich krajach stracili dostęp do lubianej funkcji w serwisie.</description>
-      <pubDate>Fri, 04 Sep 2026 17:14:15 GMT</pubDate>
-      <guid isPermaLink="false">5596fd19c937</guid>
-      <source url="https://antyweb.pl/polacy-kochaja-te-funkcje-disney-niestety-nie-wszedzie-z-niej-skorzystaja">Antyweb</source>
-    </item>
-    <item>
-      <title>Co 20. uczeń w Polsce jest cudzoziemcem. Zdecydowana większość to Ukraińcy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3752bba8b819</link>
-      <description>W polskich szkołach uczy się obecnie blisko 246 tys. uczniów-cudzoziemców - prawie 9 tys. więcej niż rok temu. 86 proc. uczniów-cudzoziemców czyli około 210 tys. stanowią Ukraińcy - wynika z raportu Centrum Edukacji Obywatelskiej.</description>
-      <pubDate>Fri, 04 Sep 2026 17:09:00 GMT</pubDate>
-      <guid isPermaLink="false">3752bba8b819</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Co-20-uczen-w-Polsce-jest-cudzoziemcem-Zdecydowana-wiekszosc-to-Ukraincy-9192499.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Duże firmy z niższymi opłatami za energię. Zmiany już od soboty</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2320f323868b</link>
-      <description>Nowe zasady kształtowania taryf za energię elektryczną zaczną obowiązywać w sobotę - wynika z opublikowanego w piątek rozporządzenia Ministra Energii. Resort energii przewiduje, że przedsiębiorstwa będą mogły oszczędzić ok. 500 mln zł rocznie dzięki zmianom.</description>
-      <pubDate>Fri, 04 Sep 2026 17:03:00 GMT</pubDate>
-      <guid isPermaLink="false">2320f323868b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Duze-firmy-z-nizszymi-oplatami-za-energie-Zmiany-juz-od-poniedzialku-9192494.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Większość państw UE gotowa poprzeć ograniczenie praw nowych członków. Ustalenia RMF FM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b7a3df197d3e</link>
-      <description>Większość państw członkowskich jest gotowa zgodzić się na czasowe ograniczenie praw nowych krajów UE w sprawach praworządności – ustaliła dziennikarka RMF FM po nieformalnym spotkaniu ministrów ds. europejskich UE w Dublinie. Chodzi przede wszystkim o to, by nowy kraj członkowski przez określony czas nie mógł zablokować procedury artykułu 7 Traktatu UE wobec innego członka, który łamie zasady państwa prawa. Komisja Europejska zapowiada, że do końca września przedstawi konkretne propozycje takich zabezpieczeń.</description>
-      <pubDate>Fri, 04 Sep 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="false">b7a3df197d3e</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-wiekszosc-panstw-ue-gotowa-poprzec-ograniczenie-praw-nowych-,nIdn,1016489">RMF24</source>
-    </item>
-    <item>
-      <title>Cyber Piątka może być nieskuteczna.  &quot;Wpisanie nowych obowiązków nie zabezpieczy danych&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a2889580eb67</link>
-      <description>Dopisanie kolejnych obowiązków do ustawy nie zabezpieczy danych medycznych - tak założenia tzw. Cyber Piątki komentuje dla Rynku Zdrowia Aneta Sieradzka, członkini Społecznego Zespołu Ekspertów przy Prezesie Urzędu Ochrony Danych Osobowych. Ministerstwo Cyfryzacji przedstawiło propozycje zmian w prawie po ujawnieniu, że wyciekły dane medyczne blisko 19 mln pacjentów.</description>
-      <pubDate>Fri, 04 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">a2889580eb67</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Cyber-Piatka-moze-byc-nieskuteczna-Wpisanie-nowych-obowiazkow-nie-zabezpieczy-danych,288564,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>KE chce dużych pieniędzy na konkurencyjność. Państwa UE naciskają na cięcia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d16eb3ee7e5c</link>
-      <description>Komisarz ds. budżetu UE Piotr Serafin powiedział w piątek, że dla zbyt wielu państw członkowskich priorytetem są cięcia w nowym unijnym budżecie. Podkreślił, że porozumienie w tej sprawie powinno zostać osiągnięte do końca roku, by budżet UE był w pełni operacyjny od 2028 r.</description>
-      <pubDate>Fri, 04 Sep 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="false">d16eb3ee7e5c</guid>
-      <source url="https://www.bankier.pl/wiadomosc/KE-chce-duzych-pieniedzy-na-konkurencyjnosc-Panstwa-UE-naciskaja-na-ciecia-9192486.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>No little kids allowed, and other new info about Tesla’s Cybercab</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6ddf0a62e842</link>
-      <description>The company says no children under 13 can ride -- even with a parent. That&apos;s more restrictive than the Model Y SUVs it&apos;s using as robotaxis.</description>
-      <pubDate>Fri, 04 Sep 2026 16:51:23 GMT</pubDate>
-      <guid isPermaLink="false">6ddf0a62e842</guid>
-      <source url="https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/">TechCrunch</source>
-    </item>
-    <item>
-      <title>&apos;I&apos;d rather die than ring the police&apos;: Distrust and fear in Middlesbrough after A66 crash</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77cb4fc7bac4</link>
-      <description>BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.</description>
-      <pubDate>Fri, 04 Sep 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="false">77cb4fc7bac4</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3724daf1d350</link>
-      <description>NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar</description>
-      <pubDate>Fri, 04 Sep 2026 16:48:59 GMT</pubDate>
-      <guid isPermaLink="false">3724daf1d350</guid>
-      <source url="https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Pęknięte nici w tkaninie z Bayeux. Transport zaszkodził średniowiecznemu arcydziełu?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c4edf6c06812</link>
-      <description>Francuska minister kultury poinformowała, że w słynnej tkaninie z Bayeux, po jej przewiezieniu do Londynu, wykryto pęknięcie dwóch nici. Catherine Pegard zapewniła jednak, że ogólny stan bezcennego dzieła nie uległ zmianie.</description>
-      <pubDate>Fri, 04 Sep 2026 16:48:00 GMT</pubDate>
-      <guid isPermaLink="false">c4edf6c06812</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-pekniete-nici-w-tkaninie-z-bayeux-transport-zaszkodzil-sredn,nIdn,1016487">RMF24</source>
-    </item>
-    <item>
-      <title>Adult Film Producer Unmasks Prolific &apos;John DOE&apos; Torrent Pirate as Meta Executive</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/efb32cf2a2d8</link>
-      <description>A routine John Doe lawsuit could become part of Strike 3 Holdings&apos; $446 million AI training case against Meta.</description>
-      <pubDate>Fri, 04 Sep 2026 16:46:59 GMT</pubDate>
-      <guid isPermaLink="false">efb32cf2a2d8</guid>
-      <source url="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/">Hacker News</source>
-    </item>
-    <item>
-      <title>Google odpala petardę. Użytkownicy Gmaila (i nie tylko) zapieją z zachwytu!</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/74de5e0743af</link>
-      <description>Jak zapowiedzieli, tak zrobili. Google wprowadza tryb Live do swoich trzech flagowych aplikacji: Gmaila, Dokumentów i notatek Keep. Co to oznacza dla zwykłych użytkowników?</description>
-      <pubDate>Fri, 04 Sep 2026 16:45:11 GMT</pubDate>
-      <guid isPermaLink="false">74de5e0743af</guid>
-      <source url="https://antyweb.pl/google-odpala-petarde-uzytkownicy-gmaila-i-nie-tylko-zapieja-z-zachwytu">Antyweb</source>
-    </item>
-    <item>
-      <title>Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b10c3422e4fe</link>
-      <description>I think we can&apos;t get in trouble for that now. It&apos;s like 20 years ago.&quot;</description>
-      <pubDate>Fri, 04 Sep 2026 16:42:53 GMT</pubDate>
-      <guid isPermaLink="false">b10c3422e4fe</guid>
-      <source url="https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Waszyngton uderza w turecki bank. USA zarzucają mu pomoc Iranowi</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f8bd65974b31</link>
-      <description>Amerykański resort finansów nałożył w piątek sankcje na turecki bank Golden Global Bank za umożliwianie transakcji na rzecz irańskiego Korpusu Strażników Rewolucji Islamskiej. To kolejne działanie w ramach Operacji Economic Outcast, mającej na celu izolację Iranu.</description>
-      <pubDate>Fri, 04 Sep 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="false">f8bd65974b31</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Waszyngton-uderza-w-turecki-bank-USA-zarzucaja-mu-pomoc-Iranowi-9192472.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
