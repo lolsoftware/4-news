@@ -1,0 +1,13 @@
+{
+  "id": "e9ec875a98e1",
+  "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+  "originalTitle": "Carbon-aware electricity pricing, measured daily on 38 grids",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://carbonawarepricing.com/",
+  "publishedAt": "2026-09-04T08:19:57.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p> What if electricity got <b>cheaper when the grid runs clean</b> and <b>pricier when it runs dirty</b>? Every day this site runs that idea on real electricity-grid data and measures how much <b>CO₂ it would save</b> compared with today's standard pricing — across Switzerland and US grid regions. </p> <div> <p><span data-tip=\"Time-of-Use: today's standard tariff. A fixed higher price at peak hours, lower off-peak — regardless of how clean the electricity is. This is the baseline we compare against.\">Standard</span> Today's fixed tariff — the baseline everything is compared against. </p> <p><span data-tip=\"Carbon-Aware Hourly: the price rises when the grid is carbon-heavy and falls when it is clean, updated every hour — nudging use toward cleaner times.\">Carbon-Aware Hourly</span> The price follows the grid's carbon level, hour by hour. </p> <p><span data-tip=\"Carbon-Aware Critical Peak Pricing: the normal tariff most of the time, with a sharp price spike only during the day's few dirtiest hours.\">Carbon Peak Pricing</span> Normal price, plus a sharp spike in the few dirtiest hours. </p> </div>\n</div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
