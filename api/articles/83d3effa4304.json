@@ -1,0 +1,13 @@
+{
+  "id": "83d3effa4304",
+  "title": "Learn Programming with OCaml",
+  "originalTitle": "Learn Programming with OCaml",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://usr.lmf.cnrs.fr/lpo/",
+  "publishedAt": "2026-09-05T16:45:02.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"> <h2>by <a href=\"https://usr.lmf.cnrs.fr/~conchon/\">Sylvain Conchon</a> and\n<a href=\"https://usr.lmf.cnrs.fr/~jcf/\">Jean-Christophe Filliâtre</a></h2>\n\n<p>\nThis book on <a href=\"https://ocaml.org/\">OCaml</a>\nis an English translation\n(by <a href=\"https://www.aropefastenedbetween.fr/\">Urmila Nair</a>)\nof\n<a href=\"https://usr.lmf.cnrs.fr/programmer-avec-ocaml/\">this book in French</a>.\nThe translation was funded by\n<a href=\"https://ocaml-sf.org/\">The OCaml Software Foundation</a>.\nThe book is openly licensed via\n<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY SA 4.0</a>.\n</p>\n\n<ul>\n<li><a href=\"https://usr.lmf.cnrs.fr/lpo/lpo.pdf\">Get the book</a> (1.9Mb PDF file)</li>\n<li><a href=\"https://usr.lmf.cnrs.fr/lpo/lpo.epub\">Get the book</a> (2.3Mb EPUB file)</li>\n<li><a href=\"https://usr.lmf.cnrs.fr/lpo/code.html\">Get the code</a></li>\n</ul> <p>\nTypos and errors can\nbe <a href=\"https://github.com/backtracking/learn-programming-with-ocaml/issues\">reported here</a>.\n</p> <div>\n<p><a href=\"https://lmf.cnrs.fr/Main/Credits\">Legal Notice</a>\n</p></div> </div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
