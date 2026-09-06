@@ -1,0 +1,13 @@
+{
+  "id": "8f6fb59c7a25",
+  "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+  "originalTitle": "NetBSD 9.5 released and EOL for NetBSD-9",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+  "publishedAt": "2026-09-06T15:44:24.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2><a href=\"https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\">NetBSD 9.5 released and EOL for netbsd-9</a></h2>\n<p>September 06, 2026 posted by <i>Martin Husemann</i></p> <p>The NetBSD Project is pleased to announce NetBSD 9.5,  the fifth (and final) release from the NetBSD 9 stable branch.</p>\n\n<p>It represents a selected subset of fixes deemed important for security or stability reasons since the release of NetBSD 9.4 in April 2024. It is fully compatible with NetBSD 9.0.</p>\n\n<p>This also marks the end-of-support for all NetBSD-9.x releases and the netbsd-9 branch. All users still on this branch are urgently asked to update to a more recent release like NetBSD 11.0 (with 11.1 upcoming at the end of this month) or NetBSD 10.2 (to be released in a few days).</p>\n\n<p><strong><a href=\"https://netbsd.org/releases/formal-9/NetBSD-9.5.html\">Full release notes, including download links</a></strong></p><p> [<a href=\"https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and#comment-form\">0 comments</a>]\n\n</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
