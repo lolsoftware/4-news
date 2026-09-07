@@ -1,0 +1,13 @@
+{
+  "id": "7929171132ca",
+  "title": "Harnessing the Universal Geometry of Embeddings",
+  "originalTitle": "Harnessing the Universal Geometry of Embeddings",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2505.12540",
+  "publishedAt": "2026-09-06T20:31:20.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2505.12540\">View PDF</a> <a href=\"https://arxiv.org/html/2505.12540v4\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>We introduce the first method for translating text embeddings from one vector space to another without any paired data, encoders, or predefined sets of matches. Our unsupervised approach translates any embedding to and from a universal latent representation (i.e., a universal semantic structure conjectured by the Platonic Representation Hypothesis). Our translations achieve high cosine similarity across model pairs with different architectures, parameter counts, and training datasets.\n<br>The ability to translate unknown embeddings into a different space while preserving their geometry has serious implications for the security of vector databases. An adversary with access only to embedding vectors can extract sensitive information about the underlying documents, sufficient for classification and attribute inference. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Rishi Jha [<a href=\"https://arxiv.org/show-email/465a8825/2505.12540\" rel=\"nofollow\">view email</a>] <br> <strong><a href=\"https://arxiv.org/abs/2505.12540v1\" rel=\"nofollow\">[v1]</a></strong> Sun, 18 May 2025 20:37:07 UTC (3,179 KB)<br> <strong><a href=\"https://arxiv.org/abs/2505.12540v2\" rel=\"nofollow\">[v2]</a></strong> Tue, 20 May 2025 15:38:41 UTC (3,180 KB)<br> <strong><a href=\"https://arxiv.org/abs/2505.12540v3\" rel=\"nofollow\">[v3]</a></strong> Wed, 25 Jun 2025 21:04:02 UTC (2,407 KB)<br> <strong>[v4]</strong> Mon, 26 Jan 2026 14:47:13 UTC (2,424 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

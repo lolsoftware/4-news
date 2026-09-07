@@ -1,0 +1,13 @@
+{
+  "id": "97ec686943b2",
+  "title": "I'm a seeing-eye dog for a computer",
+  "originalTitle": "I'm a seeing-eye dog for a computer",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://claytonwramsey.com/blog/seeing-eye/",
+  "publishedAt": "2026-09-03T14:20:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n\n<p>I used to argue with people on the internet.\nAfter about six replies, you realize that you’re speaking to someone incapable of thought.\nThis is a more pleasant experience than getting a LLM to do what you want.</p>\n<p>I write code for robots.\nRather, it’s 2026, so these days I also tell LLMs to write code for robots.\nI often handwrite the code myself, but I’ve found that LLM coding assistants’ limitless patience ameliorates the drudgiest work of coding.\nSince robots are real things, the gold standard in debugging is visualization: you demonstrate a robot solving the problem you specified and inspect the results with your eyeballs.</p>\n<p>Debugging against a visualization is often one of the most annoying parts of writing robot code, since the best workflow you can get is just writing down some magic numbers, re-running your software, and then zooming around the output.\nIf the result is no good, you punch in some new magic numbers and pray for the best.</p>\n\n<p>Since I already like making LLMs handle drudgery for me, I decided to see if I could get my coding assistant to do all that for me.\nAfter all, these models already come with an image encoder, and my <a href=\"https://rerun.io/\">visualizer tool</a> comes with an MCP server.\nIf the LLM does the debugging loop for me, I can move on to doing better tasks, like staking out the breakroom for leftover pizza.</p>\n\n<p>My experience so far has been less than pleasant.\nIt seems that no amount of training on text can give a language model a good sense of what a normal, working robot does.\nBeyond that, the tools exposed for coding assistants to control GUI software are limited at best.\nI can zoom around the debug viewer and snap into one spot in the scene in five seconds flat, but for an MCP-powered assistant, just getting to the right view in the scene can take five minutes.\nSo, when I ask an LLM to debug a problem visually, I mostly just wait thirty minutes and then get a new, also-wrong answer.</p>\n<p>All that’s left is the dumbest workflow possible: I fire up the debug viewer myself, look around for weird mistakes, then take a screenshot and tell the language model how badly it messed up this time.\nEventually I just decided to do all the debugging work myself, so I would at least get to do the fun part too.</p> </div></div>",
+  "image": null,
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
