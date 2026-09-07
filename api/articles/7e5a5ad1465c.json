@@ -1,0 +1,13 @@
+{
+  "id": "7e5a5ad1465c",
+  "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+  "originalTitle": "Trusting-Trust Attack against an Entire Linux Distribution",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2607.24888",
+  "publishedAt": "2026-09-05T11:25:18.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2607.24888\">View PDF</a> <a href=\"https://arxiv.org/html/2607.24888v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not. We construct a complete trusting-trust attack around GNU strip, an ordinary build utility that neither inspects nor generates source code, using only manipulations of finished ELF files. In the bootstrap of the NixOS Linux distribution, a single tampered strip in the binary seed implants a payload that propagates from one generation of strip to the next and survives into the final standard environment after the seed leaves the dependency closure. On a real nixpkgs revision, the attack builds a complete graphical installer without failures and backdoors almost every one of its binaries, enabling arbitrary malicious behavior of the subverted packages. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: Aman Sharma [<a href=\"https://arxiv.org/show-email/473a6cf3/2607.24888\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Mon, 27 Jul 2026 12:59:15 UTC (1,848 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

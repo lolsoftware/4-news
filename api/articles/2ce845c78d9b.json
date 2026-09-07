@@ -1,0 +1,13 @@
+{
+  "id": "2ce845c78d9b",
+  "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+  "originalTitle": "Finding a bug in Dummit and Foote's Abstract Algebra",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://kallus.org/blog/dummit_and_foote.html",
+  "publishedAt": "2026-09-04T20:20:07.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"> <h2>Finding a Bug in Dummit and Foote's Abstract Algebra</h2> <p> During my second week at the Recurse Center, I've been trying to formalize Dummit and Foote's abstract algebra textbook (appropriately titled \"Abstract Algebra\") in Rocq. I had quite a hard time with the first proof exercise in the book because the stated proof goal is not true. This was both frustrating and exciting to figure out :) </p> <h3>Definitions</h3> <p> A <b>function</b> f from a set A to a set B (written \"f: A -&gt; B\") is a set of pairs such that </p><ul> <li>The first item in each pair comes from A.</li> <li>The second item in each pair comes from B.</li> <li>For each element of A, it is the first item in exactly one of the pairs.</li> </ul> In other words, for the programmers among you, a function is defined by the set of all its input-output pairs, and must be deterministic. <p> A function is <b>injective</b> if no two distinct inputs map to the same output. For example, f: int -&gt; int by f(x) = x^2 is not injective because f(1) = f(-1). </p> <p> A function f: A -&gt; B has a <b>left inverse</b> if there exists a function g: B -&gt; A such that forall a in A, g(f(a)) = a. In other words, f's left inverse \"undoes\" f. </p> <h3>Proposition 1 <b>(1)</b></h3> <p> The first proof exercise in the book is to show that a function is injective if and only if it has a left inverse. </p> <p> This statement is false. Let A = {}, and B = {1}. Let f: A -&gt; B = {}. The function f is indeed a function because it satisfies the 3 criteria listed in the definition above. The function f is injective because it is (vacuously) true that no two distinct inputs map to the same output. However, f does not have a left inverse, because there are no functions from B to A. </p> <p> I probably wouldn't have thought of this corner case if I was doing this exercise on paper. Because I was using Rocq, I just kept running into walls trying to prove the proposition as stated. All the ways I could think of proving the statement required either that A be inhabited or that B be uninhabited. After way too long, I started to wonder if the proposition just wasn't even true, and here we are :) </p> <p> While writing this post, I checked the book's errata, and this is already in there. Oh well :) </p> </div>",
+  "image": null,
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
