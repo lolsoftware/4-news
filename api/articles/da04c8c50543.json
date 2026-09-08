@@ -1,0 +1,13 @@
+{
+  "id": "da04c8c50543",
+  "title": "End-to-end infrastructure for training and inferencing open weight models",
+  "originalTitle": "End-to-end infrastructure for training and inferencing open weight models",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://docs.appliedcompute.com/",
+  "publishedAt": "2026-09-04T21:25:49.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"header\"><p>End-to-end infrastructure for training and inferencing open weight models.</p></div><div data-page-title=\"Introduction\" data-page-href=\"/index\" id=\"content\"><p><span data-as=\"p\">Applied Compute Agent Cloud (AC2) is a researcher cockpit for end-to-end model development, inference and continual learning.</span></p><h2 id=\"onboard-with-your-coding-agent\"><span>Onboard with your coding agent</span></h2>\n<p><span data-as=\"p\">The fastest way to get started is to let your coding agent set AC2 up for you. Paste this prompt into Claude Code, Cursor, Codex, or any coding agent:</span></p>\n<p><span data-as=\"p\">The agent installs the CLI, logs you in, wires up the AC2 MCP server, and walks you through your first project. Prefer to run the steps yourself? Follow the <a href=\"https://docs.appliedcompute.com/quickstart\">Quickstart</a>.</span></p><h2 id=\"packages\"><span>Packages</span></h2>\n<ul>\n<li><strong><code>ac2.sdk</code></strong> — platform client for datasets, workloads, sessions, traces, and secrets.</li>\n<li><strong><code>ac2.runtime</code></strong> — agent framework for agents, environments, orchestrators, tasks, graders, and episodes.</li>\n<li><strong><code>ac2.tracing</code></strong> — OpenTelemetry-based observability SDK. Add <code>@traced</code> to any function to capture timing, inputs, outputs, and nested spans. Exports to ClickHouse and Langfuse.</li>\n</ul>\n\n<h2 id=\"choose-a-workflow\"><span>Choose a workflow</span></h2>\n</div></div>",
+  "image": "images/4c7d634c5fb0.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
