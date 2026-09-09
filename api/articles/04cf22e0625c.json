@@ -1,0 +1,13 @@
+{
+  "id": "04cf22e0625c",
+  "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+  "originalTitle": "27.5KB language-agnostic WebGPU syntax highlighter",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://gpu-lexer.vercel.app/",
+  "publishedAt": "2026-09-09T01:14:50.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><section id=\"top\" aria-labelledby=\"title\"><pre aria-label=\"gpu-lexer API example\" aria-busy=\"true\"><code>import { highlight } from 'gpu-lexer'\n\nconst spans = await highlight('source code')\n// {\n// type: 'plain' | 'comment' | 'string' | 'number' | 'keyword' | 'type' | 'function' | 'constant' | 'operator'\n// start: number\n// end: number\n// }[]</code></pre><p>gpu-lexer splits source code into simple parts—words, whitespace, newlines, and symbols. Then a tiny WebGPU model combines local and whole-file context to label each part. It is designed for<!-- --> <span>any language</span>: instead of choosing a grammar, it guesses each part's type from the surrounding source, even when it never saw that language or syntax during training. Adjacent labels become the highlight spans returned to your code.</p><p>This is an <span>experiment</span>, not a grammar-equivalent highlighter. On files kept out of training,<!-- --> <strong>12.57%<!-- --> of the current model's token labels differ from Shiki</strong>. This measures agreement with Shiki—not objective correctness—and unseen languages or real-world code may differ more often.</p></section><section aria-label=\"Performance, size, and correctness comparisons\"></section><section aria-label=\"Syntax highlighting demo\"><div><p>[ live demos ]</p><p><span>75<!-- --> languages</span></p></div><div><p><span>react.development.js</span><span>0 bytes</span></p></div></section></div></div>",
+  "image": null,
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
