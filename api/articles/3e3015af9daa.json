@@ -1,0 +1,13 @@
+{
+  "id": "3e3015af9daa",
+  "title": "Google's AI genome system evaluates every possible one-base change",
+  "originalTitle": "Google's AI genome system evaluates every possible one-base change",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+  "publishedAt": "2026-09-09T16:34:18.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>But most of the non-coding DNA is junk—the remains of ancient viral infections, DNA-level parasites, genes that have been inactivated by mutation, and so on. Figuring out what’s useful and what’s not has been an ongoing challenge for biologists for many reasons.</p>\n<p>First, the proteins that interact with DNA aren’t that picky about the sequences they stick to, potentially binding at random throughout the genome and tolerating a certain degree of mutation. Many of these proteins are also cell-type specific; there’s a different population of DNA-binding proteins in liver cells, nerve cells, immune cells, and so on. In many cases, having many different protein binding sites in a compact space matters more than the presence of any one of them.</p>\n<p>We’ve developed various software tools that identify individual sites of interest in non-coding DNA. But this is exactly the sort of problem that AI is good at solving: one involving probabilities that are imprecise and rely heavily on context. So Google developed <a href=\"https://www.nature.com/articles/s41586-025-10014-0\">the AlphaGenome AI system</a>, which evaluates sequences for their potential function.</p>\n\n<p>(For the biology geeks that don’t want to sort through the paper, AlphaGenome attempts to identify “gene expression, transcription initiation, chromatin accessibility, histone modifications, transcription factor binding, chromatin contact maps, splice site usage, and splice junction coordinates and strength.”)</p>\n<p>The system is currently limited to sequences from mice and humans. It has also only been trained on a limited number of cell types that biologists have studied exhaustively. Still, it can be useful. If a researcher studying a gene finds changes in its non-coding regions, it can be difficult to tell whether they’re likely to be significant. AlphaGenome can provide a hint about their significance, along with a hypothesis about why. And its predictions are generally as good as or better than those from specialized software tools.</p> </div></div>",
+  "image": "images/14081cbeee58.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
