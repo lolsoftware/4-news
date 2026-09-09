@@ -1,0 +1,13 @@
+{
+  "id": "51f9d3682897",
+  "title": "GNU Radio in the browser",
+  "originalTitle": "GNU Radio in the browser",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://gnuradioworld.com/",
+  "publishedAt": "2026-09-09T15:53:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"pageIntro\"> <p> A GNU Radio Companion-style flowgraph editor and runtime that runs entirely in a browser tab. The GNU Radio DSP stack and the Qt GUI sinks are compiled to WebAssembly, so you can build a software-defined radio flowgraph, press Run, and watch live spectrum, waterfall and constellation plots — with no Python, no install and no server. It reads and writes the same .grc files as native GNU Radio, ships example flowgraphs and example IQ recordings, and talks to an RTL-SDR, PlutoSDR or HackRF over WebUSB. </p>\n</div></div>",
+  "image": "images/0d48786c256a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
