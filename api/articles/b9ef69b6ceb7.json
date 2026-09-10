@@ -1,0 +1,13 @@
+{
+  "id": "b9ef69b6ceb7",
+  "title": "Show HN: Compute polynomials twice as fast",
+  "originalTitle": "Show HN: Compute polynomials twice as fast",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://thomasahle.com/fast-polynomials/",
+  "publishedAt": "2026-09-09T08:53:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2>Evaluating Polynomials Fast</h2> <p> You may have heard about Horner's method, which evaluates a polynomial of degree <i>n</i> in <i>n</i> multiplications (<span><i>n</i>−1</span> if it is monic). But did you know that with a bit of preprocessing of the coefficients, <b><span>⌊<i>n</i>/2⌋+1</span> multiplications suffice for any monic polynomial</b>, one more for a general one? You can use this to approximate functions like exp, sin, cos, or to evaluate polynomials in cryptography, hashing, and coding theory. Simply type a polynomial below, pick your field, and we'll preprocess it for you. </p> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
