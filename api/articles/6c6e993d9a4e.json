@@ -1,0 +1,13 @@
+{
+  "id": "6c6e993d9a4e",
+  "title": "Android can now securely migrate your logins between password managers",
+  "originalTitle": "Android can now securely migrate your logins between password managers",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+  "publishedAt": "2026-09-10T18:41:09.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>As longer, more complex passwords have become a necessity, remembering all those strings of numbers, letters, and special characters has become nearly impossible. Password managers can solve that problem, but what happens when you want to move to a different login organizer? Sure, you could manually type all your logins into a new app, but now Android <a href=\"https://blog.google/products-and-platforms/platforms/android/switch-password-managers/\">can do that for you</a> without the tedium.</p>\n<p>Google designed the new login transfer process to happen entirely on your phone, so you need the corresponding apps installed with your credentials synced. To start the move, you’ll have to find the import option in the app you want to use. The location of that feature will vary, but in Google Password Manager (built into Android), it’s near the top under the settings tab.</p>\n<p>The import option in Google Password Manager will plug in to the new migration system, while export still just creates an unencrypted CSV with your passwords that can be dumped into any app. It will be similar in other apps, so make sure to start the process in the app you want to use. Currently, this works in Google’s app, 1Password, Bitwarden, and Dashlane.</p> </div></div>",
+  "image": "images/d8987a721d48.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
