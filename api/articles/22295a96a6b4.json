@@ -1,0 +1,13 @@
+{
+  "id": "22295a96a6b4",
+  "title": "Google is making it easier to switch between password managers on Android",
+  "originalTitle": "Google is making it easier to switch between password managers on Android",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+  "publishedAt": "2026-09-10T16:00:00.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-09-10T09:00:00-07:00\">9:00 AM PDT · September 10, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Google on Thursday introduced a new password manager switching experience on Android that doesn’t require you to download CSV files when migrating to a new app.</p>\n\n<p>With the new feature, users will be able to move all of their passwords — and even passkeys — between apps seamlessly. </p> <p>To use the new system, users first open their new password manager app and choose to import or copy passwords from the old manager app. Android will detect manager apps on the device and coordinate transfer between both apps. Users can review the information being transferred and approve it in a few taps.</p> <p>Because this method also supports passkey transfer, users won’t need to set them up again when moving to a new password manager app. Plus, the company said that this averts the risk of exposing data from a CSV file.</p>\n\n<p>Google said the new experience is already available on select partners as well as in Google’s own password manager app. Bitwarden, 1Password, and Dashlane are currently supported, with more apps coming in the future.</p>\n\n<p>The password manager switching feature will be available on all devices running Android 8 or above.</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Apps</h2>\n</p> </div></div>",
+  "image": "images/f37be22ff83d.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
