@@ -1,0 +1,13 @@
+{
+  "id": "b7341a742ebb",
+  "title": "RISC-V Emulator and Linux System from Scratch",
+  "originalTitle": "RISC-V Emulator and Linux System from Scratch",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/WerWolv/riscv-emulator",
+  "publishedAt": "2026-09-07T21:57:15.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-hpc=\"true\" containertiming=\"hpc\"><article itemprop=\"text\"><p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">RISC-V Emulator and Linux System from Scratch</h2><a id=\"user-content-risc-v-emulator-and-linux-system-from-scratch\" aria-label=\"Permalink: RISC-V Emulator and Linux System from Scratch\" href=\"#risc-v-emulator-and-linux-system-from-scratch\"></a></p>\n<p dir=\"auto\">This repo contains all the source code required to follow the blog post at <a href=\"https://werwolv.net/posts/linux_bringup/\" rel=\"nofollow\">https://werwolv.net/posts/linux_bringup/</a></p>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Source Code</h2><a id=\"user-content-source-code\" aria-label=\"Permalink: Source Code\" href=\"#source-code\"></a></p>\n<ul dir=\"auto\">\n<li><code>/lib</code> contains the entire rv32ima instruction set emulator code as well as a minimal set of emulated devices</li>\n<li><code>/main</code> contains the configuration for our machine and functions exposed for WebAssembly use</li>\n</ul>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Configuration</h2><a id=\"user-content-configuration\" aria-label=\"Permalink: Configuration\" href=\"#configuration\"></a></p>\n<p dir=\"auto\">All the config files required to build Linux can be found in <code>/boot</code>. The main executable also expects all the built binaries to be in the <code>boot</code> folder.</p>\n<ul dir=\"auto\">\n<li><code>riscv32-unknown-linux-gnu.config</code> is the crosstool-ng toolchain config file</li>\n<li><code>riscv_emulator_defconfig</code> is the Linux Kernel config file</li>\n<li><code>device_tree.dts</code> is the minimal device tree\n<ul dir=\"auto\">\n<li>Can be compiled to a dtb using <code>dtc -I dts -O dtb device_tree.dts -o device_tree.dtb</code></li>\n</ul>\n</li>\n<li><code>init.c</code> is the init program\n<ul dir=\"auto\">\n<li>Can be compiled using <code>riscv32-unknown-linux-gnu-gcc -static init.c -o init</code></li>\n</ul>\n</li>\n<li><code>initramfs.txt</code> is the <code>gen_init_cpio</code> config file to generate the initramfs\n<ul dir=\"auto\">\n<li>Can be compiled to a cpio using <code>usr/gen_init_cpio initramfs.txt -o initramfs.cpio</code></li>\n</ul>\n</li>\n</ul>\n</article></div></div>",
+  "image": "images/4a9261d2fc52.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

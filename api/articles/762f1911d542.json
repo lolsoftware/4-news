@@ -1,0 +1,13 @@
+{
+  "id": "762f1911d542",
+  "title": "Claude users found ways around safeguards for bioweapons research",
+  "originalTitle": "Claude users found ways around safeguards for bioweapons research",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+  "publishedAt": "2026-09-11T13:02:35.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>A maelstrom over AI safety kicked off earlier this week when Jacob Coxon resigned from the company, saying employees “earnestly believe it [AI] could kill us all by the end of the decade.”</p>\n<p>Concerns over the technology began to escalate earlier this year with the release of advanced models such as Anthropic’s Mythos. OpenAI also caused alarm in July when it said its models had autonomously hacked into AI group Hugging Face.</p>\n<p>There is an expanding consensus among AI executives and biosecurity researchers that the use of the technology in biology needs to be secured and regulated as models become more advanced. Experts increasingly worry that AI could be used by terrorist groups, state actors, or lone-wolf attackers to craft biological weapons, create viruses, or unleash existing harmful pathogens.</p>\n<p>But even if AI can be used to design a theoretical bioweapon, potential obstacles remain, such as the ability to make it in practice and the resources needed to do so.</p>\n<p>Cybersecurity has been among the biggest concerns for safety advocates.</p>\n<p>Anthropic’s report on the misuses of its technology detailed incidents including “a network of fake dating apps designed to defraud users to surveillance systems built to identify and monitor dissidents.”</p>\n<p>The lab also set out new details of claims that seven labs based in China, including Moonshot and DeepSeek, tried to replicate its technology through a process known as distillation. Anthropic said it had detected “increasingly sophisticated methods to circumvent our defenses and harvest the capabilities of US frontier models.”</p>\n<p><em>Additional reporting by Michael Peel in London</em></p>\n<p><em><a href=\"https://www.ft.com/\">© 2026 The Financial Times Ltd</a>. <a href=\"https://www.ft.com/\">All rights reserved.</a> Not to be redistributed, copied, or modified in any way.</em></p> </div></div>",
+  "image": "images/3be04db3f05c.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
