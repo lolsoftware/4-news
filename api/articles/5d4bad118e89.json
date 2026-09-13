@@ -1,0 +1,13 @@
+{
+  "id": "5d4bad118e89",
+  "title": "Don't be the out of touch Kung Fu master",
+  "originalTitle": "Don't be the out of touch Kung Fu master",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+  "publishedAt": "2026-09-12T21:51:43.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div dir=\"auto\"><p><span>I recently went through a translation of Musashi’s Book of Five Rings.\n\nThe introduction chronicled the evolution of swordsmanship and martial arts in general from pragmatic battlefield necessities to sports, historical curiosities, and hobbies. It was interesting to hear how in the post-WW2 occupation when martial arts were banned, Judo was represented as equivalent to western wrestling, and Kendo later to western fencing.\n\nThe poignant undercurrent for me is that I can see many programming skills following that path.\n\nThere are probably dozens of people reading this that remember hand assembling opcodes to hex and still have some magic numbers burned into their memory, but even the small group of people still programming in assembly today (hey, </span></p><a href=\"https://x.com/FFmpeg\">@<!-- -->FFmpeg</a><p><span> !) don’t work at that primitive level now.\n\nAI is making many other programming skills much less critical. We aren’t there yet, but carefully writing code completely by hand is moving from a -jitsu to a -do. Code-do? Codo?\n\nThat’s ok! The retro computing scene is delightful, full of people building and exercising old skills for the love of it.\n\nBut don’t be the out of touch Kung Fu master, heir to lifetimes of tradition, that gets mauled by an amateur MMA fighter.\n\nMusashi would probably have been pretty enthusiastic about assault rifles.</span></p></div></div>",
+  "image": "images/c5836abbbb2c.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
