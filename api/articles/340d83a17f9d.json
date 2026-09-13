@@ -1,0 +1,13 @@
+{
+  "id": "340d83a17f9d",
+  "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+  "originalTitle": "Cpak – OCI application package format for Linux desktops, servers and devices",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://cpak.it/",
+  "publishedAt": "2026-09-13T15:02:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><!--[--><!--[0--><!--[--><!--[-1--><!--[--><!----> <nav> <!--[-1--><!--]--></nav><!----> <main><section><img src=\"https://cpak.it/cpak-isometric-cubes.svg\" alt=\"Isometric cubes\"> <div><h2>Deploy as <span>freely</span><br>as you develop</h2> <p><span>cpak</span> is the OCI application package format for Linux desktops, servers and devices.</p> </div></section></main> <div><div><p>The Store</p> <h2>Familiar apps, ready for cpak</h2> <p>Every package has a clear manifest, a real origin and a command you can inspect before installing it.</p></div> <p><a href=\"https://cpak.it/store\">Browse every package <span>arrow_forward</span></a></p></div> <div><div><p>cpak Learn</p> <h2>Learn cpak by making it decide</h2> <p>Follow a complete course, change real manifests and see what cpak accepts, refuses or changes. Professional paths lead to an exam and a public, verifiable credential.</p></div> <p><a href=\"https://cpak.it/learn\">Open cpak Learn </a></p></div> <div><!--[--><div><h3>Ultra-light footprint</h3> <p>Two static binaries provide the runtime and one shared content store for every application.</p> </div><div><h3>Docker-style compatibility</h3> <p>Familiar Dockerfile syntax, layer caching and incremental builds without a container daemon in production.</p> </div><div><h3>Host GPU integration</h3> <p>Bind host graphics drivers at launch instead of packaging a second driver stack in every image.</p> </div><div><h3>Secure system resource access</h3> <p>Declare access to DBus, sockets and devices. Grant only the resources an application needs.</p> </div><div><h3>Git-native versioning</h3> <p>Install any tag, branch or exact commit SHA, then pin the source that should receive updates.</p> </div><div><h3>One package model</h3> <p>Use the same manifest and command across systems, with an OCI image built for each architecture.</p> </div><!--]--></div>  <!--[-1--><!--]--> <!----> <!----><!--]--><!--]--><!----><!--]--><!--]--> <!--[-1--><!--]--><!--]--> </div></div>",
+  "image": "images/bd688c6ada3e.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
