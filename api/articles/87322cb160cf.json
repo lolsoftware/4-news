@@ -1,0 +1,13 @@
+{
+  "id": "87322cb160cf",
+  "title": "A new solar cell could generate electricity underwater",
+  "originalTitle": "A new solar cell could generate electricity underwater",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+  "publishedAt": "2026-09-14T18:03:16.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>In <a href=\"https://hanna-barbera.fandom.com/wiki/Serpents_of_the_Deep\">one episode</a> of the Hanna-Barbera cartoon <em>Birdman</em>, the eponymous hero struggles to fight the evil Dr. Shark aboard a submarine without solar energy to recharge his powers. So Birdman would surely appreciate the new perovskite solar cells developed by a team led by Simin Ma at Yunnan University, since they are designed to work underwater.</p>\n<p>Solar cells made from perovskites rather than silicon are always a tale of trade-offs. They can be made cheaply, they can take interesting forms (like thin, flexible, transparent films), and they can convert substantially more of the incoming solar energy into electricity. The difficulty is that they tend to degrade quite quickly.</p>\n<h2>Tuned for the deep</h2>\n<p>Moisture is particularly destructive to perovskites, making them a seemingly odd choice for an underwater solar panel. But these materials have another critical superpower: They can be tuned to work with different wavelengths of light. Water quickly blocks the wavelengths of light that silicon solar panels absorb, but a carefully designed perovskite cell could still make electricity in the deep blue sea. And actually, the lower light levels and cooler temperatures should help it live longer.</p>\n<p>Tuning perovskites just requires tweaking some of their chemistry during production, so getting something that absorbs the wavelengths present a few meters deep was not a challenge. The real task was making the cells durable. The team found a particularly effective additive (polyhexamethylene guanidine hydrochloride) that helped in several ways.</p>\n<p>It built a water-repelling layer around the material, for one. But part of the compound also gets involved with the perovskite crystal lattice, helping larger crystals form and preventing ions from moving around in the lattice structure. The additive limits some of the common ways that perovskites break down, while also improving the solar cell’s electricity production.</p> </div></div>",
+  "image": "images/e0e27684809d.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

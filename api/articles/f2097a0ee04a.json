@@ -1,0 +1,13 @@
+{
+  "id": "f2097a0ee04a",
+  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+  "originalTitle": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+  "publishedAt": "2026-09-14T20:07:37.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-09-14T13:07:37-07:00\">1:07 PM PDT · September 14, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million in a funding round led by IAG Capital Partners. </p>\n\n<p>It also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive. Cornelis hopes to address this with a networking fabric that lets chips process and send information at the same time.</p> <p>The company, which spun off from Intel in 2020, is competing with Nvidia by offering an open architecture, meaning customers can use a variety of GPU and accelerator hardware with Cornelis’ networking fabric. Though Nvidia chips can technically run on other networking fabrics, they’re optimized to run on Nvidia’s own software, making it much easier — and more enticing — for customers to use Nvidia’s full GPU stack. Cornelis is part of a new wave of AI infrastructure companies emerging to break apart Nvidia’s market dominance, piece by piece (or chip by chip, one could say).&nbsp;</p>\n\n<p>Cornelis has already started shipping its product and is working on a new generation of it, expected to be released later this year.&nbsp;</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Startups</h2>\n</p> </div></div>",
+  "image": "images/bbb8fa686143.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
