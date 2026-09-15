@@ -1,0 +1,13 @@
+{
+  "id": "cf7e8406938e",
+  "title": "Firefox przyspiesza. Najnowsza aktualizacja to prawdziwa bomba",
+  "originalTitle": "Firefox przyspiesza. Najnowsza aktualizacja to prawdziwa bomba",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/firefox-przyspiesza-najnowsza-aktualizacja-to-prawdziwa-bomba",
+  "publishedAt": "2026-09-15T07:30:13.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Mozilla Firefox jest jedną z nielicznych alternatyw względem przeglądarek opartych na Chromium. Teraz lisek został dopieszczony przez deweloperów wraz z aktualizacją 156.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Mozilla nie zwalnia tempa. Zaledwie dwa tygodnie po premierze Firefoksa 155 do użytkowników trafia wersja 156 i trzeba przyznać, że jest to jedna z tych aktualizacji, którą warto z marszu zainstalować. Nie chodzi tu o kosmetykę czy nowe zakładki, ale o fundamenty w postaci szybkości, pamięci i stabilności.</p>  <h2>Firefox wprowadza mocne zmiany. Aktualizacja jest warta szybkiej instalacji</h2> <p>Największą i najbardziej obiecującą zmianą jest nowy sposób dekodowania plików JPEG. Firefox 156 wykorzystuje natywne skalowanie IDCT z biblioteki libjpeg-turbo. Do tej pory przeglądarka dekodowała obraz w pełnej rozdzielczości, a dopiero potem zmniejszała go do rozmiaru wyświetlanego na stronie, co jest po prostu marnotrastwem CPU i pamięci RAM. Teraz Firefox wybiera największy możliwy współczynnik skalowania IDCT (1/2, 1/4 lub 1/8) już na etapie dekodowania i dopiero potem dopracowuje szczegóły za pomocą filtra Lanczos3. W ten sposób zużycie pamięci przy ładowaniu bardzo dużych obrazów spada nawet 20-krotnie, a dekodowanie jest do dwóch razy szybsze</p> <p>Drugą wartą wzmianki informacją jest wbudowany czytnik PDF. Mozilla przeniosła moment startu PDF.js na wcześniejszy etap.dzięki czemu dokumenty otwierają się nawet o 45% szybciej</p> <p>Nie zabrakło też solidnej porcji poprawy błędów. Najważniejsza dotyczy problemu z wersji 155, która powodowała całkowitą utratę łączności sieciowej przy włączonym wbudowanym VPN-ie. aprawiono również problem z ładowaniem stron HTTP przy włączonym DNS over HTTPS, brakujące napisy w trybie Picture-in-Picture, odtwarzanie plików FLAC w kontenerze MP4 na takich stronach jak Bilibili oraz przemieszczanie zakładek w panelu bocznym.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/80c18ed87802.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
