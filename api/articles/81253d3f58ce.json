@@ -1,0 +1,13 @@
+{
+  "id": "81253d3f58ce",
+  "title": "An Update on Wayback Machine Access",
+  "originalTitle": "An Update on Wayback Machine Access",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+  "publishedAt": "2026-09-15T17:52:18.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><article id=\"post-30983\"> <!-- .entry-header --> <div> <p>We’ve heard you: “Fix the Wayback Machine!”</p> <p>Here’s what’s going on. The Internet Archive’s <a href=\"https://web.archive.org/\">Wayback Machine</a> has been hit by waves of high-volume automated traffic, and we’ve put protections in place to keep the service running. One recent change: we rewrote the message you see when a request is blocked with a 429 error — the HTTP code that means “too many requests.”</p> <p>Those protections sometimes catch real people by mistake. If that’s happened to you, we’re sorry, and we appreciate your patience while we work to reduce the errors.</p> <p>We’re getting better at telling abusive bots apart from the people who depend on the Wayback Machine every day. If you think you were blocked in error, email <a href=\"mailto:info@archive.org\">info@archive.org</a> with your operating system, browser, and IP address, and we’ll look into it.</p> </div><!-- .entry-content --> <!-- .entry-meta -->\n\t</article></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
