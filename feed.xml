@@ -5,8 +5,72 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:57:00 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The AI data center boom is colliding with cities scarred by big industry </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/57e99614fd36</link>
+      <description>National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.</description>
+      <pubDate>Tue, 15 Sep 2026 21:47:38 GMT</pubDate>
+      <guid isPermaLink="false">57e99614fd36</guid>
+      <source url="https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Co z wycofaniem wojsk USA z Niemiec? Doniesienia po spotkaniu na szczycie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4b00adbe3eff</link>
+      <description>Minister obrony Niemiec Boris Pistorius powiedział we wtorek po rozmowie z szefem Pentagonu Pete&apos;em Hegsethem, że nie uzyskał nowych informacji o skali i harmonogramie wycofywania wojsk USA z Niemiec. Ministrowie rozmawiali też o zakupie rakiet Tomahawk, których dostawy według doniesień mają się opóźnić.</description>
+      <pubDate>Tue, 15 Sep 2026 21:47:00 GMT</pubDate>
+      <guid isPermaLink="false">4b00adbe3eff</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-co-z-wycofaniem-wojsk-usa-z-niemiec-doniesienia-po-spotkaniu,nIdn,1017840">RMF24</source>
+    </item>
+    <item>
+      <title>German Rheinmetall open-sources its Battlesuite connected weapon system protcol</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/171b3d65d5ad</link>
+      <description>The onboardapi interface library and middleware is designed for seamless communication between sensor systems and software components. It provides a standardized data model that ensures interoperability across complex hardware and software environments.</description>
+      <pubDate>Tue, 15 Sep 2026 21:07:47 GMT</pubDate>
+      <guid isPermaLink="false">171b3d65d5ad</guid>
+      <source url="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Norweski operator podejrzany o współudział w zbrodniach przeciwko ludzkości</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/eaa80d15e940</link>
+      <description>Norweska policja i kontrwywiad PST przeszukały we wtorek siedzibę Telenora, największego operatora telekomunikacyjnego w Norwegii. Śledztwo dotyczy podejrzeń o współudział firmy w zbrodniach przeciwko ludzkości popełnianych przez wojskowy reżim w Mjanmie. Chodzi m.in. o przekazywanie władzom danych klientów.</description>
+      <pubDate>Tue, 15 Sep 2026 21:03:00 GMT</pubDate>
+      <guid isPermaLink="false">eaa80d15e940</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-norweski-operator-podejrzany-o-wspoludzial-w-zbrodniach-prze,nIdn,1017839">RMF24</source>
+    </item>
+    <item>
+      <title>Jean-Pierre Serre is 100 years old today</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b416af198b57</link>
+      <description>Jean-Pierre Serre is a French mathematician who has made important contributions to algebraic topology, algebraic geometry, and algebraic number theory. He was a member of Bourbaki.</description>
+      <pubDate>Tue, 15 Sep 2026 20:57:18 GMT</pubDate>
+      <guid isPermaLink="false">b416af198b57</guid>
+      <source url="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">Hacker News</source>
+    </item>
+    <item>
+      <title>Letby hospital consultant says inquiry makes for grim reading</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/42467cb91538</link>
+      <description>The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.</description>
+      <pubDate>Tue, 15 Sep 2026 20:43:08 GMT</pubDate>
+      <guid isPermaLink="false">42467cb91538</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Blokada zamiast przełomu. Bez Francji nie będzie pieniędzy dla Polski czy Ukrainy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9e85ce1d7f85</link>
+      <description>Przełom ogłoszony w sprawie Europejskiego Instrumentu na rzecz Pokoju (EPF) zdaje się przedwczesny – sugeruje w rozmowie z Polską Agencją Prasową źródło w europejskiej dyplomacji. Decyzję w sprawie zwrotu pieniędzy za broń dla Ukrainy nadal hamuje Francja. Uniemożliwia to nie tylko zwrot pieniędzy dla stolic UE, ale i dodatkowy 1 mld euro pomocy dla Kijowa.</description>
+      <pubDate>Tue, 15 Sep 2026 20:36:00 GMT</pubDate>
+      <guid isPermaLink="false">9e85ce1d7f85</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-blokada-zamiast-przelomu-bez-francji-nie-bedzie-pieniedzy-dl,nIdn,1017838">RMF24</source>
+    </item>
+    <item>
+      <title>&quot;Fakty&quot; TVN. Władysław Kosiniak-Kamysz spotka się z Petem Hegsethem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9c2c07050529</link>
+      <description>Wicepremier, szef MON Władysław Kosiniak-Kamysz spotka się 23 września z szefem Pentagonu Petem Hegsethem - podał korespondent &quot;Faktów&quot; TVN Marcin Wrona.</description>
+      <pubDate>Tue, 15 Sep 2026 20:27:22 GMT</pubDate>
+      <guid isPermaLink="false">9c2c07050529</guid>
+      <source url="https://tvn24.pl/swiat/wladyslaw-kosiniak-kamysz-spotka-sie-z-petem-hegseth-em-znamy-date-rozmowy-st9238787?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Zmiany w finansowaniu centrów zdrowia psychicznego. &quot;Stawka populacyjna nie do końca spełniła oczekiwania&quot;</title>
       <link>https://lolsoftware.github.io/4-news/#/article/cbf99fc5c037</link>
@@ -16,12 +80,60 @@
       <source url="https://www.rynekzdrowia.pl/Psychiatria/Zmiany-w-finansowaniu-centrow-zdrowia-psychicznego-Stawka-populacyjna-nie-do-konca-spelnila-oczekiwania,288939,16.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Meta now lets AI agents handle the boring parts of WhatsApp Business setup</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/15b435003223</link>
+      <description>A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.</description>
+      <pubDate>Tue, 15 Sep 2026 20:12:53 GMT</pubDate>
+      <guid isPermaLink="false">15b435003223</guid>
+      <source url="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Włochy. Pożar na wybrzeżu Amalfi. &quot;Przez jedenaście lat nie widziałem czegoś podobnego&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/228fddc7b27d</link>
+      <description>Na włoskim wybrzeżu Amalfi wybuchł rozległy pożar. Ogień pojawił się w poniedziałek wieczorem i objął okolice popularnych ośrodków turystycznych. Jak podały lokalne media, pożar prawdopodobnie został wywołany celowo.</description>
+      <pubDate>Tue, 15 Sep 2026 19:58:33 GMT</pubDate>
+      <guid isPermaLink="false">228fddc7b27d</guid>
+      <source url="https://tvn24.pl/tvnmeteo/swiat/wlochy-pozar-na-wybrzezu-amalfi-przez-jedenascie-lat-nie-widzialem-czegos-podobnego-st9238743?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Wysoka wygrana w Polsce. Główna kumulacja Eurojackpot nadal czeka na szczęśliwca</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/91de0c78d74d</link>
+      <description>We wtorkowym losowaniu Eurojackpot żadnemu z graczy nie udało się wytypować poprawnie wszystkich liczb. Kumulacja rośnie do 260 milionów złotych. W Polsce padła jedna z dwóch najwyższych wygranych. Oto wyniki losowania z 15 września 2026 roku.</description>
+      <pubDate>Tue, 15 Sep 2026 19:45:02 GMT</pubDate>
+      <guid isPermaLink="false">91de0c78d74d</guid>
+      <source url="https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-losowania-z-15-wrzesnia-2026-roku-duza-wygrana-w-polsce-jakie-liczby-padly-podczas-losowania-st9238755?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Dyskusje w Polsce 2050. Hołownia: żadnej rezygnacji nie składałem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/409d7c614a10</link>
+      <description>Wicemarszałek Sejmu Szymon Hołownia przekazał we wtorek wieczorem, że żadnej rezygnacji z kandydowania na szefa klubu parlamentarnego nie składał. &quot;Nie było też z czego rezygnować. Obrady klubu trwają&quot; - powiedział dziennikarzom w Sejmie. Wcześniej o takiej decyzji Hołowni nieoficjalnie poinformowała Polska Agencja Prasowa.</description>
+      <pubDate>Tue, 15 Sep 2026 19:39:56 GMT</pubDate>
+      <guid isPermaLink="false">409d7c614a10</guid>
+      <source url="https://tvn24.pl/polska/polska-2050-szymon-holownia-nie-skladal-rezygnacji-z-kandydowania-na-szefa-klubu-st9238756?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Skazany neonazista opuścił więzienie. Zapowiada powrót do polityki</title>
       <link>https://lolsoftware.github.io/4-news/#/article/bb8c4987a869</link>
       <description>Ilias Kasidiaris, były rzecznik i deputowany neonazistowskiej partii Złoty Świt, po sześciu latach opuścił greckie więzienie. Pomimo wyroku za kierowanie grupą przestępczą, zapowiada powrót do polityki i utworzenie nowej partii narodowej „takiej, jakie dominują wszędzie w Europie”. Został skazany w 2020 roku na 13,5 roku więzienia.</description>
       <pubDate>Tue, 15 Sep 2026 19:31:00 GMT</pubDate>
       <guid isPermaLink="false">bb8c4987a869</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-skazany-neonazista-opuscil-wiezienie-zapowiada-powrot-do-pol,nIdn,1017836">RMF24</source>
+    </item>
+    <item>
+      <title>Building a Linux GPU Driver for the M4 Mac Mini in One Month</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/735ab7f0d180</link>
+      <description>Personal website of Cody Ho</description>
+      <pubDate>Tue, 15 Sep 2026 19:30:03 GMT</pubDate>
+      <guid isPermaLink="false">735ab7f0d180</guid>
+      <source url="https://codyho.dev/blog/gpu-driver/">Hacker News</source>
+    </item>
+    <item>
+      <title>WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/77c647405c44</link>
+      <description>A small neural network that decides whether a number is Numberwang. - GraafHenk/numberwang</description>
+      <pubDate>Tue, 15 Sep 2026 19:27:35 GMT</pubDate>
+      <guid isPermaLink="false">77c647405c44</guid>
+      <source url="https://github.com/GraafHenk/numberwang">Hacker News</source>
     </item>
     <item>
       <title>Jev: New frontier model 40-400x cheaper and 20-200x faster</title>
@@ -72,6 +184,14 @@
       <source url="https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">TechCrunch</source>
     </item>
     <item>
+      <title>18-year-old dies of measles in PA from severe neurological complication</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9813552e3e14</link>
+      <description>Teen developed acute disseminated encephalomyelitis, a known measles complication.</description>
+      <pubDate>Tue, 15 Sep 2026 18:58:09 GMT</pubDate>
+      <guid isPermaLink="false">9813552e3e14</guid>
+      <source url="https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/">Ars Technica</source>
+    </item>
+    <item>
       <title>Na koń i pod europarlament. Husaria uświetniła ważną chwilę dla Polski</title>
       <link>https://lolsoftware.github.io/4-news/#/article/db6285c67566</link>
       <description>W Strasburgu odbyła się we wtorek uroczystość nadania jednej z sal Parlamentu Europejskiego imienia króla Jana III Sobieskiego. Z tej okazji przed budynkiem pojawili się polscy rekonstruktorzy historyczni przebrani za husarzy oraz samego króla. Przyjechali konno, prezentując stroje i wyposażenie nawiązujące do czasów świetności polskiej jazdy.</description>
@@ -94,6 +214,14 @@
       <pubDate>Tue, 15 Sep 2026 18:51:37 GMT</pubDate>
       <guid isPermaLink="false">080fed9cc15f</guid>
       <source url="https://tvn24.pl/biznes/turystyka/najlepsze-lotniska-swiata-2026-nowy-ranking-dla-pasazerow-st9238648?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>SpaceX declares Starship ready for orbit, sets launch date next week</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cc89af6e0bc0</link>
+      <description>Reaching orbit would mark a significant milestone.</description>
+      <pubDate>Tue, 15 Sep 2026 18:48:08 GMT</pubDate>
+      <guid isPermaLink="false">cc89af6e0bc0</guid>
+      <source url="https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/">Ars Technica</source>
     </item>
     <item>
       <title>Chop Up Your Books</title>
@@ -128,12 +256,28 @@
       <source url="https://tvn24.pl/polska/tomasz-siemoniak-o-spotkaniu-z-szefem-cia-stany-zjednoczone-sa-z-polska-st9238653?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Agility’s new humanoid robot will stop, squat to avoid harming human coworkers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c6a3e0e7111e</link>
+      <description>Robots can start working outside physical cages and without safety barriers.</description>
+      <pubDate>Tue, 15 Sep 2026 18:33:02 GMT</pubDate>
+      <guid isPermaLink="false">c6a3e0e7111e</guid>
+      <source url="https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/">Ars Technica</source>
+    </item>
+    <item>
       <title>„Koniec sagi”. Kandydatura Hołowni odrzucona</title>
       <link>https://lolsoftware.github.io/4-news/#/article/5ef6251ce4c5</link>
       <description>Klub parlamentarny Polski 2050 po raz szósty rozpatrywał kandydaturę Szymona Hołowni na stanowisko szefa klubu. Jak dowiedziała się Polska Agencja Prasowa, parlamentarzyści zdecydowali – Hołownia nie obejmie tej funkcji. Były lider partii, a obecnie wicemarszałek Sejmu, miał już nie ubiegać się o to stanowisko. „Koniec sagi” – tak decyzję skomentował jeden z prominentnych polityków ugrupowania.</description>
       <pubDate>Tue, 15 Sep 2026 18:32:00 GMT</pubDate>
       <guid isPermaLink="false">5ef6251ce4c5</guid>
       <source url="https://www.rmf24.pl/fakty/polityka/news-koniec-sagi-kandydatura-holowni-odrzucona,nIdn,1017830">RMF24</source>
+    </item>
+    <item>
+      <title>Spotkanie Polski 2050. Hołownia starym nowym szefem klubu?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/706482b7c401</link>
+      <description>Podczas spotkania klubu Polski 2050 nie zapadła żadna decyzja w sprawie kandydatur na szefa klubu - przekazał PAP poseł Polski 2050 Michał Gramatyka. Na początku września media informowały, że były lider partii Szymon Hołownia miałby zastąpić na stanowisku przewodniczącego klubu Polski 2050 Pawła Śliza.</description>
+      <pubDate>Tue, 15 Sep 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="false">706482b7c401</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-spotkanie-polski-2050-holownia-starym-nowym-szefem-klubu,nIdn,1017830">RMF24</source>
     </item>
     <item>
       <title>Reguluje pracę jelit. Powstają dobre bakterie, a kilogramy zaczynają spadać</title>
@@ -262,150 +406,6 @@
       <pubDate>Tue, 15 Sep 2026 17:55:57 GMT</pubDate>
       <guid isPermaLink="false">6288d74dbfa4</guid>
       <source url="https://tvn24.pl/lublin/owczarnia-pilny-komunikat-dla-tysiecy-mieszkancow-woda-z-kranu-tylko-po-przegotowaniu-st9238669?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>An Update on Wayback Machine Access</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/81253d3f58ce</link>
-      <description>We’ve heard you: “Fix the Wayback Machine!”</description>
-      <pubDate>Tue, 15 Sep 2026 17:52:18 GMT</pubDate>
-      <guid isPermaLink="false">81253d3f58ce</guid>
-      <source url="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">Hacker News</source>
-    </item>
-    <item>
-      <title>Zaskakujący związek. Brak popularnej witaminy może niszczyć jelita</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ab0579fa3ba6</link>
-      <description>Bóle brzucha, wzdęcia i problemy z wypróżnianiem to częste objawy zespołu jelita drażliwego. Naukowcy zwrócili uwagę na jeszcze jeden element: aż 82 proc. badanych osób z IBS miało niedobór witaminy D, a jej niski poziom wiązał się z bardziej dokuczliwymi objawami.</description>
-      <pubDate>Tue, 15 Sep 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="false">ab0579fa3ba6</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Zaskakujacy-zwiazek-Brak-popularnej-witaminy-moze-niszczyc-jelita,288910,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Kosmiczny&quot; budynek wśród drzew. Tak ma wyglądać nowe muzeum</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a9a539dc3f84</link>
-      <description>W Oborach koło Konstancina-Jeziorny ma powstać prywatne muzeum. Centralnym punktem zespołu kulturalno-edukacyjnego będzie futurystyczny budynek, który na wizualizacjach przypomina kosmiczny spodek. Projekt wymaga zmiany planu miejscowego, trwają już konsultacje społeczne.</description>
-      <pubDate>Tue, 15 Sep 2026 17:49:54 GMT</pubDate>
-      <guid isPermaLink="false">a9a539dc3f84</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/obory-kosmiczny-obiekt-wsrod-starych-drzew-tak-ma-wygladac-nowe-muzeum-st9236018?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Polscy siatkarze nie do zatrzymania. Kolejne zwycięstwo bez straty seta</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0c3b64b3f51f</link>
-      <description>Biało-Czerwoni nie zwalniają tempa. Polscy siatkarze odnieśli czwarte z rzędu zwycięstwo podczas mistrzostw Europy, pokonując Ukrainę 3:0. Podopieczni Nikoli Grbicia nie stracili jeszcze ani jednego seta i pewnie prowadzą w grupie B.</description>
-      <pubDate>Tue, 15 Sep 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">0c3b64b3f51f</guid>
-      <source url="https://www.rmf24.pl/fakty/sport/news-polscy-siatkarze-nie-do-zatrzymania-kolejne-zwyciestwo-bez-s,nIdn,1017823">RMF24</source>
-    </item>
-    <item>
-      <title>Jechał rowerem dla chorej partnerki. Został pobity, bo wzięli go za Ukraińca</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ac5fe4d86fe9</link>
-      <description>Rowerzysta z Chorzowa przemierzał trasę wokół historycznych granic Górnego Śląska, prowadząc zbiórkę na rzecz partnerki chorej na raka. W Ostrawie jego wyprawę przerwał brutalny atak. Pobity Jakub Heisig opowiada tvn24.pl, że napastnicy skojarzyli jego żółto-niebieski kapelusz z flagą Ukrainy. A jemu chodziło o barwy Śląska.</description>
-      <pubDate>Tue, 15 Sep 2026 17:43:39 GMT</pubDate>
-      <guid isPermaLink="false">ac5fe4d86fe9</guid>
-      <source url="https://tvn24.pl/katowice/ostrawa-przez-kapelusz-wzieli-go-za-ukrainca-i-pobili-st9238417?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>AI agents now have a place to snitch</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/59972d1f0a66</link>
-      <description>The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.</description>
-      <pubDate>Tue, 15 Sep 2026 17:42:59 GMT</pubDate>
-      <guid isPermaLink="false">59972d1f0a66</guid>
-      <source url="https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Amerykańskie zapasy amunicji na wyczerpaniu. Raport Pentagonu ujawnia</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a7fd1c576226</link>
-      <description>Wojna Stanów Zjednoczonych z Iranem przyniosła nie tylko ogromne koszty finansowe, ale także poważne problemy z uzupełnianiem zapasów amunicji – wynika z najnowszego raportu inspektora generalnego Pentagonu. Dokument ujawnia, że amerykańskie siły zbrojne stoją w obliczu strategicznych niedoborów, a straty w sprzęcie i ataki na bazy wojskowe sięgają miliardów dolarów.</description>
-      <pubDate>Tue, 15 Sep 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">a7fd1c576226</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-amerykanskie-zapasy-amunicji-na-wyczerpaniu-raport-pentagonu,nIdn,1017821">RMF24</source>
-    </item>
-    <item>
-      <title>Obradował zespół trójstronny. Wiemy, co dalej z pakietem reform</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0b19897cc0b8</link>
-      <description>Projektami reformy systemu wynagrodzeń i czasu pracy w ochronie zdrowia rząd ma się zająć w przyszłym tygodniu (22 września) - przekazało Ministerstwo Zdrowia na posiedzeniu Zespołu trójstronnego do spraw ochrony zdrowia.  Z informacji Rynku Zdrowia wynika, że AOTMiT przygotował rekomendacje progu udziału wydatków na wynagrodzenia w budżetach szpitali. Trafiły one do Ministerstwa Zdrowia.</description>
-      <pubDate>Tue, 15 Sep 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">0b19897cc0b8</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Obradowal-zespol-trojstronny-Wiemy-co-dalej-z-pakietem-reform,288931,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Putin nie zatrzyma się sam&quot;. Odważne wystąpienie szefowej dyplomacji UE</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/17469d04b16f</link>
-      <description>Rosja nasila działania hybrydowe przeciwko Europie, testując jedność państw UE, ich odporność oraz gotowość do reagowania - oceniła we wtorek w Parlamencie Europejskim szefowa unijnej dyplomacji Kaja Kallas. Jej zdaniem Europa powinna przejść do skutecznego odstraszania i nakładania na Rosję większych kosztów.</description>
-      <pubDate>Tue, 15 Sep 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">17469d04b16f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Putin-nie-zatrzyma-sie-sam-Odwazne-wystapienie-szefowej-dyplomacji-UE-9197541.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Michał Woś z zarzutami Prokuratury Krajowej. Poseł PiS ripostuje: Jeszcze tylko rok tej bandy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/73011a03ed01</link>
-      <description>Prokurator przedstawił posłowi PiS i byłemu wiceszefowi MS Michałowi W. zarzut przekroczenia uprawnień i niedopełnienia obowiązków przez funkcjonariusza publicznego w celu osiągnięcia korzyści majątkowej – poinformowała we wtorkowym komunikacie Prokuratura Krajowa.</description>
-      <pubDate>Tue, 15 Sep 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="false">73011a03ed01</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Michal-Wos-z-zarzutami-Prokuratury-Krajowej-Posel-PiS-ripostuje-Jeszcze-tylko-rok-tej-bandy-9197538.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Warning of space arms race as US confirms weapons in Earth&apos;s orbit</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7a4944a8a832</link>
-      <description>The BBC&apos;s defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.</description>
-      <pubDate>Tue, 15 Sep 2026 17:35:02 GMT</pubDate>
-      <guid isPermaLink="false">7a4944a8a832</guid>
-      <source url="https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Apel z Niemiec. &quot;Nie możemy lekceważyć&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2fe331724d4c</link>
-      <description>Niemiecki minister cyfryzacji Karsten Wildberger popiera powołanie światowej instytucji nadzorującej sztuczną inteligencję. Miałaby działać na wzór Międzynarodowej Agencji Energii Atomowej (MAEA).</description>
-      <pubDate>Tue, 15 Sep 2026 17:33:24 GMT</pubDate>
-      <guid isPermaLink="false">2fe331724d4c</guid>
-      <source url="https://tvn24.pl/biznes/tech/apel-z-niemiec-nie-mozemy-lekcewazyc-st9238428?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Ewakuacja Lotniska Chopina, pirotechnicy na miejscu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/636744476549</link>
-      <description>We wtorek wieczorem służby ewakuowały Lotnisko Chopina w Warszawie. Na miejsce wezwano pirotechników, którzy sprawdzają, czy pozostawiony bagaż stwarza zagrożenie.</description>
-      <pubDate>Tue, 15 Sep 2026 17:32:46 GMT</pubDate>
-      <guid isPermaLink="false">636744476549</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/wlochy/warszawa-ewakuacja-lotniska-chopina-st9238635?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Hamuje powstawanie polipów w jelitach. Jedz nawet codziennie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/45f313e36ec9</link>
-      <description>Polipy jelita grubego są bardzo częste, a ryzyko ich rozwoju wzrasta z wiekiem. Cześć z nich może przekształcić się w raka jelita grubego. Choć skłonność do polipów może być dziedziczna, mamy wpływ na niektóre czynniki ryzyka, w tym przede wszystkim na dietę.</description>
-      <pubDate>Tue, 15 Sep 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">45f313e36ec9</guid>
-      <source url="https://www.rynekzdrowia.pl/Nauka/Hamuje-powstawanie-polipow-w-jelitach-Jedz-nawet-codziennie,288905,9.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Nowe ustalenia w sprawie afery Zondacrypto. &quot;Panem X&quot; od ułaskawienia ma być Tomasz Sakiewicz</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d378621cd379</link>
-      <description>Politycy koalicji rządzącej wskazują na konieczność wyjaśnienia doniesień ws. „pana X”, który miał obiecywać prezesowi Zondacrypto Przemysławowi Kralowi ułaskawienie, a którym według mediów może być prezes TV Republika Tomasz Sakiewicz. Sakiewicz i PiS mówią o politycznej prowokacji.</description>
-      <pubDate>Tue, 15 Sep 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="false">d378621cd379</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Nowe-ustalenia-w-sprawie-afery-Zondacrypto-Panem-X-od-ulaskawienia-ma-byc-Tomasz-Sakiewicz-9197528.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Złoty interes Kairu na paraliżu Ormuz zagrożony. Tak rebelianci Huti krzyżują plany Egiptu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3e9f4e506987</link>
-      <description>Prezydent Egiptu Abdel Fattah el-Sisi i następca tronu Arabii Saudyjskiej Mohammed bin Salman spotkali się we wtorek w Kairze. Ograniczenie żeglugi przez Ormuz zwiększyło rolę Egiptu i jego wpływy z transportu ropy. Dochodom tym zagraża jednak ofensywa jemeńskich Huti w rejonie cieśniny Bab al-Mandab.</description>
-      <pubDate>Tue, 15 Sep 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="false">3e9f4e506987</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Zloty-interes-Kairu-na-paralizu-Ormuz-zagrozony-Tak-rebelianci-Huti-krzyzuja-plany-Egiptu-9197527.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>GEFS on OpenBSD: A Early Preview</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/71b96da065b3</link>
-      <description>Comments</description>
-      <pubDate>Tue, 15 Sep 2026 17:12:19 GMT</pubDate>
-      <guid isPermaLink="false">71b96da065b3</guid>
-      <source url="https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2">Hacker News</source>
-    </item>
-    <item>
-      <title>US military confirms it launched space weapons into Earth’s orbit</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2de3b34f2302</link>
-      <description>This is the first public acknowledgment that the U.S. military put a space weapon in Earth&apos;s orbit.</description>
-      <pubDate>Tue, 15 Sep 2026 17:09:06 GMT</pubDate>
-      <guid isPermaLink="false">2de3b34f2302</guid>
-      <source url="https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/">TechCrunch</source>
     </item>
   </channel>
 </rss>
