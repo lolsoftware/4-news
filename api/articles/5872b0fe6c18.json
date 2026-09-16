@@ -1,0 +1,13 @@
+{
+  "id": "5872b0fe6c18",
+  "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+  "originalTitle": "Google says some Pixel phone owners were hacked in zero-day attacks",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+  "publishedAt": "2026-09-16T14:47:07.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-09-16T07:47:07-07:00\">7:47 AM PDT · September 16, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Google says that a bug in its Pixel smartphones’ software was exploited in limited and targeted cyberattacks. The company <a rel=\"nofollow\" href=\"https://source.android.com/docs/security/bulletin/pixel/2026/2026-09-01\">said</a> Tuesday that the bug, tracked as CVE-2026-58704, has now been patched.&nbsp;</p>\n\n<p>According to the <a rel=\"nofollow\" href=\"https://nvd.nist.gov/vuln/detail/cve-2026-58704\">limited details about the vulnerability</a>, the bug was found in Pixel phones’ modem, which lets the device to connect to the internet. Exploiting the bug could allow an attacker to gain access beyond the sandboxed walls of the modem and into the broader phone’s data, a vulnerability known as privilege escalation.</p> <p>The bug can be exploited silently and without any interaction from the phone owner in what’s known as a “zero-click” attack, meaning a victim does not need to click on a link or open a file.</p>\n\n<p>Google did not say who was exploiting the bug, and a spokesperson for Google did not return a request for comment. It’s not uncommon for bugs like this one to be abused by surveillance vendors, <a href=\"https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/\">such as spyware makers</a>, who sell access to their data-stealing software to governments and law enforcement agencies.</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Security</h2>\n</p> </div></div>",
+  "image": "images/a59e950d3eb2.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
