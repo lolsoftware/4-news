@@ -1,0 +1,13 @@
+{
+  "id": "d7c63e80f239",
+  "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+  "originalTitle": "Apple reportedly building server packed with M-series Ultra chips for AI",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+  "publishedAt": "2026-09-16T22:02:46.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server to hit the market in nearly two decades—and could capitalize on the surging popularity of Apple hardware among AI developers.</p>\n<p>The enterprise server would come in two configurations that include either two or four of Apple’s future M8 Ultra chips, <a href=\"https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech\">according to The Information</a>. The project reportedly received support from <a href=\"https://arstechnica.com/tag/john-ternus/\">new Apple CEO John Ternus</a> when it began a year ago, back when Ternus led Apple’s hardware engineering efforts.</p>\n<p>This revelation coincides with booming sales for Apple’s Mac mini and Mac Studio as AI developers and companies snap up the Mac computers to run AI workloads. The popularity of such computing devices that rely on Apple’s M-series Ultra chips has undoubtedly encouraged Apple’s pursuit of an enterprise server using the same chips.</p>\n<p><a href=\"https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac\">The Information reported </a>that AI companies such as OpenAI have bought “tens of thousands” of Mac minis and Mac Studios to train AI agents through trial-and-error reinforcement learning, while Anthropic has also rented Mac minis from Amazon Web Services.</p> </div></div>",
+  "image": "images/868fb5a03e3f.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
