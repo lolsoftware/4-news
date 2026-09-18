@@ -1,0 +1,13 @@
+{
+  "id": "0d07d819dbcf",
+  "title": "Researchers used Claude to hack OpenAI",
+  "originalTitle": "Researchers used Claude to hack OpenAI",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+  "publishedAt": "2026-09-18T13:30:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>They exploited a flaw in the set-up of OpenAI’s community forum, which is hosted by a third-party, Discourse, and used it to gain access to internal sign-ons and eventually an OpenAI employee’s ChatGPT account. This ChatGPT account had access to internal code through GitHub.</p>\n<p>“We thank the researchers for contacting us and sharing their findings,” OpenAI said, adding that it had fixed the issues. Anthropic declined to comment. Hacktron did not immediately respond.</p>\n<p>The disclosure on Thursday, first reported by The Wall Street Journal, came as Anthropic published a new set of data that showed a rapid increase in how much the lab used AI to develop its new models.</p>\n<p>It said 26 percent of research and development work was “led by” its Claude model, up from 1 percent in March, meaning that AI completed the majority of tasks based on human instruction and under supervision.</p>\n<p>The company said that as AI systems become more powerful, they were “increasingly being used to build the next version of themselves.”</p>\n<p>Anthropic said it shared the data to help the public “understand how close the world is to reaching recursive self-improvement,” the point at which AI can train and improve itself or new models.</p>\n<p>This threshold is at the heart of concerns that AI systems will become more difficult to oversee, leading to a loss of human control.</p>\n<p>Its models did not yet operate fully autonomously for any of the research it studied, Anthropic added. On 90 percent of tasks, AI “collaborates” with a human and does large chunks of work.</p>\n<p><em><a href=\"https://www.ft.com/\">© 2026 The Financial Times Ltd</a>. <a href=\"https://www.ft.com/\">All rights reserved.</a> Not to be redistributed, copied, or modified in any way.</em></p> </div></div>",
+  "image": "images/347edc3944db.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
