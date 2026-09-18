@@ -1,0 +1,13 @@
+{
+  "id": "d35c7bfffe97",
+  "title": "The Implications of Linguistic Illegibility for LLM Security",
+  "originalTitle": "The Implications of Linguistic Illegibility for LLM Security",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://arxiv.org/abs/2609.02852",
+  "publishedAt": "2026-09-18T19:00:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"content-inner\"> <p><a href=\"https://arxiv.org/pdf/2609.02852\">View PDF</a> <a href=\"https://arxiv.org/html/2609.02852v1\">HTML (experimental)</a></p><blockquote> <span>Abstract:</span>LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic illegibility'' to broadly refer to scenarios in which an LLM's externalized or mechanistically-probed language artifacts fail to represent how the model actually thinks. We argue that the specter of linguistic illegibility is unavoidable for LLMs whose internal computations are not directly expressed via language, but rather math over activation spaces (with lossy translations between activation spaces and natural language happening at the bookends). If linguistic illegibility is always possible, then security mechanisms that rely on a model's linguistic self-reporting (e.g., chain-of-thought monitoring, constitutional self-critique, activation probing for linguistically-defined feature vectors) can never be completely sound; the model sandbox will always need isolation techniques whose guarantees do not depend on reading a model's linguistic state at all. We argue that observing a model's outputs using taint tracking is a promising approach for an effective sandbox: regardless of how a model linguistically self-reports, a taint tracking policy can define, a priori, various pieces of system state that should never be influenced by model-produced data. We also discuss several additional sandboxing mechanisms (e.g., robust virtualization, third-party auditing of sandboxing configurations) which collectively provide a critical floor beneath linguistic monitoring, and would have mitigated recent sandbox exploits by frontier models. </blockquote> <!--CONTEXT--> </div><div> <h2>Submission history</h2><p> From: James Mickens [<a href=\"https://arxiv.org/show-email/8f99c0d9/2609.02852\" rel=\"nofollow\">view email</a>] <br> <strong>[v1]</strong> Wed, 2 Sep 2026 17:37:22 UTC (33 KB)<br>\n</p></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
