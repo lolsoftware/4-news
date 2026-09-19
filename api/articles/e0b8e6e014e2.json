@@ -1,0 +1,13 @@
+{
+  "id": "e0b8e6e014e2",
+  "title": "Google’s Gemini is the latest AI model to hack other companies",
+  "originalTitle": "Google’s Gemini is the latest AI model to hack other companies",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+  "publishedAt": "2026-09-19T17:30:00.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-09-19T10:30:00-07:00\">10:30 AM PDT · September 19, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Google’s Gemini accessed the protected systems of three other companies in <a rel=\"nofollow\" href=\"https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?st=ZQ2NY6&amp;reflink=desktopwebshare_permalink\">what The Wall Street Journal reports</a> were the AI model’s first autonomous hacks.</p>\n\n<p>Similar to <a href=\"https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/\">OpenAI’s breach of Hugging Face</a>, the Gemini hacks were less noteworthy for being particularly sophisticated and more for the fact that they were conducted by an AI model. These breaches took place during cybersecurity testing by a company called Irregular. In one case, Gemini simply guessed passwords until it gained access; in the other two, it found credentials in a public repository.</p> <p>Irregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out. Google said it hadn’t previously revealed the hacks because Gemini had “acted appropriately” by ending each breach as soon as it determined it had hacked a real company.</p>\n\n<p>However, Jack Cable, the CEO of AI security company Corridor, told the WSJ that Google was “trying to hide behind the norms that have been created for vulnerability disclosure,” rather than acknowledging that “models are going outside the bounds of what they should be doing, and doing actual cyberattacks.”</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in AI</h2>\n</p> </div></div>",
+  "image": "images/9a8061ce3830.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
