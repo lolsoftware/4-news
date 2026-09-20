@@ -1,0 +1,13 @@
+{
+  "id": "3ca0b3917f4d",
+  "title": "English: A vs. An",
+  "originalTitle": "English: A vs. An",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+  "publishedAt": "2026-09-19T20:41:26.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<address> Blog post: 16 Sep 2026</address>\n\n<section><p>\nIn English, there is an “indefinite” article <kbd>a</kbd> that can go before a word. For example, <kbd>a raccoon</kbd>. But for some words, we use <kbd>an</kbd>. For example, <kbd>an apple</kbd>.\n</p>\n\n<p>\nWhen procedurally generating text, I want a function\n<code>a_or_an(\"apple\")</code> that tells me which article to use. That seems\nlike it’d be easy. We can check the first letter to see if it’s a\nvowel. But that would mean we output <kbd>an unicorn</kbd>, not <kbd>a unicorn</kbd>.\n</p>\n\n<p>\nThe actual rule is not whether the <em>written</em> word starts with a\nvowel letter, but whether the <em>spoken</em> word starts with a vowel\nsound. The word <kbd>&lt;unicorn&gt;</kbd> starts with vowel letter (<kbd>&lt;u&gt;</kbd>) but a\nconsonant sound (cmudict <code>Y</code>, ipa <code>/j/</code>). The word <kbd>&lt;hour&gt;</kbd> starts with a consonant letter (<kbd>&lt;h&gt;</kbd>) but a vowel sound (cmudict <code>AW</code>, ipa <code>/aʊ/</code>).\n</p> <p>\nI was curious how often these exceptions occurred, and whether they can be grouped together, so <a href=\"https://www.redblobgames.com/x/2635-a-vs-an/\">I spent a day looking at the data and building some visualizations and wrote up the results.</a> I was surprised that only 129 of the 32,455 words in my list needed exceptions.\n</p>\n\n<p>\n[LLM note: I did <em>not</em> use LLMs to write any of this code, but in hindsight, I should have. This is one-off code to answer a question. It doesn’t need to be clean or maintainable. It only needs to be correct. I would’ve spent more time on the trie simplification algorithm and less time on parsing cmudict and re-learning d3.js.]\n</p> </section>\n</div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
