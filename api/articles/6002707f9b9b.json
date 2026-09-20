@@ -1,0 +1,13 @@
+{
+  "id": "6002707f9b9b",
+  "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+  "originalTitle": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://sigabrt.dev/",
+  "publishedAt": "2026-09-19T10:47:59.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <!-- hero -->\n<div> <p><a href=\"#terminal\"> <span>ssh sigabrt.dev</span> <span>Work in progress</span> </a></p><h2> Know the moment your service stops running. </h2> <p> Your script pings a URL when it finishes. If the ping doesn't arrive on schedule, sigabrt emails you. </p> <p>10 heartbeats free. No card required.</p> </div>\n\n<!-- pulse trace -->\n<div> <p><span>nightly-backup · every 24h · 15m grace</span> <span>Mon — Thu</span> </p> <p><span>three nights of pulses, right on time</span> <span>Thu 03:15 — nothing arrived. Email sent.</span> </p> </div>\n\n<!-- steps -->\n<div> <div> <p>01</p> <p>Create an endpoint</p> <p>Name it, say how often it should report in, and how long you'll forgive it. You get a ping URL.</p> </div> <div> <p>02</p> <p>Add one line to the job</p> <p>A curl at the end of your script, after the work succeeds. No agent, no library, no credentials.</p> </div> <div> <p>03</p> <p>Forget about it</p> <p>Silence means it's fine. You only hear from us when a pulse doesn't arrive.</p> </div> </div>\n\n<!-- terminal: the one dark band on the page, since it is the one thing that happens in a terminal. Between the plain steps and the tinted feature list, so the paper sections around it still alternate. -->\n<div id=\"terminal\"> <p><span>In your terminal</span> <span>Work in progress</span> </p> <h2>Endpoints over SSH</h2> <p> Add your SSH public key in settings, then connect. Every endpoint’s status, schedule and recent events in your terminal. </p> <p> Early days: it only reads for now, and it will change as it grows. <a href=\"https://sigabrt.dev/contact\">Tell us</a> what you’d want from it. </p> </div>\n\n<!-- what you get -->\n<section> <dl> <p> <dt>Alerts</dt> <dd>Email and/or ntfy on status changes</dd> </p> <p> <dt>History</dt> <dd>Pulses and status changes</dd> </p> <p> <dt>Interval</dt> <dd>From one minute upward, with a grace period</dd> </p> </dl>\n</section>\n\n<!-- pricing -->\n<div> <div> <h2>One price.</h2> <p> Unlimited endpoints, unlimited heartbeats, 90 days of history. Start on the free tier and upgrade when it's carrying something you'd miss. </p> </div> <p><span>€15</span> <span>/ month</span> </p> </div> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
