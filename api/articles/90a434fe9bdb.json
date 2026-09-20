@@ -1,0 +1,13 @@
+{
+  "id": "90a434fe9bdb",
+  "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+  "originalTitle": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+  "publishedAt": "2026-09-20T15:58:52.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <task-lists disabled=\"\" sortable=\"\"> <div> <p dir=\"auto\">Nice! I just wanted to see what Laya does and put it behind Cloudflare's <code>typesafe/jev</code> API:</p>\n<div dir=\"auto\"><pre>curl https://laya.inference.zaitlabs.com/ai/run \\ -H <span><span>\"</span>Content-Type: application/json<span>\"</span></span> \\ -d <span><span>'</span>{</span>\n<span> \"state\": \"Help! My payouts have been failing for 3 days.\",</span>\n<span> \"questions\": {</span>\n<span> \"is_urgent\": {\"type\": \"noul\", \"instructions\": \"Does this convey urgency?\"}</span>\n<span> }</span>\n<span>  }<span>'</span></span></pre></div>\n<div dir=\"auto\"><pre>{<span>\"answers\"</span>:{<span>\"is_urgent\"</span>:{<span>\"type\"</span>:<span><span>\"</span>noul<span>\"</span></span>,<span>\"noul\"</span>:<span>0.7894</span>}}}</pre></div>\n<p dir=\"auto\"><a href=\"https://laya.inference.zaitlabs.com/terms\" rel=\"nofollow\">https://laya.inference.zaitlabs.com/terms</a></p> </div> </task-lists> </div></div>",
+  "image": "images/2aa7b6af6d49.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
