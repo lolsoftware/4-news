@@ -1,0 +1,13 @@
+{
+  "id": "4964965c532b",
+  "title": "Microsoft naprawił właśnie jeden z najbardziej irytujących błędów Windowsa 11",
+  "originalTitle": "Microsoft naprawił właśnie jeden z najbardziej irytujących błędów Windowsa 11",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/microsoft-naprawil-wlasnie-jeden-z-najbardziej-irytujacych-bledow-windowsa-11",
+  "publishedAt": "2026-09-21T10:15:07.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Użytkownicy Windowsa 11 od dwóch miesięcy narzekali na dość uciążliwy problem z Windows Defenderem. Teraz w końcu Microsoft postanowił go rozwiązać.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Nie ma co się oszukiwać. Windows 11 składa się z masy błędów, a kolejne aktualizacje może i naprawiają te poważniejsze, ale dokładają też do puli kolejne, jakby w innym wypadku miała zostać zachwiana równowaga wszechświata. Są jednak bugi, które irytują bardziej od innych, a jednym z nich był właśnie problem z Defenderem. Przez blisko dwa miesiące Windows 11 na niektórych komputerach ostrzegał, że Microsoft Defender został wyłączony. Problem w tym, że wcale nie był. Antywirus działał, skanował pliki, chronił system, a mimo to Windows Security regularnie wysyłał alert z prośbą o włączenie ochrony. Klikanie w powiadomienie prowadziło do aplikacji, w której wszystko świeciło się na zielono.</p>  <h2>Microsoft łata błędy. Właśnie pozbyli się jednego z bardziej irytujących</h2> <p>Microsoft w końcu rozwiązał sprawę. Wraz z aktualizacją bezpieczeństwa z 17 września 2026 roku błąd został naprawiony. Firma potwierdziła to w zaktualizowanej dokumentacji. Problem dotyczył wszystkich wersji Windows 11, Windows Server, a nawet Windows 10. Pierwsze zgłoszenia pojawiły się na początku sierpnia, ale dopiero pod koniec miesiąca Microsoft oficjalnie przyznał, że coś jest na rzeczy.</p> <p>Problem w tej całej sytuacji jest też taki, że Defender aktualizuje się codziennie, więc nie można było po prostu odinstalować jednej poprawki i wrócić do stanu sprzed problemu. Użytkownicy próbowali wyłączać i włączać ochronę, czyścić alerty, zmieniać ustawienia powiadomień, lecz nic nie pomagało. Windows Security ignoruje większość ustawień dotyczących powiadomień i zwykle ma ku temu dobre powody.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/bbc3e8c8acab.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
