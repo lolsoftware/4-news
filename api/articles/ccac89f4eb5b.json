@@ -1,0 +1,13 @@
+{
+  "id": "ccac89f4eb5b",
+  "title": "Meta’s AI agent has been blocked from using Amazon.com",
+  "originalTitle": "Meta’s AI agent has been blocked from using Amazon.com",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+  "publishedAt": "2026-09-21T17:55:18.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-09-21T10:55:18-07:00\">10:55 AM PDT · September 21, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. <a href=\"https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">As spotted by GeekWire</a>, the error message read: “Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.”</p>\n\n<p>In other words, Muse isn’t welcome as a shopper — and anyone trying to buy something on Amazon through the AI agent will have to find it somewhere else.</p> <p>It’s easy to see the block as a tête-à-tête between tech giants. Amazon has <a href=\"https://aws.amazon.com/nova/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">its own cohort of foundation models</a>, after all, along with <a href=\"https://aws.amazon.com/bedrock/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">one of the most popular inference platforms on the internet</a>. As long as they’re under no legal obligation to open the doors to Muse, why would they?</p>\n\n<p>But there are also substantive reasons Amazon might not want to be in the agentic commerce business just yet. If Muse makes a bad order, Amazon is going to be the one to clean it up — dealing with both the angry customer and the angry vendor. Muse has <a rel=\"nofollow\" href=\"https://artificialanalysis.ai/evaluations/omniscience#aa-omniscience-hallucination-rate\">one of the lower hallucination rates</a>, as AI models go, but it’s still pretty far from zero. Even if Amazon sees an opportunity in agent-driven commerce, they may want to wait a few more release cycles before rolling anything out.</p> </div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in AI</h2>\n</p> </div></div>",
+  "image": "images/3453d97b359e.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
