@@ -5,8 +5,72 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Tue, 22 Sep 2026 19:50:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:01:32 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Snorkel AI triples valuation to $3.5B as demand for AI training data booms</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7c67ad98e455</link>
+      <description>The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.</description>
+      <pubDate>Tue, 22 Sep 2026 21:56:43 GMT</pubDate>
+      <guid isPermaLink="false">7c67ad98e455</guid>
+      <source url="https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Trump threatens to &apos;annihilate&apos; Iran in UN speech as officials meet on sidelines</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d5298c203a11</link>
+      <description>In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.</description>
+      <pubDate>Tue, 22 Sep 2026 21:50:31 GMT</pubDate>
+      <guid isPermaLink="false">d5298c203a11</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Reforma ochrony zdrowia coraz bliżej. Rząd przyjął kluczowe projekty</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f275bf7095d3</link>
+      <description>Reforma ochrony zdrowia wchodzi w kolejny etap. Rada Ministrów przyjęła projekty ustaw o limitach zarobków i jawności postępowań konkursowych. Teraz trafią one do Sejmu. Rząd przyjął również projekt dotyczący wydłużenia obowiązującej sieci szpitali.</description>
+      <pubDate>Tue, 22 Sep 2026 21:48:00 GMT</pubDate>
+      <guid isPermaLink="false">f275bf7095d3</guid>
+      <source url="https://www.rynekzdrowia.pl/Prawo/Reforma-ochrony-zdrowia-coraz-blizej-Rzad-przyjal-kluczowe-projekty,289205,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Iran stawia twarde warunki USA. „Nie jesteśmy ich zabawką”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bef5669ef235</link>
+      <description>W kuluarach Zgromadzenia Ogólnego ONZ doszło do kluczowego spotkania przedstawicieli Iranu i Stanów Zjednoczonych. Teheran przedstawił nowe, zaostrzone warunki zakończenia wojny, domagając się m.in. zniesienia blokady Jemenu.</description>
+      <pubDate>Tue, 22 Sep 2026 21:33:00 GMT</pubDate>
+      <guid isPermaLink="false">bef5669ef235</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-iran-stawia-twarde-warunki-usa-nie-jestesmy-ich-zabawka,nIdn,1018777">RMF24</source>
+    </item>
+    <item>
+      <title>Trump says he can do business with Burnham but criticises &apos;terrible&apos; Chagos deal</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/86a1053c49f5</link>
+      <description>The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.</description>
+      <pubDate>Tue, 22 Sep 2026 21:22:36 GMT</pubDate>
+      <guid isPermaLink="false">86a1053c49f5</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Microsoft killed FoxPro in 2007. Anyway, here&apos;s FoxPro revived</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/267168497ec5</link>
+      <description>A modern IDE and 64-bit runtime for Visual FoxPro 9 applications: the same language, rebuilt on Electron, React and a Rust virtual machine in WebAssembly.</description>
+      <pubDate>Tue, 22 Sep 2026 21:00:30 GMT</pubDate>
+      <guid isPermaLink="false">267168497ec5</guid>
+      <source url="https://foxscript.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Kolejna kontuzja w reprezentacji Polski. Dodatkowe powołanie do kadry Urbana</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f8ade9a90be5</link>
+      <description>Kolejna zmiana w reprezentacji Polski. Sławomir Abramowicz, bramkarz Jagiellonii Białystok, został powołany do kadry narodowej na najbliższe mecze Ligi Narodów. Zastąpi Bartłomieja Drągowskiego, który został awaryjnie powołany dzień wcześniej w miejsce Kamila Grabary.</description>
+      <pubDate>Tue, 22 Sep 2026 20:59:00 GMT</pubDate>
+      <guid isPermaLink="false">f8ade9a90be5</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-kolejna-kontuzja-w-reprezentacji-polski-dodatkowe-powolanie-,nIdn,1018776">RMF24</source>
+    </item>
+    <item>
+      <title>Cities across US oppose Trump FCC plan to preempt local broadband rules</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/da525d3288bb</link>
+      <description>Cities defend permit requirements, say ISPs aren&apos;t building networks fast enough.</description>
+      <pubDate>Tue, 22 Sep 2026 20:38:30 GMT</pubDate>
+      <guid isPermaLink="false">da525d3288bb</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/">Ars Technica</source>
+    </item>
     <item>
       <title>Rząd likwiduje preferencyjny VAT na energetyki i piwo bezalkoholowe. Zmiany od 2027 roku</title>
       <link>https://lolsoftware.github.io/4-news/#/article/6241326e105a</link>
@@ -14,6 +78,14 @@
       <pubDate>Tue, 22 Sep 2026 20:23:00 GMT</pubDate>
       <guid isPermaLink="false">6241326e105a</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Rzad-likwiduje-preferencyjny-VAT-na-energetyki-i-piwo-bezalkoholowe-Zmiany-od-2027-roku,289204,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„Milionerka” Gretkowskiej albo „Lalka” dzisiaj</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7e9f1a3ceb5e</link>
+      <description>„To rzecz o tym, że tak naprawdę rządzi wszystkim pieniądz. W ‘Lalce’ Bolesława Prusa bohaterką była Izabela Łęcka, o którą starał się kupiec Stanisław Wokulski. W mojej książce występuje Zofia, córka współczesnego miliardera, przedsiębiorcy Adama Ulachta, który postanawia wżenić ją w książęcą rodzinę Potockich, bo chce ‘uarystokratycznić’ własną fortunę” – tak o swojej najnowszej powieści pt. „Milionerka” mówi Manuela Gretkowska w wywiadzie z dziennikarzem RMF FM Bogdanem Zalewskim. Fabuła tej bezkompromisowej satyry na współczesną Polskę – kraj ludzi opanowanych przez żądzę pieniądza, władzy, użycia i sławy – toczy się głównie w Warszawie i Konstancinie, ale także w zabytkowej weneckiej gondoli, na watykańskich salonach czy szwajcarskiej klinice.</description>
+      <pubDate>Tue, 22 Sep 2026 20:09:00 GMT</pubDate>
+      <guid isPermaLink="false">7e9f1a3ceb5e</guid>
+      <source url="https://www.rmf24.pl/fakty/kultura/news-milionerka-gretkowskiej-albo-lalka-dzisiaj,nIdn,1018774">RMF24</source>
     </item>
     <item>
       <title>Rządowy plan dla onkologii na 2027: więcej kadr, edukacja i inwestycje w szpitalach</title>
@@ -24,12 +96,52 @@
       <source url="https://www.rynekzdrowia.pl/Serwis-Onkologia/Rzadowy-plan-dla-onkologii-na-2027-wiecej-kadr-edukacja-i-inwestycje-w-szpitalach,289200,1013.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Qualcomm launches two new smartphone chips with emphasis on AI</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8ea6cbfd1c90</link>
+      <description>Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.</description>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">8ea6cbfd1c90</guid>
+      <source url="https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/">TechCrunch</source>
+    </item>
+    <item>
       <title>Rząd zmienia zasady poboru opłaty cukrowej. Nowy obowiązek dla producentów i importerów</title>
       <link>https://lolsoftware.github.io/4-news/#/article/b01375504917</link>
       <description>Rząd przyjął projekt zmian w opłacie cukrowej. Po nowelizacji obowiązek zapłaty ma zostać przeniesiony na producentów, importerów oraz podmioty nabywające napoje w UE, co ma uszczelnić system i zamknąć luki.</description>
       <pubDate>Tue, 22 Sep 2026 19:58:00 GMT</pubDate>
       <guid isPermaLink="false">b01375504917</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Rzad-zmienia-zasady-poboru-oplaty-cukrowej-Nowy-obowiazek-dla-producentow-i-importerow,289202,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Jacht pod polską banderą z tonami kokainy. Zatrzymano załogę</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/25d40e46cdc4</link>
+      <description>Hiszpańskie służby celne zatrzymały u wybrzeży Galicji 14-metrowy jacht pływający pod polską banderą. Na jego pokładzie znaleziono ponad dwie tony kokainy – podało we wtorek tamtejsze ministerstwo spraw wewnętrznych.</description>
+      <pubDate>Tue, 22 Sep 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="false">25d40e46cdc4</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-jacht-pod-polska-bandera-z-tonami-kokainy-zatrzymano-zaloge,nIdn,1018772">RMF24</source>
+    </item>
+    <item>
+      <title>Microsoft disrupts AI-assisted platform that compromised 12,000 accounts</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5e8b60d2c8d4</link>
+      <description>EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.</description>
+      <pubDate>Tue, 22 Sep 2026 19:45:47 GMT</pubDate>
+      <guid isPermaLink="false">5e8b60d2c8d4</guid>
+      <source url="https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/">Ars Technica</source>
+    </item>
+    <item>
+      <title>American power, AI and a walkout - key moments from Trump&apos;s UN speech</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c0f79202fab1</link>
+      <description>BBC correspondents who covered the president&apos;s address on Tuesday assess five key moments.</description>
+      <pubDate>Tue, 22 Sep 2026 19:44:44 GMT</pubDate>
+      <guid isPermaLink="false">c0f79202fab1</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Native apps written in TypeScript and CSS</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/26c8204975a1</link>
+      <description>Example Gea applications and tools — the app gallery used by the simulator, the embedded targets, GeaOS and the Apple targets. - geastack/examples</description>
+      <pubDate>Tue, 22 Sep 2026 19:42:20 GMT</pubDate>
+      <guid isPermaLink="false">26c8204975a1</guid>
+      <source url="https://github.com/geastack/examples">Hacker News</source>
     </item>
     <item>
       <title>Auto dachowało, kierowca chciał uciec innym samochodem </title>
@@ -56,6 +168,14 @@
       <source url="https://tvn24.pl/biznes/z-kraju/co-prezydent-zrobi-z-ustawa-o-podatku-od-firm-paliwowych-motyka-st9250399?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Lib Dems leave conference buoyed by Davey&apos;s message</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/982437b1960d</link>
+      <description>Concerns over Sir Ed Davey&apos;s leadership were dampened by pledges at conference and his performance.</description>
+      <pubDate>Tue, 22 Sep 2026 19:33:27 GMT</pubDate>
+      <guid isPermaLink="false">982437b1960d</guid>
+      <source url="https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
       <title>The human brain is two separate organs, study finds</title>
       <link>https://lolsoftware.github.io/4-news/#/article/49144d174525</link>
       <description>Comments</description>
@@ -70,6 +190,14 @@
       <pubDate>Tue, 22 Sep 2026 19:32:00 GMT</pubDate>
       <guid isPermaLink="false">43cf1ab6d574</guid>
       <source url="https://www.rmf24.pl/cwiczenia-twoje-zdrowie-fm/news-jak-zachecic-dziecko-do-cwiczen,nIdn,1018771">RMF24</source>
+    </item>
+    <item>
+      <title>Twoje dziecko nie lubi sportu? Poradnik dla rodzica</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e90a12ef1b5b</link>
+      <description>Coraz mniej ruchu, więcej ekranów i zwolnienia z WF-u. Skutki takiego stylu życia widać coraz wyraźniej – nadwaga, wady postawy, problemy z koncentracją i samopoczuciem. W cyklu „Twoje Zdrowie w Faktach RMF FM” radzimy, jak zadbać o dobrą kondycję dzieci. Dziś prawie co trzecie dziecko i nastolatek w Polsce zmaga się z otyłością. Pierwszy odruch wielu rodziców – zakazy i odchudzanie – często tylko pogarsza sprawę.</description>
+      <pubDate>Tue, 22 Sep 2026 19:32:00 GMT</pubDate>
+      <guid isPermaLink="false">e90a12ef1b5b</guid>
+      <source url="https://www.rmf24.pl/cwiczenia-twoje-zdrowie-fm/news-twoje-dziecko-nie-lubi-sportu-poradnik-dla-rodzica,nIdn,1018771">RMF24</source>
     </item>
     <item>
       <title>Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting</title>
@@ -272,140 +400,12 @@
       <source url="https://unreallabs.ai/blog/unreal-agent/">Hacker News</source>
     </item>
     <item>
-      <title>Radosław Sikorski: Gdybym był Władimirem Putinem, brałbym to poważnie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b30b44014a26</link>
-      <description>W swoim wystąpieniu na forum ONZ Donald Trump przyznał, że może skorzystać z niedawno podpisanej ustawy o cłach i sankcjach na Rosję, by zakończyć wojnę w Ukrainie. Pytany o słowa amerykańskiego prezydenta szef polskiej dyplomacji Radosław Sikorski powiedział, że „to duży straszak”. „Gdybym był Władimirem Putinem, brałbym to poważnie - podkreślił Sikorski.</description>
-      <pubDate>Tue, 22 Sep 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="false">b30b44014a26</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-radoslaw-sikorski-gdybym-byl-wladimirem-putinem-bralbym-to-p,nIdn,1018763">RMF24</source>
-    </item>
-    <item>
-      <title>Amerykańskie wojsko wraca na Grenlandię. Pakt podpisany w siedzibie ONZ</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4a48600017c8</link>
-      <description>Premierzy Danii i Grenlandii, Mette Frederiksen i Jens-Frederik Nielsen, wraz z prezydentem USA Donaldem Trumpem podpisali we wtorek porozumienie w kwestii bezpieczeństwa Grenlandii, autonomicznego duńskiego terytorium.</description>
-      <pubDate>Tue, 22 Sep 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="false">4a48600017c8</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Amerykanskie-wojsko-wraca-na-Grenlandie-Pakt-podpisany-w-siedzibie-ONZ-9201006.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Chcą pobić iPhone&apos;a. Ten smartfon ma nagrywać najlepsze wideo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ffffa26a5fad</link>
-      <description>Honor nie ukrywa ambicji: seria Magic 9 ma zaoferować mobilne nagrywanie na poziomie... kinowym.</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:39 GMT</pubDate>
-      <guid isPermaLink="false">ffffa26a5fad</guid>
-      <source url="https://antyweb.pl/chca-pobic-iphonea-ten-smartfon-ma-nagrywac-najlepsze-wideo">Antyweb</source>
-    </item>
-    <item>
-      <title>GPT-6 Sol and Luna</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/608eb672ebb7</link>
-      <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:34 GMT</pubDate>
-      <guid isPermaLink="false">608eb672ebb7</guid>
-      <source url="https://openai.com/index/introducing-gpt-6-sol-and-luna/">Hacker News</source>
-    </item>
-    <item>
-      <title>Plot targeting Manchester&apos;s Jewish community disrupted, say police</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8cfb34e4894b</link>
-      <description>Two men were arrested in Manchester on Sunday, say counter-terror police.</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:17 GMT</pubDate>
-      <guid isPermaLink="false">8cfb34e4894b</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/25f12aed5a13</link>
-      <description>OpenAI is launching two new models, which it says are cut from the same cloth as Astra.</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">25f12aed5a13</guid>
-      <source url="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Alarm nad Bałtykiem. Polskie myśliwce poderwane do rosyjskiego Iła</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f657e1d376b0</link>
-      <description>Szef MON poinformował, że we wtorek polskie myśliwce przechwyciły rosyjski samolot Ił-20. Maszyna znajdowała się około 40 kilometrów od polskiego wybrzeża.</description>
-      <pubDate>Tue, 22 Sep 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="false">f657e1d376b0</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-alarm-nad-baltykiem-polskie-mysliwce-poderwane-do-rosyjskieg,nIdn,1018762">RMF24</source>
-    </item>
-    <item>
-      <title>&quot;Łupy należą do zwycięzcy&quot;. Trump w ONZ mówi o AI, Iranie i dominacji USA</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d2d996533000</link>
-      <description>Prezydent USA Donald Trump zapowiedział w Zgromadzeniu Ogólnym ONZ rychłe zakończenie wojny w Ukrainie i możliwe sankcje na Rosję, zawarcie porozumienia z Iranem po listopadowych wyborach oraz dominację USA na zachodniej półkuli. We wtorkowym przemówieniu odrzucił jednocześnie ideę globalnych regulacji AI.</description>
-      <pubDate>Tue, 22 Sep 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="false">d2d996533000</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Lupy-naleza-do-zwyciezcy-Trump-w-ONZ-mowi-o-AI-Iranie-i-dominacji-USA-9201001.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Uwzględnią nawet darmowe próbki i reklamę. Rząd uszczelnia podatek cukrowy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c1e86008c71f</link>
-      <description>To producenci, importerzy i podmioty nabywające napoje będą uiszczały tzw. opłatę cukrową - poinformowała Kancelaria Prezesa Rady Ministrów, wskazując, że rząd przyjął we wtorek projekt zmian w tym zakresie.</description>
-      <pubDate>Tue, 22 Sep 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="false">c1e86008c71f</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Uwzglednia-nawet-darmowe-probki-i-reklame-Rzad-uszczelnia-podatek-cukrowy-9201000.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Earl Spencer should pull Diana book from shelves, Piers Morgan says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/328b6bf0e47d</link>
-      <description>Princess Diana&apos;s brother apologised to Morgan for a factual error in his memoir. Morgan said he is &quot;pursuing legal action&quot; against Spencer.</description>
-      <pubDate>Tue, 22 Sep 2026 17:50:13 GMT</pubDate>
-      <guid isPermaLink="false">328b6bf0e47d</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Władysław Kosiniak-Kamysz: polskie myśliwce przechwyciły rosyjski samolot nad Bałtykiem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0e2824a83060</link>
-      <description>Rosyjski samolot Ił-20 został przechwycony przez polskie myśliwce nad Bałtykiem około 40 kilometrów od naszego wybrzeża - przekazał szef MON Władysław Kosiniak-Kamysz.</description>
-      <pubDate>Tue, 22 Sep 2026 17:47:20 GMT</pubDate>
-      <guid isPermaLink="false">0e2824a83060</guid>
-      <source url="https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-polskie-mysliwce-przechwycily-rosyjski-samolot-il-20-nad-baltykiem-st9250379?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Sankcje dla ludzi Kremla przedłużone o trzy lata</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9044ea4586a9</link>
-      <description>Bruksela przedłużyła do 2029 roku sankcje na trzy tysiące osób i podmiotów w związku z rosyjską agresją na Ukrainę. Obostrzenia nałożone przed laty na dwóch oligarchów powiązanych z reżimem Putina zostały jednak zniesione.</description>
-      <pubDate>Tue, 22 Sep 2026 17:45:34 GMT</pubDate>
-      <guid isPermaLink="false">9044ea4586a9</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/unia-europejska-przedluzyla-o-3-lata-sankcje-na-3-tysiace-i-podmiotow-w-zwiazku-z-rosyjska-agresja-na-ukraine-st9250348?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>&quot;Katastrofa&quot; u sąsiadów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/40e1161482a7</link>
-      <description>Miał zatrzymać skrajną prawicę, ale to za jego rządów AfD odnosi kolejne triumfy. Po historycznej porażce CDU pod znakiem zapytania staje polityczna przyszłość kanclerza Friedricha Merza i stabilność niemieckiej sceny politycznej.</description>
-      <pubDate>Tue, 22 Sep 2026 17:44:09 GMT</pubDate>
-      <guid isPermaLink="false">40e1161482a7</guid>
-      <source url="https://tvn24.pl/swiat/niemcy-wybory-w-meklemburgii-katastrofa-u-sasiadow-st9249947?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Zakaz obejmie sanatoria. Kuracjusze płaczą, że to koniec pewnej ery</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/618ffddb4159</link>
-      <description>Szykują się duże zmiany w sprzedaży alkoholu, które mogą szczególnie mocno odczuć sanatoria. Nowe przepisy przewidują zakaz sprzedaży alkoholu na terenie zakładów leczniczych i w miejscach udzielania świadczeń zdrowotnych. Branża uzdrowiskowa ostrzega przed konsekwencjami.</description>
-      <pubDate>Tue, 22 Sep 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">618ffddb4159</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Zakaz-obejmie-sanatoria-Kuracjusze-placza-ze-to-koniec-pewnej-ery,288958,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Światowy Dzień Serca w Krakowie: Bezpłatne badania i porady na Rynku Głównym</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/20569fe0736a</link>
-      <description>Już w najbliższą niedzielę, 27 września, Rynek Główny w Krakowie zamieni się w centrum profilaktyki zdrowotnej. W ramach obchodów Światowego Dnia Serca mieszkańcy Krakowa i turyści będą mogli skorzystać z bezpłatnych badań oraz konsultacji ze specjalistami. To wyjątkowa okazja, by zadbać o swoje serce i dowiedzieć się, jak skutecznie chronić się przed chorobami układu krążenia.</description>
-      <pubDate>Tue, 22 Sep 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="false">20569fe0736a</guid>
-      <source url="https://www.rmf24.pl/regiony/krakow/news-swiatowy-dzien-serca-w-krakowie-bezplatne-badania-i-porady-n,nIdn,1018760">RMF24</source>
-    </item>
-    <item>
-      <title>Waymo’s latest expansion strategy: teenagers</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d5fdb2f15969</link>
-      <description>Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.</description>
-      <pubDate>Tue, 22 Sep 2026 17:36:06 GMT</pubDate>
-      <guid isPermaLink="false">d5fdb2f15969</guid>
-      <source url="https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/">TechCrunch</source>
-    </item>
-    <item>
-      <title>NASA-Funded Research Finds Complex Life Defying Record Heat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7c7c6ac41536</link>
-      <description>Lee esta historia en español aquí.</description>
-      <pubDate>Tue, 22 Sep 2026 17:33:10 GMT</pubDate>
-      <guid isPermaLink="false">7c7c6ac41536</guid>
-      <source url="https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/">NASA Breaking News</source>
+      <title>An update on how we confirm your age group on Discord</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d698dba71ba7</link>
+      <description>We’re launching a revamped, privacy-focused age assurance solution including methods that won’t require an ID or selfie. Here’s how it works.</description>
+      <pubDate>Tue, 22 Sep 2026 18:10:31 GMT</pubDate>
+      <guid isPermaLink="false">d698dba71ba7</guid>
+      <source url="https://discord.com/blog/safer-for-teens-same-discord-for-adults">Hacker News</source>
     </item>
   </channel>
 </rss>
