@@ -1,0 +1,13 @@
+{
+  "id": "24a6d9427f52",
+  "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+  "originalTitle": "OpenAI agent 'infiltrated' Australian government website, PM says",
+  "source": "BBC",
+  "category": "Świat",
+  "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-23T22:23:28.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"rich-text\" data-block=\"text\"><p><b>An artificial intelligence agent developed by OpenAI \"infiltrated\" an Australian government website in June, Prime Minister Anthony Albanese has said.</b></p><p>The agent gained unauthorised accessed to a statistics portal containing \"non-sensitive Medicare information\", Albanese told a news conference at the United Nations General Assembly in New York.</p><p>Medicare refers to Australia's universal healthcare scheme. The breach is among the first publicly reported AI-led hacks of a government website in the world.</p><p>OpenAI said it only became aware of the incident in August \"during an ongoing review of OpenAI misaligned model activity\", and informed Australian officials on 10 September.</p><p>While the review is ongoing, a spokesperson for the AI firm said that it is not believed that any patient records were accessed.</p><p>Albanese said the breach occurred in June this year, but OpenAI only informed government officials via email on 10 September.</p><p>The prime minister said he spoke directly to CEO of OpenAI Sam Altman to say that it had taken \"too long\" to inform authorities and \"to express Australia's extreme concern about this incident\".</p><p>He said the agent accessed both public and non-public files and a \"forensic investigation\" is under way to find out if other government systems were affected.</p><p>The investigation will be led by the Australian Signals Directorate, the country's cybersecurity agency. </p><p>The public-facing Medicare Statistics Reporting Service portal is administered by Services Australia, the main hub to redirect users to government services.</p><p>He told reporters: \"No personal information is believed to have been accessed at this stage, but investigations are ongoing.</p><p>\"Evidence currently available is there is no broader compromise to the Services Australia network. Nonetheless this situation is obviously unacceptable.\"</p><p>Earlier this year, <a href=\"https://www.bbc.co.uk/news/articles/c2el319vzr3o\">OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm</a> named Hugging Face.</p></div></div>",
+  "image": "images/c4ff12dd10aa.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
