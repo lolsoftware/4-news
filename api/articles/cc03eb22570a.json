@@ -1,0 +1,13 @@
+{
+  "id": "cc03eb22570a",
+  "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+  "originalTitle": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+  "publishedAt": "2026-09-22T21:25:18.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Anthropic further claims that the savings are closer to 40 percent compared to Opus 5 for typical workloads at default settings, because in addition to the cost of tokens going down, Opus 5.5 also uses fewer tokens when completing tasks.</p>\n<p>Opus 5.5 is said to be notably capable in “high risk areas” like cybersecurity and biology, so the same protections that applied to Fable 5.1 will also apply here—your requests might be automatically and transparently routed to an older model if they get flagged as treading into protected territory.</p>\n<h2>GPT-6 Sol and Luna: A modest, cost-focused upgrade</h2>\n<p>The <a href=\"https://openai.com/index/introducing-gpt-6-sol-and-luna/\">release</a> of OpenAI’s GPT-6 Sol and Luna is an iterative step forward. Not long ago, the company introduced its Sol, Terra, Luna naming convention for its GPT-5.6 family of models. And more recently (just this month), it introduced GPT-6 Astra, which has been both its most advanced and most powerful model.</p>\n<p>It may not be obvious what those names mean, so here’s the quick rundown. Astra is the most aggressively powerful (and pricey) model, meant for heavy-duty coding, research, and so on. Sol is a capable but more efficient and affordable alternative—meant to be the sort of daily driver for tasks like that. Terra is the balanced, general-use model. And Luna is the fast, cheap option.</p>\n<p>You could reasonably and roughly position Astra against Anthropic’s Fable, Sol against Opus, Terra against Sonnet, and Luna against Haiku, but it would be an imperfect mapping, especially for the higher-end models.</p>\n<p>OpenAI says GPT-6 Sol and Luna were trained with similar methods to those used to train GPT-6 Astra. Depending on the benchmark, they’re sometimes a few percentage points more capable than their predecessors at certain tasks, but they cost half as much to use.</p> </div></div>",
+  "image": "images/996ce31b4ecb.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
