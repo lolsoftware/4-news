@@ -1,0 +1,13 @@
+{
+  "id": "a4067eefe173",
+  "title": "Google's first Suncatcher orbital data center test launches October 1",
+  "originalTitle": "Google's first Suncatcher orbital data center test launches October 1",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+  "publishedAt": "2026-09-24T16:16:34.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <h2>The only real test</h2>\n<p>Google says it has conducted testing on the ground, but launching the satellite will provide a fuller picture of the current challenges. For example, the team will need to evaluate how Tensor chips handle space conditions. In many space missions, hardware is designed specifically for extreme temperatures or radiation, but these are the same TPUs that Google integrates into servers on the ground. Radiation can damage chips or simply interfere with calculations by flipping bits. But vibration and high g-forces during launch also pose problems. Still, as we’ve seen with missions like the <a href=\"https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/\">Ingenuity Mars helicopter</a>, off-the-shelf hardware can hold up pretty well out there.</p>\n\n<p>Cooling the chips <a href=\"https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/\">may be the biggest issue</a>, something many observers have pointed out as the AI industry has gone wild over the idea of orbital data centers. Radiator systems exist in space, but they’re designed to remove a relatively small amount of heat. AI accelerators generate far more heat by comparison. Google’s solution uses a layer of malleable “thermal interface material” that connects the chips to aluminum and copper heat pipes. Those components conduct heat into a radiator that can project it into space.</p>\n<p>Google will run Gemini models on the TPUs for testing, but they won’t be able to run continuously. The cooling system will only be able to operate in brief spurts of about 15 minutes. After that, the TPUs need to shut down to allow the radiators to catch up.</p>\n\n<p>With this first test, Google hopes to understand what does and doesn’t work, allowing it to improve its designs for future missions. The 2027 launches are still on the agenda, but the team expects it will be years before Suncatcher evolves from “project” to “product.”</p> </div></div>",
+  "image": "images/ab36e010c653.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}

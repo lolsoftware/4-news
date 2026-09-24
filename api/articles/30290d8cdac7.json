@@ -1,0 +1,13 @@
+{
+  "id": "30290d8cdac7",
+  "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+  "originalTitle": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+  "publishedAt": "2026-09-24T19:00:42.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-09-24T12:00:42-07:00\">12:00 PM PDT · September 24, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">The AI Lab <a href=\"https://prismml.com/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">PrismML</a> — founded by Caltech researchers and advised by UC Berkeley’s Ion Stoica — has created a version of its tiny language models for smart glasses running on Qualcomm’s Snapdragon chips.</p>\n\n<p>On Wednesday, at Qualcomm’s Snapdragon Summit, the chipmaker showcased PrismML’s 1-bit Bonsai LLM, which can be run locally on AI smart glasses built on the Snapdragon AR1 Gen 1 Platform.</p>\n\n<p>As TechCrunch previously reported, <a href=\"https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/\">PrismML’s claim to fame</a> is that it shrinks larger models substantially (in this case, by 4x), while retaining almost all of their performance on standard benchmarks. The smart glasses version is a 2-billion-parameter model tuned for vision and language, so wearers can ask what they’re looking at in real time.</p>\n\n<p>Prism’s larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have. The startup pitches this as an alternative to depending on the privacy promises of proprietary AI labs and their insatiable need for more compute. </p>\n\n<p>Releasing a model for Qualcomm’s chip is a step toward that vision. But no smart glasses running PrismML have been announced yet.</p> </div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in AI</h2>\n</p> </div></div>",
+  "image": "images/020167917413.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
