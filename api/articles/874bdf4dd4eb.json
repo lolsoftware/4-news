@@ -1,0 +1,13 @@
+{
+  "id": "874bdf4dd4eb",
+  "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+  "originalTitle": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+  "publishedAt": "2026-09-25T15:21:55.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Hype merchants <a href=\"https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/\">have a habit of overdoing it</a>, but there’s no denying that China is making the US look more than a little antiquated when it comes to electric vehicles. Some of that is due to a deep integration of connected services and an extension of the car as part of the owner’s digital life—think additional infotainment screens and AI personal assistants, but with an Android phone-maker’s cadence of updates rather than that of a traditional car company. Other advances sound more appealing. China’s OEMs are in a battle over who can charge the fastest, and this week, Geely fired its latest salvo.</p>\n<p>China might have a much younger driving culture than North America or Europe, but it has still been long enough to condition those drivers to how long it takes to fill a tank of gas. For all their many improvements over internal combustion engine vehicles—far greater efficiency, instant torque, very little NVH, more reliabiity, and so on—EVs do still take longer to recharge than it takes to refuel a car with a liquid.</p>\n<p>At least until now, it seems.</p>\n<p>Geely’s new battery can charge at up to 2.2 MW and will recharge from 10 to 70 percent in 4.5 minutes. A 10–98 percent charge takes 8 minutes and 40 seconds. Predictive thermal management is done through AI, with an average pack temperature of 55˚C and a peak temperature during charging of 65˚C, Geely said.</p>\n<p>And while you might think pumping large amounts of energy into a battery quickly and repeatedly could harm its health, Geely says that, using AI, the system applies micro pulses of current to “reactivate lithium ions accumulated at the negative electrodes during repeated fast charging,” extending battery life by 20 percent. The pack has been tested in both the Zeekr 001 and Lynk and Co 10—maybe we’ll see a Volvo or Lotus use the same tech someday.</p> </div></div>",
+  "image": "images/302f552b5612.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
