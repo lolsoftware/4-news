@@ -5,8 +5,186 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:22:16 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1947fc4b63e3</link>
+      <description>Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe&apos;s near-term plans.</description>
+      <pubDate>Fri, 25 Sep 2026 23:11:10 GMT</pubDate>
+      <guid isPermaLink="false">1947fc4b63e3</guid>
+      <source url="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Automattic has a new board after failed attempt to put CEO on leave</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0cd99ef8e5a1</link>
+      <description>After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.</description>
+      <pubDate>Fri, 25 Sep 2026 23:04:34 GMT</pubDate>
+      <guid isPermaLink="false">0cd99ef8e5a1</guid>
+      <source url="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/">TechCrunch</source>
+    </item>
+    <item>
+      <title>OpenAI investigating &apos;dozens&apos; of instances of agents acting improperly </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b26cc2f8862a</link>
+      <description>OpenAI agents tried to get information from &quot;governments, universities, public agencies, and other institutions&quot; through extreme means that sometimes curbed security controls, the company said.</description>
+      <pubDate>Fri, 25 Sep 2026 22:43:54 GMT</pubDate>
+      <guid isPermaLink="false">b26cc2f8862a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0411e2774483</link>
+      <description>AI agents operating in OpenAI&apos;s research environment posted user images on public image-hosting sites without the lab&apos;s knowledge.</description>
+      <pubDate>Fri, 25 Sep 2026 22:20:47 GMT</pubDate>
+      <guid isPermaLink="false">0411e2774483</guid>
+      <source url="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/">TechCrunch</source>
+    </item>
+    <item>
+      <title>„Lalka” na scenie (część 1)</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/bfa92ebc4b69</link>
+      <description>Bolesław Prus „Lalka” przerobiona na scenę przez Zygmunta Leśnodorskiego.</description>
+      <pubDate>Fri, 25 Sep 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">bfa92ebc4b69</guid>
+      <source url="https://przekroj.org/sztuka-opowiesci/lalka-na-scenie-czesc-1/">Przekrój</source>
+    </item>
+    <item>
+      <title>Iran offers US deal to reopen Strait of Hormuz in seven days</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6096d6a184eb</link>
+      <description>Asked about the Iranian offer, a US official said discussions were taking place through mediators.</description>
+      <pubDate>Fri, 25 Sep 2026 21:57:23 GMT</pubDate>
+      <guid isPermaLink="false">6096d6a184eb</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Senatorowie napisali list do Trumpa. Chodzi o Putina</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8a7bd2737457</link>
+      <description>Grupa amerykańskich senatorów zaapelowała do prezydenta Donalda Trumpa o cofnięcie zaproszenia dla Władimira Putina na grudniowy szczyt G20 na Florydzie. Politycy ostrzegają, że obecność rosyjskiego przywódcy może legitymizować agresję Rosji na Ukrainę i osłabić międzynarodową presję na Kreml.</description>
+      <pubDate>Fri, 25 Sep 2026 21:41:00 GMT</pubDate>
+      <guid isPermaLink="false">8a7bd2737457</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-senatorowie-napisali-list-do-trumpa-chodzi-o-putina,nIdn,1019270">RMF24</source>
+    </item>
+    <item>
+      <title>What Even Is an OS Now?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/63f0cec3bf1f</link>
+      <description>Computers now work the way I thought they did when I was 8. What does computing look like when most applications have an audience of 1-2 people? I&apos;m leaving Fly.io to build a phone for that world.</description>
+      <pubDate>Fri, 25 Sep 2026 21:36:56 GMT</pubDate>
+      <guid isPermaLink="false">63f0cec3bf1f</guid>
+      <source url="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/">Hacker News</source>
+    </item>
+    <item>
+      <title>Tragiczny finał interwencji policji. Nie żyje postrzelony funkcjonariusz</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f79819a1f2a8</link>
+      <description>Nie żyje młody policjant z Bolesławca, który został postrzelony w głowę podczas interwencji w Kraśniku Górnym. Lekarze do ostatniej chwili walczyli o jego życie.</description>
+      <pubDate>Fri, 25 Sep 2026 21:18:00 GMT</pubDate>
+      <guid isPermaLink="false">f79819a1f2a8</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-tragiczny-final-interwencji-policji-nie-zyje-postrzelony-fun,nIdn,1019269">RMF24</source>
+    </item>
+    <item>
+      <title>Black woman found hanging from tree was dead before body was &apos;staged&apos; - US media</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08a283bc51ba</link>
+      <description>Tasia Fortune&apos;s body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.</description>
+      <pubDate>Fri, 25 Sep 2026 21:16:59 GMT</pubDate>
+      <guid isPermaLink="false">08a283bc51ba</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Revealing the details of how OpenAI agents hacked Hugging Face</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9973f8e7ebb5</link>
+      <description>When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.</description>
+      <pubDate>Fri, 25 Sep 2026 21:09:27 GMT</pubDate>
+      <guid isPermaLink="false">9973f8e7ebb5</guid>
+      <source url="https://swarmtraces.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Excel now supports multiple values in a single cell</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ba61ea4130d4</link>
+      <description>Project trackers, surveys, inventory lists, and customer databases often contain related information that belongs together: multiple owners, tags, locations, or responses.
+For years, organizing that information in Excel meant spreading it across additional rows and columns or combining everything into text that was difficult to work with.
+Available today in Insiders Beta, lists, arrays in cells, and nested arrays introduce new ways to store and organize related information, helping you keep data together without sacrificing filtering, calculations, or analysis.
+Let&apos;s explore these new functionalities in the context of a project tracker.
+Start with lists
+&amp;nbsp;
+You can create a list with Insert &amp;gt; List or Ctrl+J, then type or paste items separated by commas or semicolons, depending on your regional settings. Selecting the icon in the cell shows the individual values.
+Each project may have multiple owners, workstreams, and milestones. Traditionally, you&apos;d need separate columns, helper tables, or text like &quot;Carlos, Henrietta, Jacob&quot; packed into a single cell.
+With lists, you can keep those values together in one cell while still working with each item individually. Project owners stay connected to the project they belong to, while remaining available for filtering, calculations, and analysis.
+&amp;nbsp;
+On the left, comma-separated text only allows filtering by whole text entries. On the right, lists allows for filtering by individual list items.
+Take calculations further with arrays in cells
+&amp;nbsp;
+Keep the result of any spilling formula in a single cell by &apos;wrapping&apos; the formula body with braces { }.
+Keeping project owners together is just the beginning.
+Projects often contain other groups of related information, such as milestone dates, deployment locations, or open risks. Often, that information is generated by formulas rather than entered manually.
+Traditionally, formulas that returned multiple results would spill those results across multiple cells. With arrays in cells, those results can remain together in a single cell while still being available for calculations and analysis.
+Handle more complex data with nested arrays
+&amp;nbsp;
+In the example above, you can see how TEXTSPLIT behaves with and without nested arrays. Without nested arrays, Excel only returns the first item for each row. With nested arrays, the result spills, one array per row.
+Sometimes the information associated with a project has structure of its own.
+For example, a website launch may include separate design, development, and testing workstreams, each with its own set of milestones. Nested arrays help preserve those relationships, keeping milestone groups tied to the workstream they belong to rather than combining everything into a single list.
+This creates a more natural way to organize and work with complex information in Excel.
+New functions for working with arrays
+We&apos;ve also added new functions designed to help you search, validate, and reorganize this data.
+
+Need a simple list of all milestones across every workstream? Use FLATTEN to consolidate nested results.
+Want to find projects owned by a specific person? Use HAS.
+Need to identify projects that involve any member of a leadership team? Use HASANY.
+Want to find projects that include every required stakeholder before launch? Use HASALL.
+
+Build more flexible spreadsheets
+Together, these capabilities expand the kinds of information Excel can represent and work with, making it easier to model real-world data while keeping related information organized. Whether you&apos;re managing projects, analyzing survey responses, tracking certifications, or organizing product data, you can keep related information together without giving up the flexibility to filter, calculate, and analyze it.
+For more in-depth information about lists, arrays in cells, nested arrays, and the new functions, learn more here: Put multiple values in one cell with lists and arrays in Excel | Microsoft Community Hub
+Learn more about joining Insiders Beta to get access to these tools today here &amp;gt;</description>
+      <pubDate>Fri, 25 Sep 2026 20:55:00 GMT</pubDate>
+      <guid isPermaLink="false">ba61ea4130d4</guid>
+      <source url="https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756">Hacker News</source>
+    </item>
+    <item>
+      <title>Mobilizacja w Jemenie przeciwko Huti. Amnestia dla rebeliantów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cba25775fedd</link>
+      <description>Przywódca uznawanych przez społeczność międzynarodową władz Jemenu, Raszad al-Alimi, ogłosił w Rijadzie powszechną mobilizację przeciwko rebeliantom Huti. Zapowiedział także amnestię dla tych, którzy zdecydują się opuścić szeregi wspieranego przez Iran ugrupowania.</description>
+      <pubDate>Fri, 25 Sep 2026 20:49:00 GMT</pubDate>
+      <guid isPermaLink="false">cba25775fedd</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-mobilizacja-w-jemenie-przeciwko-huti-amnestia-dla-rebelianto,nIdn,1019268">RMF24</source>
+    </item>
+    <item>
+      <title>Russia targeting &apos;ordinary life&apos; with attacks on Ukraine&apos;s data centres, Zelensky says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cef9fc91331b</link>
+      <description>Such strikes aim to disrupt &quot;people&apos;s ability to stay connected, study, work&quot;, says Ukraine&apos;s president.</description>
+      <pubDate>Fri, 25 Sep 2026 20:47:49 GMT</pubDate>
+      <guid isPermaLink="false">cef9fc91331b</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Bezbramkowy remis Polaków na start Ligi Narodów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c47271575476</link>
+      <description>Reprezentacja Polski rozpoczęła zmagania w grupie B4 piłkarskiej Ligi Narodów od bezbramkowego remisu z Bośnią i Hercegowiną.</description>
+      <pubDate>Fri, 25 Sep 2026 20:40:00 GMT</pubDate>
+      <guid isPermaLink="false">c47271575476</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-bezbramkowy-remis-polakow-na-start-ligi-narodow,nIdn,1019267">RMF24</source>
+    </item>
+    <item>
+      <title>Meta opens early access program for new Muse features</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b67b446e7aab</link>
+      <description>Anyone interested in joining has to ask Muse to put them on the list.</description>
+      <pubDate>Fri, 25 Sep 2026 20:34:53 GMT</pubDate>
+      <guid isPermaLink="false">b67b446e7aab</guid>
+      <source url="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/">TechCrunch</source>
+    </item>
+    <item>
+      <title>The hottest new hangout for middle schoolers is NPR’s comment section?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7b2e6478ca7c</link>
+      <description>When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.</description>
+      <pubDate>Fri, 25 Sep 2026 20:33:58 GMT</pubDate>
+      <guid isPermaLink="false">7b2e6478ca7c</guid>
+      <source url="https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Wołodymyr Zełenski &quot;zdenerwował się&quot; po sugestii Donalda Trumpa</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/90723e26ce66</link>
+      <description>Donald Trump miał zachęcać Wołodymyra Zełenskiego, aby ten udał się do Moskwy na spotkanie z Władimirem Putinem - donosi Bloomberg. Prezydent Ukrainy miał odrzucić tę propozycję.</description>
+      <pubDate>Fri, 25 Sep 2026 20:28:50 GMT</pubDate>
+      <guid isPermaLink="false">90723e26ce66</guid>
+      <source url="https://tvn24.pl/swiat/wolodymyr-zelenski-zdenerwowal-sie-po-sugestii-donalda-trumpa-st9255935?source=rss">TVN24</source>
+    </item>
     <item>
       <title>Adamed zwiększył udziały w Ecupharmie. Chce podwoić przychody we Włoszech</title>
       <link>https://lolsoftware.github.io/4-news/#/article/3d72f8c50290</link>
@@ -14,6 +192,38 @@
       <pubDate>Fri, 25 Sep 2026 20:28:00 GMT</pubDate>
       <guid isPermaLink="false">3d72f8c50290</guid>
       <source url="https://www.rynekzdrowia.pl/Farmacja/Adamed-zwiekszyl-udzialy-w-Ecupharmie-Chce-podwoic-przychody-we-Wloszech,289313,6.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„Na rakiecie”. Cięta riposta Zełenskiego na pytania dziennikarzy o wizytę w Moskwie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/945b49d200db</link>
+      <description>Donald Trump podczas spotkania z Wołodymyrem Zełenskim w Nowym Jorku próbował przekonać ukraińskiego przywódcę do bezpośrednich rozmów z Władimirem Putinem w Moskwie – ujawnił serwis Bloomberg. Osoby zaznajomione ze stanowiskiem prezydenta Zełenskiego przekazały, że propozycja Trumpa go zdenerwowała.</description>
+      <pubDate>Fri, 25 Sep 2026 20:19:00 GMT</pubDate>
+      <guid isPermaLink="false">945b49d200db</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-na-rakiecie-cieta-riposta-zelenskiego-na-pytania-dziennikarz,nIdn,1019265">RMF24</source>
+    </item>
+    <item>
+      <title>Man City found guilty of majority of 115 financial rule breaches</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/92adf4592a89</link>
+      <description>Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.</description>
+      <pubDate>Fri, 25 Sep 2026 20:11:12 GMT</pubDate>
+      <guid isPermaLink="false">92adf4592a89</guid>
+      <source url="https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Wielkie wezwanie na akcje Erste. Austriacy chcą większości udziałów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d0a3e7011881</link>
+      <description>Erste Group Bank AG ogłasza zamiar przeprowadzenia wezwania do sprzedaży akcji Erste Bank Polska w celu zwiększenia obecnego, 49-proc. udziału o dodatkowy pakiet do 26 proc. akcji. Cena w wezwaniu wyniesie około 713 zł za jedną akcję - poinformował Erste Securities, pośredniczący w wezwaniu.</description>
+      <pubDate>Fri, 25 Sep 2026 20:06:00 GMT</pubDate>
+      <guid isPermaLink="false">d0a3e7011881</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-BP-po-ok-713-zl-za-szt-opis-9203069.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>How we learned to stop worrying and love campus surveillance</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b4cdbb097b66</link>
+      <description>If you weren’t on campus this summer, then something you didn’t see – perhaps by design – was the installation of hundreds of small eyeball-shaped surveillance cameras. Building 1 alone now has 6-7 cameras per floor and The Tech has reported on the locations of more than 500 others.[1] Cameras point towards faculty members’ offices and bathroom entrances. Some are so close to faculty offices that their microphones could reasonably be expected to pick up and record what is said in those rooms.[2] It turns out that MIT is exploring adding AI capabilities provided by Ambient.ai. This could make searching for any particular person a snap. You could just type in: “Show me all footage of the curly-haired chemistry colleague going to the bathroom.” In the May 2026 Institute Faculty Meeting, the MIT administration acknowledged that they have already tested AI capacities on our campus without our knowledge or consent.</description>
+      <pubDate>Fri, 25 Sep 2026 19:56:57 GMT</pubDate>
+      <guid isPermaLink="false">b4cdbb097b66</guid>
+      <source url="https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/">Hacker News</source>
     </item>
     <item>
       <title>Wysoka wygrana w Eurojackpot w Polsce</title>
@@ -38,6 +248,14 @@
       <pubDate>Fri, 25 Sep 2026 19:40:59 GMT</pubDate>
       <guid isPermaLink="false">1e12a0a332b0</guid>
       <source url="https://tvn24.pl/biznes/z-kraju/wspolny-pit-takze-dla-par-jednoplciowych-donald-tusk-komentuje-decyzje-st9255914?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Ask HN: Who&apos;s still keeping a DOS machine up because the business depends on it?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/398b09218969</link>
+      <description>A certain nuclear power plant had a Windows NT 4.0 machine running as late as 2007. The reason is interesting.</description>
+      <pubDate>Fri, 25 Sep 2026 19:37:55 GMT</pubDate>
+      <guid isPermaLink="false">398b09218969</guid>
+      <source url="https://news.ycombinator.com/item?id=49848955">Hacker News</source>
     </item>
     <item>
       <title>Cztery lata inwestował w kryptowaluty. Stracił dostęp do konta, gdy próbował wypłacić pieniądze</title>
@@ -222,191 +440,6 @@
       <pubDate>Fri, 25 Sep 2026 18:11:00 GMT</pubDate>
       <guid isPermaLink="false">bcf1ec3a529d</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-najbardziej-polityczny-etap-podrozy-leona-xiv-ofensywne-prze,nIdn,1019259">RMF24</source>
-    </item>
-    <item>
-      <title>Trump po rozmowach z Xi Jinpingiem: to było bardzo owocne spotkanie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/172729a4099c</link>
-      <description>Spotkanie z przewodniczącym Chin Xi Jinpingiem było bardzo owocne, a jego efektem będą niesamowite rzeczy - oświadczył prezydent USA Donald Trump. Xi porównał z kolei siebie i amerykańskiego prezydenta do &quot;dwóch ludzi rozmawiających na statku będącym na wspaniałym kursie&quot;.</description>
-      <pubDate>Fri, 25 Sep 2026 18:10:43 GMT</pubDate>
-      <guid isPermaLink="false">172729a4099c</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-po-spotkaniu-z-xi-jinpingiem-bylo-bardzo-owocne-st9255812?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Katastrofa wojskowego samolotu w Kongu. Zginęło 13 osób, w tym generał</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d06195733836</link>
-      <description>W prowincji Kwango na południowym zachodzie Demokratycznej Republiki Konga doszło do katastrofy lotniczej. Samolot wojskowy rozbił się podczas próby awaryjnego lądowania. Wśród ofiar znalazło się trzech oficerów, w tym generał Likulia Bakumi.</description>
-      <pubDate>Fri, 25 Sep 2026 18:10:00 GMT</pubDate>
-      <guid isPermaLink="false">d06195733836</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-katastrofa-wojskowego-samolotu-w-kongu-zginelo-13-osob-w-tym,nIdn,1019258">RMF24</source>
-    </item>
-    <item>
-      <title>Londyn pod presją Brukseli. „Wróćcie do unii celnej albo zapłacicie cenę”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4c238c29faa1</link>
-      <description>Unia Europejska ostrzegła brytyjski rząd, że jeśli chce uniknąć barier związanych z polityką Made in Europe, powinien podnieść cła na chińskie samochody, a najlepiej – wrócić do unii celnej – pisze w piątek Financial Times.</description>
-      <pubDate>Fri, 25 Sep 2026 18:05:00 GMT</pubDate>
-      <guid isPermaLink="false">4c238c29faa1</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Londyn-pod-presja-Brukseli-Wroccie-do-unii-celnej-albo-zaplacicie-cene-9203026.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Syreny alarmowe zawyją w trzech dzielnicach. To testy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2ab55ba41104</link>
-      <description>We wtorek syreny alarmowe zawyją w trzech dzielnicach: Mokotowie, Wilanowie i Ursynowie. To testy, przeprowadzane będą prace serwisowe.</description>
-      <pubDate>Fri, 25 Sep 2026 18:01:45 GMT</pubDate>
-      <guid isPermaLink="false">2ab55ba41104</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/mokotow/warszawa-syreny-alarmowe-zawyja-na-mokotowie-wilanowie-i-ursynowie-to-testy-st9255804?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Trump boi się zatrzymać AI. „Spowolnienie AI załamie amerykańską gospodarkę”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/593100913970</link>
-      <description>Każdy tydzień przynosi niepokojące informacje, które budzą nowe obawy przed sztuczną inteligencją. Barack Obama i wielu innych polityków bądź ekspertów apeluje o wdrożenie mechanizmów bezpieczeństwa. Prezydent Donald Trump uważa jednak, że spowolnienie rozwoju AI załamie rozwój gospodarki USA - informuje New York Times.</description>
-      <pubDate>Fri, 25 Sep 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="false">593100913970</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-boi-sie-zatrzymac-AI-Spowolnienie-AI-zalamie-amerykanska-gospodarke-9203023.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Microsoft stops insisting you need a &quot;Copilot+ PC&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1869d87339dc</link>
-      <description>Microsoft&apos;s new Surface laptops forgo Copilot+ PC branding.</description>
-      <pubDate>Fri, 25 Sep 2026 17:57:37 GMT</pubDate>
-      <guid isPermaLink="false">1869d87339dc</guid>
-      <source url="https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/">Ars Technica</source>
-    </item>
-    <item>
-      <title>&quot;Zaobserwowaliśmy na razie dwie. To dla nas duże zaskoczenie&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4f95f17bf9a2</link>
-      <description>W płockim ogrodzie zoologicznym wykluły się anolisy sabańskie, niewielkich rozmiarów jaszczurki, które w warunkach naturalnych zamieszkują jedynie wulkaniczną wyspę Saba na Morzu Karaibskim.</description>
-      <pubDate>Fri, 25 Sep 2026 17:56:52 GMT</pubDate>
-      <guid isPermaLink="false">4f95f17bf9a2</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/okolice/plock-w-zoo-wykluly-sie-jaszczurki-ktore-w-naturze-wystepuja-tylko-na-jednej-wyspie-to-anolisy-sabanskie-st9255831?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>W Rosji niedźwiedzie zabijają ludzi. Zginęło co najmniej 20 osób</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/82486089f73d</link>
-      <description>Rosjanka została zaatakowana przez niedźwiedzia w swoim ogrodzie - nie przeżyła. W sumie w tym roku w Rosji zginęło już 20 osób. Zdaniem ekspertów to efekt zmian klimatycznych oraz niekompetencji człowieka. Kilka tygodni temu niedźwiedź zaatakował dwoje turystów w regionie Ałtaju. Wyciągnął 29-letnią kobietę z namiotu, zabił ją, a następnie zakopał w lesie.</description>
-      <pubDate>Fri, 25 Sep 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="false">82486089f73d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-w-rosji-niedzwiedzie-zabijaja-ludzi-zginelo-co-najmniej-20-o,nIdn,1019256">RMF24</source>
-    </item>
-    <item>
-      <title>Kanada odwraca się od USA i stawia na Szwecję. Ruszają negocjacje w sprawie samolotów GlobalEye</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5bace0b5c657</link>
-      <description>Rząd Kanady rozpoczął negocjacje ze szwedzkim Saabem w sprawie kupna samolotów wczesnego ostrzegania GlobalEye – poinformowano w piątkowym komunikacie.</description>
-      <pubDate>Fri, 25 Sep 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="false">5bace0b5c657</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Kanada-odwraca-sie-od-USA-i-stawia-na-Szwecje-Ruszaja-negocjacje-w-sprawie-samolotow-GlobalEye-9203019.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ostatnie godziny kampanii w Krakowie. Relacja na żywo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/39ae4e97660b</link>
-      <description>Piątek to ostatni dzień kampanii przed wyborami na prezydenta Krakowa. Głosowanie odbędzie się w niedzielę. Kandydaci spędzą ostatnie godziny przed ciszą wyborczą na przekonywaniu do siebie Krakowian. Finałowe wystąpienia relacjonujemy na żywo w tvn24.pl.</description>
-      <pubDate>Fri, 25 Sep 2026 17:46:39 GMT</pubDate>
-      <guid isPermaLink="false">39ae4e97660b</guid>
-      <source url="https://tvn24.pl/wybory-w-krakowie-2026/ostatnie-godziny-kampanii-w-krakowie-relacja-na-zywo-st9255803?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Świetna promocja na internet. 300 GB za darmo</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3304694567cc</link>
-      <description>Październik dla jednych oznacza powrót na studia, a dla innych (na przykład dla operatorów sieci komórkowych) powód do odpalenia ciekawych promocji. J...</description>
-      <pubDate>Fri, 25 Sep 2026 17:44:56 GMT</pubDate>
-      <guid isPermaLink="false">3304694567cc</guid>
-      <source url="https://antyweb.pl/swietna-promocja-na-internet-300-gb-za-darmo">Antyweb</source>
-    </item>
-    <item>
-      <title>Po śmierci generała Mirosława Różańskiego wybiorą nowego senatora</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/94c0ccaaad3e</link>
-      <description>22 listopada część mieszkańców województwa lubuskiego będzie wybierać nowego senatora. Wybory uzupełniające zarządzono po śmierci generała Mirosława Różańskiego (Trzecia Droga).</description>
-      <pubDate>Fri, 25 Sep 2026 17:43:33 GMT</pubDate>
-      <guid isPermaLink="false">94c0ccaaad3e</guid>
-      <source url="https://tvn24.pl/lubuskie/lubuskie-jest-termin-wyborow-uzupelniajacych-do-senatu-po-smierci-generala-miroslawa-rozanskiego-st9255802?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Służby zaskoczyły somalijskich piratów. Tankowiec z irańską ropą odbity</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3771eb79ba52</link>
-      <description>Władze Puntlandu, autonomicznego regionu Somalii, poinformowały w piątek o odbiciu z rąk piratów przez straż graniczną tankowca objętego amerykańskimi sankcjami. Statek został uprowadzony w sierpniu przez somalijskich piratów u wybrzeży Jemenu.</description>
-      <pubDate>Fri, 25 Sep 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="false">3771eb79ba52</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Sluzby-zaskoczyly-somalijskich-piratow-Tankowiec-z-iranska-ropa-odbity-9203011.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Wybory uzupełniające do Senatu. Prezydent Nawrocki wyznaczył termin</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/48b632176c20</link>
-      <description>Prezydent Karol Nawrocki zarządził wybory uzupełniające do Senatu w okręgu lubuskim. Nowy senator zastąpi zmarłego w sierpniu generała Mirosława Różańskiego. Głosowanie odbędzie się 22 listopada.</description>
-      <pubDate>Fri, 25 Sep 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="false">48b632176c20</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-wybory-uzupelniajace-do-senatu-prezydent-nawrocki-wyznaczyl-,nIdn,1019255">RMF24</source>
-    </item>
-    <item>
-      <title>Putin: W krajach bałtyckich łamane są prawa osób rosyjskojęzycznych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4c898e59bd86</link>
-      <description>Rosja z zadowoleniem przyjmuje negocjacje między USA a Chinami - powiedział dziś Władimir Putin w Petersburgu, nawiązując do 
-zakończonego właśnie spotkania Donalda Trumpa z chińskim przywódcą Xi Jinpingiem.</description>
-      <pubDate>Fri, 25 Sep 2026 17:34:00 GMT</pubDate>
-      <guid isPermaLink="false">4c898e59bd86</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-putin-w-krajach-baltyckich-lamane-sa-prawa-osob-rosyjskojezy,nIdn,1019254">RMF24</source>
-    </item>
-    <item>
-      <title>W naturze występują tylko na jednej wyspie świata. Teraz możemy je oglądać w Płocku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9bf1c1c8548a</link>
-      <description>W płockim zoo doszło do niecodziennego wydarzenia – na świat przyszły anolisy sabańskie, rzadkie jaszczurki, które w naturze występują jedynie na jednej karaibskiej wyspie. Narodziny tych niewielkich gadów to nie tylko powód do dumy dla ogrodu zoologicznego, ale także prawdziwa gratka dla odwiedzających.</description>
-      <pubDate>Fri, 25 Sep 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">9bf1c1c8548a</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-w-naturze-wystepuja-tylko-na-jednej-wyspie-swiata-teraz-moze,nIdn,1019253">RMF24</source>
-    </item>
-    <item>
-      <title>The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7174342327e9</link>
-      <description>Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.</description>
-      <pubDate>Fri, 25 Sep 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">7174342327e9</guid>
-      <source url="https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Some Supabase customers are publicly exposing reams of people’s data to the web</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/afee09e47d32</link>
-      <description>The findings highlight how AI-generated and vibe-coded apps can spill and expose users&apos; data when not configured or secured properly.</description>
-      <pubDate>Fri, 25 Sep 2026 17:29:46 GMT</pubDate>
-      <guid isPermaLink="false">afee09e47d32</guid>
-      <source url="https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Astra and Opus just passed Turing’s other test</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6ffcb5f81009</link>
-      <description>Frontier AI models are finishing Alan Turing&apos;s World War II codebreaking work.</description>
-      <pubDate>Fri, 25 Sep 2026 17:24:36 GMT</pubDate>
-      <guid isPermaLink="false">6ffcb5f81009</guid>
-      <source url="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/">TechCrunch</source>
-    </item>
-    <item>
-      <title>I&apos;m not tempted to call an early election, Burnham says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/304007b0327b</link>
-      <description>The prime minister told the BBC an early poll would throw the country into a &quot;backward-looking process&quot;.</description>
-      <pubDate>Fri, 25 Sep 2026 17:15:35 GMT</pubDate>
-      <guid isPermaLink="false">304007b0327b</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Nowe fakty ws. ataku na firmy zbrojeniowe w Monachium</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b38b567ee2af</link>
-      <description>„Za wrześniową próbą ataku na firmę zbrojeniową w Monachium stoi rosyjski wywiad wojskowy GRU. Zatrzymani obywatele Bułgarii należeli do zespołu operującego ze Słowacji” - podał w piątek dziennik &quot;Frankfurter Allgemeine Zeitung&quot;, powołując się na źródła w niemieckich kręgach bezpieczeństwa.</description>
-      <pubDate>Fri, 25 Sep 2026 17:08:00 GMT</pubDate>
-      <guid isPermaLink="false">b38b567ee2af</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-nowe-fakty-ws-ataku-na-firmy-zbrojeniowe-w-monachium,nIdn,1019250">RMF24</source>
-    </item>
-    <item>
-      <title>Ukraina będzie produkować Patrioty. Zełenski: Trump zgodził się przekazać licencje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/74095a4303b1</link>
-      <description>Prezydent Ukrainy Wołodymyr Zełenski oznajmił w piątek, że prezydent USA Donald Trump podjął ostateczną decyzję, że Ukrainie zostaną przekazane licencje na produkcję rakiet Patriot.</description>
-      <pubDate>Fri, 25 Sep 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="false">74095a4303b1</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Ukraina-bedzie-produkowac-Patrioty-Zelenski-Trump-zgodzil-sie-przekazac-licencje-9202989.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>W takiej cenie wiele osób nie będzie się zastanawiać. Chery Tiggo 7 HEV - test</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/86b93aa37fc0</link>
-      <description>Taka cena za takie auto to dla wielu spora okazja. A jak wypada w praktyce Chery Tiggo 7 w wersji HEV?</description>
-      <pubDate>Fri, 25 Sep 2026 17:00:43 GMT</pubDate>
-      <guid isPermaLink="false">86b93aa37fc0</guid>
-      <source url="https://antyweb.pl/w-takiej-cenie-wiele-osob-nie-bedzie-sie-zastanawiac-chery-tiggo-7-hev-test">Antyweb</source>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,13 @@
+{
+  "id": "b26cc2f8862a",
+  "title": "OpenAI investigating 'dozens' of instances of agents acting improperly ",
+  "originalTitle": "OpenAI investigating 'dozens' of instances of agents acting improperly ",
+  "source": "BBC",
+  "category": "Świat",
+  "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-25T22:43:54.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"rich-text\" data-block=\"text\"><p><b>OpenAI said Friday it had alerted \"dozens\" of global institutions that their websites may have been impacted by its AI agents acting improperly.</b></p><p>OpenAI agents attempted to get information from \"governments, universities, public agencies, and other institutions\" through sometimes extreme means, the company said.</p><p>While some of the activity was simply due to the tools working to find \"authoritative sources of public information,\" some went beyond that. Like an AI agent taking and transferring data when it should not have, OpenAI said.</p><p>Such activity resulted in at least 53 incidents where an OpenAI agent took an image from ChatGPT user activity and transferred it elsewhere.</p><p>The company said that in each instance of a user image being used and transferred by an AI agent, the user had allowed OpenAI to train models using their data. </p><p>Nevertheless, OpenAI admitted, \"This is not an appropriate use of this data\". </p><p>It added that the leak of user images occurred before it had put in place new safeguards on AI training, and it was working to get all the user images transferred to any third-party removed. </p><p>Reuters first reported these issues. </p><p>OpenAI also indicated on Friday that its software may have circumvented certain security controls of the sites impacted - though it doesn't necessarily mean each incident led to a significant security breach. </p><p>\"Some organizations may review what we share and conclude that the information was intentionally public or that the model's interaction was not concerning. Others may identify a design issue or security weakness they want to address,\" the company said.</p><p>OpenAI said it came across the incidents during an investigation that started after it learned that its AI models had hacked the AI platform Hugging Face, an incident that was revealed publicly last month.</p><p>The disclosures on Friday comes just days after Australian's Prime Minister Anthony Albanese said OpenAI had breached non-public files on the website of its government-run health care scheme, Medicare.</p></div></div>",
+  "image": "images/700de3eb1198.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
