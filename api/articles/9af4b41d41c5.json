@@ -1,0 +1,13 @@
+{
+  "id": "9af4b41d41c5",
+  "title": "Is your Postgres migration safe or not safe?",
+  "originalTitle": "Is your Postgres migration safe or not safe?",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://safenotsafe.dev/",
+  "publishedAt": "2026-09-26T07:33:12.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div><div><p><span>◆</span><span>migration.sql</span></p><p><span></span><span>CHECKING</span></p><p><span>⌥⇧F</span><span>⋯</span></p></div><p><span>session</span><span>›</span><span>migration.sql</span><span>›</span><span>0<!-- --> statement<!-- -->s</span></p><div><p><strong>CHECKING</strong></p><div><p>Loading PostgreSQL parser.</p><p>Downloading and compiling libpg_query WASM in a browser worker.</p></div><p><span></span><span>0<!-- --> flagged of <!-- -->0</span></p></div><div><p><span></span><span><span>bash</span><span>+</span><span>⌃`</span></span></p><div><div><p>$ npx safe-not-safe check </p><!-- --><p>migration.sql</p></div><p><span>parse</span><span>  <!-- -->libpg_query 17 (wasm) · initializing<!-- --> · <!-- -->0<!-- --> statements · <!-- -->301<!-- --> chars</span></p><p>note  Downloading and compiling the PostgreSQL WASM parser.</p><p>No statements found. Paste a migration or load a sample.</p><div><p><span>CHECKING</span> <span>— <!-- -->Loading PostgreSQL parser.</span></p><p>Downloading and compiling libpg_query WASM in a browser worker.</p></div><p>$ <span></span></p></div></div></div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
