@@ -5,8 +5,60 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 27 Sep 2026 19:49:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:07:02 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Inside Yemen&apos;s front-line city as Houthis battle for control</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c73d04cb3b95</link>
+      <description>In rare access to Yemen&apos;s conflict zone the BBC travels to the front line with pro-government soldiers.</description>
+      <pubDate>Sun, 27 Sep 2026 21:16:31 GMT</pubDate>
+      <guid isPermaLink="false">c73d04cb3b95</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Lunar Terminator Paradox</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd821f5b175f</link>
+      <description>There&apos;s an optical illusion known by names like the &quot;lunar terminator paradox&quot;.
+This has much discussion and descriptions online, but none made sense in my
+head, so I wrote this program to figure out what was going on. The paradox:</description>
+      <pubDate>Sun, 27 Sep 2026 21:06:17 GMT</pubDate>
+      <guid isPermaLink="false">cd821f5b175f</guid>
+      <source url="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">Hacker News</source>
+    </item>
+    <item>
+      <title>Wybory prezydenta Krakowa. Znamy wyniki late poll i cząstkowe wyniki PKW!</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1bfc36001e2b</link>
+      <description>Łukasz Gibała uzyskał 36,1 proc. poparcia w badaniu late poll OGB dla Polsat News w wyborach na prezydenta Krakowa. Na drugim miejscu znalazła się Monika Piątkowska z wynikiem 29,5 proc. – wynika z przekazanych danych.</description>
+      <pubDate>Sun, 27 Sep 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="false">1bfc36001e2b</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-late-poll-gibala-przed-piatkowska-w-wyborach-na-prezydenta-k,nIdn,1019405">RMF24</source>
+    </item>
+    <item>
+      <title>Anthropic’s CEO is about to have dinner with President Trump</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/32f206d5a41c</link>
+      <description>This will be the first one-on-one meeting between Dario Amodei and Donald Trump</description>
+      <pubDate>Sun, 27 Sep 2026 20:34:28 GMT</pubDate>
+      <guid isPermaLink="false">32f206d5a41c</guid>
+      <source url="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/">TechCrunch</source>
+    </item>
+    <item>
+      <title>When did Google get so weird?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f81e702f2ea3</link>
+      <description>I recently had an experience while doing a simple Google search that was so profoundly weird that it stopped me in my tracks.
+
+Understanding this Google se...</description>
+      <pubDate>Sun, 27 Sep 2026 20:12:54 GMT</pubDate>
+      <guid isPermaLink="false">f81e702f2ea3</guid>
+      <source url="https://sancho.bearblog.dev/google-weird/">Hacker News</source>
+    </item>
+    <item>
+      <title>Five arrested as counter-terror police investigate major incident near RAF Fairford</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/908d21c8ec89</link>
+      <description>The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.</description>
+      <pubDate>Sun, 27 Sep 2026 20:10:51 GMT</pubDate>
+      <guid isPermaLink="false">908d21c8ec89</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
     <item>
       <title>Przygotuj dom na pierwsze 72 godziny. 9 litrów wody na początek</title>
       <link>https://lolsoftware.github.io/4-news/#/article/4a3379e78492</link>
@@ -14,6 +66,62 @@
       <pubDate>Sun, 27 Sep 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">4a3379e78492</guid>
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Przygotuj-dom-na-pierwsze-72-godziny-9-litrow-wody-na-poczatek,289112,15.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>„To będzie walka o bezpieczny Kraków”. Monika Piątkowska nie składa broni</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fd719ffda8a5</link>
+      <description>Dwa tygodnie ciężkiej pracy zapowiedziała Monika Piątkowska po ogłoszeniu wyniku sondażu exit poll, zgodnie z którym przeszła do II tury wyborów prezydenta Krakowa. „To będzie walka o bezpieczny i stabilny Kraków” - powiedziała popierana przez KO i PSL kandydatka.</description>
+      <pubDate>Sun, 27 Sep 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fd719ffda8a5</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-to-bedzie-walka-o-bezpieczny-krakow-monika-piatkowska-nie-sk,nIdn,1019403">RMF24</source>
+    </item>
+    <item>
+      <title>Michał Drewnicki zaskakuje w exit poll. „Jestem bardzo zadowolony”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ef2836af1c2e</link>
+      <description>Michał Drewnicki, kandydat na prezydenta Krakowa, zajął trzecie miejsce w sondażach exit poll, osiągając wynik bliski 20 procent poparcia. To rezultat znacznie przewyższający wcześniejsze prognozy i efekt intensywnej, trwającej 111 dni kampanii. Drewnicki w rozmowie z RMF FM i Polsatem News wyraził ogromną satysfakcję z osiągniętego rezultatu oraz pracy swojego sztabu.</description>
+      <pubDate>Sun, 27 Sep 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ef2836af1c2e</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-wybory-na-prezydenta-krakowa-2026-kandydat-pis-komentuje-wyn,nIdn,1019404">RMF24</source>
+    </item>
+    <item>
+      <title>Can Muse overcome Meta’s trust issues?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f5ecb7d59028</link>
+      <description>On Equity, we discussed how Meta&apos;s AI announcement managed to steal the spotlight from OpenAI and Anthropic.</description>
+      <pubDate>Sun, 27 Sep 2026 19:57:30 GMT</pubDate>
+      <guid isPermaLink="false">f5ecb7d59028</guid>
+      <source url="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/">TechCrunch</source>
+    </item>
+    <item>
+      <title>„Krakowianie nie uwierzyli warszawskim politykom”. Gibała triumfuje w Krakowie</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/149a218220b4</link>
+      <description>„Mieszkańcy Krakowa nie uwierzyli warszawskim politykom” - powiedział zwycięzca pierwszej tury wyborów. Bezpartyjny radny miejski Łukasz Gibała zdobył – według sondaży exit poll – 36,6 proc. głosów w pierwszej turze wyborów prezydenta Krakowa. W drugiej turze, zaplanowanej na 11 października, ma zmierzyć się z Moniką Piątkowską, senator popieraną przez KO i PSL, która uzyskała 24,4 proc. poparcia.</description>
+      <pubDate>Sun, 27 Sep 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="false">149a218220b4</guid>
+      <source url="https://www.rmf24.pl/regiony/krakow/news-krakowianie-nie-uwierzyli-warszawskim-politykom-gibala-trium,nIdn,1019401">RMF24</source>
+    </item>
+    <item>
+      <title>Skrajna prawica rośnie w siłę we Francji. Historyczny sukces w wyborach do Senatu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/906429bdebcb</link>
+      <description>Po niedzielnych częściowych wyborach do francuskiego Senatu po raz pierwszy partie skrajnie prawicowe będą tam miały własną grupę. Utworzą ją wspólnie: Zjednoczenie Narodowe (RN) i stronnictwo UDR, dowodzone przez Erica Ciottiego. Grupę tworzy co najmniej 10 senatorów.</description>
+      <pubDate>Sun, 27 Sep 2026 19:48:00 GMT</pubDate>
+      <guid isPermaLink="false">906429bdebcb</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-skrajna-prawica-rosnie-w-sile-we-francji-historyczny-sukces-,nIdn,1019402">RMF24</source>
+    </item>
+    <item>
+      <title>Alan Kay&apos;s answer to “Did the ENIAC have a BIOS”?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/795e553b3396</link>
+      <description>Comments</description>
+      <pubDate>Sun, 27 Sep 2026 19:37:05 GMT</pubDate>
+      <guid isPermaLink="false">795e553b3396</guid>
+      <source url="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">Hacker News</source>
+    </item>
+    <item>
+      <title>Imp is a full port of DSPy to the BEAM</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/850c8e5ebd9e</link>
+      <description>declarative self-improving language-model programs for Elixir 😇 - deepfates/imp</description>
+      <pubDate>Sun, 27 Sep 2026 19:28:23 GMT</pubDate>
+      <guid isPermaLink="false">850c8e5ebd9e</guid>
+      <source url="https://github.com/deepfates/imp">Hacker News</source>
     </item>
     <item>
       <title>Przed nami druga tura wyborów w Krakowie. Naszym gościem będzie Monika Piątkowska</title>
@@ -46,6 +154,14 @@
       <pubDate>Sun, 27 Sep 2026 19:13:00 GMT</pubDate>
       <guid isPermaLink="false">f73b00e319e5</guid>
       <source url="https://www.rmf24.pl/regiony/krakow/news-monika-piatkowska-i-lukasz-gibala-goscmi-rmf-fm-dzien-po-i-t,nIdn,1019390">RMF24</source>
+    </item>
+    <item>
+      <title>What I did at Recurse Center</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0b1a272b0569</link>
+      <description>I spent the summer at Recurse Center, a programming retreat in Brooklyn, at the recommendation of my friend Cory. These are some things I did there.</description>
+      <pubDate>Sun, 27 Sep 2026 19:04:19 GMT</pubDate>
+      <guid isPermaLink="false">0b1a272b0569</guid>
+      <source url="https://thill.me/2026/09/11/what-i-did-at-rc.html">Hacker News</source>
     </item>
     <item>
       <title>Wybory prezydenta Krakowa. Znamy wyniki exit poll!</title>
@@ -294,118 +410,6 @@
       <pubDate>Sun, 27 Sep 2026 16:30:00 GMT</pubDate>
       <guid isPermaLink="false">6901e5768842</guid>
       <source url="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Tysiące kierowców rezygnuje z „zimówek”. Sprawdź to, zanim postawisz na opony całoroczne</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c8ff79a5ea97</link>
-      <description>Pierwsze chłodne poranki przypominają, że sezon zimowy nadchodzi wielkimi krokami. Będąc kierowcą, warto już teraz pomyśleć o ogumieniu w swoim samochodzie. Lepiej postawić na klasyczne „zimówki” czy na opony wielosezonowe? Coraz łagodniejsze zimy sprawiają, że wielu kierowców decyduje się na jeden, całoroczny komplet. To bardzo wygodne i przystępne rozwiązanie, ale nie jest pozbawione wad. Sprawdzamy, dla kogo opony wielosezonowe będą najlepszym wyborem, a kto powinien postawić na osobne komplety na lato i zimę.</description>
-      <pubDate>Sun, 27 Sep 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="false">c8ff79a5ea97</guid>
-      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-tysiace-kierowcow-rezygnuje-z-zimowek-sprawdz-to-zanim-posta,nIdn,1019026">RMF24</source>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: AV companies pick their lanes</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f3e67874a297</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
-      <pubDate>Sun, 27 Sep 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="false">f3e67874a297</guid>
-      <source url="https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Nie chcesz instalować Messengera? Możesz korzystać z niego inaczej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f448e20bacd1</link>
-      <description>Chcesz korzystać z Messengera bez instalowania aplikacji? Jest na to sposób i nie wymaga nadmiaru kombinowania. Co ważne, to oficjalne rozwiązanie stworzone przez Metę.</description>
-      <pubDate>Sun, 27 Sep 2026 16:00:03 GMT</pubDate>
-      <guid isPermaLink="false">f448e20bacd1</guid>
-      <source url="https://antyweb.pl/jak-wejsc-na-messenger-bez-aplikacji">Antyweb</source>
-    </item>
-    <item>
-      <title>UE nałożyła sankcje na szefową prokremlowskiej telewizji RT France Ksenię Fiodorową</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d8ae34e8a52b</link>
-      <description>Unia Europejska zdecydowała w czwartek o nałożeniu sankcji na byłą szefową prokremlowskiej telewizji RT France Ksenię Fiodorową w związku z jej udziałem w działaniach hybrydowych Rosji, w szczególności w manipulacji informacją.</description>
-      <pubDate>Sun, 27 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d8ae34e8a52b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/UE-nalozyla-sankcje-na-szefowa-prokremlowskiej-telewizji-RT-France-Ksenie-Fiodorowa-9202310.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>NFZ zmienia zasady. „Lekarze walizkowi” nie będą już wykonywać części zabiegów</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b4f686008142</link>
-      <description>Od 1 stycznia 2027 r. m.in. wybrane zabiegi ortopedyczne i urologiczne będą wykonywane wyłącznie w oddziałach specjalistycznych mających odpowiedni sprzęt i kadrę medyczną na miejscu — poinformował w czwartek NFZ. Ma to zmienić praktyki szpitali, które korzystają z usług tzw. lekarzy walizkowych.</description>
-      <pubDate>Sun, 27 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b4f686008142</guid>
-      <source url="https://www.bankier.pl/wiadomosc/NFZ-zmienia-zasady-Lekarze-walizkowi-nie-beda-juz-wykonywac-czesci-zabiegow-9202210.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Polscy naukowcy zbudowali system lokalizujący drony na podstawie ich dźwięków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/961bacaa565b</link>
-      <description>Naukowcy z Politechniki Łódzkiej opracowali urządzenie, które wykrywa i lokalizuje drony na podstawie wydawanych przez nie dźwięków.</description>
-      <pubDate>Sun, 27 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">961bacaa565b</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polscy-naukowcy-zbudowali-system-lokalizujacy-drony-na-podstawie-ich-dzwiekow-9202277.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Show HN: TinyAIArena watch AI agents battle it out</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/feb8ab8ab26f</link>
-      <description>Arrow keys: Left/Right · Home/End · Space: auto · Esc: menu · M: mute</description>
-      <pubDate>Sun, 27 Sep 2026 15:51:28 GMT</pubDate>
-      <guid isPermaLink="false">feb8ab8ab26f</guid>
-      <source url="https://tinyaiarena.com/">Hacker News</source>
-    </item>
-    <item>
-      <title>Rosja przetestuje NATO w Estonii? Oto hipotetyczny scenariusz wokół Narwy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1709bc01b826</link>
-      <description>Ograniczona rosyjska operacja w estońskiej Narwie mogłaby zostać wykorzystana do sprawdzenia spójności NATO i reakcji na zobowiązania wynikające z artykułu 5. – ocenia amerykański Instytut Studiów nad Wojną (ISW). Autorzy podkreślają jednak, że przedstawiony wariant nie jest prognozą ani informacją o planowanym ataku. Rosja działa wobec Europy w logice konfliktu, podczas gdy europejskie państwa nadal funkcjonują w logice pokoju — twierdzi ISW.</description>
-      <pubDate>Sun, 27 Sep 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="false">1709bc01b826</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-rosja-przetestuje-nato-w-estonii-oto-hipotetyczny-scenariusz,nIdn,1019384">RMF24</source>
-    </item>
-    <item>
-      <title>Spłoszony koń wbiegł w tłum. Wśród poszkodowanych jest dziecko</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/457acdd22c1d</link>
-      <description>Cztery osoby - w tym dziecko - zostały poszkodowane w miejscowości Górki w powiecie garwolińskim na Mazowszu. Spłoszony koń wbiegł tam w grupę widzów podczas Regionalnego Święta Hodowców Koni.</description>
-      <pubDate>Sun, 27 Sep 2026 15:44:00 GMT</pubDate>
-      <guid isPermaLink="false">457acdd22c1d</guid>
-      <source url="https://www.rmf24.pl/regiony/warszawa/news-sploszony-kon-wbiegl-w-tlum-wsrod-poszkodowanych-jest-dzieck,nIdn,1019385">RMF24</source>
-    </item>
-    <item>
-      <title>Rzeczniczka minister zdrowia rezygnuje. &quot;Zdrowie to najtrudniejszy z obszarów do komunikacji&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/66e528caab0c</link>
-      <description>Składam podziękowanie na ręce Jolanty Sobierańskiej-Grendy i całego kierownictwa resortu. Trzymam bardzo mocno kciuki za dalsze działania - napisała w mediach społecznościowych dotychczasowa rzeczniczka prasowa Ministerstwa Zdrowia Anna Choszcz-Sendrowska.</description>
-      <pubDate>Sun, 27 Sep 2026 15:37:00 GMT</pubDate>
-      <guid isPermaLink="false">66e528caab0c</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Rzeczniczka-minister-zdrowia-rezygnuje-Zdrowie-to-najtrudniejszy-z-obszarow-do-komunikacji,289333,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>The Normalization of Inexplicable Failures</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bb4a647c437a</link>
-      <description>In a recent episode of President Curtis , the President struggles with opening a door on two separate occasions. These doors don&apos;t work beca...</description>
-      <pubDate>Sun, 27 Sep 2026 15:26:40 GMT</pubDate>
-      <guid isPermaLink="false">bb4a647c437a</guid>
-      <source url="https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html">Hacker News</source>
-    </item>
-    <item>
-      <title>Social care reform could mean big risks and big rewards for Burnham</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ec8f4c883777</link>
-      <description>The state of the social care system in England is a topic that&apos;s made Andy Burnham angry for decades - but will his plans for reform work?</description>
-      <pubDate>Sun, 27 Sep 2026 15:23:10 GMT</pubDate>
-      <guid isPermaLink="false">ec8f4c883777</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Czas ucieka Ci przez palce? Naukowcy wyjaśniają, dlaczego z wiekiem dni wydają się krótsze</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5293c76fa139</link>
-      <description>Dlaczego wraz z upływem lat czas płynie coraz szybciej? Choć doba niezmiennie ma 24 godziny, nasz „czas mentalny” zaczyna działać na zupełnie innych obrotach. Naukowcy odkryli, że winne temu są nie tylko matematyczne proporcje, ale też rutyna, spadek dopaminy i życie na „autopilocie”. Sprawdź, co dzieje się w Twojej głowie, gdy mijają kolejne lata, i poznaj proste, codzienne triki, które pozwolą Ci oszukać mózg i spowolnić uciekające dni.</description>
-      <pubDate>Sun, 27 Sep 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="false">5293c76fa139</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-czas-ucieka-ci-przez-palce-naukowcy-wyjasniaja-dlaczego-z-wi,nIdn,1018860">RMF24</source>
-    </item>
-    <item>
-      <title>Apple znowu to zrobiło. Pierwsze wrażenia z AirPods 5</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f81e9dad7b1</link>
-      <description>Nowe AirPods 5 od Apple to zaskakujący produkt. Na szczęście, zdziwienie jest przede wszystkim pozytywne.</description>
-      <pubDate>Sun, 27 Sep 2026 15:00:29 GMT</pubDate>
-      <guid isPermaLink="false">3f81e9dad7b1</guid>
-      <source url="https://antyweb.pl/apple-znowu-to-zrobilo-pierwsze-wrazenia-z-airpods-5">Antyweb</source>
     </item>
   </channel>
 </rss>
