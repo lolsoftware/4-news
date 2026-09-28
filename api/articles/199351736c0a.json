@@ -1,0 +1,13 @@
+{
+  "id": "199351736c0a",
+  "title": "GrapheneOS – When an app is slow",
+  "originalTitle": "GrapheneOS – When an app is slow",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+  "publishedAt": "2026-09-28T18:21:31.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div id=\"page\">\n\t<p><a href=\"#content\"> Skip to content\t</a></p><!-- .sidebar --> <div id=\"content\"> <main id=\"main\"> <article id=\"post-14897\"> <!-- .entry-header --> <div> <div>\n\n</div> <p>I’ve been using <a href=\"https://blog.wirelessmoves.com/?s=grapheneos\">GrapheneOS for about a year now</a> and overall, I am very happy with the security and privacy features. There is one app, however, that runs noticeably slower on my Pixel 8 with GrapheneOS than on other Android devices: OpenstreetMap for Android (Osmand). The good side of this is that it has made me look for other map applications on Android, and <a href=\"https://blog.wirelessmoves.com/?s=comaps\">I’ve found CoMaps</a> that meets almost all of my needs. But still, I’d like use Osmand every now and then as well. So after looking around a bit, I found the reason behind why it is so slow on GrapheneOS and how to ‘fix it’.</p> <p>The reason behind it is the <strong>hardened memory allocator</strong>, which seems to create a significant overhead for Osmand. That might be because scrolling a map requires constant loading and discarding of data. The good news: The hardening can be deactivated on a per-app basis! And once switched it off, Osmand runs as fast again as ever.!This comes with a security drawback, however, but since Osmand is not loading anything from the Internet apart from the occasional maps update, the security vs. speed equation works for me.</p> <p><strong>To disable the hardened memory allocated</strong>, long-tap on the program icon, select ‘info’ and then scroll down to ‘Exploit protection’. Leave the protection on in general, just disable the ‘hardened memory allocator’. And that’s it! After restarting Osmand, it is much faster again!</p>\n\t</div><!-- .entry-content --> <!-- .entry-footer -->\n\n</article><!-- #post-14897 -->\n\n<!-- .comments-area --> <nav aria-label=\"Posts\"> <h2>Post navigation</h2> </nav> </main><!-- .site-main -->\n\t</div><!-- .site-content --> <!-- .site-footer -->\n\n</div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

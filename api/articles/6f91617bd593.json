@@ -1,0 +1,13 @@
+{
+  "id": "6f91617bd593",
+  "title": "Czarny ekran po zalogowaniu w Windows 11. Winna jeszcze sierpniowa łatka",
+  "originalTitle": "Czarny ekran po zalogowaniu w Windows 11. Winna jeszcze sierpniowa łatka",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/czarny-ekran-po-zalogowaniu-w-windows-11-winna-jeszcze-sierpniowa-latka",
+  "publishedAt": "2026-09-28T11:00:04.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Wrócił stary zabugowany Windows 11. Okazuje się, że aktualizacja z końcówki sierpnia nadal wpływa na niektóre komputery. Uważaj, by przy włączaniu urządzenia nie zostać z czarnym ekranem.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Windows 11 przez kilka miesięcy potrafił sprawiać wrażenie systemu, który wreszcie dorósł do swojej roli. Aktualizacje nie wywracały już połowy świata i wprowadzały funkcje, o które społeczność prosiła od dawna, a użytkownicy, zamiast nerwowo sprawdzać fora po każdym Patch Tuesday, mogli po prostu pracować. Niestety,nic co dobre nie może trwać wiecznie. Starsza łatka z sierpnia znowu nam bruździ. Tym razem zostawia nas z czarnym ekranem.</p>  <h2>Sierpniowa łatka przyczyną czarnego ekranu na twoim komputerze</h2> <p>Microsoft potwierdził 24 września (czasu lokalnego), że po zalogowaniu do Windows 11 system może nie załadować sesji pulpitu. Problem dotyczy komputerów z wersjami 26H1, 25H2 i 24H2, które otrzymały aktualizację z 27 sierpnia 2026 roku. Objawy są dość jednoznaczne: czarny ekran po zalogowaniu, brak automatycznego pulpitu, konieczność ręcznego uruchomienia sesji. W dzienniku zdarzeń aplikacji mogą pojawiać się informacje o awariach explorer.exe, czyli procesu odpowiedzialnego m.in. za pulpit, Eksplorator plików i pasek zadań. To dlatego system wygląda, jakby zapomniał, że ma interfejs.</p> <p>Co ciekawe, problem najczęściej obserwowano na hostach Azure Virtual Desktop, które korzystają z FSLogix, rozwiązania Microsoftu do zarządzania profilami użytkowników. Według firmy błąd występuje częściej przy istniejących, starszych profilach.</p> <p>Microsoft określił status zdarzenia jako „Mitigated”, czyli złagodzony. Doraźne obejście jest banalnie proste. Wystarczy nacisnąć Ctrl + Shift + Esc, aby otworzyć Menedżer zadań, wybrać „Uruchom nowe zadanie” i wpisać explorer.exe. Wtedy pulpit powinien wrócić. To rozwiązanie tymczasowe, ale pozwala odzyskać kontrolę nad komputerem bez reinstalacji systemu.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/c74beefaeeec.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

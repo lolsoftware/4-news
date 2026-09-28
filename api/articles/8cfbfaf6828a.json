@@ -1,0 +1,13 @@
+{
+  "id": "8cfbfaf6828a",
+  "title": "I made a visual workspace for AI Automations",
+  "originalTitle": "I made a visual workspace for AI Automations",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://www.biom.dev/",
+  "publishedAt": "2026-09-28T17:53:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\">\n\n<nav> <a href=\"#\" id=\"wordmark\"><img src=\"https://www.biom.dev/assets/logo/biom-wordmark.png\" alt=\"Biom\"></a> <span> <a href=\"https://www.biom.dev/pricing.html\" id=\"navPricing\">Pricing</a> <a href=\"https://discord.gg/Tx2hr6DzAR\" id=\"navDiscord\" target=\"_blank\" rel=\"noopener\"><img src=\"https://www.biom.dev/assets/marks/discord.svg\" alt=\"\"><span>Discord</span></a> <a href=\"https://github.com/jesse51002/Biom\" id=\"navGithub\" target=\"_blank\" rel=\"noopener\"><img src=\"https://www.biom.dev/assets/marks/github.svg\" alt=\"\"><span>GitHub</span></a> <a href=\"https://www.biom.dev/start.html\" id=\"navCta\">Get started</a> </span>\n</nav>\n\n<div aria-label=\"Biom\"> <h2 id=\"headline\"><span id=\"headBefore\">AI Automations Workspace<br>for Startups</span> <b id=\"headWord\"></b></h2> <p> <span id=\"subBefore\">Works with</span> <span id=\"agent\" aria-live=\"polite\"><span id=\"agentWord\">Gemini CLI</span></span> </p> <p><a href=\"https://www.biom.dev/start.html\" id=\"cta\">Get started</a> </p></div>\n\n<section aria-labelledby=\"builtHeading\"> <h2 id=\"builtHeading\">Built for AI-native teams</h2>\n</section>\n\n<section aria-labelledby=\"automateHeading\"> <h2 id=\"automateHeading\">Build automations in one prompt</h2> </section>\n\n<section aria-labelledby=\"truthHeading\"> <h2 id=\"truthHeading\">Your single source of truth</h2> </section>\n\n<section aria-labelledby=\"brainHeading\"> <h2 id=\"brainHeading\"><span id=\"brainBefore\"></span> <span id=\"brainSwap\"><span id=\"brainWord\"></span></span> <span id=\"brainAfter\"></span></h2> </section>\n\n<section aria-labelledby=\"chooseHeading\"> <h2 id=\"chooseHeading\">Let us run it, or bring your own agents</h2> <div id=\"chooseWays\"> <article> <h3 id=\"managedTitle\">Fully managed automations</h3> <p id=\"managedLine\">Model included, running 24/7.</p> </article> <article> <h3 id=\"ownTitle\">Use your agents</h3> <p id=\"ownLine\">Your agent, your keys.</p> </article> </div>\n</section>\n\n<section aria-labelledby=\"examplesHeading\"> <h2 id=\"examplesHeading\">What you can automate</h2> </section>\n\n<section aria-labelledby=\"closeHeading\"> <h2 id=\"closeHeading\">AI Automations Workspace<br>for Startups</h2> <a href=\"https://www.biom.dev/start.html\" id=\"closeCta\">Get started</a>\n</section> </div>",
+  "image": "images/dee002b4e98d.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

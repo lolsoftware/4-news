@@ -1,0 +1,13 @@
+{
+  "id": "32404e2b12d6",
+  "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+  "originalTitle": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://stateofutopia.com/experiments/microllmlab/",
+  "publishedAt": "2026-09-28T18:58:53.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <section id=\"panel-bench\"> <p> Objective checks (regex / exact tokens), not writing quality. A 135M model is allowed to fail — that <em>is</em> the measurement. Pick models, then run. Estimate uses your last tok/s if we have one. </p> <!-- Scoreboard Summary Banner --> <!-- Bottom navigation repeated at bottom of benchmarks --> </section> <section id=\"panel-compare\"> <p> Speed (tokens/s, sustained decode, suite wall) and accuracy (pass rate on objective tests) from runs in this browser. Numbers stay on this machine. Charts use the latest suite per model. </p> <!-- Scoreboard Summary Banner --> <!-- Verified Benchmark Certificate & Share Section --> <div id=\"cert-section\"> <p><label for=\"cert-user-name\">Your Name or Handle</label> </p> <p><label for=\"cert-device-info\">Device &amp; Hardware Information</label> </p> </div> <!-- Bottom navigation repeated at bottom of compare & certificate --> </section> <section id=\"panel-studio\"> <div> <h3>Write a benchmark in JavaScript</h3> <p> The editor is <code>eval()</code>’d in this origin, then each <code>check</code> runs on the model’s decoded text. </p> </div> <div> <h3>Prompt for a larger LLM</h3> </div> <div> <h3>Function form</h3> <pre id=\"ex-fn\"></pre> </div> <!-- Bottom navigation repeated at bottom of custom eval studio --> </section> </div></div>",
+  "image": null,
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
