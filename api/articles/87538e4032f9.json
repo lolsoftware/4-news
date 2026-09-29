@@ -1,0 +1,13 @@
+{
+  "id": "87538e4032f9",
+  "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+  "originalTitle": "OpenAI says planned GPT-6.1 is too insecure to release",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+  "publishedAt": "2026-09-29T14:22:31.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>OpenAI says it has canceled plans to release its updated GPT-6.1 model next month as it continues to investigate what testing shows is a safety regression compared to previous models.</p>\n<p>The move, <a href=\"https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42\">first reported by The Wall Street Journal</a> late Monday and later confirmed in OpenAI statements to the press, reflects what OpenAI Head of Safety Systems Saachi Jain said was a “trade off” between performance and security seen when testing the now-scrapped model. Jain said GPT-6.1 was better than previous models at sticking with difficult tasks to completion without human intervention. But the model was also more likely to fail tests related to alignment (i.e. staying within the bounds set by human creators) and more willing to use sometimes “unsafe” tools and services to push ahead with a task. It was also more likely to try to deceive end users about actions it did or didn’t take, Jain said.</p>\n<p>Last week, OpenAI said it was <a href=\"https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/\">halting training of its “most capable models”</a> following an incident in which a model attempted to circumvent Internet access restrictions. GPT-6.1 was not among those “most capable models” covered by that move, OpenAI told the WSJ. And while GPT-6.1 won’t be released as is, the company said it intends to use the same base model for further training runs that it said will hopefully lead to future GPT-6 generation models.</p> </div></div>",
+  "image": "images/a626f36b8978.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
