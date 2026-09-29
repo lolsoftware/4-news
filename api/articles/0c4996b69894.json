@@ -1,0 +1,13 @@
+{
+  "id": "0c4996b69894",
+  "title": "New device captures carbon dioxide by pumping it across a battery",
+  "originalTitle": "New device captures carbon dioxide by pumping it across a battery",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+  "publishedAt": "2026-09-28T20:31:06.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>The researchers tested a lab-scale device made of nine cells stacked together, each with an area of about half a letter-sized sheet of paper. A blower pushed air through sinuous air channels in the plates sandwiching each cell together (using components borrowed from fuel cells).</p>\n<p>This small device used electricity at a rate of about 0.8 megawatt-hours per ton of captured CO<sub>2</sub>. Current facilities capturing carbon from ambient air are in the neighborhood of 1.5 to 3 megawatt-hours per ton of CO<sub>2</sub>.</p>\n<h2>Piloting the process</h2>\n<p>Several of the researchers on the team are part of a startup called RepAir Carbon that is based on this technology, and part of the paper is spent on sketching out financial feasibility at scale.</p>\n<p>Estimating the cost for an initial small pilot plant (about $566 per ton of captured CO<sub>2</sub>), they use the <a href=\"https://en.wikipedia.org/wiki/Experience_curve_effect\">learning rate</a> from the lithium-ion battery industry and some common cost scaling for bigger plants to project forward a couple of pilot generations. For a plant with a thousand times the capacity of their pilot, they estimate they could get to $92 per ton of captured CO<sub>2</sub>.</p>\n<p>That would be much cheaper than has so far been achieved by companies like Climeworks, which is aiming to get down to <a href=\"https://climeworks.com/news/2024-year-in-review\">$250–$350 per ton</a> by 2030—and has demonstrated how difficult it can be to meet optimistic scaling projections.</p>\n<p>Targeting $100 per ton has long been the goal in the carbon-capture world, as costs that low could spur much wider adoption. Adding to the number of technologies being pursued may improve the odds that one of them reaches that goal.</p>\n<p>Nature Energy, 2026. DOI: <a href=\"http://dx.doi.org/%2010.1038/s41560-026-02129-z\"> 10.1038/s41560-026-02129-z</a> (<a href=\"http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars\">About DOIs</a>).</p> </div></div>",
+  "image": "images/a1f01a889240.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
