@@ -1,0 +1,13 @@
+{
+  "id": "501f76488836",
+  "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+  "originalTitle": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+  "source": "Hacker News",
+  "category": "Tech",
+  "url": "https://github.com/lostmsu/TurboGPT",
+  "publishedAt": "2026-09-29T19:20:02.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-hpc=\"true\" containertiming=\"hpc\"><article itemprop=\"text\">\n<p dir=\"auto\">Tiny byte-level GPT training in CUDA C++. MIT.</p>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Build</h2><a id=\"user-content-build\" aria-label=\"Permalink: Build\" href=\"#build\"></a></p>\n<p dir=\"auto\">Linux/NixOS:</p>\n<div dir=\"auto\" data-snippet-clipboard-copy-content=\"nix-build -o build/nix-result\"><pre>nix-build -o build/nix-result</pre></div>\n<p dir=\"auto\">Windows, Visual Studio 2022 C++ tools, and CUDA 13.4:</p>\n\n<p dir=\"auto\"><code>CudaArch</code> is the GPU compute capability from <a href=\"https://developer.nvidia.com/cuda-gpus\" rel=\"nofollow\">NVIDIA's CUDA GPU list</a>.</p>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Run</h2><a id=\"user-content-run\" aria-label=\"Permalink: Run\" href=\"#run\"></a></p>\n<div dir=\"auto\" data-snippet-clipboard-copy-content=\".\\build\\turbogpt.exe --data hn1g.txt --log-to runs/ctx4\"><pre>.\\build\\<span>turbogpt.exe</span> <span>--</span>data hn1g.txt <span>--</span>log<span>-</span>to runs<span>/</span>ctx4</pre></div>\n<p dir=\"auto\">The run stores its checkpoint at\n<code>runs/ctx4/ctx4.pt</code>, containing model, optimizer, scheduler, and trainer state.\nUse <code>--load CHECKPOINT.pt</code> to resume it.</p>\n<p dir=\"auto\"><code>runs/ctx4/report.json</code> is derived from the log directory. Logs are TensorBoard-compatible:\none report per batch, capped at 8Mi reports, and flushed with periodic or final checkpoints.</p>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Result</h2><a id=\"user-content-result\" aria-label=\"Permalink: Result\" href=\"#result\"></a></p>\n<ul dir=\"auto\">\n<li>hn1g after 1.5G training tokens: <strong>2.5295 BPB</strong>.</li>\n</ul>\n<p dir=\"auto\"><h2 tabindex=\"-1\" dir=\"auto\">Tests</h2><a id=\"user-content-tests\" aria-label=\"Permalink: Tests\" href=\"#tests\"></a></p>\n\n</article></div></div>",
+  "image": "images/d4f6465ea8d0.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
