@@ -1,0 +1,13 @@
+{
+  "id": "3f7097db6234",
+  "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+  "originalTitle": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+  "publishedAt": "2026-09-30T20:11:08.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google <a href=\"https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/\">promised Gemini 3.5 Pro</a> in June, but it spent the summer trotting out <a href=\"https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/\">smaller Flash models</a>. Now, Google is ready to take on the frontier again with <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=\">Gemini 4 Argon</a>. The company claims this new AI offers industry-leading performance in coding, knowledge work, and cybersecurity, but you aren’t allowed to use it yet.</p>\n<p>While most of us will have to wait to test Gemini 4, Google says engineers inside the company are already using the new model extensively. Argon reportedly used “fleet-wide telemetry data” to help Google save 300 TiB of memory across its data centers. Meanwhile, Argon agents have been working to migrate C/C++ codebases to Rust across Google, including thousands of lines in the core re2 and libgav1 libraries and more than 800,000 lines in the Fuchsia OS Zircon kernel.</p>\n<p>Google has also come armed with a raft of benchmarks to back up its claims. On the software engineering DeepSWE v1.1 benchmark, Gemini 4 Argon hits 77.9 percent, which is higher than GPT-6 Astra, Fable 5.1, and Opus 5.5. Google promises similar power across a range of long-horizon tasks, pointing to Argon’s industry-leading score in the economic analysis Vals Index test.</p> <p>Since this model is still in limited testing, Google has not announced API pricing yet. The company has, however, confirmed that Gemini 4 Argon will support a much higher output limit of 1 million tokens. That’s up from 64,000 tokens in previous Gemini models. Google says this allows users to complete more daunting tasks in a single step.</p> </div></div>",
+  "image": "images/6dbe0d014227.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
