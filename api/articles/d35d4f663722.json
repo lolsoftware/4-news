@@ -1,0 +1,13 @@
+{
+  "id": "d35d4f663722",
+  "title": "Windows 11 26H2 psuje gry i aplikacje. Uważaj przed aktualizacją",
+  "originalTitle": "Windows 11 26H2 psuje gry i aplikacje. Uważaj przed aktualizacją",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/windows-11-26h2-psuje-gry-i-aplikacje-uwazaj-przed-aktualizacja",
+  "publishedAt": "2026-10-04T09:00:23.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Microsoft nie ma ostatnio najlepszej passy. Problemy zaczęły kilka aktualizacji temu i ciągną do dzisiaj. Windows 11 26H2 miał być powiewem świeżości, a dostaliśmy kupę błędów. Dzień jak co dzień u giganta z Redmond.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Jeśli myślałeś, że wrześniowe aktualizacje Windows 11 to już przeszłość, mam złą wiadomość. Microsoft w październiku wciąż gasi pożary i to również nowe. Tym razem na celowniku są gry i aplikacje, które korzystają z wbudowanego dekodowania audio AC-3 (Dolby Digital). Po instalacji KB5124010 z 22 września mogą się nagle zamknąć, zawiesić albo w ogóle nie uruchomić. Wpływ mają na to takie błahostki jak zmiana głośności lu wejście w ustawienia.</p>  <h2>Windows 11 26H2 crashuje gry i programy</h2> <p>Problem dotyczy Windows 11 26H2, 25H2 i 24H2. Nawet jeśli zainstalowałeś KB5124010 na 25H2, a potem przeszedłeś na 26H2, bug może podróżować razem z Tobą, bo systemy dzielą wspólny kod. Microsoft przyznaje, że część aplikacji może się nie uruchomić, inne zamkną się bez ostrzeżenia, a jeszcze inne będą działać normalnie do momentu odtworzenia muzyki. Mimo to firma nie podaje konkretnej listy programów.</p> <p>Wrzesień był dla Windows 11 wyjątkowo brutalny. Najpierw KB5124008 przyniósł wyczekiwane funkcje: ruchomy pasek zadań, zmienny rozmiar menu Start i wyszukiwarkę bez Binga. Potem przyszła fala bezpieczeństwa w postaci 974 poprawek, co niestety poskutkowało falą błędów.</p> <p>Microsoft wydał awaryjną aktualizację KB5129195, która naprawiła Pulpit zdalny, folder sharing dla Claude Cowork i część problemów z dźwiękiem wielokanałowym. Niestety przy okazji zepsuła Historię plików. Kolejny, opcjonalny update miał to naprawić, ale w testach dalej nie aktualizowały się znaczniki czasu i wersje plików. Do tego doszły problemy z USB audio, czarne ekrany, błędy AMD GPU oraz WSL.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/8e8f85b69fa5.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
