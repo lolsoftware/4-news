@@ -1,0 +1,13 @@
+{
+  "id": "562acc36900e",
+  "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "originalTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "publishedAt": "2026-10-04T20:31:07.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-10-04T13:31:07-07:00\">1:31 PM PDT · October 4, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.</p>\n\n<p>Last year, TechCrunch reported that <a href=\"https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/\">cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs</a>. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software.</p>\n\n<p>In posts <a rel=\"nofollow\" href=\"https://x.com/GoogleVRP/status/2105689195180179605\">on X</a> and <a rel=\"nofollow\" href=\"https://bughunters.google.com/about/rules/open-source/google-open-source-software-vulnerability-reward-program-rules#reward-amounts\">the program website</a>, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027. <a rel=\"nofollow\" href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1\">According to Tom’s Hardware</a>, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations.</p>\n\n<p>“This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said.</p>\n\n<p>In the meantime, participants are encouraged to consider Google’s other bug bounty programs.</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in AI</h2>\n</p> </div></div>",
+  "image": "images/9bd71bb2db91.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
