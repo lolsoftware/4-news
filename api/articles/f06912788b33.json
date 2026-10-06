@@ -1,0 +1,13 @@
+{
+  "id": "f06912788b33",
+  "title": "Chcesz by Windows się blokował, gdy odejdziesz od komputera? Tak zrobisz to automatycznie",
+  "originalTitle": "Chcesz by Windows się blokował, gdy odejdziesz od komputera? Tak zrobisz to automatycznie",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/chcesz-by-windows-sie-blokowal-gdy-odejdziesz-od-komputera-tak-zrobisz-to-automatycznie",
+  "publishedAt": "2026-10-06T13:00:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Masz na komputerze ważne pliki służbowe, ale często zapominasz zablokować ekran, gdy odchodzisz od stanowiska? Ten proces można zautomatyzować. Oto jak to zrobić.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Zaczyna się niewinnie. Najpierw odchodzisz od komputera w biurze bez blokady. Przecież nic się nie stanie, w końcu wokół tylko współpracownicy, a ty wyszedłeś tylko po kawę. Ale nawyk zostaje i później robisz tak w domu przy dzieciach, na lotnisku, czy w kawiarni. A to już samo prosi się o katastrofę. Można się pilnować, można wciskać Windows+L za każdym razem, gdy wstajemy po kawę, ale w praktyce człowiek jest tylko człowiekiem. Jednak Windows 11 ma funkcję, która może cię w tym całkowicie wyręczyć. Chodzi o Dynamic Lock, funkcję wykorzystującą twój telefon jak wskaźnik obecności.</p>  <h2>Automatyczna blokada Windowsa. Wystarczy mieć telefon</h2> <p>Wszystko jest proste jak budowa cepa. Gdy telefon jest sparowany z komputerem przez Bluetooth, Windows obserwuje siłę sygnału. Kiedy sygnał osłabnie na tyle, że system uzna, że odeszliśmy, a komputer jest bezczynny, następuje automatyczna blokada. W ten sposób nie musisz sobie zaprzątać głowy ciągłym blokowaniem systemu.</p> <p>Konfiguracja tego rozwiązania również nie wymaga doktoratu z fizyki. Wystarczy otworzyć ustawienia, wejść w Bluetooth, a następnie urządzenia, by sparować smartfona z PC. Po upewnieniu się, że jest połączenie między komputerem a telefonem, przechodzimy do ustawień, do zakładki Konta, dalej Opcje logowania i przewijamy, aż znajdziemy opcję „Blokada dynamiczna”.</p> <p>Warto jednak znać ograniczenia. W przypadku tej funkcji następuje blokada komputera, czyli cofnięcie go do ekranu logowania. Nie jest on wyłączany ani usypiany. Co więcej, nie odblokowuje się automatycznie po powrocie. Funkcja bazuje na zasięgu Bluetooth, a ten może się różnić w zależności od komputera, telefonu, pomieszczenia, a nawet ścian.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/209befead635.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
