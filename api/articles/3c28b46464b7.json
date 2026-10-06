@@ -1,0 +1,13 @@
+{
+  "id": "3c28b46464b7",
+  "title": "Google Docs z nową funkcją. To świetny ruch w czasach AI",
+  "originalTitle": "Google Docs z nową funkcją. To świetny ruch w czasach AI",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/google-docs-z-nowa-funkcja-to-swietny-ruch-w-czasach-ai",
+  "publishedAt": "2026-10-06T07:30:20.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Google Docs idzie śladem Microsoftu. Teraz popularny edytor dokumentów będzie obsługiwał pliki .md</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Markdown przez lata żył na uboczu. Był formatem, który świetnie sprawdzał się w repozytoriach, dokumentacji i plikach README, ale w biurowym środowisku mało kto o nim słyszał. Sytuację zmieniła sztuczna inteligencja. Modele językowe, agenci AI i asystenci kodu stale piszą, czytają i przetwarzają Markdown. Właśnie dlatego ostatnia decyzja&nbsp; Google ma spore znaczenie.</p>  <h2>Google Docs będzie lepiej działał sobie z formatem Markdown</h2> <p>Do tej pory Google Docs radził sobie z Markdownem połowicznie. Pliki można było importować i eksportować, ale otwarcie istniejącego .md oznaczało konwersję do dokumentu Google. Ta zmieniała formatowanie i usuwała komentarze. Przez to Dokument wyglądał inaczej, a współpraca z zespołem stawała się utrudniona. Teraz Google Drive i Google Docs dodają natywne wsparcie dla plików .md i .markdown. Można je otwierać, edytować, komentować i współtworzyć bez żadnej konwersji. Obok tytułu pojawia się oznaczenie .md, więc od razu wiadomo, z jakim plikiem pracujemy.</p> <p>W czasach rozkwitu AI Markdown przestaje powoli być niszowy. Microsoft dodał możliwość przeglądania i edycji plików .md przez OneDrive w przeglądarce. Google idzie o krok dalej. Drive potrafi teraz renderować Markdown jako sformatowany dokument z klikalnymi linkami, tabelami i nagłówkami. Użytkownik może przełączać się między źródłem a podglądem. W Docs dostępne są edycja w czasie rzeczywistym i komentarze. Google wprost przyznaje, że chodzi także o scenariusze AI: współpracę agentów AI nad dokumentami i synchronizację z Gemini Notebook.</p> <p>Oczywiście nie obyłoby się bez ograniczeń. Markdown nie obsługuje wszystkich funkcji Docs. Smart chips zamienią się w tekst lub linki, formatowanie HTML stanie się zwykłym tekstem, a kolory czcionek, wyróżnienia i wyrównanie tekstu znikną.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/30eb9c7e3f02.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "26ad167a3d50",
+  "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+  "originalTitle": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+  "publishedAt": "2026-10-05T19:14:44.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>On Reddit, RemoveMacAI’s developer said the tool is open source and further explained how it works:</p>\n<blockquote><p>It uses a configuration profile you approve in System Settings plus Apple’s own asset service, so [<a href=\"https://support.apple.com/en-us/102149\">System Integrity Protection</a>] stays on and nothing in /System gets touched directly. removemacai revert removes the profile, and macOS downloads the models again when you turn a feature back on.</p></blockquote>\n<p>The dev also <a href=\"https://www.reddit.com/r/coolgithubprojects/comments/1ww1grk/comment/pdl25gz/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">said</a> you can remove only the Apple Intelligence features you don’t want and keep the others.</p>\n<p>Some users on Reddit have reported that the tool works, and it has 1,700 stars on GitHub as of this writing.</p>\n<p>Interest in RemoveMacAI demonstrates the aversion that some users have to some or all of Apple Intelligence’s features, despite growing focus from Apple on AI-driven device and software upgrades in its computers and <a href=\"https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/\">other devices</a>.</p>\n<p>“Reminds me of all the de-crufting you’ve always needed to do when you install Windows. Looks like we’ve gotten to the point on macOS too, where you need to run third-party scripts on a new OS installation to gain back control of your system resources and remove unwanted crapware,” a <a href=\"https://news.ycombinator.com/item?id=49957116\">Hacker News</a> user wrote in response to RemoveMacAI.</p>\n<p>Although many users are happy to leverage Apple Intelligence in their gadgets, RemoveMacAI is a simple way for the rest to regain control over Apple Intelligence’s presence on their computers that Apple previously offered.</p> </div></div>",
+  "image": "images/038b5f78d1de.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
