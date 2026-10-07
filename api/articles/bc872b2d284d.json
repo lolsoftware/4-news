@@ -1,0 +1,13 @@
+{
+  "id": "bc872b2d284d",
+  "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+  "originalTitle": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+  "publishedAt": "2026-10-06T16:15:50.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Even when that update arrives, only Samsung phones with Android 17 will work. If you have an older or cheaper phone, you may not get the necessary OS update until later. And Samsung is actually better about update support than most device makers. Motorola released its 2026 phones with Android 16, and they’re still waiting on a final update to version 17. OnePlus, which has recently <a href=\"https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/\">scaled back</a> its operations in several markets, is also still testing Android 17. Xiaomi has rolled out Android 17 to some high-end devices, but Googlebooks aren’t available in most of its core markets.</p>\n<p>This leaves Pixel phones as the only option if you want proper mobile integration with your new Google laptop today. The Googlebook platform probably appeals more to people who already use the company’s bespoke Android phones, but Samsung is by far the largest Android OEM. Launching Googlebooks without Samsung support, and not being clear about that in any public statements, is not a great start for Google’s refreshed laptop effort.</p>\n<p>The core issue is that Googlebooks rely on features that are exclusive to Android 17. This used to be a common issue with Android, as phones from various manufacturers often lag behind on major OS updates. However, Google has worked to move more features into Google Play Services and create a modular system layer to accelerate updates. The result is that you don’t usually have to care what build of Android your phone runs anymore—there are very few features exclusive to new versions today, but Googlebook support is apparently one of them.</p> </div></div>",
+  "image": "images/ccfdd08ba424.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
