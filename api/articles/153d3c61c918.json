@@ -1,0 +1,13 @@
+{
+  "id": "153d3c61c918",
+  "title": "Google rolls out improved SynthID AI content detector, now available globally",
+  "originalTitle": "Google rolls out improved SynthID AI content detector, now available globally",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+  "publishedAt": "2026-10-07T14:00:08.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>You have to log in to use the tool, but it supports Google, OpenAI, and Apple accounts. While the detector is available to anyone, the login requirement limits how much you can use it. Google says each user gets “a daily usage quota of approximately 10 image, video, and audio checks.”</p>\n<p>The previous detection tools had a similar limit. Google engineers have told Ars that limiting access is necessary to prevent people from using the checks to develop SynthID removal tools. The fuzziness about the exact number is likely because the system may lock you out sooner if you’re checking multiple images that are very similar. This could signal someone is trying to tune a bypass workflow.</p>\n<h2>Labeling lies</h2>\n<p>Expanding access to SynthID detection is a good thing—it’s a convenient single destination to check media for the signature of popular AI tools. However, Google’s partners are far from the only sources of AI content.</p>\n<p>Some model providers use different watermarking tech (like Meta), while others use no watermarks at all. And then there are open-weight models that people can run on their own hardware to produce increasingly realistic AI content that doesn’t even include simple metadata labeling.</p>\n<p>That means there is plenty of AI content that will not be identified as AI in the SynthID tool. The website will have a disclaimer saying as much. It’s also plausible that despite Google’s efforts, someone will find a way to remove SynthID, making existing AI content look more legit. It’s not a perfect system, but that’s the reality of relying on proactive watermarking for AI images, which are proliferating across the Internet at an astonishing rate.</p>\n<p>The best approach might be the opposite—using cryptographic technologies like C2PA to label real images, video, and audio as they are created. Google’s Pixel phones are among the few devices doing just that. In the meantime, SynthID is the best bet you’ve got to identify AI fakes.</p> </div></div>",
+  "image": "images/73f7f4020643.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
