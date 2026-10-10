@@ -1,0 +1,13 @@
+{
+  "id": "051ebdaadb58",
+  "title": "Użytkownicy Windowsa popełniają duży błąd. Ekspert tłumaczy zły nawyk",
+  "originalTitle": "Użytkownicy Windowsa popełniają duży błąd. Ekspert tłumaczy zły nawyk",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/uzytkownicy-windowsa-popelniaja-duzy-blad-ekspert-tlumaczy-zly-nawyk",
+  "publishedAt": "2026-10-10T13:45:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Każdy chce bezpieczeństwa swoich danych i plików. Problem pojawia się jednak, gdy podchodzimy do tego nadgorliwie. Ekspert tłumaczy, czego nie robić na systemie Windows.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>W czasach gdy w sieci pojawia się coraz więcej wirusów, cyberprzestępców i wszelkiej maści naciągaczy, potrzeba bezpieczeństwa w sieci nie jest niczym złym. Problem pojawia się dopiero wtedy, gdy podejdziemy do tego w sposób skrajny. Raymond Chen, weteran Microsoftu z ponad trzydziestoletnim stażem edukuje, że instalowanie dwóch programów antywirusowych na jednym komputerze to proszenie się o kłopoty. Okazuje się, że niektórzy użytkownicy systemu Windows wierzą, że kilka antywirusów uczyni ich komputer lepiej zabezpieczonym.</p>  <h2>Dwa antywirusy to błąd</h2> <p>Chen natrafił na ten problem, pomagając koledze diagnozować tajemniczą awarię systemu na komputerach z Windows 11 Enterprise. Ku jego zdziwieniu, okazało się, że na systemie pracują dwa antywirusy i to właśnie one odpowiadają za problemy. Jeden z nich próbował poddać kwarantannie proces zainicjowany przez ten drugi. Tym samym programy zwalczały się nawzajem.</p> <p>Ekspert porównał to do wynajęcia dwóch firm ochroniarskich do monitorowania jednego budynku, lecz bez informowania ich o tej drugiej. To normalne, że każda z nich uzna tego drugiego za intruza. Tyle że sytuacja z firmami jest prosta do rozwiązania. Wystarczy zaprosić obie ekipy na zebranie i ustalić wspólny plan działania. W przypadku antywirusów jest to niemożliwe.</p> <p>To nie pierwszy raz, gdy Microsoft przekonuje, że wbudowany Windows Defender jest w zupełności wystarczający. W kwietniu 2026 roku firma opublikowała nawet dokument wsparcia, chwaląc go jako „najlepszy program antywirusowy 2026”. Strona po cichu zniknęła kilka miesięcy później. Warto jednak przytoczyć liczby. Niezależna organizacja AV-Test ocenia skuteczność Defendera na 98,5–100%.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/2c365e5d0f47.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
