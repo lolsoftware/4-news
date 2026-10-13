@@ -1,0 +1,13 @@
+{
+  "id": "9ff6479e8efa",
+  "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+  "originalTitle": "Google wants to host your personal vibe-coded apps in the Play Store",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+  "publishedAt": "2026-10-13T17:00:39.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google has already added a few AI features to the Play Store, but <a href=\"https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026\">a lot more are coming</a>. The previously released Ask Play feature is expanding to offer more AI-powered discovery options in Google’s app store, and Google is also using AI to build a recommendation engine called Game Finder. For people who have embraced AI to build their own apps, the Play Store will soon offer a way to privately host and share those creations.</p>\n<p>Google rolled out Ask Play in 2025 as a small chatbot interface on Play Store listings. It lets you ask questions about an app or game, either by typing it in manually or choosing from a list of suggested queries. Starting today, Ask Play is expanding into a more general way to search for apps and games. You ask the robot questions, and it generates recommendations that can include detailed comparison charts. Gemini will roll out a similar capability soon.</p>\n<p>Google’s other AI discovery announcement focuses on games. The new Game Finder feature leans on all the usage data Google’s app platform has hoovered up over the years, featuring insights into the way 1.2 billion people play games on Android. It builds a profile called Gamer DNA and matches you with players who have similar DNA.</p> <p>You can tune your DNA profile by rating the games you’ve played, which supposedly leads to more accurate recommendations. There will be game playlists to peruse, along with various contextual lists like relaxing, trending titles, and more specific lists based on mechanics you’ve seen in previous games. Game Finder also lets you add or remove tags to further adjust the games Google’s AI suggests. Google says you’ll eventually be able to prompt Game Finder with fairly specific game preferences, but it’s unclear how much customization will be available at launch. Game Finder and Gamer DNA are rolling out in the US today, with other markets following “soon.”</p> </div></div>",
+  "image": "images/b49025495f0e.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}

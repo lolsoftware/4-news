@@ -1,0 +1,13 @@
+{
+  "id": "16810b93abf0",
+  "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+  "originalTitle": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+  "publishedAt": "2026-10-13T16:00:02.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>For your general AI queries, Gemini 4 Argon will be rolling out today in the Gemini app. However, it’s only going to be available for those on AI Pro ($20/mo) and AI Ultra (starting at $99/mo) plans. This isn’t a shock, as Google also recently restricted access to the Flash models for free users, leaving them with just Flash-Lite.</p>\n<p>That’s not all—there are additional restrictions on Argon for coding-focused products. In Antigravity and AI Studio, the new model will only be available for those on AI Ultra plans. Code generation has become even more important in the frontier of AI development since Google’s last Pro model release, but it can eat up a lot of compute cycles.</p>\n<p>You can generate code with Argon in the Gemini app’s Canvas mode even if you’re a Pro subscriber, but the multi-threaded agentic workflows in Antigravity are probably too expensive. If you need something more capable than Flash models, Google says it’s keeping Gemini 3.1 Pro around for the time being. Google has declined to clarify when (or if) Argon will come to Antigravity for other subscription tiers.</p>\n<p>For developers accessing Google’s models via the paid API, the company will happily sell you some Argon tokens. Pricing is temporarily set at $2 per million input tokens and $10 per million output tokens, with a 95 percent discount for cached tokens. This deal is only good through November 30, when the rate will jump to $4 per 1M input tokens and $20 per 1M output tokens. Devs will have to factor that in before building workflows around Google’s new model.</p> </div></div>",
+  "image": "images/02782fbf817c.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
