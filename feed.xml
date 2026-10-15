@@ -5,8 +5,24 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:08:03 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bus hits train stopped on French side of Channel Tunnel, with 19 injured   </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/52215fea55d1</link>
+      <description>Two people were airlifted to hospital but no-one&apos;s life appeared to be in danger, officials said.</description>
+      <pubDate>Thu, 15 Oct 2026 22:37:21 GMT</pubDate>
+      <guid isPermaLink="false">52215fea55d1</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Plex now helps sell movie theater tickets</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d1df0c20bde</link>
+      <description>Discovery data from Plex users will help studios, advertisers.</description>
+      <pubDate>Thu, 15 Oct 2026 21:22:15 GMT</pubDate>
+      <guid isPermaLink="false">8d1df0c20bde</guid>
+      <source url="https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/">Ars Technica</source>
+    </item>
     <item>
       <title>Nowe zasady dla osób na L4. Odmowa może oznaczać koniec świadczeń</title>
       <link>https://lolsoftware.github.io/4-news/#/article/0cc908cd73f1</link>
@@ -14,6 +30,14 @@
       <pubDate>Thu, 15 Oct 2026 21:20:00 GMT</pubDate>
       <guid isPermaLink="false">0cc908cd73f1</guid>
       <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nowe-zasady-dla-osob-na-L4-Odmowa-moze-oznaczac-koniec-swiadczen,290048,1.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Hegseth’s dubious low-T screening may flag up to 25 percent of the Army</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cd4ec9ae7211</link>
+      <description>Medical experts explicitly recommend against blanket screenings.</description>
+      <pubDate>Thu, 15 Oct 2026 21:09:57 GMT</pubDate>
+      <guid isPermaLink="false">cd4ec9ae7211</guid>
+      <source url="https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/">Ars Technica</source>
     </item>
     <item>
       <title>Koniec wypłat pieniędzy od pracodawcy na L4. Padło ważne pytanie</title>
@@ -32,6 +56,38 @@
       <source url="https://www.rynekzdrowia.pl/choroby-rzadkie/Leki-na-choroby-rzadkie-FDA-zmienia-zasady-ich-zatwierdzania,290030,1024.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it </title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ab5c91e92353</link>
+      <description>Panay said that it&apos;s possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.</description>
+      <pubDate>Thu, 15 Oct 2026 20:38:13 GMT</pubDate>
+      <guid isPermaLink="false">ab5c91e92353</guid>
+      <source url="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/">TechCrunch</source>
+    </item>
+    <item>
+      <title>London housing project wins top architecture award</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/138d2464f01b</link>
+      <description>Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.</description>
+      <pubDate>Thu, 15 Oct 2026 20:36:32 GMT</pubDate>
+      <guid isPermaLink="false">138d2464f01b</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Targeted ads delivered 0-click exploits to install mercenary malware</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/179d1e007255</link>
+      <description>The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.</description>
+      <pubDate>Thu, 15 Oct 2026 20:32:41 GMT</pubDate>
+      <guid isPermaLink="false">179d1e007255</guid>
+      <source url="https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Above the 911? Porsche previews a new mid-engined supercar.</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b1fc51a11216</link>
+      <description>Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.</description>
+      <pubDate>Thu, 15 Oct 2026 20:30:02 GMT</pubDate>
+      <guid isPermaLink="false">b1fc51a11216</guid>
+      <source url="https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/">Ars Technica</source>
+    </item>
+    <item>
       <title>Duże zmiany w wydawaniu kart parkingowych z orzeczeniem o niepełnosprawności. Ministerstwo potwierdza</title>
       <link>https://lolsoftware.github.io/4-news/#/article/bd4eb4c0121e</link>
       <description>W ostatnim czasie wiele dyskusji poświęca się przepisom dotyczącym wystawiania kart parkingowych. Przykładem tego jest interpelacja poselska skierowana do Ministerstwa Rodziny, Pracy i Polityki Społecznej, w której zapytano o obowiązek osobistego składania wniosków o wydanie tej karty przez osoby z niepełnosprawnościami. Resort zapowiedział zmiany w tym zakresie.</description>
@@ -40,12 +96,44 @@
       <source url="https://www.rynekzdrowia.pl/Prawo/Duze-zmiany-w-wydawaniu-kart-parkingowych-z-orzeczeniem-o-niepelnosprawnosci-Ministerstwo-potwierdza,290005,2.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Why Harry and Meghan&apos;s UK relaunch felt so much like a royal engagement</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4ab7c33ab018</link>
+      <description>The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.</description>
+      <pubDate>Thu, 15 Oct 2026 20:24:32 GMT</pubDate>
+      <guid isPermaLink="false">4ab7c33ab018</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Wypadek przy wjeździe do tunelu pod kanałem La Manche. Ucierpiało kilkanaście osób</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/55f463a8252c</link>
+      <description>Poważny wypadek we Francji. Dziewiętnaście osób zostało rannych w czwartek w zderzeniu autobusu i pociągu przy wjeździe do tunelu pod kanałem La Manche - poinformowały władze francuskie i media.</description>
+      <pubDate>Thu, 15 Oct 2026 20:08:00 GMT</pubDate>
+      <guid isPermaLink="false">55f463a8252c</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-wypadek-przy-wjezdzie-do-tunelu-pod-kanalem-la-manche-ucierp,nIdn,1022101">RMF24</source>
+    </item>
+    <item>
+      <title>Meta launches an open-weight AI model that runs on Macs</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2d5651ecb42</link>
+      <description>Meta and Apple have teamed up for the launch of the social media giant&apos;s newest model, Muse Spark Open, which will run locally on Apple silicon.</description>
+      <pubDate>Thu, 15 Oct 2026 20:04:53 GMT</pubDate>
+      <guid isPermaLink="false">f2d5651ecb42</guid>
+      <source url="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/">TechCrunch</source>
+    </item>
+    <item>
       <title>Zmiana czasu na zimowy 2026 coraz bliżej. Koniec spokoju dla naszego zegara biologicznego</title>
       <link>https://lolsoftware.github.io/4-news/#/article/7b37f423215e</link>
       <description>Zmiana czasu na zimowy zbliża się wielkimi krokami. Choć tej nocy pośpimy godzinę dłużej, organizm może odczuwać jej skutki nawet przez kilka tygodni. Eksperci ostrzegają przed zaburzeniami snu, wahaniami ciśnienia i problemami z sercem.</description>
       <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">7b37f423215e</guid>
       <source url="https://www.rynekzdrowia.pl/Nauka/Zmiana-czasu-na-zimowy-2026-coraz-blizej-Koniec-spokoju-dla-naszego-zegara-biologicznego,290047,9.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f2f6f0e7a83f</link>
+      <description>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users&apos; needs instead of waiting for commands.</description>
+      <pubDate>Thu, 15 Oct 2026 19:55:25 GMT</pubDate>
+      <guid isPermaLink="false">f2f6f0e7a83f</guid>
+      <source url="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/">TechCrunch</source>
     </item>
     <item>
       <title>Tragedia na wale przeciwpowodziowym. Dwóch nastolatków nie żyje</title>
@@ -80,6 +168,14 @@
       <source url="https://www.rmf24.pl/fakty/sport/news-srogie-lanie-przy-bulgarskiej-bayer-leverkusen-przejechal-si,nIdn,1022097">RMF24</source>
     </item>
     <item>
+      <title>Lech dostał srogie lanie przy Bułgarskiej. Bayer przejechał się po „Kolejorzu”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f35ba24a0df</link>
+      <description>Fatalnie układa się początek przygody piłkarskiego mistrza Polski w Lidze Europy. Lech Poznań w dwóch pierwszych meczach nie tylko nie zdobył punktu, ale nie zapisał też na swoim koncie choćby jednego trafienia. Póki co „Kolejorz” wyłącznie traci bramki. Po cztery strzelili Poznaniakom piłkarze angielskiego Crystal Palace oraz zawodnicy Bayeru Leverkusen.</description>
+      <pubDate>Thu, 15 Oct 2026 19:28:00 GMT</pubDate>
+      <guid isPermaLink="false">8f35ba24a0df</guid>
+      <source url="https://www.rmf24.pl/fakty/sport/news-lech-dostal-srogie-lanie-przy-bulgarskiej-bayer-przejechal-s,nIdn,1022097">RMF24</source>
+    </item>
+    <item>
       <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
       <link>https://lolsoftware.github.io/4-news/#/article/20dfecfa26f1</link>
       <description>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</description>
@@ -94,6 +190,14 @@
       <pubDate>Thu, 15 Oct 2026 19:11:00 GMT</pubDate>
       <guid isPermaLink="false">4c1df1bb6722</guid>
       <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Agencja-Badan-Medycznych-przekaze-3-47-mln-zl-na-wirtualna-Akademie-Magii,290038,11.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>What did the Liberty Bell sound like? Science is on the case.</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/550f30c731f6</link>
+      <description>Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.</description>
+      <pubDate>Thu, 15 Oct 2026 19:10:03 GMT</pubDate>
+      <guid isPermaLink="false">550f30c731f6</guid>
+      <source url="https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/">Ars Technica</source>
     </item>
     <item>
       <title>Ważna decyzja skarbówki w sprawie wydatków na szczepienie</title>
@@ -126,6 +230,22 @@
       <pubDate>Thu, 15 Oct 2026 18:49:00 GMT</pubDate>
       <guid isPermaLink="false">45a8e0ea94cd</guid>
       <source url="https://www.rmf24.pl/fakty/swiat/news-papiez-przemodeluje-pontyfikat-ze-wzgledu-na-stan-zdrowia-ko,nIdn,1022096">RMF24</source>
+    </item>
+    <item>
+      <title>Black Sea drone attacks enter NATO country&apos;s territorial waters for first time</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/9dd9428bd0f3</link>
+      <description>Suspected Russian drones attack chemical tanker within Romanian waters.</description>
+      <pubDate>Thu, 15 Oct 2026 18:48:11 GMT</pubDate>
+      <guid isPermaLink="false">9dd9428bd0f3</guid>
+      <source url="https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Microplastics in water aren’t inert and make damaging chemicals on their own</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/56ba0412ffad</link>
+      <description>Its effect on people remains an ongoing question.</description>
+      <pubDate>Thu, 15 Oct 2026 18:39:17 GMT</pubDate>
+      <guid isPermaLink="false">56ba0412ffad</guid>
+      <source url="https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/">Ars Technica</source>
     </item>
     <item>
       <title>Litwa rezygnuje z podatku od zysków Orlenu? Wilno boi się konfliktu z Polską</title>
@@ -166,6 +286,14 @@
       <pubDate>Thu, 15 Oct 2026 18:20:00 GMT</pubDate>
       <guid isPermaLink="false">d10168aa5302</guid>
       <source url="https://www.bankier.pl/wiadomosc/Decyzja-ws-bazy-USA-jeszcze-w-2026-Nawrocki-Licze-na-szybka-decyzje-9213493.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+    </item>
+    <item>
+      <title>Trump cancels Pentagon plans to livestream firing squad execution</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/62e49ad70ded</link>
+      <description>8 in 10 Americans opposed the Pentagon&apos;s plans, a Thursday poll showed.</description>
+      <pubDate>Thu, 15 Oct 2026 18:16:36 GMT</pubDate>
+      <guid isPermaLink="false">62e49ad70ded</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/">Ars Technica</source>
     </item>
     <item>
       <title>Ponad 200 zmian w refundacji leków. Ministerstwo Zdrowia ujawnia harmonogram</title>
@@ -278,134 +406,6 @@
       <pubDate>Thu, 15 Oct 2026 17:34:40 GMT</pubDate>
       <guid isPermaLink="false">3e299b717490</guid>
       <source url="https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Watch: What does Starlink have to do with the Ukraine-Russia war?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f03ed81c6849</link>
-      <description>Ukraine&apos;s president has told Elon Musk that any restriction on the Starlink&apos;s system cost lives.</description>
-      <pubDate>Thu, 15 Oct 2026 17:31:37 GMT</pubDate>
-      <guid isPermaLink="false">f03ed81c6849</guid>
-      <source url="https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Pamiętacie jeszcze perowskit? Ktoś właśnie go ulepszył</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/787694396e45</link>
-      <description>O perowskitach było naprawdę głośno w Polsce. Miała to być nasza koronna technologia. Okazuje się, że ktoś ją właśnie ulepsza, zamiast nas.</description>
-      <pubDate>Thu, 15 Oct 2026 17:30:31 GMT</pubDate>
-      <guid isPermaLink="false">787694396e45</guid>
-      <source url="https://antyweb.pl/pamietacie-jeszcze-perowskit-ktos-wlasnie-go-ulepszyl">Antyweb</source>
-    </item>
-    <item>
-      <title>Power Up: Roll Out Solar Arrays Boost Space Station Power Supply</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/249fd8d9e74a</link>
-      <description>From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life</description>
-      <pubDate>Thu, 15 Oct 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">249fd8d9e74a</guid>
-      <source url="https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>Śledztwo w Zoo Łączna. Sąd nie zgodził się na areszt dla dyrektora</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9461c60bb7dc</link>
-      <description>Sąd Rejonowy w Wałbrzychu odrzucił wniosek prokuratury o zastosowanie aresztu wobec właściciela prywatnego Zoo Łączna w Mieroszowie. Od wtorku na terenie obiektu prokuratura prowadzi działania dotyczące możliwości znęcania się nad zwierzętami. Zarzuty usłyszało do tej pory pięć osób. Z decyzją o odebraniu zwierząt z Zoo Łączna nie zgadza się wielu mieszkańców miejscowości.</description>
-      <pubDate>Thu, 15 Oct 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="false">9461c60bb7dc</guid>
-      <source url="https://www.rmf24.pl/regiony/wroclaw/news-sledztwo-w-zoo-laczna-sad-nie-zgodzil-sie-na-areszt-dla-dyre,nIdn,1022086">RMF24</source>
-    </item>
-    <item>
-      <title>Banks say Healey is planning Budget tax raid on their profits</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e7d48fa290a0</link>
-      <description>Senior banking executives have told the BBC they expect to be &quot;on the menu&quot; in the chancellor&apos;s Budget tax later this month.</description>
-      <pubDate>Thu, 15 Oct 2026 17:14:36 GMT</pubDate>
-      <guid isPermaLink="false">e7d48fa290a0</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Mają aż 250 km zasięgu. Pociski Storm Shadow pojadą do Ukrainy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/02fbcc20235d</link>
-      <description>Wielka Brytania przekazuje Ukrainie kolejną partię pocisków dalekiego zasięgu Storm Shadow – przekazała agencja Bloomberga. Decyzja Londynu ma pomóc Kijowowi w obronie przed nasilającymi się rosyjskimi atakami na infrastrukturę cywilną tuż przed nadejściem zimy.</description>
-      <pubDate>Thu, 15 Oct 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="false">02fbcc20235d</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-maja-az-250-km-zasiegu-pociski-storm-shadow-pojada-do-ukrain,nIdn,1022085">RMF24</source>
-    </item>
-    <item>
-      <title>Bezprzewodowe Android Auto w każdym samochodzie? Prościej się nie da</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ba167f3ec15e</link>
-      <description>Macie dość podłączania kabla i wolelibyście łączyć się z Android Auto lub Apple CarPlay w aucie bezprzewodowo? Jest na to sposób. Jak się sprawdza Navitel CPA5?</description>
-      <pubDate>Thu, 15 Oct 2026 17:00:28 GMT</pubDate>
-      <guid isPermaLink="false">ba167f3ec15e</guid>
-      <source url="https://antyweb.pl/bezprzewodowe-android-auto-w-kazdym-samochodzie-prosciej-sie-nie-da">Antyweb</source>
-    </item>
-    <item>
-      <title>Szymon Hołownia zostanie ambasadorem? Odpowie szef Biura Polityki Międzynarodowej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d9eef946a69e</link>
-      <description>W Porannej rozmowie w RMF FM zapytamy Marcina Przydacza, czy Szymon Hołownia ma szansę objąć stanowisko ambasadora Polski przy Stolicy Apostolskiej. Jakie są możliwości, aby otrzymał nominację dyplomatyczną? Czy prezydent Karol Nawrocki może zablokować tę kandydaturę?</description>
-      <pubDate>Thu, 15 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d9eef946a69e</guid>
-      <source url="https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-szymon-holownia-zostanie-ambasadorem-odpowie-szef-biura-poli,nIdn,1021999">RMF24</source>
-    </item>
-    <item>
-      <title>Czy Daniel Obajtek stanie przed sądem? Czy rozliczenia przyspieszają? Zapytamy Grzegorza Schetynę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/0d5c65342555</link>
-      <description>Minister Sprawiedliwości skierował do przewodniczącej Parlamentu Europejskiego Roberty Metsoli wniosek o uchylenie immunitetu europosła Daniela Obajtka. Waldemar Żurek domaga się także zgody na jego zatrzymanie, przymusowe doprowadzenie i tymczasowe aresztowanie. Sprawa dotyczy bezprawnego zaniżania cen paliw jesienią 2023 roku, tuż przed wyborami. Czy to oznacza, że koalicja rządowa przyspiesza rozliczenia? Czy taka będzie taktyka w roku przedwyborczym? Gościem w Rozmowie o 7:00 w Radiu RMF24 będzie Grzegorz Schetyna, senator Koalicji Obywatelskiej, były wicepremier i były szef MSZ.</description>
-      <pubDate>Thu, 15 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0d5c65342555</guid>
-      <source url="https://www.rmf24.pl/rozmowy/rozmowa-o-7/news-czy-daniel-obajtek-stanie-przed-sadem-czy-rozliczenia-przysp,nIdn,1022059">RMF24</source>
-    </item>
-    <item>
-      <title>Rocket Lab announces another delay for its medium-lift Neutron rocket</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/54e282650dc9</link>
-      <description>Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.</description>
-      <pubDate>Thu, 15 Oct 2026 16:57:24 GMT</pubDate>
-      <guid isPermaLink="false">54e282650dc9</guid>
-      <source url="https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Alert RCB dla mieszkańców woj. lubelskiego odwołany. „Zakończony atak na Ukrainę”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/354aff68da71</link>
-      <description>Rządowe Centrum Bezpieczeństwa rozesłało alert do mieszkańców kilkudziesięciu powiatów województwa lubelskiego. Powodem jest rosyjski atak powietrzny na terytorium Ukrainy. Służby informują, że sytuacja jest na bieżąco monitorowana, a w polskiej przestrzeni powietrznej operuje nasze lotnictwo wojskowe.</description>
-      <pubDate>Thu, 15 Oct 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="false">354aff68da71</guid>
-      <source url="https://www.rmf24.pl/regiony/lublin/news-alert-rcb-dla-mieszkancow-woj-lubelskiego-odwolany-zakonczon,nIdn,1022083">RMF24</source>
-    </item>
-    <item>
-      <title>Rachoń kandydatem Nawrockiego na ambasadora w USA. Sikorski: Nigdy nie było naszej zgody</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/97da87e30500</link>
-      <description>Nikodem Rachoń był głównym kandydatem prezydenta Karola Nawrockiego na ambasadora Polski w USA - powiedział wicepremier, szef MSZ Radosław Sikorski. Zaprzeczył, jakoby „była mowa o zgodzie polskiego rządu” na nominowanie Rachonia.</description>
-      <pubDate>Thu, 15 Oct 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="false">97da87e30500</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Rachon-kandydatem-Nawrockiego-na-ambasadora-w-USA-Sikorski-Nigdy-nie-bylo-naszej-zgody-9213434.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/016600db75d2</link>
-      <description>SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.</description>
-      <pubDate>Thu, 15 Oct 2026 16:45:37 GMT</pubDate>
-      <guid isPermaLink="false">016600db75d2</guid>
-      <source url="https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/">TechCrunch</source>
-    </item>
-    <item>
-      <title>NASA to Conduct Low-Altitude Flights Over Texas Farmland</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ec7a3b456381</link>
-      <description>A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov.</description>
-      <pubDate>Thu, 15 Oct 2026 16:42:10 GMT</pubDate>
-      <guid isPermaLink="false">ec7a3b456381</guid>
-      <source url="https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/">NASA Breaking News</source>
-    </item>
-    <item>
-      <title>W październiku ZUS wyśle kolejny przelew. Emeryci i renciści mogą być w szoku</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8082d17b296a</link>
-      <description>Jeszcze w październiku część emerytów może liczyć na dwie wypłaty świadczenia. Wszystko z powodu zmiany w harmonogramie wypłat emerytur. Osoby z wypłatą na 1. dzień miesiąca mogą dostać w październiku dwa przelewy.</description>
-      <pubDate>Thu, 15 Oct 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="false">8082d17b296a</guid>
-      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/W-pazdzierniku-ZUS-wysle-kolejny-przelew-Emeryci-i-rencisci-moga-byc-w-szoku,290028,1.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Spadki KGHM, Orlenu i CD Projekt, wzrosty Dino, Pepco i banków. Zmienna sesja na konto byków</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/4346ec4d8347</link>
-      <description>Choć początek notowań na GPW zapowiadał mocniejszą przecenę WIG20, ostatecznie popyt dokonał skutecznej kontry, odrabiając całość strat z poranka. Imponująca siła spółek konsumenckich przy wsparciu banków dość skutecznie oparła się presji ze strony przeceny gigantów surowcowym i energetycznym.</description>
-      <pubDate>Thu, 15 Oct 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="false">4346ec4d8347</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Spadki-KGHM-Orlenu-i-CD-Projekt-wzrosty-Dino-Pepco-i-bankow-Zmienna-sesja-na-konto-bykow-9213397.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
   </channel>
 </rss>
