@@ -1,0 +1,13 @@
+{
+  "id": "68e934f9b921",
+  "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+  "originalTitle": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+  "publishedAt": "2026-10-15T15:12:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Genuine human creativity takes time, but you know what doesn’t? AI slop. There are countless AI models out there that can make something that passes for music, and you might come across those tracks on streaming services without realizing it. <a href=\"https://blog.youtube/news-and-events/youtube-music-ai-labels/\">Google says</a> it will begin labeling that content in YouTube Music, building on similar disclosures in the main YouTube app.</p>\n<p>Google is not outright banning AI music or even speaking ill of it. “Generative AI is opening up new ways for artists to create, experiment, and share music,” the company says in a blog post.</p>\n<p>However, the company also acknowledges that people want to know if a song was created with generative AI tools. A new label for AI content on YouTube Music is now rolling out in the app and on the website, which looks a lot like a label Google <a href=\"https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/\">began adding</a> to AI-generated videos on YouTube earlier this year.</p>\n<p>The AI label will be visible on the player page, and a tap will open a menu with more information. The label will be applied to songs that were created entirely or altered significantly with AI. But how will Google know when to apply that label? That could be a little tricky.</p>\n<p>The process of labeling AI music will be similar to Google’s detection setup with YouTube videos. Google says it is working with partners and using its own detection tools to identify AI music. When publishers upload content, they can specify how much (if any) gen AI was used. The <a href=\"https://support.google.com/youtube/answer/17124251?sjid=8936696379737641054-NA\">tiers</a> are fully gen AI, partially gen AI, and no gen AI. However, this is optional.</p> </div></div>",
+  "image": "images/d7b7fe413c70.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
