@@ -5,8 +5,40 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:54:09 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>„Zagrożenie dla bezpieczeństwa Europy”. Premier Węgier stanowczo po szczycie UE</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/daa45bc71dfa</link>
+      <description>Premier Węgier Peter Magyar po dwudniowym szczycie Unii Europejskiej w Brukseli oświadczył, że Węgry „odniosły sukces w każdej kwestii kluczowej dla kraju”. Odniósł się też do debaty o migracjim stwierdzając, że „masowa migracja stanowi poważne zagrożenie społeczne, gospodarcze i dla bezpieczeństwa w całej Europie”.</description>
+      <pubDate>Fri, 16 Oct 2026 21:40:00 GMT</pubDate>
+      <guid isPermaLink="false">daa45bc71dfa</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-zagrozenie-dla-bezpieczenstwa-europy-premier-wegier-stanowcz,nIdn,1022273">RMF24</source>
+    </item>
+    <item>
+      <title>Replit is no longer working with Anthropic, CEO says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fdd4c6f578d6</link>
+      <description>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</description>
+      <pubDate>Fri, 16 Oct 2026 21:22:28 GMT</pubDate>
+      <guid isPermaLink="false">fdd4c6f578d6</guid>
+      <source url="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/97f29b9c6911</link>
+      <description>The White House is facing growing adversity, writes the BBC&apos;s Anthony Zurcher, weeks before crucial midterm elections.</description>
+      <pubDate>Fri, 16 Oct 2026 21:02:18 GMT</pubDate>
+      <guid isPermaLink="false">97f29b9c6911</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+    </item>
+    <item>
+      <title>Putin i Nawrocki na szczycie G20? Trump chce obecności rosyjskiego przywódcy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8dc469873cac</link>
+      <description>Prezydent USA Donald Trump powiedział w piątek, że chciałby, żeby przywódca Rosji Władimir Putin przyleciał na grudniowy szczyt G20 na Florydzie w USA. Przyznał jednak, że nie wie, czy tak się stanie.</description>
+      <pubDate>Fri, 16 Oct 2026 20:48:00 GMT</pubDate>
+      <guid isPermaLink="false">8dc469873cac</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-putin-i-nawrocki-na-szczycie-g20-trump-chce-obecnosci-rosyjs,nIdn,1022272">RMF24</source>
+    </item>
     <item>
       <title>Nowe zasady na L4. Ta zmiana wywróci reguły. Nie będzie można odmówić</title>
       <link>https://lolsoftware.github.io/4-news/#/article/de0e23fb1a9e</link>
@@ -14,6 +46,30 @@
       <pubDate>Fri, 16 Oct 2026 20:23:00 GMT</pubDate>
       <guid isPermaLink="false">de0e23fb1a9e</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Nowe-zasady-na-L4-Ta-zmiana-wywroci-reguly-Nie-bedzie-mozna-odmowic,290048,2.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7353a42c67b5</link>
+      <description>Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.</description>
+      <pubDate>Fri, 16 Oct 2026 20:20:07 GMT</pubDate>
+      <guid isPermaLink="false">7353a42c67b5</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/">Ars Technica</source>
+    </item>
+    <item>
+      <title>NASA Names Stephen Cash Marshall Space Flight Center Director</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/472f9f8e7d3f</link>
+      <description>NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct.</description>
+      <pubDate>Fri, 16 Oct 2026 20:14:39 GMT</pubDate>
+      <guid isPermaLink="false">472f9f8e7d3f</guid>
+      <source url="https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/">NASA Breaking News</source>
+    </item>
+    <item>
+      <title>Chris Mason: Burnham and Swinney tussle over where power lies in Scotland</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/db6d5cd50862</link>
+      <description>UK political debate has a distinctly Scottish feel after SNP&apos;s annual conference, says the BBC&apos;s political editor Chris Mason.</description>
+      <pubDate>Fri, 16 Oct 2026 20:08:07 GMT</pubDate>
+      <guid isPermaLink="false">db6d5cd50862</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
       <title>Zobaczysz, natychmiast zgłoś. Niebezpieczne owady w Polsce: dwa miejsca, naukowcy szukają gniazda</title>
@@ -40,6 +96,38 @@
       <source url="https://www.rynekzdrowia.pl/Polska-i-swiat/Te-ziola-i-przyprawy-warto-jesc-jesienia-Eksperci-wspieraja-odpornosc,290088,15.html">Rynek Zdrowia</source>
     </item>
     <item>
+      <title>Katarzyna Pełczyńska-Nałęcz o sytuacji w Trybunale Konstytucyjnym: obie strony mają za uszami</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/98f4d18e04b2</link>
+      <description>Katarzyna Pełczyńska-Nałęcz, przewodnicząca Polski 2050, uważa, że należy zrobić &quot;reset&quot; w Trybunale Konstytucyjnym, gdzie trwa obecnie &quot;wojna&quot;, w której ścierają się &quot;dwie strony&quot; - PiS i KO. Tak mówiła w programie &quot;#BezKitu&quot; w TVN24.</description>
+      <pubDate>Fri, 16 Oct 2026 19:55:16 GMT</pubDate>
+      <guid isPermaLink="false">98f4d18e04b2</guid>
+      <source url="https://tvn24.pl/polska/katarzyna-pelczynska-nalecz-proponuje-reset-w-trybunale-konstytucyjnym-obie-strony-maja-za-uszami-st9291626?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Donald Tusk zapowiada: TK zacznie pracę. „My na pewno nie ustąpimy”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/883717d8b9fa</link>
+      <description>Premier Donald Tusk powiedział w piątek, że Trybunał Konstytucyjny „zacznie swoją pracę w kształcie konstytucyjnym, czy się to komuś podoba, czy nie i będzie wydawał werdykty”. Odnosząc się z kolei do zapowiedzi sobotniej manifestacji pod TK, stwierdził: „przeżyjemy to”. „Pod Trybunałem Konstytucyjnym zbierają się nieduże grupy, ale dość agresywne. Poradzimy sobie z nimi” – dodał.</description>
+      <pubDate>Fri, 16 Oct 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="false">883717d8b9fa</guid>
+      <source url="https://www.rmf24.pl/fakty/polityka/news-donald-tusk-zapowiada-tk-zacznie-prace-my-na-pewno-nie-ustap,nIdn,1022270">RMF24</source>
+    </item>
+    <item>
+      <title>Arabia Saudyjska: Stracono dwóch Banglijczyków za „czyn nieobyczajny”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2c9acbf04330</link>
+      <description>Dwóch obywateli Bangladeszu zostało straconych w Arabii Saudyjskiej za bliżej niesprecyzowany „czyn nieobyczajny” w meczecie w Mekce – podał dziennik „The Daily Star”, powołując się na saudyjskie ministerstwo spraw wewnętrznych. Tymczasem Sąd Najwyższy królestwa miał zatwierdzić wyrok śmierci wobec mężczyzny oskarżonego o udział w protestach, gdy był niepełnoletni.</description>
+      <pubDate>Fri, 16 Oct 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="false">2c9acbf04330</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-arabia-saudyjska-stracono-dwoch-banglijczykow-za-czyn-nieoby,nIdn,1022271">RMF24</source>
+    </item>
+    <item>
+      <title>Wysoka wygrana w Eurojackpot w Polsce</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d02fa1d551df</link>
+      <description>W piątek w Eurojackpot nikomu nie udało się wytypować poprawnie wszystkich liczb. Kumulacja wzrosła więc do 80 milionów złotych. W Polsce jeden z graczy trafił wygraną trzeciego stopnia i otrzyma ponad 1,1 miliona złotych. Oto wyniki i wygrane z ostatniego losowania.</description>
+      <pubDate>Fri, 16 Oct 2026 19:46:53 GMT</pubDate>
+      <guid isPermaLink="false">d02fa1d551df</guid>
+      <source url="https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-16-pazdziernika-2026-oto-liczby-i-wygrane-z-ostatniego-losowania-st9291634?source=rss">TVN24</source>
+    </item>
+    <item>
       <title>Tusk wyznacza czerwoną linię Nawrockiemu. Chodzi o kompetencje prezydenta</title>
       <link>https://lolsoftware.github.io/4-news/#/article/c5a907a2ab27</link>
       <description>Premier Donald Tusk zadeklarował, że „nie przyjmie warunków gry” ws. nominacji ambasadorów, w której miałby się zgodzić na oddanie prezydentowi części konstytucyjnych kompetencji MSZ i rządu. Dodał, że jeżeli Karol Nawrocki ma zarzuty wobec konkretnego kandydata, to może odmówić podpisu i wytłumaczyć dlaczego.</description>
@@ -54,6 +142,22 @@
       <pubDate>Fri, 16 Oct 2026 19:42:00 GMT</pubDate>
       <guid isPermaLink="false">59506dd9b44b</guid>
       <source url="https://www.rynekzdrowia.pl/Serwis-Diabetologia/Eksperci-opracowali-nowe-wytyczne-w-cukrzycy-Najwazniejsze-zasady-i-zmiany-w-2026-roku,289790,1016.html">Rynek Zdrowia</source>
+    </item>
+    <item>
+      <title>US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/76457f6ede32</link>
+      <description>There are still significant hurdles ahead, both technical and legislative.</description>
+      <pubDate>Fri, 16 Oct 2026 19:41:18 GMT</pubDate>
+      <guid isPermaLink="false">76457f6ede32</guid>
+      <source url="https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Porsche’s electric Macan Turbo is an automotive existential crisis</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4287ed896294</link>
+      <description>The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.</description>
+      <pubDate>Fri, 16 Oct 2026 19:40:00 GMT</pubDate>
+      <guid isPermaLink="false">4287ed896294</guid>
+      <source url="https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/">TechCrunch</source>
     </item>
     <item>
       <title>Trump: To nie ja zdecydowałem o spowolnieniu Starlinka</title>
@@ -128,6 +232,14 @@
       <source url="https://tvn24.pl/polska/donald-tusk-jeszcze-przed-wigilia-mozna-sie-spodziewac-eskalacji-ze-strony-rosji-st9291623?source=rss">TVN24</source>
     </item>
     <item>
+      <title>Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/a9bfc73b70d7</link>
+      <description>The bug is fixed, but privacy concerns remain.</description>
+      <pubDate>Fri, 16 Oct 2026 19:11:50 GMT</pubDate>
+      <guid isPermaLink="false">a9bfc73b70d7</guid>
+      <source url="https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/">Ars Technica</source>
+    </item>
+    <item>
       <title>Rosyjska eskalacja jeszcze „przed Wigilią”. Tusk mówił o granicy i torach kolejowych</title>
       <link>https://lolsoftware.github.io/4-news/#/article/ccce19a65e2e</link>
       <description>Premier Donald Tusk stwierdził, że „można spodziewać się jakiejś eskalacji” ze strony Rosji „jeszcze przed Wigilią”. „Zima będzie bardzo trudna, przede wszystkim, jeśli chodzi o granice, tory kolejowe” - mówił, podkreślając, że Rosja będzie testowała naszą reakcję. „Spodziewajmy się, tak, jak do tej pory, tylko na większą skalę, prób sabotażu czy jakichś prowokacji w Polsce” – przestrzegał.</description>
@@ -142,6 +254,14 @@
       <pubDate>Fri, 16 Oct 2026 19:06:32 GMT</pubDate>
       <guid isPermaLink="false">aca308b2e741</guid>
       <source url="https://tvn24.pl/swiat/donald-tusk-o-trybunale-konstytucyjnym-i-otwartej-wojnie-mysmy-byli-bardzo-cierpliwi-st9291565?source=rss">TVN24</source>
+    </item>
+    <item>
+      <title>Donald Tusk o Trybunale Konstytucyjnym i &quot;otwartej wojnie&quot;. &quot;Myśmy byli bardzo cierpliwi&quot;</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/df98509d64bf</link>
+      <description>Nie chciałem jakiejś takiej otwartej wojny. Trybunał to jest Trybunał, więc czekaliśmy, aż będą mijały kadencje - powiedział premier Donald Tusk w rozmowie z dziennikarzami. Nawiązał też do protestów przed Trybunałem Konstytucyjnym, gdzie &quot;zbierają się nieduże grupy, ale dość agresywne&quot;.</description>
+      <pubDate>Fri, 16 Oct 2026 19:06:32 GMT</pubDate>
+      <guid isPermaLink="false">df98509d64bf</guid>
+      <source url="https://tvn24.pl/polska/donald-tusk-o-trybunale-konstytucyjnym-i-otwartej-wojnie-mysmy-byli-bardzo-cierpliwi-st9291565?source=rss">TVN24</source>
     </item>
     <item>
       <title>Od 1 października obowiązuje limit 10 tys. zł. Nowe uprawnienia skarbówki</title>
@@ -286,126 +406,6 @@
       <pubDate>Fri, 16 Oct 2026 18:01:00 GMT</pubDate>
       <guid isPermaLink="false">c7f2b9471149</guid>
       <source url="https://www.rynekzdrowia.pl/Prawo/Klamia-ze-to-polska-wieprzowina-Kontrolerzy-weszli-do-sklepow-posypaly-sie-kary,290064,2.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>&quot;Niewłaściwie zachowanie&quot; Grzegorza Brauna. Sędzia wyprosił go z sali</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/72983498f7a7</link>
-      <description>W Sądzie Rejonowym Warszawa Praga-Południe odbyła się w piątek rozprawa europosła Grzegorza Brauna (Konfederacja Korony Polskiej). Sprawa dotyczy między innymi zgaszenia gaśnicą świec chanukowych w Sejmie w 2023 roku. Podczas rozprawy sędzia wyprosił europosła z sali z uwagi na jego niewłaściwe zachowanie.</description>
-      <pubDate>Fri, 16 Oct 2026 17:53:32 GMT</pubDate>
-      <guid isPermaLink="false">72983498f7a7</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-grzegorz-braun-wyproszony-z-sali-sadowej-podczas-rozprawy-st9291499?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>India becomes the latest country to report rogue AI agent activity</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8ffbbf24c13a</link>
-      <description>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</description>
-      <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
-      <guid isPermaLink="false">8ffbbf24c13a</guid>
-      <source url="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Miliony głodują, miliard ton na śmietniku. Tyle jedzenia marnuje się rocznie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/082028f49544</link>
-      <description>Ponad miliard ton żywności rocznie trafia na śmietnik – alarmują najnowsze dane Organizacji Narodów Zjednoczonych. To liczba, która szokuje i zmusza do refleksji, zwłaszcza w kontekście Światowego Dnia Żywności, obchodzonego 16 października. W tym samym czasie aż 645 milionów ludzi na świecie cierpi z powodu głodu. Skala problemu jest ogromna i dotyczy każdego z nas.</description>
-      <pubDate>Fri, 16 Oct 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="false">082028f49544</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-miliony-gloduja-miliard-ton-na-smietniku-tyle-jedzenia-marnu,nIdn,1022261">RMF24</source>
-    </item>
-    <item>
-      <title>Donald Trump o swojej nowej rzeczniczce: być może to nie jest praca dla niej</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bf7d7496f04a</link>
-      <description>Prezydent USA Donald Trump ocenił, że być może rola rzeczniczki Białego Domu nie jest dla Katie Zacharii. Według nieoficjalnych informacji amerykańskich mediów Zacharia odchodzi ze stanowiska, które objęła na początku tygodnia.</description>
-      <pubDate>Fri, 16 Oct 2026 17:44:44 GMT</pubDate>
-      <guid isPermaLink="false">bf7d7496f04a</guid>
-      <source url="https://tvn24.pl/swiat/donald-trump-o-swojej-rzeczniczce-to-chyba-nie-jest-praca-dla-niej-nieoficjalnie-katie-zacharia-odchodzi-z-tej-funkcji-st9291535?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Watch: BBC follows Ukraine&apos;s Operation Vivaldi pushing Russia back on frontline</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/04c808e2ca3b</link>
-      <description>Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months</description>
-      <pubDate>Fri, 16 Oct 2026 17:41:53 GMT</pubDate>
-      <guid isPermaLink="false">04c808e2ca3b</guid>
-      <source url="https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
-    </item>
-    <item>
-      <title>Francja i Niemcy dogadały się ws. motoryzacji. Chcą poluzowania limitów CO2</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/2a44643b3cc0</link>
-      <description>Rządy Francji i Niemiec poinformowały w piątek, że osiągnęły porozumienie ws. wspólnego stanowiska dotyczącego przemysłu motoryzacyjnego. Dwa kraje chcą złagodzenia unijnych  limitów dotyczących emisji CO2 z nowych aut do 2035 roku, a także ustaliły kryteria dotyczące produkcji „Made in Europe”.</description>
-      <pubDate>Fri, 16 Oct 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="false">2a44643b3cc0</guid>
-      <source url="https://www.bankier.pl/moto/wiadomosc/Francja-i-Niemcy-dogadaly-sie-ws-motoryzacji-Chca-poluzowania-limitow-CO2-9214064.html">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Tani suplement poprawia pracę mózgu. Lepiej nie doprowadzać do niedoboru</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/b400ab92337c</link>
-      <description>Witamina D jest kluczowa dla prawidłowego funkcjonowania organizmu. Dzięki nowemu badaniu wykazano możliwy związek tej witaminy ze sprawnością umysłową. Okazuje się, że uczestnicy przyjmujący co najmniej 5000 IU witaminy D dziennie osiągali wysokie wyniki w zakresie funkcji poznawczych.</description>
-      <pubDate>Fri, 16 Oct 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">b400ab92337c</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Tani-suplement-poprawia-prace-mozgu-Lepiej-nie-doprowadzac-do-niedoboru,289982,11.html">Rynek Zdrowia</source>
-    </item>
-    <item>
-      <title>Instagram ograniczył treści kandydata na prezydenta. Sąd żąda wyjaśnień od Mety</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/bec3356735c9</link>
-      <description>Pracownicy koncernu Meta przyznali w wewnętrznej korespondencji, że ograniczenia na Instagramie utrudniały promowanie treści wyborczych prezydenta Brazylii Luiza Inacia Luli da Silvy – podał w piątek dziennik „Folha de S.Paulo”. Wcześniej Lula oskarżył koncern o ingerencję w kampanię wyborczą. Najwyższy Sąd Wyborczy Brazylii zażądał od Mety wyjaśnień.</description>
-      <pubDate>Fri, 16 Oct 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="false">bec3356735c9</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-instagram-ograniczyl-tresci-kandydata-na-prezydenta-sad-zada,nIdn,1022260">RMF24</source>
-    </item>
-    <item>
-      <title>Dzieci w Niemczech dostaną specjalne konta emerytalne. Bundestag zdecydował</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6b03959bb3d</link>
-      <description>Niemiecki Bundestag przyjął program kont emerytalnych dla dzieci. Zgodnie z nim państwo będzie wpłacać dzieciom i młodzieży w wieku od sześciu do 18 lat składkę w wysokości 10 euro miesięcznie na specjalne konto emerytalne.</description>
-      <pubDate>Fri, 16 Oct 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="false">a6b03959bb3d</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Dzieci-w-Niemczech-dostana-specjalne-konta-emerytalne-Bundestag-zdecydowal-9214061.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>Ukraina z ograniczonym dostępem do Starlinka. Trump zabrał głos</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/8cb5817d9c6c</link>
-      <description>Prezydent USA Donald Trump powiedział w piątek, że jego zdaniem ani on, ani Elon Musk nie ponoszą odpowiedzialności za ograniczenie Ukrainie dostępu do Starlinka - podał Reuters. W środę Musk powiedział, że decyzje dotyczące ograniczeń w działaniu i sposobu wykorzystywania systemów Starshield należą do amerykańskich sił zbrojnych, a ostatecznie do prezydenta Trumpa.</description>
-      <pubDate>Fri, 16 Oct 2026 17:18:42 GMT</pubDate>
-      <guid isPermaLink="false">8cb5817d9c6c</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/ukraina-z-ograniczonym-dostepem-do-starlinka-trump-zabral-glos-st9291537?source=rss">TVN24</source>
-    </item>
-    <item>
-      <title>Wcale nie we Francji i Włoszech. To najlepszy region winiarski Europy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9ce100fa0a8f</link>
-      <description>Do tej pory to Francja i Włochy niepodzielnie rządziły na winiarskiej mapie Europy. Jednak najnowszy ranking European Best Destinations na 2027 rok przyniósł prawdziwą rewolucję! Tytuł najlepszego regionu winiarskiego Starego Kontynentu zdobyła słoweńska Štajerska. To właśnie ona zachwyciła ekspertów autentycznością, malowniczymi krajobrazami i pielęgnowaniem wielowiekowych tradycji.</description>
-      <pubDate>Fri, 16 Oct 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="false">9ce100fa0a8f</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-wcale-nie-we-francji-i-wloszech-to-najlepszy-region-winiarsk,nIdn,1022258">RMF24</source>
-    </item>
-    <item>
-      <title>AfD rośnie w siłę. Minister ostrzega przed izolacją Niemiec w Europie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/344487a954eb</link>
-      <description>Dalszy wzrost poparcia dla prowadzącej w sondażach prawicowo-populistycznej Alternatywy dla Niemiec (AfD) zaszkodzi reputacji Niemiec — ocenił w piątek szef niemieckiej dyplomacji Johann Wadephul.</description>
-      <pubDate>Fri, 16 Oct 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="false">344487a954eb</guid>
-      <source url="https://www.bankier.pl/wiadomosc/AfD-rosnie-w-sile-Minister-ostrzega-przed-izolacja-Niemiec-w-Europie-9213997.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
-    </item>
-    <item>
-      <title>RFK Jr. proposes FDA look the other way on unproven peptides, report says</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1de3881c92dc</link>
-      <description>FDA scientists said none of the popular drugs have been proven safe or effective.</description>
-      <pubDate>Fri, 16 Oct 2026 17:05:59 GMT</pubDate>
-      <guid isPermaLink="false">1de3881c92dc</guid>
-      <source url="https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Putin założył mundur i ogłosił: Rosja tworzy „strefę bezpieczeństwa” na terytorium Ukrainy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/247162e5e335</link>
-      <description>Rosja tworzy przy granicy z Ukrainą „strefę bezpieczeństwa”, która – jak zapowiedział Władimir Putin – nie będzie przedmiotem przyszłych negocjacji pokojowych z Kijowem. Według Kremla planowana strefa ma liczyć 660 kilometrów, a rosyjskie wojska kontrolują obecnie 70 proc. tego obszaru.</description>
-      <pubDate>Fri, 16 Oct 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="false">247162e5e335</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-putin-zalozyl-mundur-i-oglosil-rosja-tworzy-strefe-bezpiecze,nIdn,1022256">RMF24</source>
-    </item>
-    <item>
-      <title>Eskalacja wokół sporu o TK jeszcze przed nami? Program Sprawdzam! w RMF FM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1cc3cd3ebbd4</link>
-      <description>Czy spór wokół Trybunału Konstytucyjnego zmierza w stronę otwartej eskalacji? PiS wzywa swoich zwolenników na sobotni protest przed TK, Maciej Berek chce zabezpieczenia monitoringu, a prezes Trybunału Bogdan Święczkowski mówi o prowokacji. Jak na ten konflikt patrzą młodzi politycy i czy w obecnych warunkach możliwe jest jeszcze jego prawne rozwiązanie? O to Krzysztof Ziemiec zapyta Konrada Gwoździa, przewodniczącego Forum Młodych Ludowców i Wojciecha Machulskiego, rzecznika Konfederacji, w programie Sprawdzam! w RMF FM.</description>
-      <pubDate>Fri, 16 Oct 2026 17:03:00 GMT</pubDate>
-      <guid isPermaLink="false">1cc3cd3ebbd4</guid>
-      <source url="https://www.rmf24.pl/rozmowy/sprawdzam/news-eskalacja-wokol-sporu-o-tk-jeszcze-przed-nami-program-sprawd,nIdn,1022198">RMF24</source>
     </item>
   </channel>
 </rss>
