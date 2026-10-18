@@ -1,0 +1,13 @@
+{
+  "id": "ef978104d995",
+  "title": "Microsoft wprowadza znak wodny. Aktywuje się przy poufnych danych",
+  "originalTitle": "Microsoft wprowadza znak wodny. Aktywuje się przy poufnych danych",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/microsoft-wprowadza-znak-wodny-aktywuje-sie-przy-poufnych-danych",
+  "publishedAt": "2026-10-18T09:00:32.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Microsoft ogłosił, że w swojej przeglądarce dla firm planuje wprowadzenie znaku wodnego, który będzie chronił poufne treści.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p data-pm-slice=\"1 1 []\">Jeżeli chodzi o poufne dane firmowe, to nie ma czegoś takiego jak zbyt wiele ostrożności. Microsoft właśnie ogłosił, że już wkrótce przeglądarka Edge dla Firm dostanie nową funkcję znaku wodnego. Zgodnie z roadmapą „AI at Work” firma planuje, że Watermarking Protection w Edge dla Firm osiągnie ogólną dostępność w grudniu 2026 roku. To funkcja, która nakłada na przeglądane w przeglądarce poufne treści trwały znak wodny z nazwą użytkownika i znacznikiem czasu.</p> <h2>Microsoft Edge dla firm z funkcją znaku wodnego</h2> <p>Znak wodny jest renderowany natywnie przez Edge dla Firm na treściach, które spełniają kryteria wrażliwości określone przez polityki Purview lub DLP. Użytkownik samodzielnie nie może go usunąć ani zmodyfikować. Ma on przypominać, że to, co widzisz, jest zastrzeżone. Mechanizm nie blokuje sam z siebie robienia zdjęć czy zrzutów ekranu, a działa bardziej jak cyfrowa pieczątka z napisem „poufne”. Obecność takiego znaku wodnego sprawi, że rozprzestrzenianie danej treści będzie dużo łatwiej powiązać z osobą i czasem.</p> <p>Są jednak warunki. Administratorzy IT włączą funkcję przez portal Edge Management Service, ale potrzebne są licencje Microsoft 365 E5 lub E3. Samo nadanie etykiety albo polityka audytu DLP nie wystarczą. Muszą one być powiązane z regułami blokującymi określone działania, takimi jak blokada kopiowania, wysyłania lub drukowania.</p> <p>Wśród obsługiwanych powierzchni w Edge dla Firm znajdują się zwykłe karty przeglądarki, karty w widoku dzielonym, okna pop-up i okna aplikacji, lokalne pliki PDF z etykietami poufności, pliki PDF z etykietami MIP, drukowanie i zrzuty ekranu oraz tryb czytania. Microsoft zapowiada późniejsze wsparcie dla panelu bocznego i Shoreline, a także dynamiczne znaki wodne.</p></div></div>",
+  "image": "images/b035ea4ee69c.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
