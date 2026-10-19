@@ -1,0 +1,13 @@
+{
+  "id": "0f4aa3cd99c0",
+  "title": "ReactOS reaches major milestone with NTFS install support",
+  "originalTitle": "ReactOS reaches major milestone with NTFS install support",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+  "publishedAt": "2026-10-19T18:30:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Open source Windows alternative <a href=\"https://reactos.org/\">ReactOS</a> has reached a major milestone: The operating system can now be installed directly onto an <a href=\"https://en.wikipedia.org/wiki/NTFS\">NT Files System</a> drive partition. <a href=\"https://www.phoronix.com/news/ReactOS-NTFS-Driver\">As reported by Phoronix</a>, the move to NTFS clears a long-standing hurdle for the project and brings it one step closer to finally reaching beta.</p>\n<p>Prior to this latest announcement, ReactOS required users to keep a FAT32 partition for installations. A proprietary Microsoft-developed filesystem, NTFS can trace its roots back through the Windows NT family lineage <a href=\"https://en.wikipedia.org/wiki/Windows_NT_3.1\">starting in 1993</a> with Windows NT 3.1. The variant introduced with Windows XP in 2001 remains the standard used by most Windows systems today. With ReactOS’s stated goal of reaching <a href=\"https://en.wikipedia.org/wiki/Binary-code_compatibility\">binary compatibility</a> with Windows Server 2003, being confined to FAT32 partitions was a practical barrier to clear on the way to reproducing the Windows environment.</p>\n<p>However, users looking to hop off the Windows train shouldn’t be grabbing their bags just yet. ReactOS wrote that the new driver still “lacks caching (which causes inferior performance), journaling and security support.” So while the new driver is here, even the most intrepid of OS tinkerers should tread carefully. The ReactOS team warned in its <a href=\"https://x.com/reactos/status/2111565384767922202\">announcement on X</a> that there are still “potentially undiscovered bugs.”</p> </div></div>",
+  "image": "images/9764f82754af.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
