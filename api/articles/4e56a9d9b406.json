@@ -1,0 +1,13 @@
+{
+  "id": "4e56a9d9b406",
+  "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+  "originalTitle": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+  "publishedAt": "2026-10-20T19:47:35.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Heartbleed is the name of a critical vulnerability in the OpenSSL cryptography library. In 2014, it came under <a href=\"https://arstechnica.com/security/2023/10/critical-citrix-bleed-vulnerability-allowing-mfa-bypass-comes-under-mass-exploitation//\">mass exploitation</a>. Exploits let many unaffiliated hackers decrypt TLS-protected exchanges between parties. They also recovered private TLS certificate keys, session cookies, and passwords. The attacks compromised thousands of servers, some belonging to large companies and government agencies around the world.</p>\n<p>Recovery required a long series of steps that took years. Steps included patching OpenSSL on all affected devices, reissuing millions of TLS keys, revoking old certificates, rotating passwords and session tokens and updating embedded devices and other forgotten systems—something that was extremely time- and resource-intensive, especially at Internet scale.</p>\n<p>“Every time you need a lot of different people in different contexts to do something, it will take a long time,” Valsorda explained. “This time it’s worse because there’s more contexts, more people, and more heterogeneity.”</p>\n<p>The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2<sup>384</sup>, or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237.</p>\n<p>“That is extremely in the ‘this should not be possible’ category,” Valdorda said. “Maybe some horribly dangerous key generation interface has a ‘size’ parameter and they set it to 1 by mistake???”</p>\n<p>Ben Cartwright-Cox, director of BGP.tools, said: “My guess is that it’s example code that accidentally leaked to production, but hard to know. But it’s bonkers that no one noticed.”</p> </div></div>",
+  "image": "images/34dfbcf54d8a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
