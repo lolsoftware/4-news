@@ -1,0 +1,13 @@
+{
+  "id": "7b066c33c960",
+  "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+  "originalTitle": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+  "publishedAt": "2026-10-21T18:51:42.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you’ll have more options. OpenAI and Google have <a href=\"https://openai.com/index/openai-models-google-cloud/\">come to an arrangement</a> that will see the former’s frontier models arrive in Google Cloud services. Perhaps more importantly, GPT models will soon appear in Antigravity, Google’s agent-powered coding tool.</p>\n<p>For enterprise customers and AI enthusiasts, OpenAI’s latest model will appear in Google’s “Model Garden” in the coming weeks, adding to its 200-plus options. The garden already offers access to Google’s Gemini models, as well as an assortment of open models like Mistral, Llama, and Gemma. Anthropic’s Claude AI has also been available for some time. <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers\">Google says</a> it’s now the only large cloud provider offering access to all three leading closed LLMs.</p>\n<p>While OpenAI notes that Microsoft continues to be its primary cloud partner, the full suite of current GPT 6 and 6.1 models—Astra, Sol, and Luna—will launch on Google Cloud. Astra will naturally cost the most to run, but Google’s system supports dynamically moving workloads between LLMs based on performance, latency, and efficiency.</p>\n<p>OpenAI models will be available to run entirely on Google’s infrastructure, with transactions handled via the Google Cloud Marketplace. For businesses with established Google Cloud spending commitments, this will make it easy to begin using GPT models in place of whatever they were using before.</p> </div></div>",
+  "image": "images/43f1566796f3.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
