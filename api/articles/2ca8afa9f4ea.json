@@ -1,0 +1,13 @@
+{
+  "id": "2ca8afa9f4ea",
+  "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+  "originalTitle": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+  "publishedAt": "2026-10-22T15:25:02.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>“These vulnerabilities often provide a direct path to the server’s file system or database,” the NSA said. “If an immediate update is not feasible, it is recommended that organizations take the system offline until it can be fully mitigated.”</p>\n<p>Researchers at two US cybersecurity groups, Calif and Wiz, discovered the vulnerabilities. Alphabet-owned Wiz estimated that the compromised programming language powered about 70 percent of all websites in the world.</p>\n<p>“Given the severity of these flaws and PHP’s widespread use, we consider this one of the most impactful security issues in recent memory,” OpenAI said on Wednesday. “To our knowledge, frontier AI found these vulnerabilities before attackers did.”</p>\n<p>“It highlights how AI can uncover security flaws with Internet-scale impact, but the same capabilities can also help attackers rapidly develop offensive tools and exploits,” the AI lab added.</p>\n<p>OpenAI worked with PHP, Calif, and Wiz to verify the vulnerabilities and develop the patches.</p>\n<p>The White House said federal agencies were assessing the potential impacts of the bugs on government systems and critical infrastructure.</p>\n<p>PHP’s wide presence on the Internet is largely because WordPress, the most widely used website-building platform, is written primarily in PHP and relies on it to function.</p>\n<p>The UK’s National Cyber Security Centre said the vulnerabilities could potentially allow a hacker to take control of a website’s server without needing a password or other login credentials. “The NCSC is encouraging UK organizations to take immediate action,” it said.</p>\n<p><em><a href=\"https://www.ft.com/\">© 2026 The Financial Times Ltd</a>. <a href=\"https://www.ft.com/\">All rights reserved</a>. Not to be redistributed, copied, or modified in any way.</em></p> </div></div>",
+  "image": "images/787c991c9649.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
