@@ -1,0 +1,13 @@
+{
+  "id": "1c3086cd99ac",
+  "title": "Microsoft szykuje się na plagę oszustw. Dostaniesz narzędzia do walki z nimi",
+  "originalTitle": "Microsoft szykuje się na plagę oszustw. Dostaniesz narzędzia do walki z nimi",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/microsoft-szykuje-sie-na-plage-oszustw-dostaniesz-narzedzia-do-walki-z-nimi",
+  "publishedAt": "2026-10-26T11:15:18.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Jeżeli myślisz, że jesteś w stanie rozpoznać deepfake z daleko, to badania temu przeczą. Dlatego też Microsoft zamierza wyposażyć aplikację Teams w narzędzia do walki z oszustami.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Coraz głośniej robi się o sytuacjach, w których osoba odpowiedzialna w firmie za finanse łączona jest z szefem, który zna jego imię, mówi jak zwykle i prosi o pilny przelew. Posłuszny pracownik wykonuje polecenie służbowe, po czym okazuje się, że to nie jego szef, a dopracowany algorytm, który właśnie oszukał firmę na miliony złotych. Brzmi niewiarygodnie, ale taki scenariusz rozgrywa się coraz częściej. Nawet FBI w lipcu ostrzegało przed tym, że treści generowane przez AI bywają już praktycznie nie do odróżnienia od prawdziwych, także w rozmowach na żywo.</p>  <h2>Microsoft wyposaży Teams w narzędzia do walki z deepfake</h2> <p>Microsoft postanawia więc wyposażyć Teamsa w coś w rodzaju wykrywacza deepfejków. Od połowy listopada, na razie w wersji na komputery, Maca i przeglądarkę, firmy będą mogły podpiąć certyfikowane narzędzia zewnętrznych dostawców. Takie narzędzie wejdzie na spotkanie jako bot, przeanalizuje dźwięk i obraz, a potem oznaczy podejrzanego uczestnika. Dostanie on ocenę oraz zostanie określony poziom ryzyka. Alert zobaczą wszyscy na liście uczestników, a nie tylko organizator.</p> <p>Haczyków jest kilka. Microsoft sam niczego nie skanuje, tylko pokazuje wyniki. Nie podał też, którzy dostawcy dostaną certyfikat, ile to będzie kosztować ani co dokładnie zobaczą ich boty. A to ważne pytania, bo obietnice o prywatności dotyczą przetwarzania po stronie Microsoftu, nie zewnętrznych firm. Jeden z istniejących dostawców przyznaje na przykład, że bot nagrywa 30-sekundowe próbki rozmowy.</p> <p>Możemy się oszukiwać, że nie jest to potrzebne i sami doskonale poznamy, gdy mamy do czynienia z automatem, lecz badanie z UCL pokazało, że deepfake’owy głos rozpoznajemy w 73% przypadków, a metaanaliza 56 prac daje wynik niewiele lepszy od rzutu monetą.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/2f41211837ea.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
