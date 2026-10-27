@@ -1,0 +1,13 @@
+{
+  "id": "83999bb0ad06",
+  "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+  "originalTitle": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+  "publishedAt": "2026-10-27T16:17:58.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>The new take on bidirectional EV charging came about when Ford acquired Auto Motive Power three years ago. The result is the Fathom’s charging module, one of five powerful computers that each handle a different aspect of the Fathom’s functions. (Known as a software-defined vehicle, this handful of domain controllers replace the dozens and dozens of discrete ECUs you’d find in an older design.)</p>\n<p>Now, the Fathom won’t need a wallbox with an in-built inverter, like the 80 A unit needed for the Lightning. But you will still need the Ford Home Power Station, which Ford says should cost about half as much as the $1,310 device needed for the older, bigger truck. The management software knows to charge your car when electricity is cheap and uses it to power the house when rates are expensive.</p> <p>To use the Fathom as an emergency battery during outages, customers will also need Ford’s newer Home Backup Panel. The automaker says this should cost 60 percent less than the first-generation panel, which cost around $5,000. That means adding V2H to your house still isn’t free, but it should be a lot cheaper than before. It’s also the first sub-$30k bidirectional EV with AC power.</p>\n<p>Ford is also working with a number of utilities across the US and Canada to hash out the details needed to begin vehicle-to-grid pilot programs with the Fathom. And it has made sure the system meets existing standards, including the UL 1741 standard for chargers, the IEEE 1547 standard for connecting vehicles to the grid, and SAE J3068, a communications standard.</p> </div></div>",
+  "image": "images/3d471196bd0d.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
