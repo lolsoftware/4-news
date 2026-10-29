@@ -1,0 +1,13 @@
+{
+  "id": "721146dc4df9",
+  "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "originalTitle": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+  "publishedAt": "2026-10-28T18:47:27.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>It’s almost like Google’s got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out <a href=\"https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/\">Gemini 4 Argon</a>, Google has <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">announced Gemini 4 Carbon</a>. This isn’t the Flash model equivalent we’ve been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while.</p>\n<p>Stop me if you’ve heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It’s so capable, in fact, that Google can’t let you use it just yet.</p>\n<p>Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a “significant leap” in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating “high-quality” patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on <a href=\"https://arena.ai/leaderboard/code/webdev\">WebDev Arena</a>, now ranking at number four on the leaderboard.</p>\n<p>Google has some numbers to support these vague assessments (below), showing Carbon at the top of the charts. Google positions Carbon as a totally new model, but for all we know, it could be a post-training upgrade of Argon. The two models have a lot in common, but Carbon does best Argon by slim margins in every test Google has given it. Its new model also beats GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1 in almost every test. Benchmarks don’t tell the whole story, of course, and it’s notable that every frontier model scores in the same neighborhood in these tests. The gap between Carbon and the competition is just a few points.</p> </div></div>",
+  "image": "images/c31d38b722fe.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
