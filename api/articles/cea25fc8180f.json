@@ -1,0 +1,13 @@
+{
+  "id": "cea25fc8180f",
+  "title": "Hackers exploited iOS and Android flaws to infect phones",
+  "originalTitle": "Hackers exploited iOS and Android flaws to infect phones",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+  "publishedAt": "2026-11-04T22:26:49.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Hackers possibly linked to the Kremlin exploited previously patched iOS and Android flaws in an attempt to hack visitors of multiple websites, including one celebrating the 250th anniversary of American independence, researchers said Wednesday.</p>\n<p>The attackers, which the researchers assessed with “moderate to high confidence” were part of Russia’s Foreign Intelligence Service, targeted other sites, many with links to that country’s ongoing war against Ukraine. The attacks began when iPhone or Android users visited one of potentially hundreds of different sites. JavaScript injected into the traffic then profiled the device. The final payloads, tailored to the type of platform visiting, attempted to steal browser cookies and, in some cases, Wi-Fi passwords and full mobile device data.</p>\n<h2>Wielding DarkSword</h2>\n<p>One of the impersonated sites was america250.org, belonging to a non-partisan group of lawmakers, business executives, and at least one former member of the Trump administration. The attackers registered america250[.]holiday and used it as a reverse proxy to america250.org. The imposter website delivered content from the real one that added malicious JavaScript&nbsp;into it.</p>\n<p>“We assess that the intrusion set may have deliberately selected this website due to its association with a high-profile national celebration, potentially leveraging the event as a pretext for invitation-themed spear-phishing campaigns,” researchers from security firm Sekoia <a href=\"https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits\">said</a>.</p>\n<p>A second website, theowo[.]club, proxied the website Raffles of London OWO, a luxury hotel physically close to some of the UK’s most sensitive government institutions, including the Ministry of Defence and 10 Downing Street, the official residence and office of the British Prime Minister. Open source reporting indicates that Ukrainian President Volodymyr Zelenskyy stayed there during a visit on October 14.</p> </div></div>",
+  "image": "images/33e18cd5cc5b.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
