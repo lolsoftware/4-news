@@ -1,0 +1,13 @@
+{
+  "id": "aaddea4db7b3",
+  "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+  "originalTitle": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+  "publishedAt": "2026-11-05T17:40:27.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>While the upcoming <em>Grand Theft Auto VI</em> won’t be available on PC this month, some gamers are making ridiculous preparations to use their PC graphics cards to apply Nvidia’s DLSS 5 technology to the console exclusive.</p>\n<p>On an explicitly unmoderated <em>GTAVI</em> subreddit, user RevolutionaryBus8208 <a href=\"https://www.reddit.com/r/GTA6unmoderated/comments/1xkb9gq/gta_vi_extended_look_with_dlss_5_fg_3_30_90_fps/\">lays out</a> a proposed setup, which runs a PlayStation 5 through a 4K capture card to a PC. From there, the video signal is run through <a href=\"https://github.com/Likely7/Veyra-NRVideo\">Veyra</a>, an open source tool that can apply <a href=\"https://www.nvidia.com/en-us/technologies/rtx/\">DLSS 5’s AI-powered “neural rendering”</a> to video content. The result—which also uses DLSS frame generation to increase the 30 fps source to a 90 fps output—is then piped back to a 4K TV, theoretically adding some of the benefits of a beefy PC graphics card to a console-exclusive game.</p>\n<p>To demonstrate the potential of this setup, RevolutionaryBus8208&nbsp;used Veyra to upscale the <a href=\"https://www.youtube.com/watch?v=kcN1oGfJzIM\"><em>Grand Theft Auto VI</em> Extended Look trailer</a> posted in August. The <a href=\"https://youtu.be/AznGWDkXKi0\">resulting DLSS-ified version</a> looks a bit better in places, with sharper background elements, subtler shadows, and more believable light scattering on some surfaces. But it also seems a bit washed out compared to the original video’s deeper blacks and arguably suffers from an unnaturally smooth “soap opera effect” in some scenes.</p>\n\n<h2>There ain’t nothing for free</h2>\n<p>While the upscaled version causes some occasional graphical artifacts and glitches from the frame generation process, it’s still an interesting proof of concept that shows just how far DLSS 5 has come from <a href=\"https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/\">some of the early horror-show memes</a> that circulated on the Internet earlier this year.</p> </div></div>",
+  "image": "images/9369cf402473.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
