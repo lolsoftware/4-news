@@ -1,0 +1,13 @@
+{
+  "id": "f4b91ef87a78",
+  "title": "Google Fi adds support for a second 5G network, won't say which one",
+  "originalTitle": "Google Fi adds support for a second 5G network, won't say which one",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+  "publishedAt": "2026-11-10T19:35:59.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google has announced a “<a href=\"https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/\">super network</a>” upgrade for its Fi cell service. For the past few years, Google Fi has operated exclusively on the T-Mobile network, but now it’s adding support for a second 5G network. Oddly, Google refuses to say which one.</p>\n<p>Google’s MVNO (mobile virtual network operator) launched in 2015 as Project Fi with support for both T-Mobile and Sprint service. The service initially only worked on Google’s Nexus phones, which would switch between networks based on signal strength. After T-Mobile absorbed Sprint, Fi switched to being a single-network service in the US while continuing to hop between networks for international travel.</p>\n<p>With the super network, Google Fi is again a dual-carrier service stateside. Phones connected to Fi will be able to hop between T-Mobile 5G and a different 5G network to provide the best possible connectivity. Google’s blog post announcing the change conspicuously doesn’t mention either network, saying only that it supports “two of America’s best 5G cellular networks.”</p>\n<p>We know one of them is T-Mobile, and the other must be either AT&amp;T or Verizon. When reached for comment, a Google spokesperson declined to name the second network, which is odd. Looking at the <a href=\"https://fi.google.com/coverage\">Fi coverage map</a>, my best guess for the super network partner is Verizon. The shape of unserved regions is a closer match than AT&amp;T, but carriers do tend to fudge the fine details of these maps.</p> </div></div>",
+  "image": "images/efea1daf2e7a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
