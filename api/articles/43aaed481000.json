@@ -1,0 +1,13 @@
+{
+  "id": "43aaed481000",
+  "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+  "originalTitle": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+  "publishedAt": "2026-11-10T21:12:59.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Aprozper said a passive DNS search returned 43,601 links ending in grok.me. Of them, more than 35,000, or nearly 95 percent, were public, meaning that clicking on the link opened the corresponding app and all data it stored. He said that tests he conducted over the past week showed that, by default, Grok sets links to “Anyone with the link.” Users have the option to change the setting to “invited users” or “only you.”</p>\n<p>A representative with Cursor, the AI coding service SpaceXSI recently acquired, said in an email that Grok Build “apps are private by default and nothing goes public unless the creator chooses to share it.” The representative said that competing coding agents from ChatGPT, Lovable, and Bolt also give users the ability to generate shareable links.</p>\n<p>Aprozper’s tests contradict the representative’s statement. In all cases, Grok Build required users to change anyone with the link to one of the other two options.</p>\n<p>The Cursor statement regarding other AI coding platforms is correct. Aprozper said that app builders, including Lovable, Bolt, and Replit, “also give each app its own web address, so the same DNS records expose them, too. However, Grok is where we found by far the most sensitive company data.” That means that people using these other platforms are also at risk of exposing sensitive data through shared links. Interestingly, AI platforms that follow the correct sharing link practice include Claude’s published artifacts (claude.ai/public/artifacts/), ChatGPT’s shared conversations (chatgpt.com/share/), and Gemini (gemini.google.com/share/). For all three, the secret randomness is in the path, so DNS never sees it.</p>\n<p>The representative didn’t respond to follow-up questions, including if SpaceXSI intentionally exposed the proprietary internal information, why the company removed the data after Ars asked about it, and if it planned to notify customers who also exposed similar types of information. Anyone using shareable links with Grok Build should choose the “invite others” option unless they intend to make an app widely available.</p> </div></div>",
+  "image": "images/37efc6728b4e.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
