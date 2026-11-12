@@ -1,0 +1,13 @@
+{
+  "id": "7d226533f769",
+  "title": "Microsoft users report outages amid tech giant 'connectivity issues' ",
+  "originalTitle": "Microsoft users report outages amid tech giant 'connectivity issues' ",
+  "source": "BBC",
+  "category": "Świat",
+  "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-11-12T20:25:29.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-testid=\"rich-text\" data-block=\"text\"><p><b>Microsoft says it is working to tackle \"connectivity problems\" after users worldwide reported outages on Thursday. </b></p><p>Services including Teams, Outlook and Microsoft's AI software Copilot were affected. </p><p>The tech giant said a part of its infrastructure was experiencing \"elevated load\", which was likely contributing to connectivity errors.</p><p>While the issue was originally reported in the US, Microsoft said the connectivity problems could affect users \"in any region\". </p><p>At around 18:30 GMT on Thursday evening, monitoring website Downdetector showed a spike in UK users reporting issues with Microsoft products.</p><p>Similarly for the US, the monitoring site suggested there had been over 131,000 reports of Microsoft Outlook problems at 18:15 GMT.</p><p>\"We determined the elevated load isn't driven by an increase in traffic, but by a number of servers being unexpectedly unavailable; straining the remaining infrastructure,\" Microsoft said in a statement.</p><p>In a further update issued at 19:50 GMT, Microsoft said it was \"testing a configuration\" to fix the problem, which was \"causing servers to fail automated health checks and become unavailable\". </p><p>All affected servers had been restarted, it added. </p></div></div>",
+  "image": "images/741d415abab7.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

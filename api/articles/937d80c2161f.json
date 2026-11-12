@@ -1,0 +1,13 @@
+{
+  "id": "937d80c2161f",
+  "title": "The amazing disappearing exoplanet",
+  "originalTitle": "The amazing disappearing exoplanet",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+  "publishedAt": "2026-11-12T17:18:10.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>The second oddity is that the transit duration grew progressively shorter in more recent observations. This suggests that, while early observations saw the planet transiting across the star’s equator, later ones involved transits near one of the poles, ensuring that the planet spent less time between the star and Earth. This trend eventually reached its logical end point: TOI-2535b simply stopped transiting in the most recent observations.</p>\n<p>Obviously, gravitational interactions with a planet orbiting in a different plane could potentially alter TOI-2535b’s orbit so it no longer passes between TOI-2535 and Earth. There is also some precedent for the converse happening: a star around which no transits were originally detected but where transits began appearing in later observations. Still, as a Jupiter-sized planet, TOI-2535b should not be that easy to shift, and as the researchers note, “This is the fastest rate of inclination change observed for an exoplanet orbiting a single star.”</p>\n<p>The second, unseen planet “would need to be either extremely massive or on a highly eccentric orbit,” the researchers noted. So they decided to figure out what sorts of configurations could lead to such rapid changes.</p>\n<h2>No clear answers</h2>\n<p>To do so, they modeled 300,000 different starting configurations and ran them forward in time. They found there wasn’t a single favored configuration; as long as the planets were in an <a href=\"https://en.wikipedia.org/wiki/Orbital_resonance\">orbital resonance</a>, things were relatively stable, at least over relatively short periods. So they took the 100 best solutions and ran them forward for a million years.</p>\n<p>About two-thirds became unstable during that period, which ruled out a couple of the potential resonances. The remaining third shared a couple of features. One is that the second, undetected planet has to be pretty massive—roughly Saturn-sized at a minimum. The second is that the angle between the orbits of the two planets can’t be that large. If it is, the difference would shrink over time, causing their orbits to become increasingly eccentric. Eventually, this results in a close approach between the two planets, followed by instability.</p> </div></div>",
+  "image": "images/7793e7273f34.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}

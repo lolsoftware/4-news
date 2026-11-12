@@ -1,0 +1,13 @@
+{
+  "id": "6efd6e806be9",
+  "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+  "originalTitle": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+  "publishedAt": "2026-11-12T19:23:03.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>Google is continuing its elemental AI naming scheme with the new <a href=\"https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\">Gemini 4 Hydrogen</a>. These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen’s purpose is clear: It replaces the faster, more economical Flash models most people in Google’s ecosystem use.</p>\n<p>With Google’s recent <a href=\"https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/\">Argon</a> and <a href=\"https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/\">Carbon</a> releases, the rollout was staged and began with cybersecurity researchers. Even when general availability began, Google restricted access to users paying for its most expensive AI subscription. The limits for Hydrogen are much more relaxed, with access beginning immediately. This model has replaced Gemini 3.8 Flash across the company’s products.</p>\n<p>Google claims that Hydrogen represents a major improvement versus the previous Flash model. It runs in one of four thinking levels (low, medium, high, and the new xhigh), and even in high mode, it’s 2.5 times faster than Flash 3.8. Plus, it reduces “fabricated claims” by more than 5x, according to Google’s analysis. Users will also see gains in code generation, with Hydrogen more than tripling 3.8 Flash’s score in Terminal-Bench. In some cases, Hydrogen even trades blows with Argon. It <a href=\"https://artificialanalysis.ai/models/gemini-4-hydrogen\">managed a score of 54</a> in the popular Artificial Analysis Intelligence Index with xhigh mode versus 50 for Argon.</p> </div></div>",
+  "image": "images/c2ce2b90d2ae.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
