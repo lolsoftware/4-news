@@ -1,0 +1,13 @@
+{
+  "id": "0de6aadc71da",
+  "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+  "originalTitle": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+  "publishedAt": "2026-11-17T14:00:29.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p>“There is no bug to patch, which is exactly why this is worse than a bug,” Ido Hoorvitch, a NewCore security researcher, wrote in an email. “A vulnerability gets fixed. This is the product working as designed: an agent that holds your credentials, acts under your identity while you sleep, ignores the one refusal you can give it, and then tells you it did nothing.”</p>\n<p>Hoorvitch said that Grok Bot provides minimal notification of the automatic “turns,” or the cycles that occur when an agent receives instructions or context, decides what to do, and calls whatever tools it chooses. The notice comes during onboarding when the bot says it keeps working while the user is away from the computer and connects to apps and uses them the way the user does.</p>\n<p>“It reads like a welcome message and scrolls off the screen in under a minute,” Hoorvitch said. “Nobody is asked to consent to it. Nothing says the platform will start turns with no message from you, or that those turns will use your connectors.”</p>\n<p>The researcher said that Grok Bot documentation notes that a primary bot checks in on its own, and a changelog mentions brief background wakes, but there is no mention that the check-ins “reach into your connected apps.” Further, once a check-in runs, there is no mention of it in the chat interface or in the chat history, and as already noted, prompts to stop check-ins don’t work. Hoorvitch said the bot “always asks before making changes,” but that applies only to events in which data or changes are written to an app.</p>\n<p>NewCore contacted Grok Bot support on November 4. At the time, users had no way to turn off the automatic check-ins. Then, eight days later, Hoorvitch said, the Cursor dashboard, the administrative console behind Grok Bot, received an update. Under bot capabilities, a new toggle called proactive messages appeared. By default, it’s set to on. When a team admin sets it to off, bots no longer run check-ins on their own.</p>\n<p>SpaceXSI representatives didn’t answer questions sent by email.</p> </div></div>",
+  "image": "images/323bd46cffcf.webp",
+  "readingTimeMin": 2,
+  "titleStatus": "skipped"
+}
