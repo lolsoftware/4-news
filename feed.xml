@@ -5,407 +5,407 @@
     <link>https://lolsoftware.github.io/4-news</link>
     <description>Personal ad-free news feed with AI-rewritten headlines</description>
     <language>pl</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:44:44 GMT</lastBuildDate>
     <atom:link href="https://lolsoftware.github.io/4-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Czarny dzień na warszawskiej giełdzie. &quot;Najgorszy tydzień roku&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c74acbd1f3d2</link>
-      <description>Spadki na Wall Street dotarły do Warszawy. Inwestorzy na GPW wyraźnie pozbywali się w piątek akcji, a najmocniej straciły największe spółki z indeksu WIG20.</description>
-      <pubDate>Fri, 20 Nov 2026 21:44:41 GMT</pubDate>
-      <guid isPermaLink="false">c74acbd1f3d2</guid>
-      <source url="https://tvn24.pl/biznes/rynki/gielda-w-warszawie-wig20-spada-o-4-48-proc-najgorszy-tydzien-roku-st9350212?source=rss">TVN24</source>
+      <title>Google One AI Plus i AI Pro za pół ceny. Z tej promocji żal nie skorzystać</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/03c3bd826417</link>
+      <description>Google obniża ceny pakietów Google One AI Plus oraz AI Pro aż o 50 procent na pierwsze dwanaście miesięcy.</description>
+      <pubDate>Sat, 21 Nov 2026 12:30:52 GMT</pubDate>
+      <guid isPermaLink="false">03c3bd826417</guid>
+      <source url="https://antyweb.pl/google-one-ai-plus-i-ai-pro-za-pol-ceny-z-tej-promocji-zal-nie-skorzystac">Antyweb</source>
     </item>
     <item>
-      <title>Francuski Senat przyjął kontrowersyjną ustawę o użyciu broni przez policję</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1eeff5c1fbe2</link>
-      <description>Francuski Senat uchwalił w piątek wieczorem ustawę wprowadzającą domniemanie zgodności z prawem użycia broni przez policję i żandarmerię. Przeciwnicy zmian zapowiadają zaskarżenie przepisów do Rady Konstytucyjnej i ostrzegają przed ograniczeniem ochrony praw obywatelskich.</description>
-      <pubDate>Fri, 20 Nov 2026 21:38:00 GMT</pubDate>
-      <guid isPermaLink="false">1eeff5c1fbe2</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-francuski-senat-przyjal-kontrowersyjna-ustawe-o-uzyciu-broni,nIdn,1027068">RMF24</source>
+      <title>Michał Figurski: przez 30 lat buntowałem się przeciwko cukrzycy. Prawie przypłaciłem to życiem</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/20739f620eaf</link>
+      <description>Przez prawie 30 lat cierpiałem na bezrozumność i prawie przez to umarłem - przyznał Michał Figurski podczas Forum Rynku Zdrowia. Dziennikarz opowiedział o dramatycznych konsekwencjach lekceważenia choroby. Uczestnicy debaty &quot;Cukrzyca bez lukru&quot; zwracali jednak uwagę, że odpowiedzialność za skuteczne leczenie nie może spoczywać wyłącznie na pacjentach.</description>
+      <pubDate>Sat, 21 Nov 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="false">20739f620eaf</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Diabetologia/Michal-Figurski-przez-30-lat-buntowalem-sie-przeciwko-cukrzycy-Prawie-przyplacilem-to-zyciem,291312,1016.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>GTA VI premierą wszech czasów. Rockstar Games podaje pierwsze dane</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/87d50dc9059a</link>
-      <description>Gra &quot;Grand Theft Auto VI&quot; osiągnęła w ciągu pierwszych 24 godzin od premiery sprzedaż na poziomie 3,79 mld dolarów - podała w piątek firma Rockstar Games. To największa premiera wszech czasów, jeśli chodzi o gry wideo.</description>
-      <pubDate>Fri, 20 Nov 2026 21:13:42 GMT</pubDate>
-      <guid isPermaLink="false">87d50dc9059a</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/gta-vi-premiera-wszech-czasow-rockstar-games-podaje-pierwsze-dane-dla-grand-theft-auto-vi-st9350245?source=rss">TVN24</source>
+      <title>Zelensky says Crimean Bridge strikes &apos;fair response&apos; as he meets UK&apos;s Streeting</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/714dcc77cc1a</link>
+      <description>Ukraine&apos;s president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.</description>
+      <pubDate>Sat, 21 Nov 2026 12:20:55 GMT</pubDate>
+      <guid isPermaLink="false">714dcc77cc1a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/cc88c546d121</link>
-      <description>Test using prompts with unique, trackable secrets proves that data doesn&apos;t stay private.</description>
-      <pubDate>Fri, 20 Nov 2026 20:59:08 GMT</pubDate>
-      <guid isPermaLink="false">cc88c546d121</guid>
-      <source url="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Ars Technica</source>
+      <title>Budżet UE po nowemu. Co propozycja Costy oznacza dla Polski?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/cb41174bdff2</link>
+      <description>Przewodniczący Rady Europejskiej António Costa przedstawił nową propozycję budżetu UE na lata 2028–2034. Dla Polski oznacza ona około 3,5 miliarda euro dodatkowej wpłaty z dochodów z ETS do unijnej kasy w ciągu siedmiu lat. Warszawa nadal się temu sprzeciwia. „Zasób własny oparty o ETS powinien być po prostu zlikwidowany” – powiedział RMF FM wiceminister spraw zagranicznych Ignacy Niemczycki. Są też inne ważne zapisy: niewielkie cięcia w polityce spójności, utrzymanie pieniędzy na rolnictwo i większe wydatki na obronność.</description>
+      <pubDate>Sat, 21 Nov 2026 12:09:00 GMT</pubDate>
+      <guid isPermaLink="false">cb41174bdff2</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-budzet-ue-po-nowemu-co-propozycja-costy-oznacza-dla-polski,nIdn,1027092">RMF24</source>
     </item>
     <item>
-      <title>Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d9d432963654</link>
-      <description>Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That&apos;s the vulnerability that honey pots exploit.</description>
-      <pubDate>Fri, 20 Nov 2026 20:58:29 GMT</pubDate>
-      <guid isPermaLink="false">d9d432963654</guid>
-      <source url="https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/">TechCrunch</source>
+      <title>“Race realism” isn’t realistic—and it isn’t good science</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/248395301e19</link>
+      <description>Modern genetics does not support claims of innate racial differences in intelligence.</description>
+      <pubDate>Sat, 21 Nov 2026 12:01:13 GMT</pubDate>
+      <guid isPermaLink="false">248395301e19</guid>
+      <source url="https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/">Ars Technica</source>
     </item>
     <item>
-      <title>Trump threatens ban on US firms building AI data centres overseas</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d020b8aa67dc</link>
-      <description>The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.</description>
-      <pubDate>Fri, 20 Nov 2026 20:54:12 GMT</pubDate>
-      <guid isPermaLink="false">d020b8aa67dc</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Catherine talks openly about how cancer changed her in documentary on BBC</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c7ae865ad133</link>
+      <description>&quot;There is a much, much deeper part to what a cancer diagnosis shifts in you,&quot; says Catherine in the documentary.</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:03 GMT</pubDate>
+      <guid isPermaLink="false">c7ae865ad133</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Chorosiński, Łabonarska, Mastalerz. Ludzie kultury w prezydenckiej radzie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/925663718576</link>
-      <description>Członkowie Rady do spraw Kultury i Dziedzictwa Narodowego przy Prezydenckie RP odebrali dziś akty powołania. Przewodniczącym został Tomasz Łysiak, a wśród członków są m.in. znani aktorzy - Halina Łabonarska, Andrzej Mastalerz, Rafał Zawierucha i Michał Chorosiński.</description>
-      <pubDate>Fri, 20 Nov 2026 20:52:00 GMT</pubDate>
-      <guid isPermaLink="false">925663718576</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-chorosinski-labonarska-mastalerz-ludzie-kultury-w-prezydenck,nIdn,1027066">RMF24</source>
+      <title>Zegarki Garmin za grosze. Wystartowały doskonałe promocje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8d021ba77667</link>
+      <description>Tegoroczna gorączka wyprzedaży z okazji Black Friday nabiera tempa, a wśród promocji na elektronikę użytkową mocno wyróżniają się obniżki cen zegarków marki Garmin.</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">8d021ba77667</guid>
+      <source url="https://antyweb.pl/zegarki-garmin-za-grosze-wystartowaly-doskonale-promocje">Antyweb</source>
     </item>
     <item>
-      <title>New NASA Seed Funding Primes Small Businesses for Innovation</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ace204e07fc0</link>
-      <description>Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling</description>
-      <pubDate>Fri, 20 Nov 2026 20:46:14 GMT</pubDate>
-      <guid isPermaLink="false">ace204e07fc0</guid>
-      <source url="https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/">NASA Breaking News</source>
+      <title>Przychodzi alert RCB o ataku z powietrza, a lekarz nie wie, co robić. Brakuje wytycznych</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/f85aabd1ce03</link>
+      <description>Poradnie i szpitale na Lubelszczyźnie i Podkarpaciu funkcjonują w cieniu zagrożenia atakiem z powietrza. Medycy i pacjenci otrzymują co prawda ostrzegające SMS-y, ale powodują one raczej chaos i dezorientację. Brakuje wytycznych, czy przychodnia powinna w takiej sytuacji działać? Czy szpital powinien rozpoczynać planowe operacje? Ministerstwo Zdrowia ma na te pytania wkrótce odpowiedzieć.</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f85aabd1ce03</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Przychodzi-alert-RCB-o-ataku-z-powietrza-a-lekarz-nie-wie-co-robic-Brakuje-wytycznych,291394,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Watching as a giant star swallowed its neighbor and exploded</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/fe2d58aadc7c</link>
-      <description>A recent brightening turned out to be from a star orbiting inside another.</description>
-      <pubDate>Fri, 20 Nov 2026 20:41:17 GMT</pubDate>
-      <guid isPermaLink="false">fe2d58aadc7c</guid>
-      <source url="https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/">Ars Technica</source>
+      <title>„Największe potencjalne zagrożenie w Lipowcu”. Prokuratura o działaniach po upadku rosyjskich maszyn</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2c30a5087785</link>
+      <description>„Czynności na miejscach zdarzeń są na różnym etapie. Z tego, co wiem, najtrudniejsza sytuacja jest w Nowym Lipowcu, ponieważ tam potencjalne zagrożenie z punktu widzenia pirotechnicznego było największe. Wiem już, że poszczególne elementy obiektu latającego są już wydobywane i zabezpieczane” - powiedział prokurator na konferencji, komentując działania prokuratury i Żandarmerii Wojskowej na terenach, na które wczoraj spadły rosyjskie maszyny: najprawdopodobniej dwie rakiety Ch-101 oraz dron odrzutowy.</description>
+      <pubDate>Sat, 21 Nov 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="false">2c30a5087785</guid>
+      <source url="https://www.rmf24.pl/regiony/news-najwieksze-potencjalne-zagrozenie-w-lipowcu-prokuratura-o-dz,nIdn,1027091">RMF24</source>
     </item>
     <item>
-      <title>Żaden rosyjski tankowiec nie dotarł do USA. Przesyłka dla Trumpa trafiła do Brazylii</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/70d8e77603de</link>
-      <description>Dwa tankowce z rosyjskim olejem napędowym dotarły do Brazylii, choć wcześniej były wskazywane jako jednostki mogące dostarczyć paliwo do Stanów Zjednoczonych. Według branżowego serwisu „The Maritime Executive” dostawy do USA utknęły m.in. z powodu politycznych i prawnych kontrowersji.</description>
-      <pubDate>Fri, 20 Nov 2026 20:36:00 GMT</pubDate>
-      <guid isPermaLink="false">70d8e77603de</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-zaden-rosyjski-tankowiec-nie-dotarl-do-usa-przesylka-dla-tru,nIdn,1027062">RMF24</source>
+      <title>Niemowlę w oknie życia w Łodzi. „Kardynał został dziadkiem”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/223ce13ea5a7</link>
+      <description>W piątkowe popołudnie w Łodzi w oknie życia prowadzonym przez siostry urszulanki pozostawiono niemowlę. Dziewczynka była zdrowa i zadbana. Jej stan sprawdziła siostra pielęgniarka i medycy, którzy przyjechali na miejsce.</description>
+      <pubDate>Sat, 21 Nov 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="false">223ce13ea5a7</guid>
+      <source url="https://www.rmf24.pl/regiony/news-niemowle-w-oknie-zycia-w-lodzi-kardynal-zostal-dziadkiem,nIdn,1027090">RMF24</source>
     </item>
     <item>
-      <title>NASA’s new Moon plan is taking shape, but some big questions remain</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/da3aafb18139</link>
-      <description>We tend to have a lot of technical discussion and debate. That point will continue to be debated.&quot;</description>
-      <pubDate>Fri, 20 Nov 2026 20:26:33 GMT</pubDate>
-      <guid isPermaLink="false">da3aafb18139</guid>
-      <source url="https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/">Ars Technica</source>
+      <title>Starsze od dinozaurów, mają fascynujące życie miłosne. Mistrzowie przetrwania w twojej łazience</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/ee3acb01dbc9</link>
+      <description>Mogą wywoływać odruch niechęci, czasem irytują swoją obecnością, lecz z naukowego punktu widzenia – budzą prawdziwy podziw. Rybiki cukrowe, znane też jako srebrzyki, to jedne z najstarszych owadów na Ziemi. Jak podkreśla prof. Stanisław Ignatowicz – uznany entomolog ze Szkoły Głównej Gospodarstwa Wiejskiego – ich rodowód sięga czasów jeszcze sprzed panowania dinozaurów. Ich historia liczy sobie setki milionów lat, a wygląd pozostaje niemal niezmienny od zamierzchłej prehistorii.</description>
+      <pubDate>Sat, 21 Nov 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="false">ee3acb01dbc9</guid>
+      <source url="https://www.rmf24.pl/fakty/nauka/news-starsze-od-dinozaurow-maja-fascynujace-zycie-milosne-mistrzo,nIdn,1026811">RMF24</source>
     </item>
     <item>
-      <title>Radosław Sikorski: Władimir Putin nie chce zakończyć wojny</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e4eb0574ffc5</link>
-      <description>Pochlebstwo to tania waluta w dyplomacji, ale ewidentnie Władimir Putin nie chce zakończyć wojny - powiedział w programie &quot;#BezKitu&quot; w TVN24 szef MSZ Radosław Sikorski, komentując nazwanie przywódcy Rosji &quot;przyjacielem&quot; przez prezydenta USA Donalda Trumpa. Mówił także, że planuje wezwać przedstawicieli Rosji na rozmowę do MSZ w związku z naruszeniem polskiej przestrzeni powietrznej.</description>
-      <pubDate>Fri, 20 Nov 2026 20:20:30 GMT</pubDate>
-      <guid isPermaLink="false">e4eb0574ffc5</guid>
-      <source url="https://tvn24.pl/polska/radoslaw-sikorski-wladimir-putin-nie-chce-zakonczyc-wojny-st9350210?source=rss">TVN24</source>
+      <title>Nowoczesne leczenie na NFZ w tych chorobach (LISTA). Pacjent musi podpisać formularz zgody</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/75f217bdaab2</link>
+      <description>Obecnie w Polsce działa ponad 140 programów lekowych. Dzięki nim pacjenci, którzy spełniają określone kryteria, mają dostęp do bezpłatnych terapii nowoczesnymi, często bardzo drogimi lekami. W jakich chorobach można ubiegać się o udział w programie lekowym?</description>
+      <pubDate>Sat, 21 Nov 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="false">75f217bdaab2</guid>
+      <source url="https://www.rynekzdrowia.pl/Farmacja/Nowoczesne-leczenie-na-NFZ-w-tych-chorobach-LISTA-Pacjent-musi-podpisac-formularz-zgody,291437,6.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Dane ponad 328 tys. uczestników wykazały związek z rakiem</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e8236aef109b</link>
-      <description>Filiżanka gorącej kawy o poranku czy parująca herbata w chłodny wieczór to dla wielu osób codzienny rytuał. Okazuje się jednak, że warto zwrócić uwagę nie tylko na to, co pijemy, ale również na temperaturę napoju. Przeanalizowane dane ponad 328 tys. uczestników wykazały związek między częstym spożywaniem bardzo gorących napojów a wyższym ryzykiem raka żołądka.</description>
-      <pubDate>Fri, 20 Nov 2026 20:20:00 GMT</pubDate>
-      <guid isPermaLink="false">e8236aef109b</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Dane-ponad-328-tys-uczestnikow-wykazaly-zwiazek-z-rakiem,291508,11.html">Rynek Zdrowia</source>
+      <title>Dieta przy przy lekach na odchudzanie. Ozempic i Mounjaro ci tego nie wybaczą</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fc822770eacb</link>
+      <description>Leki na odchudzanie, takie jak Ozempic czy Mounjaro, skutecznie zmniejszają apetyt, ale mogą też prowadzić do utraty mięśni i niedoborów składników odżywczych. Dlatego podczas terapii ważne jest nie tylko to, ile jemy, ale przede wszystkim co trafia na talerz. Odpowiednia ilość białka, błonnika i witamin pomaga chronić organizm. Eksperci wskazują, na co szczególnie uważać, by chudnąć bez szkody dla zdrowia.</description>
+      <pubDate>Sat, 21 Nov 2026 10:39:00 GMT</pubDate>
+      <guid isPermaLink="false">fc822770eacb</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Dieta-przy-przy-lekach-na-odchudzanie-Ozempic-i-Mounjaro-ci-tego-nie-wybacza,291395,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>„Kevin sam w domu” powróci po latach. Ruszyły prace nad kontynuacją</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c1a5d25410e1</link>
-      <description>Są takie filmy, bez których trudno wyobrazić sobie okres świąt Bożego Narodzenia. Od lat taką pozycją jest dla wielu widzów „Kevin sam w domu” i jego kontynuacja - „Kevin sam w Nowym Jorku”. Branżowe media donoszą teraz, że ruszyły wstępne prace nad kolejną częścią kultowej historii.</description>
-      <pubDate>Fri, 20 Nov 2026 20:16:00 GMT</pubDate>
-      <guid isPermaLink="false">c1a5d25410e1</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-kevin-sam-w-domu-powroci-po-latach-ruszyly-prace-nad-kontynu,nIdn,1027063">RMF24</source>
+      <title>Nie ma sensu wydawać fortuny na kable USB-C, skoro wiemy, co oznaczają specyfikacje</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/4819638e763c</link>
+      <description>Kabel USB-C za kilkanaście złotych może sprawdzić się równie dobrze jak model kosztujący kilka razy więcej. Nie oznacza to jednak, że każdy przewód z takim samym złączem oferuje identyczne możliwości. Przed zakupem warto sprawdzić trzy rzeczy: moc ładowania, szybkość przesyłania danych i obsługę obrazu.</description>
+      <pubDate>Sat, 21 Nov 2026 10:30:29 GMT</pubDate>
+      <guid isPermaLink="false">4819638e763c</guid>
+      <source url="https://antyweb.pl/nie-ma-sensu-wydawac-fortuny-na-kable-usb-c-skoro-wiemy-co-oznaczaja-specyfikacje">Antyweb</source>
     </item>
     <item>
-      <title>Polska przedłuża obowiązek dywersyfikacji gazu. Nowe zasady obejmą LNG</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a71423d68d36</link>
-      <description>Do konsultacji publicznych trafił projekt rozporządzenia przedłużającego do 2036 r. obowiązek dywersyfikacji dostaw gazu ziemnego z zagranicy. Projekt utrzymuje limit 33 proc. udziału dostaw z jednego źródła i wprowadza nowe zasady dla importu LNG - wynika z projektu zamieszczonego na stronie RCL.</description>
-      <pubDate>Fri, 20 Nov 2026 20:15:00 GMT</pubDate>
-      <guid isPermaLink="false">a71423d68d36</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Polska-przedluza-obowiazek-dywersyfikacji-gazu-Nowe-zasady-obejma-LNG-9232889.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Niszczyciel odporności. To dlatego jesteś ciągle zmęczony i chory</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/96e2a841caf8</link>
+      <description>Dieta keto miała pomagać w walce ze stanem zapalnym. Najnowsze odkrycia naukowców z USA pokazują jednak, że niektóre tłuszcze mogą działać odwrotnie i nasilać reakcje zapalne w organizmie. Kluczowe znaczenie ma to, jakie kwasy tłuszczowe trafiają na talerz. Wyniki badań na myszach i komórkach sugerują, że nie każda dieta ketogeniczna działa tak samo.</description>
+      <pubDate>Sat, 21 Nov 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="false">96e2a841caf8</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Niszczyciel-odpornosci-To-dlatego-jestes-ciagle-zmeczony-i-chory,291375,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Zniknęły kluczowe zapisy. Konflikt interesów w ustawie o psychoterapeutach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f7d71d4a208c</link>
-      <description>Sejm po ponad roku przerwy wrócił do projektu ustawy o zawodzie psychoterapeuty, ale pracuje już nad inną wersją. Przygotował ją zespół przy Ministerstwie Zdrowia, którego członków obowiązywała poufność. Porównaliśmy obie wersje punkt po punkcie, sprawdziliśmy, kto miałby decydować o szkołach i egzaminach dla psychoterapeutów. Część zmian budzi niepokój.</description>
-      <pubDate>Fri, 20 Nov 2026 20:10:00 GMT</pubDate>
-      <guid isPermaLink="false">f7d71d4a208c</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Zniknely-kluczowe-zapisy-Konflikt-interesow-w-ustawie-o-psychoterapeutach,291535,2.html">Rynek Zdrowia</source>
+      <title>Uderza w wątrobę i doprowadza do marskości. Ale zagrożenie jest większe</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/5922268a082d</link>
+      <description>Przewlekłe spożywanie alkoholu ma negatywny wpływ nie tylko na wątrobę, ale również na funkcjonowanie płuc. Wynika to z badania, który wykazał, że alkohol zaburza mechanizmy odporności, co oznacza, że osoby z zaburzeniami związanymi z używaniem alkoholu są bardziej podatne na rozwój chorób układu oddechowego.</description>
+      <pubDate>Sat, 21 Nov 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="false">5922268a082d</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Uderza-w-watrobe-i-doprowadza-do-marskosci-Ale-zagrozenie-jest-wieksze,291384,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Kot utknął w kanale burzowym. &quot;To najbardziej kocie zdjęcie wszech czasów&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d3b0797d6f3c</link>
-      <description>Kot w amerykańskim stanie Wirginia znalazł się w nie lada potrzasku - utknął w kanale burzowym w taki sposób, że jego głowa wypełniała otwór odpływu. Na miejsce wezwano strażaków, którzy pomogli zwierzęciu się oswobodzić.</description>
-      <pubDate>Fri, 20 Nov 2026 20:09:18 GMT</pubDate>
-      <guid isPermaLink="false">d3b0797d6f3c</guid>
-      <source url="https://tvn24.pl/tvnmeteo/swiat/usa-kot-ugrzazl-w-kanale-burzowym-to-najbardziej-kocie-zdjecie-wszechczasow-st9350147?source=rss">TVN24</source>
+      <title>Von der Leyen: Rosyjskie zagrożenia coraz bardziej rzeczywiste</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/c46f92952bfd</link>
+      <description>Rosyjskie zagrożenia hybrydowe stają się coraz mniej „hybrydowe”, a coraz bardziej rzeczywiste - alarmuje przewodnicząca Komisji Europejskiej. Ursula von der Leyen potępiła próbę zamachu na osobę z podwójnym obywatelstwem, amerykańskim i ukraińskim, zorganizowaną w Danii przez rosyjskie służby wywiadowcze.</description>
+      <pubDate>Sat, 21 Nov 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="false">c46f92952bfd</guid>
+      <source url="https://www.rmf24.pl/fakty/swiat/news-von-der-leyen-rosyjskie-zagrozenia-coraz-bardziej-rzeczywist,nIdn,1027086">RMF24</source>
     </item>
     <item>
-      <title>Wiceszef MON o &quot;silniejszym wsparciu&quot; po naruszeniu polskiej przestrzeni. &quot;Mamy już wstępne sygnały&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/368ee646b84c</link>
-      <description>To niezwykle poważne incydenty, które z najwyższą powagą są traktowane przez naszych sojuszników - powiedział w &quot;Faktach po Faktach&quot; w TVN24 wiceszef MON Paweł Zalewski. Komentował naruszenie polskiej przestrzeni powietrznej oraz kwestię ewakuacji wieży kontroli lotów na lotnisku Jasionka. Mówił między innymi o potrzebie zwiększenia środków obrony powietrznej.</description>
-      <pubDate>Fri, 20 Nov 2026 20:03:30 GMT</pubDate>
-      <guid isPermaLink="false">368ee646b84c</guid>
-      <source url="https://tvn24.pl/polska/naruszenie-polskiej-przestrzeni-powietrznej-wiceszef-mon-pawel-zalewski-o-silniejszym-wsparciu-st9350169?source=rss">TVN24</source>
+      <title>Międzynarodowe wycofanie. Skażony suplement trafił do sprzedaży</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/0a4b0be85623</link>
+      <description>Amerykańska Agencja Żywności i Leków wydała ostrzeżenie przed popularnym suplementem diety z ashwagandhą. Jedną z jego partii wycofano z rynku z powodu podejrzenia skażenia Salmonellą. Preparat sprzedawany był również przez internet.</description>
+      <pubDate>Sat, 21 Nov 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="false">0a4b0be85623</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Miedzynarodowe-wycofanie-Skazony-suplement-trafil-do-sprzedazy,290966,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Próba zamachu najpierw w Polsce, teraz w Danii. &quot;Kolejny przykład kryminalnego działania Rosji&quot;</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/c28fb6b090f1</link>
-      <description>Duńskie służby bezpieczeństwa poinformowały w piątek o zatrzymaniu dwóch członków gangu pod zarzutem przygotowywania w Danii zamachu na ukraińsko-amerykańskiego rapera Kyivstonera. Zleceniodawcą miał być wywiad Rosji. Do podobnej sytuacji doszło wcześniej w Polsce.</description>
-      <pubDate>Fri, 20 Nov 2026 20:01:23 GMT</pubDate>
-      <guid isPermaLink="false">c28fb6b090f1</guid>
-      <source url="https://tvn24.pl/swiat/kyivstoner-na-celowniku-rosji-kolejna-proba-zamachu-na-rapera-st9350205?source=rss">TVN24</source>
+      <title>Kim był Kuba Rozpruwacz? Nowe dowody pogrążają fryzjera z Kłodawy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3d062ccc4a7b</link>
+      <description>Po ponad 130 latach współczesna nauka może być wreszcie bliska rozwiązania jednej z największych zagadek kryminalnych świata. Badania DNA znalezionego na jedwabnym szalu jednej z ofiar potwierdzają, że słynnym Kubą Rozpruwaczem był pochodzący z Polski fryzjer, Aaron Kośmiński. Nie wszyscy eksperci są jednak przekonani do ustaleń, że to właśnie Kośmiński stoi za serią tajemniczych morderstw popełnionych w Londynie za czasów wiktoriańskich.</description>
+      <pubDate>Sat, 21 Nov 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="false">3d062ccc4a7b</guid>
+      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-kim-byl-kuba-rozpruwacz-nowe-dowody-pograzaja-fryzjera-z-klo,nIdn,1026838">RMF24</source>
     </item>
     <item>
-      <title>Anthropic shares fall after blockbuster opening as wider tech sell-off continues</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/53ba164e0140</link>
-      <description>Other tech companies have also taken a hit as share markets broadly slump.</description>
-      <pubDate>Fri, 20 Nov 2026 20:00:53 GMT</pubDate>
-      <guid isPermaLink="false">53ba164e0140</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>31 tys. hospitalizacji i blisko tysiąc zgonów. Lekarz: te miesiące będą najgorsze</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/00e0b02b16c1</link>
+      <description>Ponad milion zachorowań, 31 tys. hospitalizacji i blisko tysiąc zgonów – taki bilans pozostawiła grypa w Polsce w poprzednim sezonie. Choć coraz więcej Polaków decyduje się na szczepienia, nadal jesteśmy w europejskim ogonie. W niektórych krajach szczepi się niemal 80 proc. seniorów, u nas zaledwie 16 proc. Eksperci przypominają, że szczyt zachorowań dopiero przed nami, a część pacjentów może otrzymać szczepionkę bezpłatnie.</description>
+      <pubDate>Sat, 21 Nov 2026 10:06:00 GMT</pubDate>
+      <guid isPermaLink="false">00e0b02b16c1</guid>
+      <source url="https://www.rynekzdrowia.pl/Choroby-zakazne/31-tys-hospitalizacji-i-blisko-tysiac-zgonow-Lekarz-te-miesiace-beda-najgorsze,291420,22.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Wojsko i ministerstwo ostrzegają. „Nie ulegaj emocjom. Weryfikuj źródła”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f39199bdf094</link>
-      <description>Wojska Obrony Cyberprzestrzeni i Ministerstwo Spraw Wewnętrznych i Administracji apelują o korzystanie z oficjalnych źródeł, sprawdzanie informacji i nieudostępnianie niesprawdzonych treści. Ostrzeżenia wydano po piątkowym naruszeniu polskiej przestrzeni powietrznej.</description>
-      <pubDate>Fri, 20 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f39199bdf094</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-wojsko-i-ministerstwo-ostrzegaja-nie-ulegaj-emocjom-weryfiku,nIdn,1027058">RMF24</source>
+      <title>Mam dość Disney+. Ta aplikacja powinna wylądować w koszu</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8c9cfbc58c7b</link>
+      <description>Chcę oglądać seriale, a nie rozwiązywać zagadki interfejsu. Dlatego Disney+ za każdym razem, gdy wracam, przypomina mi, jak bardzo nie znoszę ich platformy.</description>
+      <pubDate>Sat, 21 Nov 2026 10:00:50 GMT</pubDate>
+      <guid isPermaLink="false">8c9cfbc58c7b</guid>
+      <source url="https://antyweb.pl/mam-dosc-disney-ta-aplikacja-powinna-wyladowac-w-koszu">Antyweb</source>
     </item>
     <item>
-      <title>Nie żyje Zbigniew Czapski-Kłoda. Opera Narodowa żegna pracownika</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3969af3291a0</link>
-      <description>Nie żyje Zbigniew Czapski-Kłoda – wybitny tancerz, pedagog i wieloletni pracownik Teatru Wielkiego – Opery Narodowej w Warszawie. Artysta zmarł 19 listopada po długiej walce z chorobą nowotworową. O jego śmierci poinformował Teatr Wielki, podkreślając ogromny wkład Czapskiego-Kłody w rozwój polskiego baletu.</description>
-      <pubDate>Fri, 20 Nov 2026 19:57:00 GMT</pubDate>
-      <guid isPermaLink="false">3969af3291a0</guid>
-      <source url="https://www.rmf24.pl/fakty/kultura/news-nie-zyje-zbigniew-czapski-kloda-opera-narodowa-zegna-pracown,nIdn,1027060">RMF24</source>
+      <title>Tylko 18 proc. dzieci i nastoaltków zaszczepionych przeciwko HPV. Co z obowiązkiem szczepień?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3189bf3ac2d6</link>
+      <description>W związku z poziomem wyszczepienia dzieci i nastolatków przeciwko wirusowi HPV prowadzone są kolejne prace legislacyjne. W projekcie noweli rozporządzenia przewidziano objęcie obowiązkowym szczepieniem osób od ukończenia 9. do ukończenia 15. roku życia – mówiła w Sejmie wiceministra zdrowia Katarzyna Kęcka.</description>
+      <pubDate>Sat, 21 Nov 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="false">3189bf3ac2d6</guid>
+      <source url="https://www.rynekzdrowia.pl/Serwis-Szczepienia/Tylko-18-proc-dzieci-i-nastoaltkow-zaszczepionych-przeciwko-HPV-Co-z-obowiazkiem-szczepien,291526,1018.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Trump i Xi porozumieli się w sprawie AI. Prezydent USA zapowiada zakaz dla firm</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/77585109c64e</link>
-      <description>Prezydent USA Donald Trump ogłosił, że razem z przywódcą Chin Xi Jinpingiem uzgodnili, że stworzą wspólne &quot;mechanizmy bezpieczeństwa&quot; dotyczące rozwoju sztucznej inteligencji (AI). Zapowiedział też, że zabroni amerykańskim firmom budowy centrów danych za granicą.</description>
-      <pubDate>Fri, 20 Nov 2026 19:56:23 GMT</pubDate>
-      <guid isPermaLink="false">77585109c64e</guid>
-      <source url="https://tvn24.pl/biznes/ze-swiata/trump-i-xi-jinping-porozumieli-sie-w-sprawie-sztucznej-inteligencji-st9350172?source=rss">TVN24</source>
+      <title>Fight over fossil fuels leaves COP31 climate talks in deadlock</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/e54ec07f7364</link>
+      <description>Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.</description>
+      <pubDate>Sat, 21 Nov 2026 09:52:11 GMT</pubDate>
+      <guid isPermaLink="false">e54ec07f7364</guid>
+      <source url="https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/05d06a2ae371</link>
-      <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here&apos;s what the startup is building.</description>
-      <pubDate>Fri, 20 Nov 2026 19:53:41 GMT</pubDate>
-      <guid isPermaLink="false">05d06a2ae371</guid>
-      <source url="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/">TechCrunch</source>
+      <title>Wygląda z góry jak park, ale to tylko jedno drzewo. To największy nerkowiec na Ziemi</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8785f174c077</link>
+      <description>Na pierwszy rzut oka przypomina gęsty, tropikalny zagajnik, w którym łatwo stracić orientację. W rzeczywistości wszystkie te pnie i konary tworzą jeden organizm. W brazylijskiej miejscowości Pirangi od ponad 130 lat rośnie największe drzewo nerkowca na świecie – botaniczny gigant o powierzchni 8 500 metrów kwadratowych, którego nieustanny rozrost staje się dziś wyzwaniem dla całego miasta.</description>
+      <pubDate>Sat, 21 Nov 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="false">8785f174c077</guid>
+      <source url="https://www.rmf24.pl/ciekawostki-rmf24/news-wyglada-z-gory-jak-park-ale-to-tylko-jedno-drzewo-to-najwiek,nIdn,1026686">RMF24</source>
     </item>
     <item>
-      <title>Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/7393f8d24cf3</link>
-      <description>CTIA said jamming test showed &quot;interference... up to two and a half miles away.&quot;</description>
-      <pubDate>Fri, 20 Nov 2026 19:52:59 GMT</pubDate>
-      <guid isPermaLink="false">7393f8d24cf3</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/">Ars Technica</source>
+      <title>Deal with EU not dependent on tuition fees agreement, Miliband says</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8bd28aa954d3</link>
+      <description>Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.</description>
+      <pubDate>Sat, 21 Nov 2026 09:40:55 GMT</pubDate>
+      <guid isPermaLink="false">8bd28aa954d3</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss">BBC</source>
     </item>
     <item>
-      <title>Kevin sam w domu powraca! Fani będą zachwyceni</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3e644af0f897</link>
-      <description>Dorosły Kevin powróci na ekrany. Fani będą zachwyceni.</description>
-      <pubDate>Fri, 20 Nov 2026 19:50:45 GMT</pubDate>
-      <guid isPermaLink="false">3e644af0f897</guid>
-      <source url="https://antyweb.pl/kevin-sam-w-domu-powraca-fani-beda-zachwyceni">Antyweb</source>
+      <title>Szefernaker broni „tronu” dla Trumpa: Nie każdy prezent musi być zrozumiały</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/dc4515bd24ad</link>
+      <description>„Różne są formaty, różne prezenty w różnych przypadkach się przygotowuje, różne są także zwyczaje” - tak na antenie RMF FM Paweł Szefernaker, szef Gabinetu Prezydenta RP, skomentował prezent urodzinowy, który Karol Nawrocki sprawił prezydentowi USA Donaldowi Trumpowi. Jak ustalił reporter TVN24+, prezentem, który był utrzymywany w tajemnicy nawet przed Ministerstwem Spraw Zagranicznych, był „bursztynowy tron” - bogato zdobiony fotel. Paweł Szefernaker zdradził również w programie Krzysztofa Ziemca „Sprawdzam!” w RMF FM, czy Nawrocki rozmawiał z Trumpem po tym, jak ten na szczycie w Shenzhen nazwał Władimira Putina „przyjacielem”.</description>
+      <pubDate>Sat, 21 Nov 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="false">dc4515bd24ad</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-szefernaker-broni-tronu-dla-trumpa-nie-kazdy-prezent-musi-by,nIdn,1027079">RMF24</source>
     </item>
     <item>
-      <title>Gérard Depardieu and French author investigated over sexual allegations</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d88d0288efc8</link>
-      <description>A judicial investigation was launched after a complaint was filed last year over &quot;allegations of a sexual nature&quot;.</description>
-      <pubDate>Fri, 20 Nov 2026 19:45:20 GMT</pubDate>
-      <guid isPermaLink="false">d88d0288efc8</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Atak zimy w Tatrach. TOPR apeluje o ostrożność</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/257980431a6d</link>
+      <description>W Tatrach zima rozgościła się na dobre. Na Kasprowym Wierchu leży już 30 cm śniegu, a w Dolinie Pięciu Stawów Polskich 25 cm. Intensywne opady, silny wiatr i pierwsze ostrzeżenia lawinowe sprawiają, że warunki na szlakach są bardzo trudne. Służby apelują o ostrożność.</description>
+      <pubDate>Sat, 21 Nov 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="false">257980431a6d</guid>
+      <source url="https://www.rmf24.pl/regiony/zakopane/news-atak-zimy-w-tatrach-topr-apeluje-o-ostroznosc,nIdn,1027083">RMF24</source>
     </item>
     <item>
-      <title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/81e856d23e6c</link>
-      <description>Mathematicians are having their minds blown by the latest AI-driven result — and there&apos;s a competing human solution, too.</description>
-      <pubDate>Fri, 20 Nov 2026 19:32:08 GMT</pubDate>
-      <guid isPermaLink="false">81e856d23e6c</guid>
-      <source url="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/">TechCrunch</source>
+      <title>Pilne ostrzeżenie. Miała obniżać cukier, a zdewastowała nerki</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/1501ca379b3e</link>
+      <description>Wygląda egzotycznie, ma charakterystyczny kształt gwiazdy i bywa polecany jako naturalny sposób na obniżenie poziomu cukru we krwi. Naukowcy ostrzegają jednak, że ten tropikalny owoc może poważnie zaszkodzić nerkom. W czasopiśmie „BMC Nephrology” opisano przypadki trzech pacjentów, u których po jego spożyciu doszło do ostrego uszkodzenia nerek. Dwóch mężczyzn wymagało dializ.</description>
+      <pubDate>Sat, 21 Nov 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="false">1501ca379b3e</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Pilne-ostrzezenie-Miala-obnizac-cukier-a-zdewastowala-nerki,291474,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Nowy odcinek drugiej linii metra. Ratusz podał harmonogram</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/d27b6cbcf1a0</link>
-      <description>Druga linia metra zostanie przedłużona z Bródna na Marymont. W piątek stołeczny ratusz podał harmonogram projektowania nowego odcinka. Termin samej budowy pozostaje nieznany.</description>
-      <pubDate>Fri, 20 Nov 2026 19:30:59 GMT</pubDate>
-      <guid isPermaLink="false">d27b6cbcf1a0</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-rozbudowa-drugiej-linii-metra-harmonogram-prac-projektowych-st9350022?source=rss">TVN24</source>
+      <title>49-latka trafiła na SOR. Popularna herbata doprowadziła do ciężkich zaburzeń</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/14b1de65ec7f</link>
+      <description>Herbatki ziołowe często uchodzą za bezpieczny element codziennej diety. Tymczasem nadmierne spożywanie niektórych roślin może prowadzić do poważnych zaburzeń w organizmie. 49-letnia kobieta po trzech tygodniach regularnego picia dużych ilości naparu z lukrecji trafiła na szpitalny oddział ratunkowy.</description>
+      <pubDate>Sat, 21 Nov 2026 09:20:00 GMT</pubDate>
+      <guid isPermaLink="false">14b1de65ec7f</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/49-latka-trafila-na-SOR-Popularna-herbata-doprowadzila-do-ciezkich-zaburzen,291479,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Army delays detonating &quot;catastrophically hazardous&quot; lead azide amid fear, anger</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3d2e8ae68cb1</link>
-      <description>Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.</description>
-      <pubDate>Fri, 20 Nov 2026 19:21:50 GMT</pubDate>
-      <guid isPermaLink="false">3d2e8ae68cb1</guid>
-      <source url="https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/">Ars Technica</source>
+      <title>Nowe zasady na drogach w Chorwacji. Sprawdź, co musisz wiedzieć przed wyjazdem?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/08c0bd50b8bf</link>
+      <description>Od połowy listopada w Chorwacji obowiązują nowe przepisy dotyczące wyposażenia samochodów na wybranych trasach. To jednak nie koniec zmian – i to jest ważna informacja dla osób planujących przyszłoroczny urlop w tym kraju. Od marca 2027 roku rusza nowy system opłat drogowych.</description>
+      <pubDate>Sat, 21 Nov 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="false">08c0bd50b8bf</guid>
+      <source url="https://www.rmf24.pl/fakty/ekonomia/news-nowe-zasady-na-drogach-w-chorwacji-sprawdz-co-musisz-wiedzie,nIdn,1026284">RMF24</source>
     </item>
     <item>
-      <title>Przeanalizowali ponad 63 tys. pacjentów. Tak Ozempic może wpływać na psychikę</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/933fa8e45c10</link>
-      <description>Naukowcy z firmy Nference, we współpracy z Metabolism Agentic Intelligence Atlas (MAIA), przeanalizowali dane ponad 63 tys. pacjentów leczonych semaglutydem, czyli preparatami typu Ozempic i Rybelsus. Celem badania było sprawdzenie, czy zażywanie leku ma związek z występowaniem zaburzeń neuropsychiatrycznych.</description>
-      <pubDate>Fri, 20 Nov 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="false">933fa8e45c10</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Przeanalizowali-ponad-63-tys-pacjentow-Tak-Ozempic-moze-wplywac-na-psychike,291520,11.html">Rynek Zdrowia</source>
+      <title>Niszczy kości od środka, zwiększa ryzyko złamania biodra. Omijaj z daleka</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3ec610a639fa</link>
+      <description>Przez 34 lata naukowcy obserwowali niemal 88 tys. kobiet, analizując ich dietę i stan zdrowia. Wyniki są niepokojące. Okazało się, że określony sposób odżywiania wiąże się z nawet o 22 proc. wyższym ryzykiem złamania biodra. Badacze wskazali również produkty, których spożywanie może sprzyjać ochronie kości. Niektóre ustalenia mogą zaskakiwać.</description>
+      <pubDate>Sat, 21 Nov 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="false">3ec610a639fa</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Niszczy-kosci-od-srodka-zwieksza-ryzyko-zlamania-biodra-Omijaj-z-daleka,291500,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>„Aktywna armia Boga” walczy o przejęcie USA. Trump, apostołowie i prorocy</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dfbb04a0daab</link>
-      <description>Amerykański ruch religijny znany jako Nowa Reformacja Apostolska (NAR) zyskuje polityczne wpływy w USA i otwarcie promuje wizję państwa opartego na chrześcijańskich zasadach – pisze Stephanie McCrummen, publicystka magazynu „The Atlantic”. Według autorki działacze ruchu wsparli Donalda Trumpa, a jego sukces polityczny pozwolił NAR wyjść z cienia.</description>
-      <pubDate>Fri, 20 Nov 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="false">dfbb04a0daab</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-aktywna-armia-boga-walczy-o-przejecie-usa-trump-apostolowie-,nIdn,1027054">RMF24</source>
+      <title>W aucie miał broń i amunicję, w kontenerze nielegalne papierosy. Obywatel Armenii zatrzymany</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/44e9c9dbc8d7</link>
+      <description>Ponad 17 tysięcy paczek papierosów bez polskich znaków akcyzy oraz nielegalnie posiadana broń i amunicja – to bilans policyjnej akcji przeprowadzonej na jednej z warszawskich posesji. Zatrzymany 30-letni obywatel Armenii decyzją prokuratora został objęty policyjnym dozorem.</description>
+      <pubDate>Sat, 21 Nov 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="false">44e9c9dbc8d7</guid>
+      <source url="https://www.rmf24.pl/regiony/warszawa/news-w-aucie-mial-bron-i-amunicje-w-kontenerze-nielegalne-papiero,nIdn,1027081">RMF24</source>
     </item>
     <item>
-      <title>Zestrzeliwanie rakiet jeszcze nad Ukrainą? Dwaj generałowie komentują</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/1800ca562498</link>
-      <description>Musimy robić wszystko, aby w NATO zapadła tego typu decyzja - powiedział generał brygady Stanisław Koziej o możliwości zestrzeliwania rosyjskich pocisków jeszcze nad Ukrainą. Zdaniem generała Bogusława Packa rozwiązanie to &quot;byłoby dzisiaj najbardziej adekwatne do coraz poważniejszego zagrożenia&quot;.</description>
-      <pubDate>Fri, 20 Nov 2026 19:07:07 GMT</pubDate>
-      <guid isPermaLink="false">1800ca562498</guid>
-      <source url="https://tvn24.pl/polska/zestrzeliwanie-rakiet-jeszcze-nad-ukraina-dwaj-generalowie-komentuja-st9350082?source=rss">TVN24</source>
+      <title>Sikorski reaguje na wtargnięcie rosyjskich obiektów do Polski. „Ekstremalne niezadowolenie”</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6323c31ad0a9</link>
+      <description>„Będziemy komunikować nasze ekstremalne niezadowolenie stronie rosyjskiej. Czekamy na potwierdzenie twardych faktów. To, że sprawa będzie omawiana w Brukseli, zarówno w kręgach wojskowych jak i politycznych, to rzecz oczywista” - powiedział minister spraw zagranicznych, wicepremier Radosław Sikorski, komentując wczorajsze naruszenie przestrzeni powietrznej Polski przez rosyjskie obiekty, które spadły w trzech miejscowościach na Lubelszczyźnie i na Podkarpaciu.</description>
+      <pubDate>Sat, 21 Nov 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="false">6323c31ad0a9</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-sikorski-reaguje-na-wtargniecie-rosyjskich-obiektow-do-polsk,nIdn,1027082">RMF24</source>
     </item>
     <item>
-      <title>Trump ujawnia słowa Putina. „Nie dokonałbym inwazji, gdybyś był prezydentem”</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/ae44fce6e925</link>
-      <description>Władimir Putin jasno wyraził chęć zakończenia wojny między Rosją a Ukrainą środkami dyplomatycznymi - powiedział w piątek prezydent USA Donald Trump. Wyjawił też, że Putin powiedział mu, że nie zaatakowałby Ukrainy, gdyby Trump był wówczas prezydentem.</description>
-      <pubDate>Fri, 20 Nov 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ae44fce6e925</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Trump-ujawnia-slowa-Putina-Nie-dokonalbym-inwazji-gdybys-byl-prezydentem-9232843.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Szwedzi wymyślili przycisk, który pomoże rzadziej sięgać po telefon</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/6220803655f0</link>
+      <description>Szwedzka firma Shortcut Labs stworzyła Flic Cue – niewielki przycisk, który pozwala korzystać z AI, tworzyć przypomnienia i sterować inteligentnym domem bez sięgania po smartfon. Czy taki gadżet pomoże ograniczyć czas spędzany przed ekranem?</description>
+      <pubDate>Sat, 21 Nov 2026 09:00:46 GMT</pubDate>
+      <guid isPermaLink="false">6220803655f0</guid>
+      <source url="https://antyweb.pl/flic-cue-maly-przycisk-zamiast-kolejnej-aplikacji">Antyweb</source>
     </item>
     <item>
-      <title>Są pomysły na nowe terapie. Dlaczego tak trudno wprowadzić je do szpitali?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/a6309b2e846b</link>
-      <description>Przełomowy pomysł, obiecujące wyniki badań i zespół gotowy do działania. A potem? Skomplikowane procedury, poszukiwanie finansowania i trudna droga do wdrożenia. Dlaczego nawet wartościowe projekty medyczne napotykają bariery, które mogą zahamować ich rozwój? I jak sprawić, żeby więcej innowacyjnych rozwiązań trafiało do pacjentów? O tym, na konkretnych przykładach, będzie mowa podczas konferencji „Bitwa o innowacje. Jaką rolę chce odegrać Polska w Europie?”.</description>
-      <pubDate>Fri, 20 Nov 2026 18:55:00 GMT</pubDate>
-      <guid isPermaLink="false">a6309b2e846b</guid>
-      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Sa-pomysly-na-nowe-terapie-Dlaczego-tak-trudno-wprowadzic-je-do-szpitali,291538,11.html">Rynek Zdrowia</source>
+      <title>Raz dziennie. Jelita wskoczą na wyższe obroty, a brzuch znów będzie płaski</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/3640f28be800</link>
+      <description>Wystarczy łyżka nasion i gorąca woda, by przygotować napój, który może korzystnie wpływać na pracę jelit i trawienie. Siemię lniane jest bogate w błonnik, kwasy omega-3 i cenne minerały. Regularne spożywanie może pomagać przy zaparciach, wspierać kontrolę cholesterolu i zapewniać dłuższe uczucie sytości. Trzeba jednak uważać na ilość, bo nadmiar może zaszkodzić.</description>
+      <pubDate>Sat, 21 Nov 2026 08:58:00 GMT</pubDate>
+      <guid isPermaLink="false">3640f28be800</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/Raz-dziennie-Jelita-wskocza-na-wyzsze-obroty-a-brzuch-znow-bedzie-plaski,291513,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>„Ma teraz ciężki okres, bo toczy wojnę, która powinna trwać jeden dzień”. Trump o Putinie</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/93de728cfdb5</link>
-      <description>„To nigdy by się nie wydarzyło” – tak Władimir Putin miał odpowiedzieć na pytanie o inwazję na Ukrainę, gdyby w Białym Domu zasiadał wówczas Donald Trump. Podczas podsumowania azjatyckiej podróży amerykański prezydent nie tylko ujawnił kulisy rozmów z rosyjskim przywódcą, ale też zapowiedział rewolucję w branży technologicznej i zakaz, który może wstrząsnąć gigantami AI.</description>
-      <pubDate>Fri, 20 Nov 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="false">93de728cfdb5</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-ma-teraz-ciezki-okres-bo-toczy-wojne-ktora-powinna-trwac-jed,nIdn,1027055">RMF24</source>
+      <title>Nowe zasady już obowiązują. Tego badania nie zrobisz na NFZ</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/7dc7233d92bb</link>
+      <description>Miliony Polek muszą przyzwyczaić się do nowych zasad profilaktyki raka szyjki macicy. Klasyczna cytologia przestaje być podstawowym badaniem w programie finansowanym przez NFZ. Zastępuje ją nowoczesny test wykrywający groźne typy wirusa HPV, który pozwala wcześniej zidentyfikować ryzyko rozwoju nowotworu. Zmienia się także częstotliwość badań. Nowe zasady dotyczą nawet 10,2 mln kobiet w Polsce.</description>
+      <pubDate>Sat, 21 Nov 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="false">7dc7233d92bb</guid>
+      <source url="https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Nowe-zasady-juz-obowiazuja-Tego-badania-nie-zrobisz-na-NFZ,291518,1.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Cezary Tomczyk z USA: w Pentagonie pytali, jakiej pomocy Polska potrzebuje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/29eb11a99f3c</link>
-      <description>Wiceminister obrony narodowej Cezary Tomczyk przekazał w Pentagonie szczegółowe informacje o wlocie rosyjskich rakiet i drona do Polski. Jak relacjonował, Amerykanie pytali, jakiej pomocy Polska przede wszystkim potrzebuje.</description>
-      <pubDate>Fri, 20 Nov 2026 18:50:21 GMT</pubDate>
-      <guid isPermaLink="false">29eb11a99f3c</guid>
-      <source url="https://tvn24.pl/polska/cezary-tomczyk-z-usa-w-pentagonie-pytali-jakiej-pomocy-polska-potrzebuje-st9350136?source=rss">TVN24</source>
+      <title>63 tys. pacjentów, 24 zaburzenia. Tak Ozempic wpływa na mózg</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/fddfceed1138</link>
+      <description>Ozempic kojarzy się przede wszystkim z leczeniem cukrzycy i odchudzaniem. Okazuje się jednak, że zawarty w nim semaglutyd może mieć związek również ze zdrowiem psychicznym. Naukowcy przeanalizowali dane ponad 63 tys. pacjentów i odkryli, że wyższe dawki leku wiązały się z rzadszym występowaniem niektórych zaburzeń neuropsychiatrycznych. Co ważne, zależności tej nie tłumaczyła sama utrata kilogramów.</description>
+      <pubDate>Sat, 21 Nov 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="false">fddfceed1138</guid>
+      <source url="https://www.rynekzdrowia.pl/Badania-i-rozwoj/63-tys-pacjentow-24-zaburzenia-Tak-Ozempic-wplywa-na-mozg,291520,11.html">Rynek Zdrowia</source>
     </item>
     <item>
-      <title>Prezydent zawetował podwyżkę VAT na te napoje. W tle zdrowie i miliardy złotych</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5415d63c7f9a</link>
-      <description>Prezydent Karol Nawrocki zawetował ustawę podnoszącą VAT na niektóre napoje z dodatkiem soku do 23 proc. Zdaniem głowy państwa przekazanie do podpisu tych przepisów w pakiecie z podwyżką akcyzy na alkohol poddaje w wątpliwość logikę działań rządu.</description>
-      <pubDate>Fri, 20 Nov 2026 18:45:00 GMT</pubDate>
-      <guid isPermaLink="false">5415d63c7f9a</guid>
-      <source url="https://www.rynekzdrowia.pl/Prawo/Prezydent-zawetowal-podwyzke-VAT-na-te-napoje-W-tle-zdrowie-i-miliardy-zlotych,291505,2.html">Rynek Zdrowia</source>
+      <title>Motocyklista był pijany i bez prawa jazdy. Za śmierć pieszego nie poniósł odpowiedzialności</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/31d73f6b843c</link>
+      <description>Rodzina 91-letniego pieszego, który niedaleko Moniek (Podlaskie) został śmiertelnie potrącony przez motocyklistę, nie zgadza się z prawomocnym uniewinnieniem w tej sprawie. Do Sądu Najwyższego trafiła kasacja złożona przez pełnomocnika oskarżycieli posiłkowych.</description>
+      <pubDate>Sat, 21 Nov 2026 08:38:00 GMT</pubDate>
+      <guid isPermaLink="false">31d73f6b843c</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Motocyklista-byl-pijany-i-bez-prawa-jazdy-Za-smierc-pieszego-nie-poniosl-odpowiedzialnosci-9232969.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Betonowe zapory wracają na Krakowskie Przedmieście. Będą zmiany w ruchu</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/6736e77077c9</link>
-      <description>Ze względów bezpieczeństwa w kolejne weekendy na Trakcie Królewskim ponownie pojawią się betonowe zapory. Oznacza to zmiany w organizacji ruchu, utrudnienia dla kierowców oraz objazdy dla autobusów miejskich. Ograniczenia obejmą również ulice w rejonie Starówki.</description>
-      <pubDate>Fri, 20 Nov 2026 18:43:55 GMT</pubDate>
-      <guid isPermaLink="false">6736e77077c9</guid>
-      <source url="https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-betonowe-zapory-wracaja-na-krakowskie-przedmiescie-st9350086?source=rss">TVN24</source>
+      <title>Groził posłance na Sejm. 42-latek w rękach policji</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/262f7410650c</link>
+      <description>Policjanci z Wrocławia zatrzymali 42-letniego mieszkańca powiatu wałbrzyskiego, który jest podejrzany o kierowanie gróźb karalnych wobec posłanki na Sejm RP. Mężczyzna miał wysyłać do parlamentarzystki SMS-y, które miały na celu jej zastraszenie.</description>
+      <pubDate>Sat, 21 Nov 2026 08:23:00 GMT</pubDate>
+      <guid isPermaLink="false">262f7410650c</guid>
+      <source url="https://www.rmf24.pl/regiony/wroclaw/news-grozil-poslance-na-sejm-42-latek-w-rekach-policji,nIdn,1027078">RMF24</source>
     </item>
     <item>
-      <title>Święczkowski straci połowę wynagrodzenia, a nie 150 proc. TK wydał komunikat</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f04d9e050cd0</link>
-      <description>Nie sumuje się obniżek wynagrodzenia wynikających z wykonywanych jednocześnie uchwał o uchyleniu immunitetu. Równoczesne obniżenie wynagrodzenia Bogdana Święczkowskiego w trzech uchwałach o 50 proc. oznacza obniżenie wynagrodzenia o połowę - przekazał Trybunał Konstytucyjny.</description>
-      <pubDate>Fri, 20 Nov 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="false">f04d9e050cd0</guid>
-      <source url="https://www.bankier.pl/wiadomosc/Swieczkowski-straci-polowe-wynagrodzenia-a-nie-150-proc-TK-wydal-komunikat-9232859.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
+      <title>Jedna z największych zagadek matematyki rozwiązana? Naukowiec Anthropic twierdzi, że rozwiązał hipotezę Riemanna</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2a278d5afa69</link>
+      <description>Matematyk firmy Anthropic, Levent Alpöge, ogłosił w piątek na swojej stronie internetowej, że udowodnił jeden z najsłynniejszych problemów w matematyce - hipotezę Riemanna. Jest ona na liście tzw. problemów milenijnych. Matematyk korzystał z modelu sztucznej inteligencji.</description>
+      <pubDate>Sat, 21 Nov 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="false">2a278d5afa69</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Jedna-z-najwiekszych-zagadek-matematyki-rozwiazana-Naukowiec-Anthropic-twierdzi-ze-rozwiazal-hipoteze-Riemanna-9232918.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Kolejna runda negocjacji w sprawie wojny w Ukrainie.  Media o możliwej lokalizacji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/f49e2924f799</link>
-      <description>Kolejna runda negocjacji w sprawie wojny w Ukrainie odbędzie się najprawdopodobniej ponownie w Abu Zabi - podał niemiecki dziennik &quot;Frankfurter Allgemeine Zeitung&quot;. Jak napisał, do rozmów z Rosją przygotowują się Europejczycy.</description>
-      <pubDate>Fri, 20 Nov 2026 18:39:22 GMT</pubDate>
-      <guid isPermaLink="false">f49e2924f799</guid>
-      <source url="https://tvn24.pl/swiat/kolejna-runda-negocjacji-w-sprawie-wojny-w-ukrainie-odbedzie-sie-ponownie-w-abu-zabi-podaly-media-st9350061?source=rss">TVN24</source>
+      <title>Nowe przepisy już obowiązują. Za przejazd na czerwonym stracisz prawo jazdy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b0d0581aa2e8</link>
+      <description>Zgodnie z przepisami, które weszły w życie w sobotę, za wjazd na przejazd kolejowy na czerwonym świetle kierowca straci prawo jazdy na trzy miesiące; w przypadku skazania za katastrofę na przejeździe regulacja przewiduje co najmniej trzyletni obligatoryjny zakaz prowadzenia pojazdów.</description>
+      <pubDate>Sat, 21 Nov 2026 08:02:00 GMT</pubDate>
+      <guid isPermaLink="false">b0d0581aa2e8</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Nowe-przepisy-juz-obowiazuja-Za-przejazd-na-czerwonym-stracisz-prawo-jazdy-9232930.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Rosyjskie obiekty nad Polską i pytania o szczyt w Chinach. Paweł Szefernaker w „Sprawdzam!” w RMF FM</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/22df96202607</link>
-      <description>Czy rozmowy Donalda Trumpa, Władimira Putina i Xi Jinpinga w Chinach zmienią sytuację Ukrainy? Czy prezydent spotka się z szefem NATO w Warszawie? Co słowa amerykańskiego prezydenta, który nazwał Putina &quot;swoim przyjacielem&quot;, oznaczają dla bezpieczeństwa Polski? Czy Karol Nawrocki rozmawiał z Trumpem po chińskim szczycie? O to Krzysztof Ziemiec zapyta Pawła Szefernakera, szefa Gabinetu Prezydenta RP w programie „Sprawdzam!” w RMF FM.</description>
-      <pubDate>Fri, 20 Nov 2026 18:35:00 GMT</pubDate>
-      <guid isPermaLink="false">22df96202607</guid>
-      <source url="https://www.rmf24.pl/rozmowy/sprawdzam/news-rosyjskie-obiekty-nad-polska-i-pytania-o-szczyt-w-chinach-pa,nIdn,1027053">RMF24</source>
+      <title>The Legend of Zelda: Ocarina of Time to definicja remake&apos;u z prawdziwego zdarzenia</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/deb76e44db1c</link>
+      <description>The Legend of Zelda: Ocarina of Time to jedna z tych produkcji, których znaczenie dla całej branży trudno przecenić - do tego tygodnia była najlepiej ocenianą grą wszech czasów. Oryginał z 1998 roku na Nintendo 64 na lata wyznaczył kierunek rozwoju trójwymiarowych gier przygodowych.</description>
+      <pubDate>Sat, 21 Nov 2026 08:00:18 GMT</pubDate>
+      <guid isPermaLink="false">deb76e44db1c</guid>
+      <source url="https://antyweb.pl/the-legend-of-zelda-ocarina-of-time-to-definicja-remakeu-z-prawdziwego-zdarzenia">Antyweb</source>
     </item>
     <item>
-      <title>&quot;Trwa wielka operacja dezinformacyjna&quot;. Wojsko ostrzega i apeluje</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/eb4c809aaac0</link>
-      <description>Wiceminister obrony Cezary Tomczyk ostrzegł, że po piątkowym wlocie rosyjskich obiektów do Polski w sieci trwa zmasowana operacja dezinformacyjna. Wojsko apeluje do internautów, by nie rozpowszechniali fałszywych informacji.</description>
-      <pubDate>Fri, 20 Nov 2026 18:34:34 GMT</pubDate>
-      <guid isPermaLink="false">eb4c809aaac0</guid>
-      <source url="https://tvn24.pl/biznes/z-kraju/dezinformacja-po-naruszeniu-polskiej-przestrzeni-powietrznej-tomczyk-o-rosyjskich-botach-i-farmach-trolli-st9350021?source=rss">TVN24</source>
+      <title>To nie lenistwo ani brak chęci. Na czym polega ADHD?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/d2f236053ffa</link>
+      <description>Czym jest ADHD? Dr Kajetana Foryciarz wyjaśnia, jakie daje objawy, jak przebiega rzetelna diagnoza oraz jakie formy leczenia i wsparcia mogą pomóc.</description>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d2f236053ffa</guid>
+      <source url="https://www.rmf24.pl/fakty/polska/news-adhd-objawy-diagnoza-i-leczenie-co-warto-wiedziec,nIdn,1027018">RMF24</source>
     </item>
     <item>
-      <title>Super-hot rock geothermal could end data center energy woes</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/e39af07f160c</link>
-      <description>New geothermal startups are betting that they can leapfrog today&apos;s leaders to deliver terawatts of electricity nearly anywhere.</description>
-      <pubDate>Fri, 20 Nov 2026 18:34:00 GMT</pubDate>
-      <guid isPermaLink="false">e39af07f160c</guid>
-      <source url="https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/">TechCrunch</source>
+      <title>GTA VI pobiło rekord wszech czasów. Takiego wyniku nie osiągnął nawet Hollywood</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/054ec49e13fb</link>
+      <description>Grand Theft Auto VI pobiła sprzedażowy rekord wszechczasów na rynku gier komputerowych, osiągając  sprzedaż detaliczną na poziomie 3,79 mld dolarów w pierwszym dniu od premiery - ogłosił producent gry Rockstar Games. Gra pobiła rekordy hollywoodzkich produkcji.</description>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">054ec49e13fb</guid>
+      <source url="https://www.bankier.pl/wiadomosc/GTA-VI-pobila-rekord-wszech-czasow-Takiego-wyniku-nie-osiagnal-nawet-Hollywood-9232923.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Dziennikarz RMF FM Michał Dobrołowicz z nagrodą Skrzydła Prewencji</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/24e8ed996b9d</link>
-      <description>Cieszą nas takie Fakty! Reporter RMF FM Michał Dobrołowicz odebrał dziś nagrodę &quot;Skrzydła prewencji&quot; w czasie 19. edycji konferencji &quot;Kardiologia prewencyjna&quot;. To wydarzenie organizowane jest przez Asocjację Prewencji i Epidemiologii Polskiego Towarzystwa Kardiologicznego. Jest to wyróżnienie dla dziennikarzy, którzy przekazują sprawdzone informacje, jak zmniejszać ryzyko chorób serca i naczyń.</description>
-      <pubDate>Fri, 20 Nov 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="false">24e8ed996b9d</guid>
-      <source url="https://www.rmf24.pl/fakty/polska/news-dziennikarz-rmf-fm-michal-dobrolowicz-z-nagroda-skrzydla-pre,nIdn,1027052">RMF24</source>
+      <title>Koniec wieloletniej batalii Bayera? Sąd zatwierdził ugodę na 7,25 mld dolarów</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/b8f96503f87e</link>
+      <description>Niemiecki koncern farmaceutyczny, chemiczny i rolniczy Bayer wypłaci 7,25 mld dolarów w ramach ugody kończącej wieloletnie  spory sądowe o środek chwastobójczy Roundup.</description>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">b8f96503f87e</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Koniec-wieloletniej-batalii-Bayera-Sad-zatwierdzil-ugode-na-7-25-mld-dolarow-9232926.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Man guilty of murdering woman he groomed on fetish site</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/9e94db37c3c2</link>
-      <description>Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.</description>
-      <pubDate>Fri, 20 Nov 2026 18:17:56 GMT</pubDate>
-      <guid isPermaLink="false">9e94db37c3c2</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&amp;at_campaign=rss">BBC</source>
+      <title>Te produkty najbardziej podrożały w październiku. Co potaniało?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2579541c2d68</link>
+      <description>Październik przyniósł zmiany w cenach na sklepowych półkach. Największe podwyżki dotknęły słodyczy, warzyw i chemii gospodarczej, podczas gdy tłuszcze, dodatki spożywcze i nabiał potaniały – wynika z najnowszego raportu dotyczącego cen detalicznych w Polsce. Eksperci podkreślają, że dynamika zmian cen jest coraz bardziej zróżnicowana.</description>
+      <pubDate>Sat, 21 Nov 2026 07:47:00 GMT</pubDate>
+      <guid isPermaLink="false">2579541c2d68</guid>
+      <source url="https://www.rmf24.pl/fakty/ekonomia/news-te-produkty-najbardziej-podrozaly-w-pazdzierniku-co-potanial,nIdn,1027076">RMF24</source>
     </item>
     <item>
-      <title>Gemini przejmie kontrolę nad waszymi komputerami. Zrobi tam porządek</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/5e6796473832</link>
-      <description>Nie musisz już samodzielnie klikać. Gemini obsłuży aplikacje na Macu.</description>
-      <pubDate>Fri, 20 Nov 2026 18:15:18 GMT</pubDate>
-      <guid isPermaLink="false">5e6796473832</guid>
-      <source url="https://antyweb.pl/gemini-przejmie-kontrole-nad-waszymi-komputerami-zrobi-tam-porzadek">Antyweb</source>
+      <title>Zamówili samochody w PRL, nigdy ich nie dostali. Dziś należy im się rekompensata</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8acc8f7df065</link>
+      <description>W ewidencji pozostaje 238 niezrealizowanych przedpłat na samochody Fiat 126p oraz FSO 1500, a od 2023 r. nie wypłacono żadnej rekompensaty z tego tytułu - przekazał PAP resort finansów. W I kw. 2027 r. kwota rekompensaty za „malucha” wyniesie ponad 20 tys. zł, a za „dużego Fiata” - ponad 29 tys. zł.</description>
+      <pubDate>Sat, 21 Nov 2026 07:35:00 GMT</pubDate>
+      <guid isPermaLink="false">8acc8f7df065</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Zamowili-samochody-w-PRL-nigdy-ich-nie-dostali-Dzis-nalezy-im-sie-rekompensata-9232953.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Czy AI pomogła rozwiązać jedną z największych zagadek matematyki?</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/29c8781882a6</link>
-      <description>To może być przełom, na który świat matematyki czekał od 167 lat. Levent Alpöge, matematyk związany z firmą Anthropic ogłosił, że przy wsparciu sztucznej inteligencji udało mu się rozwiązać jedną z najważniejszych zagadek naukowych - dowieść hipotezy Riemanna. Czy to początek nowej ery w rozwiązywaniu wielkich problemów matematyki? - pyta &quot;New Scientist&quot;.</description>
-      <pubDate>Fri, 20 Nov 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="false">29c8781882a6</guid>
-      <source url="https://www.rmf24.pl/fakty/nauka/news-czy-ai-pomogla-rozwiazac-jedna-z-najwiekszych-zagadek-matema,nIdn,1027049">RMF24</source>
+      <title>Twój telefon Samsunga ma znacznie więcej przycisków, niż widać: tak je znajdziesz</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/2532e2cc1257</link>
+      <description>Smartfony Samsung Galaxy oferują znacznie więcej sposobów sterowania, niż mogłoby się wydawać na pierwszy rzut oka. Nie chodzi wyłącznie o fizyczne przyciski na obudowie. Dzięki kilku ustawieniom i darmowym modułom Good Lock można dodać kolejne skróty, ułatwić robienie zdjęć, a nawet rozbudować pasek nawigacyjny. Warto je znać, bo niektóre potrafią naprawdę przyspieszyć codzienne korzystanie z telefonu.</description>
+      <pubDate>Sat, 21 Nov 2026 07:30:27 GMT</pubDate>
+      <guid isPermaLink="false">2532e2cc1257</guid>
+      <source url="https://antyweb.pl/twoj-telefon-samsunga-ma-znacznie-wiecej-przyciskow-niz-widac-tak-je-znajdziesz">Antyweb</source>
     </item>
     <item>
-      <title>Tomczyk po rozmowach w Pentagonie: Polska chce wzmocnienia ochrony nieba</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/3f4457b008e2</link>
-      <description>Wiceminister obrony narodowej Cezary Tomczyk przekazał w Pentagonie szczegółowe informacje o wtargnięciu rosyjskich rakiet i drona do polskiej przestrzeni powietrznej. Jak relacjonował, amerykańscy rozmówcy pytali, jakiego wsparcia Polska potrzebuje w pierwszej kolejności. Warszawa ma zwrócić się do wojsk USA w Europie oraz sekretarza generalnego NATO o wzmocnienie operacji „Eastern Sentry”.</description>
-      <pubDate>Fri, 20 Nov 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="false">3f4457b008e2</guid>
-      <source url="https://www.rmf24.pl/fakty/swiat/news-tomczyk-po-rozmowach-w-pentagonie-polska-chce-wzmocnienia-oc,nIdn,1027046">RMF24</source>
+      <title>Większy niż w Londynie, ale czy legalny? Burza wokół ogromnej reklamy w sercu Warszawy</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/59ce2dd427b1</link>
+      <description>Na wniosek stołecznego ratusza Powiatowy Inspektorat Nadzoru Budowlanego dla m.st. Warszawy prowadzi postępowanie administracyjne w sprawie montażu ekranów LED na elewacji Domów Towarowych „Centrum” przy ul. Marszałkowskiej 104/122.</description>
+      <pubDate>Sat, 21 Nov 2026 07:30:00 GMT</pubDate>
+      <guid isPermaLink="false">59ce2dd427b1</guid>
+      <source url="https://www.bankier.pl/wiadomosc/Wiekszy-niz-w-Londynie-ale-czy-legalny-Burza-wokol-ogromnej-reklamy-w-sercu-Warszawy-9232950.html?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Wiadomosci">Bankier.pl</source>
     </item>
     <item>
-      <title>Drony czy rakiety? Najnowsze ustalenia po porannych incydentach</title>
-      <link>https://lolsoftware.github.io/4-news/#/article/dc0e47c79383</link>
-      <description>W Rudniku nad Sanem spadł prawdopodobnie dron - poinformowała wojewoda podkarpacka Teresa Kubas-Hul. Wcześniej informowano, że w miejscowości tej spadła prawdopodobnie rakieta Ch-101.</description>
-      <pubDate>Fri, 20 Nov 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="false">dc0e47c79383</guid>
-      <source url="https://www.rmf24.pl/regiony/rzeszow/news-drony-czy-rakiety-najnowsze-ustalenia-po-porannych-incydenta,nIdn,1027051">RMF24</source>
+      <title>Dlaczego router ma port DSL i co uniemożliwia podłączenie do niego kabla internetowego?</title>
+      <link>https://lolsoftware.github.io/4-news/#/article/8f8d11a1aa91</link>
+      <description>Na tylnym panelu wielu routerów można znaleźć kilka portów Ethernet, ale niektóre modele mają również osobne gniazdo oznaczone jako DSL. Choć na pierwszy rzut oka może przypominać wejście sieciowe, pełni zupełnie inną funkcję. Służy do podłączenia internetu dostarczanego przez tradycyjną linię telefoniczną, a nie do komunikacji z komputerem czy telewizorem.</description>
+      <pubDate>Sat, 21 Nov 2026 07:00:25 GMT</pubDate>
+      <guid isPermaLink="false">8f8d11a1aa91</guid>
+      <source url="https://antyweb.pl/dlaczego-router-ma-port-dsl-i-co-uniemozliwia-podlaczenie-do-niego-kabla-internetowego">Antyweb</source>
     </item>
   </channel>
 </rss>
