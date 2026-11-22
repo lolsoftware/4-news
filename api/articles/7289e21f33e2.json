@@ -1,0 +1,13 @@
+{
+  "id": "7289e21f33e2",
+  "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "originalTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "source": "TechCrunch",
+  "category": "Tech",
+  "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "publishedAt": "2026-11-21T21:37:10.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p> <p><time datetime=\"2026-11-21T13:37:10-08:00\">1:37 PM PST · November 21, 2026</time></p></div>\n</div> <div>\n<p id=\"speakable-summary\">Signal <a rel=\"nofollow\" href=\"https://signal.org/blog/protecting-your-privacy/\">announced Friday</a> that it’s limiting users’ ability to take screenshots within the secure messaging app&nbsp;— a response to what <a href=\"https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/\">President Meredith Whittaker</a> described as the “existential threat” of operating systems that integrate agentic AI.</p>\n\n<p>Whittaker wrote that by giving AI agents the ability to “scan” the information on users’ screens, Windows, Android, and macOS/iOS “are undermining Signal’s ability to independently guarantee privacy.”</p> <p>“Now, in service of AI agentic capabilities, your sensitive data is being captured, stored, and made accessible to whatever local database or remote server an OS-level AI agent is using at that moment,” she said. “All of this is outside of Signal’s control once the data has been captured, and imperils the privacy of all the participants in a conversation.”</p>\n\n<p>Signal already sought to limit these risks by blocking screenshots of its Windows app by default. Now it’s adding similar restrictions in Android and iOS.</p>\n\n<p>That said, users can disable this setting if they wish, which Whittaker said would “break our privacy guarantees.” She also admitted this is an “incomplete” solution, as it doesn’t “address other more sneaky ways AI agents could potentially access application data.”</p>\n</div> </div><div><div>\n\t<div> <div> <h3>Newsletters</h3> </div> <p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\"> </form> </div> <div>\n\n<h2>Related</h2> </div> <p>\n<h2 id=\"h-latest-in\">Latest in Apps</h2>\n</p> </div></div>",
+  "image": "images/944e24ec8634.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}

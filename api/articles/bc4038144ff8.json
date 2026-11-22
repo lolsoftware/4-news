@@ -1,0 +1,13 @@
+{
+  "id": "bc4038144ff8",
+  "title": "Windows 11 pożegna jeden z najbardziej irytujących błędów audio",
+  "originalTitle": "Windows 11 pożegna jeden z najbardziej irytujących błędów audio",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/windows-11-pozegna-jeden-z-najbardziej-irytujacych-bledow-audio",
+  "publishedAt": "2026-11-22T10:00:56.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Windows 11 jest pełen dziur i problemów. Co jakiś czas Microsoft naprawia kilka z nich. Teraz padło na irytujące zachowanie audio. W końcu pojawi się opcja, by nie przełączała się jakość dźwięku w trakcie pracy mikrofonu.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Jeżeli często słuchacie muzyki i korzystacie z internetowych komunikatorów głosowych, to pewnie jesteście świadomi tego, że czasem muzyka zacznie brzmieć, jakby ktoś włożył wam słuchawki do wiadra z wodą albo podczas wideokonferencji głos współpracownika zamienia się w telefon z lat 90. Nie jest to wina twoich drogich słuchawek. To jeden z najbardziej irytujących błędów Windowsa, z którym mierzymy się od lat. I wreszcie jest na to rozwiązanie.</p> <p>Problem dotyczył wszystkich wersji systemu, począwszy od Windows 7 przez Windows 10 aż po Windows 11. Gdy tylko jakaś aplikacja zaczynała korzystać z mikrofonu, system przełączał słuchawki Bluetooth z profilu A2DP (wysokiej jakości dźwięk stereo) na profil Hands-Free (HFP), zaprojektowany głównie do rozmów. To sprawiało, że pojawiało się nagłe, zauważalne pogorszenie jakości dźwięku na cały czas aktywności mikrofonu. Słuchawki za kilkaset złotych brzmiały jak tanie zestawy słuchawkowe sprzed dwóch dekad.</p> <p>Teraz Microsoft wziął się za naprawę tego stanu rzeczy. W najnowszej kompilacji testowej Windows 11 Insider pojawiła się opcja, która pozwala odtwarzać dźwięk w pełnym stereo 48 kHz nawet przy włączonym mikrofonie. W ustawieniach dźwięku znajdziemy nową pozycję: „2 kanały, 16 bitów, 48000 Hz” jako format wyjściowy przy aktywnym mikrofonie. Wystarczy ją wybrać, by cieszyć się pełną jakością dźwięku podczas rozmów, gier czy wpisywania głosem. Nowość trafi najpierw do testerów z programu Insider, a według zapowiedzi ma pojawić się na wszystkich obsługiwanych komputerach do marca 2027 roku.</p> <p>Niestety, jest jeden haczyk. Nowe ustawienie nie zadziała ze wszystkimi słuchawkami. Potrzebny jest sprzęt obsługujący Bluetooth LE Audio oraz odtwarzanie 48 kHz, a komputer musi wspierać Super Wideband Stereo.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/f4bfc7c77afc.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
