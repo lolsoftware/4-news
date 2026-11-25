@@ -1,0 +1,13 @@
+{
+  "id": "6a53219e0430",
+  "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+  "originalTitle": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+  "source": "Ars Technica",
+  "category": "Tech",
+  "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+  "publishedAt": "2026-11-24T22:36:28.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div> <p><a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/author/amanda-silver/\">Amanda Silver</a>, a corporate vice president overseeing Microsoft 365 Core and Work IQ, wrote that engineers had to contend with a “fog of war” as the outage unfolded. According to Silver, responders exchanged more than 11,000 messages across 11 Teams chats, leaving diagnostic data scattered, and a full view of the incident fractured. Silver’s memo also quotes Charles Lamanna, executive vice president of Copilot, Agents and Platform, telling a Code Red review that the affected component had accumulated “roughly ten years’ worth of acceptable failures.”</p>\n<p>Microsoft has said the outage was not related to any cyberattack or malicious activity, and the defects were not caused by AI tooling.&nbsp; As part of the Code Red overhaul, Silver’s memo outlines five workstreams focused on load shedding, geographic traffic partitioning, and faster recovery mechanisms. According to Reuters, Microsoft plans to improve its incident response and patching timelines by deploying its own AI agents to help engineers diagnose system health data more quickly. Henderson said that he will hold daily meetings with the Substrate leadership team, which oversees the engineering team responsible for Microsoft 365 services.</p>\n<p>Microsoft has set targets of one-hour worldwide resolution in major incidents and a one-hour deployment window for urgent security fixes. It hasn’t said when it hopes to meet them, or how future response efforts will avoid 11 separate Teams chats and the “fog of war.”</p> </div></div>",
+  "image": "images/fc68541253b6.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
