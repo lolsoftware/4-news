@@ -1,0 +1,13 @@
+{
+  "id": "71aad5d27459",
+  "title": "Koniec dominacji Chrome’a, Firefoksa i ich klonów. Pojawia się nowa przeglądarka z własny silnikiem",
+  "originalTitle": "Koniec dominacji Chrome’a, Firefoksa i ich klonów. Pojawia się nowa przeglądarka z własny silnikiem",
+  "source": "Antyweb",
+  "category": "Tech",
+  "url": "https://antyweb.pl/koniec-dominacji-chromea-firefoksa-i-ich-klonow-pojawia-sie-nowa-przegladarka-z-wlasny-silnikiem",
+  "publishedAt": "2026-11-26T08:30:14.000Z",
+  "content": "<div id=\"readability-page-1\" class=\"page\"><div data-v-0e81b5a5=\"\"> <p data-v-0e81b5a5=\"\">Zmęczony jesteś Chromem, Firefoksem i ich klonami? Na rynku pojawiła się nowa przeglądarka, która chce utrzymać niezależność od gigantów technologicznych.</p> <!----> <!----> </div><div data-v-0e81b5a5=\"\"><p>Rynek przeglądarek przypomina czasem bardzo krótkie menu w restauracji. Mamy polecanego przez szefa kuchni Chrome'a, drugie danie w postaci Firefoksa, wegańską alternatywę Safari i jakieś małe przystawki pokroju Brave'a, Opery i innych. Większość z nich korzysta jak Chrome z silnika Blink. Safari działa na WebKit, a Firefox korzysta z Gecko. &nbsp;Dla użytkownika wybór niby jest duży, ale technologicznie wciąż poruszamy się wokół trzech filarów. Teraz do gry chce wejść ktoś, kto stawia na czwartą drogę: Ladybird.</p> <p>Ladybird to niezależna, open-source’owa przeglądarka, która nie bazuje na Chromium. To ważne, bo dziś wiele „nowych” przeglądarek to w praktyce klony tego samego rozwiązania. Ladybird rozwija własne jądro renderowania, własny silnik JavaScriptu i własne komponenty potrzebne do obsługi standardów sieciowych. Pierwsza wersja alfa ukazała się 23 listopada i jest dostępna na systemach macOS oraz Linux.</p> <p>Historia projektu jest ciekawa. Ladybird początkowo powstawała jako część systemu operacyjnego SerenityOS, za którym stoi szwedzki programista Andreas Kling. Z czasem projekt rozrósł się na tyle, że w czerwcu 2024 roku rozpoczęto jego samodzielny rozwój. W lipcu tego samego roku powstała organizacja non-profit Ladybird Browser Initiative, która ma zapewniać finansowanie i dalszy rozwój. Jej celem jest utrzymanie niezależności od wielkich firm technologicznych.</p> <p>Ladybird nie chce być kolejnym opakowaniem na Chromium, ale alternatywą technologiczną. Początkowo projekt rozwijano głównie w C++. Od 2026 roku część komponentów ma być stopniowo przenoszona do Rusta, który lepiej chroni przed błędami związanymi z zarządzaniem pamięcią. C++ pozostanie jednak obecny w projekcie.</p> <p>Grafika: <a href=\"http://depositphotos.com/\">depositphotos.com</a></p></div></div>",
+  "image": "images/975af24d834a.webp",
+  "readingTimeMin": 1,
+  "titleStatus": "skipped"
+}
