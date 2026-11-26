@@ -57,3 +57,8 @@ GitHub Actions workflow (`.github/workflows/process.yml`) runs every 4 hours on 
 - AI-rewritten titles get a `(#)` badge in the frontend
 - The pipeline is idempotent — it merges new articles with existing output, so partial reruns are safe
 - Image caching is content-addressed (SHA256 of URL → filename), avoiding re-downloads
+
+## Troubleshooting
+
+- A failed feed fetch only logs `Failed to fetch <source>: ...` and the pipeline continues, so a source can silently disappear. When a source stops showing up, grep the CI log: `gh run view <id> --log | grep -A1 "Fetching: <name>"`.
+- Some sites block GitHub Actions (datacenter) IPs while working fine locally, so a local `curl` 200 proves nothing. Example: `news.ycombinator.com/rss` returns HTTP 419 to runners regardless of User-Agent (since at least Nov 2026), so Hacker News is fetched via the `hnrss.org/frontpage` mirror. Fallback if that gets blocked too: the official API at `hacker-news.firebaseio.com` (needs custom code, not RSS).

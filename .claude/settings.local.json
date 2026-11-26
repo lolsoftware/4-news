@@ -44,7 +44,16 @@
       "Bash(node -c src/rewrite-titles.js)",
       "Bash(node -c src/generate-site.js)",
       "Bash(node -c src/fetch-feeds.js)",
-      "Bash(node -c src/extract-article.js)"
+      "Bash(node -c src/extract-article.js)",
+      "Bash(curl -s https://lolsoftware.github.io/4-news/api/articles.json -o /tmp/articles.json)",
+      "Read(//tmp/**)",
+      "Bash(curl -s \"https://lolsoftware.github.io/4-news/api/articles.json\" -o d:/4-news/output/_check_articles.json)",
+      "Bash(curl -s \"https://www.rynekzdrowia.pl/Kanal/all.xml\" -o d:/4-news/output/_rz_feed.xml)",
+      "Bash(curl -sI \"https://www.rynekzdrowia.pl/Polityka-zdrowotna/Chrupiacy-lek-na-otylosc-30-g-dziennie-wystarczy,283428,14.html\")",
+      "Bash(curl -s \"https://www.rynekzdrowia.pl/Polityka-zdrowotna/Chrupiacy-lek-na-otylosc-30-g-dziennie-wystarczy,283428,14.html\")",
+      "Bash(curl -sI \"https://lolsoftware.github.io/4-news/api/articles/\")",
+      "Bash(curl -sI \"https://lolsoftware.github.io/4-news/api/articles/86c74ae5efb8.json\")",
+      "Bash(curl *)"
     ]
   }
 }
