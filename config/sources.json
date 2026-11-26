@@ -48,7 +48,7 @@
     {
       "id": "hackernews",
       "name": "Hacker News",
-      "url": "https://news.ycombinator.com/rss",
+      "url": "https://hnrss.org/frontpage?count=30",
       "enabled": true,
       "category": "Tech",
       "lang": "en",
